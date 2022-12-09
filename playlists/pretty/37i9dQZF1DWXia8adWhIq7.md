@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Tamara Pyller
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,411 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,461 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 38 | [Só o Começo](https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Gustavo Barrinovo](https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL) | [Só o Começo](https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO) | 4:44 |
 | 39 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 |
 | 40 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 |
-| 41 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 |
-| 42 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
+| 41 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
+| 42 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 |
 | 43 | [Agora](https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Agora](https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn) | 3:16 |
 | 44 | [Te Vejo Lá](https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Por Completo](https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx) | 3:32 |
 | 45 | [Amor Leal](https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN) | [Lari Macário](https://open.spotify.com/artist/5AdvNG5bNSx9lKOj7Tj5ck), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Dani Aguiar](https://open.spotify.com/artist/774uYXQYFkSEs4TvjM2lZA) | [Amor Leal](https://open.spotify.com/album/2XNWrlxoCDchGediXzLTRd) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 | 80 | [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 |
 
-Snapshot ID: `MTY2NTcyNjgxOSwwMDAwMDAwMGI5MzI1NDNhZTQ0MzQ1NzYzYzY1ZWM5N2RhZWViODBm`
+Snapshot ID: `MTY2NTcyNjgxOSwwMDAwMDAwMDAzYzBmZGI4NDBiMzFhMzdmMmI1YjIyZGM4ZjQ4NGQy`

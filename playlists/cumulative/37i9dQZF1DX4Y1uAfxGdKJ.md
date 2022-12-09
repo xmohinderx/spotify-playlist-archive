@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-102 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
+106 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Beautiful Symmetry](https://open.spotify.com/track/5MaIAkTbRIDxH1Eit4WTwM) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Beautiful Symmetry / Inner Life](https://open.spotify.com/album/7KDwizgKEqbPomuX6ICql1) | 4:41 | 2022-09-23 |  |
 | [Bells of Home](https://open.spotify.com/track/1m826VTZiW3BmevRJEfuh8) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [Bells of Home](https://open.spotify.com/album/0r9SeqcahpJNnBgFtrAhcq) | 2:57 | 2022-11-25 |  |
 | [Beyond](https://open.spotify.com/track/79cOXogBTBDiF91jhr9ih6) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [Beyond](https://open.spotify.com/album/4xbkWiqzlcupDVAWbGb0RA) | 2:40 | 2022-10-28 |  |
+| [Blanket](https://open.spotify.com/track/5OpS0HoEEV6N54WiSH0ibt) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Blanket](https://open.spotify.com/album/5xMmziIduhAQBO3Xzpx4ns) | 2:27 | 2022-12-09 |  |
 | [Bloom](https://open.spotify.com/track/18giPJITeabMO6IB2pp45x) | [Wilborn](https://open.spotify.com/artist/73bYcf4jRS1co8vAERIbJW) | [Bloom](https://open.spotify.com/album/2OtEMRK0aS7xrnrrLtr44T) | 4:20 | 2022-09-23 |  |
 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 | 2022-09-23 |  |
 | [Border](https://open.spotify.com/track/4loHyp6Rhk3aOgdXz1n8Y0) | [8TYL](https://open.spotify.com/artist/0lW3Li71IqwPWQFYBuwVmQ) | [Border](https://open.spotify.com/album/2SQpSGWdyhaTHpTWB7wz84) | 6:02 | 2022-09-23 |  |
@@ -35,6 +36,7 @@
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-28 |  |
 | [DoNe WIth U](https://open.spotify.com/track/0eLSVeBu5fdxT4W0k316OK) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [DoNe WIth U](https://open.spotify.com/album/2KBV2mmv8BboYNMIm2H6nl) | 3:19 | 2022-09-23 |  |
 | [Dreamscape](https://open.spotify.com/track/6YHhIKNyqtWN0jHqvsrf10) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Dreamscape](https://open.spotify.com/album/0zZCLYy5ZUvqgFUfp9LcVd) | 2:27 | 2022-09-23 |  |
+| [Drift](https://open.spotify.com/track/2fJwyJQ9h6qEBHJVcqZuPr) | [Lazy Driver](https://open.spotify.com/artist/0jG3gNHWXpfK1iGHLWKVKm) | [Drift](https://open.spotify.com/album/4JgPHkbu2r3lGQR9cXZ4UO) | 3:58 | 2022-12-09 |  |
 | [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2022-09-23 |  |
 | [Elixir](https://open.spotify.com/track/7hxkOhoWSxygCa4Akt3KjX) | [Kvantmusik](https://open.spotify.com/artist/1OTTWlOMCUlQRk3ie2D7xw) | [Elixir](https://open.spotify.com/album/4G1dHoGKyp4fk6XdSB9SSe) | 2:41 | 2022-09-23 |  |
 | [Eridani](https://open.spotify.com/track/5QkMlAxHmZG33OGA81oWSa) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Eridani](https://open.spotify.com/album/6UVuoIa23nsZimsHnTFzxZ) | 3:48 | 2022-09-23 |  |
@@ -54,6 +56,7 @@
 | [Half\-Light](https://open.spotify.com/track/3VGEC6MUbZTRjg93etNpw8) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Half\-Light](https://open.spotify.com/album/1OOB3nQBqEh34J0J1Ekbn2) | 2:47 | 2022-09-23 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-09-23 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-09-23 |  |
+| [I Promise You](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [I Promise You](https://open.spotify.com/album/3IKrjcrhhF9KVVyhLR9uiI) | 2:13 | 2022-12-09 |  |
 | [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 | 2022-09-23 |  |
 | [Inner Light](https://open.spotify.com/track/2ohFbsoB7uVvTTgCk7aWY3) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Inner Light](https://open.spotify.com/album/0kyY8NnooE5jHa3TBB2Dd9) | 3:57 | 2022-09-23 |  |
 | [Landmarks](https://open.spotify.com/track/0p4zxScTH4QBPnDdIeInfB) | [Aural](https://open.spotify.com/artist/4IagxrvnhCy4YV29Qjqc8o) | [Landmarks](https://open.spotify.com/album/1Fe00jswSTGhfYMKDktS28) | 5:06 | 2022-09-23 |  |
@@ -97,6 +100,7 @@
 | [Something in the Water](https://open.spotify.com/track/4mDWO0QP4kZ37nHonhCHtd) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Rise Together](https://open.spotify.com/album/6v5H9zuekGF6sK9iDOd6vZ) | 3:19 | 2022-09-23 |  |
 | [Strando](https://open.spotify.com/track/5w7VoQPLh12DPLASLcd4ew) | [Pablo Funke](https://open.spotify.com/artist/2XsRJTf7BZQTrb3BumlhHm) | [Strando](https://open.spotify.com/album/00RDUWlShtyBYbZvdpB89W) | 2:57 | 2022-09-23 |  |
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-09-23 |  |
+| [Tempted](https://open.spotify.com/track/6hiA6WO0DRm9D480BIGqOT) | [Summon U](https://open.spotify.com/artist/0TyHSpKbAEP2QoXB7jVxCE) | [Technically Sane](https://open.spotify.com/album/3zVigb4My48jZIPLWVDiRW) | 2:55 | 2022-12-09 |  |
 | [The Eclipse](https://open.spotify.com/track/71wKe7nLKqkaq3JYAFEdna) | [Svalka](https://open.spotify.com/artist/3sKxosk24x3adgfDCvOBCr) | [The Eclipse](https://open.spotify.com/album/12mh93J0d59nHpqkWUEeqJ) | 2:34 | 2022-09-23 |  |
 | [The Life of an Empath](https://open.spotify.com/track/6SKHpIBF0zImsmqmRkgvwp) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:26 | 2022-09-23 |  |
 | [Type 1](https://open.spotify.com/track/2Z515QtI12xintnkboGQZw) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Type 1](https://open.spotify.com/album/7w6fHYrIaKbqXDN96dbEJf) | 3:47 | 2022-11-25 |  |

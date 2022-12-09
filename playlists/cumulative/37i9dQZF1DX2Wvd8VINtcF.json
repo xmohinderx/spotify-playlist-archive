@@ -68,6 +68,24 @@
     },
     {
       "album": {
+        "name": "25 de Diciembre",
+        "url": "https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178144,
+      "name": "25 de Diciembre",
+      "url": "https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW"
+    },
+    {
+      "album": {
         "name": "6am",
         "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
       },
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 194491,
       "name": "Bittersweet (with DEEGAN)",
       "url": "https://open.spotify.com/track/0jpwWmYZqBz6lBQbT4LRoI"
@@ -417,6 +435,24 @@
       "duration_ms": 187428,
       "name": "Bittersweet Goodbyes",
       "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
+    },
+    {
+      "album": {
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/5sz76UGFRuVaZ1HRzqq5lm"
+      },
+      "artists": [
+        {
+          "name": "IOVA",
+          "url": "https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157463,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/6BjfERCULw4fyP9MGyer9q"
     },
     {
       "album": {
@@ -497,7 +533,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 165685,
       "name": "Bounds (Mhmm)",
       "url": "https://open.spotify.com/track/0FluRpeiZg41lLclRtWQwc"
@@ -696,6 +732,50 @@
     },
     {
       "album": {
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166720,
+      "name": "Coast (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+    },
+    {
+      "album": {
+        "name": "Concentrate (feat. Dua Saleh)",
+        "url": "https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134060,
+      "name": "Concentrate (feat. Dua Saleh)",
+      "url": "https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E"
+    },
+    {
+      "album": {
         "name": "cool (Remix Edition)",
         "url": "https://open.spotify.com/album/1w4ePmEnMSHnktzcwBhqaR"
       },
@@ -715,6 +795,28 @@
       "duration_ms": 194423,
       "name": "cool - G\u00f6khan Sivri\u200b Remix",
       "url": "https://open.spotify.com/track/5xbgT1sqx35SryjuTx64sS"
+    },
+    {
+      "album": {
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "album": {
@@ -835,7 +937,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 374561,
       "name": "Defender",
       "url": "https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn"
@@ -919,7 +1021,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 128853,
       "name": "Do you miss me?",
       "url": "https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL"
@@ -1220,6 +1322,28 @@
     },
     {
       "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136477,
+      "name": "FORWARD",
+      "url": "https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/0ExkjkPI4kporeZqtE2apP"
       },
@@ -1275,7 +1399,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 140576,
       "name": "Give It All You Can",
       "url": "https://open.spotify.com/track/3NP1dSJQ9xZJ0VYBMlu3AE"
@@ -1475,6 +1599,24 @@
       "duration_ms": 166615,
       "name": "Hiroshima",
       "url": "https://open.spotify.com/track/6FOcmhnINLjPcsMbbwUzVA"
+    },
+    {
+      "album": {
+        "name": "Holograms",
+        "url": "https://open.spotify.com/album/6TkBfw7hE2NCyHHidoqK0M"
+      },
+      "artists": [
+        {
+          "name": "Ouse",
+          "url": "https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143611,
+      "name": "Holograms",
+      "url": "https://open.spotify.com/track/4pVudhub5wGBFAGp8nxtXz"
     },
     {
       "album": {
@@ -1710,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "Keep It Tucked",
+        "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173576,
+      "name": "Keep It Tucked",
+      "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3SN6fq9qGjFNU49BS3MKgz"
       },
@@ -1721,7 +1881,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161053,
       "name": "Keep Me Honest",
       "url": "https://open.spotify.com/track/40OxWUSXZAxMAaL6BHxXt6"
@@ -1819,6 +1979,28 @@
       "duration_ms": 149497,
       "name": "La \u00danica - Sprite Limelight",
       "url": "https://open.spotify.com/track/1VAYxguLGwy4NpnLMSh8R9"
+    },
+    {
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Mendiola",
+          "url": "https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO"
+        },
+        {
+          "name": "Ted Fresco",
+          "url": "https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165793,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i"
     },
     {
       "album": {
@@ -2217,7 +2399,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
@@ -2257,7 +2439,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 264053,
       "name": "No pasa nada",
       "url": "https://open.spotify.com/track/0oVWbi1hUJqpRCWF8ybG6g"
@@ -2608,6 +2790,24 @@
     },
     {
       "album": {
+        "name": "When It\u2019s Just You & I (Deluxe)",
+        "url": "https://open.spotify.com/album/3PwAOzAYLoiPzV25m7SySG"
+      },
+      "artists": [
+        {
+          "name": "The Millennial Club",
+          "url": "https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280555,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/58WhOXsfNBUNfwPs5Tlcbw"
+    },
+    {
+      "album": {
         "name": "Rats",
         "url": "https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY"
       },
@@ -2655,7 +2855,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 236423,
       "name": "replay!",
       "url": "https://open.spotify.com/track/4Gaj3WUWbUnGKCXaF1s5ET"
@@ -3093,7 +3293,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 199669,
       "name": "spend the money (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
@@ -3289,7 +3489,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 90653,
       "name": "supernova",
       "url": "https://open.spotify.com/track/270BRCqU0rVqTrh72GuoNu"
@@ -3473,7 +3673,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 333150,
       "name": "Tongo Barra",
       "url": "https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg"
@@ -3744,6 +3944,24 @@
     },
     {
       "album": {
+        "name": "Welcome To My Island",
+        "url": "https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233278,
+      "name": "Welcome To My Island",
+      "url": "https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud"
+    },
+    {
+      "album": {
         "name": "What They Call Us",
         "url": "https://open.spotify.com/album/67rERGR5WbUsR5baHR8wIR"
       },
@@ -3849,6 +4067,24 @@
       "duration_ms": 123552,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/4GWO4LeUE6fc4V5WVQ2MhQ"
+    },
+    {
+      "album": {
+        "name": "YOU.",
+        "url": "https://open.spotify.com/album/5rx3OLeBZfAIJ8ddxk4Lib"
+      },
+      "artists": [
+        {
+          "name": "Mamadou.",
+          "url": "https://open.spotify.com/artist/2qlAceDoD1gfvRyVa7p5bK"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "YOU.",
+      "url": "https://open.spotify.com/track/4WcrK8lbJIuo3vBTlUZ8o4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,073 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,358 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 47 | [The Last Time \- Mono Version](https://open.spotify.com/track/7foiOmd1Je7Z0D3TaZCDro) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:41 |
 | 48 | [Let It Bleed](https://open.spotify.com/track/06FcMPcosZg13x2QODDDK6) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 5:27 |
 | 49 | [Like A Rolling Stone \- Edit](https://open.spotify.com/track/7JPQnsEfbXDNf1fo4djmZF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Box Set \(1971\-2006\) \[Sampler\]](https://open.spotify.com/album/6In2W0PN0sp3DjhjmbRuQ5) | 4:21 |
-| 50 | [Little Red Rooster \- Mono Version](https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones, Now!](https://open.spotify.com/album/592dKHbXtiglWyt8AEet23) | 3:05 |
+| 50 | [Happy \- Live](https://open.spotify.com/track/2MGEoTLpKfCQ9v7V3Jr7Vz) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Happy \(Live\)](https://open.spotify.com/album/48gYTonBHApTBlLkJ6fsPL) | 4:08 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDBkZDlhZWY0ODMxMjk2YTM3ZWUwMDM0YjM5NzEyZmVkZg==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBkYzQ4NGRkNjllYjA4YTEwNTM3YmJlYzg2ZjQ4N2QyZQ==`

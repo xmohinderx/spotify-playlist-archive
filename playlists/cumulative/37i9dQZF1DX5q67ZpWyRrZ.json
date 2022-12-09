@@ -1208,6 +1208,32 @@
     },
     {
       "album": {
+        "name": "Ik Tu Hi (No-Mabe)",
+        "url": "https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196060,
+      "name": "Ik Tu Hi (No-Mabe)",
+      "url": "https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf"
+    },
+    {
+      "album": {
         "name": "Intezaar",
         "url": "https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt"
       },
@@ -2089,7 +2115,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 198303,
       "name": "Muskan",
       "url": "https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i"

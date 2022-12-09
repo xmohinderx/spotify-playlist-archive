@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Feid, Arcangel & Bad Bunny, Quevedo, Villano Antillano, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,255 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,400 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 |
-| 2 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
+| 2 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
 | 3 | [Miami](https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 2:54 |
 | 4 | [El Pan De Estefanía](https://open.spotify.com/track/16FefzVT7e93dO2CWeuOFW) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 1:49 |
 | 5 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 |
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 46 | [Persona Favorita \- Con Conociendo Rusia](https://open.spotify.com/track/2JUBD5FZNzrDL3CrKrNLFj) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Persona Favorita \(Con Conociendo Rusia\)](https://open.spotify.com/album/3ovSKOWTphrsf5fktMB1Zn) | 4:00 |
 | 47 | [Hasta Mañana](https://open.spotify.com/track/6EXT5R2CmA4KbXVEbw24og) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [todo va a estar bien :\)](https://open.spotify.com/album/28vgZhRk1d58NrJXERHMQz) | 3:49 |
 | 48 | [Hay Luz](https://open.spotify.com/track/1IPy4M3YhziYHf8dKyHROF) | [The Crab Apples](https://open.spotify.com/artist/6u98K0jUUoIvIG5mPXRIWZ), [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Hay Luz](https://open.spotify.com/album/2v74yMXQ1ToM48F6fMIHyt) | 3:40 |
-| 49 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK), [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 |
+| 49 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 |
 
 Snapshot ID: `MTY3MDM0MTk3MCwwMDAwMDAwMDFjNDkwZjg0MGVjODI4OTVmOGEwMTRiMGI4YWIxODc5`

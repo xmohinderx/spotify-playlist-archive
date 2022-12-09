@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Moonshine
 
-140 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+141 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bayuma Bavida Kala \(feat\. Innoss B\)](https://open.spotify.com/track/7ns8gWGNO1vbNF2r7wDPEH) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 4:13 | 2022-06-30 |  |
 | [Baza Ba Skivere](https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7) | [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11) | [Bana Zamba](https://open.spotify.com/album/6fsvoJxNacQJtGVjCOjzRG) | 3:26 | 2022-06-30 |  |
 | [BIBAMBA](https://open.spotify.com/track/1UDwSY58I4znIJZUPVcKWI) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6AzZj4gXROdfqsqBXjubKW) | 3:02 | 2022-11-18 | 2022-11-20 |
-| [BIBAMBA](https://open.spotify.com/track/1qJu5qWynObxyKSMGh0xM0) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6fNqw6OqnYexbBes93iK5n) | 3:02 | 2022-11-18 |  |
+| [BIBAMBA](https://open.spotify.com/track/1qJu5qWynObxyKSMGh0xM0) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6fNqw6OqnYexbBes93iK5n) | 3:02 | 2022-11-18 | 2022-12-09 |
 | [Bloqué](https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Bloqué](https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8) | 3:18 | 2022-08-05 |  |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2022-06-30 |  |
 | [Bomaye](https://open.spotify.com/track/3CEFVlSmv5KRooqXoKSPWS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/2oz2hClmby2iAj7iWulReI) | 2:24 | 2022-10-21 |  |
@@ -88,6 +88,7 @@
 | [Mon doudou](https://open.spotify.com/track/4LQhEWxaUSigESJetoNx2E) | [Ewing sima](https://open.spotify.com/artist/4Nc9sa3ZUT4b8Cp4YQKkjj) | [Mon doudou](https://open.spotify.com/album/4jokcX7kQNiaUmr09KH6nH) | 3:09 | 2022-06-30 | 2022-08-06 |
 | [Motema](https://open.spotify.com/track/6VWkqhuIWghoye62r47cpn) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Erratum \(Deluxe Edition\)](https://open.spotify.com/album/12bDmtxnWnTnZxNF8kpvac) | 2:55 | 2022-06-30 |  |
 | [Motivation](https://open.spotify.com/track/4i4VJqautuPs4c8WlgdQzz) | [Mc\-cool Anguzo](https://open.spotify.com/artist/70mPeHdPgAIeOYhjL8xtBr) | [Motivation](https://open.spotify.com/album/48fSfulmRvtuVOKZXn6a8F) | 4:02 | 2022-10-07 |  |
+| [MOTO YA 2 FOIS TE](https://open.spotify.com/track/0ItpulUvbfHp5BUhWRWHku) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOTO YA 2 FOIS TE](https://open.spotify.com/album/0X1gWuPzMfMrAJQQctSGjW) | 3:43 | 2022-12-08 |  |
 | [Mukila](https://open.spotify.com/track/76Z253AF0PcCEOFbBy3TeS) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Mukila](https://open.spotify.com/album/77JAOcjSdDRaB5PW1j0zDM) | 3:02 | 2022-06-30 | 2022-07-09 |
 | [Muselu](https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Dj Izzo](https://open.spotify.com/artist/11blWfNKSduuXQUmpMIve5) | [Muselu](https://open.spotify.com/album/3c6N0JVOcFLrMMhFQOPoj3) | 3:28 | 2022-09-16 |  |
 | [Mutu Ebeba](https://open.spotify.com/track/2GAA7jWcNgb0mMIZ4Zb3r1) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [Mutu EBEBA](https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo) | 4:31 | 2022-08-19 |  |

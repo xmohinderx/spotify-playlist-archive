@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,837 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,834 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 74 | [Moonwalking in Calabasas \(feat\. Blueface\) \- Remix](https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Moonwalking in Calabasas \(feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/1z02WpEdAuImwfySk43owY) | 2:50 |
 | 75 | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/track/2vl0D1b0M6UHlD1Fjh5j1m) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/album/6KlDmO6ziOvGd42w7Abt3a) | 2:45 |
 | 76 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 |
-| 77 | [Paraocchi](https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:36 |
+| 77 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 | 78 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
-| 79 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
+| 79 | [Paraocchi](https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:36 |
 | 80 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 |
 
-Snapshot ID: `MTY2ODAwNTYyNywwMDAwMDAwMGNhY2Q3NjQxNzVhMjM0ODdkYTdhZGJmMjljZTMxMDhi`
+Snapshot ID: `MTY2ODAwNTYyNywwMDAwMDAwMGY0ZjZlYjY0ZGYyNzM3N2E1NWVhMGJhNjY5ODNiZjg2`

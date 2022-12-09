@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2536,
+  "num_followers": 2538,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMDkxZWEzNzYxOGZiYWUwZjY0MWU0MjJlYTc4MzYwZjQ4",
+  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMDg5ZjY2YWExYzZkZTlkYzY3NmExZmNiNWE5OGIwOWU4",
   "tracks": [
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "Show Me The Money 9 Semi Final",
+        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
+      },
+      "artists": [
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Queen WA$ABII",
+          "url": "https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "Dingo X DAMOIM Pt. 4",
         "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 231182,
       "name": "COMPASS (Feat. Chin)",
       "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "Show Me The Money 9 Semi Final",
-        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
-      },
-      "artists": [
-        {
-          "name": "Mirani",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Queen WA$ABII",
-          "url": "https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
     },
     {
       "added_at": "2022-11-03 09:17:29",

@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: The Wolfe Brothers
 
-265 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+267 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 | 2021-12-30 | 2022-04-01 |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-30 | 2022-06-10 |
 | [Blow Our Cover](https://open.spotify.com/track/67hXpN0LZxZgQN2bS12mRf) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Blow Our Cover](https://open.spotify.com/album/5diAiYQd0LqFslr6jxEhWj) | 2:48 | 2022-09-15 |  |
-| [Blue Guitar](https://open.spotify.com/track/6Ckb5FMJHjZh2dFFyfn4RP) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Blue Guitar](https://open.spotify.com/album/7p8eJUdGjDoKuwDNGAu1Wn) | 3:30 | 2022-08-05 |  |
+| [Blue Guitar](https://open.spotify.com/track/6Ckb5FMJHjZh2dFFyfn4RP) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Blue Guitar](https://open.spotify.com/album/7p8eJUdGjDoKuwDNGAu1Wn) | 3:30 | 2022-08-05 | 2022-12-09 |
 | [Both](https://open.spotify.com/track/1qXQM8fJLLcb1Eyus7L4Iu) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Both](https://open.spotify.com/album/7yVvcpH3mUxdGuXuZ629Bj) | 2:59 | 2022-08-05 |  |
 | [Break Up With A Friend](https://open.spotify.com/track/0EbjDInmIHv5xW9voRKTxY) | [Chelsea Berman](https://open.spotify.com/artist/7nodCh6KwfOzrvncmX4N0F) | [Break Up With A Friend](https://open.spotify.com/album/1UxCw54gPJDBtOjaaEiahB) | 3:25 | 2022-06-16 | 2022-09-24 |
 | [Bring On The Summertime](https://open.spotify.com/track/1BKS7mgVCQLZqq2lt7lRp8) | [Jamie Lindsay](https://open.spotify.com/artist/5nv1HL0xYpBabkjOJ8Q7nn) | [Bring On The Summertime](https://open.spotify.com/album/6hSKi63TAZDp3pxbTYv7kq) | 4:01 | 2022-07-28 | 2022-09-24 |
@@ -114,7 +114,7 @@
 | [Hold My Halo](https://open.spotify.com/track/3GfARtnRJcsM5JTrpVAunR) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf) | 3:26 | 2022-11-24 | 2022-12-03 |
 | [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 | 2022-10-27 | 2022-11-25 |
 | [Home To Me](https://open.spotify.com/track/1BWrFZ30QHoGVvz7JFsf70) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/46YbOwWy2Dm27YsZDOCgpW) | 2:54 | 2022-09-15 |  |
-| [Homegrown Love](https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:10 | 2022-08-26 |  |
+| [Homegrown Love](https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:10 | 2022-08-26 | 2022-12-09 |
 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 | 2022-06-02 |  |
 | [How You Love Someone](https://open.spotify.com/track/56XDLBRNjRSnQnwlWTuwKh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [How You Love Someone](https://open.spotify.com/album/5E3d726Sw4jFs5PPiDe5Du) | 4:25 | 2022-10-06 |  |
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2022-09-08 |  |
@@ -182,6 +182,7 @@
 | [Red Wine and Blue](https://open.spotify.com/track/6KhHv00M2aXUtbVTpmAC5x) | [Emily Hatton](https://open.spotify.com/artist/2qWqeGeNliXRQdHOOygnlM) | [Red Wine and Blue](https://open.spotify.com/album/2csWHC9z5vQnSXvTMjvjwx) | 3:55 | 2022-05-26 | 2022-08-27 |
 | [Redneck Be Like](https://open.spotify.com/track/00R3xLkJsIxENOc3qA4CDA) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Redneck Be Like](https://open.spotify.com/album/6Dd9qefRvgNuOPEYX3gdMK) | 2:46 | 2021-12-30 | 2022-03-05 |
 | [Right About Now](https://open.spotify.com/track/6wr9dPXfupWTsIUJv00LVF) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Right About Now](https://open.spotify.com/album/2yts4vdn9werWgmEGm1rki) | 3:09 | 2021-12-30 | 2022-05-06 |
+| [Right Girl Wrong Time](https://open.spotify.com/track/7MBvjWbBm15AMifrfbhYWV) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Right Girl Wrong Time](https://open.spotify.com/album/3kq9aOY9UP76IllZeDs6jf) | 3:58 | 2022-12-08 |  |
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-28 | 2022-08-05 |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-28 |  |
 | [Run](https://open.spotify.com/track/2bAO9bTWm6MVgbwkRAsXsX) | [Duncan Toombs](https://open.spotify.com/artist/5Jv0F98tukWFHhdP7ZNJq9) | [Run](https://open.spotify.com/album/78yV4DWQvR0FH2chARtUbS) | 4:03 | 2022-06-02 | 2022-08-05 |
@@ -209,6 +210,7 @@
 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 | 2022-06-16 | 2022-09-30 |
 | [Soul](https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 2:47 | 2022-04-14 | 2022-09-16 |
 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 | 2021-12-30 | 2022-06-03 |
+| [Spin Me Around](https://open.spotify.com/track/11O5vNAyZk5Ls2NcuALmcj) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Spin Me Around](https://open.spotify.com/album/5MIy6bDypXVV3G9OIFH1VK) | 3:04 | 2022-12-08 |  |
 | [Start Nowhere](https://open.spotify.com/track/33bMASZzuBL82YERsMyozx) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Start Nowhere](https://open.spotify.com/album/2T1qRB6zSSGdNgcTD3Dg8H) | 3:13 | 2022-11-24 |  |
 | [Startin' Something](https://open.spotify.com/track/5ncsghcdHl3odHvkIl8y3P) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Startin' Something](https://open.spotify.com/album/1GIquCAg1ScgEkO2yP1fAE) | 3:00 | 2021-12-30 | 2022-03-25 |
 | [Stay In Your Lane](https://open.spotify.com/track/5w6cDriC2fIXeEcmN5WQLv) | [Hinterland](https://open.spotify.com/artist/0rRxOKXLCsE9wuDl0TnrLY) | [Stay In Your Lane](https://open.spotify.com/album/1MNF5gihhNsPwn0WjdE6Ro) | 3:08 | 2022-06-30 | 2022-09-09 |

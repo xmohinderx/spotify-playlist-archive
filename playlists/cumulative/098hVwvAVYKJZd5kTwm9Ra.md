@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/098hVwvAVYKJZd5kTwm9Ra.md) - cumulative - [plain](/playlists/plain/098hVwvAVYKJZd5kTwm9Ra) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/098hVwvAVYKJZd5kTwm9Ra)
 
-### [BBQ 2022: Summer Party Classics](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
+### [BBQ 2023: Summer Party Classics](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 
 > Summer BBQ essentials featuring Classic Rock, Yacht Rock, and Country favorites from Travis Tritt, Hall &amp; Oates, Luke Combs, Bruce Springsteen, and more!
 

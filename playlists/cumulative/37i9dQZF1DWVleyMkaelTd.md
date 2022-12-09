@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-130 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+131 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Once I Loved](https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U) | [Logan Perez Trio](https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw) | [Once I Loved](https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP) | 7:14 | 2022-04-26 |  |
 | [Once I Loved](https://open.spotify.com/track/7tQUCA9GrJry8j3mIXfO77) | [Newton Bossa Trio](https://open.spotify.com/artist/6IjGZqlalneM5p6nkHsKCX) | [Retrato Em Branco E Preto](https://open.spotify.com/album/40Ucbyj5QRbtWFPhiwvqsO) | 4:48 | 2022-04-26 |  |
 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 | 2022-04-26 |  |
+| [Over the Rainbow](https://open.spotify.com/track/4oVtVfH5Byf8mRThHC8ZSb) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Over the Rainbow](https://open.spotify.com/album/4QHX19CSzvmLopSHU6XIiE) | 3:06 | 2022-12-08 |  |
 | [Pra Machucar Meu Coração](https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Letra & Música Ary Barroso – Rosa Passos e Lula Galvão](https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q) | 6:16 | 2022-04-26 |  |
 | [Praia à noite](https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 3:00 | 2022-04-26 |  |
 | [Puxar Do Amor](https://open.spotify.com/track/3156vqIutz0l7K9rfn3Hyg) | [Vitor Vagner](https://open.spotify.com/artist/18kiPS1TIJ9akOTddrW7DH) | [Puxar Do Amor](https://open.spotify.com/album/3NA3vF96CZMerNw6J4hGAC) | 2:05 | 2022-04-26 |  |

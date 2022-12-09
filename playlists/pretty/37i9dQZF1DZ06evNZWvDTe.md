@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,290 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,296 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 36 | [Whipped \(feat\. DarkoVibes\)](https://open.spotify.com/track/7DgHNchZQxCFOM34f2UsiF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:26 |
 | 37 | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs) | 3:34 |
 | 38 | [Bambi Too \(feat\. Maleek Berry, Quavo & Sarkodie\)](https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Boomerang](https://open.spotify.com/album/1BQhMEiv7bLPI7wLAdHsn9) | 4:35 |
-| 39 | [Anointing](https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Anointing](https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg) | 3:36 |
-| 40 | [CEO FLOW](https://open.spotify.com/track/4iF0umElVzYWpHe9zRJzZE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [CEO FLOW](https://open.spotify.com/album/3VFxOFL1DWLq1naU93Ab0P) | 3:42 |
-| 41 | [Hope \(Brighter Day\)](https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Hope \(Brighter Day\)](https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM) | 5:16 |
+| 39 | [Hope \(Brighter Day\)](https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Hope \(Brighter Day\)](https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM) | 5:16 |
+| 40 | [Anointing](https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Anointing](https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg) | 3:36 |
+| 41 | [CEO FLOW](https://open.spotify.com/track/4iF0umElVzYWpHe9zRJzZE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [CEO FLOW](https://open.spotify.com/album/3VFxOFL1DWLq1naU93Ab0P) | 3:42 |
 | 42 | [Saara \(feat\. Efya\)](https://open.spotify.com/track/2wYrE76u5DQVyL4lteNe6a) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:19 |
 | 43 | [Mary](https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:21 |
 | 44 | [Deserve My Love](https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 49 | [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 |
 | 50 | [Kojo](https://open.spotify.com/track/5GS5agViHaTwYRom1T6ckD) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 3:24 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDAxMjUzMzYzZmE3ZGMwMmJlYmNjNTliZWZlZDA1N2MwNQ==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAxZjU4NzgwNzZlN2JiOWRkZmY3ZjgwN2U0NTg5MzFjOQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,299 likes - 144 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302 likes - 144 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 53 | [Vampire](https://open.spotify.com/track/56WkfBKWfbvauMgeK8nivR) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/7Gq6sRRezEa7QKpX4oXVjr) | 3:34 |
 | 54 | [Machine](https://open.spotify.com/track/4hGBLGIu8Gbqs6C0gqVEb1) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 4:07 |
 | 55 | [Love and Run \(feat\. Teddy Geiger\)](https://open.spotify.com/track/4vRjuGwYH9xynPVGCIoFRI) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mark Alston](https://open.spotify.com/artist/55LAgmu5JoT54oEhWAek3r), [BAGGI](https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom), [Jason Taylor](https://open.spotify.com/artist/0Po6fBwj4MdkVxXr2PeHN4), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Club Life, Vol\. 3 \- Stockholm](https://open.spotify.com/album/5pbsUGC9LpIf2r9QSfJpGZ) | 5:25 |
-| 56 | [SOMEONE ELSE](https://open.spotify.com/track/1CYdm33W4P71qdXWAZdrre) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:31 |
-| 57 | [Cinnamon Girl](https://open.spotify.com/track/7Ia7PoyYdRZtqjafqvzkaf) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:32 |
+| 56 | [Cinnamon Girl](https://open.spotify.com/track/7Ia7PoyYdRZtqjafqvzkaf) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:32 |
+| 57 | [SOMEONE ELSE](https://open.spotify.com/track/1CYdm33W4P71qdXWAZdrre) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:31 |
 | 58 | [Over](https://open.spotify.com/track/3cXeu25WMjDXjMOQmRkLVY) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:16 |
 | 59 | [Voodoo](https://open.spotify.com/track/5Abiq1bL8hMcMh1JUawYQM) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:59 |
 | 60 | [Call Me!!!](https://open.spotify.com/track/4JFQ6XcKPvXIU34JPLbbOQ) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:35 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 85 | [Capital Letters](https://open.spotify.com/track/405B9VswP3UM73ImKdPson) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Capital Letters](https://open.spotify.com/album/4Kgoa65A1pu14huyVVUiux) | 3:35 |
 | 86 | [Bones](https://open.spotify.com/track/41LiSeJIhiXDGGNaYXhIzx) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Bones](https://open.spotify.com/album/6ajKD5jYpHTrof8xZJb4tJ) | 3:12 |
 | 87 | [Colors in the Sky \- Interlude](https://open.spotify.com/track/31gsVhOYfLTq2rLIOo0VaV) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [One of a Kind](https://open.spotify.com/album/2aOEQaMZuoR8bn8K9CJZbO) | 1:08 |
-| 88 | [LillyAnna](https://open.spotify.com/track/69n8GjP8t3zvmBreg3UoBO) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:49 |
-| 89 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 |
+| 88 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 |
+| 89 | [LillyAnna](https://open.spotify.com/track/69n8GjP8t3zvmBreg3UoBO) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:49 |
 | 90 | [Get Me High](https://open.spotify.com/track/1VsneXMrJosdMAJvu0BWFt) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:16 |
 | 91 | [Sharkbait](https://open.spotify.com/track/1u5UqFrPc3h6FMQGS1kw9M) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/2rfrl6hCzss0k9DZMf0pwB) | 3:38 |
 | 92 | [I Was in a Cult](https://open.spotify.com/track/5qDh8zjZSggVN0hJzIUgtD) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:03 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 143 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 144 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc4NDEwMjgsMDAwMDAwMDAwM2NmN2NjOTNiNjUyMDMwNmU0OGUzNmE2YjQ1MmVmZQ==`
+Snapshot ID: `Mjc4NDI0NjgsMDAwMDAwMDBmZDFmODUxY2Q0MTQ4ZjkxYjA4MDFmN2I0ZTdhOTAwMg==`

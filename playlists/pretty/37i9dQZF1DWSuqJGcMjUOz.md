@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 71 | [Oublie pas](https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s) | 4:57 |
 | 72 | [Le souhait de Carmen](https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Haute Mère](https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt) | 4:44 |
 | 73 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 |
-| 74 | [Masque d'or](https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:31 |
-| 75 | [Alaska](https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [SITKA](https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP) | 3:38 |
+| 74 | [Alaska](https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [SITKA](https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP) | 3:38 |
+| 75 | [Masque d'or](https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:31 |
 | 76 | [La grande évasion](https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Grand voyage désorganisé](https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET) | 2:35 |
 | 77 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 |
 | 78 | [Rome](https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rome](https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW) | 5:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 99 | [La Presse \(Baby Girl\)](https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 2:55 |
 | 100 | [Bonsaï](https://open.spotify.com/track/6LzREVOgZqgUhHkfuj209f) | [Gros Mené](https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT) | [Pax et Bonum](https://open.spotify.com/album/46cTZARrHo7jivv9B8mg9f) | 3:43 |
 
-Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMGMyMmI0MzQ5MWM0YmU3NjcyMzUzYWNiY2VmZTg0ZWQ2`
+Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDkxM2ZjODBjMjEzZTBkODk3NmI0ZDc4MGQ4NmIxYmQ5`

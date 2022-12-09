@@ -2,9 +2,9 @@
 
 ### [أفضل الأغاني الخليجية](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> مختارات من أفضل الاغاني الخليجية <br/>الغلاف: حسين الجسمي
+> اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: متعب الشعلان
 
-82 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
+86 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ahla Watan](https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Ahla Watan](https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2) | 2:02 | 2022-06-08 |  |
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2022-04-07 |  |
 | [Allah Ala The Allil](https://open.spotify.com/track/5ihud1HlQGEy2JaZgFCsFE) | [Omar Naghmet Wattar](https://open.spotify.com/artist/5HeUjWClBMbaVtHAQE1WNI) | [Allah Ala The Allil](https://open.spotify.com/album/1k19VdXfQADUyWWsO5xakL) | 5:28 | 2022-04-07 | 2022-06-09 |
+| [AlNeskha AlJadeeda](https://open.spotify.com/track/3GLLxqMO9eL5eoHuySMQGR) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [AlNeskha AlJadeeda](https://open.spotify.com/album/1TpetQdfC6a5nZEK75VvLL) | 4:00 | 2022-12-08 |  |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-10-04 |  |
 | [Bahjat ALkhater](https://open.spotify.com/track/3eReZhyR5JIDiRN1kxxHOl) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Bahjat ALkhater](https://open.spotify.com/album/4UmJoi5HlTPVDeWuDQWgpx) | 4:32 | 2022-04-07 |  |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2022-04-07 | 2022-10-05 |
@@ -39,6 +40,7 @@
 | [lo Hobek](https://open.spotify.com/track/598erFMdm6rEKqw7tRg3PX) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [lo Hobek](https://open.spotify.com/album/48Ppl1mtZYWRqlDPgr2vBr) | 3:18 | 2022-04-07 |  |
 | [Logiak](https://open.spotify.com/track/6MLGToHN1rywzRuXgKjbmF) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Logiak](https://open.spotify.com/album/7uiBwDftspH5AQVMhxT45m) | 3:50 | 2022-04-07 |  |
 | [Maazom](https://open.spotify.com/track/2vQF0IxnmS298QNT0wkqej) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Maazom](https://open.spotify.com/album/65IDPgoxTtbQzQ8BY2B6e4) | 3:50 | 2022-04-07 | 2022-10-05 |
+| [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 | 2022-12-08 |  |
 | [Mawed Eyonk](https://open.spotify.com/track/7aq0vVJxIfEJBl0Nca2Yfq) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mawed Eyonk](https://open.spotify.com/album/2f6Pbb9qmPx9PEkOULDmOn) | 5:21 | 2022-09-01 |  |
 | [Men Broodak](https://open.spotify.com/track/2yNek8B5wQ9B6ZxOIsEBQh) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Men Broodak](https://open.spotify.com/album/5Qd1cIVMLtmq9Ilye8hpyd) | 4:00 | 2022-04-07 | 2022-06-09 |
 | [Mishtag](https://open.spotify.com/track/7r04IDrw7headpmzn7xZGk) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mishtag](https://open.spotify.com/album/5ybk09xdlcUxXst50j3DcX) | 4:49 | 2022-07-25 |  |
@@ -56,8 +58,9 @@
 | [Swalef Al Lel](https://open.spotify.com/track/02bhyQbENe0BxDAKsTUteA) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Swalef Al Lel](https://open.spotify.com/album/4iVcTtt2gMtG6V4PCk0mU1) | 8:51 | 2022-04-07 | 2022-10-05 |
 | [Takhayel](https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Takhayel](https://open.spotify.com/album/01lmkknyS1jSSXxsLelcNt) | 3:19 | 2022-09-07 |  |
 | [Thekrak \(16\)](https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:39 | 2022-10-04 |  |
+| [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2022-12-08 |  |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-04-07 |  |
-| [Ya Hob](https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Ya Hob](https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h) | 4:03 | 2022-04-07 |  |
+| [Ya Hob](https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Ya Hob](https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h) | 4:03 | 2022-04-07 | 2022-12-09 |
 | [Yeshhad Allah](https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Yeshhad Allah](https://open.spotify.com/album/0OCMuAmmg390azxdmWycvx) | 4:07 | 2022-06-08 |  |
 | [أحتريك](https://open.spotify.com/track/2yySRO48XMTdz3E38JDxtP) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [أحتريك](https://open.spotify.com/album/4uXKhkwWCUkzuZ3bJMLrPV) | 3:57 | 2022-04-07 | 2022-09-09 |
 | [أدعج عيون](https://open.spotify.com/track/2gfpyKUlTSUwmtiWj0vDW4) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [أدعج عيون](https://open.spotify.com/album/4uEyRHNa7Zbms17CZYWulO) | 3:34 | 2022-04-07 | 2022-10-05 |
@@ -75,6 +78,7 @@
 | [ذكريات](https://open.spotify.com/track/6xBWiIAEYlEfzxuO6tf41o) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ذكريات](https://open.spotify.com/album/1Q1lKJYY8SqWrlkkHS0FV3) | 4:05 | 2022-09-07 | 2022-09-29 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-07-08 |  |
 | [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 | 2022-06-08 | 2022-09-09 |
+| [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-12-08 |  |
 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-04-07 | 2022-10-05 |
 | [كلمني](https://open.spotify.com/track/4SWldutKma2NvU850zeEkd) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/04aRoZxBPhR6aYvTkC7f6F) | 3:26 | 2022-09-07 | 2022-09-29 |
 | [ما اقدر اخونك](https://open.spotify.com/track/3iEe0l4ItrM9vgMHSnnr6t) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [ما اقدر اخونك](https://open.spotify.com/album/7uzMGbFNKS7K6koM513rjC) | 4:51 | 2022-04-07 | 2022-10-05 |

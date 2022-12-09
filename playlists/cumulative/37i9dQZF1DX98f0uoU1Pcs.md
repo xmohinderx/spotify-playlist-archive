@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-353 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+354 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Shelter Song](https://open.spotify.com/track/5nqZ6H4AzpXn7qkcf3qfWh) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Seek Shelter \(Special Edition\)](https://open.spotify.com/album/1Nv0SP4KDUsvn2nwZZhvTP) | 5:28 | 2022-11-04 | 2022-11-14 |
 | [Shelter Song](https://open.spotify.com/track/75NDBTcRmJ8yWUw2bDItHx) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Seek Shelter](https://open.spotify.com/album/6wH4W7BWjBiXNM3xIccgOR) | 5:28 | 2022-01-07 | 2022-07-29 |
 | [Sick of The Silence](https://open.spotify.com/track/2x9Hr7Fuf9E8Z7vONIHPyM) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Sick of The Silence](https://open.spotify.com/album/1Twv557qLgnS0hpVQLwDYD) | 3:08 | 2021-10-07 | 2022-03-12 |
-| [Silence Is Golden](https://open.spotify.com/track/1YGdBqULxB6JnUTTpPQ9b0) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Silence Is Golden](https://open.spotify.com/album/4N8TqGejYoSvbkNxRnGtQ4) | 2:56 | 2022-06-17 |  |
+| [Silence Is Golden](https://open.spotify.com/track/1YGdBqULxB6JnUTTpPQ9b0) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Silence Is Golden](https://open.spotify.com/album/4N8TqGejYoSvbkNxRnGtQ4) | 2:56 | 2022-06-17 | 2022-12-09 |
+| [Silence Is Golden](https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 2:56 | 2022-11-04 |  |
 | [Single Origin Experience](https://open.spotify.com/track/4ucQe8ppok9I8LsCTQnL1V) | [The Paranoyds](https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4) | [Single Origin Experience](https://open.spotify.com/album/7BvtxVC8qTnlvTswPBQUop) | 2:47 | 2022-08-16 |  |
 | [Slither](https://open.spotify.com/track/5HgulkdJe3FUNs5xonYjHS) | [Ghost King](https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84) | [Slither](https://open.spotify.com/album/0wLaKev1kc2JP31BRvTo6I) | 2:21 | 2021-10-07 | 2022-03-26 |
 | [So Excited](https://open.spotify.com/track/5hm4OC3PJs0tEd7PdvtUkm) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [So Excited](https://open.spotify.com/album/1M0jL56cPNrsT6hNV7g5W8) | 3:00 | 2022-03-11 |  |

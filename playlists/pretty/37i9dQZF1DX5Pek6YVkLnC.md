@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: lil joujou & Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,550 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,607 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 |
 | 2 | [Mbappe](https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:27 |
 | 3 | [LOKERA](https://open.spotify.com/track/33cF8aTmGJ6TsEf23uqGIN) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:17 |
-| 4 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
+| 4 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
 | 5 | [Suge Knight](https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Suge Knight](https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj) | 8:18 |
 | 6 | [NO TE ENCOJONE](https://open.spotify.com/track/4jFkyz9YVo0k34Izf1ajbY) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [ANKHALINO](https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6) | 3:43 |
 | 7 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 25 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 |
 | 26 | [LEJOS DEL CIELO](https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:28 |
 | 27 | [LENTITO](https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LENTITO](https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3) | 3:23 |
-| 28 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 |
+| 28 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 |
 | 29 | [Conexiones](https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Conexiones](https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz) | 3:21 |
 | 30 | [Cáscara de Coco](https://open.spotify.com/track/7MIhpzY1v8U2ha3D8Z6yk8) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Cáscara de Coco](https://open.spotify.com/album/5WoydrpY0NR4zjGj8MSHNh) | 2:57 |
 | 31 | [Fundota](https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Fundota](https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo) | 2:20 |
 | 32 | [Nazareno \- Remix](https://open.spotify.com/track/0RE6QKlznWDuPzG5n0MOMS) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Nazareno \(Remix\)](https://open.spotify.com/album/7bkJ3sRXUoazTaz4QDkdUk) | 4:59 |
-| 33 | [Doxxis](https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Doxxis](https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p) | 3:06 |
+| 33 | [Doxxis](https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Doxxis](https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p) | 3:06 |
 | 34 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 |
 | 35 | [CALENTÓN](https://open.spotify.com/track/5dtNrI6WMGCTBbK8499242) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [CALENTÓN](https://open.spotify.com/album/3H1b3UUzaCAqLSvDzjowjB) | 3:22 |
 | 36 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 |

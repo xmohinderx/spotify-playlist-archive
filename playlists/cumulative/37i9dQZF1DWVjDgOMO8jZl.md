@@ -4,7 +4,7 @@
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
 
-81 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
+82 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-08-31 |  |
 | [Aposto](https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Aposto](https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO) | 2:31 | 2022-08-31 |  |
 | [Avec moi](https://open.spotify.com/track/4b3d5gAAIUUhbzhRjQAZ97) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 3:14 | 2022-08-31 |  |
+| [Bambina](https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Bambina](https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL) | 2:19 | 2022-12-08 |  |
 | [Bistrot](https://open.spotify.com/track/6BVYZ55BxhxYxOH4Tfid77) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Bistrot](https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm) | 3:17 | 2022-08-31 |  |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2022-08-31 |  |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-08-31 |  |
@@ -55,7 +56,7 @@
 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 | 2022-08-31 |  |
 | [Next Big Thing](https://open.spotify.com/track/3kkvWnuim3d3n9qXCBg9mT) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Goedi](https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 3:19 | 2022-08-31 |  |
 | [Non mi fa dormire \(feat\. Caffellatte\)](https://open.spotify.com/track/3V2nxW0jTVF60OKbNepxUn) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Non mi fa dormire \(feat\. Caffellatte\)](https://open.spotify.com/album/535CWlyiMJgJOgRvbyDF4R) | 2:46 | 2022-08-31 |  |
-| [Nonchalance](https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Nonchalance](https://open.spotify.com/album/0y3WjIF2bIH5BrbFRsKzZG) | 3:02 | 2022-08-31 |  |
+| [Nonchalance](https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Nonchalance](https://open.spotify.com/album/0y3WjIF2bIH5BrbFRsKzZG) | 3:02 | 2022-08-31 | 2022-12-09 |
 | [Obligé \(feat\. Axell\)](https://open.spotify.com/track/3ylACUPfBSPxP7KE1QRvxP) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Obligé \(feat\. Axell\)](https://open.spotify.com/album/6SYrKjw00rrplLbusba2Cn) | 2:45 | 2022-08-31 |  |
 | [Occhi Niagara](https://open.spotify.com/track/6FAt6ZLFlPpjg26N5vZcIJ) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Occhi Niagara](https://open.spotify.com/album/5e4Ja9BU1I6flN0insmf1y) | 3:27 | 2022-08-31 |  |
 | [On Time For Her](https://open.spotify.com/track/497mQQdUubKJdTqYUg0D2d) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3jH2bcVzgYzznFCliV5EdI) | 3:38 | 2022-11-07 | 2022-11-13 |

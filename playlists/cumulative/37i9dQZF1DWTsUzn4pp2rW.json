@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 243876,
       "name": "A Song With No Name",
       "url": "https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy"
@@ -396,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Day Breaks",
+        "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185586,
+      "name": "And Then There Was You",
+      "url": "https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E"
+    },
+    {
+      "album": {
         "name": "Flights of Imagination",
         "url": "https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc"
       },
@@ -411,6 +429,24 @@
       "duration_ms": 195601,
       "name": "And Time Froze",
       "url": "https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den"
+    },
+    {
+      "album": {
+        "name": "Boy Boredom",
+        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
+      },
+      "artists": [
+        {
+          "name": "Cosma Joy",
+          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221241,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
     },
     {
       "album": {
@@ -447,6 +483,28 @@
       "duration_ms": 216000,
       "name": "At the End of the Day",
       "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
+    },
+    {
+      "album": {
+        "name": "Autumn Breeze",
+        "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        },
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241413,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
     },
     {
       "album": {
@@ -645,7 +703,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 229453,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/6YSCWDYNtZ6mZ8d71Tj0HR"
@@ -1800,6 +1858,24 @@
     },
     {
       "album": {
+        "name": "Hilltop",
+        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
+      },
+      "artists": [
+        {
+          "name": "Sophia HP",
+          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272768,
+      "name": "Hilltop",
+      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
+    },
+    {
+      "album": {
         "name": "Take Me To The Alley",
         "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
       },
@@ -2139,7 +2215,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 256800,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/1HnAHTqxft8BhqvNYiGrSF"
@@ -2299,7 +2375,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 293466,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/0eBlhg6ObQW6sAu4UFjN5d"
@@ -2411,7 +2487,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 302890,
       "name": "Just A Little Bit",
       "url": "https://open.spotify.com/track/1JfbhdC2PRpB1TcobDTvF8"
@@ -3393,7 +3469,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 233173,
       "name": "Peace - First Sessions Demo",
       "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
@@ -4148,6 +4224,24 @@
     },
     {
       "album": {
+        "name": "The Age of Anxiety",
+        "url": "https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324826,
+      "name": "The Age Of Anxiety",
+      "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
+    },
+    {
+      "album": {
         "name": "You're Fine",
         "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
       },
@@ -4307,6 +4401,24 @@
       "duration_ms": 247722,
       "name": "There is a place",
       "url": "https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB"
+    },
+    {
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
     },
     {
       "album": {
@@ -4590,6 +4702,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "What Am I To You?",
+      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
+    },
+    {
+      "album": {
         "name": "What Love Is For",
         "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
       },
@@ -4817,7 +4947,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 293504,
       "name": "Your Hands",
       "url": "https://open.spotify.com/track/4u62bhKi6sQBPBb1txAAPT"

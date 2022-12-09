@@ -1,13 +1,33 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ-u8gnmqQaUJ8A\">Loufi</a>\n",
-  "num_followers": 334,
+  "num_followers": 340,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2MjgyOSwwMDAwMDAwMDc4NTBkZmFiZTI3YWMxYzM1Y2JhOTNiNjlhYWFlNzFj",
+  "snapshot_id": "MTY3MDUzNjc0MCwwMDAwMDAwMGNmNjZjY2JiMzk0OTRhYTdiNzg0ZjgwMzAxMTM4Yjdm",
   "tracks": [
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Yes Meneer",
+        "url": "https://open.spotify.com/album/6zGyqXBpUdzjPdRFXaSszY"
+      },
+      "artists": [
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "duration_ms": 237551,
+      "name": "Yes Meneer",
+      "url": "https://open.spotify.com/track/1c2tsesE4APsc5mUwMt4D2"
+    },
     {
       "added_at": "2022-11-17 21:59:00",
       "album": {
@@ -29,20 +49,20 @@
       "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
     },
     {
-      "added_at": "2022-12-01 21:59:00",
+      "added_at": "2022-12-02 06:33:49",
       "album": {
-        "name": "WUTJAINJILLE",
-        "url": "https://open.spotify.com/album/4aza6nbvvOP3SPWK5NKOhL"
+        "name": "Skattie",
+        "url": "https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq"
       },
       "artists": [
         {
-          "name": "Marco Polo 7945",
-          "url": "https://open.spotify.com/artist/42kYVWWbrUVyhsCWzxKwVp"
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
         }
       ],
-      "duration_ms": 172434,
-      "name": "WUTJAINJILLE",
-      "url": "https://open.spotify.com/track/6xWKj3N3die6nrCtv6WZiS"
+      "duration_ms": 193834,
+      "name": "Skattie",
+      "url": "https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr"
     },
     {
       "added_at": "2022-12-01 21:59:00",
@@ -61,28 +81,24 @@
       "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
     },
     {
-      "added_at": "2022-12-01 21:59:00",
+      "added_at": "2022-09-08 21:59:00",
       "album": {
-        "name": "Bru",
-        "url": "https://open.spotify.com/album/6RirppwJmnR5e0PTghCull"
+        "name": "Lewe Soos 'n Laanie",
+        "url": "https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb"
       },
       "artists": [
         {
-          "name": "BRU",
-          "url": "https://open.spotify.com/artist/5BZSMHMX8U0s2uLdutE8Sv"
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
         },
         {
-          "name": "Isaac Mutant",
-          "url": "https://open.spotify.com/artist/76VLsNwSomCEFiV6Va9PgX"
-        },
-        {
-          "name": "Baze",
-          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+          "name": "GBOY",
+          "url": "https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1"
         }
       ],
-      "duration_ms": 266486,
-      "name": "Bring the Noise",
-      "url": "https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn"
+      "duration_ms": 201126,
+      "name": "Lewe Soos 'n Laanie",
+      "url": "https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs"
     },
     {
       "added_at": "2022-12-01 21:59:00",
@@ -121,22 +137,6 @@
       "url": "https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm"
     },
     {
-      "added_at": "2022-12-02 06:33:49",
-      "album": {
-        "name": "Skattie",
-        "url": "https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 193834,
-      "name": "Skattie",
-      "url": "https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr"
-    },
-    {
       "added_at": "2022-09-08 21:59:00",
       "album": {
         "name": "Grammadoelas",
@@ -151,6 +151,26 @@
       "duration_ms": 123333,
       "name": "Grammadoelas",
       "url": "https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "My Main Bra Tops",
+        "url": "https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "My Main Bra Tops",
+      "url": "https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -209,24 +229,20 @@
       "url": "https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL"
     },
     {
-      "added_at": "2022-09-08 21:59:00",
+      "added_at": "2022-12-01 21:59:00",
       "album": {
-        "name": "Lewe Soos 'n Laanie",
-        "url": "https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb"
+        "name": "WUTJAINJILLE",
+        "url": "https://open.spotify.com/album/4aza6nbvvOP3SPWK5NKOhL"
       },
       "artists": [
         {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        },
-        {
-          "name": "GBOY",
-          "url": "https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1"
+          "name": "Marco Polo 7945",
+          "url": "https://open.spotify.com/artist/42kYVWWbrUVyhsCWzxKwVp"
         }
       ],
-      "duration_ms": 201126,
-      "name": "Lewe Soos 'n Laanie",
-      "url": "https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs"
+      "duration_ms": 172434,
+      "name": "WUTJAINJILLE",
+      "url": "https://open.spotify.com/track/6xWKj3N3die6nrCtv6WZiS"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -243,6 +259,42 @@
       "duration_ms": 193854,
       "name": "Wesbank Bloei",
       "url": "https://open.spotify.com/track/25DeMB5fLrhgiGWKvVb083"
+    },
+    {
+      "added_at": "2022-09-08 21:59:00",
+      "album": {
+        "name": "Gan Se Jou Mense",
+        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Grootman",
+      "url": "https://open.spotify.com/track/6AnQRH4wDqDjnAL7YSob7x"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "VAAK",
+        "url": "https://open.spotify.com/album/2IKuJJg4ytGVCdJu5cT4CI"
+      },
+      "artists": [
+        {
+          "name": "JAYD?N",
+          "url": "https://open.spotify.com/artist/54ngOPG4z2cf7NgtItNAG5"
+        },
+        {
+          "name": "Ello-Jay",
+          "url": "https://open.spotify.com/artist/2PDHdUgudDmPTRwh1HJAXp"
+        }
+      ],
+      "duration_ms": 129097,
+      "name": "VAAK",
+      "url": "https://open.spotify.com/track/0bnaAVz6aptalheXgeQSC1"
     },
     {
       "added_at": "2022-10-13 21:59:00",
@@ -367,22 +419,6 @@
     {
       "added_at": "2022-09-08 21:59:00",
       "album": {
-        "name": "Gan Se Jou Mense",
-        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
-      },
-      "artists": [
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Grootman",
-      "url": "https://open.spotify.com/track/6AnQRH4wDqDjnAL7YSob7x"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
         "name": "Dala wat jy moet",
         "url": "https://open.spotify.com/album/1G0WLpHnyXzTtfV62BSmo3"
       },
@@ -423,30 +459,6 @@
       "duration_ms": 230626,
       "name": "Forever Or Never",
       "url": "https://open.spotify.com/track/2vQlEG2lcO9xcw5t1Gzgtv"
-    },
-    {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "Happy Family",
-        "url": "https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        },
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd"
-        },
-        {
-          "name": "Bliksemstraal",
-          "url": "https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ"
-        }
-      ],
-      "duration_ms": 244956,
-      "name": "Happy Family",
-      "url": "https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -559,6 +571,30 @@
     {
       "added_at": "2022-09-08 21:59:00",
       "album": {
+        "name": "Jong Grotes",
+        "url": "https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        },
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN"
+    },
+    {
+      "added_at": "2022-09-08 21:59:00",
+      "album": {
         "name": "EK ISI UITIE",
         "url": "https://open.spotify.com/album/0CYLa1vPfWZYI9yk2FEsWR"
       },
@@ -611,30 +647,6 @@
       "duration_ms": 178506,
       "name": "Doen Jou Ding (feat. Early B & Justin Vega)",
       "url": "https://open.spotify.com/track/0gWseyvxR8h0bAf1YjPBru"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Jong Grotes",
-        "url": "https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb"
-      },
-      "artists": [
-        {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        },
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -707,6 +719,22 @@
     {
       "added_at": "2022-09-08 21:59:00",
       "album": {
+        "name": "Rare Steak",
+        "url": "https://open.spotify.com/album/5fyfK8q6TANWOXxrL7i7Fe"
+      },
+      "artists": [
+        {
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Rare Steak",
+      "url": "https://open.spotify.com/track/29kYp8MB3eq1RQIXLWWQCX"
+    },
+    {
+      "added_at": "2022-09-08 21:59:00",
+      "album": {
         "name": "Innie Boland",
         "url": "https://open.spotify.com/album/10sJICqQGgC9KQPie2It2w"
       },
@@ -729,20 +757,28 @@
       "url": "https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7"
     },
     {
-      "added_at": "2022-09-08 21:59:00",
+      "added_at": "2022-12-01 21:59:00",
       "album": {
-        "name": "Rare Steak",
-        "url": "https://open.spotify.com/album/5fyfK8q6TANWOXxrL7i7Fe"
+        "name": "Bru",
+        "url": "https://open.spotify.com/album/6RirppwJmnR5e0PTghCull"
       },
       "artists": [
         {
-          "name": "Cream Machine",
-          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+          "name": "BRU",
+          "url": "https://open.spotify.com/artist/5BZSMHMX8U0s2uLdutE8Sv"
+        },
+        {
+          "name": "Isaac Mutant",
+          "url": "https://open.spotify.com/artist/76VLsNwSomCEFiV6Va9PgX"
+        },
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Rare Steak",
-      "url": "https://open.spotify.com/track/29kYp8MB3eq1RQIXLWWQCX"
+      "duration_ms": 266486,
+      "name": "Bring the Noise",
+      "url": "https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -867,42 +903,6 @@
       "duration_ms": 157403,
       "name": "okay, oraait",
       "url": "https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Ricky Opi Beat",
-        "url": "https://open.spotify.com/album/2mYHqDlpdBfRiC5Tw8qnHx"
-      },
-      "artists": [
-        {
-          "name": "TDV Ricky Vani Frontline",
-          "url": "https://open.spotify.com/artist/6CoWyB0XfRRCMB9iFuGzyL"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Ricky Opi Beat",
-      "url": "https://open.spotify.com/track/0ZDBZzm4srA2FEFx4V43PK"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "The Party Starter",
-        "url": "https://open.spotify.com/album/1Rzyo8ixVvtCt3ygXclytD"
-      },
-      "artists": [
-        {
-          "name": "Jan Bloukaas",
-          "url": "https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic"
-        },
-        {
-          "name": "Katinka Band",
-          "url": "https://open.spotify.com/artist/4KQ5Y1mDvgEUSxKk5FT7pS"
-        }
-      ],
-      "duration_ms": 186640,
-      "name": "Bons",
-      "url": "https://open.spotify.com/track/27rWp1eK0aH82c8Uo9nJAB"
     },
     {
       "added_at": "2022-09-08 21:59:00",

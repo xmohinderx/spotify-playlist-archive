@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,114 likes - 138 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,570 likes - 138 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 11 | [Here Comes Heaven](https://open.spotify.com/track/7llyaJ7gnmIB19cp4hWc1g) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 4:28 |
 | 12 | [Hope Has Come \(Behold Him\)](https://open.spotify.com/track/14js1KdzK6dBLb9iW9Kd7x) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Hope Has Come \(Behold Him\)](https://open.spotify.com/album/7KqhvzyLBG4gpJvcaOZuTx) | 4:41 |
 | 13 | [O Come, O Come Emmanuel](https://open.spotify.com/track/2bivz4pQKTXTzb0aqf35m2) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [O Come, O Come Emmanuel](https://open.spotify.com/album/2kdiLHWZvTSx4rc0z5BVaS) | 2:43 |
-| 14 | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [IAMSON](https://open.spotify.com/artist/3ZhURzu0QFan16Hl16Lxk2) | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw) | 3:27 |
+| 14 | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E) | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw) | 3:27 |
 | 15 | [O Come All Ye Faithful](https://open.spotify.com/track/3PFcVGs3EfcUyoWsNIKf6w) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [O Come All Ye Faithful](https://open.spotify.com/album/7pAmb07Wl3TAYUREaimnwA) | 3:19 |
 | 16 | [King Of Kings](https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings](https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY) | 4:25 |
 | 17 | [Hope Has A Name](https://open.spotify.com/track/5beWUJJQZUBgunstmXk6Ge) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Hope Has A Name](https://open.spotify.com/album/33GHItPpQKdgbwPn3oYEGY) | 4:04 |

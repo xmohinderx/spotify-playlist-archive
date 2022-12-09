@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Caroline Polachek
 
-1,342 songs - 3 day 8 hr 23 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,343 songs - 3 day 8 hr 27 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Back To Oz](https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Back to Oz / Fictional California](https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM) | 4:12 | 2021-08-20 | 2022-04-08 |
 | [Back To The Radio](https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Back To The Radio](https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY) | 3:07 | 2022-03-03 | 2022-04-21 |
 | [Back3School](https://open.spotify.com/track/5bO7xNramHw1hrwhuLvUAL) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Back3School](https://open.spotify.com/album/2foEjgRHmoZibg6ekoeth3) | 2:37 | 2021-10-14 | 2022-03-02 |
+| [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2022-12-07 |  |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2021-04-08 | 2021-08-31 |
 | [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 | 2022-10-11 | 2022-12-06 |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-07-05 |  |
@@ -476,7 +477,7 @@
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-08 |  |
 | [Harmony Hall](https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 5:08 | 2019-05-26\* | 2019-08-13 |
 | [Hatch](https://open.spotify.com/track/5McjD7rGbob7zDr8k0xnO1) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Hatch](https://open.spotify.com/album/0G3QXjWIHCsSvwdM0gBh56) | 3:14 | 2021-09-23 | 2022-04-07 |
-| [Hate Dancin'](https://open.spotify.com/track/6SYxCsqjVaOhEOIuKTfnJ0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Changes](https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD) | 3:16 | 2022-11-16 |  |
+| [Hate Dancin'](https://open.spotify.com/track/6SYxCsqjVaOhEOIuKTfnJ0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Changes](https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD) | 3:16 | 2022-11-16 | 2022-12-09 |
 | [Hate Dancin'](https://open.spotify.com/track/7L92yGqlDk9fnTX46sFjb1) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Hate Dancin'](https://open.spotify.com/album/61Qbw51nRB1Rysb00dA3BP) | 3:16 | 2022-11-04 | 2022-11-12 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2021-04-22 | 2021-05-27 |
 | [Having a Good Time, Sometimes](https://open.spotify.com/track/1xNQ7UujtJn6OqaXwnWkIa) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Having a Good Time, Sometimes](https://open.spotify.com/album/0sVTx58xcHrOoOmcnLlkNL) | 2:57 | 2021-01-13 | 2021-09-01 |

@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-219 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+220 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alone at Night](https://open.spotify.com/track/4HljpOZkfoUT97Ia7K3DFf) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [Alone at Night](https://open.spotify.com/album/4Ch9O6W16gFXTeL8FoGQGd) | 2:59 | 2022-04-01 |  |
 | [Alone Together \- Rudy Van Gelder Remaster 2006](https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S) | 3:10 | 2021-12-14 |  |
 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 | 2021-12-14 |  |
+| [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2022-12-08 |  |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-12-14 |  |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-08-10 |  |
 | [Autumn Serenade](https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Autumn Serenade](https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l) | 3:56 | 2022-05-24 |  |
@@ -96,7 +97,7 @@
 | [Inertia](https://open.spotify.com/track/6Yvey5k1efTUHNp0nbyszi) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Inertia](https://open.spotify.com/album/4d07ATDHib2JftzZKeQiM4) | 2:43 | 2021-12-14 | 2022-04-12 |
 | [Infant Eyes](https://open.spotify.com/track/0Cgg4UFV8Du0Kg0wLHUa1k) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Infant Eyes](https://open.spotify.com/album/6O9lAPhLztpO0LNKzFbOXO) | 3:52 | 2022-01-19 | 2022-05-04 |
 | [I´m Getting Sentimental Over You](https://open.spotify.com/track/5xdMklU34fYpHch5Dr93wl) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [A Ghost Of A Chance](https://open.spotify.com/album/1qOEWsWmbdB8U2EmcPLwFG) | 2:42 | 2021-12-14 |  |
-| [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2021-12-14 |  |
+| [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2021-12-14 | 2022-12-09 |
 | [Kogarashi](https://open.spotify.com/track/358BhQYtag5CMI3vx58ZKz) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Kogarashi](https://open.spotify.com/album/6MZUKmpkrJZbLgsTJWrcb2) | 4:23 | 2022-08-30 |  |
 | [La mer](https://open.spotify.com/track/2kdabnudbCMzHPEx81fjOA) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [La mer](https://open.spotify.com/album/25kANqFzLBCAwzARuf48vV) | 3:43 | 2022-08-10 |  |
 | [Lady Sings the Blues](https://open.spotify.com/track/3JlzYRcXGNW8Gay4WQdmZm) | [The Capital Club Trio](https://open.spotify.com/artist/5zYKDdUuVKola3uCqk6WeW) | [Beyond the Sea](https://open.spotify.com/album/1HemrEZkZ9CNgCXhUy7uih) | 4:30 | 2021-12-14 |  |
@@ -167,7 +168,7 @@
 | [Seven Falls](https://open.spotify.com/track/0GoeKHEiKWSCYwCSHRzHTr) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/4sCDtwgXRr3G05gzpLX8Ui) | 4:04 | 2022-06-28 | 2022-09-07 |
 | [Seven Falls](https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/163mq32tE467ICK50c4Wsr) | 4:04 | 2021-12-14 | 2022-07-29 |
 | [Seymour Reads the Constitution](https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:03 | 2021-12-14 | 2022-11-11 |
-| [Shinbashi](https://open.spotify.com/track/38ZDhtysx579bB9fvo9veR) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Shinbashi](https://open.spotify.com/album/6NeDuoWZG13tBB2xxb7v4N) | 3:04 | 2022-08-10 |  |
+| [Shinbashi](https://open.spotify.com/track/38ZDhtysx579bB9fvo9veR) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Shinbashi](https://open.spotify.com/album/6NeDuoWZG13tBB2xxb7v4N) | 3:04 | 2022-08-10 | 2022-12-09 |
 | [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-06-28 |  |
 | [Silhouette](https://open.spotify.com/track/1CcKHNpexFobMLQwN1MzKr) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 3:51 | 2021-12-14 |  |
 | [Skylark](https://open.spotify.com/track/29nK4itJtykZEtsVE8dt4R) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 4:00 | 2021-12-14 | 2022-01-20 |
@@ -206,7 +207,7 @@
 | [Vindarna Sucka](https://open.spotify.com/track/0gZNX4cHmPQMlnTcWgulRU) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Vindarna Sucka](https://open.spotify.com/album/336YK4Ss9MpzHEmxMCTSZQ) | 2:31 | 2022-10-13 |  |
 | [Waiting](https://open.spotify.com/track/3LTZWlerXvIG5w5bRPXe0J) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Waiting](https://open.spotify.com/album/0Y36HrqDhG2FiVQlNzkgRD) | 3:21 | 2022-09-20 |  |
 | [Waveless Sea](https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Waveless Sea](https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s) | 3:59 | 2022-08-30 |  |
-| [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-04-26 |  |
+| [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-04-26 | 2022-12-09 |
 | [When All Was Said and Done](https://open.spotify.com/track/4RTUdqbqiuKJ3cu7PBvScU) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [When All Was Said and Done](https://open.spotify.com/album/2RD4jX3CYtP6pvuNAnLqPi) | 4:35 | 2022-05-17 |  |
 | [When I Fall In Love](https://open.spotify.com/track/0w7mhiHnM0rhdu3l5mDDYl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:57 | 2022-01-26 | 2022-10-28 |
 | [When You Return](https://open.spotify.com/track/7LTpiEX2hKJjvMdMFICzSU) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [When You Return](https://open.spotify.com/album/2qwg1oqLV6X7JgsB774y0H) | 5:45 | 2022-08-10 |  |

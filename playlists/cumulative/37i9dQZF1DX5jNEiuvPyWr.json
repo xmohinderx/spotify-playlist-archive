@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : GR OMEGA",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : joysad",
   "name": "Cloud Rap",
   "published_playlist_ids": [
     "5hZd800bY7alcQHZCY6dmZ"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 212793,
       "name": ".QUI.TU.VEUX.",
       "url": "https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 169250,
       "name": "1jour",
       "url": "https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb"
@@ -159,6 +159,24 @@
       "duration_ms": 238652,
       "name": "Alita (feat. Rounhaa)",
       "url": "https://open.spotify.com/track/4RV2l9VHEPYrUXZXdiusEy"
+    },
+    {
+      "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/3RVYGYZWzZsz2grcl5CWqw"
+      },
+      "artists": [
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/2gVEgY3FxEL8R4frXffu6E"
     },
     {
       "album": {
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 125825,
       "name": "L'AVANCE",
       "url": "https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 233679,
       "name": "Silver Haze",
       "url": "https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY"
@@ -2038,6 +2056,28 @@
     },
     {
       "album": {
+        "name": "Smile:( (feat. So La Lune)",
+        "url": "https://open.spotify.com/album/4fSVefoyfmjASBGew0QzjL"
+      },
+      "artists": [
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        },
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Smile:( (feat. So La Lune)",
+      "url": "https://open.spotify.com/track/1TBRrjtmgVxKTOJIjYiMrf"
+    },
+    {
+      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE"
       },
@@ -2053,6 +2093,24 @@
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf"
+    },
+    {
+      "album": {
+        "name": "Sorcellerie",
+        "url": "https://open.spotify.com/album/3Bu0F3D4cRVX54BSPpni0k"
+      },
+      "artists": [
+        {
+          "name": "Golgoth",
+          "url": "https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140135,
+      "name": "Sorcellerie",
+      "url": "https://open.spotify.com/track/0tE3YgjdLTsyHXqVDMQRup"
     },
     {
       "album": {

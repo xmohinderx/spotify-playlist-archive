@@ -1,28 +1,112 @@
 {
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e?si=U-tX-QiYQkmrwftWnDnSZQ\"> Adomaa</a> ",
-  "num_followers": 7367,
+  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=2HgKz2LQRDmlX_TiWvxZsg\"> Kold AF</a> ",
+  "num_followers": 7382,
   "original_name": "Sizzlers ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2ODU4NSwwMDAwMDAwMGIwNzYyNWU4NWE1YjdkNTc1YjgzYjdkOTU5MDU2YTgw",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGE1MDhjNzU4YjdlNDQ1NzM2NDZjMzM3YjM2YmQwNzQ3",
   "tracks": [
     {
-      "added_at": "2022-12-02 00:00:00",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "How To Kill A Man (Acoustic)",
-        "url": "https://open.spotify.com/album/4qFn5L8w0027MonWrHowRP"
+        "name": "Kold Szn",
+        "url": "https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D"
       },
       "artists": [
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
         }
       ],
-      "duration_ms": 173433,
-      "name": "How To Kill A Man - Acoustic",
-      "url": "https://open.spotify.com/track/1XQ0EtxFkmXdy9CwN3ihST"
+      "duration_ms": 181348,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Things I Know",
+        "url": "https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 170457,
+      "name": "Things I Know",
+      "url": "https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb"
+    },
+    {
+      "added_at": "2022-11-18 11:31:46",
+      "album": {
+        "name": "Confess",
+        "url": "https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "duration_ms": 160879,
+      "name": "Confess",
+      "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ"
+      },
+      "artists": [
+        {
+          "name": "Dami Oniru",
+          "url": "https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
+    },
+    {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "Heart Of The Heavenly Undeniable (HOTHU)",
+        "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        }
+      ],
+      "duration_ms": 133392,
+      "name": "I Saw An Angel On The Roof & Wept",
+      "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Fine Wine (ft. Amaarae)",
+        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
+      },
+      "artists": [
+        {
+          "name": "Kelechief",
+          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Fine Wine (ft. Amaarae)",
+      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -55,22 +139,6 @@
       "duration_ms": 207529,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/4XTMzpqNfLTdo4Jt7jQ1t0"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Things I Know",
-        "url": "https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP"
-      },
-      "artists": [
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 170457,
-      "name": "Things I Know",
-      "url": "https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb"
     },
     {
       "added_at": "2022-11-18 11:31:46",
@@ -113,54 +181,6 @@
       "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
     },
     {
-      "added_at": "2022-11-18 11:31:46",
-      "album": {
-        "name": "Confess",
-        "url": "https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 160879,
-      "name": "Confess",
-      "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
-    },
-    {
-      "added_at": "2022-11-25 07:36:10",
-      "album": {
-        "name": "Heart Of The Heavenly Undeniable (HOTHU)",
-        "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
-      },
-      "artists": [
-        {
-          "name": "Somadina",
-          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
-        }
-      ],
-      "duration_ms": 133392,
-      "name": "I Saw An Angel On The Roof & Wept",
-      "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ"
-      },
-      "artists": [
-        {
-          "name": "Dami Oniru",
-          "url": "https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Soft Life",
-      "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
-    },
-    {
       "added_at": "2022-10-07 00:54:42",
       "album": {
         "name": "Kae's Study",
@@ -179,6 +199,22 @@
       "duration_ms": 160851,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/0U7ZICZtRhWB3oSMdtulDL"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "How To Kill A Man (Acoustic)",
+        "url": "https://open.spotify.com/album/4qFn5L8w0027MonWrHowRP"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "How To Kill A Man - Acoustic",
+      "url": "https://open.spotify.com/track/1XQ0EtxFkmXdy9CwN3ihST"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -231,6 +267,22 @@
       "duration_ms": 179016,
       "name": "Locked 4 Life",
       "url": "https://open.spotify.com/track/6V5HscDAUed5pcjWOGvfIg"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Monalisa",
+        "url": "https://open.spotify.com/album/1ajxQ6YKhKSriu2rj5fWKk"
+      },
+      "artists": [
+        {
+          "name": "Mr Rej",
+          "url": "https://open.spotify.com/artist/5XnGRfn971YWymMmhiwWRY"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/4lKmOqLQXrBnQdN17YgdGi"
     },
     {
       "added_at": "2022-12-02 08:09:45",
@@ -333,6 +385,22 @@
       "url": "https://open.spotify.com/track/0YcAQqvxtRERBkCFyx7afs"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Boogie Down",
+        "url": "https://open.spotify.com/album/4V9RzFCnX5nnR2gv00fKmu"
+      },
+      "artists": [
+        {
+          "name": "Smyley",
+          "url": "https://open.spotify.com/artist/2NdYp7UDkJLbpJU7mSSprx"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Boogie Down",
+      "url": "https://open.spotify.com/track/6NQ2z6g3eXqqgmlM3Y79fk"
+    },
+    {
       "added_at": "2022-11-25 07:36:10",
       "album": {
         "name": "Cold",
@@ -347,22 +415,6 @@
       "duration_ms": 180705,
       "name": "Cold",
       "url": "https://open.spotify.com/track/10Acd9i7TFQNQzEJKKiv8r"
-    },
-    {
-      "added_at": "2022-10-21 06:00:49",
-      "album": {
-        "name": "Old Wineskins",
-        "url": "https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV"
-      },
-      "artists": [
-        {
-          "name": "Paapa Versa",
-          "url": "https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41"
-        }
-      ],
-      "duration_ms": 224917,
-      "name": "Old Wineskins",
-      "url": "https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL"
     },
     {
       "added_at": "2022-11-15 09:55:58",
@@ -429,6 +481,22 @@
       "url": "https://open.spotify.com/track/4zXMJEavXIWMG9LZHE50Tx"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Second Impression",
+        "url": "https://open.spotify.com/album/48VnWJEgNGFL5fyeA6UqEH"
+      },
+      "artists": [
+        {
+          "name": "DBYZ",
+          "url": "https://open.spotify.com/artist/702Dqp8Ls4Ep2o3wWD6Kz5"
+        }
+      ],
+      "duration_ms": 240483,
+      "name": "Uni Girl",
+      "url": "https://open.spotify.com/track/2rekd1QW4K9WkrgAvijMuQ"
+    },
+    {
       "added_at": "2022-10-28 12:50:25",
       "album": {
         "name": "Pretty",
@@ -459,6 +527,22 @@
       "duration_ms": 134765,
       "name": "Million Dollar",
       "url": "https://open.spotify.com/track/0qDTt6Zxh0w2jCjhSezAfw"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Hakuna Siri",
+        "url": "https://open.spotify.com/album/59QZQVqovBNDE3377uz7nV"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Hakuna Siri",
+      "url": "https://open.spotify.com/track/0GalEYpkaMnB5U3RLWxbc6"
     },
     {
       "added_at": "2022-11-25 07:36:10",
@@ -805,6 +889,22 @@
       "url": "https://open.spotify.com/track/5jahNLedLxT9dTBcgb6hMn"
     },
     {
+      "added_at": "2022-10-21 06:00:49",
+      "album": {
+        "name": "Old Wineskins",
+        "url": "https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV"
+      },
+      "artists": [
+        {
+          "name": "Paapa Versa",
+          "url": "https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41"
+        }
+      ],
+      "duration_ms": 224917,
+      "name": "Old Wineskins",
+      "url": "https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL"
+    },
+    {
       "added_at": "2022-10-28 12:50:25",
       "album": {
         "name": "Perfect Girl (feat. MisterKay)",
@@ -843,6 +943,22 @@
       "duration_ms": 188937,
       "name": "Hard to Find",
       "url": "https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq"
+    },
+    {
+      "added_at": "2022-09-29 23:00:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/4NSFkhmvAQIaXL9f1Qw57e"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/5OG3fwH8vjE3pU6FwFVI5x"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -1041,22 +1157,6 @@
       "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
     },
     {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/4NSFkhmvAQIaXL9f1Qw57e"
-      },
-      "artists": [
-        {
-          "name": "Emmie Muthiga",
-          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/5OG3fwH8vjE3pU6FwFVI5x"
-    },
-    {
       "added_at": "2022-09-23 06:35:46",
       "album": {
         "name": "In The Clouds",
@@ -1087,102 +1187,6 @@
       "duration_ms": 154615,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "SMALL WINS",
-        "url": "https://open.spotify.com/album/2fCDdDPpepMIAtMPw1926c"
-      },
-      "artists": [
-        {
-          "name": "SASHA CHAA",
-          "url": "https://open.spotify.com/artist/5Uhc9u418MjnapB9RqTZir"
-        }
-      ],
-      "duration_ms": 254399,
-      "name": "SMALL WINS",
-      "url": "https://open.spotify.com/track/6B6Sqo3ipPs4bpvCb9ZsJc"
-    },
-    {
-      "added_at": "2022-09-09 09:13:03",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/0BYsVu2QhlXFGq99xlviVt"
-      },
-      "artists": [
-        {
-          "name": "Mikeprince",
-          "url": "https://open.spotify.com/artist/1Th4VZ8M5qpSQUoy8Hnus1"
-        },
-        {
-          "name": "Kinsu",
-          "url": "https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh"
-        }
-      ],
-      "duration_ms": 203568,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/1MLhmKjFXimItwYu16PUeE"
-    },
-    {
-      "added_at": "2022-09-23 06:35:46",
-      "album": {
-        "name": "My Killa",
-        "url": "https://open.spotify.com/album/3rVixIqBYu1raZ9dobQvm7"
-      },
-      "artists": [
-        {
-          "name": "bigBen",
-          "url": "https://open.spotify.com/artist/2x57mfICKFd8AN4TlqatMb"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 218070,
-      "name": "My Killa",
-      "url": "https://open.spotify.com/track/1jVC75rTnFC0yhLMIAw16B"
-    },
-    {
-      "added_at": "2022-09-16 04:46:22",
-      "album": {
-        "name": "MISS UNIVERSE",
-        "url": "https://open.spotify.com/album/2F4eqhwtKRJtq4B8slZoTO"
-      },
-      "artists": [
-        {
-          "name": "$pacely",
-          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
-        },
-        {
-          "name": "Dumey",
-          "url": "https://open.spotify.com/artist/0OEKjS8wv0c1cdc9ogqjFz"
-        }
-      ],
-      "duration_ms": 254076,
-      "name": "MISS UNIVERSE",
-      "url": "https://open.spotify.com/track/6rOY9kHJxwJCNMqsqd2LUO"
-    },
-    {
-      "added_at": "2022-09-09 09:13:03",
-      "album": {
-        "name": "Formula",
-        "url": "https://open.spotify.com/album/3BpxVtjRCsv1sTaZBInyHB"
-      },
-      "artists": [
-        {
-          "name": "Lyta",
-          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 173766,
-      "name": "Formula",
-      "url": "https://open.spotify.com/track/0ALMUzYqM0gQOKpj1G29CR"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1285,74 +1289,6 @@
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
-      "added_at": "2022-09-09 09:13:03",
-      "album": {
-        "name": "Loke",
-        "url": "https://open.spotify.com/album/4m7EBwoAEN19Ncyi8t1kOt"
-      },
-      "artists": [
-        {
-          "name": "Lyta",
-          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
-        },
-        {
-          "name": "DELLFIRE",
-          "url": "https://open.spotify.com/artist/5m7IITJVbhoq5Yl5JWXkpu"
-        }
-      ],
-      "duration_ms": 228837,
-      "name": "Loke",
-      "url": "https://open.spotify.com/track/1apR6WcaNHQWq8a6pa8SIx"
-    },
-    {
-      "added_at": "2022-09-16 04:46:22",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/12flURqPmncSp4H3RgI71k"
-      },
-      "artists": [
-        {
-          "name": "TOME",
-          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
-        }
-      ],
-      "duration_ms": 172460,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1cM0KjvbAjvSOZakmOK2NA"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
-      },
-      "artists": [
-        {
-          "name": "Oladapo",
-          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Gettin' Hot",
-        "url": "https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0"
-      },
-      "artists": [
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Gettin' Hot",
-      "url": "https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Juju pt. 2 - A COLORS SHOW",
@@ -1367,30 +1303,6 @@
       "duration_ms": 196210,
       "name": "Juju pt. 2 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Nowhere To Hide",
-        "url": "https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        },
-        {
-          "name": "Kooldrink",
-          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Nowhere To Hide",
-      "url": "https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1427,26 +1339,6 @@
       "duration_ms": 250491,
       "name": "Love",
       "url": "https://open.spotify.com/track/08r8dLobzYIZLrlKlf5zzI"
-    },
-    {
-      "added_at": "2022-08-05 04:18:20",
-      "album": {
-        "name": "Green Light",
-        "url": "https://open.spotify.com/album/2D4eczOV5fEkR43ic0FiJq"
-      },
-      "artists": [
-        {
-          "name": "BLAKBOYKAY",
-          "url": "https://open.spotify.com/artist/0bf9exCyt4DiZQ3vszlc0b"
-        },
-        {
-          "name": "Melon",
-          "url": "https://open.spotify.com/artist/1nMR9WBk7bWLnAqz5MoVGs"
-        }
-      ],
-      "duration_ms": 150204,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4EiA4H6z3DJ7fkvxmvgHk6"
     },
     {
       "added_at": "2022-07-28 23:00:00",

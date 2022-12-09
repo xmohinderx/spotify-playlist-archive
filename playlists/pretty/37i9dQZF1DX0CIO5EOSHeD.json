@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 398289,
+  "num_followers": 398693,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMGE4MTU0ODk5N2M0OTYzYjlkOGVjN2EwNDgwZjFlN2Ez",
+  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMDE2MjhiYTc5OWNlNDZhM2UzZDAwYmU3ODkyYzhhZWRh",
   "tracks": [
     {
       "added_at": "2022-09-23 10:47:53",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Bee Eyes",
+          "url": "https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf"
+        }
+      ],
+      "duration_ms": 163709,
+      "name": "Midnight on a Sunny Day",
+      "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
         "url": "https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 133090,
       "name": "Maybe the Problem Is Me",
       "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Bee Eyes",
-          "url": "https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf"
-        }
-      ],
-      "duration_ms": 163709,
-      "name": "Midnight on a Sunny Day",
-      "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
     },
     {
       "added_at": "2022-09-13 23:04:24",

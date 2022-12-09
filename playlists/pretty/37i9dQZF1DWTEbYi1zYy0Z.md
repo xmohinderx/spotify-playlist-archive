@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Candy Dulfer
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,379 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,450 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,17 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 13 | [Deep Into You](https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Deep Into You](https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4) | 4:10 |
 | 14 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 |
 | 15 | [Make Up Your Mind \- Radio Edit](https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Make Up Your Mind \(Radio Edit\)](https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC) | 4:00 |
-| 16 | [One More Night \- Single Edit](https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [One More Night](https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve) | 3:47 |
-| 17 | [Sweet Talk](https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Sweet Talk](https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2) | 4:04 |
-| 18 | [Good On You](https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Good On You](https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk) | 4:11 |
+| 16 | [Sweet Talk](https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Sweet Talk](https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2) | 4:04 |
+| 17 | [Good On You](https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Good On You](https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk) | 4:11 |
+| 18 | [One More Night \- Single Edit](https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [One More Night](https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve) | 3:47 |
 | 19 | [Secret Sauce](https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 4:00 |
 | 20 | [Off The Top \- radio single](https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Off The Top](https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a) | 4:19 |
 | 21 | [Foolish Heart](https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq) | [Johnny James Dr J](https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ) | [Foolish Heart](https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj) | 3:37 |
-| 22 | [Movin' N Groovin](https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Movin' N Groovin](https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd) | 4:24 |
-| 23 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 |
-| 24 | [G\-Wiggle](https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream 2\-Turn It Up](https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8) | 4:30 |
-| 25 | [Step to This](https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Step to This](https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM) | 3:52 |
-| 26 | [Breakthrough \- Radio Version](https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Breakthrough \(Radio Version\)](https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt) | 4:12 |
+| 22 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 |
+| 23 | [G\-Wiggle](https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream 2\-Turn It Up](https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8) | 4:30 |
+| 24 | [Step to This](https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Step to This](https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM) | 3:52 |
+| 25 | [Breakthrough \- Radio Version](https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Breakthrough \(Radio Version\)](https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt) | 4:12 |
+| 26 | [Movin' N Groovin](https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Movin' N Groovin](https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd) | 4:24 |
 | 27 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
 | 28 | [Crush](https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Crush](https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU) | 4:16 |
 | 29 | [Unspeakable](https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA) | [Sam Rucker](https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE) | [Unspeakable](https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 49 | [Tribute](https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Tribute](https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl) | 4:05 |
 | 50 | [Cupid Shuffle](https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Cupid Shuffle](https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE) | 3:52 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGY3NWVkNGU0NWM2YTVhMzgxMjkxMzBkMzg1ZDU5NzVm`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGFmZDE4NmZiZjlhMGZkMzE4YjBmYjUxMGI2MWNmMDMz`

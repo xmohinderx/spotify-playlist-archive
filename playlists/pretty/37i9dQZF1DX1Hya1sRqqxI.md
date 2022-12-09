@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,926 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,172 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,12 +132,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 122 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo) | [Santa Esmeralda](https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 10:28 |
 | 123 | [The Bitch Is Back](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
 | 124 | [Lady Marmalade](https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn) | [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Nightbirds](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) | 3:57 |
-| 125 | [That Lady, Pts\. 1 & 2](https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 5:34 |
-| 126 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
+| 125 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
+| 126 | [That Lady, Pts\. 1 & 2](https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 5:34 |
 | 127 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
-| 128 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
-| 129 | [If You Can't Give Me Love \- 2017 Remaster](https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [If You Knew Suzi… \(2017 Remaster\)](https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI) | 3:52 |
-| 130 | [Boogie Nights](https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 5:03 |
+| 128 | [If You Can't Give Me Love \- 2017 Remaster](https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [If You Knew Suzi… \(2017 Remaster\)](https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI) | 3:52 |
+| 129 | [Boogie Nights](https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 5:03 |
+| 130 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 131 | [Instant Karma! \(We All Shine On\) \- Remastered 2010](https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:20 |
 | 132 | [In the Navy \- Original Version 1979](https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West In the Navy](https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i) | 5:39 |
 | 133 | [And the Beat Goes On](https://open.spotify.com/track/5rc28C9Ym7zIAypx3QGcnv) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Whispers / Happy Holidays to You](https://open.spotify.com/album/17Rg4iNDr5gncTwj8zTvUo) | 4:56 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 149 | [Dazz \- Single Version](https://open.spotify.com/track/5gQCUf4lfy6GpuhdPzxQ6B) | [Brick](https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf) | [Super Hits](https://open.spotify.com/album/0NQ5vEtFfn6MDbFtNk3gUQ) | 3:22 |
 | 150 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 |
 
-Snapshot ID: `MTY2OTk2NTUzOSwwMDAwMDAwMDQ1MmQxNDZkZmZhMjAyN2U5OWU3ZmJmYzZhZmFjNGEy`
+Snapshot ID: `MTY2OTk2NTUzOSwwMDAwMDAwMDBlMTdmZGE1NzA2YmE3ZjM5OTc5ODk5OTQ0MjhhYmQ1`

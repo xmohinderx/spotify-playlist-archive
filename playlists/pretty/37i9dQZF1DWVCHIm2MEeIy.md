@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > Time to rave again.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,087 likes - 70 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,291 likes - 70 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 49 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
 | 50 | [Heaven \- Oliver Schories Club Mix](https://open.spotify.com/track/2ZtjuNdPKbiRlxCAm7J8Tt) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Heaven \(Oliver Schories Club Mix\)](https://open.spotify.com/album/2n0qGGx3bVrgRBTu3P3Stn) | 3:45 |
 | 51 | [Silence & Secrets \- Adriatique Remix](https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Silence & Secrets \(Adriatique Remix\)](https://open.spotify.com/album/0Y0xhBcScceez0FfDnap8p) | 7:21 |
-| 52 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 |
-| 53 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
+| 52 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
+| 53 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 |
 | 54 | [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 |
 | 55 | [Go \- Anfisa Letyago Remix](https://open.spotify.com/track/6UFcxC1P9Dr5q9vYjGT5A7) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Go \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3iHg6AnbZx5YM2Q2cXWno3) | 5:38 |
 | 56 | [Dance with That Groove](https://open.spotify.com/track/0VVsLXAYnzm3njaefKmOhC) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm) | [Dance with That Groove](https://open.spotify.com/album/5hGq4tS6Kd02aaPykH4cs0) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Awake](https://open.spotify.com/track/4hPHYE8cnt5cCXfirZVg05) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Awake](https://open.spotify.com/album/4lNOFm7ee2KRebEphh7tRH) | 3:29 |
 | 70 | [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 |
 
-Snapshot ID: `MTY2OTM4NjAzMywwMDAwMDAwMDU3ZTJmNmJiZmQwMjU5OGU0ZWEzZDNhNWZkZmEyMDZh`
+Snapshot ID: `MTY2OTM4NjAzMywwMDAwMDAwMDQ0ODMxMzIzY2JjYzUyZmQ2NTdiMjNjMWVlNzAwMGJi`

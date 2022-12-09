@@ -4,7 +4,7 @@
 
 > Si te gustan por separado, ¿cómo no te van a gustar juntos?
 
-104 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/5xE0Z6rCVdMCq72w3t0VYv)
+105 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/5xE0Z6rCVdMCq72w3t0VYv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Yate](https://open.spotify.com/track/0q7psxaixBQ8FkqyVpbfky) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yate](https://open.spotify.com/album/65BZfDQ8PCkHXtRYuaCbuI) | 3:25 | 2022-03-29 |  |
 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 | 2022-03-29 |  |
 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 | 2022-03-29 |  |
-| [¿Cuánto E$?](https://open.spotify.com/track/77eLBhhdkYwEOptOKfkXlh) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 3:07 | 2022-03-29 |  |
+| [¿Cuánto E$?](https://open.spotify.com/track/0t5v9u01TBg8gEQk69orZ0) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 3:07 | 2022-09-02 |  |
+| [¿Cuánto E$?](https://open.spotify.com/track/77eLBhhdkYwEOptOKfkXlh) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 3:07 | 2022-03-29 | 2022-12-09 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

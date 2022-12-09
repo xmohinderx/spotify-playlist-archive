@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,040 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,302 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 48 | [Disco Tool \(Taiki Nulight Remix\)](https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Disco Tool \(Remixes\)](https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG) | 3:37 |
 | 49 | [Your Body](https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Your Body](https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP) | 2:45 |
 | 50 | [Flexin](https://open.spotify.com/track/2OvqYU6lo9GA6hO2jVttKm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Flexin](https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn) | 2:15 |
-| 51 | [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 |
-| 52 | [Fly With Us](https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Fly With Us](https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0) | 4:08 |
+| 51 | [Fly With Us](https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Fly With Us](https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0) | 4:08 |
+| 52 | [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 |
 | 53 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 |
 | 54 | [Losing Sleep](https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Losing Sleep](https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV) | 2:49 |
 | 55 | [Tonight](https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Tonight](https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [This Is Love](https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [This Is Love](https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN) | 2:08 |
 | 100 | [Time](https://open.spotify.com/track/55f2O4I6eZ8GLCinoWRF6y) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Time](https://open.spotify.com/album/2d2ED1cEdtypHWeJR9RxOl) | 2:56 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDJjYjM1NzJhZTkzODk3MGZlZTdhOWU0Yjc4OWI4Y2Q3`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGNmYTRkNmVlOTRhOGViY2YwZGUxZjkxOWU0ZGVlYzZh`

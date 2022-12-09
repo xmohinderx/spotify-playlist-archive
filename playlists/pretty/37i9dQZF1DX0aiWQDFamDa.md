@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,014 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,144 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 75 | [Alba](https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI) | [Echoes](https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx) | 4:24 |
 | 76 | [Leave Me Here](https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Hidden Beauty](https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF) | 4:03 |
 | 77 | [Silence](https://open.spotify.com/track/7mUwgUAe0RGbNGdkCJ2vHn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs) | [Silence](https://open.spotify.com/album/2z7RHmHsRzRii3GrhGpF6U) | 8:44 |
-| 78 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 |
-| 79 | [Farewell](https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Farewell](https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5) | 3:59 |
+| 78 | [Farewell](https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Farewell](https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5) | 3:59 |
+| 79 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 |
 | 80 | [Rainbow Mountains](https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rainbow Mountains](https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K) | 4:50 |
 | 81 | [I Fall in Love Too Easily](https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 7:18 |
 | 82 | [Black Forest Rose](https://open.spotify.com/track/46KhjnbImVzXTidxnZeqzH) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Black Forest Rose](https://open.spotify.com/album/6uCZP5InNgoKOxh8WPQkYz) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 99 | [Don't Explain](https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1) | [New York Trio](https://open.spotify.com/artist/6U7yxyvc7JseXp9WbFdQm7) | [夜のブルース](https://open.spotify.com/album/0bGfW2KduWtUnGwBRb5oYW) | 5:56 |
 | 100 | [Spartacus Love Theme](https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 7:53 |
 
-Snapshot ID: `MTY3MDQxNjYxNiwwMDAwMDAwMDE3ODEwYWZhNGFlNjU2MWEzNzFiYzk4OGRiNDE2Njc1`
+Snapshot ID: `MTY3MDQxNjYxNiwwMDAwMDAwMGZjYjZlMjhkOWEzMjllNjU0ZmQyODM5MjRiODZlODNl`

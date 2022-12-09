@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > The feelings you can't put into words...only songs\. Cover: Rileyy Lanez
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,803 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,846 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 68 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 |
 | 69 | [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 |
 | 70 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
-| 71 | [Late Night](https://open.spotify.com/track/3wieNkso3b4ctBodn0xUlQ) | [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Late Night](https://open.spotify.com/album/2aO2w1pK8fyvgTyJb4Q4SV) | 2:38 |
-| 72 | [When You Love Someone feat\. H.E.R\. \(feat\. H.E.R.\)](https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [FWM](https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg) | 3:19 |
-| 73 | [Confujawn \(feat\. Nija\)](https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Confujawn \(feat\. Nija\)](https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA) | 2:55 |
+| 71 | [Confujawn \(feat\. Nija\)](https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Confujawn \(feat\. Nija\)](https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA) | 2:55 |
+| 72 | [Late Night](https://open.spotify.com/track/3wieNkso3b4ctBodn0xUlQ) | [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Late Night](https://open.spotify.com/album/2aO2w1pK8fyvgTyJb4Q4SV) | 2:38 |
+| 73 | [When You Love Someone feat\. H.E.R\. \(feat\. H.E.R.\)](https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [FWM](https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg) | 3:19 |
 | 74 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 |
 | 75 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 76 | [Pressure](https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Ultraviolet](https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 |
 | 100 | [Sock It 2 Me](https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sock It 2 Me](https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35) | 3:21 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGVmZmM0NGRmNzJhMTMwYzQ2M2Q5OGQ3NzdlMTljZjVj`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDQ5ODUyOGRlZmYxNDc2ZWUwYTk1Y2EzNjA5Y2VmYzE5`

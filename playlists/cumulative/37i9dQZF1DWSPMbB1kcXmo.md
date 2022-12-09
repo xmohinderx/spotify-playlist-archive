@@ -2,7 +2,7 @@
 
 ### [internet rewind](https://open.spotify.com/playlist/37i9dQZF1DWSPMbB1kcXmo)
 
-> Viral classics\. Yep, we're at that stage.
+> Viral classics\. Yup, we're at that stage.
 
 236 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/1wC1JPTD64RPnj3MFCqCfc)
 

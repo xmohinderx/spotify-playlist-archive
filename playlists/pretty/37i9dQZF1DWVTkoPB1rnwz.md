@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,343 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,423 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 16 | [Kombucha](https://open.spotify.com/track/0DdKTv7NiZ4DWV99zoNv6A) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/27cW4XLj3mNWOb5VOv8k79) | 1:23 |
 | 17 | [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 |
 | 18 | [Marshmallow](https://open.spotify.com/track/6N2yBySX0VhCVlVHKngirs) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/79tfjRNKLemO4c2dNXqJFR) | 3:55 |
-| 19 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 |
+| 19 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 |
 | 20 | [Same Way Home \(Wowflower Remix\)](https://open.spotify.com/track/25oS9gdWOLSe8YRralMzPk) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [Same Way Home \(Wowflower Remix\)](https://open.spotify.com/album/0i893HsE4Pqzh8SapOU70l) | 2:06 |
-| 21 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 |
+| 21 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 |
 | 22 | [How to Be Invisible](https://open.spotify.com/track/4Xfi7e0KgofJ5PgCBBauGf) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6CNfqzu5WvgJeS2GegpHnp) | 3:06 |
 | 23 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 |
 | 24 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 |
@@ -48,24 +48,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 38 | [tears \(is this even real?\)](https://open.spotify.com/track/1WiKzAtJ6E1AGjk0VFiT1U) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/45m3UHYn9qrhkjB9Q3y9du) | 2:55 |
 | 39 | [conversations with grandma](https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ) | 1:26 |
 | 40 | [Sansevieria](https://open.spotify.com/track/3APZAHZbjudqp4755vGl2K) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 4:24 |
-| 41 | [Highlight](https://open.spotify.com/track/7edlbffSl8CmIp3fqM6Mcd) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uu7KIkpPuQlmLrQQyzvNy) | 2:02 |
+| 41 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/7eaBu838V5ABXX1i3QvvPZ) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp) | 6:42 |
 | 42 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 |
-| 43 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 |
-| 44 | [Bass.int](https://open.spotify.com/track/1BrPqq3B6WxfpB3c9HU15k) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD) | 1:37 |
-| 45 | [Headache](https://open.spotify.com/track/22ECnbNX6WlUzr7gZelnlW) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Headache](https://open.spotify.com/album/1GTBhTkHMVf6eRvn1K4Ipk) | 2:26 |
-| 46 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/7eaBu838V5ABXX1i3QvvPZ) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp) | 6:42 |
+| 43 | [Highlight](https://open.spotify.com/track/7edlbffSl8CmIp3fqM6Mcd) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uu7KIkpPuQlmLrQQyzvNy) | 2:02 |
+| 44 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 |
+| 45 | [Bass.int](https://open.spotify.com/track/1BrPqq3B6WxfpB3c9HU15k) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD) | 1:37 |
+| 46 | [Headache](https://open.spotify.com/track/22ECnbNX6WlUzr7gZelnlW) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Headache](https://open.spotify.com/album/1GTBhTkHMVf6eRvn1K4Ipk) | 2:26 |
 | 47 | [Cuckoo](https://open.spotify.com/track/21nmBBjOkUxLbeU8lmxmxA) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 2:25 |
 | 48 | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/1E5DCumnwDMoZm6DGhUo4V) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/1gaKUiWdoNRRC7B3w5rCuv) | 2:40 |
 | 49 | [People On Sunday](https://open.spotify.com/track/6gsHs8YnmYgj14Seft55PN) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People on Sunday](https://open.spotify.com/album/5ia6LeaizcrUEwWs9koCcL) | 3:45 |
 | 50 | [Sinú](https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6) | [Nodes](https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv) | [Pantano Lontano](https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE) | 5:41 |
 | 51 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 |
-| 52 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
-| 53 | [Sleepy Story.](https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 1:55 |
-| 54 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 |
-| 55 | [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 |
-| 56 | [Lilac](https://open.spotify.com/track/1o6NbOV0dqkjeaXFiTMJOO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/7s9B2fGXMeIgYEnoHxrzWN) | 2:40 |
-| 57 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 |
-| 58 | [Fieldwalk](https://open.spotify.com/track/04XRc0XxLqOBBhIay8KB0u) | [Falls](https://open.spotify.com/artist/3ATHXs1f58nnxQGsP90xbz) | [I Went to the Woods EP](https://open.spotify.com/album/4OxAKCUCNlJzmBw3iygiWK) | 3:21 |
+| 52 | [Fieldwalk](https://open.spotify.com/track/04XRc0XxLqOBBhIay8KB0u) | [Falls](https://open.spotify.com/artist/3ATHXs1f58nnxQGsP90xbz) | [I Went to the Woods EP](https://open.spotify.com/album/4OxAKCUCNlJzmBw3iygiWK) | 3:21 |
+| 53 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
+| 54 | [Sleepy Story.](https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 1:55 |
+| 55 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 |
+| 56 | [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 |
+| 57 | [Lilac](https://open.spotify.com/track/1o6NbOV0dqkjeaXFiTMJOO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/7s9B2fGXMeIgYEnoHxrzWN) | 2:40 |
+| 58 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 |
 | 59 | [Dream \#1 \[Arrival\]](https://open.spotify.com/track/4IXEVZuLscgxvGZdor0Acu) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams](https://open.spotify.com/album/6MaSpqMna6KfVZ84qzFbpO) | 4:18 |
 | 60 | [Seals](https://open.spotify.com/track/6AlFSBiCpW73fOQUWDJ3q5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/1vGxp3fYpDr1weKcyLzvSK) | 2:18 |
 | 61 | [they sink \- TOKiMONSTA remix](https://open.spotify.com/track/1wrVNFd1voyFZ12xX2elYT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [they sink](https://open.spotify.com/album/7xnL3Sr60ByV3juvyDrYE0) | 4:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [Monospace](https://open.spotify.com/track/01t81v0bqY73qcOoM6WUOC) | [Lawrence Blake](https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv) | [Monospace](https://open.spotify.com/album/10UfKBIklZy668Jcv6pN5S) | 2:26 |
 | 100 | [among the trees](https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II) | [among the trees](https://open.spotify.com/album/2xV69A1DRRJmSaNpXTMVBg) | 1:58 |
 
-Snapshot ID: `MTY3MDM4NTk2OCwwMDAwMDAwMDI4ZDdmZTEwNzRkMDZjZTgyMGRlOWMxYzE1M2U1YmNj`
+Snapshot ID: `MTY3MDM4NTk2OCwwMDAwMDAwMGMwODBlZjkzYzg2MGMxZGVmMjQwYTczYmIzNTk0YjI4`

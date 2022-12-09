@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,468 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,470 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feather \(feat\. Cise Starr & Akin from CYNE\)](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Star](https://open.spotify.com/artist/33U7NALGE1kDIhgwofWG2s), [Akin Yai](https://open.spotify.com/artist/5BY7uwdKwTd7ZZRFLUxhcw) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 2:55 |
 | 2 | [lovesick](https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/3l7m9a8tkGbZPZ44Bd1QoA) | 2:30 |
-| 3 | [love](https://open.spotify.com/track/1vgH8Pxm88SZAtNDFj1pKT) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:21 |
-| 4 | [this girl](https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 2:02 |
+| 3 | [this girl](https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 2:02 |
+| 4 | [love](https://open.spotify.com/track/1vgH8Pxm88SZAtNDFj1pKT) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:21 |
 | 5 | [m i s t](https://open.spotify.com/track/5j6vt3vHU22A9nuuMlRnwA) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/03rTwruRPImbzxnhEmO0wa) | 1:58 |
 | 6 | [summer nights.](https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Nion](https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0) | [summer nights.](https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc) | 1:24 |
 | 7 | [Luv \(sic\)](https://open.spotify.com/track/6SNGzhVrisdq63Ndz58ovT) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [Rosewood](https://open.spotify.com/track/2W4tfxMbqiqzhfvRGTWAo5) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Rosewood](https://open.spotify.com/album/2ezZOU3YpToebih7Rvzx6s) | 2:42 |
 | 75 | [Contigo](https://open.spotify.com/track/69UHI9KF5JRwfKmcMNta8k) | [emune](https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT) | [Sorry](https://open.spotify.com/album/7pXpjVPml1bLD3idUmgCtw) | 1:46 |
 
-Snapshot ID: `MTY1MDAyNDU5MiwwMDAwMDAwMGY5MWFlOWVlOTk4ZDc3YjNlOTU0ODBiNjI2NjZkOTQz`
+Snapshot ID: `MTY1MDAyNDU5MiwwMDAwMDAwMGQzY2U1YTc2YTQ4YTFjNmIyNTYyM2ViYTY2NTVjNDdh`

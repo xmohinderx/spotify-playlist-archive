@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,337 likes - 400 songs - 23 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,461 likes - 400 songs - 23 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 167 | [Joanne](https://open.spotify.com/track/2kecdnlyueotEMC8rdNlf6) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:16 |
 | 168 | [It's On Again \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/3gkiUzAUBH035zRHy7KyJg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [It's On Again \(feat\. Kendrick Lamar\) \[From The Amazing Spider\-Man 2 Soundtrack\]](https://open.spotify.com/album/2frlfPpDjHfemIPVNGAg7a) | 3:14 |
 | 169 | [Don't Be A Fool](https://open.spotify.com/track/7msCKNrI0vZw9H4MIgLnAh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:35 |
-| 170 | [Move](https://open.spotify.com/track/1bmtVglfmSQWfKjgPyERJ8) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:44 |
-| 171 | [Hey](https://open.spotify.com/track/6KZmDucZFfvxGJkrHInbix) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey](https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH) | 3:35 |
+| 170 | [Hey](https://open.spotify.com/track/6KZmDucZFfvxGJkrHInbix) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey](https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH) | 3:35 |
+| 171 | [Move](https://open.spotify.com/track/1bmtVglfmSQWfKjgPyERJ8) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:44 |
 | 172 | [Feelings](https://open.spotify.com/track/2dyyOwe0KxTZTJjjXDeLmU) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:14 |
 | 173 | [Boyfriend](https://open.spotify.com/track/0i2xIlZCO0H3mSpxr2HzgK) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW) | 3:45 |
 | 174 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/06Hdbxh6NCy6TIhjdXTchB) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/album/2ryym6yEc6r3ZuigHBDr1A) | 3:29 |
@@ -220,11 +220,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 210 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 211 | [Never Gonna Leave This Bed](https://open.spotify.com/track/4ucLHLiSjvkCz5Lr5dlVUj) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:16 |
 | 212 | [Angel in Blue Jeans](https://open.spotify.com/track/2GxGYGrixbXPFojONbzdo9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Bulletproof Picasso](https://open.spotify.com/album/1PMnpn5UMsYVP8bLT2v7U5) | 3:25 |
-| 213 | [Don't Matter Now](https://open.spotify.com/track/0SQN1rxWySXy2K2imvcpTr) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 2:56 |
-| 214 | [Change Your Life](https://open.spotify.com/track/1nDQ9EvOmLj1dYKRbbqcoU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:25 |
-| 215 | [Forget to Forget](https://open.spotify.com/track/4E5IBDRu8kJbzUv1qaZM1t) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Forget to Forget](https://open.spotify.com/album/3GX2lFOgBOfVw4BYsINt6S) | 2:35 |
+| 213 | [Change Your Life](https://open.spotify.com/track/1nDQ9EvOmLj1dYKRbbqcoU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:25 |
+| 214 | [Don't Matter Now](https://open.spotify.com/track/0SQN1rxWySXy2K2imvcpTr) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 2:56 |
+| 215 | [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 |
 | 216 | [If I Were Sorry](https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [If I Were Sorry](https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX) | 3:04 |
-| 217 | [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 |
+| 217 | [Forget to Forget](https://open.spotify.com/track/4E5IBDRu8kJbzUv1qaZM1t) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Forget to Forget](https://open.spotify.com/album/3GX2lFOgBOfVw4BYsINt6S) | 2:35 |
 | 218 | [Barbies](https://open.spotify.com/track/4IM1V7mJvYJSrDQIJnQl5S) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:43 |
 | 219 | [Seventeen](https://open.spotify.com/track/7iyKbBjb2fmTnTfCjCh7ER) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:38 |
 | 220 | [Don't Stop](https://open.spotify.com/track/57MOpbjOIoWMZnstWOtfm6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 2:49 |
@@ -278,8 +278,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 268 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 |
 | 269 | [Alive](https://open.spotify.com/track/05cXQMJcrM9msUYu11mOrs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Alive](https://open.spotify.com/album/1dWhND56sMmlCvxdUytMxZ) | 4:23 |
 | 270 | [Sucker Punch](https://open.spotify.com/track/7FeWgVGGphXuSUu5wNeAcJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:14 |
-| 271 | [Sax](https://open.spotify.com/track/20dJUFrfY0TBZ7HHhJgjsg) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Sax](https://open.spotify.com/album/5rywm2MmNo44XiEXaVyMJ8) | 3:56 |
-| 272 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
+| 271 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
+| 272 | [Sax](https://open.spotify.com/track/20dJUFrfY0TBZ7HHhJgjsg) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Sax](https://open.spotify.com/album/5rywm2MmNo44XiEXaVyMJ8) | 3:56 |
 | 273 | [Uh Huh](https://open.spotify.com/track/0oiKDZUxZn9i4jCCDmbTM2) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:58 |
 | 274 | [Now That I Found You](https://open.spotify.com/track/3dtp75StyEK5XeKraS5KiI) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:20 |
 | 275 | [Lady \(feat\. Pitbull\)](https://open.spotify.com/track/32FNQjaLvPJYCqRwDDxMu6) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [For Me + You](https://open.spotify.com/album/7nKNy4dxqjtlMKCeFzwJvm) | 3:31 |
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 399 | [Welcome To New York](https://open.spotify.com/track/6qnM0XXPZOINWA778uNqQ9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:32 |
 | 400 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 |
 
-Snapshot ID: `MTY2OTcwMjM1OSwwMDAwMDAwMGIyZmNhZDA3ZTE1MzgzMzU4MjAwODBjYTUxNmFjZWI3`
+Snapshot ID: `MTY2OTcwMjM1OSwwMDAwMDAwMDlmODk5MzEwYTI1OTFmMzQ3NTY0YTQxOGMzMjY5OGQ4`

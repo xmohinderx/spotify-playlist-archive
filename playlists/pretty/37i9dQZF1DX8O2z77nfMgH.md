@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Arcangel, Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,554 likes - 59 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,634 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
+| 1 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
 | 2 | [Marbella](https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 3:02 |
 | 3 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 |
 | 4 | [Delincuente](https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Delincuente](https://open.spotify.com/album/10Abca73iOgyBWR0EsZoDU) | 2:52 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 14 | [Kachin](https://open.spotify.com/track/6mhWPv4qu7hBmBZlRs5vza) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Kachin](https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY) | 2:22 |
 | 15 | [Traidora](https://open.spotify.com/track/2WFGzlk1zNfT2z7AFZbMuu) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Barbie Copiloto](https://open.spotify.com/album/1dBtLw9hC4Jo2zNj39VLth) | 2:16 |
 | 16 | [Mañana No Hay Clases](https://open.spotify.com/track/15x2G17cXjMiQTNTyjAMft) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Mañana No Hay Clases](https://open.spotify.com/album/2Z6kLAdfoTIeyEOLpuRt0I) | 2:19 |
-| 17 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
+| 17 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
 | 18 | [Avisa Lá \(feat\. Rebecca\)](https://open.spotify.com/track/058t1LUDIQuWs44iagnUlO) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Avisa Lá \(feat\. Rebecca\)](https://open.spotify.com/album/1PjqEdDTxIKyujzgdLG4K8) | 2:03 |
 | 19 | [Adentro](https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Adentro](https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU) | 2:12 |
 | 20 | [Corazón Sin Cara \- 2.0](https://open.spotify.com/track/2KYJkrhsEOmyUgeFPCHvkD) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Corazón Sin Cara \(2.0\)](https://open.spotify.com/album/5HDywuzxDTbHC3FyKsv4bK) | 3:30 |

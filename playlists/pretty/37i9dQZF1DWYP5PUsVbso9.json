@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 220791,
+  "num_followers": 220870,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMDE3Mjg2NWJmOGJiMDhkZTFkNmMxNDllNGEzOWJlM2Rl",
+  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMDU1OThlMzhmZGI2OWU4OTBlNTE2OWU1Yjk5NWUxYWNh",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
+        "name": "Love In The Hot Afternoon",
+        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Love In The Hot Afternoon",
+      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
         "name": "Good 'N' Country",
         "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Charlie Rich - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Love In The Hot Afternoon",
-        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
+        "name": "Charlie Rich - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
       },
       "artists": [
         {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
         }
       ],
-      "duration_ms": 199400,
-      "name": "Love In The Hot Afternoon",
-      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
+      "duration_ms": 162866,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
     },
     {
       "added_at": "2022-07-25 21:35:55",

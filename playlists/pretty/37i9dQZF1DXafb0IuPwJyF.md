@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,209 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,612 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 4 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 |
 | 5 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 6 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
-| 7 | [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 |
+| 7 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [宇多田ヒカル](https://open.spotify.com/artist/6MMLp7FXx1mewrxMaLr85Y) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 |
 | 8 | [クリスマスイブ](https://open.spotify.com/track/1g6Elo93E6SecrU4iVJXpA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [クリスマスイブ](https://open.spotify.com/album/4PNo67FkFcvATpEhXEvYLT) | 3:53 |
 | 9 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
 | 10 | [Mirage Op.4 \- Collective ver\. \(feat\. 長澤まさみ\)](https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk) | [Mirage Collective](https://open.spotify.com/artist/468Drn2keEN3vswfh1qHHf), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I), [YONCE \(Suchmos\)](https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi), [長澤まさみ](https://open.spotify.com/artist/6GjALwVkZtW4lkr2vAe24n) | [Mirage Op.4 \- Collective ver\. \(feat\. 長澤まさみ\)](https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [MOONRAKER](https://open.spotify.com/track/11Ah6sl7XKIuHgPI5ZoO2c) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [MOONRAKER](https://open.spotify.com/album/0wEbthaJbMzqMJ02LipHXN) | 3:05 |
 | 50 | [Tokai no Yurei](https://open.spotify.com/track/5N1vMQL4L3jpgMUniAZrJs) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Tokai no Yurei](https://open.spotify.com/album/5VVeNDmWcIYvYxwTTH1wWv) | 4:17 |
 
-Snapshot ID: `MTY3MDE2NjAwMCwwMDAwMDAwMDg2NGRkMDU4ODQ4NTVhZGUwNzAxMDBmYzAyYTczNzcy`
+Snapshot ID: `MTY3MDU0MDgzMywwMDAwMDAwMGYwMWE2NDc2MTAxMDNlNTg1MDkxNWI2ZjE3ZGUzYzc2`

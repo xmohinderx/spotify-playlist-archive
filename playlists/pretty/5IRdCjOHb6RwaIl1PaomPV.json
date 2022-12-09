@@ -1,13 +1,29 @@
 {
   "description": "The latest tracks from Mad Decent and friends. Eartheater Trinity (Deluxe), plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.",
-  "num_followers": 51382,
+  "num_followers": 51383,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "NjIzNSwyYWJmY2YwNjMzNTI1M2VlNzg2YTJlNjQxMWE3MzdhNTI0Y2NhMjRm",
+  "snapshot_id": "NjIzNyxhZTFiYjM2ZTQyNmFjNDZkNjE1NGNmNTJiZDAxZGM3NWRkMTRlZjMz",
   "tracks": [
+    {
+      "added_at": "2022-12-09 00:45:03",
+      "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
     {
       "added_at": "2022-12-07 20:04:37",
       "album": {

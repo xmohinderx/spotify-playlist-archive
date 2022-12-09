@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,670,769 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,670,972 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 4 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 |
 | 5 | [Run](https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Run](https://open.spotify.com/album/4LnDWolNUZJEqZdwVjRHKc) | 3:11 |
 | 6 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 |
-| 7 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 |
-| 8 | [Beyond Beliefs](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 5:13 |
+| 7 | [Beyond Beliefs](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 5:13 |
+| 8 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 |
 | 9 | [1984](https://open.spotify.com/track/0scTJd9W6i8CJFJ1dtPzw7) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [1984](https://open.spotify.com/album/03FYIY7GnjIE0F3qvAaszJ) | 2:37 |
 | 10 | [Wasting Love](https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Wasting Love](https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1) | 2:13 |
 | 11 | [Saving My Love](https://open.spotify.com/track/3je1VcyoT3FEH6AbttouZj) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Saving My Love](https://open.spotify.com/album/2nUiM1iTSLxDIvvohxrKl8) | 4:52 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 43 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 |
 | 44 | [Mirrors](https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Mirrors](https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB) | 3:40 |
 | 45 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 |
-| 46 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 |
-| 47 | [High Fly](https://open.spotify.com/track/2LBf4COkSAdeWiErXJXJ7l) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [High Fly](https://open.spotify.com/album/6OtdbB8E8qul34J2xyI4Bv) | 4:20 |
+| 46 | [High Fly](https://open.spotify.com/track/2LBf4COkSAdeWiErXJXJ7l) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [High Fly](https://open.spotify.com/album/6OtdbB8E8qul34J2xyI4Bv) | 4:20 |
+| 47 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 |
 | 48 | [Fall In Love](https://open.spotify.com/track/2nJ2lKCSKBUjqrEUlTyi9c) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [Fall In Love](https://open.spotify.com/album/5BVxHRFGDTzrpeer3z5BHP) | 2:55 |
 | 49 | [All Equal](https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [All Equal](https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS) | 3:42 |
 | 50 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 60 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 |
 | 61 | [Mukiwa](https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mukiwa](https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo) | 4:18 |
 | 62 | [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 |
-| 63 | [Oasis](https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/2kH9815MY3JaK71IEFENli) | 2:59 |
-| 64 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 |
+| 63 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 |
+| 64 | [Oasis](https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/2kH9815MY3JaK71IEFENli) | 2:59 |
 | 65 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 |
 | 66 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 |
 | 67 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 73 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 |
 | 74 | [Daylight](https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G) | 2:32 |
 | 75 | [Ocean of Love](https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Ocean of Love](https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF) | 4:11 |
-| 76 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 |
+| 76 | [Alike](https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:15 |
 | 77 | [Heat Waves](https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Heat Waves](https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd) | 2:37 |
-| 78 | [Alike](https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:15 |
+| 78 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 |
 | 79 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 |
 | 80 | [Waves](https://open.spotify.com/track/2IeGo6SC3TRmqQxFCW0hAT) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Waves](https://open.spotify.com/album/6ent80pUTxQywClxcj0JZT) | 3:30 |
 | 81 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 |
@@ -93,14 +93,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 83 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 |
 | 84 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 |
 | 85 | [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 |
-| 86 | [Rising Tide](https://open.spotify.com/track/2XZMSf5ojQCuTZggSmXdKd) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [Rising Tide](https://open.spotify.com/album/6Kgq1g1dBScLhBptkdixJH) | 7:31 |
-| 87 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 |
-| 88 | [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 |
+| 86 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 |
+| 87 | [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 |
+| 88 | [Rising Tide](https://open.spotify.com/track/2XZMSf5ojQCuTZggSmXdKd) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [Rising Tide](https://open.spotify.com/album/6Kgq1g1dBScLhBptkdixJH) | 7:31 |
 | 89 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 |
-| 90 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 |
-| 91 | [Furui ki](https://open.spotify.com/track/74LVrjQFQJwCidkzR5i8r8) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Furui ki](https://open.spotify.com/album/4l2yZHy9PEkHUAeNks26IG) | 3:05 |
-| 92 | [Seeds](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws) | [Dj Hindi Bacha](https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV) | [Seeds](https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD) | 3:13 |
-| 93 | [Lost In Stereo](https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Lost In Stereo](https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5) | 2:38 |
+| 90 | [Furui ki](https://open.spotify.com/track/74LVrjQFQJwCidkzR5i8r8) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Furui ki](https://open.spotify.com/album/4l2yZHy9PEkHUAeNks26IG) | 3:05 |
+| 91 | [Lost In Stereo](https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Lost In Stereo](https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5) | 2:38 |
+| 92 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 |
+| 93 | [Seeds](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws) | [Dj Hindi Bacha](https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV) | [Seeds](https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD) | 3:13 |
 | 94 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 |
 | 95 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
 | 96 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 |
 | 100 | [Never Thought](https://open.spotify.com/track/7J6C6egjH7ZmFMko8ESITj) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Never Thought](https://open.spotify.com/album/1OjaAJlrCNgIiSGIRyy7st) | 6:34 |
 
-Snapshot ID: `MTY2OTM5MzA4NiwwMDAwMDAwMDY5NmY0ZjQxNWY5M2Q5ZWNjYTNjZTliYWYzN2U4MjMy`
+Snapshot ID: `MTY2OTM5MzA4NiwwMDAwMDAwMDEzOWM0NDM4NWIxM2FkOTNmOTgwNDcwZDQ5MjcwM2U3`

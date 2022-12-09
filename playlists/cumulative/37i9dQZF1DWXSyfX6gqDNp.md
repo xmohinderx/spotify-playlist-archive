@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-195 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+196 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alone Together](https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 7:34 | 2022-02-03 | 2022-08-18 |
 | [Am I Blue](https://open.spotify.com/track/2H9sFbaD7lixr8KrsXdiLh) | [Jiggs Whigham](https://open.spotify.com/artist/3Bzlk4ZlefSEhybdIYWEyr) | [Values](https://open.spotify.com/album/0KY9p5iJxvyXP1ruqNuc7M) | 4:47 | 2021-12-14 | 2022-08-18 |
 | [And All Is Well Now](https://open.spotify.com/track/116Z8pydjYsREn2LWk7El7) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [And All Is Well Now](https://open.spotify.com/album/15D4tQlzbR4iCFPSF2DqTM) | 3:09 | 2021-12-14 | 2022-05-04 |
+| [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2022-12-08 |  |
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 |  |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-08-11 |  |
 | [Autumn Serenade](https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Autumn Serenade](https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l) | 3:56 | 2022-05-24 | 2022-08-12 |
@@ -35,7 +36,7 @@
 | [Blue Romance](https://open.spotify.com/track/7AL3evf6T03lEluSTET854) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Blue Romance](https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH) | 4:02 | 2021-12-14 |  |
 | [Blueberry Street](https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:15 | 2022-06-08 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2021-12-14 |  |
-| [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 |  |
+| [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 | 2022-12-09 |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2021-12-14 |  |
 | [Close Your Eyes](https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Close Your Eyes](https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk) | 3:46 | 2022-04-12 |  |
 | [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-06-14 |  |

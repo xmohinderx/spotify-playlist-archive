@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,246 likes - 178 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,279 likes - 178 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 74 | [introspection](https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [introspection](https://open.spotify.com/album/2UckQg0YEvSSE9Ckzz7Uda) | 1:52 |
 | 75 | [Peach](https://open.spotify.com/track/2gnTR4wQ7EhwZYoRRZWnrT) | [zxry.](https://open.spotify.com/artist/2EBMa1emZmsUTYcb1xJwIJ) | [Peach](https://open.spotify.com/album/4NosSndHdk6qgy0OAs9Fay) | 2:03 |
 | 76 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 |
-| 77 | [First Impressions](https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB) | [Hale Ztrike](https://open.spotify.com/artist/4D0c2cETxMrps8sKgzKQVH) | [First Impressions](https://open.spotify.com/album/6UaF71BrRIVOoKWoqOaGPx) | 2:11 |
+| 77 | [First Impressions](https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [First Impressions](https://open.spotify.com/album/6UaF71BrRIVOoKWoqOaGPx) | 2:11 |
 | 78 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [CLOCC](https://open.spotify.com/artist/1QNQOpFcbLjmKPiCDKSiGG) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 |
 | 79 | [A Life of Joy](https://open.spotify.com/track/1dYGpcPwL6p2wrkq3mxDPm) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [A Life of Joy](https://open.spotify.com/album/5DnA5FG3EQKFuVIcqqxtO9) | 3:15 |
 | 80 | [Rainforest](https://open.spotify.com/track/0wViERMhIIaHnCmUhjF19E) | [Yowshi](https://open.spotify.com/artist/1XcacEm8FbUXnZUPObrmtC) | [Rainforest](https://open.spotify.com/album/3ZkEztfd8qSKrqFt4SfiqW) | 1:35 |

@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-868 songs - 1 day 23 hr 3 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
+869 songs - 1 day 23 hr 6 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 | 2020-08-07 | 2022-04-21 |
 | [Daze Inn](https://open.spotify.com/track/20L6erw0ny2hiwQg8c1Dj4) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Daze Inn](https://open.spotify.com/album/3BFa8OzNBHwnCWEOKts7r8) | 2:38 | 2020-06-12 | 2021-05-13 |
 | [Dead End](https://open.spotify.com/track/4i0blWH3Vc8Zp17urOhltG) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Dead End](https://open.spotify.com/album/3m9Ef1v0ON1z07wetvRlZt) | 2:32 | 2019-05-25\* | 2020-01-09 |
-| [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2021-02-23 |  |
+| [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2021-02-23 | 2022-12-09 |
 | [Dear Diary](https://open.spotify.com/track/5AqPW3fH2H4ORBYTVwfHep) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Dear Diary](https://open.spotify.com/album/2ceHI75Oy4F7kYkHYX6Jtg) | 3:36 | 2019-09-13 | 2021-05-28 |
 | [Death Of A Hero](https://open.spotify.com/track/3btBmFS3dZ1EEh0pEH9imU) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Death Of A Hero](https://open.spotify.com/album/1oWYUTEjjp2q07bTb7ud9G) | 3:10 | 2019-06-08 | 2019-08-13 |
 | [Dedicated](https://open.spotify.com/track/49qTk1mtH5egKmtxQwwdkG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Dedicated](https://open.spotify.com/album/5iyZF0ue1oW5JnMJfdSiUe) | 3:02 | 2020-06-12 | 2020-08-14 |
@@ -556,6 +556,7 @@
 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/5UqivtkoiPTXrJu6GIt1mh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You \(Acoustic\)](https://open.spotify.com/album/2lt7XcZlOjyu6tEtrKs24z) | 3:49 | 2019-05-25\* | 2019-10-19 |
 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 | 2020-06-12 | 2021-03-19 |
 | [nobody else](https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:17 | 2020-10-02 | 2022-07-29 |
+| [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-08 |  |
 | [Nobody Likes Moving On](https://open.spotify.com/track/5vcfdnzelPCIZHg8dOkagP) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Nobody Likes Moving On](https://open.spotify.com/album/7LirGgcMQw6UvbM6wQeqwS) | 2:46 | 2020-05-28 | 2021-01-08 |
 | [Nobody's Love](https://open.spotify.com/track/2ST72jD2KVe7f3fbcGyX1b) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:31 | 2022-07-07 | 2022-10-14 |
 | [Nobody's Love](https://open.spotify.com/track/3kwgqoBqTwoAH4nT29TYrq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Nobody's Love](https://open.spotify.com/album/2cDt5R89HP8ZCXhNAmZs27) | 3:31 | 2020-07-24 | 2022-07-29 |

@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 210520,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/6Ckb5FMJHjZh2dFFyfn4RP"
@@ -2015,7 +2015,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 190229,
       "name": "Homegrown Love",
       "url": "https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5"
@@ -3268,6 +3268,24 @@
     },
     {
       "album": {
+        "name": "Right Girl Wrong Time",
+        "url": "https://open.spotify.com/album/3kq9aOY9UP76IllZeDs6jf"
+      },
+      "artists": [
+        {
+          "name": "Route 33",
+          "url": "https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238592,
+      "name": "Right Girl Wrong Time",
+      "url": "https://open.spotify.com/track/7MBvjWbBm15AMifrfbhYWV"
+    },
+    {
+      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh"
       },
@@ -3763,6 +3781,24 @@
       "duration_ms": 171864,
       "name": "South On Ya",
       "url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X"
+    },
+    {
+      "album": {
+        "name": "Spin Me Around",
+        "url": "https://open.spotify.com/album/5MIy6bDypXVV3G9OIFH1VK"
+      },
+      "artists": [
+        {
+          "name": "HUTCH",
+          "url": "https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184072,
+      "name": "Spin Me Around",
+      "url": "https://open.spotify.com/track/11O5vNAyZk5Ls2NcuALmcj"
     },
     {
       "album": {

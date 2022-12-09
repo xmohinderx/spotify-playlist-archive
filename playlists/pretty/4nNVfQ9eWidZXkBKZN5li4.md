@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Best of Bollywood \- Brahmastra \- Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood favourites only on this playlist!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 218,817 likes - 65 songs - 3 hr 57 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 218,839 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kyaa Baat Haii 2.0](https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kyaa Baat Haii 2.0 \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO) | 2:56 |
-| 2 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 |
+| 1 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 |
+| 2 | [Kyaa Baat Haii 2.0](https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kyaa Baat Haii 2.0 \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO) | 2:56 |
 | 3 | [Bijli](https://open.spotify.com/track/3hts3cIWNG8A2063si9GLP) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Bijli \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/3cXSO3oTliGRZG0hGugaXk) | 2:54 |
 | 4 | [Bahara X](https://open.spotify.com/track/0BlKsjU5Md37Z1CZ6UY6bT) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Bahara X](https://open.spotify.com/album/23TvDnvBF4D7pZrzWQ4WGm) | 2:47 |
 | 5 | [Bana Sharabi](https://open.spotify.com/track/2T1K8XIPSIcvXueBS6kw2L) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Bana Sharabi \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/5aCiRP8E4N9Tt0BosHPyfV) | 3:48 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 | 64 | [Jashn\-E\-Bahaaraa](https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 5:15 |
 | 65 | [Cutiepie \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1YOW5pnfikVa6BcCBIOQUU) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Pardeep Singh Sran](https://open.spotify.com/artist/2dnnS3sjCk9OHns6kAYI19), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Cutiepie \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/5ihBJJNvnTaDzEj1i2ACwM) | 3:51 |
 
-Snapshot ID: `NDU1NSwyZTNhMzc4ZDRlNGNjNDgyMWNkNzgyYzdhNmNiOGIwYjg1ZjE1YzM1`
+Snapshot ID: `NDU1NixlMmMyYTA5ZWJkMGRhNGZkMGRmOThjODBlMzlmODA2ZThlODYwODIx`

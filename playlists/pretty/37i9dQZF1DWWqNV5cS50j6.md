@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > BROCKHAMPTON makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,859 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,065 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 49 | [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 |
 | 50 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 
-Snapshot ID: `MTY3MDM2MTk5MiwwMDAwMDAwMGRlNjUyN2FlMDhhNDFkZjUzZmYwYzAzNjY4ZTY0YTQ1`
+Snapshot ID: `MTY3MDUxMjgwMCwwMDAwMDAwMGEyZGFmZDA5ZTNiM2Y0MjY5ZDIyYTlmMjZmOTQyNDQx`

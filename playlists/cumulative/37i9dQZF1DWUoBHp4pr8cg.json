@@ -945,10 +945,32 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 138433,
       "name": "GET DRIP",
       "url": "https://open.spotify.com/track/4P57GgKxNDM9VodgJQloR2"
+    },
+    {
+      "album": {
+        "name": "GET DRIP",
+        "url": "https://open.spotify.com/album/6F0Jl8VK8kPB8ZwuBdNO29"
+      },
+      "artists": [
+        {
+          "name": "BRITE GVNG",
+          "url": "https://open.spotify.com/artist/03SG3QYfweGjoOw26Mgdsv"
+        },
+        {
+          "name": "MY OWN VESSELS",
+          "url": "https://open.spotify.com/artist/6ZyL7I4xf8UsZZcpK9FoOr"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138433,
+      "name": "GET DRIP",
+      "url": "https://open.spotify.com/track/7Cv4OoYTPOkX9vCnsoTqvc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,974 likes - 75 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,024 likes - 75 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 57 | [Margot](https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 3:42 |
 | 58 | [Stop\-Start](https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:12 |
 | 59 | [French Spice \- Remaster 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 8:02 |
-| 60 | [R.J.](https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 3:55 |
+| 60 | [R.J\. \- 2022 Remaster](https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 4:03 |
 | 61 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
 | 62 | [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 |
 | 63 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |

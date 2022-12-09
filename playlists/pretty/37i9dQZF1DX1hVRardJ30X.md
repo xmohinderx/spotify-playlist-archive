@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,944 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,066 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 |
-| 2 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
+| 2 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
 | 3 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 |
 | 4 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 |
 | 5 | [Delincuente](https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Delincuente](https://open.spotify.com/album/10Abca73iOgyBWR0EsZoDU) | 2:52 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 28 | [Que Manera De Quererte](https://open.spotify.com/track/4fxCThGryzRzAt0E7r5R9Z) | [Albita](https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Que Manera De Quererte](https://open.spotify.com/album/621ZpF0yR8tu0a8GhyKrSn) | 4:29 |
 | 29 | [TNT](https://open.spotify.com/track/333ABrYFF167f1S7UysiO3) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [TNT](https://open.spotify.com/album/0zcLHwrA7kV75InWNx0pS9) | 2:53 |
 | 30 | [Santo Domingo](https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Santo Domingo](https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI) | 2:36 |
-| 31 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
+| 31 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
 | 32 | [En Camara Lenta](https://open.spotify.com/track/6rHlebUvcnfndGTIDB66gY) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [En Camara Lenta](https://open.spotify.com/album/4B50gmMfVnHcMyURL9cZiq) | 3:23 |
 | 33 | [JETSKI \- Remix](https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [JETSKI \(Remix\)](https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI) | 4:16 |
 | 34 | [Lamb](https://open.spotify.com/track/1A9N05ZPTLWoDWTDGxWZ8z) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Lamb](https://open.spotify.com/album/25RW5q6ZVQGv6GC3Mv6SXM) | 2:38 |

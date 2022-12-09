@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Metro Boomin, Nas, Latto and more\. Cover: Babyface Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,564 likes - 47 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,695 likes - 47 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 42 | [Tuci](https://open.spotify.com/track/2aZP3ISsBBOGpNRU672aQV) | [Cae Cartier](https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD) | [Tuci](https://open.spotify.com/album/4onDNOAndPqPHuqfHNqwiQ) | 1:36 |
 | 43 | [All fa da Fame](https://open.spotify.com/track/5uOkLA8gYSTyFlLVw4BdH7) | [BabyK Osama](https://open.spotify.com/artist/1uNvSTpNdXVAMrNF6lzXRT) | [All fa da Fame](https://open.spotify.com/album/5thY6PwCtRF0Jy8AZzE5xA) | 1:57 |
 | 44 | [Flip Phone \(with Rylo Rodriguez\)](https://open.spotify.com/track/5OytywJPZvMreSx6JCfInS) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [The Largest](https://open.spotify.com/album/49p52K2THX4ITtv8Hu6Uj0) | 2:40 |
-| 45 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 3:36 |
+| 45 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 |
 | 46 | [Underrated](https://open.spotify.com/track/3WT6yVyFwS38gGiftAG8qv) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Underrated](https://open.spotify.com/album/21SdIqju7srs1SNntOX9Jq) | 3:45 |
 | 47 | [Dead Opps \(feat\. Lil Double 0\)](https://open.spotify.com/track/47M722fhV7zj0tBCOZNmNx) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv), [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Dead Opps \(feat\. Lil Double 0\)](https://open.spotify.com/album/2aWgHdb7XpJosdbnOYxQE5) | 2:45 |
 

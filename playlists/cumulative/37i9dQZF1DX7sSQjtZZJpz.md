@@ -4,7 +4,7 @@
 
 > Songs to help your kids learn in English and Spanish!
 
-96 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/74TRlE8vKqdsWIYbhhbM7z)
+97 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/74TRlE8vKqdsWIYbhhbM7z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Canción para contar](https://open.spotify.com/track/4gVC5YL6p0ooKRrozGkxob) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [El Reino Infantil Vol\. 2](https://open.spotify.com/album/5hGTxEwPDXSov7ZT1AwKVa) | 1:58 | 2020-04-22 |  |
 | [Canta \(Sing\)](https://open.spotify.com/track/7g0OeBTxxKB4FwXzofUVC6) | [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [¡C es para Canta!](https://open.spotify.com/album/2Am4OCwxhJuQKLAstBzhNq) | 1:50 | 2020-04-22 |  |
 | [Cinco Monitos](https://open.spotify.com/track/2e2sd0X417jZmO7pSLcyys) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 3](https://open.spotify.com/album/3COabJotsgeogBvNsNpcok) | 2:14 | 2020-04-22 |  |
-| [Cinco Ratoncitos](https://open.spotify.com/track/3x0tH9hEsQ3WUf6GFmNNOU) | [Judith Akoschky](https://open.spotify.com/artist/1sUBQ6W6QVd9WmKj08qRnJ) | [Ruidos y Ruiditos \(Vol\. 1\)](https://open.spotify.com/album/7KGm5AeQuF36aIEpEghT9z) | 1:48 | 2020-04-22 |  |
+| [Cinco Ratoncitos](https://open.spotify.com/track/1ZJOsnxsAtNq0AMQkLPTZX) | [Judith Akoschky](https://open.spotify.com/artist/1sUBQ6W6QVd9WmKj08qRnJ) | [Ruidos y Ruiditos, Vol\. 2](https://open.spotify.com/album/2cJUdWMthni7FplLIosIJS) | 1:48 | 2020-04-22 |  |
+| [Cinco Ratoncitos](https://open.spotify.com/track/3x0tH9hEsQ3WUf6GFmNNOU) | [Judith Akoschky](https://open.spotify.com/artist/1sUBQ6W6QVd9WmKj08qRnJ) | [Ruidos y Ruiditos \(Vol\. 1\)](https://open.spotify.com/album/7KGm5AeQuF36aIEpEghT9z) | 1:48 | 2020-04-22 | 2022-12-09 |
 | [Con Cada Letra](https://open.spotify.com/track/2QYYHtyHys1DyAwrHkm5Kk) | [Jorge Lan](https://open.spotify.com/artist/02v5zrGrbnMBgl4pIWVHe0) | [Letras y Numeros](https://open.spotify.com/album/4Ndl4dSNXW090qohHFlNUE) | 1:04 | 2020-04-22 |  |
 | [Contar Vehículos de Colores](https://open.spotify.com/track/3oaamZr4QNynCo6vPbuXN4) | [Little Baby Bum Rima Niños Amigos](https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/49gD6mZhZkoYmr0n9PL5q5) | 1:53 | 2020-06-26 | 2022-11-13 |
 | [Contar Vehículos de Colores](https://open.spotify.com/track/6G2kY5RqTyVSZtlEJkhdRU) | [Little Baby Bum Rima Niños Amigos](https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 1:53 | 2020-06-26 | 2022-07-29 |

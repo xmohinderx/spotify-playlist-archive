@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,287 likes - 173 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,488 likes - 173 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 | 26 | [Speechless](https://open.spotify.com/track/5xAm3DM3XkDXEWU7Es5AI9) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Self\-Care Day](https://open.spotify.com/album/2AWQhbb4GAH5zPhITUPPvJ) | 3:10 |
 | 27 | [Wondering](https://open.spotify.com/track/2zOsOZFMCtPqhVS3rHwjUh) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Serenity](https://open.spotify.com/album/5y3dlSPOy0X6TG6iGQDs3e) | 3:36 |
 | 28 | [Waiting On A Miracle](https://open.spotify.com/track/7MiAxVXJ0VQHXxUZVZG8bJ) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Peace](https://open.spotify.com/album/7EKmT5c5WdYPLfwm8x8CRb) | 2:53 |
-| 29 | [The Family Madrigal](https://open.spotify.com/track/1gstHbv6e2ECve1q1DoX3a) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Magical](https://open.spotify.com/album/4xnI8sxQwIRvsfAHXIvEIH) | 3:12 |
+| 29 | [How Far I'll Go](https://open.spotify.com/track/7hPHAXzlM5omRCBpeai7no) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Relax](https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW) | 2:40 |
 | 30 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/6E5By4xxtTgxOP4JfP1CvX) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 2:28 |
 | 31 | [The Next Right Thing](https://open.spotify.com/track/41vHygTXbqMuUo63j3IavF) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Blissful](https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK) | 3:45 |
 | 32 | [Surface Pressure](https://open.spotify.com/track/5TNMmzNJ6YicGTn0CO49ND) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Spirit](https://open.spotify.com/album/2UsDLgxVOmCtsiUsUBcCnJ) | 3:26 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 | 172 | [Lullaby and Goodnight](https://open.spotify.com/track/78DGsk0TY2sjHRfTVZmp4I) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:23 |
 | 173 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/337NNxsOqWueShlE1lozpQ) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 |
 
-Snapshot ID: `MTY2MDY3Mjg0MSwwMDAwMDAwMDJkMzhiZmFiYjRmMDMzMDE1YzE2MjA0YzQ1OTIyOTIy`
+Snapshot ID: `MTY3MDUxMTg4NiwwMDAwMDAwMGJiMDRhYmI3MDVjNWQyY2I0MjM3YzMzN2YyMDA0YTIy`

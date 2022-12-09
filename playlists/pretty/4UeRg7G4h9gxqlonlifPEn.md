@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: 21 Lil Harold
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,656 likes - 117 songs - 5 hr 39 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,655 likes - 117 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 11 | [Glitch](https://open.spotify.com/track/69pRzSXB0Lc0kkD1kRezQm) | [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6) | [Glitch](https://open.spotify.com/album/1MlzLQq5J4BXonkjFxidye) | 1:22 |
 | 12 | [Al Pacino](https://open.spotify.com/track/4QqCwUVo0YDB4FZPkxQxOc) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Al Pacino](https://open.spotify.com/album/4c7QeDvdFGVHfe4Q4igrO3) | 2:25 |
 | 13 | [COUNTING SHEEP \(feat\. 21 Savage\)](https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [THIS IS NOT A DRILL](https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg) | 3:17 |
-| 14 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [BILLY B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
+| 14 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 | 15 | [Bulletproof Maybach \(feat\. Offset\)](https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:57 |
 | 16 | [International Love \(feat\. Chris Brown\)](https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 3:47 |
 | 17 | [Rich Shit](https://open.spotify.com/track/4OjHlfjQgDzZGi8u0hdDwg) | [Lil Bam](https://open.spotify.com/artist/3S3l1EegoGkmCrbxAmwDxu) | [Rich Shit](https://open.spotify.com/album/3lWNbzLrEhQE2UXlHnB8um) | 2:25 |

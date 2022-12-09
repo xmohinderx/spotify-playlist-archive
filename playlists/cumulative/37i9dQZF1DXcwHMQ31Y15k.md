@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Wandra Restusiyan
 
-115 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
+116 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2022-05-26 |  |
 | [Balik Kanan Wae](https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Balik Kanan Wae](https://open.spotify.com/album/73xxVGK2GFvA8yxTBvDjGz) | 4:06 | 2022-05-26 |  |
 | [Banyu Moto](https://open.spotify.com/track/1UqXKWMR9HXUSabmXxxUiB) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [Banyu Moto](https://open.spotify.com/album/4aeI54j6CouhfK7LqwJpCV) | 4:09 | 2022-05-26 |  |
+| [Bar Lebaran Tak Lamar](https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Bar Lebaran Tak Lamar](https://open.spotify.com/album/38oVaFR9gB0U9beNc29c8h) | 5:28 | 2022-12-08 |  |
 | [Cerito Loro](https://open.spotify.com/track/38Nuk68iieYHlkDS0YCKXr) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka), [Wandra](https://open.spotify.com/artist/4HwQpZ2YlYi6CXR26ABv2C) | [Cerito Loro](https://open.spotify.com/album/0QJVkrVo41DWwJPXv4gz40) | 6:28 | 2022-05-26 | 2022-08-19 |
 | [Cerito Loro](https://open.spotify.com/track/7wS49arIx5EbhQjcC5pQ7f) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Cerito Loro](https://open.spotify.com/album/0CdPartaR6rH1H2WEHXH6K) | 6:11 | 2022-05-26 | 2022-06-10 |
 | [Cerito Loro](https://open.spotify.com/track/5WlpC5mmiCAPg2K3gRqSmT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Galih Wicaksono](https://open.spotify.com/artist/6f0rq6gDaNBhyQoeOiYrZb) | [Cerito Loro](https://open.spotify.com/album/1ybLko4XaB8e2aDJh3W87T) | 5:46 | 2022-05-26 | 2022-06-10 |
@@ -86,7 +87,7 @@
 | [Piye Kabarmu](https://open.spotify.com/track/0Xwy9IezFUwQhOXDDaVPhs) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Piye Kabarmu](https://open.spotify.com/album/35g5oR2BuklU5XMQ7LBlNZ) | 5:36 | 2022-06-16 |  |
 | [Prei Kanan Kiri](https://open.spotify.com/track/6P8sNmw5rUZaSrcF3SUTFT) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Prei Kanan Kiri](https://open.spotify.com/album/64EKhd4vAGVqGy4an2MKoC) | 5:20 | 2022-05-26 | 2022-08-19 |
 | [Putusen Isun](https://open.spotify.com/track/0BOqquPAmK8CQfAakY2era) | [Suci Tacik](https://open.spotify.com/artist/3TKvWnJYLr7jadsDJkyNod) | [Putusen Isun](https://open.spotify.com/album/4FIbk7xS83FyEBDaoP0YV5) | 4:32 | 2022-07-29 |  |
-| [Ra Bakal Keganti](https://open.spotify.com/track/3PZiVaw4ebgLkMM17qvOHA) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Delva](https://open.spotify.com/artist/3q32ggqpx55HIH2C2JfSFK) | [Ra Bakal Keganti](https://open.spotify.com/album/0QRVAgABQ1R6wrNPhzpshS) | 4:09 | 2022-05-26 |  |
+| [Ra Bakal Keganti](https://open.spotify.com/track/3PZiVaw4ebgLkMM17qvOHA) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Delva](https://open.spotify.com/artist/3q32ggqpx55HIH2C2JfSFK) | [Ra Bakal Keganti](https://open.spotify.com/album/0QRVAgABQ1R6wrNPhzpshS) | 4:09 | 2022-05-26 | 2022-12-09 |
 | [Rakuat Nglakoni](https://open.spotify.com/track/7zS9q28iNrq0JfV5OGOOBM) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Rakuat Nglakoni](https://open.spotify.com/album/7f5krfLvJANW2JUFMH8F1j) | 5:25 | 2022-05-26 |  |
 | [Roso Atiku](https://open.spotify.com/track/6OCoaRux8abVtVxPhE5N0M) | [Rindra Putra](https://open.spotify.com/artist/48eHObVYwCaw6k3ct9mWCO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Roso Atiku](https://open.spotify.com/album/6f3YYxy5mYMnH8Bx4iN6eJ) | 6:01 | 2022-05-26 |  |
 | [Roso Atiku](https://open.spotify.com/track/1d8I3k13qDu1lbRQ8xDqeh) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP), [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Roso Atiku](https://open.spotify.com/album/6qHPSIAC97V7cV2SD8C3BO) | 4:45 | 2022-05-26 | 2022-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,251 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,811 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 38 | [Te Irá Mejor Sin Mi \- Live](https://open.spotify.com/track/2fxqVHqwGWYDofPNa8iXlc) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio \(Live\)](https://open.spotify.com/album/7InJQUmbBBEUqDZZMMJ4C8) | 2:51 |
 | 39 | [Señora Elegante](https://open.spotify.com/track/5u8rAoGTVaXBhwn6FZARPQ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:47 |
 | 40 | [El Rey De Mil Coronas \- Live](https://open.spotify.com/track/1c0i26VMuRPQotPKBDfnzd) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda y Mariachi](https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf) | 2:27 |
-| 41 | [Como Duele Equivocarse](https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU) | 3:46 |
-| 42 | [Contigo O Sin Ti \- Live](https://open.spotify.com/track/2kc7Pt2nFRPCEvFB2WR7l0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:39 |
+| 41 | [Contigo O Sin Ti \- Live](https://open.spotify.com/track/2kc7Pt2nFRPCEvFB2WR7l0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:39 |
+| 42 | [Como Duele Equivocarse](https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU) | 3:46 |
 | 43 | [A Que No Le Cuentas](https://open.spotify.com/track/2OQj9FH7qhrwWOYlJFp4Rf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 3:16 |
 | 44 | [Una Noche Cualquiera](https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Noche Cualquiera](https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD) | 3:35 |
 | 45 | [Un Rinconcito En El Cielo \- Live](https://open.spotify.com/track/18RdaUB0nsdWCS5GadRumO) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 49 | [Mi Juventud A Los 40 \- Live](https://open.spotify.com/track/11JXlw8095b1ruXKvhslHf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda y Mariachi](https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf) | 3:01 |
 | 50 | [Tu Lo Decidiste \- Live](https://open.spotify.com/track/03wFSF2wINNP5tFsyUf4ur) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio \(Live\)](https://open.spotify.com/album/7InJQUmbBBEUqDZZMMJ4C8) | 3:55 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDA2ZmFmNDQ4NDk3NTQzYWFmMzhkY2Q3ODMzMDA4MWY2MQ==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAxYzZmOTI5YjYxOTQ4YzBkYTg1MjFmNzZmMTg0MWQ1MQ==`

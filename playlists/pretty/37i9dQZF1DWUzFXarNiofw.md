@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: RINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,148 likes - 105 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,284 likes - 105 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 18 | [Cracks of You](https://open.spotify.com/track/2ERqWwFLCzEGV1YPtKfxB6) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Cracks of You](https://open.spotify.com/album/6yEXMFSLXCMnATdGEG95Hm) | 2:56 |
 | 19 | [whatever, whenever](https://open.spotify.com/track/6QGDXoUTyuHQXeACC04FaZ) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy) | [whatever, whenever](https://open.spotify.com/album/0KqQEWZq9qGRPhIJ3astdQ) | 2:56 |
 | 20 | [Drop a Pin](https://open.spotify.com/track/50IS042GxssjkvKHunpTez) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Drop a Pin](https://open.spotify.com/album/2Gi5FxlL1VtrR39EmexM7F) | 3:16 |
-| 21 | [I Wanna Fall](https://open.spotify.com/track/5m5LuulFGsW8p6X6K1PJMX) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/4G4S7oiK7aezWTGsv7cJih) | 3:27 |
+| 21 | [I Wanna Fall](https://open.spotify.com/track/0GHmTC6AUzWOUR8thoxzsB) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/69aXkfD7bJROlPuZok3Vf3) | 3:27 |
 | 22 | [warmer on a wednesday](https://open.spotify.com/track/0QSjznhRo9urUmGuJ8SAAN) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [guessnobodyknows](https://open.spotify.com/album/4OlaEgHGLXjCKTWMVdtvbA) | 2:24 |
 | 23 | [Do It Again](https://open.spotify.com/track/2bXsC1eJ9UftAkhmYRuLmA) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [Do It Again](https://open.spotify.com/album/2XuZiWSqq5CgMNjUQVWjkx) | 2:37 |
 | 24 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 104 | [FYD](https://open.spotify.com/track/3EUCsRolJekwxGt5id8kww) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [FYD](https://open.spotify.com/album/24iMwkCOV0iqxtGo41eH4a) | 2:26 |
 | 105 | [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGVjZTAxYmY2ZTBmMGNmOWUyOGRlNDA0NmNkZWFjM2Zi`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGU5MGQ4ODVhMjUwMjY5OGVhOTI2MjNkNTA4OTE0NTE3`

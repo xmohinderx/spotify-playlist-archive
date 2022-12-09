@@ -1,13 +1,45 @@
 {
   "description": "",
-  "num_followers": 27067,
+  "num_followers": 27070,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzIwNywyZWUzNzIyZjg2NzQ3NTZkMmJlNjNkNjU0NzRmZGI0Y2Q0M2ExMmFm",
+  "snapshot_id": "MzIxMSw0YWNjNTAzY2VlYmZjYTk2MDdhYzViZWU5MzVjNDM1MDUzMjcyYWFm",
   "tracks": [
+    {
+      "added_at": "2022-12-08 01:36:37",
+      "album": {
+        "name": "I Just Want To Love You (Club Version)",
+        "url": "https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 304990,
+      "name": "I Just Want To Love You - Club Version",
+      "url": "https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk"
+    },
+    {
+      "added_at": "2022-12-08 01:36:26",
+      "album": {
+        "name": "Tell Somebody",
+        "url": "https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 190812,
+      "name": "Tell Somebody",
+      "url": "https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt"
+    },
     {
       "added_at": "2022-11-17 19:43:21",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,955 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,371 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Wait](https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA) | [NEUNOSIEM](https://open.spotify.com/artist/4DStul0QS1lt65yVW1wDbQ) | [Wait](https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f) | 2:59 |
 | 50 | [I don't give a Fuck](https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [NICESKEIK](https://open.spotify.com/artist/4yP08tX8zhyAQLFZDLLA6D) | [I don't give a Fuck](https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM) | 2:17 |
 
-Snapshot ID: `MTY2NzgzMjY3NSwwMDAwMDAwMGY2NGVhMjYxYjBiMzQxZGVjM2Q3M2M1NzhjYzUxMWU1`
+Snapshot ID: `MTY3MDUxOTM1NywwMDAwMDAwMDEwZjhlODhjNWE5OWRjOWRmMDg2Yjg5NGUwMTA5MDlj`

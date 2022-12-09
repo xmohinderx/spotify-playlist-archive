@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,790 likes - 306 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,819 likes - 306 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 252 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 |
 | 253 | [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 |
 | 254 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 |
-| 255 | [Mesmerized](https://open.spotify.com/track/0C6XD0Qel6ZE1poJ7buaDm) | [Abelia Elm](https://open.spotify.com/artist/528ecZkjBtxvl34v4lyTUQ) | [Mesmerized](https://open.spotify.com/album/058wD9ExN5l6A7Bqz15Ygt) | 2:48 |
+| 255 | [Mesmerized](https://open.spotify.com/track/0C6XD0Qel6ZE1poJ7buaDm) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Mesmerized](https://open.spotify.com/album/058wD9ExN5l6A7Bqz15Ygt) | 2:48 |
 | 256 | [Butterfly](https://open.spotify.com/track/5bKOctkwgdfCktzgabUPne) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Butterfly](https://open.spotify.com/album/0z60NoGLU6RnvxUSCCskIW) | 3:01 |
 | 257 | [sierra star](https://open.spotify.com/track/2dGmw1z9W32GGeofbAdNY1) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [sierra star](https://open.spotify.com/album/1YZIh0zHuUjAAZChz65fW4) | 3:21 |
 | 258 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 |

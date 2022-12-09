@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 130085,
+  "num_followers": 130229,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc2ODUxOSwwMDAwMDAwMGZmMmFlMmNkMjZhOWRmNDdkNWE0NTAwNzM4OTFmMTc3",
+  "snapshot_id": "MTY2ODc2ODUxOSwwMDAwMDAwMGVjYmRkZWNmNzZlMzZhMWIxODYwYTJmZDQ4OTgxZmI1",
   "tracks": [
     {
       "added_at": "2022-11-18 01:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-11-18 01:00:00",
       "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Blues for Mama",
+      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
+    },
+    {
+      "added_at": "2022-11-18 01:00:00",
+      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 147560,
       "name": "Steppin' Out",
       "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
-    },
-    {
-      "added_at": "2022-11-18 01:00:00",
-      "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Blues for Mama",
-      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
     },
     {
       "added_at": "2022-11-18 01:00:00",

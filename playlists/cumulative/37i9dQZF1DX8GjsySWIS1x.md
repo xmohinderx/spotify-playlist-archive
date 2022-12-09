@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-763 songs - 1 day 18 hr 25 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+764 songs - 1 day 18 hr 29 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Everlasting](https://open.spotify.com/track/49wwSGFhdbU0dbVUviNbQ3) | [Polock](https://open.spotify.com/artist/0dRPyk7hiV4FJxSG1VHf2L) | [Rising Up](https://open.spotify.com/album/4hEWfqT9jR72Nsr1dDBRWK) | 3:05 | 2021-03-16 | 2021-03-23 |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-07-15 | 2022-08-27 |
 | [Evey Reborn](https://open.spotify.com/track/0NvKyH2zVnhLcgMM7wAuK6) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [V For Vendetta](https://open.spotify.com/album/2c59V99MBMR2tUylJSt2I2) | 3:50 | 2019-09-29\* | 2021-03-14 |
+| [Exhale Inhale](https://open.spotify.com/track/1EUMm6cYTtCJLTTxiEk6HI) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Sky: Concert in the Light \(Original Game Soundtrack\)](https://open.spotify.com/album/5TtsKcqHI5MN7rtMR19tUL) | 3:32 | 2022-12-08 |  |
 | [Extraction Point](https://open.spotify.com/track/69EN77bAhbLQ4ACzCrVk72) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Call of Duty: Modern Warfare 2 \(Original Game Score\)](https://open.spotify.com/album/2b1A9NPz9XwJjvbtE5aCuh) | 3:35 | 2019-09-29\* | 2021-03-10 |
 | [Extremely Loud and Incredibly Close](https://open.spotify.com/track/3eoeShZGzmkzqnIpHZfHPn) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Extremely Loud and Incredibly Close \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6eo8C94KmE7fQo9g0dd7de) | 1:57 | 2019-10-05 | 2021-03-14 |
 | [Eyes on the Prize](https://open.spotify.com/track/4VQ2SIxZaQLj61sE3FTsYi) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Eyes on the Prize](https://open.spotify.com/album/4DrpSJnEEgCqX3RUrsTuZh) | 3:04 | 2021-10-07 | 2021-10-20 |

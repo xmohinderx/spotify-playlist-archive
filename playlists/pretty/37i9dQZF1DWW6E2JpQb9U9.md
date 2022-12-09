@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Rata Blanca
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,124 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,161 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 27 | [Pensar en Nada \- En Vivo](https://open.spotify.com/track/1vbuhtvcvHBsbdFJgyZHCu) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Huracanes en Luna Plateada \(En Vivo\)](https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx) | 7:22 |
 | 28 | [Pistolas](https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 5:23 |
 | 29 | [Faro de los Ahogados](https://open.spotify.com/track/6SmQ9rcEcmcpGdk41EKgWr) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Quebrado Vivo](https://open.spotify.com/album/2obHx8Orxsw1my5N3SrLhY) | 3:35 |
-| 30 | [Vení Raquel \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:06 |
-| 31 | [Fina Ropa Blanca](https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Don Lucero](https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY) | 5:16 |
+| 30 | [Fina Ropa Blanca](https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Don Lucero](https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY) | 5:16 |
+| 31 | [Vení Raquel \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:06 |
 | 32 | [Sueles Dejarme Solo \- Me Verás Volver Gira 2007](https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC) | 4:21 |
 | 33 | [Te Voy a Llevar \(En Vivo\)](https://open.spotify.com/track/4XtlB59EAchNsLuVWiLZ8r) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [NTVG en Vivo \- Buenos Aires](https://open.spotify.com/album/67WlOjAlClWfVuIWK6oQ4r) | 4:15 |
 | 34 | [A Rodar Mi Vida \- En Vivo](https://open.spotify.com/track/4tHukPtCIjMugUkLh0aIpE) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 5:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [El 38](https://open.spotify.com/track/6JVu9CewlLd5Xox7iyYhdD) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en Pinamar](https://open.spotify.com/album/7m4NTbbdfKboFTWiDV98d9) | 4:39 |
 | 100 | [Yendo de la Cama al Living \- En Vivo Teatro Ópera](https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Fabián Von Quintiero](https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG) | [Yendo de la Cama al Living \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc) | 4:58 |
 
-Snapshot ID: `MTY2ODIwMzE0MiwwMDAwMDAwMGZhNzNiYjFiYjhjMmYzMTc4NGU5N2FlMmEzYjNlNDg2`
+Snapshot ID: `MTY2ODIwMzE0MiwwMDAwMDAwMDk0YTA1YjMzNTE3ZDA1NWQ2Y2ZlYzBmYTcxYmExNmQ4`

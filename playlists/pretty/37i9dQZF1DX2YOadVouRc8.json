@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 9246,
+  "num_followers": 9271,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2ODY5MSwwMDAwMDAwMDVlNzJlNzdiMWEwY2ZjMjM4ZjMyYzMyM2ExNDJlYmIz",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDVjZjkwOGExMTNhOTExYjk4NzBhMmY4MjNmYTQyZGIy",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -229,6 +229,26 @@
       "url": "https://open.spotify.com/track/2WNOKpzXTlT1tEGZmzZWYY"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Fine Wine (ft. Amaarae)",
+        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
+      },
+      "artists": [
+        {
+          "name": "Kelechief",
+          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Fine Wine (ft. Amaarae)",
+      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Afro Pop, Vol. 1",
@@ -243,22 +263,6 @@
       "duration_ms": 186299,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Bad Influence",
-        "url": "https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 138652,
-      "name": "Bad Influence",
-      "url": "https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -293,24 +297,20 @@
       "url": "https://open.spotify.com/track/4E7GjtYCo6JX1eye0eWnzY"
     },
     {
-      "added_at": "2022-09-19 07:29:55",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+        "name": "Bad Influence",
+        "url": "https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+      "duration_ms": 138652,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -333,20 +333,24 @@
       "url": "https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-09-19 07:29:55",
       "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+        "name": "Lemons (Lemonade)",
+        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
+      "duration_ms": 259591,
+      "name": "Lemons (Lemonade)",
+      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -395,18 +399,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
       },
       "artists": [
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2022-11-18 11:36:55",
@@ -427,6 +431,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
@@ -439,6 +459,22 @@
       "duration_ms": 206775,
       "name": "Snapchat",
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "BAD 4 ME",
+        "url": "https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        }
+      ],
+      "duration_ms": 140204,
+      "name": "BAD 4 ME",
+      "url": "https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -469,6 +505,26 @@
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
@@ -489,24 +545,24 @@
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-12-02 08:11:31",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+        "name": "Be On It",
+        "url": "https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "TSCRPT",
+          "url": "https://open.spotify.com/artist/4Z02hpbBY4eH7yN7ceInzV"
         },
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Rebecca Winter",
+          "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+      "duration_ms": 216000,
+      "name": "Be On It",
+      "url": "https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -543,26 +599,6 @@
       "duration_ms": 203026,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
-    },
-    {
-      "added_at": "2022-12-08 01:13:53",
-      "album": {
-        "name": "Be On It",
-        "url": "https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw"
-      },
-      "artists": [
-        {
-          "name": "TSCRPT",
-          "url": "https://open.spotify.com/artist/4Z02hpbBY4eH7yN7ceInzV"
-        },
-        {
-          "name": "Rebecca Winter",
-          "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Be On It",
-      "url": "https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -771,6 +807,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 185619,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Your Body (feat. Buju)",
         "url": "https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK"
       },
@@ -819,26 +875,6 @@
       "duration_ms": 172191,
       "name": "ELI",
       "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1439,42 +1475,6 @@
       "duration_ms": 166517,
       "name": "Streets",
       "url": "https://open.spotify.com/track/17EfS2HABo1TrvP0IeXWZ4"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX"
-      },
-      "artists": [
-        {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
-        }
-      ],
-      "duration_ms": 176058,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/2vuKxwd9eHXmNP2AolZYp2"
-      },
-      "artists": [
-        {
-          "name": "Kofee Bean",
-          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
-        },
-        {
-          "name": "KiddBlack",
-          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
-        }
-      ],
-      "duration_ms": 181395,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z"
     }
   ],
   "unique_name": "Chill Bops",

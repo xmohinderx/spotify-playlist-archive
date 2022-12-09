@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,255 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,283 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 75 | [México Lindo y Querido](https://open.spotify.com/track/0OOdn5YA4H5oqNpar9hxFm) | [Fer González](https://open.spotify.com/artist/2D7rQgCTVUgJYwfFNK8f3P), [Adolfo Josafat Esquivel Martínez](https://open.spotify.com/artist/2no9PK9rt2pLRAUZagftpQ), [Armando Esquivel Martínez](https://open.spotify.com/artist/3Dr6YcK9ut2OzBAwDvF5po), [Juan Pablo Esquivel Martínez](https://open.spotify.com/artist/75NZOeqBctbXUDmSXohW0s), [Armando Jiménez Martínez](https://open.spotify.com/artist/54DjpA29Mltg7vDE8oBweE), [Jorge Jiménez Martínez](https://open.spotify.com/artist/6T08P1MBwQTcTP8ckrcmaG), [Rafael Guzman Navarro](https://open.spotify.com/artist/30RzId9OwIRGNH89Bx7xnb), [Arnulfo Muñoz Guzmán](https://open.spotify.com/artist/70F8fUluhWibIB0VuLVhrC), [Carlos Campos Iván](https://open.spotify.com/artist/0njnrM9b7uj4Rudd8lTT7w) | [Mariachi: Mi Nombre Es México](https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV) | 3:12 |
 | 76 | [La Llorona](https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:42 |
 | 77 | [Los Once Pueblos \(Eraxamani\)](https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII) | [Gran Banda De Ichán Michoacán](https://open.spotify.com/artist/1m1AhZMj1tTgQGuLwAdKh1) | [Antología de la Música P'urhepecha Vol\. VIII](https://open.spotify.com/album/3CVW7CGhHs7Wg3lyG97sSL) | 3:14 |
-| 78 | [El Feo](https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal) | [Los Hermanos Ríos](https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:01 |
-| 79 | [La bikina \(arr\. R\. Jonas\)](https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:43 |
+| 78 | [La bikina \(arr\. R\. Jonas\)](https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:43 |
+| 79 | [El Feo](https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal) | [Los Hermanos Ríos](https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:01 |
 | 80 | [LAS ALTEÑITAS](https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p) | 2:38 |
 | 81 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH) | [Daniel Armas](https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi) | [México 2010 El Salterio](https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX) | 2:41 |
 | 82 | [El Sacamandú](https://open.spotify.com/track/7M6y0noSLd6nal1GUGSpMN) | [Los Caporales](https://open.spotify.com/artist/6GlDYSt5RyCkTRJ1zPN3DY) | [El Gusto \- 40 Años de son Huasteco](https://open.spotify.com/album/1iaywSk07ESk9L5nCy5bdV) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [Un Tequila y Una Rubia](https://open.spotify.com/track/3E6GSxnXLIXgsxxhnnFvKd) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 1:47 |
 | 100 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 
-Snapshot ID: `MTY2MTk2MDQ3OCwwMDAwMDAwMDYwMDAwMTgwOWZhN2VjM2JjMzM2ZDhlYmY2ODZhYTBm`
+Snapshot ID: `MTY2MTk2MDQ3OCwwMDAwMDAwMDVhYjIzN2YwYzMwYmFlYmNjODQwZGMyZWUyYWFmOGQ4`

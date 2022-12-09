@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,265 likes - 71 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,280 likes - 71 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 24 | [California Day](https://open.spotify.com/track/1NdZN8qp8ymkHqYnlXxS1F) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [California Day](https://open.spotify.com/album/2W93NNqgJVgDKeXCCDqTuL) | 2:52 |
 | 25 | [Burdens Heavy](https://open.spotify.com/track/1jfrOugcys9IU9QBspbiLc) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Burdens Heavy](https://open.spotify.com/album/0wsuaqOpcNw7ac7DwWFH1t) | 3:52 |
 | 26 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 |
-| 27 | [My Guy \- Remix](https://open.spotify.com/track/5p2KU5VmtZLIzv0SidAb1V) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [My Guy \(Remix\)](https://open.spotify.com/album/46SVmaDiBJTnWNnfUcTMi3) | 3:25 |
+| 27 | [My Guy \- Remix](https://open.spotify.com/track/5p2KU5VmtZLIzv0SidAb1V) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [My Guy](https://open.spotify.com/album/46SVmaDiBJTnWNnfUcTMi3) | 3:25 |
 | 28 | [Your Body](https://open.spotify.com/track/3HRpldxycaV9vJpNjSgoUb) | [Bibao](https://open.spotify.com/artist/3qbfPofRrhxm6jnbacynct) | [Your Body](https://open.spotify.com/album/3J0HiVk2mH6MzgfjePiQey) | 3:13 |
 | 29 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 |
 | 30 | [Proppa](https://open.spotify.com/track/2wrYYK6oe9Dt8og9BbvE3w) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Proppa](https://open.spotify.com/album/1uc3mBwthg0sbR11HwFQaS) | 3:30 |

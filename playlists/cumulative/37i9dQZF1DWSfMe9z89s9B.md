@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Christian Kuria
 
-683 songs - 1 day 12 hr 55 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+684 songs - 1 day 12 hr 58 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [deadman](https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [deadman](https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa) | 2:10 | 2022-12-02 |  |
 | [Deejor](https://open.spotify.com/track/2IXdJv2rlrQj6QsHcqP9Nb) | [Deej](https://open.spotify.com/artist/1kSp2mWdZfHPIQoUtAPZpO) | [Deejor](https://open.spotify.com/album/0GuASLSriCgtwlIPJji3ZC) | 2:42 | 2022-08-19 | 2022-09-03 |
 | [Deep Green](https://open.spotify.com/track/0hHnuKAlRRLyG7bYg474B8) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Deep Green](https://open.spotify.com/album/6c2FgkDmUjHtgXjTa59SfF) | 3:23 | 2022-09-23 | 2022-12-04 |
+| [Deep Green](https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:23 | 2022-09-23 |  |
 | [Deflect](https://open.spotify.com/track/3GfpcEdZ4kRTgy8XC2hCdI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Deflect](https://open.spotify.com/album/3dpTqZYzAogVHL0Vt913w4) | 2:06 | 2021-09-10 | 2022-04-08 |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-02-25 | 2022-10-08 |
 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 |  |
@@ -279,7 +280,7 @@
 | [Hold Me](https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Hold Me](https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA) | 2:43 | 2022-10-28 |  |
 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 | 2022-02-25 | 2022-07-29 |
 | [Hologram](https://open.spotify.com/track/0F2zGnaOrsVCOD900FebJk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Hologram](https://open.spotify.com/album/30ef2BpCTTCbxFFucsENZj) | 3:26 | 2022-09-02 | 2022-09-17 |
-| [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-21 |  |
+| [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-21 | 2022-12-09 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-04-01 | 2022-04-15 |
 | [Hope](https://open.spotify.com/track/2QLNDKL7hZyh2OZ8UL9WrV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 3:59 | 2022-04-01 | 2022-04-16 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 |  |

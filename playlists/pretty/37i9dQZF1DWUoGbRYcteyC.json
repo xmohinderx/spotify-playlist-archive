@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Que viva el amor!",
-  "num_followers": 1951055,
+  "num_followers": 1951166,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDUzMTk2MDNiMDlkM2Q0M2RkYjk1Nzg2NDg4YmU1ZGY2",
+  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMGRlZmFkY2Y3ODkzZGFkM2Q0NGU0YmZkNjEzYzVhZWE5",
   "tracks": [
     {
       "added_at": "2022-08-05 16:40:51",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
     },
     {
       "added_at": "2022-08-05 16:40:51",

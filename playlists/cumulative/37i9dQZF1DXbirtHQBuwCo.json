@@ -5156,6 +5156,28 @@
     },
     {
       "album": {
+        "name": "Make A Fool",
+        "url": "https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0"
+      },
+      "artists": [
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        },
+        {
+          "name": "KEYMAKER",
+          "url": "https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "Make A Fool",
+      "url": "https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr"
+    },
+    {
+      "album": {
         "name": "WHEE",
         "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
       },
@@ -5167,7 +5189,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 197413,
       "name": "Make Me Happy",
       "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
@@ -7366,6 +7388,24 @@
     },
     {
       "album": {
+        "name": "Sinking Islands",
+        "url": "https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED"
+      },
+      "artists": [
+        {
+          "name": "Sinso",
+          "url": "https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Sinking Islands",
+      "url": "https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2"
+    },
+    {
+      "album": {
         "name": "WEATHER REPORT",
         "url": "https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm"
       },
@@ -8787,7 +8827,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 167746,
       "name": "What Do I Call You",
       "url": "https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr"

@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Metro Boomin, Nas, Latto and more\. Cover: Babyface Ray
 
-1,917 songs - 3 day 17 hr 59 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,917 songs - 3 day 17 hr 58 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1478,7 +1478,7 @@
 | [See The Difference](https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [See The Difference](https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN) | 2:58 | 2022-03-04 | 2022-03-12 |
 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 | 2022-05-27 | 2022-06-11 |
 | [Seeing Red \(feat\. Doe Boy\)](https://open.spotify.com/track/4pTFY4HVcFoW1QtpOjOric) | [Yak Yola](https://open.spotify.com/artist/3pnHEUKevBqj5yqYBIvVs6), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [30 Story](https://open.spotify.com/album/1LBGY9UEF54xFOCspyEuuE) | 2:36 | 2022-03-25 | 2022-04-02 |
-| [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 3:36 | 2022-11-25 |  |
+| [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 | 2022-11-25 |  |
 | [Self Made](https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Self Made](https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl) | 2:48 | 2021-12-24 | 2022-01-15 |
 | [Self Worth \(feat\. Lil Perco\)](https://open.spotify.com/track/6IhYveUZOkd1dVuE1mdX5N) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [Lil Perco](https://open.spotify.com/artist/1zBajAbkG72h752UzxeUAB) | [Vultures Don't Kry](https://open.spotify.com/album/1ZD7JYrhxigRGhjzpPzEJ3) | 2:52 | 2022-08-19 | 2022-08-27 |
 | [Selfish](https://open.spotify.com/track/6pARo6B8MqnsSd3WfOG0fM) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [SSGKOBE](https://open.spotify.com/artist/0Bthg9M0URs88I9KaYIdBd) | [For The Better](https://open.spotify.com/album/2LxLmgk1knP6GXgunLMmtV) | 3:02 | 2022-06-17 | 2022-06-25 |

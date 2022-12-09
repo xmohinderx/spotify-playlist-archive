@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 203812,
       "name": "2020 (feat. Slow J)",
       "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
@@ -498,6 +498,24 @@
     },
     {
       "album": {
+        "name": "Estadia",
+        "url": "https://open.spotify.com/album/7rHFACi1s7gKshBvKBCbDN"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207071,
+      "name": "Estadia",
+      "url": "https://open.spotify.com/track/1ivRu9ANM1hYBgeNDZyRmX"
+    },
+    {
+      "album": {
         "name": "FALADUK\u00ca",
         "url": "https://open.spotify.com/album/4FnuMfnfppl7BA8IL16Iif"
       },
@@ -538,6 +556,42 @@
     },
     {
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
+    },
+    {
+      "album": {
+        "name": "Fendi",
+        "url": "https://open.spotify.com/album/1k012nV79sC7rugcjuWXmb"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197360,
+      "name": "Fendi",
+      "url": "https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP"
+    },
+    {
+      "album": {
         "name": "Galileu",
         "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
       },
@@ -556,6 +610,32 @@
     },
     {
       "album": {
+        "name": "GOD MODE",
+        "url": "https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "benji price",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254117,
+      "name": "GOD MODE",
+      "url": "https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj"
+    },
+    {
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
       },
@@ -567,7 +647,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
@@ -905,10 +985,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 250816,
       "name": "M.O.D (feat. Xakal Da Gun & Piruka )",
       "url": "https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t"
+    },
+    {
+      "album": {
+        "name": "Malandro",
+        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210675,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
     },
     {
       "album": {
@@ -1025,6 +1123,24 @@
       "duration_ms": 220080,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/2jwNTvtfC1JoroZURUspXC"
+    },
+    {
+      "album": {
+        "name": "Morte do Artista",
+        "url": "https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207658,
+      "name": "Morte do Artista",
+      "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
     },
     {
       "album": {
@@ -1181,7 +1297,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
@@ -1247,7 +1363,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 214654,
       "name": "Perseus",
       "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
@@ -1501,7 +1617,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 234893,
       "name": "STAY FLY",
       "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,161 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,253 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 |
 | 60 | [Most of the Time](https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Most of the Time](https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D) | 4:23 |
 
-Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMGUwOGU5OGViZDkzNmFmZjQ4YmMyNDY3ZjE5MzdiNzVi`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDdiZjY2YzhiMDYzYmQ2ODIyZmMzOTE2ZDIxOTA4ZDQz`

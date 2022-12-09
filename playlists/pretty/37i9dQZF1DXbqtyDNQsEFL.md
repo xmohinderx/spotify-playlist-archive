@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,874 likes - 80 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,919 likes - 80 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Unstoppable \(Live\)](https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M) | 4:43 |
 | 80 | [Messengers](https://open.spotify.com/track/16QyjYsEnTcPhmpjqTg1Ad) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Messengers](https://open.spotify.com/album/0upBIxCFfX69fL1uB0NhTO) | 4:48 |
 
-Snapshot ID: `MTY2OTM2MjU0NSwwMDAwMDAwMDg5OGI0YTQ0NDVkOTEwZDYwY2Y4MTk5N2RmNTZlYjdj`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDYwMDM4ZTk0YmZiNGU2NmIwNjY4NmM4MDQ3YmZlODY1`

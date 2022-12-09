@@ -4,7 +4,7 @@
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-137 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
+138 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,12 +95,13 @@
 | [Right Here Right Now](https://open.spotify.com/track/3nM9q8RTwhKzKbirbnvCG1) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Right Here Right Now](https://open.spotify.com/album/6NmgErgAAHB1IwHfJomNTK) | 3:30 | 2021-12-16 | 2022-07-29 |
 | [Same Girl](https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU) | 3:02 | 2022-05-20 |  |
 | [Same Girl](https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr) | 3:02 | 2021-12-16 | 2022-10-23 |
-| [Sanctuary](https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:04 | 2022-11-18 |  |
+| [Sanctuary](https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:04 | 2022-11-18 | 2022-12-09 |
 | [Sanctuary](https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Sanctuary](https://open.spotify.com/album/2ncuFWULnAaGrdwHpDnt9E) | 3:04 | 2021-12-16 | 2022-11-23 |
 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 | 2021-12-16 |  |
 | [Seven Days of Rain](https://open.spotify.com/track/5P5r3OPbXUMZDMhHuOunv3) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [In Gold EP](https://open.spotify.com/album/49FBsPdTnhNXCeDnetUdmx) | 3:54 | 2021-12-16 | 2022-07-28 |
 | [sing about love](https://open.spotify.com/track/5B3vp0n7EJch6ExLlyfLdl) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [sing about love](https://open.spotify.com/album/0ZH61KMwJcevDmzFkxVXoz) | 3:34 | 2021-12-22 | 2022-01-13 |
 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 | 2021-12-16 |  |
+| [Sky has open doors](https://open.spotify.com/track/5EqtcGaNE7rE6mjVZYarjB) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/3V7X498o84HlP4NK9vhoeY) | 3:39 | 2022-12-09 |  |
 | [Sleeptalking](https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 2:47 | 2021-12-16 |  |
 | [Slow Cooker](https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:22 | 2021-12-16 |  |
 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 | 2021-12-16 |  |

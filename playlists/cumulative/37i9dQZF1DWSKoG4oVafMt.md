@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jass Manak
 
-653 songs - 1 day 11 hr 27 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+656 songs - 1 day 11 hr 38 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Diamond](https://open.spotify.com/track/4GPygMUqEhPyYUosLKmvCK) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu), [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM) | [Diamond](https://open.spotify.com/album/2pIDaUHfZ1BcK3Es4ptDBb) | 3:39 | 2022-01-29 | 2022-03-01 |
 | [Diamond](https://open.spotify.com/track/4c7UDUrZj5P2yltoJslXHi) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Diamond](https://open.spotify.com/album/1KCr941XpGxiUNvDk1UerK) | 2:32 | 2022-09-02 |  |
 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 | 2022-01-11 | 2022-05-20 |
+| [Didaar](https://open.spotify.com/track/42jR51fiO0ezDddHJQx3C8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Didaar](https://open.spotify.com/album/5OCsHIkrlip8ZRhijkMb91) | 3:19 | 2022-12-08 |  |
 | [Dil De Kamre](https://open.spotify.com/track/0vXTsIh8hgfOm8n3ppWgsr) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Dil De Kamre](https://open.spotify.com/album/2WsBlkPIuwcQwJCZUDWmVW) | 2:26 | 2022-07-28 |  |
 | [Dil Diyan Baatan](https://open.spotify.com/track/7w7w36WlNUGOY1cdtksqRT) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7), [Aanchal Sethi](https://open.spotify.com/artist/5UDXYKkOni0Dz2gAa3y34B) | [Dil Diyan Baatan](https://open.spotify.com/album/0rPsn2AW2FfdOFjL3tnFCR) | 3:56 | 2022-07-08 | 2022-07-12 |
 | [Dil Diyan Gallan](https://open.spotify.com/track/76wpnLYf4uwrpJA4W9VwqT) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI), [Gauri Virdi](https://open.spotify.com/artist/6vhqXm02dV8QJVCfdHVE7Q) | [Dil Diyan Gallan](https://open.spotify.com/album/4fEQsSIpxj0yMT6msWS7Be) | 3:19 | 2022-02-04 | 2022-02-12 |
@@ -218,6 +219,7 @@
 | [I Wish](https://open.spotify.com/track/5gUNkD57jpcdjXv9ODiSmf) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [I Wish](https://open.spotify.com/album/3eQ91uxeqINSduxCL6zlba) | 3:13 | 2022-09-30 |  |
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2022-10-11 |  |
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
+| [Ik Kudi](https://open.spotify.com/track/4dpIFUAr0byE6N4oalHTFa) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Ik Kudi](https://open.spotify.com/album/6SQaMW7xiLvL8PmGdWZIwv) | 3:24 | 2022-12-08 |  |
 | [Ik Mili Mainu Apsraa](https://open.spotify.com/track/39chWL7FFnxleLCBUXquv4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Ik Mili Mainu Apsraa](https://open.spotify.com/album/6UBOEZZXK11zsgwekmcMKa) | 4:02 | 2022-01-15 | 2022-02-01 |
 | [Ikk Taara Tuta \- From "P.R."](https://open.spotify.com/track/0XpQ26NbTXPyqCRRCoZ9Zp) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Sabir Ali](https://open.spotify.com/artist/3tZ8wQquxUwLnS4yr7czym) | [Ikk Taara Tuta \(From "P.R."\)](https://open.spotify.com/album/3CiJDlIoqFmzcT4yaU1aTZ) | 8:29 | 2022-06-01 | 2022-07-06 |
 | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/track/4TsopDP9uBKf0oBN01CKoC) | [Mehtab Virk](https://open.spotify.com/artist/6npKsb0CeJMFX3FwjKybfD) | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/album/7Amx2o2pSvJHgoddju9d0p) | 3:33 | 2022-04-21 | 2022-04-29 |
@@ -228,6 +230,7 @@
 | [Ishq Da Rog](https://open.spotify.com/track/6tmztso7Y5DZAuLAyGvPzG) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB) | [Ishq Da Rog \(From "Maa Da Ladla"\) \- Single](https://open.spotify.com/album/2XluoMXM4Pc9on2cSmWiUa) | 3:20 | 2022-09-26 |  |
 | [ISHQ E PREET](https://open.spotify.com/track/7LHDuxNAVFt7bzxFV5DsUN) | [Muskaan](https://open.spotify.com/artist/26we5UYR3hTABksEFyPg3D), [PARAKH JEET](https://open.spotify.com/artist/3kpI1PU37q14n0ZV7Zhxmq) | [ISHQ E PREET](https://open.spotify.com/album/1eHzzukafLjkNmeQbTyrMp) | 4:07 | 2022-04-15 | 2022-05-11 |
 | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/track/2KFXNEN7blIIIdxK3zOnmx) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/album/2g0KwnXjVtxGs92xhKeZar) | 1:06 | 2022-05-27 | 2022-07-06 |
+| [Jaan Ke Bhuleke](https://open.spotify.com/track/2gkE9EEgIII1jNPMV6lqHz) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhuleke](https://open.spotify.com/album/53Pfuz9zVNwkNabvZWMYU4) | 4:55 | 2022-12-08 |  |
 | [Jaan Te Bani 2](https://open.spotify.com/track/54EZSryDgRSvx3altQXVya) | [Balraj](https://open.spotify.com/artist/198wHm8PoJ6EEKCkOI5kbi), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Jaan Te Bani 2](https://open.spotify.com/album/54ops4MY7c1kfeXZTChFcs) | 4:58 | 2022-03-01 | 2022-03-11 |
 | [Jaane Meriye](https://open.spotify.com/track/43f1GdmdYDCsEYK0PpgAy9) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Jaane Meriye](https://open.spotify.com/album/09Lzc4GnZG8krNwgT6HpYo) | 3:53 | 2022-11-22 |  |
 | [Jaane Meriye](https://open.spotify.com/track/4Q9ZQwcObLhWeApFYvTvMo) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Jaane Meriye](https://open.spotify.com/album/50KN4dXK3fwcTfvAGUyO7Z) | 2:36 | 2022-03-31 | 2022-04-29 |

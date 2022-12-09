@@ -4,7 +4,7 @@
 
 > 
 
-100 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+102 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Holsten](https://open.spotify.com/track/1QY1JdMErccck5JBqqI7tH) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Holsten](https://open.spotify.com/album/0eO4RioDxCnbqFNO6O1hs2) | 5:41 | 2022-09-20 |  |
 | [I Do Wonder](https://open.spotify.com/track/3gIrjqnZpDkChCsPqTLHF9) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Sun Songs](https://open.spotify.com/album/1rU8DsYxX6rWjqhBUqXDBK) | 2:27 | 2022-11-04 |  |
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2022-09-20 |  |
+| [I Just Want To Love You \- Club Version](https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You \(Club Version\)](https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6) | 5:04 | 2022-12-08 |  |
 | [I Love The Drive](https://open.spotify.com/track/1LpkTDHQkQ02lL3RnZYYCy) | [Kiss Nuka](https://open.spotify.com/artist/3VXmLRdy5ho8J1Btv7zffg) | [I Love The Drive](https://open.spotify.com/album/0XzTYBWfL8T431l7kb3ObF) | 5:28 | 2022-09-29 | 2022-11-18 |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 | 2022-07-15 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-20 |  |
@@ -92,6 +93,7 @@
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-09-16 |  |
 | [Stuck In The Middle](https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/2FTiYTP7AkfFehikQoGatR) | 3:12 | 2022-04-29 | 2022-09-07 |
 | [Summer Is Calling \- LF SYSTEM Remix](https://open.spotify.com/track/2fzSI3xVHCdqGB8zAMqgJT) | [the group](https://open.spotify.com/artist/7foqf4xJtGBBy9w5CNsbqD), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Summer Is Calling \(Post Lockdown Mixes\)](https://open.spotify.com/album/257wR5KR0y7bsbyybSvDPx) | 2:41 | 2022-07-20 | 2022-10-14 |
+| [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2022-12-08 |  |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-08 | 2022-08-11 |
 | [The Last Goodbye \(feat\. Bettye LaVette\) \- DJ Seinfeld Remix](https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [The Last Goodbye Remixes N°.1](https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ) | 3:56 | 2022-09-20 |  |
 | [This Version Of You \(feat\. Julianna Barwick\)](https://open.spotify.com/track/2h4IoIeRasKE7moH6zhHUO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 2:51 | 2022-07-22 | 2022-11-10 |

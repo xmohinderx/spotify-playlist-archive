@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with G Jones & ISOxo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,654 likes - 147 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,731 likes - 147 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 60 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 |
 | 61 | [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 |
 | 62 | [GALACTICAL](https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [GALACTICAL](https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa) | 4:35 |
-| 63 | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP) | 5:10 |
-| 64 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 |
+| 63 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 |
+| 64 | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP) | 5:10 |
 | 65 | [Honey](https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Honey](https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70) | 2:23 |
 | 66 | [Ghost](https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Ghost](https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM) | 2:52 |
-| 67 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 |
+| 67 | [Gummy Worm \(feat\. Boogie T\)](https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [FRACTALS](https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI) | 4:03 |
 | 68 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 |
-| 69 | [Gummy Worm \(feat\. Boogie T\)](https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [FRACTALS](https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI) | 4:03 |
-| 70 | [Shut Up](https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Shut Up](https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp) | 3:07 |
+| 69 | [Shut Up](https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Shut Up](https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp) | 3:07 |
+| 70 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 |
 | 71 | [Eternity \(feat\. Dayce Williams\)](https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayce Williams](https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6) | [Eternity \(feat\. Dayce Williams\)](https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN) | 3:49 |
 | 72 | [Bass Music](https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW) | [Bass Music](https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28) | 4:06 |
 | 73 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 146 | [Error Sound](https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1) | [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [Error Sound](https://open.spotify.com/album/6SHBQsvgVsvadUIDdtbPal) | 2:50 |
 | 147 | [Right Here, Right Now](https://open.spotify.com/track/3KaTWZkjFjubYQv0SGTUDH) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ) | [Right Here, Right Now](https://open.spotify.com/album/6arQs3RxEQFmTX8UrqJjv0) | 4:24 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDM2NzFjMDA5YTcwNGJiYzQyZWRiN2Y1YjRmMDRjMjI0`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDhmNmYwYzAwOWM0NGNmY2YxOWYxMzI0Y2UwYTYwMTFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Francis On My Mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,460 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,490 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 14 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 15 | [the kid that couldnt keep his name](https://open.spotify.com/track/5kWVUpDqTbavYvWRhUNuCI) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT), [Mxxd Swing](https://open.spotify.com/artist/47lkrufc4SYfvElbgdlRiV), [Tomi Balogh](https://open.spotify.com/artist/6xR7NcYmkjsFWfCKLakXQ1) | [the kid that couldnt keep his name](https://open.spotify.com/album/0Rhrzdk2qPD0mB6TJSY6sQ) | 2:44 |
 | 16 | [Making Moves](https://open.spotify.com/track/65hM5p799iBCENyqww892I) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [Making Moves](https://open.spotify.com/album/3C2lSIXIZcG7xW6yP4kzy0) | 2:54 |
-| 17 | [spin you round](https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK) | 2:06 |
+| 17 | [spin you round](https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN) | [Rocco](https://open.spotify.com/artist/2wR54LqhJdRd30JGhzbJBX) | [spin you round](https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK) | 2:06 |
 | 18 | [A Feeling](https://open.spotify.com/track/411y66erpnKQjQvNAimUFf) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [A Feeling](https://open.spotify.com/album/5FeHWfuzRXFmTrpaGCb3eq) | 2:34 |
 | 19 | [Dial Two Seven](https://open.spotify.com/track/1ExuXW8RmcD8UU86ymIDWf) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Dial Two Seven](https://open.spotify.com/album/3b2AbGIyZof8tEwJdDehN7) | 3:02 |
 | 20 | [FULL TIME LOVER](https://open.spotify.com/track/4G2l27MHZ9bk2VKjKxOzOA) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 2:00 |

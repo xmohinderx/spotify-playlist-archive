@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest out now in South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349?si=eZI2cZr1Q_KCg5-BCJVRAw\">Posduif</a>",
+  "description": "Only the best in South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw\">Spoegwolf</a>",
   "name": "SA Rock Essentials",
   "published_playlist_ids": [
     "7m29EUKd7lxp8FUt6WdfbM"
@@ -113,6 +113,24 @@
       "duration_ms": 229050,
       "name": "Always Remember",
       "url": "https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx"
+    },
+    {
+      "album": {
+        "name": "Anker",
+        "url": "https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth"
+      },
+      "artists": [
+        {
+          "name": "Arnold Bailie",
+          "url": "https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167061,
+      "name": "Anker",
+      "url": "https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g"
     },
     {
       "album": {
@@ -448,6 +466,24 @@
     },
     {
       "album": {
+        "name": "Cherry Glitter",
+        "url": "https://open.spotify.com/album/7EqFfWWUmsqSI0csBwIasf"
+      },
+      "artists": [
+        {
+          "name": "Highway Apostles",
+          "url": "https://open.spotify.com/artist/66GDNl05VRYiOnkKgVfOEE"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Cherry Glitter",
+      "url": "https://open.spotify.com/track/2V57HqcRwmG9wYr8rcFbAa"
+    },
+    {
+      "album": {
         "name": "Cocoon",
         "url": "https://open.spotify.com/album/083Wk2aDbhui5sU7eDyjDi"
       },
@@ -687,7 +723,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 264834,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/7GTj7UNfrqE3glRpZxza7I"
@@ -856,6 +892,28 @@
     },
     {
       "album": {
+        "name": "Dryf",
+        "url": "https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        },
+        {
+          "name": "Jodi Jantjies",
+          "url": "https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273475,
+      "name": "Erika Way",
+      "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
+    },
+    {
+      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/1EgJlERi45NG1kkLNTjnDj"
       },
@@ -921,7 +979,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 145571,
       "name": "EX-GIRLFRIEND - Radio Edit",
       "url": "https://open.spotify.com/track/1gyaVHGHkYeyFcckiMZ3Zz"
@@ -1127,7 +1185,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 205086,
       "name": "Hartseer Freaks",
       "url": "https://open.spotify.com/track/0QkQXlKStGokMoWhngW99p"
@@ -1489,7 +1547,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 210003,
       "name": "Lefase",
       "url": "https://open.spotify.com/track/20ACysTMjJiaat5ZAwD9nF"
@@ -1789,7 +1847,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 233500,
       "name": "Ongevalle",
       "url": "https://open.spotify.com/track/1shcVBVEDQ43bJOIThkiR2"
@@ -1865,7 +1923,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 108000,
       "name": "OVERTHINKING",
       "url": "https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen"
@@ -1883,7 +1941,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 213940,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde"
@@ -1977,7 +2035,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 269440,
       "name": "Quit It",
       "url": "https://open.spotify.com/track/0EcRozLgRMqpcoaZK92xHd"
@@ -2085,7 +2143,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 195431,
       "name": "Scarred",
       "url": "https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M"
@@ -2253,7 +2311,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 298885,
       "name": "Six Feet of Snow",
       "url": "https://open.spotify.com/track/6xJqUFVdJXd97rFA1M3Ane"
@@ -2440,6 +2498,24 @@
     },
     {
       "album": {
+        "name": "Suburban Casualty",
+        "url": "https://open.spotify.com/album/7tUR8nLZ32a4UoimsM3hmI"
+      },
+      "artists": [
+        {
+          "name": "Julian Place",
+          "url": "https://open.spotify.com/artist/0l5bLIu2lwaoE2Jp15kVcr"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234185,
+      "name": "Suburban Casualty",
+      "url": "https://open.spotify.com/track/0dfdQeAFmqYU73QISETk7K"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/1OOERXBgIWpe4b2G0I6bpJ"
       },
@@ -2577,7 +2653,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 173892,
       "name": "The Kid",
       "url": "https://open.spotify.com/track/30E5yBOsMJ14qYzBbLY9Xo"
@@ -2867,7 +2943,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 246173,
       "name": "Vanilla Sky",
       "url": "https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr"

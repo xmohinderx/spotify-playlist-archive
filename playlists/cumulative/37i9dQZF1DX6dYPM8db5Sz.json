@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P?si=aCjbTw-CQk6Ogh9Mj5Fu_A\">Kloudink</a>",
+  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf?si=KejCoE4vTEyAUQWvqYQubw\">Mymymy</a>",
   "name": "SAlt",
   "published_playlist_ids": [
     "725N8DiCOBrEyrBxUeYOar"
@@ -99,6 +99,24 @@
       "duration_ms": 162626,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2RtMLddrvgrurOyKM30w98"
+    },
+    {
+      "album": {
+        "name": "All These Lights",
+        "url": "https://open.spotify.com/album/3cKG56oZlnWbA39aBNYD4F"
+      },
+      "artists": [
+        {
+          "name": "Jonny Hayes",
+          "url": "https://open.spotify.com/artist/4RscgyBOMvKeYLQ6OOF3sp"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212195,
+      "name": "All These Lights",
+      "url": "https://open.spotify.com/track/4MPwDMHQgTrOAYvtzZxQyP"
     },
     {
       "album": {
@@ -298,6 +316,24 @@
     },
     {
       "album": {
+        "name": "Blue Skies Baby",
+        "url": "https://open.spotify.com/album/508gqpQDY4WOLrRiune1oj"
+      },
+      "artists": [
+        {
+          "name": "Painted Flowers",
+          "url": "https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "Blue Skies Baby",
+      "url": "https://open.spotify.com/track/1hd9094RZE9TAk8IaF7Tdh"
+    },
+    {
+      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/2lY7kj1yqaqThxVc0ohgcT"
       },
@@ -334,6 +370,24 @@
     },
     {
       "album": {
+        "name": "CHICKEN MAYO",
+        "url": "https://open.spotify.com/album/6jo8Rk0JRv4h8IhD4oxklW"
+      },
+      "artists": [
+        {
+          "name": "SuperSaiyanRasta.",
+          "url": "https://open.spotify.com/artist/2ZUEP6gwvkhOKktt7lT8kX"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158418,
+      "name": "CHICKEN MAYO",
+      "url": "https://open.spotify.com/track/6o6ydS9wgJL5URC2hIessV"
+    },
+    {
+      "album": {
         "name": "Cigarettes",
         "url": "https://open.spotify.com/album/6kE2uEV0sRnzY56zH5Vaaa"
       },
@@ -353,7 +407,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 209382,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/59sO3PZBgWBDVAnhJKkCqp"
@@ -779,7 +833,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 178669,
       "name": "Hot Mess Kamikaze",
       "url": "https://open.spotify.com/track/15rZyIFD0Yt4cIuL1bZArn"
@@ -869,7 +923,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 285866,
       "name": "If God Is The Pigeon",
       "url": "https://open.spotify.com/track/11hrQND5U7gbysfggLP30o"
@@ -1636,6 +1690,24 @@
     },
     {
       "album": {
+        "name": "Vonkel",
+        "url": "https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX"
+      },
+      "artists": [
+        {
+          "name": "Mymymy",
+          "url": "https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246095,
+      "name": "Vonkel",
+      "url": "https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2"
+    },
+    {
+      "album": {
         "name": "WAGMI",
         "url": "https://open.spotify.com/album/28yfEKfv7kmNGgoOTVVMnz"
       },
@@ -1741,7 +1813,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 166250,
       "name": "Who am I to follow",
       "url": "https://open.spotify.com/track/3N1ymSDgFeaApDPTZ8f4lW"

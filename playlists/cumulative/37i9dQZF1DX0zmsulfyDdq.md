@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-178 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
+179 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [House at Pooh Corner](https://open.spotify.com/track/1AieZp5vImnCvbUapUyoFG) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby Album](https://open.spotify.com/album/3UvlJDMb3sEH8lUk83598i) | 3:04 | 2022-04-15 |  |
 | [How Does a Moment Last Forever](https://open.spotify.com/track/6MGFt4zPZjhlus6mU1lmYB) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 3:40 | 2022-04-15 |  |
 | [How Far I'll Go](https://open.spotify.com/track/3TeDrql1cmJPIoo7fE39Hj) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 3:09 | 2022-04-15 |  |
+| [How Far I'll Go](https://open.spotify.com/track/7hPHAXzlM5omRCBpeai7no) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Relax](https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW) | 2:40 | 2022-12-08 |  |
 | [How Far I'll Go \- Orgel Version](https://open.spotify.com/track/6HdakporMT8TEN1oBpCKl1) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM](https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9) | 3:48 | 2022-04-15 |  |
 | [Hush Little Baby](https://open.spotify.com/track/5kX8nmd7BDckyJQfNiORwQ) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:23 | 2022-04-15 |  |
 | [Hush Little Baby/Rock\-A\-Bye Baby \- Instrumental](https://open.spotify.com/track/41jXeGNqW4ogirMy8IJzzN) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:28 | 2022-04-15 |  |
@@ -145,7 +146,7 @@
 | [T.O.T.S\. Main Title](https://open.spotify.com/track/510i6uuZJ4ctIAFoqEd3EU) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:23 | 2022-04-15 |  |
 | [The Bare Necessities \- Instrumental](https://open.spotify.com/track/747WbLmzVVbiNDMx2LL9Ic) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:31 | 2022-04-15 |  |
 | [The Climb](https://open.spotify.com/track/4fZbCZw88MklDHdKnN6sVw) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Blissful](https://open.spotify.com/album/7kFYl7LzfMz29lwsDyh2bf) | 2:54 | 2022-04-15 |  |
-| [The Family Madrigal](https://open.spotify.com/track/1gstHbv6e2ECve1q1DoX3a) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Magical](https://open.spotify.com/album/4xnI8sxQwIRvsfAHXIvEIH) | 3:12 | 2022-04-15 |  |
+| [The Family Madrigal](https://open.spotify.com/track/1gstHbv6e2ECve1q1DoX3a) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Magical](https://open.spotify.com/album/4xnI8sxQwIRvsfAHXIvEIH) | 3:12 | 2022-04-15 | 2022-12-09 |
 | [The Family Madrigal](https://open.spotify.com/track/5oRxqr6DCdWPSgOHXCpGID) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Magical](https://open.spotify.com/album/3qZcRGWrRh7As9SkDbuzYh) | 4:14 | 2022-04-15 |  |
 | [The Family Madrigal](https://open.spotify.com/track/21GMtDlD4pvi7JN2hRM5Qv) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Happy](https://open.spotify.com/album/0bcbleewCHnbRNDfBls4UI) | 3:02 | 2022-04-22 |  |
 | [The Next Right Thing](https://open.spotify.com/track/41vHygTXbqMuUo63j3IavF) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Blissful](https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK) | 3:45 | 2022-04-15 |  |

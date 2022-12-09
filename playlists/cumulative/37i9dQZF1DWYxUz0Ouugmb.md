@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: raissa anggiani
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shakira Jasmine
 
 116 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,045 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,092 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 |
+| 1 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 |
 | 2 | [Høl i potta](https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Blåsemafian](https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2) | [Høl i potta](https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD) | 2:20 |
 | 3 | [Åka med mig](https://open.spotify.com/track/0c5MF7xJwdnOtSCK4EG4Q3) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stefaren](https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO) | [Åka med mig](https://open.spotify.com/album/2V72zf3EccLjABO9Nop8le) | 2:03 |
-| 4 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 |
-| 5 | [Kan Inte Gå](https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g) | 2:26 |
+| 4 | [Kan Inte Gå](https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g) | 2:26 |
+| 5 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 |
 | 6 | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn) | 2:46 |
 | 7 | [Raggen måste gå](https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Raggen måste gå](https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF) | 2:11 |
 | 8 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Kentucky](https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Kentucky](https://open.spotify.com/album/4eGVVt1QCfPHoGGTK3dOS7) | 2:43 |
 | 70 | [JAG TÅL INTE ET NEI](https://open.spotify.com/track/1T3Amb9ELrHxGoo4U5BYce) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [JAG TÅL INTE ET NEI](https://open.spotify.com/album/4nCFt93iPSH7OMUOgMDavO) | 1:57 |
 
-Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMDJhNDc3MTBiYjRhMDUwODI3MDhiNzYyYmRhNTE4MDFl`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGY3MWNmMGQ2YmI2NTAwZjY4YTJkYTU4YTAyZWE1YjI5`

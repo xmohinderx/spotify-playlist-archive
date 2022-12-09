@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-79 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3nLRwtPCNrDqChh2HtzKxE)
+80 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/3nLRwtPCNrDqChh2HtzKxE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Tutu \- Remix](https://open.spotify.com/track/727DZ6qsujnLdNNLooqqZT) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:45 | 2022-06-04 |  |
 | [Un Poquito](https://open.spotify.com/track/3aWCkmStzGLDDmlwxJtQrU) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Atlántico a Pie](https://open.spotify.com/album/3c1RJNoi4jd3hosC9lbZM3) | 3:06 | 2022-06-04 |  |
 | [Voy Que Quemo](https://open.spotify.com/track/68tXCWJ06ZEjplNEx3f4Mq) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Voy Que Quemo](https://open.spotify.com/album/4zwZZCDVj36cdl3ibTAAJf) | 3:38 | 2022-06-04 |  |
+| [Ya Llegué](https://open.spotify.com/track/3D3Wcdtl05GD15NvwmyeQK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:03 | 2022-12-08 |  |
 | [Ya Llegué](https://open.spotify.com/track/5c0d9VQwHZXqUXRjW1Ma97) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa) | 3:03 | 2022-06-04 | 2022-07-28 |
 | [Ya Tú Me Conoces](https://open.spotify.com/track/3ldgkMriNO5qTaIJ4zlNCL) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 3:15 | 2022-06-04 |  |
 | [¡aquí yo mando!](https://open.spotify.com/track/05ufCucv6Z1oLMWeS8XapR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:21 | 2022-06-04 |  |

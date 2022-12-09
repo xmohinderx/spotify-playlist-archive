@@ -4,7 +4,7 @@
 
 > The official playlist for the 64th GRAMMY Awards.
 
-455 songs - 1 day 7 hr 44 min - [published](https://open.spotify.com/playlist/4M8EQTBLyNauX4M36rMoZJ)
+456 songs - 1 day 7 hr 48 min - [published](https://open.spotify.com/playlist/4M8EQTBLyNauX4M36rMoZJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Shot In The Dark](https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Shot In The Dark](https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB) | 3:05 | 2022-03-29 | 2022-11-24 |
 | [Showoff](https://open.spotify.com/track/0G71jOUiR1OgqoUuvijw95) | [Black Violin](https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7) | [Take the Stairs](https://open.spotify.com/album/6erQfPIUKFwXtlSxA5C2gl) | 3:24 | 2021-03-10 | 2022-03-30 |
 | [Si hubieras querido](https://open.spotify.com/track/3SnQbMhX8Now5s5F2ul9oC) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:41 | 2022-03-29 | 2022-11-24 |
-| [Silver Moon](https://open.spotify.com/track/5h166TVT3jk77HgfqCCIFi) | [Eric Alexandrakis](https://open.spotify.com/artist/1ElXColOn7LPXIFKxLvGOc) | [Silver Moon \- Single](https://open.spotify.com/album/1TNA7yr79Ogm5cM3NOdcI0) | 3:57 | 2022-11-24 |  |
+| [Silver Moon](https://open.spotify.com/track/5h166TVT3jk77HgfqCCIFi) | [Eric Alexandrakis](https://open.spotify.com/artist/1ElXColOn7LPXIFKxLvGOc) | [Silver Moon \- Single](https://open.spotify.com/album/1TNA7yr79Ogm5cM3NOdcI0) | 3:57 | 2022-11-24 | 2022-12-09 |
 | [Sing Along](https://open.spotify.com/track/0JwtuqKYYCA1iJ5cubotGW) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [SOUND & FURY](https://open.spotify.com/album/2ITJBRqMwZ0luWBnnZQ4Hq) | 2:54 | 2021-03-10 | 2022-03-30 |
 | [Sit on Down](https://open.spotify.com/track/2Dfp4OItTDfn0X0WExX5KT) | [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp), [Jean Baylor](https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa), [Marcus Baylor](https://open.spotify.com/artist/5s20SX9fTLIZPQRhuHS6gx) | [Sit on Down](https://open.spotify.com/album/0s1KQ1A2bXZmAm22P4fLGS) | 3:17 | 2021-03-10 | 2022-03-30 |
 | [Slow Burn \(feat\. Jacob Collier\)](https://open.spotify.com/track/5ieRb1X6zI1bSe8m6nkGNr) | [Becca Stevens](https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [WONDERBLOOM](https://open.spotify.com/album/5nUG94jIWfDdXhErqP03Ni) | 3:17 | 2021-03-10 | 2022-03-30 |
@@ -392,6 +392,7 @@
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2021-03-10 | 2022-03-30 |
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2021-03-10 | 2022-03-30 |
 | [The Death Of Us](https://open.spotify.com/track/5zTg8hLkN1xOxWYp6g0Zkc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XvSWhoTHMOwmWUL2mYGrY) | 3:59 | 2021-03-10 | 2022-03-30 |
+| [The Devil & Mister Jones \- Adrian Sherwood Reconstruction](https://open.spotify.com/track/4QytAumgv7KICnT6yZPWgb) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Lucifer On The Moon](https://open.spotify.com/album/7ltJTN6vVRjhza6JR2sEnx) | 3:58 | 2022-12-08 |  |
 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 | 2021-03-10 | 2022-03-30 |
 | [The Easy Way](https://open.spotify.com/track/18LnabLnAb1ZjRbZx4JTLa) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Underneath](https://open.spotify.com/album/70kThssMOMBi4GyBPCk0Gu) | 4:25 | 2021-03-10 | 2022-03-30 |
 | [The Fanfold Hawk \(For Franz Wright\)](https://open.spotify.com/track/0cNhGVRA2KuAMQhp4cXRAt) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Danilo Perez](https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E) | [Secrets Are the Best Stories](https://open.spotify.com/album/3E3iPvivaxxTU3aFLA9RqD) | 2:43 | 2021-03-10 | 2022-03-30 |

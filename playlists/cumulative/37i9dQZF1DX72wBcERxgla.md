@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-206 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
+208 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dear Old Stockholm](https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Dear Old Stockholm](https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b) | 2:40 | 2022-08-30 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-04-12 |  |
 | [detour ahead](https://open.spotify.com/track/5EbkSAI9fgAtPsi2uHSKOF) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 3:27 | 2022-04-12 |  |
+| [Doin Nothing](https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Doin Nothing](https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW) | 3:53 | 2022-12-08 |  |
 | [Doldrums](https://open.spotify.com/track/0SAS6ARxYiOJT1OTUYakLf) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:12 | 2022-04-12 | 2022-11-25 |
 | [Don't Ever Leave Me](https://open.spotify.com/track/6HpQCQJnF0sYOBgH9nyp0F) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 2:42 | 2022-04-12 | 2022-06-23 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 |  |
@@ -112,6 +113,7 @@
 | [My Buddy](https://open.spotify.com/track/7ghPHs5mGyk84qHcCaTPvR) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [My Buddy](https://open.spotify.com/album/0qsrKAuW7nZBUAC0lJkKxm) | 3:08 | 2022-08-10 |  |
 | [My Foolish Heart](https://open.spotify.com/track/3dCDnpRsr2AISZ4ZsvfkvH) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:18 | 2022-04-12 | 2022-08-31 |
 | [My Funny Valentine](https://open.spotify.com/track/4dKmYciOrlZc48acXYFH7V) | [Sasha Robert](https://open.spotify.com/artist/7HFQPosztuF2iYcQFDHoP2) | [My Funny Valentine](https://open.spotify.com/album/5Qpx1Nq7naueRIxwavATd6) | 3:43 | 2022-08-10 | 2022-11-25 |
+| [My Funny Valentine](https://open.spotify.com/track/3obd7EnVJVaSLSqjBf0BZl) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [My Funny Valentine](https://open.spotify.com/album/43ll3l3Z0mo5mrrOsaUROL) | 3:36 | 2022-12-08 |  |
 | [My Golden Hour](https://open.spotify.com/track/3IpJ670QsPqQqRXiR0puyR) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [My Golden Hour](https://open.spotify.com/album/7qNYGiFeAi8W0xvEuetOhj) | 2:18 | 2022-04-12 |  |
 | [My Ideal](https://open.spotify.com/track/587Od7PBk6Zh3voXvj91vG) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [My Ideal](https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V) | 3:30 | 2022-08-10 |  |
 | [My One And Only Love](https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My One And Only Love](https://open.spotify.com/album/0cSg1M044LOkrxLCAgPZmT) | 3:45 | 2022-04-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,758 likes - 349 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,012 likes - 349 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 179 | [Serenity](https://open.spotify.com/track/5bEZ6aLBteghtOzynCO4WT) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Come Back \| Serenity](https://open.spotify.com/album/6ClJ6EUajiUuSxLAjbaCXH) | 2:08 |
 | 180 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 |
 | 181 | [Spare No Expense](https://open.spotify.com/track/3ImEq34pURQUCLppdFOap6) | [Snuff Audio](https://open.spotify.com/artist/7m7jvc1wS04q47pXO3MdsX) | [Spare No Expense](https://open.spotify.com/album/4etkVtVjvsEjUXL5hxgCsa) | 1:54 |
-| 182 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Baked Fresh](https://open.spotify.com/artist/3E9UCUUTmk41HMJfFNryu6) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 |
+| 182 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 |
 | 183 | [I hear ya](https://open.spotify.com/track/1JBwa5F6ooAsnyqF0EJSGj) | [Wickr Light](https://open.spotify.com/artist/1O6Otzn0IiJCXJ1v953CoY) | [I hear ya](https://open.spotify.com/album/2W2RbeXcXpLqYJQAgQb0Kd) | 1:57 |
 | 184 | [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 |
 | 185 | [Growing](https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk) | [Zane Milo](https://open.spotify.com/artist/1TyAZC5sqnI66MFVzZ4azE) | [Growing](https://open.spotify.com/album/7uYVdPcLmeUMWyfgkuIBIS) | 1:50 |

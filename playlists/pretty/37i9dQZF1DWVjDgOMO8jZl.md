@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,439 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,455 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Male](https://open.spotify.com/track/0BrwoWkbdxvvFnJohaw2pp) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Male](https://open.spotify.com/album/0SR5JsqwgUC0QxrR1dzBVO) | 2:33 |
-| 2 | [Mama \(feat\. Davinhor\)](https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Mama \(feat\. Davinhor\)](https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg) | 2:26 |
-| 3 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 |
-| 4 | [Traumi](https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Traumi](https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF) | 3:04 |
-| 5 | [Tout va bien](https://open.spotify.com/track/4iuWGd3OWbHzzA8dCWoXTn) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tout va bien](https://open.spotify.com/album/1Mixzi6JgQWY5499xR8ohL) | 2:34 |
-| 6 | [Nonchalance](https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Nonchalance](https://open.spotify.com/album/0y3WjIF2bIH5BrbFRsKzZG) | 3:02 |
+| 2 | [Bambina](https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Bambina](https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL) | 2:19 |
+| 3 | [Mama \(feat\. Davinhor\)](https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Mama \(feat\. Davinhor\)](https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg) | 2:26 |
+| 4 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 |
+| 5 | [Traumi](https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Traumi](https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF) | 3:04 |
+| 6 | [Tout va bien](https://open.spotify.com/track/4iuWGd3OWbHzzA8dCWoXTn) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tout va bien](https://open.spotify.com/album/1Mixzi6JgQWY5499xR8ohL) | 2:34 |
 | 7 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:17 |
 | 8 | [Metaverso](https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Post Nostalgia](https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv) | 3:05 |
 | 9 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 74 | [Pasta Rossa](https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Macchie](https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh) | 3:28 |
 | 75 | [Carta Stagnola](https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT) | 2:55 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGE0YmY3OGY3MmEwZTc4ODJjNWQyYjRiNTk0ZTM2M2Mw`
+Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMDI1ZmI4YTBlYjYxYzM0OTc5ZjczMGI4Y2MxZjllYjMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,170 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,184 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 22 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 |
 | 23 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
 | 24 | [Move On](https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:11 |
-| 25 | [Mother Theresa \- Original Mix](https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Highlife World Series: Cuba](https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE) | 5:56 |
-| 26 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 |
+| 25 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 |
+| 26 | [Mother Theresa \- Original Mix](https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Highlife World Series: Cuba](https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE) | 5:56 |
 | 27 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 |
 | 28 | [Another Story](https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:06 |
 | 29 | [Eye Mo K](https://open.spotify.com/track/4LBrt8RUMpGhPXkLqvsh4U) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn) | 5:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
 | 50 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
 
-Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGNmYzBmYmFiZTEzNDA1ZTJjMTRhZmM5YTQxMWI5Nzdj`
+Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGM2M2IyN2Y1ZTJmNzgyZDgxZDRkNjdkYTEwYmQ1YzQz`

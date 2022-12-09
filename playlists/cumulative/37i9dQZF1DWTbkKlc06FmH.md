@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-152 songs - 9 hr 7 min - not published yet
+153 songs - 9 hr 10 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All In](https://open.spotify.com/track/4Ks8tQBpkf3mStOv6KDPDc) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [All In](https://open.spotify.com/album/31i76UJJxEFOkDpFVEvhcE) | 4:00 | 2022-11-10 |  |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-17 |  |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-10-20 | 2022-10-26 |
+| [Apply Pressure](https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 3:14 | 2022-12-08 |  |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-10-20 |  |
 | [Back To You](https://open.spotify.com/track/7JOQU9emKpGgvcpKbOsvuy) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Back To You](https://open.spotify.com/album/5XnRUJSX2KwP5ijkterivr) | 3:28 | 2022-10-20 |  |
 | [BADモード](https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 5:03 | 2022-10-20 |  |
@@ -107,7 +108,7 @@
 | [RECIPE](https://open.spotify.com/track/6zRjzLaCarPcnPUb4Zrh0W) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 3:32 | 2022-10-20 | 2022-11-16 |
 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 | 2022-11-22 |  |
 | [Rules](https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [Tao Tsuchiya](https://open.spotify.com/artist/078uTew0ffZM8zKSYdZsDQ) | [Rules](https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn) | 3:35 | 2022-10-20 | 2022-11-30 |
-| [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 | 2022-10-20 |  |
+| [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 | 2022-10-20 | 2022-12-09 |
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2022-10-20 |  |
 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-11-29 |  |
 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2022-12-06 |  |

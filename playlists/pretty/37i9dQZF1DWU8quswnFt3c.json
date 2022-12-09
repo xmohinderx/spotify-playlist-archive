@@ -1,12 +1,12 @@
 {
   "description": "Listen to the most streamed tracks from EQUAL Global in 2022, at full volume.",
-  "num_followers": 858884,
+  "num_followers": 860057,
   "original_name": "Top Artists of EQUAL Global 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGYzMGYwZWI2Y2Q1ZjYzYWNkYTg4NWQyYWNjZTcwYmFj",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDYyNzQyYzk3N2U1Yzc4NTUwODIzMDZiYzljMDk1NjVi",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "W.I.T.C.H.",
+        "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "duration_ms": 132133,
+      "name": "W.I.T.C.H.",
+      "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "KGF Chapter 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 213750,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "W.I.T.C.H.",
-        "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
-      },
-      "artists": [
-        {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
-        }
-      ],
-      "duration_ms": 132133,
-      "name": "W.I.T.C.H.",
-      "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/3VfITgUbE2jcmEPelaejwz"
-      },
-      "artists": [
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 176046,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/7hMSysDmiuzDmecbl2ba5u"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Die Together",
         "url": "https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 175466,
       "name": "Die Together",
       "url": "https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/3VfITgUbE2jcmEPelaejwz"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 176046,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/7hMSysDmiuzDmecbl2ba5u"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Hills",
         "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 181279,
       "name": "Hills",
       "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Houwa",
+        "url": "https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "duration_ms": 211891,
+      "name": "Houwa",
+      "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Eva+Eva (feat. Rose Villain)",
         "url": "https://open.spotify.com/album/7JAbbByzQ8jd8QPXlJlnfX"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 189702,
       "name": "Eva+Eva (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/471zaA6Hax2HkKJTfR4yE1"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Houwa",
-        "url": "https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0"
-      },
-      "artists": [
-        {
-          "name": "RYM",
-          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "Houwa",
-      "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -927,38 +927,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Iparho Gia Sena",
-        "url": "https://open.spotify.com/album/4lkyzgLGV1SmJv0UW3Pw4h"
-      },
-      "artists": [
-        {
-          "name": "Natasa Theodoridou",
-          "url": "https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD"
-        }
-      ],
-      "duration_ms": 216670,
-      "name": "Iparho Gia Sena",
-      "url": "https://open.spotify.com/track/5IGLonlYXv0TCsw0gHhqBr"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
-        "url": "https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP"
-      },
-      "artists": [
-        {
-          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
-          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
-        }
-      ],
-      "duration_ms": 191105,
-      "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
-      "url": "https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Take It or Leave It",
         "url": "https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe"
       },
@@ -971,6 +939,22 @@
       "duration_ms": 148124,
       "name": "Take It or Leave It",
       "url": "https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Iparho Gia Sena",
+        "url": "https://open.spotify.com/album/4lkyzgLGV1SmJv0UW3Pw4h"
+      },
+      "artists": [
+        {
+          "name": "Natasa Theodoridou",
+          "url": "https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD"
+        }
+      ],
+      "duration_ms": 216670,
+      "name": "Iparho Gia Sena",
+      "url": "https://open.spotify.com/track/5IGLonlYXv0TCsw0gHhqBr"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -991,6 +975,38 @@
       "duration_ms": 227740,
       "name": "TSUBASA",
       "url": "https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
+        "url": "https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        }
+      ],
+      "duration_ms": 191105,
+      "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
+      "url": "https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Swim Away",
+        "url": "https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205442,
+      "name": "Swim Away",
+      "url": "https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 197994,
       "name": "can you see me?",
       "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Swim Away",
-        "url": "https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205442,
-      "name": "Swim Away",
-      "url": "https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1143,50 +1143,18 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Mango Sticky Rice",
-        "url": "https://open.spotify.com/album/6R5vWWMCBGgxm2IVskChn8"
+        "name": "M\u00edrame a la Cara",
+        "url": "https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy"
       },
       "artists": [
         {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 89087,
-      "name": "Mango Sticky Rice",
-      "url": "https://open.spotify.com/track/6TXVxPWpnbNHq2LcmxD7em"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Al Forga",
-        "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
-      },
-      "artists": [
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 177388,
-      "name": "Al Forga",
-      "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "His",
-        "url": "https://open.spotify.com/album/0L58boxRzxjiyKdYmRrI2t"
-      },
-      "artists": [
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 229634,
-      "name": "His",
-      "url": "https://open.spotify.com/track/6bRwh3cskYWuCfzQzpsqmg"
+      "duration_ms": 155408,
+      "name": "M\u00edrame a la Cara",
+      "url": "https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1211,34 +1179,50 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "M\u00edrame a la Cara",
-        "url": "https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy"
+        "name": "His",
+        "url": "https://open.spotify.com/album/0L58boxRzxjiyKdYmRrI2t"
       },
       "artists": [
         {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
         }
       ],
-      "duration_ms": 155408,
-      "name": "M\u00edrame a la Cara",
-      "url": "https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg"
+      "duration_ms": 229634,
+      "name": "His",
+      "url": "https://open.spotify.com/track/6bRwh3cskYWuCfzQzpsqmg"
     },
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "99% Angel",
-        "url": "https://open.spotify.com/album/3wgrIUZWIjkempUhkuVDLK"
+        "name": "Al Forga",
+        "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
       },
       "artists": [
         {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
         }
       ],
-      "duration_ms": 218538,
-      "name": "Meteor Shower",
-      "url": "https://open.spotify.com/track/2vU5f4DuiHs0Ur8kj4eXRQ"
+      "duration_ms": 177388,
+      "name": "Al Forga",
+      "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Mango Sticky Rice",
+        "url": "https://open.spotify.com/album/6R5vWWMCBGgxm2IVskChn8"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "duration_ms": 89087,
+      "name": "Mango Sticky Rice",
+      "url": "https://open.spotify.com/track/6TXVxPWpnbNHq2LcmxD7em"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1267,6 +1251,38 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "99% Angel",
+        "url": "https://open.spotify.com/album/3wgrIUZWIjkempUhkuVDLK"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "duration_ms": 218538,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/2vU5f4DuiHs0Ur8kj4eXRQ"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "think of drugs",
+        "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "think of drugs",
+      "url": "https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Faixa Rosa (feat. Mc Carol)",
         "url": "https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 153230,
       "name": "Faixa Rosa (feat. Mc Carol)",
       "url": "https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "think of drugs",
-        "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "think of drugs",
-      "url": "https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH"
     }
   ],
   "unique_name": "Top Artists of EQUAL Global 2022",

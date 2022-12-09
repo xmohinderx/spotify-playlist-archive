@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-214 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+215 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Long Night](https://open.spotify.com/track/7nxSIJKV6CorIHHpud0x4t) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [Long Night](https://open.spotify.com/album/4E3h3VhCNR88R2hPkM6Z5R) | 2:05 | 2022-02-03 | 2022-09-15 |
 | [Long Night \- pt\. II](https://open.spotify.com/track/4ED1RqjJk6897tNtZv9g8n) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Long Night pt\. II](https://open.spotify.com/album/3iW7D4nln8Ga8p19ygWiKE) | 2:17 | 2022-02-03 | 2022-09-15 |
 | [Looking For More](https://open.spotify.com/track/7us5o6uXfSSmiedZSoKkR6) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Looking For More](https://open.spotify.com/album/3j32wZ0pudc0BLviHDVpi3) | 4:04 | 2022-02-03 |  |
+| [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 |  |
 | [Losing Control](https://open.spotify.com/track/59MBMXDvlThWnca5GBF9eb) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [Losing Control](https://open.spotify.com/album/1wRvdWcrY3vALldt5ZZ8xE) | 3:07 | 2022-02-03 | 2022-09-15 |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 |  |
 | [Love Me](https://open.spotify.com/track/13b1CS1bUJOJD9HanXSs3c) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [FERGO](https://open.spotify.com/artist/2vlOppSBEJkAVos6JTshXF) | [Love Me](https://open.spotify.com/album/0yEscGCEQmz8G7GGyySaz5) | 2:12 | 2022-02-03 | 2022-09-15 |

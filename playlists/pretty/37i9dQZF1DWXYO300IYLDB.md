@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,929 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,949 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 69 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 |
 | 70 | [生きていくだけで \(feat\. Ruri\)](https://open.spotify.com/track/35RU9s9Oytg6N8k0xxtKtG) | [FUKUSHIGE MARI](https://open.spotify.com/artist/74ldwS36YOZpiNSBf2XYBs), [Ruri](https://open.spotify.com/artist/0y2buXFUJCd2dnhkVCkRDg) | [月の満ち欠け オリジナルサウンドトラック](https://open.spotify.com/album/6YbRXC2Yrs1UkEtAGJ7Ne7) | 4:03 |
 
-Snapshot ID: `MTY3MDMzODgwMCwwMDAwMDAwMDJjNjRjMWFhNDQxYjYzMDI3MmI1Y2M0NDJhZDI0N2Zk`
+Snapshot ID: `MTY3MDUxMTYwMCwwMDAwMDAwMDY0N2MzNzI2NzBkZmE4NWZjODE3ZGVmOTM2OGVlZGVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,560 likes - 120 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,697 likes - 120 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 17 | [War Ensemble](https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 4:51 |
 | 18 | [The Toxic Waltz](https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Fabulous Disaster](https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy) | 4:50 |
 | 19 | [Kai Tangata](https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Tū](https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M) | 6:35 |
-| 20 | [Prepare For Attack](https://open.spotify.com/track/6cTvR35cvugp2SLSPsnzy0) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Time Is Up](https://open.spotify.com/album/7275posUjEJ7H9tLyaxyLH) | 3:56 |
-| 21 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 |
+| 20 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 |
+| 21 | [Prepare For Attack](https://open.spotify.com/track/6cTvR35cvugp2SLSPsnzy0) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Time Is Up](https://open.spotify.com/album/7275posUjEJ7H9tLyaxyLH) | 3:56 |
 | 22 | [Alison Hell](https://open.spotify.com/track/153SwL1d9SfCLWhqIs08we) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Alice In Hell](https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY) | 5:01 |
 | 23 | [Fight Fire With Fire \(Remastered\)](https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 4:44 |
 | 24 | [The Moth](https://open.spotify.com/track/1VAr5YFV3UF3eWmbhYQMqF) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [The Evil Divide](https://open.spotify.com/album/37BeDhGFfISfgrWxbv0MtW) | 4:38 |
@@ -118,9 +118,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 108 | [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 |
 | 109 | [Enter The Grave](https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Enter The Grave](https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut) | 4:30 |
 | 110 | [Chalice of Blood](https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 4:32 |
-| 111 | [Circle of the Tyrants](https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [To Mega Therion \(Expanded Version\)](https://open.spotify.com/album/4jlatOhKoYXYXxoFJsBMDg) | 4:27 |
-| 112 | [Guided by Evil](https://open.spotify.com/track/6os2CG54Dj1JRcKWzOh7RN) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:30 |
-| 113 | [Masked Jackal](https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Punishment for Decadence](https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX) | 4:47 |
+| 111 | [Guided by Evil](https://open.spotify.com/track/6os2CG54Dj1JRcKWzOh7RN) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:30 |
+| 112 | [Masked Jackal](https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Punishment for Decadence](https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX) | 4:47 |
+| 113 | [Circle of the Tyrants](https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [To Mega Therion \(Expanded Version\)](https://open.spotify.com/album/4jlatOhKoYXYXxoFJsBMDg) | 4:27 |
 | 114 | [Strike Fast Strike Hard](https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Generation Antichrist](https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj) | 4:38 |
 | 115 | [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 |
 | 116 | [The Black Hand Reaches Out](https://open.spotify.com/track/0Sd8D0bpbOBlFo6dZz4OiH) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Weapons of Tomorrow](https://open.spotify.com/album/17DKdWLitnU01P627Dt2Ia) | 3:57 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Heart Attack](https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ) | [Toxik](https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m) | [World Circus](https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx) | 3:48 |
 | 120 | [Perpetual Chaos](https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:39 |
 
-Snapshot ID: `MTY2NTEyNjAwMCwwMDAwMDAwMDMwM2MwOTA0MDI4YjA2Zjk3MjBmNTQxM2I1YjdiMzZm`
+Snapshot ID: `MTY2NTEyNjAwMCwwMDAwMDAwMGY2ZGNiYjcwOGVhYjE1M2U5OTBjYzhkOTZlOWQ2NjAw`

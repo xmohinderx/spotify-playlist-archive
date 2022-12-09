@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 
 > Concéntrate al máximo, sin distracciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,014 likes - 250 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,072 likes - 250 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 71 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 |
 | 72 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 |
 | 73 | [Your Own Kind](https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Your Own Kind](https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH) | 1:54 |
-| 74 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 |
-| 75 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 |
+| 74 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 |
+| 75 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 |
 | 76 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 |
 | 77 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 |
 | 78 | [Storytelling](https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Storytelling](https://open.spotify.com/album/0msgHgZpWhe5InxDJIauQ8) | 2:21 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 249 | [Elderflowers](https://open.spotify.com/track/5LXArjUq89I6gByE5u44k5) | [Ryu Ito](https://open.spotify.com/artist/1hIFiZqCoq6Az71hQ8xkTz) | [Elderflowers](https://open.spotify.com/album/3SR9dXr1wEIvr9m9zEXm1h) | 2:09 |
 | 250 | [Stirling](https://open.spotify.com/track/1lBZFfbME5sIHKtgNuXq2I) | [Tuga Topić](https://open.spotify.com/artist/30nHhrHqaesxWRiNzW4g6O) | [Stirling](https://open.spotify.com/album/6JHOTIWdn1UyUZYys8HEpO) | 1:59 |
 
-Snapshot ID: `MTY2Mzk0MDc0MiwwMDAwMDAwMGFlYmQ3MzkyZjUyYWI1NmJmZmU5YzE2Mzg5NWZiNGYz`
+Snapshot ID: `MTY2Mzk0MDc0MiwwMDAwMDAwMDNkYTM4MmEwZjRhYjYzZWNkNmNmMjcxNzBiNDk0Yjg3`

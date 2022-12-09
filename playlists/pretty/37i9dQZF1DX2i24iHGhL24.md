@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Niki
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,931 likes - 198 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,047 likes - 198 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 97 | [A Thousand Miles](https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM) | [SADBOii](https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN) | [A Thousand Miles](https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs) | 3:10 |
 | 98 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 |
 | 99 | [bad guy \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66wi6NRfwsula1n68bJEod) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 2:47 |
-| 100 | [Everybody Wants To Rule The World](https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Everybody Wants To Rule The World](https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms) | 2:47 |
-| 101 | [Better Now \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Spotify Singles](https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7) | 3:50 |
+| 100 | [Better Now \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Spotify Singles](https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7) | 3:50 |
+| 101 | [Everybody Wants To Rule The World](https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Everybody Wants To Rule The World](https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms) | 2:47 |
 | 102 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 3:52 |
 | 103 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 |
 | 104 | [I'm With You](https://open.spotify.com/track/3zLsU8qJbhTnd2QUu7pLtJ) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [I'm With You](https://open.spotify.com/album/3Omupu2Y8hvpJk9cinOi4a) | 2:53 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 197 | [Graveyard](https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Graveyard](https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc) | 3:18 |
 | 198 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGI0NTExZDVmZDIxMWMyMDNjZDU2NDlhOTU0NzNjZmM4`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDY1Nzc0YzQ2YTQ0OGViYTY1YmUxYjBjN2I2OWRiMzYw`

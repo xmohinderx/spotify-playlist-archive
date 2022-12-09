@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,405 likes - 57 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,605 likes - 57 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 | 44 | [La Nueva Y La Ex](https://open.spotify.com/track/6WuufZDBNoEJBTinRiznhO) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [King Daddy](https://open.spotify.com/album/3xtMlD79fXUjZ92e1c4TnX) | 3:17 |
 | 45 | [Mi Cama \- Remix](https://open.spotify.com/track/38QmUDpkoYlNbMKvpvAsrE) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Mi Cama \(Remix\)](https://open.spotify.com/album/6dVC3KSMioVw7ywpXx10cl) | 3:16 |
 | 46 | [PAM](https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [PAM](https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U) | 3:21 |
-| 47 | [Satisfacción](https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Satisfacción](https://open.spotify.com/album/54kKKlH1NeDeihHxTYEvGA) | 4:16 |
+| 47 | [Satisfacción](https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Satisfacción](https://open.spotify.com/album/54kKKlH1NeDeihHxTYEvGA) | 4:16 |
 | 48 | [Pasarela](https://open.spotify.com/track/4yORNsoYe4XnK99EXhKhWB) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Prestige](https://open.spotify.com/album/3mCZPmix70kS3uC4aOXz7w) | 3:13 |
 | 49 | [No Te Puedo Olvidar](https://open.spotify.com/track/4lMBnVOEKScRyQyfyJQwI4) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:20 |
 | 50 | [Impacto](https://open.spotify.com/track/6Whz0X5fTmsTMrWuFTBp60) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:05 |

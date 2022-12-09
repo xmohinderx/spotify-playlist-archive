@@ -50,6 +50,28 @@
     },
     {
       "album": {
+        "name": "Chic",
+        "url": "https://open.spotify.com/album/6uLz99apI6nb6DJnarejuk"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/38sPQGVoRnzlF4VBr71fln"
+    },
+    {
+      "album": {
         "name": "Confiance",
         "url": "https://open.spotify.com/album/3paMPs0FH8lqQ7lH5vbVIt"
       },
@@ -224,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Ronisia (Version Deluxe)",
+        "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176346,
+      "name": "Jamais",
+      "url": "https://open.spotify.com/track/5YlJIxE6hsr5x7avxnjq8g"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/7KUuZ9P4F4gUda00i45pQ2"
       },
@@ -275,7 +315,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 158786,
       "name": "Lentement",
       "url": "https://open.spotify.com/track/5iAmmra4TKlT2zXT11pf7h"
@@ -520,6 +560,24 @@
     },
     {
       "album": {
+        "name": "PAS L\u00c0",
+        "url": "https://open.spotify.com/album/2Al8CFaYs6K4RPY0XVvCl4"
+      },
+      "artists": [
+        {
+          "name": "Soid",
+          "url": "https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171737,
+      "name": "PAS L\u00c0",
+      "url": "https://open.spotify.com/track/593rLZfwh40YutczjPvbwD"
+    },
+    {
+      "album": {
         "name": "Pervers narcissique",
         "url": "https://open.spotify.com/album/5WZ0HDVic3khelXu0bQu4B"
       },
@@ -625,7 +683,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 141205,
       "name": "Pr\u00e9face - Nouveau D\u00e9part",
       "url": "https://open.spotify.com/track/6Fj78TJ1CqYW0vYuIzs0Mt"
@@ -767,7 +825,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 198773,
       "name": "Un bout de nous",
       "url": "https://open.spotify.com/track/2vn8j2f7rqfaz3myB5j4vp"

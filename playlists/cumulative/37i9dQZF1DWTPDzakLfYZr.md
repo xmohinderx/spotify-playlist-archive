@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: The Rudeboyz, Maluma y Adam Levine
 
-203 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
+204 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [La Mitad \- Reggaetón Remix](https://open.spotify.com/track/3kngR9LIfI4bW0b6pONy57) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lewis Picket](https://open.spotify.com/artist/4kgb3OUSqj61KLjxydJPLD) | [La Mitad \(The Remixes\)](https://open.spotify.com/album/7qyQoVHOiy1BnMopH0mpfm) | 3:32 | 2022-01-28 | 2022-04-02 |
 | [La Rutina](https://open.spotify.com/track/1b03Wjd2GOjbwjhZUJtaQO) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Rutina](https://open.spotify.com/album/33VjCQ8nvi5XpGnL4qIKQD) | 3:12 | 2021-12-10 | 2022-07-30 |
 | [La Tarea](https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Tarea](https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp) | 3:41 | 2022-03-25 | 2022-04-02 |
-| [Ley Seca](https://open.spotify.com/track/51yjkR9blUWtAphR7lZl5y) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Ley Seca](https://open.spotify.com/album/2FA49rbLgNqFX28k1RE4Vn) | 4:23 | 2021-12-10 |  |
+| [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 | 2022-11-25 |  |
+| [Ley Seca](https://open.spotify.com/track/51yjkR9blUWtAphR7lZl5y) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Ley Seca](https://open.spotify.com/album/2FA49rbLgNqFX28k1RE4Vn) | 4:23 | 2021-12-10 | 2022-12-09 |
 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 | 2021-12-10 |  |
 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 | 2022-06-10 | 2022-06-25 |
 | [Locura \- Remix](https://open.spotify.com/track/2HgkTlPHdYGHdVjQ6eZMCK) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Locura \(Remix\)](https://open.spotify.com/album/7esUtAhGGUd7kgHHHaG7DS) | 3:39 | 2021-12-10 |  |

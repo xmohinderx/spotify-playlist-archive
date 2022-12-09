@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > living life in your 250sq ft micro apartment \- cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,435,693 likes - 150 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,435,951 likes - 150 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 3 | [Smoke Signal](https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:32 |
 | 4 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 5 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
-| 6 | [Stacy's Brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Stacy's Brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 |
+| 6 | [stacy's brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [stacy's brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 |
 | 7 | [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 |
 | 8 | [In My Head](https://open.spotify.com/track/5ll8HAvZjHncvYQbGmQiWS) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [In My Head](https://open.spotify.com/album/1893jpgnH51NsGubSHlvfJ) | 2:45 |
 | 9 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 |

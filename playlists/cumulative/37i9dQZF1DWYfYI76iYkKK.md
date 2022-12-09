@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-175 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
+177 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 | 2022-06-16 |  |
 | [It's Time \- 影集《2049》插曲](https://open.spotify.com/track/7JNR8qb7kaTnutgjnZntOY) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [It's Time \(影集《2049》插曲\)](https://open.spotify.com/album/64n8dIEZz7Wy94nkT3rxIe) | 3:19 | 2022-06-10 | 2022-07-27 |
 | [Long Long Way](https://open.spotify.com/track/4HybKmCMLUaejSe7gXVtet) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 4:34 | 2022-08-11 | 2022-08-19 |
-| [Make Wish](https://open.spotify.com/track/5NClrn8SgIijP7znDJUld1) | [謝孟其](https://open.spotify.com/artist/0JINcCQEGV2Qzda5MfXZ9H) | [Make Wish](https://open.spotify.com/album/00ufstiEUpSdOKZQMigttd) | 3:29 | 2022-11-24 |  |
+| [Make Wish](https://open.spotify.com/track/5NClrn8SgIijP7znDJUld1) | [謝孟其](https://open.spotify.com/artist/0JINcCQEGV2Qzda5MfXZ9H) | [Make Wish](https://open.spotify.com/album/00ufstiEUpSdOKZQMigttd) | 3:29 | 2022-11-24 | 2022-12-09 |
 | [Maybe It’s for the Best](https://open.spotify.com/track/0xUULqd08ANKwp1u7Fh6Oz) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [Nothing is Under Control](https://open.spotify.com/album/6t6g0WbY1pim62oRUmxF2D) | 3:40 | 2022-06-10 | 2022-07-11 |
 | [Maybe Someday](https://open.spotify.com/track/5owdgqZ1tg8zj8MRLDSRer) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [Maybe Someday](https://open.spotify.com/album/1HKgU4noBniz460SpFo8dR) | 3:32 | 2022-09-08 | 2022-09-16 |
 | [Midnight Sun \- Acoustic](https://open.spotify.com/track/59g2Rii8PghTk5gwUgYwrP) | [Brian Yoong](https://open.spotify.com/artist/4lH5eW1YgDycEJoI3LHt8R), [Joel](https://open.spotify.com/artist/15VtB8EsjO97HFzbDsW129) | [Midnight Sun \(Acoustic\)](https://open.spotify.com/album/2oZbwitCD52R9ffOJN5xOe) | 4:01 | 2022-06-27 | 2022-07-01 |
@@ -55,7 +55,7 @@
 | [你記得嗎](https://open.spotify.com/track/1cwxDaya6pbEyLN4VYmrKJ) | [楊培安](https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1) | [回憶如歌](https://open.spotify.com/album/3JmCRfInp95OYw7bW9Ptlr) | 5:16 | 2022-06-10 | 2022-06-15 |
 | [來日不方長](https://open.spotify.com/track/0cor9VJMzRZQmyQbV9INpK) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [來日不方長](https://open.spotify.com/album/53pEl1amSqUzSV7ViWqi9Y) | 4:16 | 2022-06-27 | 2022-06-30 |
 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 | 2022-07-28 |  |
-| [其實你並沒那麼孤單](https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 3:04 | 2022-10-20 |  |
+| [其實你並沒那麼孤單](https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 3:04 | 2022-10-20 | 2022-12-09 |
 | [再一次擁有](https://open.spotify.com/track/447anYXT2ONrCfw3PlXLWV) | [龔詩嘉](https://open.spotify.com/artist/3YJXJABOwuadyp7MPN9wbi) | [好, 詩嘉](https://open.spotify.com/album/5QRIErMZ7QOWs6sy937gR3) | 4:19 | 2022-06-02 | 2022-07-29 |
 | [出走](https://open.spotify.com/track/7m5E9euAbb5O3lgOWm7H1D) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [出走](https://open.spotify.com/album/0lGn56lhCvMeqiVppbz9YM) | 4:16 | 2022-06-10 | 2022-07-28 |
 | [初戀的地方 \(《華燈初上》插曲\)](https://open.spotify.com/track/1s3oaYJPfpQnTrW2sdtK0b) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [華燈初上 影集原聲帶](https://open.spotify.com/album/5Wo3UjxodmjHl2XK3FCkTv) | 2:56 | 2022-06-16 | 2022-07-20 |
@@ -72,6 +72,7 @@
 | [在意這件事](https://open.spotify.com/track/4KAjsAnB9z0rHpnMJeVZ44) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 3:23 | 2022-06-23 | 2022-07-01 |
 | [夜晚的光明](https://open.spotify.com/track/5yt4lWYsV1GONU6t5UmiFz) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [Re:小花盛開的回音](https://open.spotify.com/album/3BbGGSFo9vHGhRzoAjGBHq) | 3:31 | 2022-06-30 | 2022-07-11 |
 | [天蠍座\-日光版](https://open.spotify.com/track/1kqaTLA5cwwSL2z4CrU0wD) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [天蠍座\-日光版](https://open.spotify.com/album/4ucntO6s4JhRPCqr7a7lde) | 4:30 | 2022-07-15 | 2022-07-28 |
+| [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 | 2022-12-08 |  |
 | [太陽雨](https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [郁心](https://open.spotify.com/artist/09QyyZF4pquXH58c52YUtp) | [太陽雨](https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u) | 3:36 | 2022-06-02 |  |
 | [好好](https://open.spotify.com/track/1wI4WM504xW0N7PTQeu6LA) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [好好](https://open.spotify.com/album/6FacBzWHBXqpz4kICD7qD8) | 3:11 | 2022-06-02 | 2022-07-29 |
 | [好好對待她](https://open.spotify.com/track/0ZnmSyvulI0c8a3YLXrvdO) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/3qAC5nzZ2eeyS3VqOoQ3Sj) | 4:38 | 2022-09-29 | 2022-10-31 |
@@ -142,6 +143,7 @@
 | [無意 \- Live Session](https://open.spotify.com/track/0EjyhLHd0ajxqaQAPiQKO1) | [So\-So Heroes 瘦瘦英雄](https://open.spotify.com/artist/2N9RYbFNaumoJTEw67qsBt) | [無意 \(Live Session\)](https://open.spotify.com/album/7geWheVQ57ZQ6xZaV9yk0b) | 4:12 | 2022-12-01 |  |
 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 | 2022-06-02 |  |
 | [當我們同在一起](https://open.spotify.com/track/0fUDUbQDkDfglxk5uPYXWq) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [當我們同在一起](https://open.spotify.com/album/1zjX6WGhNd6Pa32us6hqOK) | 3:38 | 2022-10-17 | 2022-10-25 |
+| [當我閉上眼](https://open.spotify.com/track/2M9aaOChY4DBfhYy2ZaPza) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [這世界怎麼會變得跟我想的不一樣](https://open.spotify.com/album/0N4uMClwRGyMbzILNHs7NM) | 2:32 | 2022-12-08 |  |
 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 | 2022-07-28 | 2022-11-04 |
 | [皆可 \(中天娛樂台《慶餘年》主題曲\)](https://open.spotify.com/track/2CkmvLrg2Zl83TuwjwWF5v) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [皆可 \(中天娛樂台《慶餘年》主題曲\)](https://open.spotify.com/album/5QKzAmGWRo1k2P7dBgmqDQ) | 4:26 | 2022-06-02 | 2022-07-28 |
 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 | 2022-06-02 | 2022-07-24 |

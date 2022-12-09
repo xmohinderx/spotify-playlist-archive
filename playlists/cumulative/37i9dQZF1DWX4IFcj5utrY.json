@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=6TZcDobZT6KDVIsCO-akFA\">Thakzin</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=Hy20dxd0RdaajCWHqQqfdQ\">Sen-El Musician</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -1155,6 +1155,24 @@
       "duration_ms": 313026,
       "name": "Andifuni Ngawe",
       "url": "https://open.spotify.com/track/5owaEYXYYnTvw15uOl5E6S"
+    },
+    {
+      "album": {
+        "name": "Anelka",
+        "url": "https://open.spotify.com/album/6yoxxlrkQ6RB3GNGZuUJks"
+      },
+      "artists": [
+        {
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417472,
+      "name": "Anelka",
+      "url": "https://open.spotify.com/track/6o6o4WdKUhQMAMsC5qgFYg"
     },
     {
       "album": {
@@ -3343,7 +3361,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 473861,
       "name": "Don\u2019t Get Me Wrong",
       "url": "https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK"
@@ -7141,7 +7159,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 426398,
       "name": "Lover",
       "url": "https://open.spotify.com/track/6JMJPX4sm1QEmsKDp18rjZ"
@@ -7317,6 +7335,32 @@
       "duration_ms": 184776,
       "name": "Make You Go",
       "url": "https://open.spotify.com/track/5AVUynEPVWIi1Ugz9wVKwB"
+    },
+    {
+      "album": {
+        "name": "AEDM: Interstellar",
+        "url": "https://open.spotify.com/album/7bNztZqGIRCaALpnDsDB4W"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352093,
+      "name": "Makwande",
+      "url": "https://open.spotify.com/track/2MpkUFQpd7zYRGZt4BQ8bz"
     },
     {
       "album": {
@@ -9189,7 +9233,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 240000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0N2WM0kZIYq5mMa0G6uh2E"
@@ -9453,6 +9497,28 @@
       "duration_ms": 255121,
       "name": "Queen of Ice - Nora En Pure Club Mix",
       "url": "https://open.spotify.com/track/5VyVQuqtPkKZt1jaXKuQkR"
+    },
+    {
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/2S3MDvgI7Ojn0p4YFwyLER"
+      },
+      "artists": [
+        {
+          "name": "FKLS",
+          "url": "https://open.spotify.com/artist/1vFGvmhvZYBc0XpgpoAzUf"
+        },
+        {
+          "name": "Jonas Apollo",
+          "url": "https://open.spotify.com/artist/7lD3p5VqwrhFUse5uzAEGq"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212682,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/0G4xId3XqDYAtOs8xdAfIR"
     },
     {
       "album": {
@@ -11701,7 +11767,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 196935,
       "name": "THE OTHER SIDE",
       "url": "https://open.spotify.com/track/2IGFXMQdh2AlVdPyd6woaR"
@@ -12227,7 +12293,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 289895,
       "name": "Triomf",
       "url": "https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a"
@@ -12631,7 +12697,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 351074,
       "name": "Une Star Bebe",
       "url": "https://open.spotify.com/track/2adKCHjISddX6SUdTKPWGr"
@@ -13013,7 +13079,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 384000,
       "name": "Wanalia",
       "url": "https://open.spotify.com/track/1NVyVOjrTFhtAbr1siZ3bq"
@@ -13127,7 +13193,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 212320,
       "name": "We Deserve To Dream",
       "url": "https://open.spotify.com/track/2IsAQ0jG5kfDTNuKGhSLC6"

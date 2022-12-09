@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Around And Around",
       "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 168600,
       "name": "Carol",
       "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 107026,
       "name": "Come On - Stereo Version",
       "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 200373,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/4yGYG9Md4QOkr8mIGGEbWn"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 139520,
       "name": "Guitar Boogie",
       "url": "https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 147866,
       "name": "House Of Blue Lights",
       "url": "https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2"
@@ -693,10 +693,28 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 132973,
       "name": "I Got To Find My Baby - Single Version",
       "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
+    },
+    {
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140466,
+      "name": "I Want To Be Your Driver - Stereo Remix",
+      "url": "https://open.spotify.com/track/4Cjk1HEvrSpIX0VemdFQyM"
     },
     {
       "album": {
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 102800,
       "name": "Let It Rock - Single Version",
       "url": "https://open.spotify.com/track/2OCoH12t6olzx9bT1PEC8F"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 163800,
       "name": "Little Queenie",
       "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 131800,
       "name": "Memphis, Tennessee",
       "url": "https://open.spotify.com/track/3UYtylPa55RqHS1YDGZoLs"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "No Particular Place To Go",
       "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 151773,
       "name": "Rock And Roll Music",
       "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 174133,
       "name": "Too Much Monkey Business",
       "url": "https://open.spotify.com/track/0aS1p8fwu06q47zUdShfAv"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"

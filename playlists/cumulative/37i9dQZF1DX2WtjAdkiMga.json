@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Almost Being In Love",
+        "url": "https://open.spotify.com/album/5Ymu1jC3DZjHLdTCtQg8rn"
+      },
+      "artists": [
+        {
+          "name": "So\u00f1oliento",
+          "url": "https://open.spotify.com/artist/0wINvfAKLiF2PHqBYU422q"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113258,
+      "name": "Almost Being In Love",
+      "url": "https://open.spotify.com/track/7lFqg5DjHCJW7fLgY6kLt2"
+    },
+    {
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/1Gw01tnxxPW9AKMgHE5Xmw"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 250854,
       "name": "Dolphin Dance",
       "url": "https://open.spotify.com/track/1db8iPd7L5PMc7T2R1MOrR"

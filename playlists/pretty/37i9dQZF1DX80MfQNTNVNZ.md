@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,057 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,141 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 2 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 | 3 | [take it easy.](https://open.spotify.com/track/1PNz8GPDAkQdFU19Ienmnr) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 3:08 |
 | 4 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
-| 5 | [Self Voodoo](https://open.spotify.com/track/7BlWbTMkXIFiIgewaTQqf1) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [All Rivers](https://open.spotify.com/album/4sE9YpuUHkoVFQrsN7NTTx) | 2:49 |
+| 5 | [Apply Pressure](https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 3:14 |
 | 6 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/2gwPSato3oB35bIgtqmlz4) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/3pGrDkS6o6zIxCLDROBBpC) | 3:22 |
 | 7 | [Do You Wanna Live Like That](https://open.spotify.com/track/686gHvtlUl4UXfUxGdiX5z) | [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Do You Wanna Live Like That](https://open.spotify.com/album/4HRMvnPwcG0OLF68s1UySZ) | 3:15 |
 | 8 | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc) | 4:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 60 | [Ordinary Pleasure](https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 3:03 |
 
-Snapshot ID: `MTY2OTkwNjgwMCwwMDAwMDAwMGJjMTE5YjNkNjQwNmNhYTRkMmVmMDA0ODg2ZGFhYzZl`
+Snapshot ID: `MTY3MDUyNjkyNSwwMDAwMDAwMDE0MjVhYmM0NDJkMThmOGMwY2U3YTQzMWYzZDZkYWNi`

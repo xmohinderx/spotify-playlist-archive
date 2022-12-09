@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da riascoltare in loop\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,149 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,303 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 21 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
 | 22 | [KUMITE](https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 2:50 |
 | 23 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 |
-| 24 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
+| 24 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 |
 | 25 | [Pensando a lei](https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 2:56 |
-| 26 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 |
+| 26 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
 | 27 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 | 28 | [SOLITE PARE \(feat\. thasup & Sfera Ebbasta\)](https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 3:31 |
 | 29 | [Visiera A Becco](https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Centro \(feat\. Coez\)](https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Back Home](https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We) | 3:04 |
 | 100 | [Fiori Del Male \(feat.Sfera Ebbasta\)](https://open.spotify.com/track/6L9c3eo0Mcfmom3QqsGN0j) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [The Dark Album](https://open.spotify.com/album/6dcABz37PK2Q9bnv8kYTt0) | 3:08 |
 
-Snapshot ID: `MTY2NTEzODY0MywwMDAwMDAwMDRlYjM3MTAzMzc4YTk0YjU2Njc0OGRkZjQ2NTVmMDA2`
+Snapshot ID: `MTY2NTEzODY0MywwMDAwMDAwMDEyYTQ3OGU4ZmNkMzBhYjU2ODdhYTY0MTQxN2ZlYjM1`

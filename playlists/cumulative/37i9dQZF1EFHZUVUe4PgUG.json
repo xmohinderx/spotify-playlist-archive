@@ -1625,6 +1625,24 @@
     {
       "album": {
         "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183009,
+      "name": "Ya Llegu\u00e9",
+      "url": "https://open.spotify.com/track/3D3Wcdtl05GD15NvwmyeQK"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
         "url": "https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa"
       },
       "artists": [

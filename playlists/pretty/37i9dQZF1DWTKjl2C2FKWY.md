@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 
 > Soft acoustic sounds for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,371 likes - 113 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,428 likes - 113 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

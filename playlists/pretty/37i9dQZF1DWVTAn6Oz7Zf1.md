@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 
 > Cerchi energie e buona musica? Prova con la nostra playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,385 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,382 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 75 | [Deja Vu](https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Deja Vu](https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY) | 3:18 |
 | 76 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 |
 | 77 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 |
-| 78 | [Breathe \(feat\. kaspara\)](https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kaspara](https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2) | [Breathe \(feat\. kaspara\)](https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK) | 2:55 |
-| 79 | [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 |
-| 80 | [Madan \(King\)](https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl) | 3:03 |
+| 78 | [Madan \(King\)](https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl) | 3:03 |
+| 79 | [Breathe \(feat\. kaspara\)](https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kaspara](https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2) | [Breathe \(feat\. kaspara\)](https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK) | 2:55 |
+| 80 | [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDBiNzI1YzJhNWE1M2FlYjljYTlhMWRmNTIxMmRmN2Zj`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDMyYTU2YmYxOGNmZTY3M2ExOTRiMGU0NGQxMjdlNTMw`

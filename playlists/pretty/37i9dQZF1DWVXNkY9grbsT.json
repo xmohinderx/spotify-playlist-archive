@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 30776,
+  "num_followers": 30834,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEyMzcxOSwwMDAwMDAwMDgwODg0YTA2NGRhMmUyNTBhYTg5M2VjYWM4NmExZjQ1",
+  "snapshot_id": "MTY2OTEyMzcxOSwwMDAwMDAwMDBiNDA1MGU4ODk1MTUxYjNhZTUxYmNlODhiYjk2OTli",
   "tracks": [
     {
       "added_at": "2022-11-22 13:28:39",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "Quinto Relat\u00f3rio Anual",
-        "url": "https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd"
-      },
-      "artists": [
-        {
-          "name": "Pandit Pam Pam",
-          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
-        }
-      ],
-      "duration_ms": 217428,
-      "name": "Indonesia Print",
-      "url": "https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "Metamorphose",
         "url": "https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 190983,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "Quinto Relat\u00f3rio Anual",
+        "url": "https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "duration_ms": 217428,
+      "name": "Indonesia Print",
+      "url": "https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL"
     },
     {
       "added_at": "2022-11-22 13:28:39",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-22 13:28:39",
       "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
-    },
-    {
-      "added_at": "2022-11-22 13:28:39",
-      "album": {
         "name": "Penelope Trappes Death Revisited",
         "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
+    },
+    {
+      "added_at": "2022-11-22 13:28:39",
+      "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2022-11-22 13:28:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,585 likes - 93 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,755 likes - 93 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 80 | [Side by Side](https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Side by Side](https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y) | 2:23 |
 | 81 | [Still Broke \- Keyon's Cocktail Mix](https://open.spotify.com/track/107l1YopKHWYtPbondo2oI) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(Keyon's Cocktail Mix\)](https://open.spotify.com/album/5nScYB4E1Fw0RSOV8QDUZN) | 3:57 |
 | 82 | [Do You?](https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i) | [GaryOAKland](https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07), [Lee Brave](https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp) | [Do You?](https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB) | 3:12 |
-| 83 | [LIA](https://open.spotify.com/track/76F5aEqRgxaUE34JX3g78g) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/34cWIUEnueKa9rQcXsXF4Q) | 3:38 |
+| 83 | [LIA](https://open.spotify.com/track/79yUKmyrDvi1QFVaqo9DIL) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/21Dh5zHvadr9S2b31QR2ok) | 3:38 |
 | 84 | [Unweaving the Rainbow Forever](https://open.spotify.com/track/4Yu599Am0GHlAMsnq158GD) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Unweaving the Rainbow Forever](https://open.spotify.com/album/3pY3Al7uDtfIaoayZ6KwEV) | 3:17 |
 | 85 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 |
 | 86 | [A Storm On A Summers Day](https://open.spotify.com/track/37jMCyGpHpwvv8ePVReFGl) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Still Growing](https://open.spotify.com/album/4yNBRf4JRiowAEoyhrxSQ0) | 2:58 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 92 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 |
 | 93 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 
-Snapshot ID: `MTY3MDIzNzA5NCwwMDAwMDAwMGU1ZTcyYjBjNjY5MWRiMWFhNDM0MDE2YzY5MDQ0ODg5`
+Snapshot ID: `MTY3MDIzNzA5NCwwMDAwMDAwMGVhMTdlNGVkZjVlNTYzMDg4NWJlNzc5NTcyYjYxNGY2`

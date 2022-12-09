@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,528 likes - 825 songs - 2 day 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,548 likes - 825 songs - 2 day 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,7 +259,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 249 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 3:52 |
 | 250 | [Stay High \- Recorded At East West Studios](https://open.spotify.com/track/0LeA15NV8v9W1HrZvD3rqS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/1KQQIiKcpLntswP4sW62yK) | 3:34 |
 | 251 | [You And Your Folks, Me And My Folks \- Recorded At East West Studios](https://open.spotify.com/track/1WFPLwZLn2xrioEwiRcJBY) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/1KQQIiKcpLntswP4sW62yK) | 4:09 |
-| 252 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 |
+| 252 | [Creep](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79) | 2:41 |
 | 253 | [Salt And The Sea \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/13ohpzdtJcFgRyxLLQ1ftY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj) | 5:14 |
 | 254 | [Have You Ever Seen The Rain \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj) | 2:34 |
 | 255 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 |
@@ -300,8 +300,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 290 | [I'm Goin' Down \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 3:27 |
 | 291 | [mother tongue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ) | 3:37 |
 | 292 | [Drone Bomb Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0yQUNTyGO1HHMvXY3TZh7t) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ) | 3:52 |
-| 293 | [Why Did You Run? \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3oJRLetXV9sNjdT3zrHHDm) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 6:03 |
-| 294 | [I Won't Back Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 3:47 |
+| 293 | [Why Did You Run? \- Live](https://open.spotify.com/track/4QTUnhkVcgGOWlQgcpKXK8) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Live\)](https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy) | 6:03 |
+| 294 | [I Won't Back Down \- Live](https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Live\)](https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy) | 3:47 |
 | 295 | [Auf Wiedersehen \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1lr9eOO2uWRbac20iZNwxb) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Spotify Singles](https://open.spotify.com/album/5m1CwjyTanKdqqCKduZzYB) | 3:07 |
 | 296 | [Ledaren \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/3DZELcEJ8Aa4qiWhNSAseb) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Spotify Singles](https://open.spotify.com/album/5m1CwjyTanKdqqCKduZzYB) | 3:41 |
 | 297 | [Hold Me While You Wait \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4XJ2SmdXNTkMkkx6PFPU8m) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:24 |
@@ -834,4 +834,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 824 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 825 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MTY2ODcxMDU0NiwwMDAwMDAwMGU1MGMwNGVkY2VjZjkwMjc2YmZiNDhiZjA4ZGU5OGE4`
+Snapshot ID: `MTY2ODcxMDU0NiwwMDAwMDAwMDI5OTAxMGVlNTgwM2NmZDhjZTRiNmQ2OWJhZjY1MGZi`

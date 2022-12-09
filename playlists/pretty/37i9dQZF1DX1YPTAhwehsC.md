@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: DD Osama
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,441 likes - 101 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,616 likes - 101 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 2 | [No Passes](https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [No Passes](https://open.spotify.com/album/7vjMD8VhqQU7Yy6hS1Fm22) | 2:40 |
 | 3 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
-| 4 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [BILLY B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
+| 4 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 | 5 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 |
 | 6 | [Feel The Fiyaaaah \(with A$AP Rocky & feat\. Takeoff\)](https://open.spotify.com/track/3SsJ17EnPIu1B4GZshqjIS) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:09 |
 | 7 | [40s N 9s](https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [40s N 9s](https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j) | 2:25 |

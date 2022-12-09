@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-416 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+417 songs - 19 hr 27 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,8 @@
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-22 | 2022-11-22 |
 | [Tidal Wave](https://open.spotify.com/track/6aNgALkspvsIlNvzdwG02z) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tidal Wave](https://open.spotify.com/album/3bRmPk6JsO9fXbCOhVsOEL) | 2:42 | 2022-04-15 | 2022-06-11 |
 | [Til The Morning](https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Til The Morning](https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC) | 2:10 | 2022-04-08 | 2022-05-20 |
-| [Tokyo Drift](https://open.spotify.com/track/76A5wgXcn1uFnm2U1NfKMM) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tokyo Drift](https://open.spotify.com/album/3D0aMA56sQOTU4HpbAqQvS) | 2:21 | 2022-12-02 |  |
+| [Tokyo Drift](https://open.spotify.com/track/6X2S7ZNj1z8EoUa14uzdJF) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tokyo Drift](https://open.spotify.com/album/1TgRgw9PAFAYqWw8PH9298) | 2:21 | 2022-12-02 |  |
+| [Tokyo Drift](https://open.spotify.com/track/76A5wgXcn1uFnm2U1NfKMM) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tokyo Drift](https://open.spotify.com/album/3D0aMA56sQOTU4HpbAqQvS) | 2:21 | 2022-12-02 | 2022-12-09 |
 | [Tom Holland](https://open.spotify.com/track/1Ovf6VdhqNnM9eOd1ZJQgd) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tom Holland](https://open.spotify.com/album/7GgItGEIkjMOZ1fm8VKkxJ) | 3:15 | 2022-02-04 | 2022-06-04 |
 | [toxic crush](https://open.spotify.com/track/4jx3OhzeLknPoF52To841h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 4](https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N) | 2:14 | 2022-05-06 | 2022-06-04 |
 | [Trap \(feat\. Lil Baby\)](https://open.spotify.com/track/2Y8hY4rRRQQjdaZkkwzpd9) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE) | 3:04 | 2022-04-04 | 2022-11-22 |

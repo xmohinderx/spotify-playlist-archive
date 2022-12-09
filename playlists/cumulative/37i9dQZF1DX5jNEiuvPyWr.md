@@ -2,19 +2,20 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : GR OMEGA
+> Le meilleur du rap français version cloud\. Photo : joysad
 
-114 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+117 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.QUI.TU.VEUX.](https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf) | [Kobo](https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft) | [.QUI.TU.VEUX.](https://open.spotify.com/album/4WKVTE8FvoBIfvI29lHRGF) | 3:32 | 2022-10-27 |  |
+| [.QUI.TU.VEUX.](https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf) | [Kobo](https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft) | [.QUI.TU.VEUX.](https://open.spotify.com/album/4WKVTE8FvoBIfvI29lHRGF) | 3:32 | 2022-10-27 | 2022-12-09 |
 | [0 Lucidité](https://open.spotify.com/track/0DYBFNc6mWge6UhpjRtMH0) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [0 Lucidité](https://open.spotify.com/album/60IIkHsD79aILJ4pnkOO25) | 3:29 | 2022-07-28 | 2022-08-26 |
-| [1jour](https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb) | [Simili Gum](https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS) | [prepa21](https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw) | 2:49 | 2022-10-13 |  |
+| [1jour](https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb) | [Simili Gum](https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS) | [prepa21](https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw) | 2:49 | 2022-10-13 | 2022-12-09 |
 | [A toute vitesse](https://open.spotify.com/track/4phmBSG3bn6OC5Cs6QunPl) | [Seizur](https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF) | [A toute vitesse](https://open.spotify.com/album/1tFG0ErIbNpLaT9OeufOI4) | 2:52 | 2022-12-01 |  |
 | [A7](https://open.spotify.com/track/2wYqPFq90ncbRAuQdqzaZM) | [La formule](https://open.spotify.com/artist/5YGnhKKWnnlfVGHzwO9Vly), [BlackTria](https://open.spotify.com/artist/56GVzeiYe2ZH3iiNMkmbQs) | [46.96.](https://open.spotify.com/album/7IxL0jXySiOuAfl95Zy0uz) | 2:41 | 2022-09-29 | 2022-10-28 |
 | [Alita \(feat\. Rounhaa\)](https://open.spotify.com/track/2QpRNqd5FP0XQqRCYl2wno) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Sean](https://open.spotify.com/artist/4FVOcSxCCvonNnyHWvJzhb), [Leith](https://open.spotify.com/artist/2ymudkZ7TlHbLUNV59nm9G), [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe) | [Le soleil se lèvera à l'Ouest](https://open.spotify.com/album/59tsNmPW5twlP1slvr7Lz9) | 3:58 | 2022-11-24 |  |
 | [Alita \(feat\. Rounhaa\)](https://open.spotify.com/track/4RV2l9VHEPYrUXZXdiusEy) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C), [Leith](https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT), [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe) | [Le soleil se lèvera à l'Ouest](https://open.spotify.com/album/6Jtz2endgOr6QYkPhBulKt) | 3:58 | 2022-10-27 | 2022-11-30 |
+| [ALO](https://open.spotify.com/track/2gVEgY3FxEL8R4frXffu6E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [ALO](https://open.spotify.com/album/3RVYGYZWzZsz2grcl5CWqw) | 3:32 | 2022-12-08 |  |
 | [Amis d'enfance](https://open.spotify.com/track/59XM6eXdRqsOo0q7e5I4dK) | [L2B Gang](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Amis d'enfance](https://open.spotify.com/album/3hV1vkAYnO7afQjE5j15V2) | 3:27 | 2022-07-14 |  |
 | [Angelo](https://open.spotify.com/track/5R9g2Gpoyu2XQLBVeGqiKm) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Angelo](https://open.spotify.com/album/5bsucbfbgWkkJkO01tSGD0) | 2:35 | 2022-10-27 |  |
 | [ANNABA \- Dysphoria](https://open.spotify.com/track/53QvbD37VhzV9huvVZ6eYL) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [ANNABA \(Dysphoria\)](https://open.spotify.com/album/7eiuFe1rIiIzcjvOUIKfzo) | 2:54 | 2022-11-17 |  |
@@ -64,7 +65,7 @@
 | [J'rentre pas chez moi](https://open.spotify.com/track/1kqrfPAEFaOx33YHlYqQLa) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [J'rentre pas chez moi](https://open.spotify.com/album/5MaykxZo8kzq0uYHgQXjqD) | 2:43 | 2022-07-14 | 2022-09-30 |
 | [J'y pense encore](https://open.spotify.com/track/1dMDYQjrnhee5nmyKEydJd) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [J'y pense encore](https://open.spotify.com/album/0UzFkYv4X5yskUaB2QbjRz) | 3:29 | 2022-10-06 | 2022-12-02 |
 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 | 2022-07-14 | 2022-12-02 |
-| [L'AVANCE](https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L'AVANCE](https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd) | 2:05 | 2022-10-13 |  |
+| [L'AVANCE](https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L'AVANCE](https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd) | 2:05 | 2022-10-13 | 2022-12-09 |
 | [La Fin](https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY) | [Koss](https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16) | [La Fin](https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef) | 3:14 | 2022-10-06 | 2022-10-21 |
 | [La pierre](https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Wilma](https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X) | 3:00 | 2022-11-24 |  |
 | [Le monde par ma fenêtre](https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Le monde par ma fenêtre](https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z) | 3:23 | 2022-07-14 | 2022-11-04 |
@@ -111,9 +112,11 @@
 | [Sans ça](https://open.spotify.com/track/1VZr0fGotyAn61HlsUpk4R) | [Willyod](https://open.spotify.com/artist/58JTHHzGDeGIXUjUtbRvyO) | [Sans ça](https://open.spotify.com/album/7GpYNcQFtVQQfQ7wGyO3SF) | 2:35 | 2022-12-01 |  |
 | [Schémas Monotones](https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV) | [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Schémas Monotones](https://open.spotify.com/album/6YZxi7O8YpLl1VIPZRS3zJ) | 2:26 | 2022-07-14 | 2022-10-14 |
 | [Si ça compte](https://open.spotify.com/track/2KGyvpsnb8PXovZx4ecfUF) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [Kenna](https://open.spotify.com/album/76pipx8axggIWa1sXWV7K4) | 3:05 | 2022-10-27 |  |
-| [Silver Haze](https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY) | [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [Silver Haze](https://open.spotify.com/album/12CHUcB1WTZPeB2KHGyRoq) | 3:53 | 2022-10-27 |  |
+| [Silver Haze](https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY) | [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [Silver Haze](https://open.spotify.com/album/12CHUcB1WTZPeB2KHGyRoq) | 3:53 | 2022-10-27 | 2022-12-09 |
 | [SKYLER](https://open.spotify.com/track/7eDBP5VI6Ouv7J39dHQo8V) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [SKYLER](https://open.spotify.com/album/2TDnaEceIVGmQ0pVCQUo2u) | 3:17 | 2022-12-01 |  |
+| [Smile:\( \(feat\. So La Lune\)](https://open.spotify.com/track/1TBRrjtmgVxKTOJIjYiMrf) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Smile:\( \(feat\. So La Lune\)](https://open.spotify.com/album/4fSVefoyfmjASBGew0QzjL) | 3:07 | 2022-12-08 |  |
 | [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-08-11 |  |
+| [Sorcellerie](https://open.spotify.com/track/0tE3YgjdLTsyHXqVDMQRup) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [Sorcellerie](https://open.spotify.com/album/3Bu0F3D4cRVX54BSPpni0k) | 2:20 | 2022-12-08 |  |
 | [Survie](https://open.spotify.com/track/19uvmgboe6YrLBsIENp0bf) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1) | [Survie](https://open.spotify.com/album/2wkz1N1u5P9c8EvHv8tzDC) | 2:50 | 2022-11-17 |  |
 | [Tapion](https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Tapion](https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA) | 3:17 | 2022-07-14 | 2022-10-21 |
 | [TARZAN](https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI) | 2:59 | 2022-10-13 |  |

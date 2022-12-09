@@ -1186,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Strings: Relax",
+        "url": "https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160522,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/7hPHAXzlM5omRCBpeai7no"
+    },
+    {
+      "album": {
         "name": "Disney Orgel/Oyasumi BGM",
         "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
       },
@@ -2857,7 +2875,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 192469,
       "name": "The Family Madrigal",
       "url": "https://open.spotify.com/track/1gstHbv6e2ECve1q1DoX3a"

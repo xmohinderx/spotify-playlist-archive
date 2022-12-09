@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: Novel Fergus
+> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: kiyu
 
 69 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
 

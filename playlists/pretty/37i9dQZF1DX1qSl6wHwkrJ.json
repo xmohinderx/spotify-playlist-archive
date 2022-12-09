@@ -1,12 +1,12 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 7345,
+  "num_followers": 7475,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDIzMzUyNiwwMDAwMDAwMDJhNWIwZmUxNGM5NmZlMzBkZjg2YWIwMmMwMDRiZDNl",
+  "snapshot_id": "MTY3MDIzMzUyNiwwMDAwMDAwMGYxMDViZjlhZDA4Nzg5Y2E0MTc5OWQzZjlhMGI5MTZm",
   "tracks": [
     {
       "added_at": "2022-11-14 17:47:37",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-11-14 17:47:37",
       "album": {
+        "name": "His Complete Aladdin Recordings",
+        "url": "https://open.spotify.com/album/4CrJDn8HDnuIkCqfgUOmNh"
+      },
+      "artists": [
+        {
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Empty Stocking Blues",
+      "url": "https://open.spotify.com/track/6SwZ76VAKMj9pUDlTExTTQ"
+    },
+    {
+      "added_at": "2022-11-14 17:47:37",
+      "album": {
         "name": "The Alligator Records Christmas Collection",
         "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": "2022-11-14 17:47:37",
       "album": {
-        "name": "A Blues Christmas",
-        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 268288,
-      "name": "Merry, Merry Christmas",
-      "url": "https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s"
-    },
-    {
-      "added_at": "2022-11-14 17:47:37",
-      "album": {
         "name": "A Christmas Celebration Of Hope",
         "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-11-14 17:47:37",
       "album": {
-        "name": "His Complete Aladdin Recordings",
-        "url": "https://open.spotify.com/album/4CrJDn8HDnuIkCqfgUOmNh"
+        "name": "A Blues Christmas",
+        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
       },
       "artists": [
         {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 181466,
-      "name": "Empty Stocking Blues",
-      "url": "https://open.spotify.com/track/6SwZ76VAKMj9pUDlTExTTQ"
+      "duration_ms": 268288,
+      "name": "Merry, Merry Christmas",
+      "url": "https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s"
     },
     {
       "added_at": "2022-11-14 17:47:37",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-11-14 17:47:37",
       "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 284320,
-      "name": "Have You Heard The News?",
-      "url": "https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH"
-    },
-    {
-      "added_at": "2022-11-14 17:47:37",
-      "album": {
         "name": "Ghost From Christmas Past",
         "url": "https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 237077,
       "name": "Ghost From Christmas Past",
       "url": "https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI"
+    },
+    {
+      "added_at": "2022-11-14 17:47:37",
+      "album": {
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 284320,
+      "name": "Have You Heard The News?",
+      "url": "https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH"
     },
     {
       "added_at": "2022-11-14 17:47:37",
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
     },
     {
-      "added_at": "2022-12-08 01:12:15",
+      "added_at": "2022-12-09 01:14:35",
       "album": {
         "name": "Baby, It's Cold Outside",
         "url": "https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4"

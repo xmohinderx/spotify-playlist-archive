@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Sabrina Caprenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,178,492 likes - 103 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,179,218 likes - 103 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 6 | [deathmatch](https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:41 |
 | 7 | [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 |
 | 8 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
-| 9 | [Stacy's Brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Stacy's Brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 |
+| 9 | [stacy's brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [stacy's brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 |
 | 10 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 |
 | 11 | [QUARTER LIFE CRISIS](https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl) | 3:18 |
 | 12 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |

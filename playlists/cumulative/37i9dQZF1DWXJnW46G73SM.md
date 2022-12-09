@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: على لوكا
 
-265 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+266 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-23 | 2022-01-21 |
 | [Gehaz Tasgeel](https://open.spotify.com/track/31kJfQ4nHd7tuxNnfBfWe8) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Gehaz Tasgeel](https://open.spotify.com/album/6Acw13zVdVC2jfZ9vr94dL) | 3:05 | 2021-12-23 | 2022-02-18 |
 | [Ghadara](https://open.spotify.com/track/09IDaUSiljvpgn8Maga1le) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Ghadara](https://open.spotify.com/album/1nBeYWpShZ8LRON2jX26Ho) | 3:18 | 2022-10-13 |  |
+| [Ghaltan](https://open.spotify.com/track/3eRa2lh0BsnEDMDFvVPHVV) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Ghaltan](https://open.spotify.com/album/5W9oqTxsd5Fc1RF2E1Kztf) | 3:26 | 2022-12-08 |  |
 | [Ghasb Anny](https://open.spotify.com/track/20MpmTGEcFIfMxxqobnxnl) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Ghasb Anny](https://open.spotify.com/album/0XAMmhfNF6ezT5eEYPYKSy) | 4:24 | 2022-10-24 |  |
 | [Ghayart El Tarekh](https://open.spotify.com/track/7KKXMHZZbl3j2u6NgMKnrq) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Ghayart El Tarekh](https://open.spotify.com/album/6grY10EzNruoWcBvo2MxKG) | 3:50 | 2021-12-23 | 2022-02-02 |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-10-20 |  |
@@ -237,7 +238,7 @@
 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 | 2022-10-28 |
 | [إستمارة 6](https://open.spotify.com/track/570rEFeCi8o1gfjJVmzlMD) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [إستمارة 6](https://open.spotify.com/album/52FCk5Px74jp8QVX3YjYCT) | 3:15 | 2022-07-30 | 2022-10-21 |
 | [استنى ليه بقى](https://open.spotify.com/track/5aePWn3QLCKxKq5HLViDEi) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [استنى ليه بقى](https://open.spotify.com/album/0oLm76ZSd5hNSDnUNYHevK) | 3:42 | 2021-12-23 | 2022-01-21 |
-| [اعدائك كترت](https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اعدائك كترت](https://open.spotify.com/album/5FTpX2Ws71TQRQyec4CbqY) | 3:27 | 2022-09-21 |  |
+| [اعدائك كترت](https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اعدائك كترت](https://open.spotify.com/album/5FTpX2Ws71TQRQyec4CbqY) | 3:27 | 2022-09-21 | 2022-12-09 |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-02-08 | 2022-05-19 |
 | [السهرة](https://open.spotify.com/track/3B0c0EfG1DNm0XYipP9xjK) | [Essam Karika](https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW) | [El Sahra](https://open.spotify.com/album/4DK6Lxo0tLwNZDbeQWfQVu) | 1:47 | 2022-10-27 |  |
 | [القعدة وياها](https://open.spotify.com/track/1t92PLGQlNTFys2ujeh16y) | [Noor Radwan](https://open.spotify.com/artist/2GhbS9S7Gp9SIH6iUPvFeA) | [القعدة وياها](https://open.spotify.com/album/0CANZEmU3quFUm4X3EB9DM) | 3:41 | 2022-09-22 |  |

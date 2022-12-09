@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: blah\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,708 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,713 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 16 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 |
 | 17 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
 | 18 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 |
-| 19 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 |
-| 20 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 |
+| 19 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 |
+| 20 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 |
 | 21 | [Strawberry Kisses](https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Strawberry Kisses](https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6) | 3:01 |
 | 22 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 |
 | 23 | [Evergray](https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 4:05 |
 | 24 | [Year to Year](https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 4:14 |
-| 25 | [yayou hoi](https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [yayou hoi](https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD) | 3:08 |
-| 26 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
-| 27 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
-| 28 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
-| 29 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
+| 25 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
+| 26 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
+| 27 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
+| 28 | [yayou hoi](https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [yayou hoi](https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD) | 3:08 |
+| 29 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
 | 30 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
 | 31 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 |
 | 32 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
 | 50 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 |
 
-Snapshot ID: `MTY2OTI4MTMzNywwMDAwMDAwMGZkNGYxMTZkYjE5YTVlNmY5YWMxZjQzZGUwZDcyYjgw`
+Snapshot ID: `MTY2OTI4MTMzNywwMDAwMDAwMDFhMTIyY2EyZDY2OGUzZWIyMzBmNzY2MWExMTM0ZWUy`

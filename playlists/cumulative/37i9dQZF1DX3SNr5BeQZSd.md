@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-117 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+118 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 | 2022-09-09 |  |
 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 | 2022-09-09 |  |
 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2022-09-09 |  |
+| [I'm sorry](https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Theres Still Us](https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp) | 2:37 | 2022-11-11 |  |
 | [I'm sorry](https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Theres Still Us](https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3) | 2:37 | 2022-11-11 | 2022-11-25 |
 | [i'm tired of feeling this way](https://open.spotify.com/track/0A6dTlWYD2magT5bqUyZLM) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/2H51wbj4LoKu3MS1enfhFd) | 2:28 | 2022-09-09 | 2022-11-19 |
 | [i'm tired of feeling this way](https://open.spotify.com/track/4mHrmcVE8XTWQS8J48HAfQ) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/3EeewDR7dV1MjiWf1kfX5R) | 2:28 | 2022-11-11 |  |

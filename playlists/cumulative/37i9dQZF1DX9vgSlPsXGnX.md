@@ -4,7 +4,7 @@
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-128 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4SS0zxKg1zqnt4ItXfPUcF)
+129 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/4SS0zxKg1zqnt4ItXfPUcF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Contigo](https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros, Vol\. 3](https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf) | 2:47 | 2021-12-26 | 2022-11-13 |
 | [Contigo](https://open.spotify.com/track/1OSupICuX37BGBQ2U4xlB3) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros Vol\. 3](https://open.spotify.com/album/5algxxjJvhVjUoaL9790jx) | 2:47 | 2021-12-26 | 2022-07-12 |
 | [Contigo Aprendí](https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 1:58 | 2021-12-26 |  |
-| [Cuando Estemos Viejos](https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de la Billo Caracas Boy's](https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB) | 2:27 | 2021-12-26 |  |
+| [Cuando Estemos Viejo](https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Esta Noche...Billo](https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA) | 2:27 | 2021-12-26 |  |
+| [Cuando Estemos Viejos](https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de la Billo Caracas Boy's](https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB) | 2:27 | 2021-12-26 | 2022-12-09 |
 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 | 2021-12-26 |  |
 | [Cuando Estoy Contigo](https://open.spotify.com/track/7Lu6Q4bLeB7cy3eS8E7Nf4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mas Recuerdos Romanticos](https://open.spotify.com/album/2YKiIo1apMCWHzSTSX3Rid) | 2:27 | 2021-12-26 | 2022-07-29 |
 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/1RfB1vZYB2mi6RSSwgMU6c) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS), [La Rondalla Venezolano](https://open.spotify.com/artist/11GKNHRvLhiNRKFGf8Rvk9) | [Eternamente](https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ) | 3:03 | 2021-12-26 |  |

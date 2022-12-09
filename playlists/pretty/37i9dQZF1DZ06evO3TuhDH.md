@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,360 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,372 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 5 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 6 | [Woman Of The Year \(with Stefflon Don, Chlöe & Coi Leray\)](https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:26 |
 | 7 | [No More Parties](https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [No More Parties](https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP) | 2:20 |
-| 8 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 |
-| 9 | [2055](https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 1:59 |
+| 8 | [2055](https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 1:59 |
+| 9 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 |
 | 10 | [Slide \(with Gunna\)](https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:28 |
 | 11 | [Save The Day \(feat\. Coi Leray & LouGotCash\)](https://open.spotify.com/track/0vkzRCT7wzqWCFJw5TN1MQ) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:58 |
 | 12 | [TWINNEM \(Remix\) \(feat\. DaBaby\)](https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TWINNEM \(Remix\)](https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Add It](https://open.spotify.com/track/0xIYGzbDYQLLAHmDtPWaY3) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Add It](https://open.spotify.com/album/6cdiwNAHltVS3FKRWXsism) | 1:40 |
 | 50 | [American Deli \(feat\. Coi Leray\)](https://open.spotify.com/track/2GwOIEVXMZPGEJjSBF7lcp) | [Chavo](https://open.spotify.com/artist/6nlHpSAfPX5rJCuRKF2997), [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Chavo's World 2](https://open.spotify.com/album/0xntyinSE3IRByoQDvTve7) | 3:13 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDAzM2NiMDFjZDQ3MjlkM2ZhNjA3YzM3ODM5MWM5YTAyZA==`
+Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDAwMjQ2ZmIxNzRlMmY4ZDRlOTFiNjNlNzIwZmE1ODE1OA==`

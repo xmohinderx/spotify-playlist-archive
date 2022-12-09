@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through melodic techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,111 likes - 75 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,793 likes - 75 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

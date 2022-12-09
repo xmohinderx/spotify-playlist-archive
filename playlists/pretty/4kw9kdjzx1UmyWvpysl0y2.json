@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127136,
+  "num_followers": 127138,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg2NCw4ODBkM2RiMjliZDk2ZDkzYWY2ZmJjZjk3ODJhMjhmZDQ1NzYyMTk4",
+  "snapshot_id": "Mzg2NixkZDU3MGI3MmZhNzVkNzhjODViODNmOGUxZTYxOTY4YTFlNzgyZTYz",
   "tracks": [
+    {
+      "added_at": "2022-12-08 22:17:59",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/1y7jhXRTJG1kBi7ZftkjB8"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "duration_ms": 210588,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/3SdDaIM1CjAEaFN9jmqfjf"
+    },
     {
       "added_at": "2022-12-08 00:07:43",
       "album": {
@@ -1083,26 +1099,6 @@
       "duration_ms": 201379,
       "name": "Double Tap",
       "url": "https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
-        }
-      ],
-      "duration_ms": 249532,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

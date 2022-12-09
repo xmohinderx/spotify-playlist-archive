@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 
 > Upbeat piano for stepping out
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,563 likes - 200 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,565 likes - 200 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 | 36 | [Aviron](https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Prospicio](https://open.spotify.com/album/2Jva3LhKgM8We64wBcUtAX) | 2:30 |
 | 37 | [Sonnen Sterne](https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202) | [Che Lan](https://open.spotify.com/artist/7spHGT6sHhYOiJN52obbbM) | [Tal Weg](https://open.spotify.com/album/4nZmqnXwBWbaPUvr44VG3u) | 2:59 |
 | 38 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 |
-| 39 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 |
-| 40 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 |
+| 39 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 |
+| 40 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 |
 | 41 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 |
 | 42 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 |
 | 43 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 | 83 | [Perfectly Flawed](https://open.spotify.com/track/6AdGVOupLKxDJTByA1Fs1j) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [Perfectly Flawed](https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp) | 2:47 |
 | 84 | [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 |
 | 85 | [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 |
-| 86 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 |
-| 87 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 |
+| 86 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 |
+| 87 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 |
 | 88 | [A mal tiempo, buena cara](https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [A mal tiempo, buena cara](https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf) | 2:28 |
 | 89 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 |
 | 90 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 |
@@ -110,14 +110,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 | 100 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 |
 | 101 | [Te souviens\-tu](https://open.spotify.com/track/3mVXmQV9nn0MiQynug2nbd) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:10 |
 | 102 | [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 |
-| 103 | [Le Beau](https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Le Beau](https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6) | 3:25 |
-| 104 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 |
-| 105 | [Downstairs](https://open.spotify.com/track/5ULSZYu1E1CWT8wAQ6NnfW) | [Clouderr](https://open.spotify.com/artist/5bcEA3BrhWyJRBPqH4Lxzw) | [Downstairs](https://open.spotify.com/album/0Zclpf48lKos6vY0bycvtI) | 3:25 |
-| 106 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 |
-| 107 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 |
-| 108 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 |
-| 109 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 |
-| 110 | [Ça en vaut la peine](https://open.spotify.com/track/3ggkhQAdAMUQe7Bz6kmYzr) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Ça en vaut la peine](https://open.spotify.com/album/2yFJkdKJEjuEysAA8Isn66) | 2:31 |
+| 103 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 |
+| 104 | [Le Beau](https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Le Beau](https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6) | 3:25 |
+| 105 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 |
+| 106 | [Downstairs](https://open.spotify.com/track/5ULSZYu1E1CWT8wAQ6NnfW) | [Clouderr](https://open.spotify.com/artist/5bcEA3BrhWyJRBPqH4Lxzw) | [Downstairs](https://open.spotify.com/album/0Zclpf48lKos6vY0bycvtI) | 3:25 |
+| 107 | [Ça en vaut la peine](https://open.spotify.com/track/3ggkhQAdAMUQe7Bz6kmYzr) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Ça en vaut la peine](https://open.spotify.com/album/2yFJkdKJEjuEysAA8Isn66) | 2:31 |
+| 108 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 |
+| 109 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 |
+| 110 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 |
 | 111 | [Qui n’avance pas, recule](https://open.spotify.com/track/1YaEv0xPN2bAKWKZiNuDb8) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Qui n’avance pas, recule](https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU) | 2:20 |
 | 112 | [Short Florentine Story](https://open.spotify.com/track/7EAgMj9f01js3aptHpeIcm) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Short Florentine Story](https://open.spotify.com/album/7JokpJ0adu93ZHpONJXYDu) | 2:18 |
 | 113 | [Une Danse](https://open.spotify.com/track/3rOhuafK8dRIjf2iDnn6yX) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Une Danse](https://open.spotify.com/album/2NI1xUFgeWBEjbNrjVCsbP) | 3:03 |
@@ -152,9 +152,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 | 142 | [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 |
 | 143 | [Blessed Days](https://open.spotify.com/track/2JCvAX5Htrxx2KVF5sVlVR) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Blessed Days](https://open.spotify.com/album/5m9rTnoDdOFYvQs2ovfcu4) | 2:07 |
 | 144 | [La creacion](https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi) | [Juergen Steltzer](https://open.spotify.com/artist/3zHnZ3P1rQsteEjGjhj01r) | [Hidden Signs](https://open.spotify.com/album/7K0BbmfNlhgi912nRhA7gC) | 3:04 |
-| 145 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 |
-| 146 | [Rites of Passage](https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 3:11 |
-| 147 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 |
+| 145 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 |
+| 146 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 |
+| 147 | [Rites of Passage](https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 3:11 |
 | 148 | [Lost in a Dream](https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Lost in a Dream](https://open.spotify.com/album/5ZIgYon1ibEQwYlTyQyKTz) | 2:21 |
 | 149 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 |
 | 150 | [Simpler Times](https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/01vBc9RVqwgUpsgI8qRWhY) | 2:21 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 | 199 | [All but the Brightest Stars](https://open.spotify.com/track/3ibwnPw7VRVug1QbAtppAj) | [Pavel Antonov Manev](https://open.spotify.com/artist/0A7g4WQaIuDvhaZBcKpYee) | [All but the Brightest Stars](https://open.spotify.com/album/3UsF4EjYsxZjtVl5APinCd) | 3:21 |
 | 200 | [Once Again](https://open.spotify.com/track/2EctWcCaqoiXAL1CzPX6DU) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Once Again](https://open.spotify.com/album/62IFuW6FcDIk3sNtsFLBNi) | 3:05 |
 
-Snapshot ID: `MTY2ODQ0MTM4NywwMDAwMDAwMDQyY2E0OTBjZGIwYjZiNzMyNGY5NjZlNGNlMmVlZDFj`
+Snapshot ID: `MTY2ODQ0MTM4NywwMDAwMDAwMGY3ZDQ1NjM2YzZkZmY1MmVmYzQyYjgxMmVkNGE4YTJi`

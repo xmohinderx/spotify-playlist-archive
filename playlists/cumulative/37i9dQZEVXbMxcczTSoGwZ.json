@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 154767,
       "name": "40K",
       "url": "https://open.spotify.com/track/48GrbwydcMUFPfKrSeq6K0"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 183206,
       "name": "Aktiverad (feat. Turisti, DAVI & Nebi) - Remix",
       "url": "https://open.spotify.com/track/7jWTlHrI7yiqOrXekfVPW2"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2731,6 +2731,32 @@
     {
       "album": {
         "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
       },
       "artists": [
@@ -2749,7 +2775,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
@@ -4385,7 +4411,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 166125,
       "name": "Erilainen",
       "url": "https://open.spotify.com/track/5e7XVJJcGbecTB9N4asFsu"
@@ -4447,6 +4473,28 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
+    },
+    {
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239888,
+      "name": "Escapism. - Sped Up",
+      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
     },
     {
       "album": {
@@ -4705,7 +4753,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 204696,
       "name": "Finlandia",
       "url": "https://open.spotify.com/track/1XcNiBBAQlSUpxgzfXpeVv"
@@ -4727,7 +4775,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 155960,
       "name": "Finlandia (feat. Ylioppilaskunnan Laulajat)",
       "url": "https://open.spotify.com/track/37d3mDoGm0PdwxeGbmJCCa"
@@ -4753,7 +4801,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 507973,
       "name": "Finlandia, Op. 26",
       "url": "https://open.spotify.com/track/3hHWhvw2hjwfngWcFjIzqr"
@@ -4775,7 +4823,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 127053,
       "name": "Finlandia-Hymni",
       "url": "https://open.spotify.com/track/6Dv2vD63zZlK0osDXR6yPr"
@@ -5469,7 +5517,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 233218,
       "name": "GoDdAmN",
       "url": "https://open.spotify.com/track/27KdLYj7Alpe6y3UxC87ga"
@@ -7737,7 +7785,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -7889,7 +7937,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -7997,7 +8045,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 206959,
       "name": "Joulumaa",
       "url": "https://open.spotify.com/track/3QqsEc7mv1Kq9aWNpQgHsU"
@@ -11323,7 +11371,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 239466,
       "name": "L\u00e4mmin lumi peitt\u00e4\u00e4 maan",
       "url": "https://open.spotify.com/track/5T4wJfpwn3sEJdA4OovEfR"
@@ -11489,7 +11537,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 115840,
       "name": "Maamme",
       "url": "https://open.spotify.com/track/3VxDGHvNVcd2aDtOF3zrRs"
@@ -12631,7 +12679,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -13827,6 +13875,32 @@
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
     },
     {
       "album": {
@@ -16393,7 +16467,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -17195,7 +17269,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 179280,
       "name": "Sekavaa ja hiton vaikeet",
       "url": "https://open.spotify.com/track/6bwGTXDFEoW3d6W6kE1LMT"
@@ -18661,7 +18735,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 198200,
       "name": "Syd\u00e4meeni joulun teen",
       "url": "https://open.spotify.com/track/2Kouu3rnDZ5ZVqWtPEAsGo"
@@ -20041,6 +20115,24 @@
       "duration_ms": 293666,
       "name": "Tuu mua vastaan (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/6HfW9sQEczoAXbIdDTJpH0"
+    },
+    {
+      "album": {
+        "name": "Tuu munkaa Tokyoon",
+        "url": "https://open.spotify.com/album/6ry27yK4mOnd7miS5YxD2k"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Bunny",
+          "url": "https://open.spotify.com/artist/0ibK8ZTRouLawkTXNUQQ2m"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159796,
+      "name": "Tuu munkaa Tokyoon",
+      "url": "https://open.spotify.com/track/4j6siGqLjy719lBHj4Qubm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,187 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,206 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [Caution](https://open.spotify.com/track/3s1vxTu48FlpPpwztVB4ht) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Caution](https://open.spotify.com/album/0yrnHtfgm66Ky53Nzdivnl) | 2:25 |
 | 60 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 |
 
-Snapshot ID: `MTY2OTk1Njk2MCwwMDAwMDAwMGUxZTQxMGYyODA4ZTc5YWZmOGM1NmRkNmY0MTk5MTQz`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDJlMzhmNGYxMWZmOGIzNmMzYjg4NzhlZGVhMmIyZDRl`

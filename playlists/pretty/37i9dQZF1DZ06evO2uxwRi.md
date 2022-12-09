@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,356 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,359 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 5 | [Dream Born Again](https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Dream Born Again](https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG) | 4:21 |
 | 6 | [Iris](https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:15 |
 | 7 | [nothing matters \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:24 |
-| 8 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 |
-| 9 | [Hit Or Miss](https://open.spotify.com/track/2JGfAzStXQ1VEo6H4l6rSR) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 3:22 |
+| 8 | [Hit Or Miss](https://open.spotify.com/track/2JGfAzStXQ1VEo6H4l6rSR) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 3:22 |
+| 9 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 |
 | 10 | [King Of Wishful Thinking](https://open.spotify.com/track/4hnNT1qx5OpLgdMVDochHI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:40 |
 | 11 | [Hold My Hand](https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:42 |
 | 12 | [Understatement](https://open.spotify.com/track/4191ROqtYiS10furYDAv05) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Your Jokes Aren't Funny](https://open.spotify.com/track/3KKGoTkLjHsXXAEjxX5kdT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:08 |
 | 50 | [I Don't Wanna Know](https://open.spotify.com/track/0EosY41ozajeAz7mCMwo1K) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:30 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDBjOThjOWY0OThjZjNlMDA3OTFmZDQwMWExNmU1MjFlMA==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyMGNkMjNmYTg4ZmI3OTY3ZTY2MDhiM2U2MDAxNjExMQ==`

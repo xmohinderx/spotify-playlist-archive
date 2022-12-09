@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: November Ultra
+> The best French indie tracks right now\. Cover: Charlotte Fever
 
-228 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
+230 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Drôle d'idée](https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Drôle d'idée](https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h) | 2:37 | 2021-12-16 | 2022-06-10 |
 | [Défense](https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh) | [Oete](https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF) | [Défense](https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq) | 3:07 | 2022-03-03 | 2022-09-23 |
 | [Désamour](https://open.spotify.com/track/0O3R6dT3geP0UutTeo0KTy) | [Rêve Blanc](https://open.spotify.com/artist/6bQE7tlwfDdiBAAdo4EKyL) | [Désamour](https://open.spotify.com/album/4dIh0BBJ9ODCLY2Sy3pK7x) | 3:44 | 2022-11-17 |  |
+| [Empathie](https://open.spotify.com/track/738mF4MLie3fFqTrWIP4RC) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Empathie](https://open.spotify.com/album/6ih5L57o7ap7pEamgPKwI3) | 3:20 | 2022-12-08 |  |
 | [En ce moment](https://open.spotify.com/track/1I3U8flltQgKmyVhcm1oQb) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [En ce moment](https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D) | 2:16 | 2022-09-15 |  |
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 | 2022-04-29 |
 | [Epoch](https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d) | [Quasi Qui](https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB) | [Epoch](https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM) | 3:45 | 2022-05-12 | 2022-09-09 |
@@ -90,7 +91,7 @@
 | [Honey](https://open.spotify.com/track/1BOv46ISdg4Xuv5Ou7M1cG) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Honey Please Be Soft & Tender](https://open.spotify.com/album/4QT6KOT5bn4560EwVH55hi) | 4:07 | 2021-12-16 | 2022-01-21 |
 | [Honey Pot](https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [KESMAR](https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW) | [Honey Pot](https://open.spotify.com/album/4k98b6BUFd4WMauM70RI3Z) | 3:21 | 2022-10-27 |  |
 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-04-21 | 2022-05-13 |
-| [I Made It](https://open.spotify.com/track/3GGs5TGfMh675Tvg08VjLQ) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [I Made It](https://open.spotify.com/album/4EolaFLE1ii1Xw3Lb6lLbj) | 2:40 | 2022-09-22 |  |
+| [I Made It](https://open.spotify.com/track/3GGs5TGfMh675Tvg08VjLQ) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [I Made It](https://open.spotify.com/album/4EolaFLE1ii1Xw3Lb6lLbj) | 2:40 | 2022-09-22 | 2022-12-09 |
 | [I Will Wait For You](https://open.spotify.com/track/0u53F1Zdk6xsknG1Uie2jL) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [I Will Wait For You](https://open.spotify.com/album/0f2cFqPY4v3WXmHGDyaWD7) | 2:21 | 2022-07-14 | 2022-08-26 |
 | [I'll Think About It](https://open.spotify.com/track/0RLKhd3wbu8733GCu03nNn) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [I'll Think About It](https://open.spotify.com/album/5cnqcRrObA48AfCvSxH54G) | 3:08 | 2022-09-22 | 2022-10-28 |
 | [Ilya](https://open.spotify.com/track/5mIf7UP0FEsGaGWBVjrNKP) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Ilya](https://open.spotify.com/album/5QZQhk6woOLUvKbHBxwkgQ) | 2:26 | 2021-12-16 | 2022-02-18 |
@@ -181,7 +182,7 @@
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 | 2022-09-16 |
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
 | [Sans toi](https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs) | [Chillpac](https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl), [Clé](https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ) | [Sans toi](https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR) | 3:15 | 2022-07-28 |  |
-| [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-27 |  |
+| [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-27 | 2022-12-09 |
 | [Septembre](https://open.spotify.com/track/0pdsE52mkFSkakwIFhxal2) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Septembre](https://open.spotify.com/album/67evLF3OWRoaiAiHcwJx3K) | 2:14 | 2022-09-29 |  |
 | [Septembre](https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Septembre](https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6) | 3:24 | 2022-09-08 |  |
 | [Sexfriend](https://open.spotify.com/track/0vy0D33YYU4LdTRR5WrCYM) | [MELRØSE](https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC) | [Nuit louve](https://open.spotify.com/album/4HcetztLiYrr6Eugkuwlff) | 2:33 | 2022-05-19 | 2022-06-17 |
@@ -225,6 +226,7 @@
 | [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 | 2022-07-21 |  |
 | [Virus X \- SAGE Rework \- radio edit](https://open.spotify.com/track/0Yr1TfeacyGFyDe0aWDla9) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Virus X](https://open.spotify.com/album/4KIibT2LzfY64VxJWWABJc) | 2:45 | 2021-12-16 | 2022-01-07 |
 | [Vitesse](https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Vitesse](https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz) | 2:48 | 2022-05-06 | 2022-11-11 |
+| [Voices In Your Head](https://open.spotify.com/track/4HBWcKtybdLFvFQpE2kQuy) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Voices In Your Head](https://open.spotify.com/album/06JI1wmYUr0aXc4mI74EnP) | 4:15 | 2022-12-08 |  |
 | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6), [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/album/5VDE8rAYryH4lTbGDvSMVQ) | 3:05 | 2021-12-16 | 2022-01-14 |
 | [When She's Gone](https://open.spotify.com/track/4vJfsc95OA87AhNghRsVHo) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [When She's Gone](https://open.spotify.com/album/76qqQq9zbjxdCDWfKMps1D) | 3:29 | 2022-10-06 |  |
 | [Winter Solstice](https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Winter Solstice](https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0) | 3:56 | 2022-10-27 | 2022-11-18 |

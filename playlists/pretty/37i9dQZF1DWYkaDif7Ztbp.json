@@ -1,12 +1,12 @@
 {
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790?si=51t3PFFwQBGEzYTQVrRgtQ\"> Mavins</a>  ",
-  "num_followers": 1172689,
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH?si=nTMdrkJ2Sc-Ks8DXEB30kQ\"> Vigro Deep</a>  ",
+  "num_followers": 1174072,
   "original_name": "African Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NjgzNiwwMDAwMDAwMGI5MjEzNzA3ZDJkYmZiNTMwMWE1MGY3YzIyMWFjZjRm",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDJiYzYzZDkyYTU1ZWFmMmVjOGM5YWU1MTYyZDc2YWU1",
   "tracks": [
     {
       "added_at": "2022-12-02 04:53:56",
@@ -119,6 +119,26 @@
       "duration_ms": 148000,
       "name": "Joha",
       "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "My House My Rules",
+        "url": "https://open.spotify.com/album/5Wni1JvHGUZRUKiEeXUgYs"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        },
+        {
+          "name": "Senjay",
+          "url": "https://open.spotify.com/artist/1efM4QfrpfuBitDEQg5p26"
+        }
+      ],
+      "duration_ms": 385738,
+      "name": "Shukushuku",
+      "url": "https://open.spotify.com/track/2hNlc3hLf35mr7pA9vjgMG"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -251,6 +271,22 @@
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Anogo",
+        "url": "https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 190140,
+      "name": "Anogo",
+      "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -463,6 +499,22 @@
       "duration_ms": 153946,
       "name": "i'm a mess",
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -853,22 +905,6 @@
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
-      "added_at": "2022-09-15 23:00:00",
-      "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
-    },
-    {
       "added_at": "2022-07-21 23:00:00",
       "album": {
         "name": "5 Star",
@@ -963,42 +999,6 @@
       "duration_ms": 352000,
       "name": "Malo We",
       "url": "https://open.spotify.com/track/3iBYAtES80y9eyhs2bzsrp"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 138034,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
     },
     {
       "added_at": "2022-10-13 23:00:00",

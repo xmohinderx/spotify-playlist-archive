@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,382 likes - 166 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,450 likes - 166 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 11 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 |
 | 12 | [I ain't worried](https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I ain't worried](https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza) | 2:48 |
 | 13 | [Forget Me](https://open.spotify.com/track/7GEV626sMh00yN7RRPMSa5) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Forget Me](https://open.spotify.com/album/2zcAZvavezu2TMxGFGd3OU) | 4:06 |
-| 14 | [All Into Nothing \- Acoustic](https://open.spotify.com/track/0GY6vnbXjbuP4M7AY3ZBra) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [All Into Nothing \(Acoustic\)](https://open.spotify.com/album/074npKpTiUWh8c72s5SnIC) | 3:15 |
+| 14 | [All Into Nothing \- Acoustic](https://open.spotify.com/track/5GMJ3Uq60h1NAqMZcjtEqT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [All Into Nothing \(Acoustic\)](https://open.spotify.com/album/0PcCssmKfflgVxBoc4FSBE) | 3:15 |
 | 15 | [Attention](https://open.spotify.com/track/3gfj8KspdXnjhE60lCtau6) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Attention](https://open.spotify.com/album/0LFGuTTSzJriA5NueC6uNI) | 2:58 |
 | 16 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
 | 17 | [Nangilima \- Acoustic in Isby](https://open.spotify.com/track/1HJpeLvjjld7yMytQHruNJ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Acoustic in Isby](https://open.spotify.com/album/7mWKfFxovOPJfuEk7qGWbq) | 4:09 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 93 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 94 | [Send My Love \(To Your New Lover\) \- Acoustic Version](https://open.spotify.com/track/2NZXGZVgML83MePjoxxofN) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [25 Acoustic \(Acoustic Version\)](https://open.spotify.com/album/2hDCebKKttYzWSJEnp9m0a) | 3:37 |
 | 95 | [Carry It Well \- Acoustic](https://open.spotify.com/track/5WD2D369riKav4v92rzFjz) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well \(Acoustic\)](https://open.spotify.com/album/2TXE5r0FbzfmOHWYe3xWTX) | 3:46 |
-| 96 | [We Do \- Acoustic](https://open.spotify.com/track/6lX02FhkFZszItdAbwWA3p) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Noah Neiman](https://open.spotify.com/artist/2ojEZEmcQVC3vLNpcoo9rJ), [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/7yiKHPRucPsuBPJr6Sh20Q) | 2:29 |
+| 96 | [We Do \- Acoustic](https://open.spotify.com/track/6NwD3nqu2zcC6gS0Yb5ulp) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Noah Neiman](https://open.spotify.com/artist/2ojEZEmcQVC3vLNpcoo9rJ), [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/6QKfX2rXkdaEiJQv2nX1G8) | 2:29 |
 | 97 | [Ruin My Life \- Piano Version](https://open.spotify.com/track/4Fxj5bX8ZlTGw42BIkFwng) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Ruin My Life \(Piano Version\)](https://open.spotify.com/album/3DXqU4NZEv2xORVGJx1bEq) | 3:10 |
 | 98 | [Most of Us Are Strangers](https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Most of Us Are Strangers](https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE) | 3:42 |
 | 99 | [Bigger Than \- Acoustic](https://open.spotify.com/track/6wi0w8KfsjhWc77CwGGSkq) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Bigger Than \(Acoustic\)](https://open.spotify.com/album/1nLoG3te48Zzj3MkV7qcjZ) | 3:33 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 146 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
 | 147 | [Chasing After the Moon](https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing After the Moon](https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u) | 3:58 |
 | 148 | [We Never Die \(Acoustic\)](https://open.spotify.com/track/4m2jS7f5DaeDyy7cJXndOA) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [We Never Die \(Acoustic\)](https://open.spotify.com/album/7GlnzgTYL2iBLAziFaTpyx) | 3:14 |
-| 149 | [Whiplash \- Acoustic](https://open.spotify.com/track/3aPY0yNecXx1Ux5mzcBtJR) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/7yiKHPRucPsuBPJr6Sh20Q) | 2:25 |
+| 149 | [Whiplash \- Acoustic](https://open.spotify.com/track/4auX5jZGIom30xWMAwD6fN) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/6QKfX2rXkdaEiJQv2nX1G8) | 2:25 |
 | 150 | [Boyfriend](https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Boyfriend](https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo) | 2:59 |
 | 151 | [Black Car \(feat\. ALMA\) \- Acoustic](https://open.spotify.com/track/7dKtLzhDKZ2aKDqoyZYdEw) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Black Car \(feat\. ALMA\) \[Acoustic\]](https://open.spotify.com/album/69sad8MZUsNa9b6F6BGgZe) | 3:36 |
 | 152 | [Congratulations \- Acoustic](https://open.spotify.com/track/1dZyuawBYgIUKKevMXr8St) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [Congratulations \(Acoustic\)](https://open.spotify.com/album/1I34ylW68rDFgyyjQz2k8E) | 3:57 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 165 | [Angel](https://open.spotify.com/track/30kLC24uAzd0WJCyutcV0t) | [Justin Morgan](https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw) | [Angel](https://open.spotify.com/album/5SOx3JrYf5fHDde9CscIDw) | 3:39 |
 | 166 | [Dancing with Tears in My Eyes \- Acoustic Version](https://open.spotify.com/track/3ISO5uPwAdDcfyVDxJovDt) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Dancing with Tears in My Eyes \(Acoustic Version\)](https://open.spotify.com/album/0N9AXQpUkXEBY2o2Ekes5C) | 3:30 |
 
-Snapshot ID: `MTY2OTk0MjgwMCwwMDAwMDAwMDY4ZTBkM2U2OTA3ZTc3NjBmZDczOWQ1MGUyMzkxZmRh`
+Snapshot ID: `MTY2OTk0MjgwMCwwMDAwMDAwMDFkYjg2ODFiMzJkYzQ5MDkyODFmMGNiNzBmZmRiM2M5`

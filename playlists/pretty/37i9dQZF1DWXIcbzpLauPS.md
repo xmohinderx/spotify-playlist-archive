@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: Bury Tomorrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,965 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,071 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 11 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 |
 | 12 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 |
 | 13 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
-| 14 | [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 |
-| 15 | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l) | 2:44 |
+| 14 | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l) | 2:44 |
+| 15 | [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 |
 | 16 | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 |
 | 17 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 |
 | 18 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 46 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 |
 | 47 | [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 |
 | 48 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 |
-| 49 | [Losing You](https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Losing You](https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb) | 3:18 |
-| 50 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 |
+| 49 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 |
+| 50 | [Losing You](https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Losing You](https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb) | 3:18 |
 | 51 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
 | 52 | [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 |
 | 53 | [Your Love I'll Never Need](https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Your Love I'll Never Need](https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2) | 3:20 |
 | 54 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
-| 55 | [Hip To Be Scared](https://open.spotify.com/track/4lEbtjtLpF0YxRCFWeswAG) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Shower Scene Playlist](https://open.spotify.com/album/273LyHQV9St48MzqO73UkX) | 3:25 |
-| 56 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
+| 55 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
+| 56 | [Hip To Be Scared](https://open.spotify.com/track/4lEbtjtLpF0YxRCFWeswAG) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Shower Scene Playlist](https://open.spotify.com/album/273LyHQV9St48MzqO73UkX) | 3:25 |
 | 57 | [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 |
 | 58 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 |
 | 59 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 |
 | 75 | [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDljYjM5Yjg1YjEwZWYyMzM2OTNlYmExZmMwNjQ3YmIz`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGU4YjFhYzY5MjczZTQ3OWMwMDc5Njg4YzlmNGQ4OWI1`

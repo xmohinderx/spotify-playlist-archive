@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,115 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,192 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 9 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 10 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 |
 | 11 | [Next to Me](https://open.spotify.com/track/5VI6AYnjm9yjc9HnhI46n1) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:54 |
-| 12 | [Bulletproof](https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2](https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB) | 4:04 |
-| 13 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 |
+| 12 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 |
+| 13 | [Bulletproof](https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2](https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB) | 4:04 |
 | 14 | [Help Me \- Remix](https://open.spotify.com/track/65nhpDbzSPax2Gq46dbat8) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf), [Josh Ellis](https://open.spotify.com/artist/3EvcwIGX0GYJFloHS7r9Tw) | [Help Me \(Remix\)](https://open.spotify.com/album/6bzyBO35AF4ro1au4ldI2S) | 2:29 |
 | 15 | [For The Good](https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [For The Good](https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy) | 3:26 |
 | 16 | [Kingdom Come](https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO) | 3:58 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 55 | [BUENA ONDA](https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [MOMENTUM](https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ) | 2:40 |
 | 56 | [Amazing Grace \- HGHTS Remix](https://open.spotify.com/track/51fJSFDs5Lnu7n7HfFR4qk) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Remembering Me](https://open.spotify.com/album/4dziAM5y6HeViXiF5bAGbK) | 2:40 |
 | 57 | [Every Move I Make](https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [Every Move I Make](https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep) | 2:12 |
-| 58 | [Never Have I Ever](https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
-| 59 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 |
+| 58 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 |
+| 59 | [Never Have I Ever](https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
 | 60 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 |
 | 61 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 |
 | 62 | [Come Back Home](https://open.spotify.com/track/7lseQ8V4zahQi2cUWvREEU) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Come Back Home](https://open.spotify.com/album/37KbHpLg12eExNN9OMUmcu) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 74 | [Healing](https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Healing](https://open.spotify.com/album/6ptypNaGR4S2XJOPvrXKtY) | 3:24 |
 | 75 | [Higher Than Mine](https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Higher Than Mine](https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN) | 3:05 |
 
-Snapshot ID: `MTYzNTY0MTI1MCwwMDAwMDAwMGZjMDM2ZTI2YWExOGYyZjJmZmMyMmFjMzA2NTg2ZmQw`
+Snapshot ID: `MTYzNTY0MTI1MCwwMDAwMDAwMGRmZjE1NzE0NmZjZTE4YWU2N2ZmYjhhNmFjOWM3MGNl`

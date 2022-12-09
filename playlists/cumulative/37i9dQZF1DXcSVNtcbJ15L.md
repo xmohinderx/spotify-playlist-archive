@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-74 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
+75 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Jeito Diferente \- Acústico](https://open.spotify.com/track/0O5JuNqZeOJ2jeDVHA9Vr3) | [Yuri Corbal](https://open.spotify.com/artist/5E6mvHSxFAjNBveyskWTjy), [Kamatos](https://open.spotify.com/artist/3aANIxbg5GNj2aGxxpg4Mr) | [Jeito Diferente \- Acústico](https://open.spotify.com/album/5Vthk2BIlfndHneMQqGZT3) | 3:26 | 2022-04-29 |  |
 | [Júlia](https://open.spotify.com/track/4BN1FuzbCcBkULDpCVXeg9) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Júlia](https://open.spotify.com/album/5xHjd2zRPkv0rESSnVBPVH) | 2:30 | 2022-04-29 |  |
 | [Lana](https://open.spotify.com/track/6njzueGON26Kj3dy0wQUxs) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Lana](https://open.spotify.com/album/0EOvuq1kpXFM5N6ZUCfZj5) | 2:51 | 2022-04-29 |  |
-| [Liga pra Mim](https://open.spotify.com/track/519BX7HBoxCmvlqv4XKo7L) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma) | [Liga pra Mim](https://open.spotify.com/album/4kJq6ltzbq9VJw0Bwgq32O) | 2:42 | 2022-04-29 |  |
+| [Liga pra Mim](https://open.spotify.com/track/519BX7HBoxCmvlqv4XKo7L) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma) | [Liga pra Mim](https://open.spotify.com/album/4kJq6ltzbq9VJw0Bwgq32O) | 2:42 | 2022-04-29 | 2022-12-09 |
+| [Liga pra Mim](https://open.spotify.com/track/7jvr55Bd5Pphy2vYikqrus) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma) | [Liga pra Mim](https://open.spotify.com/album/6hHCoiufU9G2STQC4vzQcc) | 2:42 | 2022-09-23 |  |
 | [Luzes da Cidade](https://open.spotify.com/track/2CTTflN4rA96cmMq8NpjND) | [Belato](https://open.spotify.com/artist/1j0b8QZNoluRO17A2PJh62), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Luzes da Cidade](https://open.spotify.com/album/2be4Abf3oT5rIfeNvcINIX) | 2:30 | 2022-05-27 |  |
 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 | 2022-04-29 |  |
 | [Matcha](https://open.spotify.com/track/6ngy530qeyAJ78ucSAtM7c) | [Tuuh](https://open.spotify.com/artist/65456d4iYC4Z1twwPkV9O5) | [Matcha](https://open.spotify.com/album/1ez2X9giPDe7IWaDjndNbH) | 2:49 | 2022-06-24 | 2022-07-09 |

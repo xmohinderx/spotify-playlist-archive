@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. Eartheater Trinity \(Deluxe\), plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-285 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
+286 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Be With U \(feat\. DETO BLACK\)](https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:09 | 2022-11-12 |  |
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-06-03 | 2022-08-06 |
 | [BEAT DUA LIPA](https://open.spotify.com/track/2oPxWe4rdf9m8nsTe879O0) | [Dj Andre Porto](https://open.spotify.com/artist/2XpbYyILTxkXJ9wxEnTV3h), [ANDRE PORTO](https://open.spotify.com/artist/7C9H3Efr8gs5dGccBPbCv6) | [BEAT DUA LIPA](https://open.spotify.com/album/418yotvB3UEbHG6j7oEYCp) | 2:38 | 2022-08-05 | 2022-11-13 |
+| [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-09 |  |
 | [Betterrr](https://open.spotify.com/track/6crI6KjfkpuUHfAWgBDG23) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Yung Everything](https://open.spotify.com/album/5tIKeJv9xgSStzXGEqnQla) | 1:44 | 2022-06-03 | 2022-08-06 |
 | [Biturbo](https://open.spotify.com/track/5mDQpJEBxrD3SoBPjqOygQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 4:00 | 2022-08-05 | 2022-11-13 |
 | [BLACK MICHAEL JACKSON\*](https://open.spotify.com/track/1mI56FS2XaD5V3CKFKlkCt) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 | 2022-11-12 |  |

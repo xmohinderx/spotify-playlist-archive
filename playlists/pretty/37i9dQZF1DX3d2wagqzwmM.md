@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Maddix
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,523 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,027 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [The Soulcatcher](https://open.spotify.com/track/3Q4CHVn8Gln5uhTFiPuTnn) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [The Soulcatcher](https://open.spotify.com/album/6PtttpAoiPsQClj2V58ZKx) | 2:48 |
 | 80 | [Rage](https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Rage](https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq) | 2:55 |
 
-Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMDQ5MDJlNmZhMWI5YWI4Mjc0M2FiOWIyNWEyNmRkOGY3`
+Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMDhkNWE2NGI4ZmQwZTUxZGY4MzFiYTNlMzY1M2IyY2Zl`

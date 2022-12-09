@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,811 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,840 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 48 | [Entre Algarroba y Durazno](https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM) | [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [Entre Algarroba y Durazno](https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC) | 4:10 |
 | 49 | [Doña Ubenza](https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como Un Pájaro Libre \(Slidepack\)](https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH) | 3:16 |
 | 50 | [Canto Enamorado](https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Enamorado](https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ) | 3:04 |
-| 51 | [Tierra, Tan Sólo](https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Tierra, Tan Sólo](https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar) | 3:52 |
-| 52 | [El Surco](https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Las Flores Buenas](https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q) | 3:04 |
-| 53 | [Corazón de Agua](https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Corazón de Agua](https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst) | 4:23 |
+| 51 | [El Surco](https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Las Flores Buenas](https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q) | 3:04 |
+| 52 | [Corazón de Agua](https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Corazón de Agua](https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst) | 4:23 |
+| 53 | [Tierra, Tan Sólo](https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Tierra, Tan Sólo](https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar) | 3:52 |
 | 54 | [Bendiciones](https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl) | 3:30 |
 | 55 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
 | 56 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 |
 | 75 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
 
-Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMDFmMjkyOGU4YTdiNTljODkzZGE0OGQ5NWNlZTBlYzgx`
+Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMDUxZjVlNjBlN2NhNzYwNjBjZjY3MjI4NmQ4ZTk4ODk1`

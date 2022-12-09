@@ -1,12 +1,12 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 70s rock!",
-  "num_followers": 98545,
+  "num_followers": 98675,
   "original_name": "Deep Dive: 70s Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5OTQ2NiwwMDAwMDAwMDZhYTU5ZGI5N2FmZmMyYWQyYzFlNTRkY2I1ZDhjZWI3",
+  "snapshot_id": "MTY2ODY5OTQ2NiwwMDAwMDAwMGViMjQ3ZDEzNzY2YTU1ODNkOTFhYTYwNTAwOWQwM2I1",
   "tracks": [
     {
       "added_at": "2022-11-17 15:37:46",
@@ -3291,18 +3291,18 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 268453,
-      "name": "The Promised Land",
-      "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
+      "duration_ms": 226773,
+      "name": "Shock Me",
+      "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -3323,22 +3323,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Shock Me",
-      "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
@@ -3351,6 +3335,22 @@
       "duration_ms": 209767,
       "name": "Fire In The Hole",
       "url": "https://open.spotify.com/track/1CZR9j4cF4r2uuCpiMdsX5"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 268453,
+      "name": "The Promised Land",
+      "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -3419,6 +3419,22 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
+        "name": "Katy Lied",
+        "url": "https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Chain Lightning",
+      "url": "https://open.spotify.com/track/1UtGIkXG8Y9s3JtSg3CIQp"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
         "name": "A's, B's And Rarities",
         "url": "https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW"
       },
@@ -3463,22 +3479,6 @@
       "duration_ms": 255880,
       "name": "Cosmik Debris",
       "url": "https://open.spotify.com/track/6pqWrRF9K2PHpBmmRSIte4"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "Katy Lied",
-        "url": "https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Chain Lightning",
-      "url": "https://open.spotify.com/track/1UtGIkXG8Y9s3JtSg3CIQp"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -4803,22 +4803,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "In The Heat Of The Night",
-        "url": "https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "I Need A Lover",
-      "url": "https://open.spotify.com/track/71Scj5reNzcZDmbne0J5zQ"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Foghat (2016 Remaster)",
         "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
       },
@@ -4831,6 +4815,22 @@
       "duration_ms": 260813,
       "name": "I Just Want to Make Love to You - 2016 Remaster",
       "url": "https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "The Slider",
+        "url": "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 149706,
+      "name": "Metal Guru",
+      "url": "https://open.spotify.com/track/4KcE3At063Xyleg2xGzVYz"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -4851,18 +4851,18 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "The Slider",
-        "url": "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5"
+        "name": "In The Heat Of The Night",
+        "url": "https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
         }
       ],
-      "duration_ms": 149706,
-      "name": "Metal Guru",
-      "url": "https://open.spotify.com/track/4KcE3At063Xyleg2xGzVYz"
+      "duration_ms": 210800,
+      "name": "I Need A Lover",
+      "url": "https://open.spotify.com/track/71Scj5reNzcZDmbne0J5zQ"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -4963,6 +4963,22 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 298093,
+      "name": "Hot Love",
+      "url": "https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -5011,22 +5027,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 298093,
-      "name": "Hot Love",
-      "url": "https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Blondie (Remastered)",
         "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
@@ -5039,6 +5039,22 @@
       "duration_ms": 194533,
       "name": "X Offender - Remastered",
       "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "The Tubes",
+        "url": "https://open.spotify.com/album/3ZirKFZ0s8jbw2eX8dD4dR"
+      },
+      "artists": [
+        {
+          "name": "The Tubes",
+          "url": "https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "White Punks On Dope",
+      "url": "https://open.spotify.com/track/2QdadVGqkAGPGJMnJWHIcR"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -5075,38 +5091,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "The Tubes",
-        "url": "https://open.spotify.com/album/3ZirKFZ0s8jbw2eX8dD4dR"
-      },
-      "artists": [
-        {
-          "name": "The Tubes",
-          "url": "https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK"
-        }
-      ],
-      "duration_ms": 409466,
-      "name": "White Punks On Dope",
-      "url": "https://open.spotify.com/track/2QdadVGqkAGPGJMnJWHIcR"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "Jo Jo Gunne",
-        "url": "https://open.spotify.com/album/7JF6t3ALAIozBvWLuku6Wq"
-      },
-      "artists": [
-        {
-          "name": "Jo Jo Gunne",
-          "url": "https://open.spotify.com/artist/180M0URr7cSwB94IZToyLH"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Run Run Run",
-      "url": "https://open.spotify.com/track/3pHx8jI1ZBVYcMG2QCZaKG"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
@@ -5119,6 +5103,22 @@
       "duration_ms": 291040,
       "name": "Motherless Children",
       "url": "https://open.spotify.com/track/7s6mvEmY68Uv3CfI2hC3aD"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Pissing In a River",
+      "url": "https://open.spotify.com/track/5UYo2NoLUzBlP09NGJRGsc"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -5139,18 +5139,18 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+        "name": "Jo Jo Gunne",
+        "url": "https://open.spotify.com/album/7JF6t3ALAIozBvWLuku6Wq"
       },
       "artists": [
         {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+          "name": "Jo Jo Gunne",
+          "url": "https://open.spotify.com/artist/180M0URr7cSwB94IZToyLH"
         }
       ],
-      "duration_ms": 292666,
-      "name": "Pissing In a River",
-      "url": "https://open.spotify.com/track/5UYo2NoLUzBlP09NGJRGsc"
+      "duration_ms": 155266,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/3pHx8jI1ZBVYcMG2QCZaKG"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -5555,22 +5555,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 178093,
-      "name": "Look Wot You Dun",
-      "url": "https://open.spotify.com/track/0nSJyhmf9IJXO9cKI1vyrr"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Down the Dustpipe",
         "url": "https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L"
       },
@@ -5583,6 +5567,22 @@
       "duration_ms": 122453,
       "name": "Down the Dustpipe",
       "url": "https://open.spotify.com/track/4ey3t8jCoQ7Q7M8BR09Zy0"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "duration_ms": 178093,
+      "name": "Look Wot You Dun",
+      "url": "https://open.spotify.com/track/0nSJyhmf9IJXO9cKI1vyrr"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -7827,6 +7827,22 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 261940,
+      "name": "Brooklyn (Owes The Charmer Under Me)",
+      "url": "https://open.spotify.com/track/0t9IrTpcOWuTBKfjlQhuyF"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
         "name": "Not Fragile",
         "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
@@ -7855,22 +7871,6 @@
       "duration_ms": 142773,
       "name": "Why Does It Hurt When I Pee?",
       "url": "https://open.spotify.com/track/21CXijjRjUaegeKhfPF7uX"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 261940,
-      "name": "Brooklyn (Owes The Charmer Under Me)",
-      "url": "https://open.spotify.com/track/0t9IrTpcOWuTBKfjlQhuyF"
     },
     {
       "added_at": "2022-11-17 15:37:46",

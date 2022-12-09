@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Alvvays on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,130 likes - 108 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,158 likes - 108 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 73 | [Invisible](https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Ether](https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu) | 3:11 |
 | 74 | [Firefly](https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1), [Stella Tran](https://open.spotify.com/artist/3yETcd6deerTsw8RJDqW01) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:25 |
 | 75 | [Hare Tarot Lies](https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure](https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4) | 3:26 |
-| 76 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 |
-| 77 | [Cannibal Capital](https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Famously Alive](https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw) | 4:24 |
+| 76 | [Cannibal Capital](https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Famously Alive](https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw) | 4:24 |
+| 77 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 |
 | 78 | [Glass Valley](https://open.spotify.com/track/1r55rKvt0UH8nyEaras6V6) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [View No Country](https://open.spotify.com/album/3BNTd1ct9IBA2k2Gzp8EHj) | 2:58 |
 | 79 | [Pretend to Be Here](https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Nature Heart Software](https://open.spotify.com/album/25NpVtdgL29klIrre3mion) | 3:37 |
 | 80 | [End of the Night](https://open.spotify.com/track/0QnzDELjpEoz8DkylcrlCj) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [I Might Have](https://open.spotify.com/album/4Odq2mxuv8gPwzfPeY7oy2) | 5:26 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 107 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 |
 | 108 | [Perfect](https://open.spotify.com/track/1y8Ib4LBzhmXNCKhy9BZpL) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Perfect](https://open.spotify.com/album/10NT46ZLR5rhgMIGoO5Gg6) | 2:40 |
 
-Snapshot ID: `MTY2OTM0NTk3MiwwMDAwMDAwMDM0YzE1ZjQ5YzAwNGQ0YzVmYzFmNzhmODViZTI2NzQ1`
+Snapshot ID: `MTY2OTM0NTk3MiwwMDAwMDAwMDVhNjM3YjVlYzJkOGIyMjVjZmE0ZTQyYWJhMDg3ODQ4`

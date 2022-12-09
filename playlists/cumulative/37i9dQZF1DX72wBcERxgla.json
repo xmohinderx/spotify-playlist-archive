@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Doin Nothing",
+        "url": "https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW"
+      },
+      "artists": [
+        {
+          "name": "Seth Liane",
+          "url": "https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233242,
+      "name": "Doin Nothing",
+      "url": "https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO"
+    },
+    {
+      "album": {
         "name": "Doldrums",
         "url": "https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p"
       },
@@ -1877,6 +1895,24 @@
       "duration_ms": 223110,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4dKmYciOrlZc48acXYFH7V"
+    },
+    {
+      "album": {
+        "name": "My Funny Valentine",
+        "url": "https://open.spotify.com/album/43ll3l3Z0mo5mrrOsaUROL"
+      },
+      "artists": [
+        {
+          "name": "Zachary Ronin",
+          "url": "https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216144,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3obd7EnVJVaSLSqjBf0BZl"
     },
     {
       "album": {

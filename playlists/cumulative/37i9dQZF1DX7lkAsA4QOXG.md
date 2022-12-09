@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-127 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
+128 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Shine](https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac) | 4:52 | 2022-10-05 | 2022-10-09 |
 | [I Think It's Going to Rain Today](https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD) | [Lucia Cadotsch](https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Speak Low II](https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw) | 5:18 | 2022-09-13 | 2022-12-08 |
 | [I'm Not In Love](https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:52 | 2022-09-13 |  |
-| [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 | 2022-10-05 |  |
+| [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 | 2022-10-05 | 2022-12-09 |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-09-13 |  |
 | [Immigrant Song](https://open.spotify.com/track/6dx1sQaWu3Yul87HfddFeA) | [Obed Calvaire](https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm), [Bob Franceshini](https://open.spotify.com/artist/0gj84Qpcn2TU0vS4C1dqs9), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J) | [Whole Lotta Love: The Music of Led Zeppelin](https://open.spotify.com/album/1v691IFSm1faUW5cTIhVfu) | 6:51 | 2022-10-11 | 2022-10-27 |
 | [In My Life](https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [What's It All About?](https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh) | 4:22 | 2022-09-27 | 2022-11-30 |
@@ -135,5 +135,6 @@
 | [Yesterday](https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Oliver Nelson Plays Michelle](https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw) | 2:42 | 2022-09-13 |  |
 | [You've Got A Friend](https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:21 | 2022-09-13 |  |
 | [You've Got a Friend in Me](https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:52 | 2022-09-13 |  |
+| [Your Mother Should Know](https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know](https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO) | 2:18 | 2022-12-08 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

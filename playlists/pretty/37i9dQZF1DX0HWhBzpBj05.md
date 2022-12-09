@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,742 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,531 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

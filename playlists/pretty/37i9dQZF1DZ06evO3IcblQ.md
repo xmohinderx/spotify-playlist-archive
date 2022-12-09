@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,211 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,233 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 12 | [Land of the Free?](https://open.spotify.com/track/2tfuiYUAllKUVusfEu9Lpi) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:31 |
 | 13 | [Waste of Time \- 2005 Remaster](https://open.spotify.com/track/7p1O4s2ROAJ8KMfbLLKE4S) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 2:18 |
 | 14 | [All Or Nothing](https://open.spotify.com/track/2vwDIlA1KGBOriSuCa39iC) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 2:29 |
-| 15 | [Broken \- 2005 Remaster](https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:46 |
-| 16 | [Wouldn't It Be Nice \- 2005 Remaster](https://open.spotify.com/track/1Id8boomLmiBoq7hurug9B) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 2:06 |
+| 15 | [Wouldn't It Be Nice \- 2005 Remaster](https://open.spotify.com/track/1Id8boomLmiBoq7hurug9B) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 2:06 |
+| 16 | [Broken \- 2005 Remaster](https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:46 |
 | 17 | [Every Single Day \- 2005 Remaster](https://open.spotify.com/track/0MRea0TwPACBtXpUXMLXV3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 2:40 |
 | 18 | [My Own Country](https://open.spotify.com/track/1kPFj28TkyHJdWdqQmBGYJ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 2:36 |
 | 19 | [Never Gonna Die](https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 49 | [The Secret \- 2005 Remaster](https://open.spotify.com/track/0hX1DIzrq8vmKycYvAqRSf) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 3:34 |
 | 50 | [Waiting](https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [From The Ashes](https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg) | 2:59 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDBkOTJkNGJmOWQ4Y2M0ZWFlYmIzZGVkYjQxNzliZDAyNw==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyMzMzYjdiYTFiMTgyODQ1MjMwMzJlODJkYjhmMTk0Mw==`

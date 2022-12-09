@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-90 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
+91 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Hey You](https://open.spotify.com/track/33DSizc0awGwq4MEBX7vYg) | [Cyndi Seui](https://open.spotify.com/artist/6Vl77bkShN9BMikIfhdHG9) | [Toy Boy](https://open.spotify.com/album/2GlRBipf5fOYz9gSGICgyG) | 3:51 | 2022-05-26 |  |
 | [Hunky Dory](https://open.spotify.com/track/79s8CsG6AxcfPxyLVvlFqf) | [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf), [Monsdim](https://open.spotify.com/artist/4TSyT8NNuZfgzHVAfsnkQv) | [The Noir Scene and The White Sheep Before I Sleep](https://open.spotify.com/album/551bI1L2hl1saZBLyALX0t) | 4:09 | 2022-05-26 |  |
 | [Insomnia](https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [timeabout,](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) | 3:27 | 2022-05-26 |  |
-| [It's so Creamy](https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:43 | 2022-11-16 |  |
+| [It's so Creamy](https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:43 | 2022-11-16 | 2022-12-09 |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-05-26 |  |
 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 | 2022-11-16 |  |
 | [LAVLA](https://open.spotify.com/track/0Gt5raD0hne7nc3OhRla5M) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1RWrXLMPZgZrPOjspFejZk) | 3:58 | 2022-05-26 | 2022-07-29 |
@@ -65,6 +65,7 @@
 | [Sigurado](https://open.spotify.com/track/3T8yMLawoliJaN1hAGFFmv) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Sigurado](https://open.spotify.com/album/5bRwSxYckOjIw3oISF6MQk) | 5:39 | 2022-08-30 | 2022-11-13 |
 | [Sigurado](https://open.spotify.com/track/2rzc2Lr2oYz73WLyOKkBW2) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [U D D](https://open.spotify.com/album/1jflilZfnSbZ9vU3aMNnxL) | 5:39 | 2022-05-26 | 2022-07-29 |
 | [Sigurado](https://open.spotify.com/track/4XCFHies3PCuxqzGJaKsu6) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [U D D](https://open.spotify.com/album/1soFNLmLx08oNlhgBtQB5g) | 5:39 | 2022-05-26 |  |
+| [SPARKLE](https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe) | [CITY POP LOVERS](https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48) | 5:39 | 2022-12-08 |  |
 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 | 2022-05-26 |  |
 | [Summer Hibernation](https://open.spotify.com/track/7h9y9f4gE9u3NmC89d0Flb) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Anything Goes](https://open.spotify.com/album/1i8cyjNDcIzXTKznYzfF9a) | 3:07 | 2022-05-26 |  |
 | [Summer, Anyway](https://open.spotify.com/track/2UnKYBjiwH3AK14PXJRWzv) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2020 Yoon Jong Shin](https://open.spotify.com/album/0aQdWBzoZP9MFmYW9N68FK) | 5:43 | 2022-05-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 122255,
+  "num_followers": 122283,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDYwMDAwMTgwOWZhN2VjM2JjMzM2ZDhlYmY2ODZhYTBm",
+  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDVhYjIzN2YwYzMwYmFlYmNjODQwZGMyZWUyYWFmOGQ4",
   "tracks": [
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos R\u00edos",
-          "url": "https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "El Feo",
-      "url": "https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "The Best of Mexico",
         "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 163400,
       "name": "La bikina (arr. R. Jonas)",
       "url": "https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos R\u00edos",
+          "url": "https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal"
     },
     {
       "added_at": "2022-08-31 15:41:18",

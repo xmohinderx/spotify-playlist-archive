@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,221 likes - 150 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,473 likes - 150 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,11 +119,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 109 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 |
 | 110 | [Down \(Remix\)](https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Down \(Remix\)](https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD) | 3:05 |
 | 111 | [Stuck Inside My Head \- Single Mix](https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Stuck Inside My Head](https://open.spotify.com/album/4YOdEJwb4cA5iR7drggxud) | 3:17 |
-| 112 | [josiah.](https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [josiah.](https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J) | 2:09 |
+| 112 | [Stuff Back](https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [Heavenz](https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo), [Church](https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW) | [Stuff Back](https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC) | 3:13 |
 | 113 | [Out With a Bang](https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Out With a Bang](https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm) | 2:15 |
-| 114 | [Stuff Back](https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [Heavenz](https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo), [Church](https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW) | [Stuff Back](https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC) | 3:13 |
-| 115 | [Come Home \- Warehouse Mix](https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Come Home \(Warehouse Mix\)](https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr) | 2:38 |
-| 116 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 |
+| 114 | [Come Home \- Warehouse Mix](https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Come Home \(Warehouse Mix\)](https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr) | 2:38 |
+| 115 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 |
+| 116 | [josiah.](https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [josiah.](https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J) | 2:09 |
 | 117 | [Pastor Monty](https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pastor Monty](https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j) | 2:22 |
 | 118 | [Ain't Playin'](https://open.spotify.com/track/6eGe69PKFWB7AQae8XGeOn) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Ain't Playin'](https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H) | 3:43 |
 | 119 | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Siyahamba](https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Sy\-1](https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [Siyahamba](https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6) | 2:59 |
 | 150 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 |
 
-Snapshot ID: `MTY2NzUzNTMwMCwwMDAwMDAwMDgzZTQyMjU0ZDI5MjMyNzkwZjQyMmI4NDRjOTNjZWEz`
+Snapshot ID: `MTY2NzUzNTMwMCwwMDAwMDAwMDI5MmVlYjRhMWQ3Y2I2MTA4OGRiNzJhYTZiOTc4YTVh`

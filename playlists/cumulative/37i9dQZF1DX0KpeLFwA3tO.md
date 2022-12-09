@@ -2,9 +2,9 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: Against The Current
+> The best new music from the wide world of punk\. Cover: poptropicaslutz!
 
-769 songs - 1 day 14 hr 34 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+774 songs - 1 day 14 hr 47 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-17 | 2022-02-04 |
 | [5 Days On \(2 Days Off\)](https://open.spotify.com/track/0kSw5ZY5BH7a4AwMVyUxTM) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [5 Days On \(2 Days Off\)](https://open.spotify.com/album/7nugmHTblI2ZfYEIpjuyNz) | 2:51 | 2022-07-28 | 2022-09-16 |
 | [5 minutes til dawn](https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [5 minutes til dawn](https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI) | 2:36 | 2022-06-09 | 2022-07-15 |
+| [777](https://open.spotify.com/track/32T66P2JPhtWih0uh4EsCY) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [777](https://open.spotify.com/album/1Kvan76tJlcyct8V6awYkZ) | 2:37 | 2022-12-09 |  |
 | [97 Bop](https://open.spotify.com/track/4r8EoLjUp9dRe2pCJQlWff) | [Ethan Fields](https://open.spotify.com/artist/2SqxqNtAbLxHG8FB2gGiIJ) | [97 Bop](https://open.spotify.com/album/4vtnejKQkMPFpWDggqDOu7) | 1:26 | 2022-07-14 | 2022-08-26 |
 | [A Mess](https://open.spotify.com/track/2AzhIrLY8aoVVpzA1KvFcB) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [A Mess](https://open.spotify.com/album/2JfNvW8E5SFdRnPf0ysuSr) | 3:58 | 2022-06-16 | 2022-07-08 |
 | [A Real Thing](https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [A Real Thing](https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn) | 3:35 | 2022-02-11 | 2022-03-25 |
@@ -153,7 +154,7 @@
 | [Cruise Control](https://open.spotify.com/track/7yJxtJ1Oi62vfmhFmtNqVh) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Cruise Control](https://open.spotify.com/album/2KWXc9Ja79kenCq55S9S7m) | 2:34 | 2022-06-16 | 2022-07-29 |
 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 | 2021-12-17 | 2022-02-25 |
 | [Cupid's Arrow](https://open.spotify.com/track/4oHec8AQcjVR2EadYf5YPO) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Sticky](https://open.spotify.com/album/3mU7AoUGdBqLu8LfjArZPK) | 3:33 | 2021-12-17 | 2022-01-12 |
-| [Cursive](https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he) | 2:55 | 2022-10-06 |  |
+| [Cursive](https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he) | 2:55 | 2022-10-06 | 2022-12-09 |
 | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi) | 2:05 | 2022-07-07 | 2022-08-19 |
 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-21 | 2022-09-09 |
 | [DAEMON](https://open.spotify.com/track/6z2vZ2TyVT2jeCm7sxuDPU) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [DAEMON](https://open.spotify.com/album/1ZzmlC1ZtshIf4OgTmuEwY) | 2:46 | 2022-03-11 | 2022-04-08 |
@@ -215,6 +216,7 @@
 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 | 2022-02-25 | 2022-04-22 |
 | [Everything Or Nothing At All](https://open.spotify.com/track/0oGZaR3AqOKjJMHno0uE9T) | [Headstones](https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00) | [Flight Risk](https://open.spotify.com/album/6UQqFaB5RsrjbLBhphH2dt) | 3:24 | 2022-10-13 |  |
 | [Everything's Fine](https://open.spotify.com/track/19t7v6yQTVwihaANQEfvjL) | [MNYS](https://open.spotify.com/artist/4ymdwRD5Aq27CugmxZFJv0) | [Everything’s Fine](https://open.spotify.com/album/4IGbj17ku3IUuTj7sxZMsa) | 2:20 | 2022-05-05 | 2022-06-18 |
+| [Evil Anonymous](https://open.spotify.com/track/6fB3DvO3syABrIW527ISKA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Evil Anonymous](https://open.spotify.com/album/6XrDxDfccAIF248JyKIMvS) | 2:56 | 2022-12-09 |  |
 | [Faint of Hearts](https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Human and Kind](https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40) | 3:29 | 2022-03-25 | 2022-04-08 |
 | [Fall From Grace](https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Fall From Grace](https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG) | 3:48 | 2021-12-17 | 2022-03-11 |
 | [Famous](https://open.spotify.com/track/01lDsXPyoXUV9cAGIHskzs) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Blossom](https://open.spotify.com/album/5R1zQFTTBHkxuUXFxUPCwk) | 2:53 | 2022-09-08 | 2022-10-21 |
@@ -284,6 +286,7 @@
 | [Happiness](https://open.spotify.com/track/2rkcIVIfVrvLX8Qp95WZoj) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:19 | 2022-08-25 | 2022-10-07 |
 | [Happiness](https://open.spotify.com/track/6TemocIk2wdyLz1scEoA8H) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happiness](https://open.spotify.com/album/3LbQrIEmgwrewExETsuoqh) | 2:19 | 2022-08-18 | 2022-08-31 |
 | [Happiness 4 Dummies](https://open.spotify.com/track/0WKZtlkkgK44fVSrP75EO2) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness 4 Dummies](https://open.spotify.com/album/7mSqGeFRzvBcjywz52XY6N) | 2:39 | 2022-10-20 |  |
+| [happy](https://open.spotify.com/track/0WU4mmKKbJBlokqfwUvGHv) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [happy](https://open.spotify.com/album/67VkemWQ4FP4HjMEXXzue9) | 2:34 | 2022-12-09 |  |
 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2022-10-20 |  |
 | [HAPPY](https://open.spotify.com/track/4QVrlDWojIq4vYJ6kYJVFc) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/65xNkuvhf5iEmGsKxdU6fQ) | 2:27 | 2022-10-20 | 2022-10-22 |
 | [Hard Rock Potato](https://open.spotify.com/track/38xWLLwPhcSMBcmMvd6VB9) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Hard Rock Potato](https://open.spotify.com/album/4JUYKatHi9chcZjWilGXOE) | 3:57 | 2022-08-18 | 2022-09-30 |
@@ -615,6 +618,7 @@
 | [Sorry](https://open.spotify.com/track/0B6t85byLSGc0j3iCgV6eE) | [Lil Tati](https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v) | [Sorry](https://open.spotify.com/album/3CIzQyoBZNgBsCj59xg6Kg) | 3:03 | 2022-09-01 | 2022-10-14 |
 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 | 2022-05-12 | 2022-06-24 |
 | [Sorte](https://open.spotify.com/track/3hpg0XD5R2XphHCDo5AonG) | [Stormo](https://open.spotify.com/artist/6HWwPPwublvn8KbCzcV82m) | [Sorte](https://open.spotify.com/album/3fBe9cbGMGY12wSXTT4qQQ) | 2:40 | 2022-11-18 |  |
+| [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 | 2022-12-09 |  |
 | [SOS!](https://open.spotify.com/track/5N5PENdTH9qAq8dMJFtQym) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ) | [SOS!](https://open.spotify.com/album/0UtGfbUX6fBUwwWzRC9fT6) | 2:45 | 2022-11-25 |  |
 | [Souvenir](https://open.spotify.com/track/0KBU3NUksxrPTUnMlxM5Ud) | [The Flatliners](https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB) | [Souvenir](https://open.spotify.com/album/5DGjGDSAtVT3wDvRfgOrWr) | 3:22 | 2022-06-23 | 2022-08-05 |
 | [Speed Dial](https://open.spotify.com/track/0LrWMZCmxWegxbZbQccppU) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Speed Dial](https://open.spotify.com/album/7wEZ3uiW1DrNEt51EWcI7l) | 2:15 | 2022-05-12 | 2022-06-24 |
@@ -752,6 +756,7 @@
 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 | 2022-10-13 |  |
 | [When You Know You Know](https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:08 | 2022-09-15 | 2022-11-11 |
 | [White Boys Club](https://open.spotify.com/track/7dAG2BCaz2fZQZoHQBH07i) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Growth](https://open.spotify.com/album/67C8VTP0JnMp3uYzVf09od) | 2:05 | 2022-02-04 | 2022-03-25 |
+| [WHITE FLAG](https://open.spotify.com/track/76RnmXcVhLlQQaxL3NfLIe) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [WHITE FLAG](https://open.spotify.com/album/5Yhf2Pv1wQyaeGjV2MzAp2) | 2:26 | 2022-12-09 |  |
 | [White Lipstick](https://open.spotify.com/track/48YW6y5QOEyoK8lQJjJG4Z) | [Hunx & His Punx](https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF) | [White Lipstick](https://open.spotify.com/album/1vgPAGVP6vYuHPK3KcDFzm) | 3:27 | 2022-08-18 | 2022-09-30 |
 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 | 2022-02-25 | 2022-04-22 |
 | [Whitecaps](https://open.spotify.com/track/0Hc9ikYkhjxSwAd4groPxN) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Whitecaps](https://open.spotify.com/album/5ys000sFJpsTuGsvpvql1D) | 2:29 | 2022-03-18 | 2022-04-22 |

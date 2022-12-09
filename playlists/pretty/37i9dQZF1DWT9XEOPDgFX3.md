@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Field Medic
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,994 likes - 125 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,084 likes - 125 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 27 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 |
 | 28 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
 | 29 | [I'd Like To Walk Around In Your Mind](https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:15 |
-| 30 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
-| 31 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 |
+| 30 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 |
+| 31 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 32 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 | 33 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 |
 | 34 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
@@ -110,10 +110,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 100 | [Helena](https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [The Monster Who Hated Pennsylvania](https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs) | 2:47 |
 | 101 | [Let The Radio Play](https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07) | [Reverend Baron](https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH) | [Let The Radio Play](https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH) | 3:29 |
 | 102 | [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 |
-| 103 | [chamomile](https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [chamomile](https://open.spotify.com/album/4H9ie0uCEQRmY8u3ILQ9mO) | 3:53 |
-| 104 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 |
-| 105 | [Kings & Queens](https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Kings & Queens](https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1) | 4:38 |
-| 106 | [Maggie](https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 4:54 |
+| 103 | [Maggie](https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 4:54 |
+| 104 | [chamomile](https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [chamomile](https://open.spotify.com/album/4H9ie0uCEQRmY8u3ILQ9mO) | 3:53 |
+| 105 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 |
+| 106 | [Kings & Queens](https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Kings & Queens](https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1) | 4:38 |
 | 107 | [Circles In The Firing Line \- Edit](https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Fever Dreams](https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr) | 3:27 |
 | 108 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/23W60m1igNcv0DUov523DO) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45) | 5:26 |
 | 109 | [The Right Thing Is Hard To Do](https://open.spotify.com/track/6mBg5msp0A14K7VfbTY272) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [A Color of the Sky](https://open.spotify.com/album/5XgsP1RlwCnPU8f3NuoY2K) | 3:46 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [Friends](https://open.spotify.com/track/32irCtqVudXga5frCUDFVH) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Friends](https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD) | 3:02 |
 | 125 | [Pareidolia](https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 4:07 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGMzMDZjMzk0NTJlNjJkZjM2NmM1NTg0ZDhkYTA3NTc0`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGU1NTJmZTBkMmYwOTQ0Yjc1M2JlZjZjNTY2ZjAyNWI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Mel Muñiz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,977 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,104 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 77 | [Perfume de Gardenia \(with Alejandro Fernández\)](https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 3:08 |
 | 78 | [Noche No Te Vayas](https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:50 |
 | 79 | [Mexicana \(feat\. Lila Downs\)](https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mexicana \(feat\. Lila Downs\)](https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU) | 3:19 |
-| 80 | [Frenesí \- 2016 Remaster](https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Frenesi \(2016 Remaster\)](https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63) | 3:33 |
-| 81 | [Tengo](https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [Tengo](https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8) | 4:08 |
+| 80 | [Tengo](https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [Tengo](https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8) | 4:08 |
+| 81 | [Frenesí \- 2016 Remaster](https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Frenesi \(2016 Remaster\)](https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63) | 3:33 |
 | 82 | [Para Que Pides Perdon \(Bonus Track\)](https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Nuestro Primer Disco / Nuestro Amor](https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG) | 3:29 |
 | 83 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
 | 84 | [Farolito \(with Gilberto Gil\)](https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 2:41 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 92 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
 | 93 | [Por Amarte Así \- Primera Fila \- Live Version](https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro en Primera Fila \- Día 2](https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi) | 4:17 |
 | 94 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 |
-| 95 | [Salvavidas](https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Salvavidas](https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX) | 2:52 |
+| 95 | [Si las Paredes Hablaran](https://open.spotify.com/track/0MIE9dOJA39gXHwodePCAd) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Si las Paredes Hablaran](https://open.spotify.com/album/5n3i7jgQL0c58GPn3oLdWL) | 3:09 |
 | 96 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
-| 97 | [Si las Paredes Hablaran](https://open.spotify.com/track/0MIE9dOJA39gXHwodePCAd) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Si las Paredes Hablaran](https://open.spotify.com/album/5n3i7jgQL0c58GPn3oLdWL) | 3:09 |
+| 97 | [Salvavidas](https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Salvavidas](https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX) | 2:52 |
 | 98 | [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 |
 | 99 | [Una Mañana](https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM) | [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Una Mañana](https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX) | 2:51 |
 | 100 | [María Bonita](https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Maria Bonita](https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R) | 3:52 |
 
-Snapshot ID: `MTY2NzU0MTYwMCwwMDAwMDAwMGFmNzFmMzczZGNmNDg1ZDU3NGQ2NzJkOGJiMWU3ZDk4`
+Snapshot ID: `MTY2NzU0MTYwMCwwMDAwMDAwMGM3YzdkODJkMzdkZTdhY2EwY2JmNmMxMTZmZGQyMzQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,044 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,517 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 66 | [Eu Sei de Cor](https://open.spotify.com/track/3jhrqAIDFZWCsZa6skHTOV) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [A Força do Querer, Vol\. 1](https://open.spotify.com/album/5Bp6ahuhtJ08NaFPZLjTnB) | 2:54 |
 | 67 | [Assim Você Mata o Papai \- Ao Vivo](https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta Pro Amanhã, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E) | 1:59 |
 | 68 | [Encaixa](https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Encaixa](https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA) | 2:49 |
-| 69 | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq) | 2:46 |
+| 69 | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq) | 2:46 |
 | 70 | [Toda Toda](https://open.spotify.com/track/2gywMK0AQvj8QZJFcEO4R3) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Toda Toda](https://open.spotify.com/album/2VgCgg09h9v3GwoLQzpEt0) | 3:00 |
 | 71 | [Meteoro \- Ao Vivo](https://open.spotify.com/track/5JFpJWJIkEl97NgLgpo4pF) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Ao Vivo](https://open.spotify.com/album/16TISVZjZU8Y3A0rxpCJgr) | 3:36 |
 | 72 | [Te Prometo](https://open.spotify.com/track/7Ac3BmqTQoLdAt7HtZyfgN) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Te Prometo](https://open.spotify.com/album/6RFjj3hS8njl016RDGHREc) | 2:41 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 89 | [Apaixonadin \(feat\. Thiaguinho\) \- Ao Vivo](https://open.spotify.com/track/5HJq5FP7lFSWQc4kfs8Uef) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Apaixonadin \(feat\. Thiaguinho\) \[Ao Vivo\]](https://open.spotify.com/album/3JBeuppWRn7u6dnzjInNdQ) | 3:03 |
 | 90 | [Dança Kuduro \(Danza Kuduro\)](https://open.spotify.com/track/1BITq5Ix3YscJwGz4ukFeI) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5), [Daddy Kall](https://open.spotify.com/artist/09arlDI3xSFC0nXfxtvtB3) | [Dança Kuduro \(Danza Kuduro\)](https://open.spotify.com/album/563XIhSRXSaF7yR6yskZTC) | 3:19 |
 | 91 | [Desafio \- Ao Vivo](https://open.spotify.com/track/59hKLIqy6OA39DNdF33U3B) | [XANDDY HARMONIA](https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J) | [Harmonia do Samba \(Ao Vivo\)](https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76) | 2:49 |
-| 92 | [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 |
-| 93 | [Hoje](https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hoje](https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN) | 2:57 |
-| 94 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
+| 92 | [Hoje](https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hoje](https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN) | 2:57 |
+| 93 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
+| 94 | [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 |
 | 95 | [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 |
 | 96 | [Olha O Que O Amor Me Faz / Citação: All By Myself \- Medley](https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações](https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS) | 3:28 |
 | 97 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Maravilha Te Amar](https://open.spotify.com/track/45PD1shJcUVckmslQycpEL) | [Os Travessos](https://open.spotify.com/artist/3RpJ23sQA3B70ZgSnT2Vxr) | [Nossa Dança](https://open.spotify.com/album/1q1YikfGe5sRLyppHKx0Rw) | 3:09 |
 | 100 | [Festa no Apê \(Dragostea Din Tei\)](https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5) | [Latino Apresenta as Aventuras de DJ L \- Festa no Apê](https://open.spotify.com/album/6gPlOUYW8fgYluWN0NCJEG) | 4:11 |
 
-Snapshot ID: `MTY2NDg5ODQzOCwwMDAwMDAwMDE5NDYyYWYxYTBlMzg5MmU3Mjg3ZjRlZWE3ZGVhOWY3`
+Snapshot ID: `MTY2NDg5ODQzOCwwMDAwMDAwMGQ2NDlkYTM3OWQ4Njc0MDM3Njg2MjFhZDUwODY4NTVh`

@@ -4,7 +4,7 @@
 
 > 一起來支持女性音樂人的精采表現！2022 年度總集成！Cover: 蔡依林 \(Jolin Tsai\)
 
-280 songs - 19 hr 30 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
+281 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [牽手](https://open.spotify.com/track/6Uh6YwOphmwF2LdDfC9Sfc) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [牽手](https://open.spotify.com/album/3iigjtQGt9rvqpfFyJSuuK) | 4:44 | 2022-03-07 | 2022-05-04 |
 | [猜](https://open.spotify.com/track/515jKw39039ufXjQ8ZiEsN) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [猜](https://open.spotify.com/album/0XyUjHgykrME24vWhD1DL3) | 2:58 | 2022-07-05 | 2022-11-03 |
 | [王牌](https://open.spotify.com/track/1YSRUlmzm2uk0fg5AaC64L) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [王牌](https://open.spotify.com/album/6q0eo3kiAkwCswMqbO80PY) | 4:00 | 2022-11-02 | 2022-12-01 |
-| [玫瑰少年](https://open.spotify.com/track/2uHMTG5xr9Xk7MrXIWrVUH) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 3:11 | 2022-01-04 |  |
+| [玫瑰少年](https://open.spotify.com/track/2uHMTG5xr9Xk7MrXIWrVUH) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 3:11 | 2022-01-04 | 2022-12-09 |
 | [玫瑰色的你](https://open.spotify.com/track/7HoICc5j4GcwXsAPvsfCgo) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [神的遊戲](https://open.spotify.com/album/6ZOZeusLIlHMy52JxwsWhY) | 4:57 | 2022-03-07 | 2022-04-07 |
 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 | 2022-03-07 | 2022-06-01 |
 | [甜秘密](https://open.spotify.com/track/46XrZSbu9A8w3EMMjRPaFt) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 3:27 | 2022-09-06 | 2022-11-03 |
@@ -257,6 +257,7 @@
 | [街角的祝福](https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [Just Sing It](https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz) | 4:08 | 2022-11-02 | 2022-12-01 |
 | [被動的觀眾](https://open.spotify.com/track/1jopABuYZEPxHfHgJk8rOm) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [被動的觀眾](https://open.spotify.com/album/6ODQvJ7maW4b5yb2m7JQyO) | 3:57 | 2022-11-02 | 2022-12-01 |
 | [親愛的你](https://open.spotify.com/track/0oHPfQgO0da9W0S8KUBNpD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [親愛的你](https://open.spotify.com/album/7wpNfsUp8hZQG0D81uaPaO) | 3:57 | 2022-01-04 | 2022-08-03 |
+| [親愛的對象 \- 《關於我和鬼變成家人的那件事》電影主題曲](https://open.spotify.com/track/70ywpHtaToCmnULRT9Vu4p) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \(《關於我和鬼變成家人的那件事》電影主題曲\)](https://open.spotify.com/album/6ohthacCclaqEnO1xfEUu6) | 4:54 | 2022-12-08 |  |
 | [解脫](https://open.spotify.com/track/3awaN4hJ3e3s6WcVEB79fE) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [姊妹](https://open.spotify.com/album/1jmU2MogimLAfQyAL4QYNn) | 4:44 | 2022-09-06 | 2022-10-05 |
 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 | 2022-10-04 | 2022-12-01 |
 | [象牙塔](https://open.spotify.com/track/5Wn8az6GgZZP298sd42iew) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [小太空](https://open.spotify.com/album/7HOLLUFkSB7xjy4UYdwiAX) | 4:06 | 2022-10-04 | 2022-11-03 |

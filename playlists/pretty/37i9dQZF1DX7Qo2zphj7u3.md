@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Éxitos románticos y eternos\. Foto: Alejandro Sanz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,999,300 likes - 250 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,999,401 likes - 250 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

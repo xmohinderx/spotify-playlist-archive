@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,056 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,197 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 99 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 |
 | 100 | [New Shoes](https://open.spotify.com/track/1CsB9h88MSlYaQGzDTX9Al) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 3:56 |
 
-Snapshot ID: `MTY2OTkzNTY2MCwwMDAwMDAwMDAwMWViMTRiODMxYTAwZGU5NWJiYjgyMmVhYmUyZDI2`
+Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMGNjMzRmZDcyYzhmNzQ3YTc5ZTdkNzg4ZDZmNDU4Y2Y0`

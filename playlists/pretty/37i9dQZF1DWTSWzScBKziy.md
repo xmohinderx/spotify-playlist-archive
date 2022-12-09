@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,053 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,058 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 27 | [Won't Let Me Go](https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Won't Let Me Go](https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw) | 3:35 |
 | 28 | [How Can You Not](https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [How Can You Not](https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz) | 3:12 |
 | 29 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
-| 30 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 |
-| 31 | [Open](https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Steady Light](https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG) | 4:43 |
+| 30 | [Open](https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Steady Light](https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG) | 4:43 |
+| 31 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 |
 | 32 | [But the Cross](https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO) | 3:19 |
 | 33 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 |
 | 34 | [Rest On Us \- Single Version](https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Rest On Us](https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX) | 3:44 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 52 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 |
 | 53 | [HOLY GHOST](https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [HOLY GHOST](https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA) | 4:50 |
 | 54 | [Before I Knew Jesus](https://open.spotify.com/track/656oooz2McvWe0TezAzkDL) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Before I Knew Jesus](https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo) | 3:16 |
-| 55 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
-| 56 | [Lost Without You](https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Lost Without You](https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W) | 2:59 |
-| 57 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 |
+| 55 | [Lost Without You](https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Lost Without You](https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W) | 2:59 |
+| 56 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 |
+| 57 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
 | 58 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 |
 | 59 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 |
 | 60 | [God Really Loves Us](https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [The Kindness Of The Cross](https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [By Faith](https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP) | 3:21 |
 | 100 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 |
 
-Snapshot ID: `MTY2NzAyNzg1OCwwMDAwMDAwMDY3MDgyMGMyYmYwYjM3NTY2YmNkYTY3OWIxNTFlOGRi`
+Snapshot ID: `MTY2NzAyNzg1OCwwMDAwMDAwMDExZTc2MGE2OWZiM2EzODA0ZGFmYjkwYzI1Mjc5NzIy`

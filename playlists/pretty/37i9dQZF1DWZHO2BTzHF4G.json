@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 24061,
+  "num_followers": 24070,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMGY2YzEwNDdjYWM4NjUyYzcwOTZkYzAxNWQ1OWExZDA5",
+  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMDljNGZiZjQ5YjcxNTg1MjllNjM1OGYyMWU0MGMyMjEy",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -927,18 +927,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "The Madding Crowd",
-        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
+        "name": "Hero (feat. Josey Scott)",
+        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
       "artists": [
         {
-          "name": "Nine Days",
-          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
+          "name": "Chad Kroeger",
+          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+        },
+        {
+          "name": "Josey Scott",
+          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Absolutely (Story of a Girl) - Radio Mix",
-      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+      "duration_ms": 200480,
+      "name": "Hero (feat. Josey Scott)",
+      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -959,22 +963,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Hero (feat. Josey Scott)",
-        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
+        "name": "The Madding Crowd",
+        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
       },
       "artists": [
         {
-          "name": "Chad Kroeger",
-          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
-        },
-        {
-          "name": "Josey Scott",
-          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
+          "name": "Nine Days",
+          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Hero (feat. Josey Scott)",
-      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+      "duration_ms": 189333,
+      "name": "Absolutely (Story of a Girl) - Radio Mix",
+      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
     },
     {
       "added_at": "2021-04-09 06:36:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Stryper
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,155 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,222 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 22 | [Dreamcatcher](https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX) | [Night Argent](https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid) | [The Fear](https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1) | 3:23 |
 | 23 | [Cold Winter Sun](https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn) | 3:25 |
 | 24 | [Lazarus](https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP) | [Bellarive](https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX) | [Before There Was](https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX) | 5:04 |
-| 25 | [Words of Fire](https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Words of Fire](https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H) | 4:11 |
-| 26 | [Deadman](https://open.spotify.com/track/5hRTySOfrVVhDNOya4IML9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 5:13 |
+| 25 | [Deadman](https://open.spotify.com/track/5hRTySOfrVVhDNOya4IML9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 5:13 |
+| 26 | [Words of Fire](https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Words of Fire](https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H) | 4:11 |
 | 27 | [What Else You Got?](https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Legacy](https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk) | 2:46 |
 | 28 | [SILENCE THE WORLD](https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Tom S\. Englund](https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk) | [SILENCE THE WORLD](https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw) | 7:13 |
 | 29 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [Weight of Glory \- Live Session](https://open.spotify.com/track/4kD9MAvYFkTPMTwVvyk1m5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies \(Live Sessions\)](https://open.spotify.com/album/4smWcs15icSRmEvfbjPeA1) | 2:52 |
 | 80 | [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 |
 
-Snapshot ID: `MTY2NzAyNzU2NCwwMDAwMDAwMDYzZGEzNjA2ODg2NDQzZjAzN2RkYmRmYTFjYjZlMzZj`
+Snapshot ID: `MTY2NzAyNzU2NCwwMDAwMDAwMGQ5YmQ3YmI3OTA0ZjU0MWYzYWQ5ZjczMjg3NjljMjYx`

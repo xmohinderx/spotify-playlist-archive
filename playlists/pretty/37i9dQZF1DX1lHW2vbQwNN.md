@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,192 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,369 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 77 | [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 |
 | 78 | [Turn My Swag On](https://open.spotify.com/track/6ATrsVaZT7XjkCynxM8cTS) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:26 |
 | 79 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
-| 80 | [Pump It Up](https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6) | [Joe Budden](https://open.spotify.com/album/5qvTf1qIYr2vkIjFnj8gYD) | 4:11 |
-| 81 | [Down And Out](https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [Purple Haze](https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44) | 4:08 |
+| 80 | [Down And Out](https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [Purple Haze](https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44) | 4:08 |
+| 81 | [Pump It Up](https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6) | [Joe Budden](https://open.spotify.com/album/5qvTf1qIYr2vkIjFnj8gYD) | 4:11 |
 | 82 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
 | 83 | [Stuntin' Like My Daddy \- Street](https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Like Father Like Son](https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp) | 4:27 |
 | 84 | [There It Go \(The Whistle Song\)](https://open.spotify.com/track/50UkypyQJbSQLaXHke5Yep) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [What The Game's Been Missing!](https://open.spotify.com/album/1UnAHcFabsZQnZbPQRuwq8) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 99 | [What's My Name](https://open.spotify.com/track/6OQrmEIK8KOOVcSoSaEo40) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 3:52 |
 | 100 | [Move Bitch](https://open.spotify.com/track/0LyZGZEZcFqpeF8bAfx3v0) | [Disturbing Tha Peace](https://open.spotify.com/artist/3FsQX7FsrZAzTU9ah45P7O), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [Golden Grain](https://open.spotify.com/album/1HjiZwq8HvkzLchkB2XcyV) | 4:32 |
 
-Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMDlmMWRjZDY4YTI4MTA3MzI0OWQyZTYxZWQzNTEzNzhj`
+Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMGM1OTNmNzYyNGM0YjQzZWFiMGE3NDY5ZTA4N2Y4ODEz`

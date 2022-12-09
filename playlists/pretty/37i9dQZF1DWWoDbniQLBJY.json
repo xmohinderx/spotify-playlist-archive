@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2014087,
+  "num_followers": 2014104,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMDRkOWMzOTMyZTNhZTNlZDNhNzA4NWE4ZjA3MGQ1NGQx",
+  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMGMyZTI3OTFhMTJmOWEwNzY2Y2QxMzgxY2M0ZWVhZmMy",
   "tracks": [
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "NTN",
-        "url": "https://open.spotify.com/album/0iSx1yoFUpRmXrS2C8099U"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        },
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 184336,
-      "name": "NTN",
-      "url": "https://open.spotify.com/track/1O8wZHsmHtrjVehbTTC5yM"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Acustico",
         "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 453893,
       "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
       "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "NTN",
+        "url": "https://open.spotify.com/album/0iSx1yoFUpRmXrS2C8099U"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        },
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 184336,
+      "name": "NTN",
+      "url": "https://open.spotify.com/track/1O8wZHsmHtrjVehbTTC5yM"
     },
     {
       "added_at": "2022-08-05 16:21:41",

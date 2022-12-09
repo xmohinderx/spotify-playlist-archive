@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL"
+    },
+    {
+      "album": {
         "name": "Exscape",
         "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
       },
@@ -943,7 +961,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 226160,
       "name": "Panic Attacks",
       "url": "https://open.spotify.com/track/0hFxiaVUZTEpsAdrV595Xn"
@@ -1133,6 +1151,42 @@
       "duration_ms": 189977,
       "name": "Ringo",
       "url": "https://open.spotify.com/track/3rFNkXbvp9FUh3RBr8XG5s"
+    },
+    {
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266937,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/6s5KBTtQBn4AMh302zr26R"
+    },
+    {
+      "album": {
+        "name": "River (Live in Studio)",
+        "url": "https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243733,
+      "name": "River",
+      "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
     },
     {
       "album": {
@@ -1365,7 +1419,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 202202,
       "name": "the older you get, the less you cry",
       "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
@@ -1627,7 +1681,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 248093,
       "name": "Vibrating Walls",
       "url": "https://open.spotify.com/track/3ujsvyuTUbmiKLXK9WTMLC"

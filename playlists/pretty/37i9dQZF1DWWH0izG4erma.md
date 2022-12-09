@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!! Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,331 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,642 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 89 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 |
 | 90 | [Whiskey in a Wine Glass](https://open.spotify.com/track/2KIlRbwYuRiD1U7DFceJK2) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Whiskey in a Wine Glass](https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ) | 3:07 |
 | 91 | [Stronger Than You](https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:08 |
-| 92 | [Sound of the South](https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ) | [Kaleb Austin](https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD) | [Sound of the South](https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn) | 4:03 |
-| 93 | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv) | 3:15 |
+| 92 | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv) | 3:15 |
+| 93 | [Sound of the South](https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ) | [Kaleb Austin](https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD) | [Sound of the South](https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn) | 4:03 |
 | 94 | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx) | 3:21 |
 | 95 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 |
 | 96 | [Huckleberry](https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX) | [Daniel Lee](https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj) | [Huckleberry](https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Dodge Out Of Hell](https://open.spotify.com/track/1JV425vD0dWil9boakNIHf) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Dodge Out Of Hell](https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt) | 3:12 |
 | 100 | [Black Magic Lady](https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Black Magic Lady](https://open.spotify.com/album/4TEphoROa5MStn7cVNEGMc) | 4:47 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGQxNTIwZDBkYWJmMzgyMjY1MzMxYjIyMGUyM2FkODJj`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGQ5MDJlOGQyMThjMzkzMjcxNDY3YzI2MTg2M2U2NmUz`

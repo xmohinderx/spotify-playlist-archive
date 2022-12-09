@@ -4,14 +4,14 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Larkin Poe
 
-251 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+252 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11/17](https://open.spotify.com/track/3efydF0TF67eydgM86XEwq) | [The Honest Heart Collective](https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X) | [11/17](https://open.spotify.com/album/0VOFvOzlavgsiKF0e9bJhY) | 2:32 | 2021-08-06 | 2022-02-05 |
 | [A Ghost](https://open.spotify.com/track/6Nf3vTytXZsEb9vCf1RDt6) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [A Ghost](https://open.spotify.com/album/2WsikixYJMwnnXKiRf92xH) | 3:45 | 2021-01-29 |  |
 | [A Wave Across A Bay](https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [A Wave Across A Bay](https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF) | 3:43 | 2022-01-14 | 2022-09-16 |
-| [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 | 2021-07-16 |  |
+| [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 | 2021-07-16 | 2022-12-09 |
 | [All My Friends](https://open.spotify.com/track/40Uq8mjn19gIAtHIG6ERZ6) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [All My Friends](https://open.spotify.com/album/4qXJ9YaSl6N7Z9pSCasdBq) | 3:39 | 2021-01-29 | 2022-01-15 |
 | [All We Have](https://open.spotify.com/track/5DDPP6Fx6zg92LigkZzSuH) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [All We Have](https://open.spotify.com/album/5FddzoYjGX8wxomZzjgYnh) | 2:42 | 2021-10-29 | 2022-01-22 |
 | [Angels](https://open.spotify.com/track/7AeBWqB4nHcaAGpQISluw0) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/3zCRGOg6XKOtJAsvZPSiHG) | 3:39 | 2021-12-03 | 2022-03-12 |
@@ -175,6 +175,7 @@
 | [Ransom](https://open.spotify.com/track/2yy1jIbevVsuWJ32H6AfaP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Ransom](https://open.spotify.com/album/3tOPNT6jAqyikY9or6hKrz) | 3:56 | 2022-03-25 | 2022-07-29 |
 | [Red Run Cold](https://open.spotify.com/track/00j4raDRNX9J6nWkzqpJbB) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Red Run Cold](https://open.spotify.com/album/0gUmdbR0yGRd6M59WGXFYm) | 3:43 | 2022-08-28 | 2022-10-22 |
 | [Red Run Cold](https://open.spotify.com/track/2YTgdBr27ThjNOqdcJAu8z) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Red Run Cold](https://open.spotify.com/album/5jeWTeLEEXFRb5YrOUUGW8) | 3:43 | 2021-01-29 | 2022-10-13 |
+| [Restive](https://open.spotify.com/track/6FisNYBVI8wlCcTSjcF2xs) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Restive](https://open.spotify.com/album/0XWKS67204DceSV6pQaUz4) | 3:28 | 2022-12-02 |  |
 | [Rise](https://open.spotify.com/track/19NJUQciFoAil1YmMS6cNA) | [Alison Mosshart](https://open.spotify.com/artist/5rexG906fVLfq8H9m8J9P9) | [Rise](https://open.spotify.com/album/2du5GpcGOv6BR9YrRGI7DK) | 4:11 | 2021-01-29 | 2022-01-15 |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-07-01 |  |
 | [Roll The Dice](https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Roll The Dice](https://open.spotify.com/album/4ujPS7j4S1xyRS4ZQh4VgN) | 3:14 | 2022-03-11 | 2022-07-29 |

@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Ski Aggu
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-155 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+157 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-21 |  |
 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 | 2022-09-22 |  |
 | [Daywalker](https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE](https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab) | 2:05 | 2022-03-24 | 2022-06-10 |
+| [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 | 2022-12-08 |  |
 | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF) | 2:23 | 2021-12-16 |  |
 | [Dies & Das](https://open.spotify.com/track/5GzBVGr752l5qcGo2ZBNoS) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [Dies & Das](https://open.spotify.com/album/3w25lpXTAf001nxzF9nBPI) | 2:19 | 2021-12-16 | 2022-03-25 |
 | [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 | 2022-09-15 | 2022-09-18 |
@@ -98,6 +99,7 @@
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-02 | 2022-07-08 |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-12-16 | 2022-12-02 |
 | [mein Bestes](https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Wind](https://open.spotify.com/album/2y7fLVS5J30B7CxzwDSdDf) | 3:01 | 2022-10-27 |  |
+| [Mercurial Vapor](https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Mercurial Vapor](https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ) | 3:05 | 2022-12-08 |  |
 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 | 2022-03-17 | 2022-06-10 |
 | [MIND ACTRESS](https://open.spotify.com/track/6Vyw8E2SOTb5dUasc76bmH) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [PAPPELALLEE 01](https://open.spotify.com/album/5qcXQaYl5cwPi00ej8JWSF) | 3:53 | 2021-12-16 | 2022-04-29 |
 | [Mom&Dad](https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Mom&Dad](https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn) | 3:01 | 2021-12-16 | 2022-07-29 |
@@ -157,7 +159,7 @@
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-28 | 2022-07-01 |
 | [Weihnachtslied 2021](https://open.spotify.com/track/6eT8nslwFQTMCn3TqhLB7i) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2021](https://open.spotify.com/album/0aFZ5cV5DkDMD5iR6jD0Vm) | 2:40 | 2021-12-16 | 2022-01-07 |
 | [Wer](https://open.spotify.com/track/5lNFWihJT9yUCg4awzZj2z) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Wer](https://open.spotify.com/album/5aNhKzcHLEEGvn1eroz7vy) | 2:25 | 2021-12-16 | 2022-02-25 |
-| [Wer wir sind](https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Wer wir sind](https://open.spotify.com/album/3zUerUY6tHRhKCvMnJR87K) | 3:37 | 2022-03-24 |  |
+| [Wer wir sind](https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Wer wir sind](https://open.spotify.com/album/3zUerUY6tHRhKCvMnJR87K) | 3:37 | 2022-03-24 | 2022-12-09 |
 | [WER, WENN NICHT WIR?](https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [WER, WENN NICHT WIR?](https://open.spotify.com/album/4fBtvg2ixMyybD5YB33gn5) | 2:05 | 2022-05-26 | 2022-07-15 |
 | [What If the Dead Dream](https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [What If the Dead Dream](https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT) | 3:39 | 2021-12-16 | 2022-12-02 |
 | [Zimmer](https://open.spotify.com/track/4SN5MyYZbiYhNHEQC51gh3) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zu spät um umzudrehen](https://open.spotify.com/album/4DnP7qkS1KlDKixC4jNf3L) | 2:57 | 2021-12-16 | 2022-05-13 |

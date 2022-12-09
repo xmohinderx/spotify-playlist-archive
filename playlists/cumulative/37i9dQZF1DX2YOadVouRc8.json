@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "BAD 4 ME",
+        "url": "https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140204,
+      "name": "BAD 4 ME",
+      "url": "https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn"
+    },
+    {
+      "album": {
         "name": "Bad Influence",
         "url": "https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy"
       },
@@ -169,7 +187,7 @@
           "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
         }
       ],
-      "date_added": "2022-12-03",
+      "date_added": "2022-12-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216000,
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 181395,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z"
@@ -889,6 +907,28 @@
       "duration_ms": 208896,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
+      "album": {
+        "name": "Fine Wine (ft. Amaarae)",
+        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
+      },
+      "artists": [
+        {
+          "name": "Kelechief",
+          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Fine Wine (ft. Amaarae)",
+      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
     },
     {
       "album": {
@@ -1727,7 +1767,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 176058,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"

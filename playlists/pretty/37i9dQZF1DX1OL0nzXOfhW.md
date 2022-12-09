@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: Novel Fergus
+> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: kiyu
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,581 likes - 58 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,590 likes - 58 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [至尊寶](https://open.spotify.com/track/3ttnCFGnBXNrwci9N8a5NK) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [至尊寶](https://open.spotify.com/album/4zU7ZbEFX2K0nkaFstuHfr) | 3:48 |
-| 2 | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/track/3TewUoxPgSIvXOT0IgPf1i) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Geniuz F the FUTURE](https://open.spotify.com/artist/447RvE0QN6IQgxWbllfL2g) | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/album/084SZr4OQdAn7MH2GS3X5G) | 3:27 |
-| 3 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 |
-| 4 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 |
-| 5 | [墜落](https://open.spotify.com/track/5kj1ATksYuR9lsvJT4mKh5) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [墜落](https://open.spotify.com/album/0s820jSGRWkb6fdcrNkBGb) | 3:17 |
-| 6 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 |
-| 7 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 |
-| 8 | [FreeRider](https://open.spotify.com/track/1JKg8ZhDLC3GDBqTGLfoAI) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [FreeRider](https://open.spotify.com/album/5VHmrHGQOVgx9pOqPo9UWJ) | 3:34 |
-| 9 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 |
-| 10 | [矮妹正傳](https://open.spotify.com/track/6KtWgqqyD4XFJDdOewkg1u) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [矮妹正傳](https://open.spotify.com/album/2OqTqhAmWnMHJH3hzD2me3) | 3:21 |
-| 11 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 |
-| 12 | [saturday night](https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [saturday night](https://open.spotify.com/album/3skcQqVKnlKiG4TGqrQVin) | 2:55 |
-| 13 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 |
-| 14 | [overthinking](https://open.spotify.com/track/4WSID4u69gGKFwCeOP1lLk) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [overthinking](https://open.spotify.com/album/28ZQdT8zN4AvVF5qGcDlzp) | 2:38 |
+| 1 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 |
+| 2 | [overthinking](https://open.spotify.com/track/4WSID4u69gGKFwCeOP1lLk) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [overthinking](https://open.spotify.com/album/28ZQdT8zN4AvVF5qGcDlzp) | 2:38 |
+| 3 | [saturday night](https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [saturday night](https://open.spotify.com/album/3skcQqVKnlKiG4TGqrQVin) | 2:55 |
+| 4 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 |
+| 5 | [至尊寶](https://open.spotify.com/track/3ttnCFGnBXNrwci9N8a5NK) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [至尊寶](https://open.spotify.com/album/4zU7ZbEFX2K0nkaFstuHfr) | 3:48 |
+| 6 | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/track/3TewUoxPgSIvXOT0IgPf1i) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Geniuz F the FUTURE](https://open.spotify.com/artist/447RvE0QN6IQgxWbllfL2g) | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/album/084SZr4OQdAn7MH2GS3X5G) | 3:27 |
+| 7 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 |
+| 8 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 |
+| 9 | [墜落](https://open.spotify.com/track/5kj1ATksYuR9lsvJT4mKh5) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [墜落](https://open.spotify.com/album/0s820jSGRWkb6fdcrNkBGb) | 3:17 |
+| 10 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 |
+| 11 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 |
+| 12 | [FreeRider](https://open.spotify.com/track/1JKg8ZhDLC3GDBqTGLfoAI) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [FreeRider](https://open.spotify.com/album/5VHmrHGQOVgx9pOqPo9UWJ) | 3:34 |
+| 13 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 |
+| 14 | [矮妹正傳](https://open.spotify.com/track/6KtWgqqyD4XFJDdOewkg1u) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [矮妹正傳](https://open.spotify.com/album/2OqTqhAmWnMHJH3hzD2me3) | 3:21 |
 | 15 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 |
 | 16 | [Dancing Cus It's Raining](https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:14 |
 | 17 | [Someday My Prince Will Come](https://open.spotify.com/track/66TcAzggm7K6qGrp5e82c3) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 4:12 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 57 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 |
 | 58 | [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 |
 
-Snapshot ID: `MTY2OTkxMDQwMCwwMDAwMDAwMDljYTFlMWFmZDcyOTdkMWFmNTZiNjQ1ZmUyODcyMjZj`
+Snapshot ID: `MTY3MDUxNTIwMCwwMDAwMDAwMDQ0NzExNjRhNTMyNDZmYTkxNDY2ZTJhMGEwYTA0ZTQx`

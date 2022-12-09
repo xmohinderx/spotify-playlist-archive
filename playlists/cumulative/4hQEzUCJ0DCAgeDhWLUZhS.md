@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Paramore
 
-336 songs - 20 hr 11 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+337 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [The Girls Are Fighting \- Edit](https://open.spotify.com/track/7F1dxj9sEAHy4SsGIHARGq) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The Girls Are Fighting](https://open.spotify.com/album/3xt9SJ3g3ieRV3C2Om8Mws) | 3:01 | 2022-02-04 |  |
 | [The Knack](https://open.spotify.com/track/46NgqjSNoXMZEtmJyoeA97) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:59 | 2021-07-01 |  |
 | [The Loneliest Girl In The World](https://open.spotify.com/track/4KllPRafNDAYc3c3UHzj0u) | [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg), [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [The Loneliest Girl In The World](https://open.spotify.com/album/7mxXN1jc04KAdUiGEU3l1E) | 3:01 | 2022-06-03 |  |
+| [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 | 2022-12-09 |  |
 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 | 2020-10-10\* | 2021-02-25 |
 | [The Present is a Foreign Land](https://open.spotify.com/track/41By7rJLga2kJTkHA9CDIq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present is a Foreign Land](https://open.spotify.com/album/4KFSqMqYLlO8PVW32PO5rS) | 4:14 | 2022-07-15 |  |
 | [The Runaround](https://open.spotify.com/track/4UT9eu8tFiRyi7wVz0vVcZ) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [The Runaround](https://open.spotify.com/album/6sKafsuY83tNWqqqnL4k9n) | 3:43 | 2021-02-26 | 2022-03-18 |

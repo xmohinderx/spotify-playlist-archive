@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 47 | [Casa Dega](https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:35 |
 | 48 | [U Get Me High](https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 4:11 |
 | 49 | [All The Wrong Reasons](https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:45 |
-| 50 | [Friend of the Devil \- Live](https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 5:41 |
+| 50 | [Good Enough](https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 5:50 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDA2YmU1MzlkNzkyMTZiMzBmMjU2MTk4OTAyYTBlZDdjYw==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA2MDFjYzQxNGY2OTRmNWNkOWI1ZDA2NDNiYzExZDkyMg==`

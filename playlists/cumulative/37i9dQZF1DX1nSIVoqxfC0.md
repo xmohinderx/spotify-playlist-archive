@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-323 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
+324 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [I Am Strong \(feat\. Priscilla Ahn\)](https://open.spotify.com/track/4A9IsppPuLvvMIzycjAdm6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Kaleidoscope](https://open.spotify.com/album/3L7HojVI3ELv05boMWUKDv) | 5:39 | 2022-07-28 |  |
 | [I Am Strong \(feat\. Priscilla Ahn\)](https://open.spotify.com/track/4xCPrI2CnpUtbb4Tuir8JS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [I Am Strong](https://open.spotify.com/album/0aeriUbq5AKcguasmkyxuT) | 5:39 | 2022-11-10 | 2022-11-13 |
 | [I Belong to You \- Axel Bauer & Lanford Remix](https://open.spotify.com/track/57NLO7Ji9cCseVqiWyd1JC) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 6:00 | 2020-10-20\* |  |
+| [I Can’t Wait \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [I Can’t Wait \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX) | 2:52 | 2022-12-08 |  |
 | [I Like It Loud](https://open.spotify.com/track/5jkIYokVaFezpTN2QcK7xm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h), [Marshall Masters](https://open.spotify.com/artist/1X0q9PceOgszjWT4Lp8wKL), [The Ultimate MC](https://open.spotify.com/artist/1ZG6yXZnFtQJIKnEHi2MYM) | [I Like It Loud EP](https://open.spotify.com/album/1hZkooBNJOYoXBhbyVwnVf) | 3:56 | 2020-10-20\* | 2022-07-29 |
 | [I Like It Loud \(feat\. Marshall Masters & The Ultimate MC\)](https://open.spotify.com/track/4BCshMRdHkNlYQgZVo7e4D) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h), [Marshall Masters](https://open.spotify.com/artist/1X0q9PceOgszjWT4Lp8wKL), [The Ultimate MC](https://open.spotify.com/artist/1ZG6yXZnFtQJIKnEHi2MYM) | [I Like It Loud \(feat\. Marshall Masters & The Ultimate MC\)](https://open.spotify.com/album/2yTw9o45xlnNyqaqSJVFCz) | 3:56 | 2022-07-28 |  |
 | [I Love It \(feat\. Charli XCX\) \- Tiësto Remix](https://open.spotify.com/track/7vFpssS3kATxZOuWGCrJAt) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 3 \- Stockholm](https://open.spotify.com/album/5pbsUGC9LpIf2r9QSfJpGZ) | 3:59 | 2022-07-28 |  |

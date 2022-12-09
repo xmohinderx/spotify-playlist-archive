@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 105903,
+  "num_followers": 105920,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMzNDY3NCwwMDAwMDAwMDMwN2NkNDgyNTc5YWM0MWQ0NjA0MTFkYTYzMDY4M2Ix",
+  "snapshot_id": "MTY3MDMzNDY3NCwwMDAwMDAwMGNlY2E5YWU4YTI1M2FlZTMwOWE5Yjc0MzdhZGEwNWYx",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 304780,
+      "name": "Enquanto Durmo",
+      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 304780,
-      "name": "Enquanto Durmo",
-      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
     },
     {
       "added_at": "2022-11-25 03:00:00",

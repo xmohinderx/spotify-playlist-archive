@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,010 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,051 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 32 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 |
 | 33 | [Nightcall \- Breakbot Remix](https://open.spotify.com/track/199fvGLqoH23blptlIIz86) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 3:39 |
 | 34 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/5jaVyz2GDdesyu01cBbOSc) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Analog Worms Attack](https://open.spotify.com/album/7kAKGbrd7MHykmOzRlNPee) | 5:16 |
-| 35 | [Cheap And Cheerful \- Sebastian remix](https://open.spotify.com/track/1uX5AUX69UtVhxbFI6H1Ql) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Cheap And Cheerful \(Remixes\)](https://open.spotify.com/album/0O1WSc02pnlWD4lsYzoaQK) | 5:56 |
-| 36 | [Rainbow Man](https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Rainbow Man 2.0](https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt) | 3:34 |
-| 37 | [Fancy Footwork](https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF) | 3:18 |
-| 38 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 |
+| 35 | [Nights Off](https://open.spotify.com/track/7kw4p4Nrs48BtlldKEBSUQ) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Mosaik](https://open.spotify.com/album/24LrUTOayWjn0qiEGDnlkE) | 4:07 |
+| 36 | [Cheap And Cheerful \- Sebastian remix](https://open.spotify.com/track/1uX5AUX69UtVhxbFI6H1Ql) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Cheap And Cheerful \(Remixes\)](https://open.spotify.com/album/0O1WSc02pnlWD4lsYzoaQK) | 5:56 |
+| 37 | [Rainbow Man](https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Rainbow Man 2.0](https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt) | 3:34 |
+| 38 | [Fancy Footwork](https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF) | 3:18 |
 | 39 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 |
-| 40 | [Nights Off](https://open.spotify.com/track/7kw4p4Nrs48BtlldKEBSUQ) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Mosaik](https://open.spotify.com/album/24LrUTOayWjn0qiEGDnlkE) | 4:07 |
+| 40 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 |
 | 41 | [Lucky Boy \- Outlines Remix](https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 4:26 |
 | 42 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
 | 43 | [Romantic Rights](https://open.spotify.com/track/0iHZnbbFHDO9MzHWlJI0Hb) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [You're A Woman, I'm A Machine](https://open.spotify.com/album/07sQdQsdK2Pxh48FOvYgce) | 3:15 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 64 | [One Out Of Two \- Oliver Remix](https://open.spotify.com/track/4KoSPXHZJX6XHwpQTwYZaW) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX), [Olivier](https://open.spotify.com/artist/1OHSjggNzVef5cSnSN0H4R) | [One Out Of Two](https://open.spotify.com/album/2272o56pJTeBGVqXvMdoJw) | 4:17 |
 | 65 | [La musique \(JBAG's Boomboxed Re\-Edit\) \- Mixed](https://open.spotify.com/track/6jwcG2bkn6adlKtlkSrEmf) | [Riot In Belgium](https://open.spotify.com/artist/5TqQmM5hvTvm1nIbiSRw7G), [JBAG](https://open.spotify.com/artist/3bkVz70Wb5WN0PKbT70o7R) | [Kitsuné Boombox Mixed by Jerry Bouthier](https://open.spotify.com/album/7mdUhfsfAXgtxS0x5jAnh7) | 4:11 |
 | 66 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
-| 67 | [To Protect and Entertain \- Crookers Remix](https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Pedrophilia](https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b) | 5:06 |
-| 68 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
+| 67 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
+| 68 | [To Protect and Entertain \- Crookers Remix](https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Pedrophilia](https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b) | 5:06 |
 | 69 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
 | 70 | [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 |
 | 71 | [My Moon My Man \- Boys Noize Classic Mix](https://open.spotify.com/track/2HTByMXgBpDqDw5mPwnk1m) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder \(Deluxe Version\)](https://open.spotify.com/album/4la6HtYlMo0JWW1pgKbtB7) | 6:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 75 | [Cocotte](https://open.spotify.com/track/0wQLUNmt4sr3VWom2IU7yP) | [Teenage Bad Girl](https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb) | [Cocotte](https://open.spotify.com/album/6eqdmGdk3oA1YOFLkWEXfR) | 4:22 |
 
-Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMDA5OTMwY2Y2NTRkYzlhOTc1MTY4OGE2MDNjMjk5MTlh`
+Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMDRiZjI1YTViMzg4OTYzMTU4ZjYxMGU3YmI1MjU5YTU0`

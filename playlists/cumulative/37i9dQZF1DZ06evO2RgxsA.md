@@ -4,7 +4,7 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/1vnCs1yYJOqwVP1hIqviIU)
+78 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/1vnCs1yYJOqwVP1hIqviIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Cokie the Clown](https://open.spotify.com/track/1veqDqKxdHHxxBPYDnofLk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Cokie the Clown](https://open.spotify.com/album/0Ho8Jl9kBUG9HmVAdCTiNU) | 2:26 | 2022-10-06 | 2022-10-08 |
 | [Cool and Unusual Punishment](https://open.spotify.com/track/3XIt5NVAgzUteXlfiUE6Yp) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:05 | 2022-09-16 | 2022-12-04 |
 | [Creeping out Sara](https://open.spotify.com/track/6w8BMvIEGU1JYkR1mdIGJt) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:45 | 2022-09-16 | 2022-10-16 |
-| [Darby Crashing Your Party](https://open.spotify.com/track/2LpbBDD1Qrn8lGGi8B6BxW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Darby Crashing Your Party](https://open.spotify.com/album/1CeF4JeD01o7FbPRmDu25J) | 2:24 | 2022-09-28 |  |
+| [Darby Crashing Your Party](https://open.spotify.com/track/2LpbBDD1Qrn8lGGi8B6BxW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Darby Crashing Your Party](https://open.spotify.com/album/1CeF4JeD01o7FbPRmDu25J) | 2:24 | 2022-09-28 | 2022-12-09 |
+| [Darby Crashing Your Party](https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:24 | 2022-12-08 |  |
 | [Dig](https://open.spotify.com/track/2IcAmkhCn1OrxoP3SZeF5N) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:16 | 2022-09-28 | 2022-09-30 |
 | [Dinosaurs Will Die](https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:58 | 2022-09-16 |  |
 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 | 2022-09-16 |  |
@@ -77,12 +78,12 @@
 | [The Moron Brothers](https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 2:26 | 2022-09-18 | 2022-10-13 |
 | [The Quitter](https://open.spotify.com/track/1HFz1YvBXVAJ0lSn3rgYgk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 1:51 | 2022-09-16 |  |
 | [The Separation of Church and Skate](https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 3:09 | 2022-09-16 |  |
-| [Three Against Me](https://open.spotify.com/track/7bjNdKxPeW9ykYmhSvUxJW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:28 | 2022-12-03 |  |
+| [Three Against Me](https://open.spotify.com/track/7bjNdKxPeW9ykYmhSvUxJW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:28 | 2022-12-03 | 2022-12-09 |
 | [Together On The Sand](https://open.spotify.com/track/7wyuKMQjuII5e1mr59iiKV) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 1:12 | 2022-10-12 |  |
 | [Usa\-Holes](https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:13 | 2022-09-16 |  |
 | [We Called It America](https://open.spotify.com/track/5UkBszllVTOdWs9mKVJSE2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:07 | 2022-09-16 |  |
 | [We Got Two Jealous Agains](https://open.spotify.com/track/2tahr8bIxTlu2jpO8kj8Gi) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:03 | 2022-09-21 | 2022-10-13 |
-| [We Threw Gasoline.......](https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:44 | 2022-09-16 | 2022-12-05 |
+| [We Threw Gasoline.......](https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:44 | 2022-09-16 |  |
 | [What's The Matter With Parents Today?](https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:58 | 2022-09-16 |  |
 | [You're Bleeding](https://open.spotify.com/track/6hcda71AReBXmBC2iqyFCB) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:12 | 2022-09-25 | 2022-10-09 |
 

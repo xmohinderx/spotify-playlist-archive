@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-192 songs - 12 hr 32 min - not published yet
+193 songs - 12 hr 35 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [GOOD TIMES \- Elephant Talk Remix](https://open.spotify.com/track/3xsNTAAseZTnt9qeYBZVvA) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Elephant Talk](https://open.spotify.com/artist/01I8z0hww0EwLAM2P8OJHX) | [GOOD TIMES \(Elephant Talk Remix\)](https://open.spotify.com/album/0EsDadPHEGIW5KmdR46dRP) | 4:55 | 2022-12-03 |  |
 | [Gory Love \(Ship Wrek Remix\)](https://open.spotify.com/track/3kSDPvMpj3Ht4yRG43ormF) | [Calabasas](https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Gory Love \(Remixes\)](https://open.spotify.com/album/0K9FgFuUeDORb2TWzUdxRZ) | 2:25 | 2022-12-03 |  |
 | [Gushtose](https://open.spotify.com/track/0d0s4aEVoWcO8DyoRVBdCm) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Gushtose](https://open.spotify.com/album/2O4yQ8clSD8CC5s1eDd1p6) | 4:17 | 2022-10-31 | 2022-11-05 |
+| [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2022-12-08 |  |
 | [Hide & Seek](https://open.spotify.com/track/1QsZGlLxvzISodQJeVF8wT) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Nonsens](https://open.spotify.com/artist/09GJU4jF4zhNfN72mTyMCi) | [Hide & Seek](https://open.spotify.com/album/4og9aWRMdUApceZpBldJY4) | 3:49 | 2022-10-15 | 2022-11-01 |
 | [Hold Me Close](https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Hold Me Close](https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU) | 3:19 | 2022-12-03 |  |
 | [House Magic](https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY) | [Peter Schumann](https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I) | [Deeper Conversations EP](https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR) | 8:01 | 2022-11-04 | 2022-11-13 |

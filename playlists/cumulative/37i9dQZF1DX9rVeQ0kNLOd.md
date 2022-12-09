@@ -4,14 +4,15 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-79 songs - 4 hr 39 min - not published yet
+80 songs - 4 hr 43 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-10-20 |  |
+| [1DK](https://open.spotify.com/track/7gFEJepDJQozYYVJDHaLjw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [1DK](https://open.spotify.com/album/0JVSlC0WdDSj97rtfHqyjd) | 4:08 | 2022-12-09 |  |
 | [1gの詐欺](https://open.spotify.com/track/44R5LHXgkxEPqW1P6PhkLE) | [QUMO](https://open.spotify.com/artist/10y7aB4LWIrk6syMVdQdI1) | [1gの詐欺](https://open.spotify.com/album/2pmnts7eHPbT5f5sd4k4yQ) | 3:40 | 2022-11-24 |  |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-10-20 |  |
-| [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 | 2022-10-20 |  |
+| [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 | 2022-10-20 | 2022-12-09 |
 | [BURU](https://open.spotify.com/track/1pJPzYGmUJF92NRelGfyIn) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Buru](https://open.spotify.com/album/0hXRW6dvSRdOt2OHcQOjh6) | 4:07 | 2022-10-20 | 2022-11-23 |
 | [Bus Stop](https://open.spotify.com/track/6FEXVKbPtuW2D7Q1EbAFyo) | [RAq](https://open.spotify.com/artist/0I6KWC4h8huHA3Mgj2NaqZ) | [Bus Stop](https://open.spotify.com/album/0ChQDwCuMzeh0jXTs2vPyG) | 2:40 | 2022-10-20 |  |
 | [Called by the Neon Light](https://open.spotify.com/track/3o0lvk0pXsqv9DV064ezEl) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Called by the Neon Light](https://open.spotify.com/album/3ccal0p7YflbbtitrZDOjk) | 3:25 | 2022-11-24 |  |

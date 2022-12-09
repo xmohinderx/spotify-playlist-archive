@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,815 likes - 65 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,849 likes - 65 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

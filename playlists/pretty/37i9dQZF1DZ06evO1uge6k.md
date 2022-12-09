@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,938 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,063 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Consumption](https://open.spotify.com/track/2WtcpnIJRKuzrOA9BRzaEt) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 3:47 |
 | 50 | [Jailhouse Rock \- 2005 Remaster](https://open.spotify.com/track/1MRidycoVNBWpBTOkD84rX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 1:55 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDA0ZTUxMzg4NzJiM2EwOTQyYTU3ZGMwM2NkZjIxMzQxZg==`
+Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDBjNTI5Zjk3YmNmNDFiZjhiOTZkMjM5MGQ5NWMyNzE2ZA==`

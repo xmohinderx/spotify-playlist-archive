@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 253722,
       "name": "19\u2103",
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
@@ -898,6 +898,28 @@
     },
     {
       "album": {
+        "name": "CROWS",
+        "url": "https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd"
+      },
+      "artists": [
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170549,
+      "name": "CHILLIN (feat. Daichi Yamamoto)",
+      "url": "https://open.spotify.com/track/41tQErMclr6VBRAIsjAuhj"
+    },
+    {
+      "album": {
         "name": "chord",
         "url": "https://open.spotify.com/album/55bJN6zduydHGYN0IT1srE"
       },
@@ -927,7 +949,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 208436,
       "name": "Christmas Is All Yours",
       "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
@@ -1309,7 +1331,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 216066,
       "name": "DEEP",
       "url": "https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb"
@@ -1603,6 +1625,24 @@
       "duration_ms": 182613,
       "name": "Fire and Gold",
       "url": "https://open.spotify.com/track/4QBs4j1pzocVbVmsnw2jCA"
+    },
+    {
+      "album": {
+        "name": "First Love (2022 Mix)",
+        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
+      },
+      "artists": [
+        {
+          "name": "\u5b87\u591a\u7530\u30d2\u30ab\u30eb",
+          "url": "https://open.spotify.com/artist/6MMLp7FXx1mewrxMaLr85Y"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261122,
+      "name": "First Love - 2022 Mix",
+      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
       "album": {
@@ -4704,6 +4744,24 @@
     },
     {
       "album": {
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318464,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2"
+    },
+    {
+      "album": {
         "name": "rollin'",
         "url": "https://open.spotify.com/album/39CklsCqIBVvnsy7KU9wos"
       },
@@ -6517,7 +6575,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 259956,
       "name": "WARUNORI",
       "url": "https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx"
@@ -7923,6 +7981,24 @@
       "duration_ms": 89563,
       "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
       "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
+    },
+    {
+      "album": {
+        "name": "\u521d\u604b (2022 Remastering)",
+        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282165,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
     },
     {
       "album": {

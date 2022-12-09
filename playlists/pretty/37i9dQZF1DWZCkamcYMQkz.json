@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 84570,
+  "num_followers": 84714,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMzNTkxMSwwMDAwMDAwMDk0MzVmNGYwNDUwYzk2N2NiNGUwZjIxOWE4YzVmMmNj",
+  "snapshot_id": "MTY3MDMzNTkxMSwwMDAwMDAwMDU3ZWIyMTIzY2I5NjI3NzA2ZTY5M2E2MThiMWEyN2Q4",
   "tracks": [
     {
       "added_at": "2022-12-06 14:11:51",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-12-06 14:11:51",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Straighten Up And Fly Right",
+      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
+    },
+    {
+      "added_at": "2022-12-06 14:11:51",
+      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 238120,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
-    },
-    {
-      "added_at": "2022-12-06 14:11:51",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Straighten Up And Fly Right",
-      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
     },
     {
       "added_at": "2022-12-06 14:11:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-12-06 14:11:51",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 407533,
-      "name": "The More I See You - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
-    },
-    {
-      "added_at": "2022-12-06 14:11:51",
-      "album": {
         "name": "Blue Trane",
         "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 412133,
       "name": "You're Sensational",
       "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
+    },
+    {
+      "added_at": "2022-12-06 14:11:51",
+      "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "The More I See You - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
     },
     {
       "added_at": "2022-12-06 14:11:51",

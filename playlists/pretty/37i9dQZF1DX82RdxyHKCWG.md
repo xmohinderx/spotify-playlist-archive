@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > As novidades e estrelas do pop que estão explodindo no Spotify\. ✨ Foto: Chameleo, Danny Bond
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,261 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,428 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Esteban Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,554 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,619 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 56 | [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 |
 | 57 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 |
 | 58 | [Sueño](https://open.spotify.com/track/5h3OYUtNaQzoAECbhS2yaL) | [LAPIZIN](https://open.spotify.com/artist/3ZRYuGWZG2p7sbk199dpyh) | [Sueño](https://open.spotify.com/album/7o8j9ChZXH8DouiiklZKAR) | 2:40 |
-| 59 | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU) | 2:58 |
-| 60 | [F E F](https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [F E F](https://open.spotify.com/album/6fBY0FGZiYYiE5bUFcNfMe) | 4:33 |
+| 59 | [F E F](https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [F E F](https://open.spotify.com/album/6fBY0FGZiYYiE5bUFcNfMe) | 4:33 |
+| 60 | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU) | 2:58 |
 | 61 | [Tiempos de Guerra 2](https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Tiempos de Guerra 2](https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa) | 2:51 |
 | 62 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 |
 | 63 | [El Lema del Barbas](https://open.spotify.com/track/4tsQW89PubYxiNuJqddvRh) | [Otro Nivel](https://open.spotify.com/artist/2dCsNoreGt2dkckeSrszzp), [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [El Lema del Barbas](https://open.spotify.com/album/3jJNpXVf3IvDrhq60aLH1C) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Y Sigo Ciendo el Perro](https://open.spotify.com/track/57nfgIlZNskOJezJBPKAEw) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Y Sigo Ciendo el Perro](https://open.spotify.com/album/5rmqwYeEouXAu6QWffDbex) | 3:09 |
 | 75 | [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 |
 
-Snapshot ID: `MTY3MDI4MTgxNCwwMDAwMDAwMDZjZTQ4NDI0MGFlZjdjYjc3NTk5NmJkY2Q5ODhhNjdm`
+Snapshot ID: `MTY3MDI4MTgxNCwwMDAwMDAwMGM2MmNlMjI1NDE5MGRiNjRkZTJiNmRlNGM5NjJlYThm`

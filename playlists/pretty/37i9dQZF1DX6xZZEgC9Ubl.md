@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo rap feels for the misunderstood\. Cover: iann dior
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,377,721 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378,550 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

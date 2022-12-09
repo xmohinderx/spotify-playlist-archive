@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-165 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/1hAa8J0PFUdYrlTpNoEoq8)
+166 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/1hAa8J0PFUdYrlTpNoEoq8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Olvidarte Nunca](https://open.spotify.com/track/08SYcykMC5D0D0zIPyq16X) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/5LyFSml1096g9UtmR35Y31) | 2:57 | 2022-05-10 | 2022-11-13 |
 | [Olvidarte Nunca](https://open.spotify.com/track/3xRVnVY4uuNQZ1rmmRclhU) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/42nZkX6kk4O3vpTuQa6UrK) | 2:57 | 2022-05-10 |  |
 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 | 2022-05-10 | 2022-07-29 |
-| [Pasito Tun, Tun](https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Los Años De Oro \- La Orquesta De Siempre](https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz) | 3:46 | 2022-05-10 |  |
+| [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 | 2022-05-10 |  |
+| [Pasito Tun, Tun](https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Los Años De Oro \- La Orquesta De Siempre](https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz) | 3:46 | 2022-05-10 | 2022-12-09 |
 | [Pensaba en Ti \- Tema Remasterizado](https://open.spotify.com/track/63bJH7VTZF8tgtgm7dPLrw) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 3:25 | 2022-05-10 |  |
 | [Perfume de Gardenias](https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:12 | 2022-05-10 |  |
 | [Piel Canela](https://open.spotify.com/track/6nxTm1XUBHjxcs5Wc9oFLC) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [La Gran Colección del 60 Aniversario CBS \- Eydie Gormé y Los Panchos](https://open.spotify.com/album/4OsoVNbRkfopwfBabCH6Hi) | 2:16 | 2022-05-10 | 2022-11-13 |

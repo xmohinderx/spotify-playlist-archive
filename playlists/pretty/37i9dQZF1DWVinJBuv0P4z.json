@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 292631,
+  "num_followers": 292898,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA1ODQ2NiwwMDAwMDAwMGJkMDZmOTQ2ODBlMzgyMjE3YWQwMWI4YjgxNWM5NWVi",
+  "snapshot_id": "MTY2NTA1ODQ2NiwwMDAwMDAwMDgzN2E5NzI3ZDAwNWYzZWZjZDkyMmI1YzYxNDdmNjMz",
   "tracks": [
     {
       "added_at": "2022-05-11 12:42:18",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-05-11 12:42:18",
       "album": {
-        "name": "The Everlasting Love Affair",
-        "url": "https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX"
-      },
-      "artists": [
-        {
-          "name": "Love Affair",
-          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ"
-    },
-    {
-      "added_at": "2022-05-11 12:42:18",
-      "album": {
         "name": "It's Our Thing",
         "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 169293,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
+    },
+    {
+      "added_at": "2022-05-11 12:42:18",
+      "album": {
+        "name": "The Everlasting Love Affair",
+        "url": "https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX"
+      },
+      "artists": [
+        {
+          "name": "Love Affair",
+          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ"
     },
     {
       "added_at": "2022-05-11 12:42:18",

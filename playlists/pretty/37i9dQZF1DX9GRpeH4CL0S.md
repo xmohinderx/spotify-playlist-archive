@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,607 likes - 225 songs - 14 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,859 likes - 225 songs - 14 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,11 +227,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 217 | [Vertigo](https://open.spotify.com/track/57ZXcBtCZXSg9TVV5xRdnR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 3:14 |
 | 218 | [That's Not My Name](https://open.spotify.com/track/2DNdEpV9UnsYjL6w1Dp1aS) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1aWIPcWf3fDEZT6geXjCfU) | 5:10 |
 | 219 | [This Is War](https://open.spotify.com/track/01v7kv0RTVaX4Vs8GcOGOP) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War \(Deluxe\)](https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL) | 5:26 |
-| 220 | [I Predict a Riot](https://open.spotify.com/track/1GMDNgkkcMO9EGCN8qmny1) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6GygB5BdiE2SkV63jtDrEm) | 3:54 |
-| 221 | [I Disappear](https://open.spotify.com/track/7AMGMiTQPTzDnQO7oHXggs) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Wet From Birth](https://open.spotify.com/album/41ZdJIZqQvwlcf939RDQlP) | 4:07 |
-| 222 | [One Day Like This](https://open.spotify.com/track/6H3S7yQjHn3ErG9o6v7qBs) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid \(Bonus Tracks Version\)](https://open.spotify.com/album/44w1MmIi5i05Y0UVBHaWRt) | 6:34 |
-| 223 | [Killed By An Angel](https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [The Rising Tide](https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2) | 4:55 |
-| 224 | [Echoes](https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh) | 3:06 |
+| 220 | [I Disappear](https://open.spotify.com/track/7AMGMiTQPTzDnQO7oHXggs) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Wet From Birth](https://open.spotify.com/album/41ZdJIZqQvwlcf939RDQlP) | 4:07 |
+| 221 | [One Day Like This](https://open.spotify.com/track/6H3S7yQjHn3ErG9o6v7qBs) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid \(Bonus Tracks Version\)](https://open.spotify.com/album/44w1MmIi5i05Y0UVBHaWRt) | 6:34 |
+| 222 | [Killed By An Angel](https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [The Rising Tide](https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2) | 4:55 |
+| 223 | [Echoes](https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh) | 3:06 |
+| 224 | [Trainwreck 1979 \- Moulder Mix with in/out fades](https://open.spotify.com/track/06vOVdH94mIEjIgIhHdhdO) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:46 |
 | 225 | [Kings And Queens](https://open.spotify.com/track/4z21jCYxdhnEfvgqGSKByQ) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War \(Deluxe\)](https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL) | 5:47 |
 
-Snapshot ID: `MTY2OTIzNDIyMiwwMDAwMDAwMGFhMzdjZjhkZmUyMGI1YTZmMTcyNDI3ZWNkOTc3ZWNi`
+Snapshot ID: `MTY2OTIzNDIyMiwwMDAwMDAwMDE3NzAxOWE5YTBjYzc4Njk5ZDQ2MGExNmIyMzI5MGU4`

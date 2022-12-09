@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 203650,
+  "num_followers": 203968,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDljNTE4YmYzZjA5MWYwYjBiZDk4MDNmY2Y4NzA4ZGRj",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDk0OTJiYzI5YjJjMjRlZWNlODg0ODU2Yjk2ZWZiYzFh",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Play It Forward",
-        "url": "https://open.spotify.com/album/6b8LaKbz7KHurVKuGGh7ig"
-      },
-      "artists": [
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "Thunder Kiss '65",
-      "url": "https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Cover Me in Darkness",
         "url": "https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 218051,
       "name": "My Own Summer - Shove It",
       "url": "https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Play It Forward",
+        "url": "https://open.spotify.com/album/6b8LaKbz7KHurVKuGGh7ig"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "Thunder Kiss '65",
+      "url": "https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU"
     },
     {
       "added_at": "2022-11-25 05:00:00",

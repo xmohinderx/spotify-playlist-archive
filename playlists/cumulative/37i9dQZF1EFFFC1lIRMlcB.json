@@ -683,10 +683,6 @@
       },
       "artists": [
         {
-          "name": "Lucas Serra",
-          "url": "https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL"
-        },
-        {
           "name": "Lucas Kastrup",
           "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
         },
@@ -752,10 +748,6 @@
         "url": "https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC"
       },
       "artists": [
-        {
-          "name": "Lucas Serra",
-          "url": "https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL"
-        },
         {
           "name": "Lucas Kastrup",
           "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
@@ -849,12 +841,12 @@
       },
       "artists": [
         {
-          "name": "Lucas Serra",
-          "url": "https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL"
-        },
-        {
           "name": "Lucas Kastrup",
           "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        },
+        {
+          "name": "Lucas Serra",
+          "url": "https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL"
         }
       ],
       "date_added": "2022-06-04",

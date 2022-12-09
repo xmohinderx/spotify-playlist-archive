@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,192 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,700 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 58 | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 |
 | 59 | [I Don't Know You](https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT) | 3:41 |
 | 60 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
-| 61 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 |
-| 62 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
-| 63 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 |
+| 61 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 |
+| 62 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 |
+| 63 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 64 | [Freedom \- The Wolves Within \-](https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:37 |
 | 65 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 |
 | 66 | [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 |
 | 80 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 |
 
-Snapshot ID: `MTY2ODczNTExMywwMDAwMDAwMGVlNDA5OGY0M2E1Yjc2MTM5MTg5MTE1NjMyOTA4OWM4`
+Snapshot ID: `MTY2ODczNTExMywwMDAwMDAwMGYxNDQwYzUzOGQ0OWVlZTRjYmQxMTVlY2RjYzY2YThk`

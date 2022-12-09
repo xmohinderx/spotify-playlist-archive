@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,076 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,153 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 47 | [In the Open \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/07DsSy1L0z2JsiUfwR0pu7) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 5:53 |
 | 48 | [Albert's Shuffle \- Live](https://open.spotify.com/track/6aqeVjcTX2ivUtPjr0xocT) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 7:07 |
 | 49 | [SRV Speaks](https://open.spotify.com/track/7CkTfNc51KRJLinO5jSp3s) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather](https://open.spotify.com/album/4CvDljqpyOVfwTV2CludIH) | 1:08 |
-| 50 | [Old Times](https://open.spotify.com/track/4NQKArbOy5gvTrMqByOHj0) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 1:15 |
+| 50 | [Match Box Blues](https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 7:39 |
 
-Snapshot ID: `Mjc4NDA3NzMsMDAwMDAwMDA0YmJhYTg1NWI0YzQ5OTc5NWEwMmJkNTUxM2UwNmJmYg==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAxZDIyM2U1ZmFjNjZiMjA4ZmY4ZGFkYzY3ZTk2MWM4Yw==`

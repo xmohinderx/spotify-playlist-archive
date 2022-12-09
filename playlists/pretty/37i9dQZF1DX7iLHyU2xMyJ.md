@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 
 > From Annakili to Psycho \- all the Essential tracks of Isaignani!<br/>Cover : Ilaiyaraaja
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,571 likes - 201 songs - 15 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,672 likes - 201 songs - 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

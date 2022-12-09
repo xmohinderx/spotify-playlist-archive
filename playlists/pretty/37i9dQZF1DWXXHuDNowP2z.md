@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,517 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,775 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,9 +110,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 100 | [Cuando Los Frijoles Bailan](https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF) | [Afecto Norteño](https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL) | [Jam out Session 1](https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr) | 2:59 |
 | 101 | [Los Viejitos](https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:48 |
 | 102 | [Zapateado Encabronado \#3](https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [De Corazon Ranchero](https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV) | 4:27 |
-| 103 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 |
-| 104 | [Dime donde y cuando \- Live](https://open.spotify.com/track/04FuzddvcEMzYIbJZR302j) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 1](https://open.spotify.com/album/2kUdqdhDF2HocpD7WSwjkr) | 4:02 |
-| 105 | [El wiri wiri](https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [El wiri wiri](https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc) | 2:38 |
+| 103 | [Dime donde y cuando \- Live](https://open.spotify.com/track/04FuzddvcEMzYIbJZR302j) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 1](https://open.spotify.com/album/2kUdqdhDF2HocpD7WSwjkr) | 4:02 |
+| 104 | [El wiri wiri](https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [El wiri wiri](https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc) | 2:38 |
+| 105 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 |
 | 106 | [El Rezado](https://open.spotify.com/track/0aeDePMtkPY23XbgD67orU) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos](https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9) | 3:31 |
 | 107 | [Vanidosa](https://open.spotify.com/track/1BMYzxO9iuPGmi5jeR6HS3) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Cuarentena](https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV) | 3:43 |
 | 108 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 149 | [Quítate El Zapato](https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Me Hacían Falta Huevos](https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI) | 3:18 |
 | 150 | [El Huitzuqueño](https://open.spotify.com/track/5DGE6ZCHbQU3id35BsHBLI) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko](https://open.spotify.com/album/3H6XfV5BJvzjOXrnNMhN42) | 3:07 |
 
-Snapshot ID: `MTY2NTc3MjI5NywwMDAwMDAwMDQ1MjQ3MjY1M2YyMzVmZGU3MWYxODhkZjU2OWZjNGRh`
+Snapshot ID: `MTY2NTc3MjI5NywwMDAwMDAwMDY0NjEzZjRlOTZmOWMzNjczYjFkZGM4MzcyNjI3YmI3`

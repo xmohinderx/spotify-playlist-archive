@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Hang ten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,096 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,221 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 34 | [French Press](https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn) | 5:26 |
 | 35 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 |
 | 36 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 |
-| 37 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 |
-| 38 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 |
+| 37 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 |
+| 38 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 |
 | 39 | [City Club](https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:16 |
 | 40 | [Out In The Country](https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' With Wolves](https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl) | 2:54 |
 | 41 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 47 | [Let the Sun In](https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:43 |
 | 48 | [I'll Be Around](https://open.spotify.com/track/1EXMtjti643XyQLiGDdki0) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 4:47 |
 | 49 | [Broken Finger Blues](https://open.spotify.com/track/71FYSkmSyrEncuZDqBnPiS) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Hex](https://open.spotify.com/album/69OHkuXuh8djCi1LXdUCgr) | 4:20 |
-| 50 | [Bitter](https://open.spotify.com/track/2NjepWsgyVUNZY2MtZSwKw) | [Worn\-Tin](https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9) | [Summer Mixtape](https://open.spotify.com/album/0iz11mCbWWro0BsVpsPpO9) | 3:15 |
+| 50 | [Sun Medallion](https://open.spotify.com/track/0sSVTKSPiim06zGApr2NC1) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Was Dead](https://open.spotify.com/album/2RD12eprsENYogP3H1Tp1c) | 2:30 |
 
-Snapshot ID: `MTY2OTc1MDgxNywwMDAwMDAwMGU0MDNhNjgxMGVlOTNkNGYyY2MzZGZiNjZhN2EzZDU4`
+Snapshot ID: `MTY2OTc1MDgxNywwMDAwMDAwMGZhYmMzZjkyYjQ4MmU3Yzc0ZGRhZTg4NWJkYTVlMjkz`

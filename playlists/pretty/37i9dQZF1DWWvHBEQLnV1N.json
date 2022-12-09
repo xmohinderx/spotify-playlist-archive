@@ -1,12 +1,12 @@
 {
   "description": "Get excited with these festive favourites alongside some of the newest holiday releases.",
-  "num_followers": 1020379,
+  "num_followers": 1022189,
   "original_name": "Christmas is Coming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMyNTg0MywwMDAwMDAwMDk3ZmFkNmEwZTMxYzQyYzQ2NTk3ZDMyNjk3MGI3YzYx",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDY4ODcxYjAyYjc5NWVmM2Y4YWM3ZDQ2MTQ3NDhjNDYx",
   "tracks": [
     {
       "added_at": "2022-11-18 01:15:48",
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B"
     },
     {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Walking in The Air",
+        "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Walking in The Air",
+      "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
+    },
+    {
       "added_at": "2022-11-18 01:15:48",
       "album": {
         "name": "Merry Christmas",
@@ -297,6 +313,22 @@
       "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
     },
     {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK"
+    },
+    {
       "added_at": "2022-11-18 01:15:48",
       "album": {
         "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
@@ -347,6 +379,22 @@
       "duration_ms": 202546,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/0cM5URUqqQTpJWonmdzF1J"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 191378,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
     },
     {
       "added_at": "2022-11-18 01:15:48",

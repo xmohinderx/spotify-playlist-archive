@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 196657,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 166736,
       "name": "Elephant Man",
       "url": "https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o"
@@ -1530,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155005,
+      "name": "No Peace (Violence)",
+      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
+    },
+    {
+      "album": {
         "name": "Codename, Vol. 1",
         "url": "https://open.spotify.com/album/5xwIkodIxjHymcGMLQDhrI"
       },
@@ -1779,6 +1797,28 @@
       "duration_ms": 184077,
       "name": "Picanto",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "album": {
+        "name": "Popping",
+        "url": "https://open.spotify.com/album/0MDM5ibxDrVm0RKVy5nhoP"
+      },
+      "artists": [
+        {
+          "name": "Deena Ade",
+          "url": "https://open.spotify.com/artist/4URSzB6wfRtpXEISyX7Nsb"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147346,
+      "name": "Popping",
+      "url": "https://open.spotify.com/track/58lTZMkpl2dENJWth5ZTDJ"
     },
     {
       "album": {
@@ -2244,6 +2284,24 @@
     },
     {
       "album": {
+        "name": "The Lost Boy (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7MDNR9DbdaUzv03PKMIkrp"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153182,
+      "name": "THE GOAT",
+      "url": "https://open.spotify.com/track/6pLcTVmCUa6cDBAcwi9c3h"
+    },
+    {
+      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
       },
@@ -2365,7 +2423,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 163507,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"

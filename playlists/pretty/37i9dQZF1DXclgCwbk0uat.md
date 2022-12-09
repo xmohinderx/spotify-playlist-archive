@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Cris Mj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,760,731 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,761,150 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 4 | [Na Na Na \- Remix](https://open.spotify.com/track/7BFa8ACKFI2vvbn6Su16JY) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Na Na Na \(Remix\)](https://open.spotify.com/album/7pigWCNPdpIxpfLbebqVdH) | 4:32 |
 | 5 | [Parcera](https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Parcera](https://open.spotify.com/album/3V2AB5EnZHMBNXf1mE8dRh) | 3:27 |
 | 6 | [Fiera](https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Fiera](https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1) | 2:55 |
-| 7 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
+| 7 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
 | 8 | [ADICTO \(feat\. Best, Bayriton\)](https://open.spotify.com/track/0pVFw0LHdpjAWI2xwoUXQZ) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV) | [ADICTO \(feat\. Best, Bayriton\)](https://open.spotify.com/album/2lMQji7tH4Gb2VPoi1iF55) | 4:52 |
 | 9 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 |
 | 10 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |

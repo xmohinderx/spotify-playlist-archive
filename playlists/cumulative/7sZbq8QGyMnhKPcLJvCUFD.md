@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-146 songs - 7 hr 36 min - not published yet
+147 songs - 7 hr 38 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Island](https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Island](https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj) | 2:09 | 2022-06-21 |  |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 |  |
 | [Like You](https://open.spotify.com/track/46Ovm5iZ1gL10LpmA5p5xt) | [MILANE](https://open.spotify.com/artist/0z2OtfZd64An27e6rvWPpm), [Greg Aven](https://open.spotify.com/artist/5Zi4sxxjUo0cgzcMrpUIhc) | [Like You](https://open.spotify.com/album/1ZcPQjNXSrV8DBF47vABNg) | 2:30 | 2022-04-19 |  |
+| [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 |  |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 |  |
 | [Me Times Two](https://open.spotify.com/track/5TrA3Iopc6I2PbwGTKv9m8) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [Me Times Two](https://open.spotify.com/album/3Q7jmemejSYfJxeHz7plfZ) | 2:52 | 2022-07-14 |  |
 | [Memory Lane](https://open.spotify.com/track/3I4i9lPdYexRsU79R7KnoM) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Memory Lane](https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7) | 4:02 | 2022-08-12 |  |

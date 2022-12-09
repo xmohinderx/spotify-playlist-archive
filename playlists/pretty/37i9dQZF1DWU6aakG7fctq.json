@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Yorghaki",
-  "num_followers": 504381,
+  "num_followers": 504411,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDVlOWU2YzlkYmY3OThiMWVjYmU0YzQ3MWViOTY1ZTAy",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDRjYjhhZDU1NGI2ZDk1ZmVlZjcwM2U1OWYwNDRmZTRh",
   "tracks": [
     {
       "added_at": "2022-12-02 00:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 138742,
-      "name": "un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
         "name": "Talk Too Much",
         "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 197511,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 138742,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
     },
     {
       "added_at": "2022-12-02 00:00:00",

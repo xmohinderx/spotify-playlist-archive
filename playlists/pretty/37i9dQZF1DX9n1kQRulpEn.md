@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1kQRulpEn.md) - [plain]
 
 > A swinging Jazz soundtrack for your drive time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,395 likes - 100 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,365 likes - 100 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 872040,
+  "num_followers": 872302,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDJjYjM1NzJhZTkzODk3MGZlZTdhOWU0Yjc4OWI4Y2Q3",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGNmYTRkNmVlOTRhOGViY2YwZGUxZjkxOWU0ZGVlYzZh",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Bring Et",
-        "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Bring Et",
-      "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Fly With Us",
         "url": "https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 248437,
       "name": "Fly With Us",
       "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Bring Et",
+        "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Bring Et",
+      "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
     },
     {
       "added_at": "2022-12-02 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: BROCKHAMPTON
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,407 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,596 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 4 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 |
 | 5 | [Hoodwinked](https://open.spotify.com/track/2IrTCLhpb9q7NSd4HdXpdq) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Hoodwinked](https://open.spotify.com/album/26DiCWmZZNdA5ro488WtGf) | 2:54 |
 | 6 | [killstreaks \(with Don Toliver & PinkPantheress\)](https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:35 |
-| 7 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 |
-| 8 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 |
+| 7 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 |
+| 8 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 |
 | 9 | [NEW SHOES](https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 3:18 |
 | 10 | [Pudgy \(with Lil Uzi Vert\)](https://open.spotify.com/track/4oebzB09U8UoYtNnS6vTjt) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:15 |
 | 11 | [YAH Know](https://open.spotify.com/track/1LzovYtOvkODueiluGyRzF) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [YAH Know](https://open.spotify.com/album/2hco0gyL8UJN4olim98vEy) | 5:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 49 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
 | 50 | [Sex Symbol](https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Sex Symbol](https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC) | 2:10 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDIzNjUzYjdmODkyYzllNjUyZDE3ZjA2NjBjMWUxOTlk`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGEwMTU1NTJmOGQxZmVjZWE0Y2E2YjBiYWNjODdiOTI1`

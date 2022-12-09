@@ -4,14 +4,14 @@
 
 > The most interesting tracks in the current world of pop music.
 
-644 songs - 1 day 9 hr 6 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
+645 songs - 1 day 9 hr 9 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 | 2022-03-24 | 2022-04-17 |
 | [1000 Tears](https://open.spotify.com/track/33Nc5TE2bPHa6wtUUFLVSz) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [1000 Tears](https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT) | 2:41 | 2022-03-24 | 2022-03-30 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-09-30 | 2022-10-23 |
-| [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-24 |  |
+| [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-24 | 2022-12-09 |
 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 | 2022-03-24 | 2022-04-21 |
 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 | 2022-03-24 | 2022-04-15 |
 | [24/5](https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [24/5](https://open.spotify.com/album/263g4l4u6u115I2ISnMkQP) | 2:38 | 2021-12-16 | 2022-07-27 |
@@ -456,6 +456,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-18 |  |
 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-24 | 2022-04-07 |
 | [Playlist](https://open.spotify.com/track/14ojT1JUAKgUAfZu7tomIr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes \(Part 1\)](https://open.spotify.com/album/6tSDdE4ynfCuAPjjcIvc87) | 3:19 | 2022-01-06 | 2022-01-29 |
+| [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-08 |  |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2022-03-24 | 2022-04-12 |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-07-07 |  |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-03-24 | 2022-04-17 |

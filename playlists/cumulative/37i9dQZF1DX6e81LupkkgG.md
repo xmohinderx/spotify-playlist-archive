@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-196 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
+197 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Hindenburg Lover](https://open.spotify.com/track/7c1oZvy31JERjS66gsmdQA) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hindenburg Lover](https://open.spotify.com/album/2tkYpQFA8vNXkRlBV9W7kc) | 5:02 | 2022-02-18 | 2022-07-29 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-05 |  |
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2022-02-18 |  |
+| [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2022-12-09 |  |
 | [I Follow](https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [I Follow](https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6) | 2:49 | 2022-02-18 |  |
 | [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 | 2022-03-25 | 2022-06-04 |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 | 2022-02-18 |  |
@@ -169,7 +170,7 @@
 | [The Sweetest Part](https://open.spotify.com/track/6cm7s8AeYlIpwOg4vToAeq) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/6uFHbaZeX8HwXjqRLKR6hA) | 3:43 | 2022-05-06 | 2022-07-29 |
 | [The Usual](https://open.spotify.com/track/13GDcQRwrRwMxa9s774D9X) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework](https://open.spotify.com/album/0bfTjB1kRloRZt6LWJYj6t) | 3:32 | 2022-07-22 |  |
 | [The Usual](https://open.spotify.com/track/2BypOWlak6LbJ2raGGzukY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework Part 1](https://open.spotify.com/album/1oeQryPTvkNIr90wRPrkaZ) | 3:32 | 2022-02-18 | 2022-07-29 |
-| [The Way That I Love You](https://open.spotify.com/track/6NEwGCi8Zz9QNX3soVCvnz) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 2:39 | 2022-07-22 |  |
+| [The Way That I Love You](https://open.spotify.com/track/6NEwGCi8Zz9QNX3soVCvnz) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 2:39 | 2022-07-22 | 2022-12-09 |
 | [The Way That I Love You \- single version](https://open.spotify.com/track/7DZ8n63a46dU6iUyN9OeRl) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Way That I Love You](https://open.spotify.com/album/2brd4GZO66lqqlAWgNiIkK) | 2:39 | 2022-02-18 | 2022-07-29 |
 | [this is what sadness feels like](https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:11 | 2022-09-23 | 2022-10-13 |
 | [this is what sadness feels like](https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:11 | 2022-10-07 |  |

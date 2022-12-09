@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,765 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,808 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 32 | [Cuando Se Acaba El Amor](https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Solo Bachata](https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd) | 5:01 |
 | 33 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
 | 34 | [Salsa del Cielo](https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero](https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS) | 4:15 |
-| 35 | [Armonía](https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Armonía](https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u) | 2:55 |
-| 36 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
+| 35 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
+| 36 | [Armonía](https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Armonía](https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u) | 2:55 |
 | 37 | [Por Un Minuto Tu Presencia](https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8) | [Robert Felix](https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:47 |
 | 38 | [Agradecido Estoy](https://open.spotify.com/track/51fRcBcEdBddazx7L0qwpT) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:05 |
 | 39 | [Espiritu De Dios](https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV) | [Javier Maldonado](https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76) | [No Hay Nada Imposible](https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 49 | [Le Llaman Jesus](https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:52 |
 | 50 | [Forever Endless Love](https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragments Of Heaven](https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug) | 4:02 |
 
-Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMDJhZGE3YzhjYjdiMjg4ZTVkZDI3OWQ1NzFiOWJmM2Qw`
+Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMGVhNGU0Zjc2YmFkNzQ2MDc1NThkYzIwMGU2NjYyNTFm`

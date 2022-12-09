@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: <a href="https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=Hlh4jrktTjungHWulQoTZA"> Kelvyn Boy </a>
 
-84 songs - 4 hr 30 min - not published yet
+85 songs - 4 hr 33 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Don't Shout](https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Don't Shout](https://open.spotify.com/album/63VnNwKfyWmgoaOTTc5LX3) | 3:25 | 2022-11-04 |  |
 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 | 2022-11-04 |  |
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2022-11-04 |  |
-| [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-25 |  |
+| [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-25 | 2022-12-09 |
 | [Enjoyment Minister](https://open.spotify.com/track/4yuXNUSWIAzEmFsO8XVHhi) | [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Enjoyment Minister](https://open.spotify.com/album/6eFIO1ddQzjCwcAcRWoSnq) | 4:18 | 2022-11-04 |  |
 | [Fakye](https://open.spotify.com/track/4mQfRdTt9CLowA0UgLaLfj) | [Kay 9ice](https://open.spotify.com/artist/7wNBctbXr4d5zWHVAiVf9y), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Fakye](https://open.spotify.com/album/2dQzVzAlQXPiFEO4xTHGiX) | 3:57 | 2022-11-25 |  |
 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 | 2022-11-04 |  |
@@ -80,6 +80,7 @@
 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 | 2022-11-04 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-11-04 |  |
 | [Sophia](https://open.spotify.com/track/60836fFuqabzSTVWykb2YC) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Sophia](https://open.spotify.com/album/33MnqYooSC2VMMQrL6S0Au) | 3:07 | 2022-11-04 |  |
+| [Su Mo Mi](https://open.spotify.com/track/2VP9RsnRRp1UX8BagWcZkY) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Su Mo Mi](https://open.spotify.com/album/4UYe6cZPLs6rTSl6F8ZNI4) | 3:24 | 2022-12-08 |  |
 | [Sugarcane](https://open.spotify.com/track/2pPh2jjCqiIDjGdwMMsPQ1) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Phantom](https://open.spotify.com/artist/3OTu83w505CLRat7nFoQeV) | [Sugarcane](https://open.spotify.com/album/4TBJjgBalFgE5fqiof8mWh) | 2:36 | 2022-11-04 |  |
 | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD) | 4:11 | 2022-11-04 |  |
 | [Survivor](https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Survivor](https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO) | 2:25 | 2022-11-04 |  |

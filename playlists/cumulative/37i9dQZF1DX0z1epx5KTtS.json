@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Bello Falcao",
+  "description": "African dance party music from Paris to Abidjan. Photo : Obam's",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "published_playlist_ids": [
     "05NUJhg2S8ET7TkDhLag5G"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 242834,
       "name": "Abacou",
       "url": "https://open.spotify.com/track/0BevQ6RCp7uHdi2s0GmtWn"
@@ -183,6 +183,24 @@
       "duration_ms": 206666,
       "name": "C'est dos\u00e9",
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
+    },
+    {
+      "album": {
+        "name": "C'est g\u00e2t\u00e9",
+        "url": "https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX"
+      },
+      "artists": [
+        {
+          "name": "Obam's",
+          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198576,
+      "name": "C'est g\u00e2t\u00e9",
+      "url": "https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V"
     },
     {
       "album": {
@@ -445,6 +463,28 @@
       "duration_ms": 206222,
       "name": "Dis merci \u00e0 Dieu",
       "url": "https://open.spotify.com/track/2KqGneSnIJJATSwpv2mbA3"
+    },
+    {
+      "album": {
+        "name": "DJAKOTO",
+        "url": "https://open.spotify.com/album/6UylXYPAXpU6Ohpm2Y8Ad5"
+      },
+      "artists": [
+        {
+          "name": "Agato",
+          "url": "https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz"
+        },
+        {
+          "name": "Dayo Lamar",
+          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168756,
+      "name": "DJAKOTO",
+      "url": "https://open.spotify.com/track/4bbLwc6FSnibrV6iZeJ2hM"
     },
     {
       "album": {
@@ -1264,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "M\u00f4k\u00f4d\u00f4",
+        "url": "https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218824,
+      "name": "M\u00f4k\u00f4d\u00f4",
+      "url": "https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h"
+    },
+    {
+      "album": {
         "name": "Nanakafra",
         "url": "https://open.spotify.com/album/5MMCy49BKCbOuale1Pc6Cs"
       },
@@ -1359,7 +1417,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 201734,
       "name": "Ouvrez",
       "url": "https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm"
@@ -1635,7 +1693,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 215294,
       "name": "Touche ici",
       "url": "https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU"

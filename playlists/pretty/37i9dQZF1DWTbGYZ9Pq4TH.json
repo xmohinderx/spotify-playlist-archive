@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 159504,
+  "num_followers": 159539,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDE4MDk1ZDdjMGJhYzU5Y2MxMjQ0NDJjYzRiY2NkYzdj",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGIwZTU5MDI5YzJmOTE2YTBkZjBhMzEzZDI5MzdiYjM1",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "VASCONONSTOP",
         "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 253733,
       "name": "Come Nelle Favole",
       "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2021-09-26 18:38:53",

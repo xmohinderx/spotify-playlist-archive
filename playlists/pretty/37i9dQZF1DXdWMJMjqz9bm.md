@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,214 likes - 58 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,320 likes - 58 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 10 | [League](https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [League](https://open.spotify.com/album/3salXEA3cRs0wZT3VLEWyf) | 2:43 |
 | 11 | [She Loves Me Not](https://open.spotify.com/track/5OGs76lkPNEcoSgoj3gUFK) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [She Loves Me Not](https://open.spotify.com/album/7FcTfHu4oJn91APGixkK4o) | 3:30 |
 | 12 | [Stay In Bed](https://open.spotify.com/track/55Q0OpbUmbqg6cSwRbOG2O) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stay In Bed](https://open.spotify.com/album/2GZ26dBt4GANEBgeV5oXFV) | 2:30 |
-| 13 | [Tokyo Drift](https://open.spotify.com/track/76A5wgXcn1uFnm2U1NfKMM) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tokyo Drift](https://open.spotify.com/album/3D0aMA56sQOTU4HpbAqQvS) | 2:21 |
+| 13 | [Tokyo Drift](https://open.spotify.com/track/6X2S7ZNj1z8EoUa14uzdJF) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tokyo Drift](https://open.spotify.com/album/1TgRgw9PAFAYqWw8PH9298) | 2:21 |
 | 14 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 |
 | 15 | [3, 2, 1](https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:11 |
 | 16 | [Fine](https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Fine](https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg) | 2:30 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 57 | [Floats My Boat](https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [The Bright Side](https://open.spotify.com/album/3p6L2cN8kt6nOVL1TUtPWZ) | 3:26 |
 | 58 | [rewind](https://open.spotify.com/track/66orvVes79w0dZao9ZIw97) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY), [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [rewind](https://open.spotify.com/album/1bHhbJVvzqeKTKNEK2aU8T) | 2:20 |
 
-Snapshot ID: `MTY3MDAwMDQwMCwwMDAwMDAwMDYyYjU0ZDdmYzM4ZTVkNzVjMjkyNzcyOGYwNDA3MzRh`
+Snapshot ID: `MTY3MDAwMDQwMCwwMDAwMDAwMDIwOGViNTM2ZDJhMzJhMmUzYWI5MDczMDQ3ZDA0YmZk`

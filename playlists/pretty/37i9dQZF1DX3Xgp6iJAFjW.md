@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,291 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,362 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

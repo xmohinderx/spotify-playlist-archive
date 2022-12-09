@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain](/playlists/plain/098hVwvAVYKJZd5kTwm9Ra) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/098hVwvAVYKJZd5kTwm9Ra)
 
-### [BBQ 2022: Summer Party Classics](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
+### [BBQ 2023: Summer Party Classics](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 
 > Summer BBQ essentials featuring Classic Rock, Yacht Rock, and Country favorites from Travis Tritt, Hall &amp; Oates, Luke Combs, Bruce Springsteen, and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 60,835 likes - 105 songs - 6 hr 44 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 60,833 likes - 105 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 | 104 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 105 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 |
 
-Snapshot ID: `ODE2LDhjYWE0OThjMmI3ZWMyYjIyYTRjMjJkZGQ4MjIyMjNlZmQ4YjA2MGQ=`
+Snapshot ID: `ODE3LGY3MjU2M2RhYTQ5NjM2OWVlZDcyZDI3MzRkMjAzMzI2MmY0MjE0ZGU=`

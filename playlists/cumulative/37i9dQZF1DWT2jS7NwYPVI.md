@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Kailee Morgue
 
-1,009 songs - 2 day 5 hr 34 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+1,010 songs - 2 day 5 hr 37 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,6 +780,7 @@
 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 | 2022-09-08 | 2022-11-12 |
 | [Serious](https://open.spotify.com/track/4yidnLZ5PprgDlK2hxP8U9) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Heart Eater](https://open.spotify.com/album/0kRUwtTUfl40ftsYlxJg8V) | 2:47 | 2022-06-10 | 2022-07-23 |
 | [Seven White Horses](https://open.spotify.com/track/6GRdjS6T0xO677c0h8rfj6) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Seven White Horses](https://open.spotify.com/album/4357uAusMjqy9RGD7UI2We) | 3:40 | 2022-02-18 | 2022-04-02 |
+| [SEXOXO \(feat\. Charlotte Sands\)](https://open.spotify.com/track/14jOp5iY2t2I9r6wEhJxh7) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [SEXOXO \(feat\. Charlotte Sands\)](https://open.spotify.com/album/0AumOZhTpHYeL1HxNQGokC) | 2:38 | 2022-12-02 |  |
 | [Shapes](https://open.spotify.com/track/52drSnHzQSFD70z2EipOIs) | [Alex Jayne](https://open.spotify.com/artist/5p7W8I9YbVzXbZt827Ot24) | [The Blue](https://open.spotify.com/album/1XaDJSTnBrDnh0fDWkbGz5) | 3:10 | 2021-11-19 | 2022-02-26 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-04-02 |
 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-06 | 2022-05-28 |

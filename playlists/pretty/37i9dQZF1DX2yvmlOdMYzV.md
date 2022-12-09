@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,682 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,155 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 87 | [Easy Baby](https://open.spotify.com/track/3trAHivkszyC0kFTGQ7Bf4) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/0x7hOg2zE7GSphEDmwI7Ct) | 3:19 |
 | 88 | [Buying Time](https://open.spotify.com/track/3Yt0liwMgB3I0xv3FQBDzI) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Buying Time](https://open.spotify.com/album/4w2JvzBwaKaYBdLWeepWI3) | 3:56 |
 | 89 | [Lava/Treacle](https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k) | 3:21 |
-| 90 | [No Romance](https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [No Romance](https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet) | 3:57 |
-| 91 | [Loverboy](https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22) | 3:58 |
+| 90 | [Loverboy](https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22) | 3:58 |
+| 91 | [No Romance](https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [No Romance](https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet) | 3:57 |
 | 92 | [LăVĭNDŭR](https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [TheKAMAUU\-CASSETTE: ŭRTH GōLD](https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq) | 4:00 |
 | 93 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 |
 | 94 | [single \(on the weekend\)](https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Out The Window](https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp) | [Lo Village](https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi) | [Lost In America](https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T) | 3:52 |
 | 100 | [Please Don't Make Me Cry \- Jordan Rakei Remix](https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Please Don't Make Me Cry \(Jordan Rakei Remix\)](https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s) | 4:22 |
 
-Snapshot ID: `MTY2ODAyNDg2OCwwMDAwMDAwMDdkMWEwNGFmNzMxYzYxNGM0YjNjZjgzZjYwYjM3NTQ5`
+Snapshot ID: `MTY2ODAyNDg2OCwwMDAwMDAwMDc2NmJhMjQ0NjhjMzgyOGQ1NjYzODhkNGY2MTE0Yjgw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Ski Aggu",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Cloudy June",
   "name": "RADAR GSA",
   "published_playlist_ids": [
     "7r16QFa0iXKPXTVCB31T4J"
@@ -621,6 +621,24 @@
       "duration_ms": 125560,
       "name": "Daywalker",
       "url": "https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN"
+    },
+    {
+      "album": {
+        "name": "Devil Is A Woman",
+        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192491,
+      "name": "Devil Is A Woman",
+      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
     },
     {
       "album": {
@@ -1697,6 +1715,24 @@
       "duration_ms": 181880,
       "name": "mein Bestes",
       "url": "https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ"
+    },
+    {
+      "album": {
+        "name": "Mercurial Vapor",
+        "url": "https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Mercurial Vapor",
+      "url": "https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3"
     },
     {
       "album": {
@@ -2853,7 +2889,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 217351,
       "name": "Wer wir sind",
       "url": "https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL"

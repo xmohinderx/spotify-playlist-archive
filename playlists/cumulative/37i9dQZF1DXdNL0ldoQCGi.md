@@ -2,7 +2,7 @@
 
 ### [faz a trend](https://open.spotify.com/playlist/37i9dQZF1DXdNL0ldoQCGi)
 
-> sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então
+> sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
 237 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
 
@@ -45,7 +45,7 @@
 | [Bora Bill \( Speed Up \)](https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL) | [neri´s](https://open.spotify.com/artist/4xZLCFL4431VfYQAP7cffQ) | [Bora Bill \( Speed Up \)](https://open.spotify.com/album/4UwzWJtLo9CqnFkgxQJgpn) | 1:44 | 2022-10-27 |  |
 | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/track/37aYm4KlP3ZG78NrFFAT9O) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [Bernax](https://open.spotify.com/artist/71VXdKWeovwJtO5nzDQ7mt), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [Flow Key](https://open.spotify.com/artist/1qObxOBQWYkdfJhMGdMwmU) | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/album/1YpMz1WLeqmMr51EpGOczq) | 2:09 | 2022-10-18 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-05-25 | 2022-09-06 |
-| [Brasil Traz o Hexa](https://open.spotify.com/track/1giO8ocAf1xgTVseOGe4Pu) | [MC Andrewzinho](https://open.spotify.com/artist/4auVvYdQsQBJnkqsKTrcln), [Mc Luka VC](https://open.spotify.com/artist/5K7T1PEnLBZgcgtDqScI83) | [Brasil Traz o Hexa](https://open.spotify.com/album/2QYoTLr9yj45hlaaurv4TA) | 2:49 | 2022-11-28 |  |
+| [Brasil Traz o Hexa](https://open.spotify.com/track/1giO8ocAf1xgTVseOGe4Pu) | [MC Andrewzinho](https://open.spotify.com/artist/4auVvYdQsQBJnkqsKTrcln), [Mc Luka VC](https://open.spotify.com/artist/5K7T1PEnLBZgcgtDqScI83) | [Brasil Traz o Hexa](https://open.spotify.com/album/2QYoTLr9yj45hlaaurv4TA) | 2:49 | 2022-11-28 | 2022-12-09 |
 | [Cafajeste](https://open.spotify.com/track/2sqNPoXHyxWoLP1Jhoeirj) | [MC Cego Abusado](https://open.spotify.com/artist/656sFhsnTuJ79P7apmFSVc), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Cafajeste](https://open.spotify.com/album/3oNWLBkwPia3Qbap1KauRi) | 2:19 | 2022-07-22 | 2022-10-21 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-08-09 | 2022-10-18 |
 | [Carta pra Deus](https://open.spotify.com/track/6OeBK3dJroqoXOHZLitRpW) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Carta pra Deus](https://open.spotify.com/album/02VhIWlMpu9QwldivpcXWn) | 3:04 | 2022-11-28 |  |

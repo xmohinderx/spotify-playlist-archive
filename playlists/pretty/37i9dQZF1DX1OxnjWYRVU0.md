@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,175 likes - 348 songs - 15 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,285 likes - 348 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 113 | [Ready To Let Go](https://open.spotify.com/track/281Ohr3epWom0NgYyTXshi) | [John Wolfcub](https://open.spotify.com/artist/5V8x1ZKfWI0eqZ5ejRBD9G), [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [Ready To Let Go](https://open.spotify.com/album/41G6NVgFdSr0ayTJCVJart) | 2:32 |
 | 114 | [Bette Davis Eyes](https://open.spotify.com/track/3EvFpQWu8rHgcVj07IgIVU) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Chris Deelay](https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5) | [Bette Davis Eyes](https://open.spotify.com/album/013qC49DCJHQsEIHGEHdM3) | 2:30 |
 | 115 | [Killing Me Softly](https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Killing Me Softly](https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk) | 2:39 |
-| 116 | [My Pony](https://open.spotify.com/track/6Qpm8XBZ0CrASw7cTMap99) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/6Z8k55chq0AjqaYbaMX2tp) | 2:33 |
+| 116 | [My Pony](https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9) | 2:33 |
 | 117 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/3BcgUbNS733rOBHMM5GiYu) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/album/7jedHzG94U9F5SFw9Q2XG1) | 2:10 |
 | 118 | [Music Sounds Better with You](https://open.spotify.com/track/1djIwYoEhJj8xvcFeq2mWz) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Music Sounds Better with You](https://open.spotify.com/album/035YWVXzYCTD4ImhwCynSk) | 2:10 |
 | 119 | [Tom's Diner](https://open.spotify.com/track/4Bt0fSAXUzDUAVy4MSjlnD) | [SMYLES](https://open.spotify.com/artist/7bCRnTi1yDFfLbDFkMqvaS) | [Tom's Diner](https://open.spotify.com/album/0yo7vZCRuFxmNdOnpkjVx0) | 2:48 |
@@ -322,7 +322,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 312 | [Blinding Lights](https://open.spotify.com/track/66aLYqfvz73VZUzkMQWdjA) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Blinding Lights](https://open.spotify.com/album/0OP9fl7ffVZFOK8RR4oJEL) | 2:03 |
 | 313 | [Closer](https://open.spotify.com/track/0y2CKjAadr34BfLNmjnWBx) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Svniivan](https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx), [Salvo](https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b) | [Closer](https://open.spotify.com/album/3IoOUoMYD1Pnzx4b992Zz3) | 2:20 |
 | 314 | [Don't Cha](https://open.spotify.com/track/0cBiKF1yvX5h9MjMnEUgKz) | [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS), [Selda](https://open.spotify.com/artist/3RF4iwqcO3NmbIus4CFku7), [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [Don't Cha](https://open.spotify.com/album/4QDeuTip8xF9pr9WCDkRgj) | 2:44 |
-| 315 | [Smells Like Teen Spirit](https://open.spotify.com/track/1m59435sSAVd0F9TfZLoaQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Smells Like Teen Spirit](https://open.spotify.com/album/1105qdvAcKwTUZM3nduL2c) | 2:33 |
+| 315 | [Smells Like Teen Spirit](https://open.spotify.com/track/01T0m32L0lgGS8EJTbN26x) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Smells Like Teen Spirit](https://open.spotify.com/album/4HQc7ObB0Yj5JHRfymTEjC) | 2:33 |
 | 316 | [I Wanna Know What Love Is](https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD) | [I Wanna Know What Love Is](https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X) | 2:51 |
 | 317 | [Beggin'](https://open.spotify.com/track/7lysE3iheU4lE6FdTZdZAa) | [Dame Dame](https://open.spotify.com/artist/12Jp4jInGELGsN5jydIbx5), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Beggin'](https://open.spotify.com/album/2S4Xb7sAjBNUuSvJWPszUT) | 2:28 |
 | 318 | [Circles](https://open.spotify.com/track/3vD4vnefLVNNaYIIPxS6nm) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Bluckther](https://open.spotify.com/artist/6iPD95GXysz0X96JtbGej6) | [Circles](https://open.spotify.com/album/53peOywgNGveKVpzzVfOsZ) | 2:52 |
@@ -357,4 +357,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 347 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 348 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMDk0OTUxMGU3YWQzYzVmNWQ2MGMyZDk0YjNhNzU3MTEw`
+Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGY4ZTYxZmQzNWVjOGIyOTY2N2ZmMGI4OTkzZWFhODU3`

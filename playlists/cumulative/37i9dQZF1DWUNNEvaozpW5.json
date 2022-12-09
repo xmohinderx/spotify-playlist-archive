@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "Entre las dudas y el azar",
+        "url": "https://open.spotify.com/album/5expex0cGvBl9uKBs5ZFF3"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252648,
+      "name": "Bailemos - On The Road",
+      "url": "https://open.spotify.com/track/0VuqnABiEQSLzVY1N3sm4v"
+    },
+    {
+      "album": {
         "name": "Mi Vida en Marte",
         "url": "https://open.spotify.com/album/6hOAD63p0gtDZ25wl7qGZ6"
       },
@@ -903,7 +921,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 196731,
       "name": "Cu\u00e9ntame Otra Vez",
       "url": "https://open.spotify.com/track/1b6WPcxprk5UnOQMjG53VU"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 276360,
       "name": "Devil Came to Me",
       "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 293533,
       "name": "El ritmo del garaje",
       "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 327111,
       "name": "Escucha mi voz",
       "url": "https://open.spotify.com/track/7r7tT7IyS0tpSLZxQUsgGf"
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 229772,
       "name": "Mirando Al Precipicio",
       "url": "https://open.spotify.com/track/26mXqEPGzrltvJfBn9vycx"
@@ -3167,7 +3185,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 305253,
       "name": "Que se joda el viento",
       "url": "https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx"
@@ -3957,7 +3975,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 165184,
       "name": "\u00cdcaros",
       "url": "https://open.spotify.com/track/79CTR3WOnaW3XzDQPdIfQh"

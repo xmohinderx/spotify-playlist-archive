@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,883 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,268 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 79 | [Tuxedo Junction](https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc) | [The Manhattan Transfer](https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx) | 3:05 |
 | 80 | [It Had To Be You](https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Music For Torching](https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY) | 4:03 |
 | 81 | [Dream A Little Dream Of Me \- 1998 Remaster](https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 3:15 |
-| 82 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
-| 83 | [Can't Take My Eyes Off You](https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Love, Andy](https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe) | 3:13 |
+| 82 | [Misty](https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:02 |
+| 83 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
 | 84 | [Someone To Watch Over Me](https://open.spotify.com/track/1JCfjUbHzl17ngrOEaS1R2) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook](https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg) | 3:32 |
-| 85 | [All The Things You Are](https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Moonlight Serenade](https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO) | 3:49 |
-| 86 | [Misty](https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:02 |
+| 85 | [Can't Take My Eyes Off You](https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Love, Andy](https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe) | 3:13 |
+| 86 | [All The Things You Are](https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Moonlight Serenade](https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO) | 3:49 |
 | 87 | [Recipe For Love](https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:34 |
 | 88 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Mono Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
 | 89 | [Let's Fall In Love](https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [To Ella With Love](https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 99 | [I've Got The World On A String](https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:12 |
 | 100 | [First Time Ever I Saw Your Face](https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:22 |
 
-Snapshot ID: `MTY2OTc5NTQxMiwwMDAwMDAwMDk4ZWE2ZGNlY2ZmY2IzOTRlYzJjMGMwYzM3NjRkY2U5`
+Snapshot ID: `MTY2OTc5NTQxMiwwMDAwMDAwMDc1YmZjYjcyNWRlOWE2YjQzY2JkYzQ4YjE3ZThkNDRi`

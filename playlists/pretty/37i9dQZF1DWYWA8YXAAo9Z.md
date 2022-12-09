@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,426 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,509 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 10 | [Iniziare](https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Iniziare](https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S) | 5:42 |
 | 11 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 |
 | 12 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
-| 13 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
-| 14 | [Efflorescence](https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Languid Gongue](https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s) | 5:30 |
+| 13 | [Efflorescence](https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Languid Gongue](https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s) | 5:30 |
+| 14 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
 | 15 | [Contemplation](https://open.spotify.com/track/7u0wxI7hL1kBcy5U9w7eQt) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Contemplation](https://open.spotify.com/album/6F1ZQwSBrF6trhQyt4XTCc) | 5:51 |
 | 16 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 |
 | 17 | [A Minor Astronomical Event](https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg), [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Last And First Men](https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 |
 | 75 | [Sleep to Dream](https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Sleep to Dream](https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej) | 4:23 |
 
-Snapshot ID: `MTY2NDg5Mjg2OCwwMDAwMDAwMDVmNzA1NjY2NDU0MWNmZWY5NTk2YTg0NDlkYjdlZjBm`
+Snapshot ID: `MTY2NDg5Mjg2OCwwMDAwMDAwMGZlMzc5MWFjNTFkZjExNjU5MGYwMWY1NDkzYzEwZjFj`

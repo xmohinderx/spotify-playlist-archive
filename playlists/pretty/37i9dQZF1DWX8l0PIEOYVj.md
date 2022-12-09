@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: Awakend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,470 likes - 150 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,560 likes - 150 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 123 | [Here & Now \(Holding On\)](https://open.spotify.com/track/6CixeFGuC6v6scnGWFvIiD) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Here & Now](https://open.spotify.com/album/6QRUf7H4GVlTNT42e8SWKG) | 3:35 |
 | 124 | [Losing My Mind](https://open.spotify.com/track/2kXvk84Udu5hCOizgQCBmU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Losing My Mind](https://open.spotify.com/album/5tEMN11A8LyAzummT8irHV) | 3:12 |
 | 125 | [Wisdom \- Amidy Remix](https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Wisdom \(Amidy Remix\)](https://open.spotify.com/album/3lHlijAOHgMQTPoVDZapdp) | 3:50 |
-| 126 | [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 |
-| 127 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 |
+| 126 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 |
+| 127 | [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 |
 | 128 | [Dodgeball](https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Dodgeball](https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N) | 3:07 |
 | 129 | [Drown \- Blanke Remix](https://open.spotify.com/track/06lTnA61hL6EWnhVx6B0SL) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Drown/Holding On \(Remixes\)](https://open.spotify.com/album/6Hs3Ge3zoT6G75akPaB27p) | 4:31 |
 | 130 | [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 139 | [Breakthrough](https://open.spotify.com/track/32ohfXjRAJoj43Jgtm02cP) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Breakthrough](https://open.spotify.com/album/3wDZeVyPFa6gindhyvg6bT) | 4:48 |
 | 140 | [Wouldn't Know You](https://open.spotify.com/track/5kcINRPrvnCXz70ugncJIm) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Wouldn't Know You](https://open.spotify.com/album/3fsqNYiIX7BYog5tQv7QBK) | 4:24 |
 | 141 | [Shade Of You](https://open.spotify.com/track/2g9PlldHP7cC3r16MKtnhz) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [babe.](https://open.spotify.com/artist/4xwYGndh0PMxCyHoEqfQrR), [Kevin Wolfe](https://open.spotify.com/artist/01OdywknBPG3zeBzzXktIV) | [Shade Of You](https://open.spotify.com/album/73RzS1Cl0A6Mvs7zbvz21v) | 3:41 |
-| 142 | [Tattoo](https://open.spotify.com/track/7pelNkiKHA7fCjeKYeFMuq) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Tattoo](https://open.spotify.com/album/3AeKCooUWU0nQuyxfSZJ7m) | 3:52 |
-| 143 | [Awaken](https://open.spotify.com/track/6cXUM8nvtbs9rsn1IPVtZB) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Awaken](https://open.spotify.com/album/2umbvECEkmXv27TTDi1z0B) | 6:27 |
+| 142 | [Awaken](https://open.spotify.com/track/6cXUM8nvtbs9rsn1IPVtZB) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Awaken](https://open.spotify.com/album/2umbvECEkmXv27TTDi1z0B) | 6:27 |
+| 143 | [Tattoo](https://open.spotify.com/track/7pelNkiKHA7fCjeKYeFMuq) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Tattoo](https://open.spotify.com/album/3AeKCooUWU0nQuyxfSZJ7m) | 3:52 |
 | 144 | [Out of Love](https://open.spotify.com/track/6w2qrr2ir08VtisKOh8n4P) | [Arcane](https://open.spotify.com/artist/4dj24SyTs5oxqWmTuQE8hn) | [Out of Love](https://open.spotify.com/album/1ucsmQ2EYTjnFdf5B9dzU2) | 3:46 |
 | 145 | [Save My Life](https://open.spotify.com/track/0moeK5tOpJoI8AjAL8cl6b) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Save My Life](https://open.spotify.com/album/2shntfpFRCftNG6T52EPs0) | 4:08 |
 | 146 | [UNKNOWN](https://open.spotify.com/track/2bm1bTyHpIRq7KPfOO3ToN) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [UNKNOWN](https://open.spotify.com/album/4NIcFYkYS4PkWjwXjJDjwP) | 3:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [It's All You](https://open.spotify.com/track/4IVpkOqPbxS3kIllPE3pDl) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [It's All You](https://open.spotify.com/album/3PJHOz8SBtwsQxjbKLqLne) | 3:16 |
 | 150 | [Higher Than Heaven](https://open.spotify.com/track/6UdWxz9fpHsd1l7epg4jyH) | [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Higher Than Heaven](https://open.spotify.com/album/4aJ8OzxXJGc9aZzIwIEzjx) | 4:51 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGZjMzRiNTc0Y2ZiNDg1NDIwMjJmMDQ3MGE4ZTYwYTgw`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDY5YjJiZjcwZjY4YjRkY2U3MDA2OGM2NTM4YTc0YzI0`

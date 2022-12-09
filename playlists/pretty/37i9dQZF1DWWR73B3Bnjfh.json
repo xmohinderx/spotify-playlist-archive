@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 62576,
+  "num_followers": 62715,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQwNjc4MCwwMDAwMDAwMGYzYTQ1YmVhYmJhYjFjMTRjYWQ2MTAzZGM2MmU3NjJj",
+  "snapshot_id": "MTY3MDQwNjc4MCwwMDAwMDAwMGZmODAwOWZiM2Y1NmM2NGQ0ZGE5ODM1OTE5NWYyMDFl",
   "tracks": [
     {
       "added_at": "2022-12-01 13:28:03",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-12-01 13:28:03",
       "album": {
-        "name": "All Kinds Of Weather",
-        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 635266,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu"
-    },
-    {
-      "added_at": "2022-12-01 13:28:03",
-      "album": {
         "name": "Sonny Rollins With The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 197893,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL"
+    },
+    {
+      "added_at": "2022-12-01 13:28:03",
+      "album": {
+        "name": "All Kinds Of Weather",
+        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 635266,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu"
     },
     {
       "added_at": "2022-12-01 13:28:03",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2022-12-01 13:28:03",
       "album": {
+        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 252893,
+      "name": "Prisoner Of Love",
+      "url": "https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6"
+    },
+    {
+      "added_at": "2022-12-01 13:28:03",
+      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 426800,
       "name": "Virgo - Remastered 2004",
       "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
-    },
-    {
-      "added_at": "2022-12-01 13:28:03",
-      "album": {
-        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 252893,
-      "name": "Prisoner Of Love",
-      "url": "https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6"
     },
     {
       "added_at": "2022-12-01 13:28:03",
@@ -1247,7 +1247,7 @@
     {
       "added_at": "2022-12-01 13:28:03",
       "album": {
-        "name": "E.S.P.",
+        "name": "E.S.P. (2022 Remaster)",
         "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
       },
       "artists": [
@@ -1256,8 +1256,8 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 530040,
-      "name": "Mood",
+      "duration_ms": 529360,
+      "name": "Mood - 2022 Remaster",
       "url": "https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni"
     },
     {

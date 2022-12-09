@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,139 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,408 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 28 | [Blast Off](https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:44 |
 | 29 | [Rome](https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:38 |
 | 30 | [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 |
-| 31 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 |
-| 32 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 |
+| 31 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 |
+| 32 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 |
 | 33 | [Stay Away](https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:11 |
-| 34 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 |
-| 35 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 |
+| 34 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 |
+| 35 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 |
 | 36 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 |
 | 37 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
 | 38 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 49 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 |
 | 50 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 |
 | 51 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
-| 52 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
-| 53 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 |
+| 52 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 |
+| 53 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 54 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 |
 | 55 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
 | 56 | [Hear Me](https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l) | [The Buttshakers](https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ) | [Arcadia](https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv) | 2:36 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 62 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
 | 63 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 |
 | 64 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 |
-| 65 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 |
-| 66 | [I'm Broke](https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Tell 'Em What Your Name Is!](https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J) | 4:07 |
+| 65 | [I'm Broke](https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Tell 'Em What Your Name Is!](https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J) | 4:07 |
+| 66 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 |
 | 67 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 |
 | 68 | [It Rains Love](https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s) | 3:55 |
 | 69 | [Red To Violet \- Feat\. Jamila Woods](https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Red To Violet \(Feat\. Jamila Woods\)](https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv) | 3:22 |
 | 70 | [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDIwN2JmMTI2NTU5ZjYzYzdiOTk1ZmFmNjUyZmI0ZWZl`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDU4ZjBiMzBiMWViYTA4ZGViNmFlN2VkNTUwNjNiMDQy`

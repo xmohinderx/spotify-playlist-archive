@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul
 
-318 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
+319 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Almond Eyes](https://open.spotify.com/track/1sTk2DB9Gc4pOjfvwkzEwA) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:54 | 2022-01-13 | 2022-07-25 |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2021-12-23 | 2022-07-29 |
 | [Alone In Kenzo](https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Alone In Kenzo](https://open.spotify.com/album/74g3j5vCv02I7TBn8FLgt1) | 3:18 | 2022-02-10 | 2022-07-21 |
+| [Apply Pressure](https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 3:14 | 2022-12-09 |  |
 | [Are You Feeling Sad?](https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 2:38 | 2021-12-23 | 2022-06-12 |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2021-12-23 | 2022-07-29 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-23 | 2022-04-30 |
@@ -214,7 +215,7 @@
 | [Scars](https://open.spotify.com/track/1EdktpB83X3KfUavH6Vf7b) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Scars](https://open.spotify.com/album/0yPPQFsu18ZvricvGcULjZ) | 3:50 | 2021-12-23 | 2022-07-29 |
 | [Seasons \(feat\. Nenashi\)](https://open.spotify.com/track/3IrBRRFdG4aPWAoGllIqHU) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Seasons \(feat\. Nenashi\)](https://open.spotify.com/album/1vHS4sfFRx5XmNiIz07TJO) | 3:25 | 2022-03-24 | 2022-06-18 |
 | [Self Voodoo](https://open.spotify.com/track/3bzXiqsNRSLNBpFNRM4l0a) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [Self Voodoo](https://open.spotify.com/album/2etUfe2zN46ky5EFNY4j6T) | 2:49 | 2022-10-27 | 2022-11-21 |
-| [Self Voodoo](https://open.spotify.com/track/7BlWbTMkXIFiIgewaTQqf1) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [All Rivers](https://open.spotify.com/album/4sE9YpuUHkoVFQrsN7NTTx) | 2:49 | 2022-11-17 |  |
+| [Self Voodoo](https://open.spotify.com/track/7BlWbTMkXIFiIgewaTQqf1) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [All Rivers](https://open.spotify.com/album/4sE9YpuUHkoVFQrsN7NTTx) | 2:49 | 2022-11-17 | 2022-12-09 |
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2021-12-23 | 2022-07-27 |
 | [Sentiment](https://open.spotify.com/track/5F7shYRRh82Ikcjija4wqd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/6F8hynSC3oLBpTqcdSjK8a) | 3:53 | 2022-07-28 |  |
 | [Sentiment](https://open.spotify.com/track/6nxO1eTD64Dodjy04YMJCF) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/0iKRPPeWPnsP6Ft48G10P9) | 3:53 | 2022-02-24 | 2022-07-29 |

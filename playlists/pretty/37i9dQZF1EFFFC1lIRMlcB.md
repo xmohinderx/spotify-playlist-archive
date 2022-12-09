@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 44 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 155 likes - 44 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 37 | [Love Is Freedom](https://open.spotify.com/track/6p9cYLrniQ4pAZ56OIhMyD) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/0M3bbKDlJTgoamzhhGcuEj) | [Now Generation](https://open.spotify.com/album/44c0hwLagKXQwphCoNvd4G) | 2:58 |
 | 38 | [Revelation Time](https://open.spotify.com/track/0UE3tQRTgGM22VndcQ3BV1) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/0M3bbKDlJTgoamzhhGcuEj) | [Now Generation](https://open.spotify.com/album/44c0hwLagKXQwphCoNvd4G) | 2:28 |
 | 39 | [Canção do Sofredor](https://open.spotify.com/track/32Oof8GtfJQpn2PI8Y4sxM) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Gabriel Jah\-B And Friends](https://open.spotify.com/album/3EMmKWD1sINexO2NCYfcTX) | 3:00 |
-| 40 | [Violão da Rainha](https://open.spotify.com/track/7w9oTgr4s01YSHpgXJ0uJA) | [Lucas Serra](https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 2:07 |
-| 41 | [Sonho de Luzia](https://open.spotify.com/track/3hHgIJsmwuQNxhvRuCe8QI) | [Lucas Serra](https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 3:07 |
-| 42 | [Salve São Benedito](https://open.spotify.com/track/7ivINTbIxp8XYoKdn3fkcc) | [Lucas Serra](https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Sabá Tuk](https://open.spotify.com/artist/7D43g6cTKxRYi0XyB1hVWP), [Cacau Amaral](https://open.spotify.com/artist/1EaIuszbvSA8FHagJzeSPC) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 1:52 |
+| 40 | [Violão da Rainha](https://open.spotify.com/track/7w9oTgr4s01YSHpgXJ0uJA) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Lucas Serra](https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 2:07 |
+| 41 | [Sonho de Luzia](https://open.spotify.com/track/3hHgIJsmwuQNxhvRuCe8QI) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 3:07 |
+| 42 | [Salve São Benedito](https://open.spotify.com/track/7ivINTbIxp8XYoKdn3fkcc) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Sabá Tuk](https://open.spotify.com/artist/7D43g6cTKxRYi0XyB1hVWP), [Cacau Amaral](https://open.spotify.com/artist/1EaIuszbvSA8FHagJzeSPC) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 1:52 |
 | 43 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 44 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `Mjc4NDEwMjgsMDAwMDAwMDAzNjNmN2Q1YzBkZmI5YjMxZTNjMGU0MWI2MzIxNWU5ZQ==`
+Snapshot ID: `Mjc4NDI0NjgsMDAwMDAwMDAzMjdiYTY4MzJhNjdlYWVmNDE0ZjAyNGY0YjQxODNlNA==`

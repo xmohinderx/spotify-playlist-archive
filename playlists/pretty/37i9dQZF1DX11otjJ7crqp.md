@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,412 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,478 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 36 | [Till The Wheels Fall Off](https://open.spotify.com/track/2m54jWFyOUYfV6p9H6hS5O) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Till The Wheels Fall Off](https://open.spotify.com/album/4LZPNrjqoB6BPFq64FZREi) | 2:34 |
 | 37 | [Sunny D](https://open.spotify.com/track/6RfuWRctUik5CiwnIajDVB) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Penny](https://open.spotify.com/album/7L0E6vv8DPyAUirVSwSJNW) | 3:42 |
 | 38 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
-| 39 | [Stacy's Brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Stacy's Brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 |
+| 39 | [stacy's brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [stacy's brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 |
 | 40 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 |
-| 41 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
+| 41 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
 | 42 | [Prophecies](https://open.spotify.com/track/4Et7m1pazErkSegnrBNXkF) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Poetic License](https://open.spotify.com/album/7G2Dh8OsAMclQAWIShyb7v) | 3:14 |
 | 43 | [Skeleton Key](https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Skeleton Key](https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q) | 2:59 |
 | 44 | [gatsby](https://open.spotify.com/track/2hipy2clvSABJBb7tR3EtW) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [gatsby](https://open.spotify.com/album/7oPPxed87G1XpQgwwacq5t) | 2:57 |

@@ -1,12 +1,12 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH?si=hCefZN53S1K6CryNueC4-g\">Vigro Deep</a>",
-  "num_followers": 383353,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=OU5FKH36SwOa-SIJy8IJ5Q\">Kelvin Momo</a>",
+  "num_followers": 383977,
   "original_name": "AMAPIANO grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQxMDM1NywwMDAwMDAwMGZkN2E4MDhmNmRhMzBmYTM5ODY5Mjc0ZjI0MmQ5ODMy",
+  "snapshot_id": "MTY3MDUzNjc0MCwwMDAwMDAwMGE0MzY0ZDE1ZjJmZDg3YmMzMzEwZmEyOGExYTk0OGVi",
   "tracks": [
     {
       "added_at": "2022-11-14 09:59:12",
@@ -73,24 +73,32 @@
       "url": "https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f"
     },
     {
-      "added_at": "2022-12-01 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Petori to Ibiza",
-        "url": "https://open.spotify.com/album/1n5pL6o9eU2QSqDgX1H7mN"
+        "name": "Amukelani",
+        "url": "https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO"
       },
       "artists": [
         {
-          "name": "Vigro Deep",
-          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
         },
         {
-          "name": "M.J",
-          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3oOAMuUj7cH3RIsLCyYVD1"
+        },
+        {
+          "name": "S.O.N",
+          "url": "https://open.spotify.com/artist/0I5rNJv2Bldivd8UjTGlQ6"
+        },
+        {
+          "name": "Jay Sax",
+          "url": "https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC"
         }
       ],
-      "duration_ms": 356846,
-      "name": "Petori to Ibiza",
-      "url": "https://open.spotify.com/track/0SmNdAOahqeFZ2XdLZZToc"
+      "duration_ms": 475651,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/1X1IDV1HeEMqpPkKnt1Srx"
     },
     {
       "added_at": "2022-11-07 11:54:27",
@@ -187,6 +195,26 @@
       "duration_ms": 433710,
       "name": "Kulula",
       "url": "https://open.spotify.com/track/1FBzFZKTutmVoQuQCfVfCW"
+    },
+    {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "Petori to Ibiza",
+        "url": "https://open.spotify.com/album/1n5pL6o9eU2QSqDgX1H7mN"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        }
+      ],
+      "duration_ms": 356846,
+      "name": "Petori to Ibiza",
+      "url": "https://open.spotify.com/track/0SmNdAOahqeFZ2XdLZZToc"
     },
     {
       "added_at": "2022-09-26 09:40:56",
@@ -289,6 +317,26 @@
       "url": "https://open.spotify.com/track/3PdO57q0KLWkfWXsXQJlV6"
     },
     {
+      "added_at": "2022-11-07 11:54:27",
+      "album": {
+        "name": "Thokoza",
+        "url": "https://open.spotify.com/album/2JDTorcc8J7HJS7POONsKd"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "duration_ms": 382300,
+      "name": "Thokoza",
+      "url": "https://open.spotify.com/track/30sDS4E23SZCd95dhXlGlU"
+    },
+    {
       "added_at": "2022-11-24 22:08:00",
       "album": {
         "name": "Whats Real",
@@ -327,26 +375,6 @@
     {
       "added_at": "2022-11-07 11:54:27",
       "album": {
-        "name": "Thokoza",
-        "url": "https://open.spotify.com/album/2JDTorcc8J7HJS7POONsKd"
-      },
-      "artists": [
-        {
-          "name": "Sam Deep",
-          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
-        },
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        }
-      ],
-      "duration_ms": 382300,
-      "name": "Thokoza",
-      "url": "https://open.spotify.com/track/30sDS4E23SZCd95dhXlGlU"
-    },
-    {
-      "added_at": "2022-11-07 11:54:27",
-      "album": {
         "name": "STOP n GO",
         "url": "https://open.spotify.com/album/62cRkfiKh54HpLnSsey7Sq"
       },
@@ -359,6 +387,94 @@
       "duration_ms": 353541,
       "name": "STOP n GO",
       "url": "https://open.spotify.com/track/1e4kVDvQEnCXmwIyRnQ9Sp"
+    },
+    {
+      "added_at": "2022-10-27 21:59:00",
+      "album": {
+        "name": "iSlomo",
+        "url": "https://open.spotify.com/album/3WobjowzXVzt1HwB9fBt0O"
+      },
+      "artists": [
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        },
+        {
+          "name": "Gaba Cannal",
+          "url": "https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Undenza Ntoni",
+      "url": "https://open.spotify.com/track/15jFSmRCXoty810W72t7KX"
+    },
+    {
+      "added_at": "2022-09-30 14:53:41",
+      "album": {
+        "name": "Waga Bietjie",
+        "url": "https://open.spotify.com/album/2TyOzlPqEocMb1YFTMxF48"
+      },
+      "artists": [
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 291428,
+      "name": "Waga Bietjie",
+      "url": "https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr"
+    },
+    {
+      "added_at": "2022-10-27 21:59:00",
+      "album": {
+        "name": "Fatela",
+        "url": "https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY"
+      },
+      "artists": [
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 351450,
+      "name": "Fatela",
+      "url": "https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV"
+    },
+    {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "Horumar",
+        "url": "https://open.spotify.com/album/5DKK3bppRikBo6LJtsoVWU"
+      },
+      "artists": [
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        },
+        {
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 411031,
+      "name": "Hlasela",
+      "url": "https://open.spotify.com/track/347E2jDWE8ynImZjukXfUc"
     },
     {
       "added_at": "2022-12-01 21:59:00",
@@ -395,74 +511,6 @@
       "duration_ms": 454626,
       "name": "Van Damme (feat. BoontleRSA, Tye Waves, K.O.B SA, Skizo & Novatron)",
       "url": "https://open.spotify.com/track/7g8FARcGxrgjP4egsAcxym"
-    },
-    {
-      "added_at": "2022-09-30 14:53:41",
-      "album": {
-        "name": "Waga Bietjie",
-        "url": "https://open.spotify.com/album/2TyOzlPqEocMb1YFTMxF48"
-      },
-      "artists": [
-        {
-          "name": "Pabi Cooper",
-          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "Waga Bietjie",
-      "url": "https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr"
-    },
-    {
-      "added_at": "2022-11-03 21:59:00",
-      "album": {
-        "name": "Horumar",
-        "url": "https://open.spotify.com/album/5DKK3bppRikBo6LJtsoVWU"
-      },
-      "artists": [
-        {
-          "name": "Murumba Pitch",
-          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
-        },
-        {
-          "name": "Da Muziqal Chef",
-          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 411031,
-      "name": "Hlasela",
-      "url": "https://open.spotify.com/track/347E2jDWE8ynImZjukXfUc"
-    },
-    {
-      "added_at": "2022-10-27 21:59:00",
-      "album": {
-        "name": "iSlomo",
-        "url": "https://open.spotify.com/album/3WobjowzXVzt1HwB9fBt0O"
-      },
-      "artists": [
-        {
-          "name": "Boohle",
-          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
-        },
-        {
-          "name": "Murumba Pitch",
-          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
-        },
-        {
-          "name": "Gaba Cannal",
-          "url": "https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Undenza Ntoni",
-      "url": "https://open.spotify.com/track/15jFSmRCXoty810W72t7KX"
     },
     {
       "added_at": "2022-07-21 21:59:00",
@@ -525,6 +573,42 @@
       "url": "https://open.spotify.com/track/0dHswGoIHgWfHSraVv9mnq"
     },
     {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "THATA USHAKA",
+        "url": "https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL"
+      },
+      "artists": [
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 373821,
+      "name": "Thata Ahh (feat. Young Stunna, Madumane & Tyla)",
+      "url": "https://open.spotify.com/track/1lp3GifJS4r6hE6vUCfBzS"
+    },
+    {
       "added_at": "2022-11-11 06:25:02",
       "album": {
         "name": "UYATHANDEKA",
@@ -551,26 +635,6 @@
       "duration_ms": 471478,
       "name": "UYATHANDEKA",
       "url": "https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1"
-    },
-    {
-      "added_at": "2022-10-27 21:59:00",
-      "album": {
-        "name": "Fatela",
-        "url": "https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY"
-      },
-      "artists": [
-        {
-          "name": "Aymos",
-          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 351450,
-      "name": "Fatela",
-      "url": "https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV"
     },
     {
       "added_at": "2022-11-07 11:54:27",
@@ -625,28 +689,32 @@
       "url": "https://open.spotify.com/track/4go61NeVENYitjqpXLFxHF"
     },
     {
-      "added_at": "2022-11-17 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "CANADA",
-        "url": "https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW"
+        "name": "PHOLAS",
+        "url": "https://open.spotify.com/album/1Aogwis2J4XzjqdBp444c3"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Uncle Vinny",
+          "url": "https://open.spotify.com/artist/2W7nPPpIexiZtYUFruBXBD"
         },
         {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
         },
         {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+          "name": "Thabsie",
+          "url": "https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3"
+        },
+        {
+          "name": "24",
+          "url": "https://open.spotify.com/artist/33WWwWs5cP0kp6ZFdnjoI7"
         }
       ],
-      "duration_ms": 247412,
-      "name": "CANADA",
-      "url": "https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv"
+      "duration_ms": 342466,
+      "name": "PHOLAS",
+      "url": "https://open.spotify.com/track/0NQOPVGuXgWlSS19uKF7S9"
     },
     {
       "added_at": "2022-10-27 21:59:00",
@@ -679,6 +747,46 @@
       "duration_ms": 428660,
       "name": "Tabela Hape",
       "url": "https://open.spotify.com/track/11ry8OpG4GDOt7fBOY3ZHZ"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Mzimba Shaker (Shukumis' Umzimba)",
+        "url": "https://open.spotify.com/album/60lRXhbnhQjqHZJmkBLqrO"
+      },
+      "artists": [
+        {
+          "name": "Chillibite",
+          "url": "https://open.spotify.com/artist/5XzCLDgWfv3t1oVlqaZMQq"
+        },
+        {
+          "name": "Lesmahlanyeng",
+          "url": "https://open.spotify.com/artist/7kWuLrjfBvON1eJq4yVfyf"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825"
+        },
+        {
+          "name": "Mayten",
+          "url": "https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K"
+        },
+        {
+          "name": "Stompiiey",
+          "url": "https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN"
+        },
+        {
+          "name": "Mr Brown",
+          "url": "https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr"
+        },
+        {
+          "name": "QuayR Musiq",
+          "url": "https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08"
+        }
+      ],
+      "duration_ms": 414798,
+      "name": "Mzimba Shaker (Shukumis' Umzimba)",
+      "url": "https://open.spotify.com/track/3qpLJlPaCZeIlMh6cFP3y6"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -793,32 +901,24 @@
       "url": "https://open.spotify.com/track/42XN9OznhtZNQ72GRM9nuc"
     },
     {
-      "added_at": "2022-11-24 22:08:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Azul '22",
-        "url": "https://open.spotify.com/album/0LMmqUmCmVQGYoxQGXHh8p"
+        "name": "My House My Rules",
+        "url": "https://open.spotify.com/album/5Wni1JvHGUZRUKiEeXUgYs"
       },
       "artists": [
         {
-          "name": "Ycee",
-          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
         },
         {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
-        },
-        {
-          "name": "Phantom Steeze",
-          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
-        },
-        {
-          "name": "Ma Gang Official",
-          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+          "name": "Senjay",
+          "url": "https://open.spotify.com/artist/1efM4QfrpfuBitDEQg5p26"
         }
       ],
-      "duration_ms": 241211,
-      "name": "Azul '22",
-      "url": "https://open.spotify.com/track/63Zz3bxDL27qxAb4KIuzAt"
+      "duration_ms": 385738,
+      "name": "Shukushuku",
+      "url": "https://open.spotify.com/track/2hNlc3hLf35mr7pA9vjgMG"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -847,6 +947,62 @@
       "duration_ms": 437142,
       "name": "Back2School (feat. Thabza Tee & LastBorn Diroba)",
       "url": "https://open.spotify.com/track/5ZurnORiHUnk92O7a0OTGH"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "We Batla Kae",
+        "url": "https://open.spotify.com/album/7vTSsDfwhKEhc3TlElVgbJ"
+      },
+      "artists": [
+        {
+          "name": "Major Keys",
+          "url": "https://open.spotify.com/artist/6tGXYcWxP5R6r8C5F0vl3c"
+        },
+        {
+          "name": "2.0 Worldwide",
+          "url": "https://open.spotify.com/artist/4gCBp9CiBWLVfMKhjUFWtS"
+        },
+        {
+          "name": "Don Edward",
+          "url": "https://open.spotify.com/artist/6gNTjBCS14naveIpUK7uhY"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        }
+      ],
+      "duration_ms": 351434,
+      "name": "We Batla Kae",
+      "url": "https://open.spotify.com/track/1o6GZTfEPlYcyhOReYEIMP"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Luminous Flame",
+        "url": "https://open.spotify.com/album/1hiPBZdZSpQTZCpNw92iIh"
+      },
+      "artists": [
+        {
+          "name": "KMAT",
+          "url": "https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/1bXft3LbQCC6OREdgzw0v1"
+        },
+        {
+          "name": "Stompiiey",
+          "url": "https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN"
+        }
+      ],
+      "duration_ms": 381434,
+      "name": "Bafuna Mina (feat. 2woshort & Stompiiey)",
+      "url": "https://open.spotify.com/track/7tK3IRqD7CTzW0u5lnzsGL"
     },
     {
       "added_at": "2022-11-07 11:54:27",
@@ -903,66 +1059,6 @@
     {
       "added_at": "2022-12-01 21:59:00",
       "album": {
-        "name": "Khumbul' Ekhaya",
-        "url": "https://open.spotify.com/album/1FDTai8JoXtlbkOatrYWCn"
-      },
-      "artists": [
-        {
-          "name": "KNOWLEY-D",
-          "url": "https://open.spotify.com/artist/4tY3pt1z6b3I5pdcROYVEV"
-        },
-        {
-          "name": "Busta 929",
-          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
-        },
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        }
-      ],
-      "duration_ms": 376946,
-      "name": "Khumbul' Ekhaya",
-      "url": "https://open.spotify.com/track/5j7LlcYQ6eh94TncKmIYes"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Mozambique (feat. 10x Guluva, Yung Silly Coon & PILLS)",
-        "url": "https://open.spotify.com/album/6jQrJD5qjoxVBBooTpHMEK"
-      },
-      "artists": [
-        {
-          "name": "Justin99",
-          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
-        },
-        {
-          "name": "Star'Jazz",
-          "url": "https://open.spotify.com/artist/5iSqsyNKGA6wZt74I9m0t4"
-        },
-        {
-          "name": "Mr JazziQ",
-          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
-        },
-        {
-          "name": "10x Guluva",
-          "url": "https://open.spotify.com/artist/6ERjd6Gp7PLOeLcYdo17mW"
-        },
-        {
-          "name": "Yung Silly Coon",
-          "url": "https://open.spotify.com/artist/008z8vzKUB32BQzute4ZIW"
-        },
-        {
-          "name": "Pills",
-          "url": "https://open.spotify.com/artist/0ad9OWagoBkIhBrKg6VYOn"
-        }
-      ],
-      "duration_ms": 454698,
-      "name": "Mozambique (feat. 10x Guluva, Yung Silly Coon & PILLS)",
-      "url": "https://open.spotify.com/track/6y6XLG70Bys7LyDkN8lwhD"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
         "name": "Let's Play Piano",
         "url": "https://open.spotify.com/album/4NxtN79Jz3rDdw9FACk8Mz"
       },
@@ -1013,6 +1109,30 @@
       "url": "https://open.spotify.com/track/3nsGoLGfcstF2zCaG03Ahd"
     },
     {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "JIKELEZA",
+        "url": "https://open.spotify.com/album/49sJyZ8xbOp6UCfE19X79p"
+      },
+      "artists": [
+        {
+          "name": "TBO",
+          "url": "https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp"
+        },
+        {
+          "name": "FAKE LOVE",
+          "url": "https://open.spotify.com/artist/6q1scEOnZSOfbc4tvhgOgC"
+        },
+        {
+          "name": "Sv Muziq",
+          "url": "https://open.spotify.com/artist/5oNrk8mUMvuJ1cbkd7UDJK"
+        }
+      ],
+      "duration_ms": 348074,
+      "name": "JIKELEZA",
+      "url": "https://open.spotify.com/track/4wTos9APx8cxxB05juS3Ax"
+    },
+    {
       "added_at": "2022-12-01 21:59:00",
       "album": {
         "name": "Nkwari 2.0",
@@ -1045,26 +1165,6 @@
       "url": "https://open.spotify.com/track/5ZDw1sqZQDlC5aV7ir6kkN"
     },
     {
-      "added_at": "2022-10-27 21:59:00",
-      "album": {
-        "name": "Kae Kae",
-        "url": "https://open.spotify.com/album/11vMcHOpweFim1GTA33dyS"
-      },
-      "artists": [
-        {
-          "name": "Sje Konka",
-          "url": "https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l"
-        },
-        {
-          "name": "K LeSuper",
-          "url": "https://open.spotify.com/artist/1GMEaV53bRjUsXcCM26QkH"
-        }
-      ],
-      "duration_ms": 385591,
-      "name": "Kae Kae",
-      "url": "https://open.spotify.com/track/03cojjbc3ES88WMTMNCJG7"
-    },
-    {
       "added_at": "2022-11-17 21:59:00",
       "album": {
         "name": "KOA II Part 1",
@@ -1085,6 +1185,26 @@
       "url": "https://open.spotify.com/track/1ULFJZX54HXXjSTMx63dk0"
     },
     {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Langa Elihle (Tpzee01)",
+        "url": "https://open.spotify.com/album/5xq1asll3chTkXF5ggDGEf"
+      },
+      "artists": [
+        {
+          "name": "TpZee",
+          "url": "https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ"
+        },
+        {
+          "name": "King JS",
+          "url": "https://open.spotify.com/artist/4D1BjSnqJpmb96OzDFxX4z"
+        }
+      ],
+      "duration_ms": 403989,
+      "name": "Langa Elihle",
+      "url": "https://open.spotify.com/track/5XuAJ9dyuLKt7BRMxhqxEQ"
+    },
+    {
       "added_at": "2022-11-07 11:54:27",
       "album": {
         "name": "Mama",
@@ -1101,120 +1221,28 @@
       "url": "https://open.spotify.com/track/7DQMBUK4oX9gV1qIzpoRz6"
     },
     {
-      "added_at": "2022-11-24 22:08:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Thonga Lam",
-        "url": "https://open.spotify.com/album/2tScZ40ekSdLTj4jZiCEjV"
+        "name": "SEASON TEN",
+        "url": "https://open.spotify.com/album/5LBImc8rg2B9bwdMwdp34E"
       },
       "artists": [
         {
-          "name": "Dj Obza",
-          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+          "name": "Spumante",
+          "url": "https://open.spotify.com/artist/7e91LHOm22NlOu4O9n0RvH"
         },
         {
-          "name": "Sindi Nkosazana",
-          "url": "https://open.spotify.com/artist/7a2WeLRnkgsB4Ae7fBXsM8"
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        },
+        {
+          "name": "Okashii",
+          "url": "https://open.spotify.com/artist/0GHkCL1VgYAZtg84L72RIJ"
         }
       ],
-      "duration_ms": 333035,
-      "name": "Thonga Lam",
-      "url": "https://open.spotify.com/track/581A0FJQyubRQXCjAHzmmA"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Deepest Gratitude",
-        "url": "https://open.spotify.com/album/62MdOleRlPICCKVt39ZJKX"
-      },
-      "artists": [
-        {
-          "name": "Gaba Cannal",
-          "url": "https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        }
-      ],
-      "duration_ms": 454352,
-      "name": "iMini Yonke",
-      "url": "https://open.spotify.com/track/1KsgMWoYVEaJZR6UhxmRyz"
-    },
-    {
-      "added_at": "2022-10-27 21:59:00",
-      "album": {
-        "name": "Wa Kula (Zacaria)",
-        "url": "https://open.spotify.com/album/7xQGp5Epz5G2ESwOORmiHh"
-      },
-      "artists": [
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        },
-        {
-          "name": "Jah Prayzah",
-          "url": "https://open.spotify.com/artist/13JLy7UFJgqRypeQGbucP3"
-        }
-      ],
-      "duration_ms": 269933,
-      "name": "Wa Kula (Zacaria)",
-      "url": "https://open.spotify.com/track/13vm93aPWfMs6lnKAVDoLR"
-    },
-    {
-      "added_at": "2022-11-03 21:59:00",
-      "album": {
-        "name": "President Ya Flaka",
-        "url": "https://open.spotify.com/album/5VP0sPkDmSEiHgLcDiYG2N"
-      },
-      "artists": [
-        {
-          "name": "Dinho",
-          "url": "https://open.spotify.com/artist/4vrcirbPoyFvdc64YBlMof"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Stakev",
-          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
-        },
-        {
-          "name": "Makhanj",
-          "url": "https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV"
-        }
-      ],
-      "duration_ms": 433318,
-      "name": "Soloko (feat. Kabza De Small, Stakev & Makhanj)",
-      "url": "https://open.spotify.com/track/4gmNv9RnQfykGvyysSwjN6"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "Gijima",
-        "url": "https://open.spotify.com/album/3ZdfeLnfZiULpkWkVzArCl"
-      },
-      "artists": [
-        {
-          "name": "Phantom Steeze",
-          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
-        },
-        {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
-        },
-        {
-          "name": "Sayfar",
-          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "Gijima",
-      "url": "https://open.spotify.com/track/1oMowGPF0is9Z7Ari3JK8T"
+      "duration_ms": 344034,
+      "name": "Ecstasy (feat. Da Muziqal Chef & Okashii)",
+      "url": "https://open.spotify.com/track/0JMHBMbVdiKn2J6wAoKzNY"
     },
     {
       "added_at": "2022-12-01 21:59:00",
@@ -1228,8 +1256,12 @@
           "url": "https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf"
         },
         {
-          "name": "TheBoyTapes& 2woBunnies",
-          "url": "https://open.spotify.com/artist/5AxTeoKtYkmyZ8r8s9A2Cb"
+          "name": "TheBoyTapes",
+          "url": "https://open.spotify.com/artist/6ul6rON4n7muiiM9rMnBP8"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
         }
       ],
       "duration_ms": 370831,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,061,491 likes - 200 songs - 14 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,064,630 likes - 200 songs - 14 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

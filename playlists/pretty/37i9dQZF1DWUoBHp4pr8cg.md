@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop..\. Cover: <a href="https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=wK5EehwHQWy9\_J\-fJBJmXw">Kwesta</a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=BCrd0kdJTleJFFu8BxC\-\-w">Kabza De Small</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,365 likes - 52 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,391 likes - 52 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 7 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 |
 | 8 | [Bana Ba Stout](https://open.spotify.com/track/4MjEV4Bdj36rHJj8zCMz13) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Bana Ba Stout](https://open.spotify.com/album/4f2TYrLKf5vJu5gcSCCF82) | 3:36 |
 | 9 | [Amadlozi](https://open.spotify.com/track/4pHdZenBKRDOpredaVILeG) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [LOOKATUPS](https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER) | [Amadlozi](https://open.spotify.com/album/1wHEl0itEyhRHNDdIh0UCN) | 2:48 |
-| 10 | [GET DRIP](https://open.spotify.com/track/4P57GgKxNDM9VodgJQloR2) | [BRITE GVNG](https://open.spotify.com/artist/03SG3QYfweGjoOw26Mgdsv), [MY OWN VESSELS](https://open.spotify.com/artist/6ZyL7I4xf8UsZZcpK9FoOr) | [GET DRIP](https://open.spotify.com/album/2MyTYZ1dTvNC6q7Pgk007F) | 2:18 |
+| 10 | [GET DRIP](https://open.spotify.com/track/7Cv4OoYTPOkX9vCnsoTqvc) | [BRITE GVNG](https://open.spotify.com/artist/03SG3QYfweGjoOw26Mgdsv), [MY OWN VESSELS](https://open.spotify.com/artist/6ZyL7I4xf8UsZZcpK9FoOr) | [GET DRIP](https://open.spotify.com/album/6F0Jl8VK8kPB8ZwuBdNO29) | 2:18 |
 | 11 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
 | 12 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 |
 | 13 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 51 | [uKuphi](https://open.spotify.com/track/1fzhy3XEQEXUYff6jvbf40) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [Champion Music 2](https://open.spotify.com/album/0Z4cLn4fZtEJ2psku88wNx) | 2:30 |
 | 52 | [Thetha Nami](https://open.spotify.com/track/7f9XO1APC9O2o0CSOCcqMJ) | [No Comply](https://open.spotify.com/artist/3KZHzrzPWoBR2Osu6SI6Vy), [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87), [DJ Milkshake](https://open.spotify.com/artist/5WFgLQUnTlt30OkZ33al7a), [Majorsteez](https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD), [Mustbedubz](https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p) | [Thetha Nami](https://open.spotify.com/album/05tI4GYoVsLhwMEf5YsJ2K) | 3:53 |
 
-Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMDQzN2Q4NmI5NjBjZTEzNmQ0MjA3ODQ2ZGJiN2M0ODkx`
+Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMDgxYTg0NDg5Y2IwYTgwZGZjYWM5M2NiOGM3YmRkN2I1`

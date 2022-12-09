@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 820682,
+  "num_followers": 821155,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMDdkMWEwNGFmNzMxYzYxNGM0YjNjZjgzZjYwYjM3NTQ5",
+  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMDc2NmJhMjQ0NjhjMzgyOGQ1NjYzODhkNGY2MTE0Yjgw",
   "tracks": [
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "No Romance",
-        "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
-      },
-      "artists": [
-        {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
-        }
-      ],
-      "duration_ms": 237235,
-      "name": "No Romance",
-      "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Loverboy",
         "url": "https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 238122,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "No Romance",
+        "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "duration_ms": 237235,
+      "name": "No Romance",
+      "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
     },
     {
       "added_at": "2022-11-09 20:14:28",

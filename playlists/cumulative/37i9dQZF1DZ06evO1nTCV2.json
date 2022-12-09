@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 180640,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/5a8eKLK3XvwrkgRXpchNAW"
@@ -815,6 +815,24 @@
       "duration_ms": 179880,
       "name": "Free Your Self",
       "url": "https://open.spotify.com/track/13P1ibb6Q290L4Z5gq55Ec"
+    },
+    {
+      "album": {
+        "name": "Big Colors",
+        "url": "https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213946,
+      "name": "Fuck The Rain",
+      "url": "https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,294 likes - 110 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,343 likes - 110 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 74 | [Slack Jaw \- Echo Mountain Sessions](https://open.spotify.com/track/2tgzwqArTmTiVD76fbHlWs) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Echo Mountain Sessions EP](https://open.spotify.com/album/7iMZ2wghJOguDaRo8Pn1DU) | 3:30 |
 | 75 | [We Will Run](https://open.spotify.com/track/2HbgS9zVXD1Aix8MYVNqix) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/5Zw4c2g8fmJipfghOr9tBU) | 3:43 |
 | 76 | [Low Roar](https://open.spotify.com/track/1PmzEt6a77dRdFtjLD2ZrW) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 2:15 |
-| 77 | [Strange Darling](https://open.spotify.com/track/6wzbsVJ4qH3pdzYqm8hVXk) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Strange Darling \- EP](https://open.spotify.com/album/1olv4rODurd0yqk8qMh091) | 3:42 |
-| 78 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 |
+| 77 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 |
+| 78 | [Strange Darling](https://open.spotify.com/track/6wzbsVJ4qH3pdzYqm8hVXk) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Strange Darling \- EP](https://open.spotify.com/album/1olv4rODurd0yqk8qMh091) | 3:42 |
 | 79 | [Ekki múkk](https://open.spotify.com/track/4aLf8xu5v9TuzVAeIPFETC) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/0ZHkshyLAi9f8DXdj3Z5ph) | 7:44 |
 | 80 | [In the Stream](https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO) | 5:10 |
 | 81 | [Made of Gold](https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Ashes](https://open.spotify.com/album/16NqLbiucfHH7W7yzDUNSA) | 3:49 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [Bird](https://open.spotify.com/track/1wvEfwDjSc7iZAqCqKKhz2) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bird Songs of a Killjoy](https://open.spotify.com/album/1bCtRHoZQt4SUzaMbXUU2d) | 5:17 |
 | 110 | [Andalusia](https://open.spotify.com/track/75LdAXSmYSJkS2aVYBxxDW) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Chasing After Shadows..\. Living With the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/1Trf9tr74LtVRBRqAJjnxS) | 7:42 |
 
-Snapshot ID: `MTYwMjc5Mzk0MiwwMDAwMDAwMGMwOTczMGViNjYwYjBkYzFlNDg5NTAzZjk3NjM3MmJl`
+Snapshot ID: `MTYwMjc5Mzk0MiwwMDAwMDAwMGYxYjdmZjM1YTAxYzljYzI2ZDliY2I1YWYwOTZiZDZm`

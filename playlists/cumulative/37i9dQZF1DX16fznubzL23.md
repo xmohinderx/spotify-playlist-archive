@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-94 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/0jW8v03O6T6PWZPdnpYcDn)
+95 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/0jW8v03O6T6PWZPdnpYcDn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2022-02-11 |  |
 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 | 2022-07-22 |  |
 | [Blue Jeans](https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU) | 3:21 | 2022-03-04 | 2022-11-05 |
+| [Blues](https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Kold Szn](https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D) | 3:01 | 2022-12-08 |  |
 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 | 2022-02-11 |  |
 | [Breakfast \(Remix\)](https://open.spotify.com/track/3JzwAZrhBQpIhkhOPnGg0F) | [Jaydreamz](https://open.spotify.com/artist/5XWnXTiwleRI0pgiLRxJUW), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Breakfast \(Remix\)](https://open.spotify.com/album/6qSE7SgHNU6Bw1G4pK0qD8) | 2:33 | 2022-07-14 | 2022-07-30 |
 | [Bye Bye](https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3) | [Asem](https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Solid Ground](https://open.spotify.com/album/1SwHH5FFGEsoj428xaUU9k) | 5:05 | 2022-02-11 | 2022-08-17 |
@@ -45,7 +46,7 @@
 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 | 2022-08-26 |  |
 | [Ife Ife](https://open.spotify.com/track/3716u4GLH9a7HqmwCWLrC9) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Ife Ife](https://open.spotify.com/album/7iIw1JOb6ciXxIw603PpvJ) | 2:18 | 2022-12-01 |  |
 | [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 | 2022-04-07 |  |
-| [Insecure](https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Boo of the Booless](https://open.spotify.com/album/4BguuTkeDiuE2Iq4T6iM33) | 3:00 | 2022-02-11 |  |
+| [Insecure](https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Boo of the Booless](https://open.spotify.com/album/4BguuTkeDiuE2Iq4T6iM33) | 3:00 | 2022-02-11 | 2022-12-09 |
 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 | 2022-02-11 | 2022-11-25 |
 | [Kakyere Me](https://open.spotify.com/track/3EkGDrBnSviSUZpG8m4yGr) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Kakyere Me](https://open.spotify.com/album/101J6HI8NcRiCkZA16brqS) | 3:29 | 2022-05-27 | 2022-07-28 |
 | [Kiss & Tell](https://open.spotify.com/track/2caUqogrPS7fyT96tF9fOi) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Kiss & Tell](https://open.spotify.com/album/1Xm6lGVrbZUsLsIhf9REtp) | 2:59 | 2022-06-17 | 2022-11-13 |

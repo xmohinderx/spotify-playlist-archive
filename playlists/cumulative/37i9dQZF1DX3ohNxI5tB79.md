@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-182 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+183 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 | 2022-10-10 |  |
 | [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2021-12-13 | 2022-10-13 |
 | [LIA](https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m) | 3:38 | 2021-12-13 | 2022-07-29 |
-| [LIA](https://open.spotify.com/track/76F5aEqRgxaUE34JX3g78g) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/34cWIUEnueKa9rQcXsXF4Q) | 3:38 | 2022-07-05 |  |
+| [LIA](https://open.spotify.com/track/76F5aEqRgxaUE34JX3g78g) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/34cWIUEnueKa9rQcXsXF4Q) | 3:38 | 2022-07-05 | 2022-12-09 |
+| [LIA](https://open.spotify.com/track/79yUKmyrDvi1QFVaqo9DIL) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/21Dh5zHvadr9S2b31QR2ok) | 3:38 | 2022-12-05 |  |
 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 | 2021-12-13 |  |
 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 | 2022-10-30 |  |
 | [Love Falls Down](https://open.spotify.com/track/4K9i7f2Wi3Fx0N5DhMxbIH) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/3FQbYHvVYJg6zX76gvUwDG) | 5:15 | 2022-07-05 | 2022-10-31 |

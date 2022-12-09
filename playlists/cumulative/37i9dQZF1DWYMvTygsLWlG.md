@@ -4,7 +4,7 @@
 
 > Some of the worlds most beautiful love songs.
 
-367 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
+368 songs - 1 day 1 hr 15 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Bed Of Roses](https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq) | 6:34 | 2022-05-30 |  |
 | [Bed Of Roses](https://open.spotify.com/track/78ApVOpB9Sq8BZWxxURWp2) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm) | 6:35 | 2021-02-01 | 2022-07-29 |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-31 |  |
-| [Bette Davis Eyes \- Re\-Recorded](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:44 | 2021-10-16\* |  |
+| [Bette Davis Eyes \- Re\-Recorded](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:44 | 2021-10-16\* | 2022-12-09 |
 | [Better in Time](https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 3:54 | 2021-10-16\* | 2021-11-19 |
 | [Black Velvet](https://open.spotify.com/track/2yw8qcJ9HTrOiN2HUQFDLa) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Billboard: \#1 Hits Of The 90's](https://open.spotify.com/album/3UTqjsuiNuQ9uxxXyS8qa1) | 4:49 | 2021-10-16\* | 2021-11-19 |
 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 | 2021-10-16\* | 2021-11-19 |
@@ -331,6 +331,7 @@
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2021-02-01 |  |
 | [Underneath Your Clothes](https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:44 | 2022-05-30 |  |
 | [Underneath Your Clothes](https://open.spotify.com/track/6biR1gMwcN71SDt3Eh4eEu) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Servicio De Lavandería](https://open.spotify.com/album/62F8unRY46ZDR2EE5ag5Z5) | 3:44 | 2021-02-01 | 2022-07-29 |
+| [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-12-09 |  |
 | [Up Where We Belong](https://open.spotify.com/track/0Co8hKbjUy273NrGliGdWZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best of Joe Cocker](https://open.spotify.com/album/7aP5c3ADIf5bmA1G80C4Cc) | 3:53 | 2021-02-01 | 2022-07-29 |
 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 | 2022-05-30 |  |
 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2021-02-01 |  |

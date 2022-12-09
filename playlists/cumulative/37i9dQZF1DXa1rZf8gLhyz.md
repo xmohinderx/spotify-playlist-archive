@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-224 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+226 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-03-16 |  |
 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 | 2021-12-07 | 2022-08-30 |
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2022-04-25 |  |
+| [Doin Nothing](https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Doin Nothing](https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW) | 3:53 | 2022-12-08 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 |  |
 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 | 2021-12-07 | 2022-02-12 |
 | [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
@@ -188,6 +189,7 @@
 | [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2021-12-07 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2021-12-07 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2022-12-01 |  |
+| [Sweet And Lovely](https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Sweet And Lovely](https://open.spotify.com/album/68praxj4zGWVqDHxwN7wex) | 3:30 | 2022-12-08 |  |
 | [Sweet Dreams](https://open.spotify.com/track/1VqEgVFBYgZPbx7wQYKGqY) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Sweet Dreams](https://open.spotify.com/album/0q8gPe14lThzUj7859i7MZ) | 3:31 | 2022-05-31 |  |
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2021-12-07 |  |
 | [That Old Fashioned Moon](https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [That Old Fashioned Moon](https://open.spotify.com/album/7K81q7vpeES90oyfHnltli) | 2:49 | 2022-08-09 |  |

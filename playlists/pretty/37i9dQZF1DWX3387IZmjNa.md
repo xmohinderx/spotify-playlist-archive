@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913,186 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,620 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 35 | [Pull Up](https://open.spotify.com/track/1gHamNXNt8OjoynRvGhg1a) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [222](https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T) | 2:54 |
 | 36 | [Heartaches](https://open.spotify.com/track/6RHEIXw8U4SWBda3fxXAXT) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Heartaches](https://open.spotify.com/album/16PP7symx7pyBKDsLFkCDj) | 3:18 |
 | 37 | [If I Want You](https://open.spotify.com/track/4RTPe8icsISnFUp3IvEX4j) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [If I Want You](https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8) | 3:13 |
-| 38 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 3:36 |
+| 38 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 |
 | 39 | [Little Miss](https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Little Miss](https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy) | 3:10 |
 | 40 | [Love is...](https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Love is…](https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg) | 3:50 |
 | 41 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 |

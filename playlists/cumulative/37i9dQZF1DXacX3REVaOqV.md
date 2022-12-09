@@ -4,7 +4,7 @@
 
 > The best in house music
 
-272 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
+273 songs - 20 hr 9 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Caught In The Rain](https://open.spotify.com/track/1GvyPmmkOxcrnLBjpgFBPX) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [L.I.T](https://open.spotify.com/artist/79PE76jMPidK5Dz6mXOMxS) | [Caught In The Rain](https://open.spotify.com/album/49Q6nGh5yaOQ85ttYKA3XX) | 2:22 | 2022-04-14 |  |
 | [Chance To Dance](https://open.spotify.com/track/6T9cSQMRmd1sJC6UJLYywZ) | [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [Chance To Dance](https://open.spotify.com/album/1QCVx1swTG0R5K2RpQY0oN) | 3:09 | 2022-04-14 |  |
 | [Change Is Gonna Come \- Edit](https://open.spotify.com/track/7nfQrgnnJFG9Fjlwg9FnWY) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul), [Tony Sherman](https://open.spotify.com/artist/5PGrx2urmHR1xmOvSMAK3l) | [Change Is Gonna Come](https://open.spotify.com/album/5WHq7sFpeLdAdjqtDJdgiu) | 3:26 | 2022-04-14 | 2022-07-29 |
+| [Cortez \- Laidback Luke 1997 Remix](https://open.spotify.com/track/5mRbflnp2y4Dxe9GLVq8JO) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Cortez \(Laidback Luke's 1997 Remix\)](https://open.spotify.com/album/3wRcmlQ9jYqH1nT82M83ew) | 3:53 | 2022-12-08 |  |
 | [Cuttin](https://open.spotify.com/track/2SLX3GGCWpZyZO95L21MuA) | [DJ Dove](https://open.spotify.com/artist/4d6dDvAt5jdSDAhH33UabE) | [Cuttin](https://open.spotify.com/album/54sLvR7jIk07lqJMONPkqv) | 3:14 | 2022-04-14 | 2022-07-29 |
 | [D.A.N.C.E.](https://open.spotify.com/track/2mhRsvVVfukHWklTrRpnCB) | [Superlover](https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO) | [D.A.N.C.E.](https://open.spotify.com/album/0qaub7PZVrrkzZ0A99YsAn) | 4:35 | 2022-04-14 |  |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-09-15 |  |
@@ -224,7 +225,7 @@
 | [Speed Up \- Menesix Remix](https://open.spotify.com/track/0DBnkbWalfo6TNjRcll0ui) | [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Speed Up \(Italobros & Menesix Remixes\)](https://open.spotify.com/album/2VpqHTQo5AC1y6nUrmp9FH) | 4:07 | 2022-04-14 | 2022-07-28 |
 | [Spells Of Yoruba \- Jamie Jones Watertight Mix](https://open.spotify.com/track/6OEVWRWJ0ZkGFOFSp3cNOR) | [Gel Abril](https://open.spotify.com/artist/3HH7PmnlxHcPClsKBuARwv) | [Defected In The House Radio Show: Episode 011 \(hosted by Sonny Fodera\)](https://open.spotify.com/album/2P9cJvQAgg0mHUz7wyCjjc) | 2:58 | 2022-04-20 | 2022-07-21 |
 | [Spirit of House](https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Spirit of House](https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ) | 3:11 | 2022-04-14 |  |
-| [Spiritual Thing](https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [PvssyCat](https://open.spotify.com/artist/6ctlU7z2EqhgtXOYcHtEGC), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Spiritual Thing](https://open.spotify.com/album/02czhiYrZJ3tSJDQUCllv1) | 3:38 | 2022-04-14 |  |
+| [Spiritual Thing](https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [PvssyCat](https://open.spotify.com/artist/6ctlU7z2EqhgtXOYcHtEGC), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Spiritual Thing](https://open.spotify.com/album/02czhiYrZJ3tSJDQUCllv1) | 3:38 | 2022-04-14 | 2022-12-09 |
 | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R) | [S.A.M.](https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O), [Sarah Ikumu](https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS) | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod) | 2:55 | 2022-04-14 |  |
 | [Stand By Me](https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Stand By Me](https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu) | 2:54 | 2022-10-21 |  |
 | [Starry Night \- Original Mix](https://open.spotify.com/track/3N56XgwOdeaZytLkQWyQ4A) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Moment EP](https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM) | 6:38 | 2022-04-14 |  |

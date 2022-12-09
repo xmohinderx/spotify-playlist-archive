@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,482 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,524 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 12 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 |
 | 13 | [Dear LIFE](https://open.spotify.com/track/0Pl6bvQS1C1qUnU2WUnGFa) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Dear LIFE](https://open.spotify.com/album/2kWizzqo1HAGtkHTmtEWYu) | 4:00 |
 | 14 | [Off\-White](https://open.spotify.com/track/1ferB8CRX6M9J1Nzk8tN4f) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe) | [Off\-White](https://open.spotify.com/album/6FYWD45zYzVvpNOBYbbX8I) | 3:25 |
-| 15 | [Cassette](https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0) | 3:22 |
+| 15 | [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 |
 | 16 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 |
 | 17 | [BLOOD](https://open.spotify.com/track/2Eorr3n0J3KFbhlhkToqPb) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [BLOOD](https://open.spotify.com/album/7Bb3Lsa7er4R6dd2Sc3Faq) | 3:26 |
 | 18 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 |
 | 100 | [Night Journeys II \- Jessy Lanza Remix](https://open.spotify.com/track/1spGZtRmsTo9zg79sW8uU7) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Night Journeys II \(Jessy Lanza Remix\)](https://open.spotify.com/album/6UHAnNmOH1p411N4mg9opY) | 4:37 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGNmZGZkOGE4OTg5MTU3OGQ4NGI0NGVmYzQ3ODg3OTUy`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGMxNzM0MjNkZjc3YzhjZTQ5ZTNmMTE4NzQ0NDFhZGRi`

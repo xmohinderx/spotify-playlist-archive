@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,450 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,525 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

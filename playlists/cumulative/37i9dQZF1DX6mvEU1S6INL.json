@@ -3070,6 +3070,24 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270483,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
+    },
+    {
+      "album": {
         "name": "Stars Are on Your Side",
         "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },

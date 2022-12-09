@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Lester Lam",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Arches",
   "name": "+852 Rising",
   "published_playlist_ids": [
     "3cSFMATQHJw7Fzc2uC3LB1"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 179238,
       "name": "Christopher Luke",
       "url": "https://open.spotify.com/track/7KnylTHkKv0Jwq9wcKVu02"
@@ -595,6 +595,24 @@
       "duration_ms": 145298,
       "name": "confidence",
       "url": "https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX"
+    },
+    {
+      "album": {
+        "name": "Conquer (Live)",
+        "url": "https://open.spotify.com/album/4e1FYYsHXgEym0ibwuTYqN"
+      },
+      "artists": [
+        {
+          "name": "Gwenji",
+          "url": "https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226594,
+      "name": "Conquer - Live",
+      "url": "https://open.spotify.com/track/4wzrcQrWikddwgxiFJAr4r"
     },
     {
       "album": {
@@ -1464,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "hyperlink",
+        "url": "https://open.spotify.com/album/0kpJgUjw2JGxfetKaeXC6s"
+      },
+      "artists": [
+        {
+          "name": "Yeejing",
+          "url": "https://open.spotify.com/artist/6Rkw1OhEEvW4oTrM96CF7M"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151950,
+      "name": "hyperlink",
+      "url": "https://open.spotify.com/track/5QYSTObTi7caCGlUchHzn0"
+    },
+    {
+      "album": {
         "name": "Hypocrite",
         "url": "https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8"
       },
@@ -1573,6 +1609,24 @@
       "duration_ms": 170000,
       "name": "I made wine out of tears",
       "url": "https://open.spotify.com/track/0tu4KP98S7K1o54V5eQ1yy"
+    },
+    {
+      "album": {
+        "name": "I'm Lovin' You",
+        "url": "https://open.spotify.com/album/6MCekR21H8RPtGaLafIIYc"
+      },
+      "artists": [
+        {
+          "name": "kkisnotemo",
+          "url": "https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194609,
+      "name": "I'm Lovin' You",
+      "url": "https://open.spotify.com/track/3xvoFtYuQp24sFoDkujaPD"
     },
     {
       "album": {
@@ -3028,6 +3082,28 @@
     },
     {
       "album": {
+        "name": "summer",
+        "url": "https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3"
+      },
+      "artists": [
+        {
+          "name": "RAFA",
+          "url": "https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND"
+        },
+        {
+          "name": "EJEAN",
+          "url": "https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132483,
+      "name": "summer",
+      "url": "https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g"
+    },
+    {
+      "album": {
         "name": "Summer Ride (With No Brakes)",
         "url": "https://open.spotify.com/album/3qr3Cb7hEVDfRiWmufbTda"
       },
@@ -3816,6 +3892,24 @@
     },
     {
       "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/1XnDez6fRSMGkuLG2vhQlV"
+      },
+      "artists": [
+        {
+          "name": "Big Spoon",
+          "url": "https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106500,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/20SoteM0n0B8xvYuAo63qq"
+    },
+    {
+      "album": {
         "name": "Wondering",
         "url": "https://open.spotify.com/album/6YWHGKMDDHYdxjAIYaId5K"
       },
@@ -4182,6 +4276,24 @@
     },
     {
       "album": {
+        "name": "Callous Room",
+        "url": "https://open.spotify.com/album/6f7w2CEVF64paCqtEtXsOe"
+      },
+      "artists": [
+        {
+          "name": "Arches",
+          "url": "https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165221,
+      "name": "\u5149",
+      "url": "https://open.spotify.com/track/1FaWHaqHzNag0AGkM2lPXO"
+    },
+    {
+      "album": {
         "name": "EARTHQUAKE MIXTAPE",
         "url": "https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV"
       },
@@ -4337,7 +4449,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 205150,
       "name": "\u5514\u4f0f",
       "url": "https://open.spotify.com/track/7Cc3b4uhA5D2rJCZ6GvN8o"
@@ -4707,7 +4819,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 182004,
       "name": "\u6211\u548c\u963f\u59e8\u6709\u500b\u7d04\u6703 feat. \u9ece\u8389Chris Lai",
       "url": "https://open.spotify.com/track/4StKw8RzmJp0XnChWkUBSC"

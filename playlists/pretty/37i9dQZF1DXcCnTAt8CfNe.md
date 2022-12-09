@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,844 likes - 202 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,876 likes - 202 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 13 | [Transparency](https://open.spotify.com/track/1dzuUe9zsLpy2Ly7Zp2dWD) | [Adam Waldau](https://open.spotify.com/artist/1m8n33vsOT7I7sBgn1s4sz) | [Everlasting](https://open.spotify.com/album/1TnUFxpG8VW7GrAJLV7u3Y) | 2:59 |
 | 14 | [Delicate Silence](https://open.spotify.com/track/6qGtOGeYlQc52iHd2SkKwC) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Alternatives](https://open.spotify.com/album/5VPVnonNWHMwTQCgQN0aAk) | 2:46 |
 | 15 | [Eleni](https://open.spotify.com/track/62FsGEI77Ot7VXNcA2ReHz) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Eleni](https://open.spotify.com/album/52qI0dktuJ4W5s08Yilflu) | 2:21 |
-| 16 | [Of Memories To Come](https://open.spotify.com/track/3jWBAmCDeMGFc5iBOfy4rl) | [Elian Costa](https://open.spotify.com/artist/0l7ul5uSQGndF0gOTCRL0Z) | [Of Memories To Come](https://open.spotify.com/album/2YdafUakSLmNYhErroZ6tp) | 2:11 |
+| 16 | [Of Memories To Come](https://open.spotify.com/track/3jWBAmCDeMGFc5iBOfy4rl) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Of Memories To Come](https://open.spotify.com/album/2YdafUakSLmNYhErroZ6tp) | 2:11 |
 | 17 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 |
 | 18 | [Alunissage](https://open.spotify.com/track/3I9DGW4nS3BJJeyoPNuOHS) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Alunissage](https://open.spotify.com/album/0JwgAGmFOckRMnqShQVbGG) | 2:56 |
 | 19 | [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 |

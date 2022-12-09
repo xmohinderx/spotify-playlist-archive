@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Metro Boomin \(pictured\) ft\. The Weeknd & 21 Savage, $uicideboy$, Loud Luxury, Rêve, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,340 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,377 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 15 | [Paradis City \- Spotify Singles](https://open.spotify.com/track/5mYuMW990U9kGRaCEpk0nI) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:37 |
 | 16 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 17 | [Motel On the Moon](https://open.spotify.com/track/1s6081YVpuKRS4cZp5zyne) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Motel On the Moon](https://open.spotify.com/album/6Pbmoox4o7GVCyQDkgOWaX) | 3:58 |
-| 18 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 |
+| 18 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 |
 | 19 | [Good Company](https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Company](https://open.spotify.com/album/2PgLWCDmJKChhZab33Pth9) | 2:37 |
 | 20 | [TT Freak](https://open.spotify.com/track/7y1wVsqnksSDjUOMnC7j4z) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [John Mamann](https://open.spotify.com/artist/3lL5mw1555BFtJXaI07uIy), [Dawty Music](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe) | [TT Freak](https://open.spotify.com/album/2bWREa0DSY6RC9dkEAzGAL) | 1:31 |
 | 21 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 91 | [Like the Rain](https://open.spotify.com/track/747ZJOMxHxLgpiInjD4mR1) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Like the Rain](https://open.spotify.com/album/6ck2xBSDjymajaYpXinNik) | 3:10 |
 | 92 | [Our Love Will Still Be There](https://open.spotify.com/track/00XtGg6iaLXUAA0mbb95OT) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Our Love Will Still Be There](https://open.spotify.com/album/2dyN4wNme6xJwMR5O1GeSU) | 4:09 |
 | 93 | [Twice](https://open.spotify.com/track/7lfPoqyQ9Sud7g2HoMsam2) | [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF), [Phinisey](https://open.spotify.com/artist/4ZVD9USul6Lrp5nrbbZL7J) | [Twice](https://open.spotify.com/album/6lC3HC3jlGfne4L8uXuvYw) | 3:17 |
-| 94 | [Cassette](https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0) | 3:22 |
+| 94 | [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 |
 | 95 | [Happy Birthday](https://open.spotify.com/track/4SdsAqf5pPAG2y4bVyQpXV) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Bokleen World](https://open.spotify.com/album/2NMBP88dc00HG0xHl748ah) | 1:53 |
 | 96 | [Dear LIFE](https://open.spotify.com/track/0Pl6bvQS1C1qUnU2WUnGFa) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Dear LIFE](https://open.spotify.com/album/2kWizzqo1HAGtkHTmtEWYu) | 4:00 |
 | 97 | [Wave Cheque](https://open.spotify.com/track/1hUywGUlzpvsqfSS2YaIPi) | [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu), [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Waveroom](https://open.spotify.com/artist/2rb1GC3bfEnTXLB87IkWLX) | [Wave Cheque](https://open.spotify.com/album/0K2ehKQZch4XwIr2dd9Xre) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Enter My Fantasy](https://open.spotify.com/track/7mGonGNYr0NxjwM6EZiZT7) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Enter My Fantasy](https://open.spotify.com/album/7coRkw4cUN2kdJVFKUE24K) | 5:31 |
 | 100 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDgxMGY0ODQ4OTUwNjViY2NhYjQ3ZjU3ZDU1OWUyY2Zh`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDMyNzM3N2FhMWViMGE5MmQ0NDcyOTJhMGZhOWFiYThh`

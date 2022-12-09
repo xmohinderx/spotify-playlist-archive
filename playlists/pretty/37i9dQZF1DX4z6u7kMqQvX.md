@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,442 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,515 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 58 | [Desnuda](https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:45 |
 | 59 | [Viernes](https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Viernes](https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0) | 3:11 |
 | 60 | [Intensidad](https://open.spotify.com/track/7MPKbeCWeCljobb31x7kVI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:55 |
-| 61 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 |
-| 62 | [Te Pienso Todo el Tiempo](https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9), [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Te Pienso Todo el Tiempo](https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz) | 3:33 |
+| 61 | [Te Pienso Todo el Tiempo](https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9), [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Te Pienso Todo el Tiempo](https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz) | 3:33 |
+| 62 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 |
 | 63 | [Me Conecto \(feat\. Jorge Drexler\)](https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [SMS](https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh) | 3:08 |
 | 64 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
 | 65 | [QUN](https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [QUN](https://open.spotify.com/album/47XooQzRkZy0kh6ccRPceH) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Cara de Cera](https://open.spotify.com/track/4x6U7KCXOANAVWOgpsR5kc) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cara de Cera](https://open.spotify.com/album/136COz2f0drOth942dh9nc) | 3:28 |
 | 100 | [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMDJiYjFkYjQxYTZkZGRkNjA1NWU5ZDQ5Yzc5NGM1NWMw`
+Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMDhkMmU4YTk4MzdhOWY5MmJlNDFhODM4OTkwYmIzMTkz`

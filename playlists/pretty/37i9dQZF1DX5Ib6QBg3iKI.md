@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,228 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,455 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 |
 | 80 | [A Winter's Tale](https://open.spotify.com/track/4FU791RfMXAnJS6am0m1MG) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [Winter Wonderland](https://open.spotify.com/album/6koZAOj4dhvtm9L0fLZhpQ) | 4:11 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDdmOGEyYTM1N2EwMTcwZGZkNTcwYzBiYTVkODFlOTEy`
+Snapshot ID: `MTY3MDU0NDAwMCwwMDAwMDAwMGFlN2EwMzEzNDMzY2ViOWYzMDc2NGE0Mjk0MGUzNTdh`

@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-736 songs - 1 day 18 hr 9 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+737 songs - 1 day 18 hr 13 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [Everything I Know](https://open.spotify.com/track/1vWjISlgaMob9cjPDK8P7I) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Everything I Know](https://open.spotify.com/album/0oZQvFm3gfmsBafjh2VLaI) | 2:44 | 2021-03-05 | 2022-04-14 |
 | [Everything Is Simple](https://open.spotify.com/track/3W9LUDqaup6AK5uoozN7Wh) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Everything Is Simple](https://open.spotify.com/album/7na0XY52XbzkAhIvTygfxt) | 4:19 | 2022-01-28 | 2022-04-29 |
 | [Excuses](https://open.spotify.com/track/4b64vOfZptiujHdsqjbfoD) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Excuses](https://open.spotify.com/album/030CZCgobrplhu5ddAGiMO) | 2:48 | 2021-06-02 | 2022-04-18 |
-| [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 | 2022-07-15 |  |
+| [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 | 2022-07-15 | 2022-12-09 |
+| [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 | 2022-10-21 |  |
 | [Eyes](https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Oldies & Goldies](https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt) | 3:41 | 2022-08-26 |  |
 | [EYES ON THE ROAD](https://open.spotify.com/track/2oJE0PaKWxSkkFsbNnwIRO) | [Trace Mountains](https://open.spotify.com/artist/7sLtFQOS2kTEnMPTFLFU1t) | [HOUSE OF CONFUSION](https://open.spotify.com/album/1De8STCAE6HTMTLdrPPopx) | 3:53 | 2022-03-26 | 2022-05-20 |
 | [f\*ckthat](https://open.spotify.com/track/6nT7NSBL5xVNrHWSIlyKOf) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [f\*ckthat](https://open.spotify.com/album/25H1DxCMq28dkGqrZwn1gr) | 2:34 | 2021-10-02 | 2022-04-29 |

@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 175800,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 223157,
       "name": "Confam",
       "url": "https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 173993,
       "name": "GIDIGBA (FIRM & STRONG)",
       "url": "https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7"
@@ -1455,6 +1455,24 @@
       "duration_ms": 164000,
       "name": "Je M'appelle (feat. DaVido)",
       "url": "https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK"
+    },
+    {
+      "album": {
+        "name": "JJC",
+        "url": "https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297168,
+      "name": "JJC",
+      "url": "https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0"
     },
     {
       "album": {
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 170721,
       "name": "Monsta Alta",
       "url": "https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 229345,
       "name": "Non Living Thing (feat. Oxlade)",
       "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 211636,
       "name": "Ozumba Mbadiwe - Remix",
       "url": "https://open.spotify.com/track/0WZv29OGhRABeryXBPMAV6"
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 158746,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4R6CUDujx3BU6bzKksg191"
@@ -2681,7 +2699,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 194400,
       "name": "Sankofa - Remix",
       "url": "https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9"
@@ -2765,7 +2783,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 169043,
       "name": "Shaye",
       "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"

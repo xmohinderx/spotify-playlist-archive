@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,727 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,790 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 36 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
 | 37 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 |
 | 38 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 |
-| 39 | [Ayahuasca](https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg) | [Ayahuasca](https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6) | 8:28 |
-| 40 | [\(Interlude\)](https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [VIII](https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl) | 2:10 |
+| 39 | [\(Interlude\)](https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [VIII](https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl) | 2:10 |
+| 40 | [Ayahuasca](https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg) | [Ayahuasca](https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6) | 8:28 |
 | 41 | [Pinch](https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:30 |
 | 42 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
 | 43 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Never Meant To Call](https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant to Call](https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S) | 2:57 |
 | 60 | [Think Like I Do](https://open.spotify.com/track/2qjwe0mMqOne5HVFrpvdM8) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH), [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Think Like I Do](https://open.spotify.com/album/43DsyHKkzPdDohddCvOqaX) | 2:54 |
 
-Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGQwZmFkMjM3MDI5Mjc3NmVjZTQ5YzVlZjNiZTllYTk2`
+Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMDE5Mjg3OTc1MWMyMjEyM2IwYWI2YmIxZTgxNDMwZDc5`

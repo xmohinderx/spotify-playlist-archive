@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-154 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
+155 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Coming In From The Dark \(feat\. New Zealand Symphony Orchestra\)](https://open.spotify.com/track/7coaM4HB8EeGaaiDRZLI8w) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM) | [Coming In From The Dark \(feat\. New Zealand Symphony Orchestra\)](https://open.spotify.com/album/2cowqhLkF68Jf75IbsVJqn) | 3:14 | 2022-06-02 | 2022-08-12 |
 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 | 2022-06-02 |  |
 | [deeper](https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [deeper / stoned love](https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG) | 4:39 | 2022-06-30 | 2022-09-19 |
-| [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 | 2022-09-08 |  |
+| [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 | 2022-09-08 | 2022-12-09 |
 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 | 2022-11-17 |  |
 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 | 2022-06-02 |  |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2022-06-02 |  |
@@ -70,6 +70,7 @@
 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 | 2022-09-08 |  |
 | [Heaven](https://open.spotify.com/track/6zTKXx4SE7FjwWx7CAzArx) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 3:28 | 2022-06-02 | 2022-09-09 |
 | [Heaven](https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Encore](https://open.spotify.com/album/0yDrekG6pJ1jJyzc1wi9rK) | 3:28 | 2022-06-02 |  |
+| [Hide & Seek](https://open.spotify.com/track/7lH9Vabqv6TRBoJOxBxCzn) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Hide & Seek](https://open.spotify.com/album/1Jg4EisDyjigjGPZqCPnhH) | 4:26 | 2022-12-08 |  |
 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 | 2022-06-02 |  |
 | [Him](https://open.spotify.com/track/2B3Ny5pQjZKWwecdo7HL0B) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [3](https://open.spotify.com/album/27DK5lf19A05UbL8a32zy1) | 3:46 | 2022-07-28 | 2022-09-09 |
 | [Him](https://open.spotify.com/track/3s7QggkEE59CK0qBAhPOjO) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Him](https://open.spotify.com/album/0TejA7LPDCrMzlyYpaK4wA) | 3:46 | 2022-06-02 | 2022-07-29 |

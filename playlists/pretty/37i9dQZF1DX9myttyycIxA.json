@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Teenage Priest",
-  "num_followers": 274728,
+  "num_followers": 274863,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzMjA4MiwwMDAwMDAwMDJhZDg4YTlmOTk2MDRlN2NhOGIzYTM1NWU4NmZmNTIz",
+  "snapshot_id": "MTY3MDQzMjA4MiwwMDAwMDAwMDQ2ODRlMmUyYjc4MjMwYTRkZDVlNDllOTdkNDc4Mjgx",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -475,6 +475,22 @@
       "duration_ms": 188175,
       "name": "You are my House",
       "url": "https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 251213,
+      "name": "Expert In A Dying Field",
+      "url": "https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1061,22 +1077,6 @@
       "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 251213,
-      "name": "Expert In A Dying Field",
-      "url": "https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Bitter",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Let The Lights On",
-        "url": "https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Let The Lights On",
-      "url": "https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN"
-    },
-    {
       "added_at": "2022-11-17 17:47:18",
       "album": {
         "name": "Demons at the Dinner Table",
@@ -1155,6 +1139,22 @@
       "duration_ms": 188916,
       "name": "The Burned Down Dairy Queen",
       "url": "https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Let The Lights On",
+        "url": "https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Let The Lights On",
+      "url": "https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1665,7 +1665,7 @@
       "url": "https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB"
     },
     {
-      "added_at": "2022-12-08 01:26:22",
+      "added_at": "2022-12-09 01:28:56",
       "album": {
         "name": "tunnels",
         "url": "https://open.spotify.com/album/5KoX3aCqCu1r7QHgl4orSv"

@@ -35,7 +35,7 @@
           "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188471,
@@ -79,7 +79,7 @@
           "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186400,
@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Blanco y Negro Vol. 1",
+        "url": "https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148155,
+      "name": "Asi Nomas",
+      "url": "https://open.spotify.com/track/7ILG0oQ5J4F1lAqbXbV0hG"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/2J8YtGnbB9QKl6zAeIOzsh"
       },
@@ -259,7 +277,7 @@
           "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201084,
@@ -351,7 +369,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 182066,
       "name": "Como Pez En El Agua",
       "url": "https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a"
@@ -367,7 +385,7 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 122096,
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 208160,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 180826,
       "name": "Encontrarte",
       "url": "https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV"
@@ -789,7 +807,7 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212915,
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 186866,
       "name": "Especial",
       "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
@@ -1165,7 +1183,7 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226000,
@@ -1225,6 +1243,28 @@
       "duration_ms": 194538,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/67FjCsBqtUZLz6JICBZPTf"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
     },
     {
       "album": {
@@ -1567,7 +1607,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 163866,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/24BFgkBI2qTSNlsKi5WnJp"
@@ -1762,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "Se Vale Enamorarse",
+        "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Se Vale Enamorarse",
+      "url": "https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z"
+    },
+    {
+      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -1834,6 +1892,28 @@
     },
     {
       "album": {
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+    },
+    {
+      "album": {
         "name": "Suerte He Tenido",
         "url": "https://open.spotify.com/album/13uRlfKliCNUGJ3i6JEzgG"
       },
@@ -1901,7 +1981,7 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "date_added": "2022-11-28",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193621,
@@ -1925,6 +2005,28 @@
       "duration_ms": 237053,
       "name": "Te Amo Y Te Amo",
       "url": "https://open.spotify.com/track/2rAp8JQuhCUwl3O1HNxrss"
+    },
+    {
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197107,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
     },
     {
       "album": {
@@ -1975,7 +2077,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 180400,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
@@ -2165,7 +2267,7 @@
           "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 263100,
@@ -2185,7 +2287,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 173080,
       "name": "Un Mill\u00f3n de Primaveras",
       "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
@@ -2246,6 +2348,28 @@
     },
     {
       "album": {
+        "name": "Voy a Conquistarte",
+        "url": "https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175051,
+      "name": "Voy a Conquistarte",
+      "url": "https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6"
+    },
+    {
+      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -2261,6 +2385,24 @@
       "duration_ms": 166200,
       "name": "Y As\u00ed Fue",
       "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Musical",
+        "url": "https://open.spotify.com/album/176ksjtFEAIhMgTYpQDjGG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Y Que Quede Claro",
+      "url": "https://open.spotify.com/track/1jQKaVoVmhh7pqxrRh5Mev"
     },
     {
       "album": {

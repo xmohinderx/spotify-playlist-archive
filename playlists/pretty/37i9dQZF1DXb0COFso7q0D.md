@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Luis R Conriquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,934,929 likes - 69 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,935,775 likes - 69 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

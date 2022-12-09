@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Shiva",
+  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Tedua",
   "name": "Plus Ultra",
   "published_playlist_ids": [
     "7z4B5G5t7icaq70XD3Gf3S"
@@ -426,6 +426,32 @@
     },
     {
       "album": {
+        "name": "Bandito",
+        "url": "https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Nardi",
+          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Bandito",
+      "url": "https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI"
+    },
+    {
+      "album": {
         "name": "Banlieue",
         "url": "https://open.spotify.com/album/1X7LRBkdizwwX3TtU2zrDO"
       },
@@ -681,7 +707,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 157333,
       "name": "Bottiglie rotte (feat. Emis Killa & Gemitaiz)",
       "url": "https://open.spotify.com/track/16Mq5VdmOEtKg3kYSp0Dpp"
@@ -863,7 +889,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 179653,
       "name": "Caos",
       "url": "https://open.spotify.com/track/5ychvxJuts6RyjQz2aoXqY"
@@ -1157,7 +1183,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 197647,
       "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
       "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
@@ -1678,6 +1704,28 @@
     },
     {
       "album": {
+        "name": "C\u0153ur blanc",
+        "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "Grazie la zone",
+      "url": "https://open.spotify.com/track/5DQQfgrqgRpkUO6HXtx1jK"
+    },
+    {
+      "album": {
         "name": "Guardare Sotto",
         "url": "https://open.spotify.com/album/5ElAMiTYjmJgnWQ84ZzHaM"
       },
@@ -1803,6 +1851,24 @@
       "duration_ms": 157013,
       "name": "Il meglio di te",
       "url": "https://open.spotify.com/track/2eTXrwuncNqUOAxw2YJ8lv"
+    },
+    {
+      "album": {
+        "name": "NOI, LORO, GLI ALTRI (Deluxe)",
+        "url": "https://open.spotify.com/album/1qfURwkRukKvemVbObKJXy"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201184,
+      "name": "IMPORTANTE",
+      "url": "https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4"
     },
     {
       "album": {
@@ -2852,6 +2918,24 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228454,
+      "name": "Non lo Sai",
+      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
+    },
+    {
+      "album": {
         "name": "Non \u00e8 Easy",
         "url": "https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP"
       },
@@ -3199,7 +3283,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 155862,
       "name": "PIOVE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"

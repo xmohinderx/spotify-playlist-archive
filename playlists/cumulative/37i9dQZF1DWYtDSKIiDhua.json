@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: RINI ",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: SZA",
   "name": "mood.",
   "published_playlist_ids": [
     "26MnmTp5Ay0CeKf3X2PBvn"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 229250,
       "name": "All for U",
       "url": "https://open.spotify.com/track/4k2dxVydbkJdf9qSuVRKuf"
@@ -185,6 +185,24 @@
       "duration_ms": 221222,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/7ziBvMT017ycfAxit7j7kf"
+    },
+    {
+      "album": {
+        "name": "almond eyes",
+        "url": "https://open.spotify.com/album/0bwBVQwy1TgmqkRt3Wuib0"
+      },
+      "artists": [
+        {
+          "name": "Clavita",
+          "url": "https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "almond eyes",
+      "url": "https://open.spotify.com/track/0UQqXykR504ftBmPR2XlwM"
     },
     {
       "album": {
@@ -569,7 +587,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 194694,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/050HadXOtx4AfRyfYEUbps"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 154119,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
@@ -2434,6 +2452,24 @@
     },
     {
       "album": {
+        "name": "Like No One's Done",
+        "url": "https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235880,
+      "name": "Like No One's Done",
+      "url": "https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J"
+    },
+    {
+      "album": {
         "name": "LILITH",
         "url": "https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j"
       },
@@ -2579,7 +2615,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 172000,
       "name": "Love When You Love",
       "url": "https://open.spotify.com/track/3eDngrH9wKzUCeROZLTxGu"
@@ -3041,7 +3077,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 215579,
       "name": "Not an Ordinary Fairytale (feat. MUREI)",
       "url": "https://open.spotify.com/track/3h9NRcDVEGLk8EUk2MLh7p"
@@ -3407,6 +3443,28 @@
       "duration_ms": 183506,
       "name": "Petty",
       "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
+    },
+    {
+      "album": {
+        "name": "WOAH, WHAT A BLUR!",
+        "url": "https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164469,
+      "name": "PICK YOUR POISON (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y"
     },
     {
       "album": {
@@ -3974,6 +4032,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117773,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W"
+    },
+    {
+      "album": {
         "name": "Sound of Smoke",
         "url": "https://open.spotify.com/album/25IaHNxGHV3bc3620r634Q"
       },
@@ -4163,7 +4239,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 165205,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/1FwhukU3ZPJrjKkBqKOftx"
@@ -4403,7 +4479,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 213789,
       "name": "The Way You Move",
       "url": "https://open.spotify.com/track/3Ki7n1kx9fzuflkW03iRuw"
@@ -4501,7 +4577,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 211867,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/45HLGBHegbepv8pcUsR7wI"
@@ -5079,7 +5155,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 174500,
       "name": "Zzz",
       "url": "https://open.spotify.com/track/2TwxwrWywjWZn9KDEHvVVE"

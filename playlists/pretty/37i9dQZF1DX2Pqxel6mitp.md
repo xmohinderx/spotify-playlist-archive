@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,109 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,205 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Help Me](https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 3:08 |
-| 2 | [Mississippi Phone Booth](https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:06 |
-| 3 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 |
+| 2 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 |
+| 3 | [Mississippi Phone Booth](https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:06 |
 | 4 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 |
 | 5 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
 | 6 | [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 77 | [Devil Got My Woman](https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Devil Got My Woman](https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr) | 5:15 |
 | 78 | [Take A Little Walk With Me \- Remastered](https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Otis Spann Is The Blues \(Remastered\)](https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2) | 3:27 |
 | 79 | [Going To Chicago](https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 3:50 |
-| 80 | [Shake Sugaree](https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Shake Sugaree](https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W) | 3:29 |
-| 81 | [Candy Man Blues](https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Candy Man Blues: Essential Recordings](https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L) | 2:55 |
+| 80 | [Candy Man Blues](https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Candy Man Blues: Essential Recordings](https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L) | 2:55 |
+| 81 | [Shake Sugaree](https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Shake Sugaree](https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W) | 3:29 |
 | 82 | [Low Down Dog](https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:38 |
 | 83 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 |
 | 84 | [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 99 | [Please Take My Hand](https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue) | 3:03 |
 | 100 | [Louis Collins](https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Today!](https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw) | 4:08 |
 
-Snapshot ID: `MTY2ODc3NzQ5NywwMDAwMDAwMDY1OTNkMzNmODVmZjA0NGIyOTU4NTQ3ZmNlOGJmZDVm`
+Snapshot ID: `MTY2ODc3NzQ5NywwMDAwMDAwMDA4NTRiYWRkMjI3ODc0YWQ1ZjE2Y2FkNTg5YWYwZTMx`

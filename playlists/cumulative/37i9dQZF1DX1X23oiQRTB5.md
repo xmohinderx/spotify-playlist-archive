@@ -2,15 +2,15 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Zola au top de la première playlist de rap français !
+> Niska au top de la première playlist de rap français !
 
-121 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+124 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22](https://open.spotify.com/track/0Q9yA6p8yufj42kYFZMdJa) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:21 | 2022-07-28 | 2022-11-11 |
 | [22](https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [22](https://open.spotify.com/album/5xeUL1ff9wFIl6pNxOnmsk) | 3:21 | 2022-06-16 | 2022-07-29 |
-| [44](https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2) | 2:47 | 2022-01-06 |  |
+| [44](https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2) | 2:47 | 2022-01-06 | 2022-12-09 |
 | [A la base](https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I) | 4:26 | 2022-01-06 | 2022-07-29 |
 | [A la base](https://open.spotify.com/track/0VJwgZkDmZZLZygKnPj2s6) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 4:26 | 2022-07-28 | 2022-08-26 |
 | [Akimbo](https://open.spotify.com/track/0GHN9qDtUXOctlf96tzivw) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/2JWtcWOPqE9NRXv0O6DCLU) | 2:30 | 2022-01-06 | 2022-04-29 |
@@ -26,10 +26,11 @@
 | [Bruce Wayne](https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:07 | 2022-01-06 | 2022-06-03 |
 | [Brûle](https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:31 | 2022-03-24 | 2022-07-08 |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2022-01-20 | 2022-10-14 |
-| [CELINE 3X](https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CELINE 3X](https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT) | 2:38 | 2022-05-26 |  |
+| [CELINE 3X](https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CELINE 3X](https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT) | 2:38 | 2022-05-26 | 2022-12-09 |
+| [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-08 |  |
 | [Chic choc](https://open.spotify.com/track/1mPommdCgPxwWW1pkoUkes) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [VOL 169 ATTERRISSAGE](https://open.spotify.com/album/7u3TOtAemTZ2eXT7JjNBCh) | 3:11 | 2022-05-12 | 2022-11-04 |
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-06-30 | 2022-11-17 |
-| [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2022-11-10 |  |
+| [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2022-11-10 | 2022-12-09 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2022-11-10 |  |
 | [Cramé](https://open.spotify.com/track/3Db0wui02C3y86PfDJg5aC) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Cramé](https://open.spotify.com/album/6XqY3jSiJKGAT6rEQ96eYA) | 3:05 | 2022-01-06 | 2022-01-14 |
 | [Daddy chocolat](https://open.spotify.com/track/4IbDTrLxImTJfZePAX2nKB) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Cartel : volume 1](https://open.spotify.com/album/3wro1GpN4PVPZIeg7ykUFk) | 3:11 | 2022-01-06 | 2022-03-11 |
@@ -43,6 +44,7 @@
 | [Fais de l'argent](https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Fais de l'argent](https://open.spotify.com/album/12vTC7BH3Scluv2woieacw) | 2:25 | 2022-07-28 |  |
 | [Fendi love](https://open.spotify.com/track/1tQRE9DOEtDzMSGRsGYqFM) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:34 | 2022-01-06 | 2022-01-14 |
 | [Fixette](https://open.spotify.com/track/5sLfmuQHJtPjSORQF2sbrJ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Fixette](https://open.spotify.com/album/6Y4OKe6gdIgxaVfJrASQzE) | 3:33 | 2022-01-06 | 2022-10-07 |
+| [FLEURS \(feat\. Tiakola\)](https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:30 | 2022-12-08 |  |
 | [FRAUDE](https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [FRAUDE](https://open.spotify.com/album/1ds595bn2azH1sYiG38A66) | 3:08 | 2022-06-09 | 2022-12-02 |
 | [Fuego](https://open.spotify.com/track/1mBdiyA2OUySEprEEOKJ6g) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Fuego](https://open.spotify.com/album/1gKn9d5OHN2aUw9FHRFD4C) | 3:31 | 2022-01-06 | 2022-06-24 |
 | [Full black](https://open.spotify.com/track/1WcBhct7iVXliYorbEKTql) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 2:29 | 2022-08-18 | 2022-10-21 |
@@ -91,6 +93,7 @@
 | [N.I](https://open.spotify.com/track/4H1CfsnXQonWnJeHzHuVUz) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [N.I](https://open.spotify.com/album/0LsSz4wemYvMIr5l0AUUR9) | 2:59 | 2022-01-06 | 2022-10-21 |
 | [NEYMAR JR](https://open.spotify.com/track/3ejRaW9IZCWkr15JN2OpQO) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NOSTALGIA+](https://open.spotify.com/album/6ZINcIMQXxeGL6hvC7nG75) | 2:45 | 2022-05-05 | 2022-11-11 |
 | [Nintch](https://open.spotify.com/track/57ogeKenA6Q9sFnWTuloKy) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Agis ou Rêve](https://open.spotify.com/artist/2orsIwfNhcubub42sK74uP) | [Nintch](https://open.spotify.com/album/1h2DffxQt1NMDczFScHo3p) | 2:56 | 2022-01-06 | 2022-06-10 |
+| [Niobe](https://open.spotify.com/track/0MBUiPhMx69GRBu4PwfFjJ) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:28 | 2022-12-08 |  |
 | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO) | 2:59 | 2022-03-31 |  |
 | [ONGBAK 2](https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE !](https://open.spotify.com/album/322mvTsAmEoCF3rbnXy9iQ) | 2:31 | 2022-01-06 | 2022-03-18 |
 | [Papel](https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Papel](https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5) | 3:10 | 2022-07-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,752 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,952 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 24 | [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 |
 | 25 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 |
 | 26 | [Can I Call You](https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Can I Call You](https://open.spotify.com/album/51IbpY4dtaQ0alpNOHhsgE) | 4:22 |
-| 27 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 |
-| 28 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:11 |
+| 27 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:11 |
+| 28 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 |
 | 29 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 |
 | 30 | [Dicen](https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 2:44 |
 | 31 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Run \(feat\. Gareth Jones & Ólavur Jákupsson\)](https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 5:11 |
 | 100 | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/album/34AeLleD5JHCTphmCLyCgI) | 4:00 |
 
-Snapshot ID: `MTY2ODcyNTQ4MCwwMDAwMDAwMDZhNTkzOWFlYjdmMDI5Y2I3MzcwZTRkMjBmNzQ2ZTk4`
+Snapshot ID: `MTY2ODcyNTQ4MCwwMDAwMDAwMDBiZTk2MTU1NjkxODE4YzA0NmVmZjRhNmI2Njg3YWEx`

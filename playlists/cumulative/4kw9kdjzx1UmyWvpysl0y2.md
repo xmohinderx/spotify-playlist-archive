@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-365 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+366 songs - 21 hr 23 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Drift Away](https://open.spotify.com/track/2L8at3lop2IDJyYeBMMUZa) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Drift Away](https://open.spotify.com/album/6syTBBVYJJ9Tlp4sBAW2k4) | 3:42 | 2022-08-08 | 2022-10-20 |
 | [Drive You Crazy](https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Drive You Crazy](https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb) | 2:58 | 2022-07-08 | 2022-09-23 |
 | [Droids](https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Droids](https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0) | 3:40 | 2022-06-09 | 2022-08-23 |
+| [Duality](https://open.spotify.com/track/3SdDaIM1CjAEaFN9jmqfjf) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Duality](https://open.spotify.com/album/1y7jhXRTJG1kBi7ZftkjB8) | 3:30 | 2022-12-08 |  |
 | [Eagle Rock](https://open.spotify.com/track/04XcibbkTGfV5dbUZ1e2FJ) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 4:04 | 2022-11-19 | 2022-11-22 |
 | [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 | 2022-11-02 |
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 | 2022-09-27 |
@@ -207,7 +208,7 @@
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 | 2022-07-26 |
 | [Midnight](https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve) | [Midnight](https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW) | 2:32 | 2022-09-23 | 2022-11-29 |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
-| [Mirror](https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Mirror](https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ) | 4:09 | 2022-10-07 |  |
+| [Mirror](https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Mirror](https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ) | 4:09 | 2022-10-07 | 2022-12-09 |
 | [Mirror Of Erised](https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Mirror Of Erised](https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH) | 3:46 | 2022-08-19 | 2022-11-01 |
 | [Mirrors](https://open.spotify.com/track/59j1aFqihFjuwZzii7lIYP) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [BELELA](https://open.spotify.com/artist/6nPKt2CGXcKHtmbMq8Sq62) | [Mirrors](https://open.spotify.com/album/5NoNQjHMRQ0bmO2BfOoxv1) | 3:21 | 2022-07-26 | 2022-10-07 |
 | [Moment](https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Moment](https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8) | 2:42 | 2022-07-01 | 2022-09-17 |

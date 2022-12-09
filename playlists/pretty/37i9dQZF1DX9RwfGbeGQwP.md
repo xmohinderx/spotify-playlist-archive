@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,367 likes - 500 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,651 likes - 500 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 215 | [Sounds like fog](https://open.spotify.com/track/1MAKPG2lOnh7wO51jLLjkC) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Sounds like fog](https://open.spotify.com/album/2h0IQwmC5MDUtWSqQhC0UH) | 2:41 |
 | 216 | [Fluffy White Clouds](https://open.spotify.com/track/2IDZCu8wc18XPTVBR9FToF) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [De Nada](https://open.spotify.com/album/2KQ8Qq9xZismI1yYYTTrNi) | 2:58 |
 | 217 | [Sometimes](https://open.spotify.com/track/7JfyU9wSgLEHobFGJpcQfN) | [nijapear](https://open.spotify.com/artist/0YbktpIZIhXGoRFFzWLayC) | [Sometimes](https://open.spotify.com/album/79GvfGjbjDzk6oFaxbgJVn) | 2:37 |
-| 218 | [Neurons](https://open.spotify.com/track/3gsZFTu3zxzRjnQlUvzgJo) | [Sami Zcat](https://open.spotify.com/artist/5V936UE5F0P3bBmXAEASvo) | [Neurons](https://open.spotify.com/album/5TjJ5jPREgKfGRrgyAZC1U) | 2:07 |
+| 218 | [Neurons](https://open.spotify.com/track/3gsZFTu3zxzRjnQlUvzgJo) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Neurons](https://open.spotify.com/album/5TjJ5jPREgKfGRrgyAZC1U) | 2:07 |
 | 219 | [the moment we knew](https://open.spotify.com/track/5aY7IoXvyXqCGAnjgWivlu) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [the moment we knew](https://open.spotify.com/album/4RbXsJ7x7b3JSJiaJbGxPz) | 1:47 |
 | 220 | [Coffee Jazz vibes](https://open.spotify.com/track/0MUGs0JpdZiIbtwsACGQci) | [Zleept](https://open.spotify.com/artist/503ArEUA5XIRmhJCk7fRdN) | [But It is L O F I](https://open.spotify.com/album/04CJWN7lrnFkMBWh2ATsF3) | 1:50 |
 | 221 | [Afternoon Jazz](https://open.spotify.com/track/0ObR3dy3c6Hy2rQ5o2WFTY) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [Afternoon Jazz](https://open.spotify.com/album/64diavRvTmTahoSSCeTMuU) | 1:46 |
@@ -263,7 +263,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 253 | [Sentimental Sauce](https://open.spotify.com/track/7pdaoW0kjLzxIF3hSl9e0D) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Mysa](https://open.spotify.com/album/3m66dPCeb4wYIJq3fwUwIO) | 2:44 |
 | 254 | [Psilocin Attace](https://open.spotify.com/track/7quzfRo0T2UDxabGmYy1Ly) | [Comforta](https://open.spotify.com/artist/0tpE2aiOKCByBx0ZeHNFhP) | [Psilocin Attace](https://open.spotify.com/album/3G3AH2Ih76zJJL2uSkp0ZD) | 2:07 |
 | 255 | [Hepcats lounge](https://open.spotify.com/track/7zJUjkME1Z1Mtf3CHCcizs) | [Rezet](https://open.spotify.com/artist/2ZaazietfBEh1vS7xRvZS0) | [Hepcats Lounge](https://open.spotify.com/album/3VHYpZIkgFLgPufzLq3wvE) | 2:29 |
-| 256 | [Waves](https://open.spotify.com/track/1cGVlkqnGEI1G5YrkNDput) | [A.T Reed](https://open.spotify.com/artist/7icTb9O3aej4trbeuD9yBc) | [Waves](https://open.spotify.com/album/67mCWi7kNXVMnHuL1vHRPW) | 2:03 |
+| 256 | [Waves](https://open.spotify.com/track/1cGVlkqnGEI1G5YrkNDput) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [Waves](https://open.spotify.com/album/67mCWi7kNXVMnHuL1vHRPW) | 2:03 |
 | 257 | [lighthouse](https://open.spotify.com/track/6GaYn3Z1Eyz4xjA0Nuw98k) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [lighthouse](https://open.spotify.com/album/7hJQ6X9HRM1tq0xISbWYVZ) | 1:58 |
 | 258 | [Into The Deep](https://open.spotify.com/track/48XQa6SedIMMrLgaayGF1P) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Into The Deep](https://open.spotify.com/album/5aiWXOc1LV3K8r0mLyw5Fy) | 2:16 |
 | 259 | [Pumpkin](https://open.spotify.com/track/7oFtROdiwVSsqm8WmY6Zyv) | [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE) | [Pumpkin](https://open.spotify.com/album/0OmDBT6N79NtzuBX3YNBBB) | 2:12 |

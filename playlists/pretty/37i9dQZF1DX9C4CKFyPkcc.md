@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,835 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,700 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 22 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 |
 | 23 | [It's The Most Wonderful Time Of The Year \- Remastered 2007](https://open.spotify.com/track/2eqBIB27ZWL0uBRL26nRWc) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Home For Christmas](https://open.spotify.com/album/6zsXpKxvpjmwXvoxPdN2eQ) | 2:26 |
 | 24 | [Oh, It’s Christmas!](https://open.spotify.com/track/4bCsqW97CsQAswDBuwGyzz) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 3:25 |
-| 25 | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [IAMSON](https://open.spotify.com/artist/3ZhURzu0QFan16Hl16Lxk2) | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw) | 3:27 |
+| 25 | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E) | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw) | 3:27 |
 | 26 | [Fall in Love at Christmas](https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Fall in Love at Christmas](https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI) | 5:08 |
 | 27 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0QK0ftnKFr0DSOzB5HCmfJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:19 |
 | 28 | [Jingle Bells](https://open.spotify.com/track/2kvXnUbRUnHS5195eyQp4a) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 1:49 |

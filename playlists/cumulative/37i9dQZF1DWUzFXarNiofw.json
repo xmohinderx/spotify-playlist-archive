@@ -5249,7 +5249,7 @@
     {
       "album": {
         "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/4G4S7oiK7aezWTGsv7cJih"
+        "url": "https://open.spotify.com/album/69aXkfD7bJROlPuZok3Vf3"
       },
       "artists": [
         {
@@ -5260,6 +5260,24 @@
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207058,
+      "name": "I Wanna Fall",
+      "url": "https://open.spotify.com/track/0GHmTC6AUzWOUR8thoxzsB"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/4G4S7oiK7aezWTGsv7cJih"
+      },
+      "artists": [
+        {
+          "name": "King Sis",
+          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
       "duration_ms": 207058,
       "name": "I Wanna Fall",
       "url": "https://open.spotify.com/track/5m5LuulFGsW8p6X6K1PJMX"

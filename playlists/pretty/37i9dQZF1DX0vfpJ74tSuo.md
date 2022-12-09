@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,484 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,564 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 31 | [Walkin Man](https://open.spotify.com/track/3lw5QiH1GDqRFVtpQpOd4g) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [I Started Out With Nothin And I Still Got Most Of It Left](https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr) | 2:42 |
 | 32 | [Woke up This Morning](https://open.spotify.com/track/5dAoQMVA2jwl1hCTJGeWAm) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes, Vol\. 1](https://open.spotify.com/album/5WFLwckcjlr3Ui8pGIgzVb) | 4:31 |
 | 33 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 |
-| 34 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 |
-| 35 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
-| 36 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 |
+| 34 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
+| 35 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 |
+| 36 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 |
 | 37 | [Fishin' Blues](https://open.spotify.com/track/4jh6QSj0uHqxTEU1o0DmB6) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Giant Steps/De Old Folks At Home](https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty) | 3:04 |
 | 38 | [Sweet Goddess Blues](https://open.spotify.com/track/3XMPpennPuz3oZnOZx193p) | [Natural Blues](https://open.spotify.com/artist/0Uiywt2Agresj5Su8OxALd) | [Extraordinary Times \(The Duo Sessions\)](https://open.spotify.com/album/6hnHx3h7NFAkWE7EbseSHk) | 3:26 |
 | 39 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 99 | [God Moves on the Water](https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 3:01 |
 | 100 | [See See Rider](https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Country Blues](https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2) | 3:14 |
 
-Snapshot ID: `MTY2OTk5MDUzMiwwMDAwMDAwMDk0NTQzYzJmYWYxNWQxMDdjZDlkMTllNDkwZjBmZTFm`
+Snapshot ID: `MTY2OTk5MDUzMiwwMDAwMDAwMDcwZjBiMDE0YTUzM2NjYjVlZjkyMmJjYWE4MjA1YjBl`

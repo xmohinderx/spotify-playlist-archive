@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 322291,
+  "num_followers": 322493,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMGE1ZjIwZGFhNTJiOGZjZmNlNjBmNzAwZTM0Zjc3MTY0",
+  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDBlNGEwODFiODU2MmNlYTI1YTBlNTYyODk3YWM1NTNi",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Chiseled In Stone",
+        "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
+      },
+      "artists": [
+        {
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Set 'Em Up Joe",
+      "url": "https://open.spotify.com/track/3NK1S43wIXbYhWHCjQOrnM"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 200640,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "Chiseled In Stone",
-        "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Set 'Em Up Joe",
-      "url": "https://open.spotify.com/track/3NK1S43wIXbYhWHCjQOrnM"
     },
     {
       "added_at": "2022-05-06 19:37:58",

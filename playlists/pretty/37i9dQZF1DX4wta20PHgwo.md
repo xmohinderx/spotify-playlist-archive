@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,985,254 likes - 100 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,985,495 likes - 100 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Beirut](https://open.spotify.com/track/6zMFMAx1yW8IAnT5pMqoD9) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Monday](https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt) | 4:24 |
 | 100 | [Those Peaceful Nights](https://open.spotify.com/track/3uL5MKK614H6AfCx2BKBqV) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Ambivalence](https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS) | 7:15 |
 
-Snapshot ID: `MTY3MDMzMTY1NywwMDAwMDAwMDJlYjYxMDAxYjgyM2Q4Nzc4ZTkyNDhiNDA2MTdkMzFl`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDQ1NmQyODJkZmY3ZjBmMDVlZGM2MjhlNTNmMmE2MjBh`

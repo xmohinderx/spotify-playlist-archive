@@ -4,7 +4,7 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-89 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+90 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-04-12 |  |
 | [Alice In Wonderland](https://open.spotify.com/track/4mJzer8K8AT67EkD3VLTGE) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [Alice In Wonderland](https://open.spotify.com/album/2fHP1WQbizUKTyMoNDRPrV) | 2:04 | 2022-10-27 |  |
 | [Alice In Wonderland](https://open.spotify.com/track/3KvvR3y5CZTt7Zef7y2Yc5) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Alice In Wonderland](https://open.spotify.com/album/7x5H2e51cujnBxayPva0C3) | 3:00 | 2022-05-10 | 2022-05-25 |
+| [Almost Being In Love](https://open.spotify.com/track/7lFqg5DjHCJW7fLgY6kLt2) | [Soñoliento](https://open.spotify.com/artist/0wINvfAKLiF2PHqBYU422q) | [Almost Being In Love](https://open.spotify.com/album/5Ymu1jC3DZjHLdTCtQg8rn) | 1:53 | 2022-12-08 |  |
 | [Amazing Grace](https://open.spotify.com/track/1Ysn52DqNxhj2EWYIAvFWk) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [Amazing Grace](https://open.spotify.com/album/1Gw01tnxxPW9AKMgHE5Xmw) | 2:38 | 2022-06-01 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4Rvzz7UMj2niJe83HgZx3Y) | [Jazz for Babies](https://open.spotify.com/artist/6HTqDlK6LS0Ju7P58XXW2T) | [The Piano Album](https://open.spotify.com/album/0eBs49NdPsqdca0VztAB4K) | 2:13 | 2022-04-12 | 2022-04-27 |
 | [Autumn Leaves](https://open.spotify.com/track/5sqvQARdZgWBHQbUmo1RCQ) | [Leo Doyle](https://open.spotify.com/artist/0iHePaUxXFl3dyJaCfbwbg) | [Moon River](https://open.spotify.com/album/42sPSx5wz9umkfdMf4XVCJ) | 2:07 | 2022-04-26 |  |
@@ -24,7 +25,7 @@
 | [Con Alma](https://open.spotify.com/track/5iOP4mVVppHxNUwonMF1St) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [Con Alma](https://open.spotify.com/album/4PB3kgtOFwssoItP8ZuDAI) | 2:35 | 2022-06-01 |  |
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2022-04-12 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-04-12 |  |
-| [Dolphin Dance](https://open.spotify.com/track/1db8iPd7L5PMc7T2R1MOrR) | [Alfred Silverstein](https://open.spotify.com/artist/0n0lqiPhrNcf4uF5hjCkbW) | [The Nearness Of You](https://open.spotify.com/album/6ma76nnxJK36EugzKI3vPI) | 4:10 | 2022-04-12 |  |
+| [Dolphin Dance](https://open.spotify.com/track/1db8iPd7L5PMc7T2R1MOrR) | [Alfred Silverstein](https://open.spotify.com/artist/0n0lqiPhrNcf4uF5hjCkbW) | [The Nearness Of You](https://open.spotify.com/album/6ma76nnxJK36EugzKI3vPI) | 4:10 | 2022-04-12 | 2022-12-09 |
 | [Embraceable You](https://open.spotify.com/track/2u1t4nMzVNG5Y5zwAyScxi) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:12 | 2022-04-12 |  |
 | [Emily](https://open.spotify.com/track/16EA5VBBsTJmrkyGw6mvfj) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:00 | 2022-04-12 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/70jKZ9jplvlnlAi0wKkadt) | [Janine Armstrong](https://open.spotify.com/artist/41t6NJqycI6qMpqTQkzybq) | [When I Fall in Love](https://open.spotify.com/album/1u9AjdFUJ82xNT7JwUVKR0) | 2:50 | 2022-04-12 |  |

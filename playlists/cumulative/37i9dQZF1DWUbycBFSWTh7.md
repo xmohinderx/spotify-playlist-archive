@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-134 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+135 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Good High](https://open.spotify.com/track/1SxO0Ah8zvoRwxq83RZqWk) | [Deeleegenz](https://open.spotify.com/artist/51Owzst8mz8gEYdXQXyLkq) | [Good High](https://open.spotify.com/album/5OZ677vM7vbNnuKPVgz5rt) | 5:59 | 2022-09-15 |  |
 | [Harlem Hustle](https://open.spotify.com/track/2wYjswgI757Tpq6N5Ee8a4) | [Tony Lionni](https://open.spotify.com/artist/0g3ijCFCQjtkCsJh7sPoBG) | [Harlem Hustle](https://open.spotify.com/album/3DtDxzORqwKZOqHjwvK6mx) | 6:02 | 2022-09-15 |  |
 | [Here And Now \- INVU's Lexicon Remix](https://open.spotify.com/track/1gSANgZerYiT7UiY2T0avU) | [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil), [INVU](https://open.spotify.com/artist/0eP5IhmeRqYd8TXPzMKy5H) | [Here And Now \- INVU Remixes](https://open.spotify.com/album/1oa2kKjR6ByavGP97SWhxW) | 6:14 | 2022-09-15 |  |
+| [High School](https://open.spotify.com/track/5BxxJuGICKXs0HcGsVS7Rj) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [High School](https://open.spotify.com/album/1j1wj9lsbZzpUUqCItD4cQ) | 2:57 | 2022-12-08 |  |
 | [Holos \- Edit](https://open.spotify.com/track/0bkzYVDAsHmwrbbgzu6nfh) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq), [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Holos](https://open.spotify.com/album/5qqz89AxH2yfrkc1X2Lu01) | 4:40 | 2022-09-15 |  |
 | [Hot Stuff](https://open.spotify.com/track/0Ea1vhRQJME0EUa9oUIcFW) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Hot Stuff](https://open.spotify.com/album/7d38luOmuFNQMhpSqIKG6C) | 5:55 | 2022-09-15 |  |
 | [How U Do It](https://open.spotify.com/track/7dl5jIAxtO0Ix0e40PcjfJ) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [How U Do It](https://open.spotify.com/album/5dXd1Tk9Ih35K6X98aaQrL) | 4:46 | 2022-09-15 |  |

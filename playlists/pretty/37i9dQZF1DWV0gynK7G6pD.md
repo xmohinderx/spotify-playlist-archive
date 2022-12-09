@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Baltic Sea Philharmonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,444 likes - 53 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,605 likes - 53 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 23 | [Arabeske, Op\. 18](https://open.spotify.com/track/3vnvRUPF7hB7TV2s98bTeH) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Fabrizio Chiovetta](https://open.spotify.com/artist/7JkDwnNKDmPHeA5P6sOij3) | [Schumann: Arabeske, Op\. 18](https://open.spotify.com/album/326foQ9kCdzm2VVJsi1tJ3) | 6:17 |
 | 24 | [Remember \(feat\. Clemens Christian Poetzsch\) \- Piano Version](https://open.spotify.com/track/3KmYLYbTNT51uxXuMogGrN) | [mondëna quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo), [Shir\-Ran Yinon](https://open.spotify.com/artist/4RFrDNPQevHUdBQ6hpi91X), [Clemens Christian Poetzsch](https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc) | [Remember \(feat\. Clemens Christian Poetzsch\) \[Piano Version\]](https://open.spotify.com/album/4maNpqKsMVk4U7SScq3Vcs) | 4:54 |
 | 25 | [Prélude, fugue et variation in B Minor, Op\. 18, FWV 30 \(Arr\. H\. Bauer for Piano\): I\. Prélude\. Andantino](https://open.spotify.com/track/6OrX1pa45pCNCznWKd55h2) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Jean\-Pierre Armengaud](https://open.spotify.com/artist/4wtRvA0Z9U9f7c7E4vdVyH) | [Franck: Piano Rarities \- Original Works & Transcriptions](https://open.spotify.com/album/2JYGroNrMk2n4VNksizDs7) | 3:43 |
-| 26 | [The Lighthouse Keeper](https://open.spotify.com/track/6PPVZCwleMwaGfcGy0UJxj) | [Apollo5](https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx) | [The Lighthouse Keeper](https://open.spotify.com/album/2nigsimU9JEojzfWi8fdzS) | 4:27 |
+| 26 | [The Lighthouse Keeper \(arr\. Paul Smith\)](https://open.spotify.com/track/6PPVZCwleMwaGfcGy0UJxj) | [Apollo5](https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx) | [The Lighthouse Keeper \(arr\. Paul Smith\)](https://open.spotify.com/album/2nigsimU9JEojzfWi8fdzS) | 4:27 |
 | 27 | [Trois Gymnopédies, IES 26: Gymnopédie No\. 1](https://open.spotify.com/track/7e8fiMmWuD1u3p4f8zgfcr) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Denis Pascal](https://open.spotify.com/artist/144znqqfxjMyMIgVXMTnnr) | [Satie: Gymnopedies](https://open.spotify.com/album/5nvAehC3cEOAUfImdelkKy) | 3:02 |
 | 28 | [Reverie](https://open.spotify.com/track/0hiYL3AODDrJjZgjtJMN9e) | [Alexander Mansour](https://open.spotify.com/artist/6cRnGkMHVMonOrSawHpzTe) | [Reverie](https://open.spotify.com/album/1K1sTqQgNL5hZXjtx277zf) | 3:40 |
 | 29 | [A New Ground in E Minor, Z .682](https://open.spotify.com/track/1h61tojQ4iGikUXZ0SDz4Z) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Satoko Doi\-Luck](https://open.spotify.com/artist/7BS03YvZqOIbEUAxtTyTkd) | [Purcell: Love Restor'd](https://open.spotify.com/album/4agy2c2jNeH0BU5IJwk5SN) | 2:49 |

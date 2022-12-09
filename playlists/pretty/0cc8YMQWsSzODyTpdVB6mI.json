@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 44609,
+  "num_followers": 44617,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MzAxNSwwZTkwOTVkNzNlMzM2YzIxNjk3Y2UyMTUwOGRjYjdhMjYxMzBjMjIx",
+  "snapshot_id": "MzAxNyw0YmU3M2I5YjI5MWEzOWRkN2JkM2Q2NzVhYTM4ODAyYTIyY2M1ODEx",
   "tracks": [
+    {
+      "added_at": "2022-12-08 09:02:50",
+      "album": {
+        "name": "Shiver & Gold",
+        "url": "https://open.spotify.com/album/5o7cXm5Xm6KMkltlPzBDIW"
+      },
+      "artists": [
+        {
+          "name": "Imanos",
+          "url": "https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb"
+        }
+      ],
+      "duration_ms": 214062,
+      "name": "Shiver & Gold",
+      "url": "https://open.spotify.com/track/3N71XPi2XVIuIMSrrsy8fB"
+    },
     {
       "added_at": "2022-12-07 10:13:30",
       "album": {
@@ -20,12 +36,8 @@
           "url": "https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O"
         },
         {
-          "name": "Omolola Ojaomo",
-          "url": "https://open.spotify.com/artist/4SNBfmf0dPQ2luCRnpZYpv"
-        },
-        {
-          "name": "mynamesisleonidas",
-          "url": "https://open.spotify.com/artist/6Pl9QP9wRNJK9YmOcfiiYx"
+          "name": "mynameisleonidas",
+          "url": "https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe"
         }
       ],
       "duration_ms": 173750,
@@ -411,22 +423,6 @@
       "duration_ms": 191831,
       "name": "Lava In The Sky",
       "url": "https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD"
-    },
-    {
-      "added_at": "2022-09-19 08:07:27",
-      "album": {
-        "name": "girl",
-        "url": "https://open.spotify.com/album/3Y9TCovTQDugO12HmXeW0S"
-      },
-      "artists": [
-        {
-          "name": "Fennec",
-          "url": "https://open.spotify.com/artist/2qtBblNCKBjfVZpIyhyyRN"
-        }
-      ],
-      "duration_ms": 175484,
-      "name": "girl",
-      "url": "https://open.spotify.com/track/68aPLEBwJmpYMuurXihCct"
     },
     {
       "added_at": "2021-11-05 15:47:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3OoC54nEM3Xl7Kn5hsDdpg">Finesse2tymes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,706,384 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,706,796 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 46 | [Do It Again \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5m9ey3mq1hq68jDytp4sw9) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Youngest N Charge](https://open.spotify.com/album/3ZrjdwkPytOsOz14qHnm4K) | 2:44 |
 | 47 | [By Myself \(feat\. Destroy Lonely\)](https://open.spotify.com/track/27o0xlsmaKZvyLFPZQRu99) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Livin Like That](https://open.spotify.com/album/2chG63Mq41Vn22tWTOATH0) | 3:24 |
 | 48 | [Slicin](https://open.spotify.com/track/65gJxCrRe6Ev9nRZOWw4EY) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 2:50 |
-| 49 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [BILLY B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
+| 49 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 | 50 | [Shoot](https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:46 |
 | 51 | [werrkk](https://open.spotify.com/track/7e9JRNhecXg0DMkjmk3Vlp) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mench](https://open.spotify.com/artist/7zSLmuJsSUxBN1QS9Mz93L) | [THE4MULA](https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX) | 1:42 |
 | 52 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 |

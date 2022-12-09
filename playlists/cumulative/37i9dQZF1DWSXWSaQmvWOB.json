@@ -2871,7 +2871,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 209524,
       "name": "Feels So Good Don\u2019t It",
       "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
@@ -3773,7 +3773,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 252185,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc"
@@ -6886,6 +6886,32 @@
     },
     {
       "album": {
+        "name": "New Guru",
+        "url": "https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204174,
+      "name": "New Guru",
+      "url": "https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y"
+    },
+    {
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4e1HlR812DhUkqoKJtjwoQ"
       },
@@ -7519,7 +7545,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 316626,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
@@ -8822,6 +8848,24 @@
     },
     {
       "album": {
+        "name": "Sky has open doors",
+        "url": "https://open.spotify.com/album/3V7X498o84HlP4NK9vhoeY"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219501,
+      "name": "Sky has open doors",
+      "url": "https://open.spotify.com/track/5EqtcGaNE7rE6mjVZYarjB"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
       },
@@ -10087,6 +10131,24 @@
       "duration_ms": 210329,
       "name": "The Way That I Do",
       "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
+    },
+    {
+      "album": {
+        "name": "The World",
+        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
     },
     {
       "album": {

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXzR2GKEiHgT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXzR2GKEiHgT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXzR2GKEiHgT)
 
-### [The Sleep Machine: Waterscapes](https://open.spotify.com/playlist/37i9dQZF1DWXzR2GKEiHgT)
+### [Deep Ocean Deep Sleep](https://open.spotify.com/playlist/37i9dQZF1DWXzR2GKEiHgT)
 
-> Slip into slumber with soothing water sounds.
+> Slip into slumber with soothing sea sounds.
 
 211 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/3orUpWmUP8XdWYQVEuyTH3)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Singapore & Malaysia in 2022\. Cover: shazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,735 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,736 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 32 | [party](https://open.spotify.com/track/3lg8fTLCOWxgaudZXCyG3P) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [GUARDIAN](https://open.spotify.com/album/6x7r7EgOxslreS1bEa8aPF) | 3:38 |
 | 33 | [Small Talk](https://open.spotify.com/track/7xDGvOhHK1yqt7VLF6gYqE) | [Causeway Youth](https://open.spotify.com/artist/4vRz1Dkjvvp0dtRpxNaOS7) | [Small Talk](https://open.spotify.com/album/0DMNHk2wJKa7cfOj8vNiA4) | 4:33 |
 | 34 | [Lovesick Blues](https://open.spotify.com/track/1DWWMZn2WY2rX9SuvtI0Xq) | [jun](https://open.spotify.com/artist/2fPotAbyJW12ngcBGKw8J8) | [Lovesick Blues](https://open.spotify.com/album/6eQwpV7xAs35n8XtWDPGVg) | 4:08 |
-| 35 | [Sad Blue Eyes](https://open.spotify.com/track/17BCfjdEFjp0LdbYiZMpIp) | [Suehaila](https://open.spotify.com/artist/2CrbmDngTlkWzpWszKVR3p) | [Sad Blue Eyes](https://open.spotify.com/album/51Z8I8NYJTJ0xvhJ85KBPf) | 3:22 |
+| 35 | [Sad Blue Eyes](https://open.spotify.com/track/0lZdsbxUHofPCqvn8gghUH) | [Suehaila](https://open.spotify.com/artist/2CrbmDngTlkWzpWszKVR3p) | [Sad Blue Eyes](https://open.spotify.com/album/7E5EzKzI6DJievisaDOIOT) | 3:22 |
 | 36 | [Change Your Mind](https://open.spotify.com/track/0PfHYUyIkw55EztJ13P9fQ) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [Maya Diegel](https://open.spotify.com/artist/3hzkGIJ8l5mkn2L7XhSCxW) | [Caryatid EP](https://open.spotify.com/album/1GjK8gU15W82DQbXmhpvNZ) | 2:36 |
 | 37 | [I need u](https://open.spotify.com/track/7E4mIxuhnNL856aydrP0B7) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [I need u](https://open.spotify.com/album/4xq11IGu0neptVbyPbUDXn) | 3:19 |
 | 38 | [Mend](https://open.spotify.com/track/6ANFvWkNplQF5HfZif4Wbm) | [Alyssa Lie](https://open.spotify.com/artist/0NBpSJAS22KwlDXFuY5DfL) | [Mend](https://open.spotify.com/album/4zRqmckENkL72AIqGCTJoW) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 49 | [Till the end of time](https://open.spotify.com/track/7l5cj7g9WjFhgV68FtR5hG) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Till the end of time](https://open.spotify.com/album/5ap5JUJsoseHLa3QYnNuW6) | 4:00 |
 | 50 | [if you'd have me](https://open.spotify.com/track/0YRm5Kbyhg0u9O38pBhC8X) | [whirring](https://open.spotify.com/artist/6tVhJDK05xM7fBVa6Jx2cU) | [if you'd have me](https://open.spotify.com/album/6AVG11CgJQl58BK2Kug9BC) | 2:55 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGU2MGMzNmNiMDk0NDNmMTNlMzBkMjJiZmFjYjg3ZGRk`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDU1ZjNlZTdlYzdlM2M1NDE0ZmZiNDk0ZmE2OTdmODk4`

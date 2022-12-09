@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Big Soto
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,993 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,040 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 32 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 |
 | 33 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 34 | [Dime Cuantas Veces](https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Dime Cuantas Veces](https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd) | 3:33 |
-| 35 | [A Veces](https://open.spotify.com/track/3aZx00h5NlPzmfTPuVplJ5) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [A Veces](https://open.spotify.com/album/6Sj3PLu88SCbUgkm8KlXDu) | 3:46 |
+| 35 | [A Veces](https://open.spotify.com/track/3aZx00h5NlPzmfTPuVplJ5) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [A Veces](https://open.spotify.com/album/6Sj3PLu88SCbUgkm8KlXDu) | 3:46 |
 | 36 | [Mi Amigo Luis](https://open.spotify.com/track/6etCtKYL3fqUFHETBufdZo) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Mi Amigo Luis](https://open.spotify.com/album/6Jreaq7yvgQGk3wdX2cUer) | 6:33 |
 | 37 | [Raro](https://open.spotify.com/track/4DEldV3wQKjbMRhVw64bg6) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Raro](https://open.spotify.com/album/3yepH0ckADnbqwISL1zi0M) | 3:19 |
 | 38 | [Combina](https://open.spotify.com/track/3ZRstEup7FvszzoJaDbDWk) | [EstoeSPosdata](https://open.spotify.com/artist/78xJabNNsBJOz0uuBY23cN), [Jisa](https://open.spotify.com/artist/1eW3fgEEXYMqD2jc6EWEZs), [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Jair Blanco](https://open.spotify.com/artist/3nxRFYiToLJqHdM05Pmq8n), [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Combina](https://open.spotify.com/album/5TtVx5OfmsCB1vCrnKT6nv) | 5:13 |

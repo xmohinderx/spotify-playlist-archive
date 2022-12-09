@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,395 likes - 80 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,517 likes - 80 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 16 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
 | 17 | [Fading](https://open.spotify.com/track/770zzJRmEN0sudaxuD7GkB) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Dino Lenny](https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 8:07 |
 | 18 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 |
-| 19 | [Kollera](https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm) | [Dusty Kid](https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C) | [Rages 1992](https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO) | 7:15 |
-| 20 | [What Have You Done To Me?](https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [What Have You Done To Me?](https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x) | 4:46 |
+| 19 | [What Have You Done To Me?](https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [What Have You Done To Me?](https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x) | 4:46 |
+| 20 | [Kollera](https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm) | [Dusty Kid](https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C) | [Rages 1992](https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO) | 7:15 |
 | 21 | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc) | 6:29 |
 | 22 | [Bocuma](https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:35 |
 | 23 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 79 | [VIEW FROM MY BALCONY AT NIGHT](https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF) | [Da Vosk Docta](https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2) | [LO\-FI IS THE UNWANTED BASTARD CHILD OF JAZZ](https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc) | 5:08 |
 | 80 | [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 |
 
-Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMDNkNDBhNzhkOWYyN2FiNWM3NTI0OTBjZTI5MTA3Yjk3`
+Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMGU1YjEyNGYyNDFkMWU5NTJjNGM1YzNiNzFhYzY5N2Rk`

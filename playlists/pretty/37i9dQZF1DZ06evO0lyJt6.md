@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,376 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,398 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 34 | [La Idea](https://open.spotify.com/track/0m8zn0rPVukkX2tQWEHoWz) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 2:56 |
 | 35 | [Debí](https://open.spotify.com/track/3dPqITmMgFYgmeHgn45kjt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [¡Ay Dolor!](https://open.spotify.com/album/5DHROQu03oTApPdCy3375A) | 3:12 |
 | 36 | [Olvidarte No Es Lo Mío](https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:02 |
-| 37 | [Está De Moda No Querer](https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:50 |
-| 38 | [Morir De Amor \- En Vivo](https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 3:09 |
+| 37 | [Morir De Amor \- En Vivo](https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 3:09 |
+| 38 | [Está De Moda No Querer](https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:50 |
 | 39 | [El Club De Los Dolidos](https://open.spotify.com/track/4A2n4Zss5KjRijiEC6mYas) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Club De Los Dolidos](https://open.spotify.com/album/7FWIe2JXLS20lAkOadKmbX) | 3:11 |
 | 40 | [Lo Haces Ver Tan Fácil](https://open.spotify.com/track/1VIEewgA5FctEZtWyCg1Sl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Lo Haces Ver Tan Fácil](https://open.spotify.com/album/3MFCVinGiviBRF5HeGVFv4) | 2:57 |
 | 41 | [Y Sólo Tú](https://open.spotify.com/track/4dgaCpg0k6iNUh1UUDvKay) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:47 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 50 | [Te Prometo](https://open.spotify.com/track/52e9XXEgDuyQ1FYK5aJaYZ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Te Prometo](https://open.spotify.com/album/2LP0reDguNHlmKi0C1mS8V) | 3:58 |
 | 51 | [Mundos Diferentes](https://open.spotify.com/track/2dw3SduPYpYv4ggL4f8Zqn) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mundos Diferentes](https://open.spotify.com/album/6czi1PBL1Bvjmi6nWfmtOQ) | 3:17 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDA0MzNiOWVjN2QyZmNmMjY5YzBlMDU4ZWFiNzZhZDRkOQ==`
+Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDBkNWY4ZGQ1NGJkNzdmZjU5NWIwNDNiYzA1MTU5MzlmZg==`

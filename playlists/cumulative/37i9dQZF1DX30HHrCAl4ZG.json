@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263080,
+      "name": "All Comes Crashing",
+      "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+    },
+    {
+      "album": {
         "name": "French Blonde",
         "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
       },
@@ -4109,7 +4127,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 251213,
       "name": "Expert In A Dying Field",
       "url": "https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ"
@@ -4149,6 +4167,24 @@
       "duration_ms": 136954,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+    },
+    {
+      "album": {
+        "name": "Eyez",
+        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Eyez",
+      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
     },
     {
       "album": {
@@ -9599,7 +9635,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 128906,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
@@ -10612,6 +10648,24 @@
     },
     {
       "album": {
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
+    },
+    {
+      "album": {
         "name": "Skinny Brittle Bones",
         "url": "https://open.spotify.com/album/2Vq4ccHKkOqcOTzYu3Jwji"
       },
@@ -10891,6 +10945,24 @@
       "duration_ms": 210612,
       "name": "Sort Of Stranger",
       "url": "https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N"
+    },
+    {
+      "album": {
+        "name": "sos",
+        "url": "https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149627,
+      "name": "sos",
+      "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
     },
     {
       "album": {
@@ -11493,7 +11565,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 359319,
       "name": "T Love - Extended",
       "url": "https://open.spotify.com/track/1qmBJijlYA148svgU0herL"
@@ -12695,7 +12767,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161200,
       "name": "TVI",
       "url": "https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5"

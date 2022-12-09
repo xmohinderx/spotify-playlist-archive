@@ -4,7 +4,7 @@
 
 > New music from Metro Boomin, Latto and Nas & 21 Savage.
 
-1,449 songs - 3 day 2 hr 37 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,450 songs - 3 day 2 hr 41 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [FRANCHISE \(feat\. Future, Young Thug & M.I.A.\) \- REMIX](https://open.spotify.com/track/6qUabsNxudatEFedWGHoDh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Future, Young Thug & M.I.A.\) \[REMIX\]](https://open.spotify.com/album/6k3hqPsGKPCSyBmmvCXd7B) | 3:27 | 2020-10-08 | 2020-10-09 |
 | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ) | 3:22 | 2020-09-25 | 2021-02-06 |
 | [Freaky](https://open.spotify.com/track/0NJp8GyCOWnQh71xKSPfuV) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Freaky](https://open.spotify.com/album/0JDoNU0AZ54Ng8e2iPTKRs) | 2:53 | 2019-05-26\* | 2019-06-28 |
+| [Freaky Gurl \(feat\. Ludacris and Lil Kim\) \- Remix](https://open.spotify.com/track/3oePgThYVcdoQCBAf4lovM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Back to the Traphouse](https://open.spotify.com/album/5bq0rBzgv7bJEwn76KfHBF) | 4:40 | 2022-12-08 |  |
 | [Free Promo \(with Polo G & Lil Durk\)](https://open.spotify.com/track/1HjTPHXn4awvfwhjclnjfZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:59 | 2021-04-24 | 2021-05-20 |
 | [Free RIC \(feat\. Lil Durk\)](https://open.spotify.com/track/4wfIBPCUt21RtVX1K0oj45) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Free Dem Boyz \(Deluxe\)](https://open.spotify.com/album/66nqCnC1huqh5gqkGeGIAS) | 3:39 | 2021-08-28 | 2021-09-04 |
 | [Free The Shiners](https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free The Shiners](https://open.spotify.com/album/5SOJj0pfKKW1qjPqub2tLk) | 2:04 | 2022-03-25 | 2022-04-02 |

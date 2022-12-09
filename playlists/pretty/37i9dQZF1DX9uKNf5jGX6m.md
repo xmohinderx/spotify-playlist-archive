@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,765,317 likes - 385 songs - 18 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,765,614 likes - 385 songs - 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 91 | [A Small Pause](https://open.spotify.com/track/4QHEndaAkPF8Xg12e5uqdd) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Refraction Of Light](https://open.spotify.com/album/3XOiomjJPHuV4yaoNFU8Ie) | 2:37 |
 | 92 | [Within](https://open.spotify.com/track/6yy6c0Oy0fg69Zy0htgXsm) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Senses](https://open.spotify.com/album/42n9gHTqtCogUygsmvO49n) | 2:55 |
 | 93 | [Sonámbulos](https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX) | [Abril Iluso](https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd) | [Sonámbulos](https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V) | 3:12 |
-| 94 | [Mesmerized](https://open.spotify.com/track/0C6XD0Qel6ZE1poJ7buaDm) | [Abelia Elm](https://open.spotify.com/artist/528ecZkjBtxvl34v4lyTUQ) | [Mesmerized](https://open.spotify.com/album/058wD9ExN5l6A7Bqz15Ygt) | 2:48 |
+| 94 | [Mesmerized](https://open.spotify.com/track/0C6XD0Qel6ZE1poJ7buaDm) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Mesmerized](https://open.spotify.com/album/058wD9ExN5l6A7Bqz15Ygt) | 2:48 |
 | 95 | [Contemplative Silence](https://open.spotify.com/track/1EMyIPj70TXWoKcTD0fXPF) | [Orbit Release](https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG) | [Contemplative Silence](https://open.spotify.com/album/2B9Rp94hGd2oKQiKfZfe4I) | 3:24 |
 | 96 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 |
 | 97 | [Hoop](https://open.spotify.com/track/7mop8SiZz46KwraJSoiLVU) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Hoop](https://open.spotify.com/album/4BpMZT3U6v1VJb74mmCSfe) | 3:28 |

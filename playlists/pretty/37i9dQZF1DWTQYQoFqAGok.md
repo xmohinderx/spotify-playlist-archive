@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,366 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,377 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 6 | [La Canción de Linyera](https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 4:45 |
 | 7 | [Voy a Apagar la Luz](https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8) | [Julia Vari](https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky) | [Adoro](https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf) | 5:27 |
 | 8 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 |
-| 9 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 |
+| 9 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 |
 | 10 | [Slow Down](https://open.spotify.com/track/0Y7tyEIEU53veA4CSclkYx) | [Juan Pedro Organ Trio](https://open.spotify.com/artist/6yBn06PNNg00t9Ac2VZrod) | [Advice from a Cat](https://open.spotify.com/album/2KIcHA2MmEM4mGjtT1JVn1) | 7:50 |
 | 11 | [Mambo en Sax](https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dilo! Homenaje a Pérez Prado](https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY) | 3:15 |
 | 12 | [Caminos de Ayer](https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E), [Fernando Zenaido Maldonado](https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv) | [Blues](https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox) | 2:59 |

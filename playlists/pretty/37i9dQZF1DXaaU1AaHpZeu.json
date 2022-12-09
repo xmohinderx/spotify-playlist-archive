@@ -1,6 +1,6 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: RPLK.",
-  "num_followers": 287882,
+  "num_followers": 287938,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
@@ -338,6 +338,10 @@
         {
           "name": "Sof\u00eda Vald\u00e9s",
           "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
         }
       ],
       "duration_ms": 184683,
@@ -384,12 +388,12 @@
       },
       "artists": [
         {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
-        },
-        {
           "name": "Mercedes Nasta",
           "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
         }
       ],
       "duration_ms": 374422,

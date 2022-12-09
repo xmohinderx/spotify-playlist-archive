@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: Chilli Beans
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,822 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,861 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 49 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 |
 | 50 | [祝日天国](https://open.spotify.com/track/6zTD1K9pkrFg4UN7reegf1) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [祝日天国](https://open.spotify.com/album/5n0s8subG1xzl9SDxBT58D) | 4:01 |
 
-Snapshot ID: `MTY3MDM0NDIyMywwMDAwMDAwMDUzZjBlZTlmZjQzYjQwNzIyNGVjYzRhOGFmY2MxMmQ5`
+Snapshot ID: `MTY3MDUxMTYwMCwwMDAwMDAwMDY2ZjcyZjM2OTI1ZDczYmI5ZTc3NzgzYjZlOWIwODgy`

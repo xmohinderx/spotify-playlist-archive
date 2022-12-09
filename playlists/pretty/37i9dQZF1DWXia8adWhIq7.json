@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Tamara Pyller",
-  "num_followers": 56411,
+  "num_followers": 56461,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNjgxOSwwMDAwMDAwMGI5MzI1NDNhZTQ0MzQ1NzYzYzY1ZWM5N2RhZWViODBm",
+  "snapshot_id": "MTY2NTcyNjgxOSwwMDAwMDAwMDAzYzBmZGI4NDBiMzFhMzdmMmI1YjIyZGM4ZjQ4NGQy",
   "tracks": [
     {
       "added_at": "2022-10-14 05:53:39",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-10-14 05:53:39",
       "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
-    },
-    {
-      "added_at": "2022-10-14 05:53:39",
-      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 204173,
       "name": "Leve",
       "url": "https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj"
+    },
+    {
+      "added_at": "2022-10-14 05:53:39",
+      "album": {
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2022-10-14 05:53:39",

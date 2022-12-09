@@ -1,12 +1,12 @@
 {
   "description": "What we're gonna do right now is go back\u2014back in time. Here are all your favorite '90s R&B slow jams!",
-  "num_followers": 1478065,
+  "num_followers": 1478491,
   "original_name": "'90s Baby Makers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMDY3MGQ5OTBmNzE1NzJhYTU2MDJmN2UyYWNmZTBkMzkw",
+  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMGE5NWRjYjFkOTRjZDc4MWIzODk3OTUzYzk4ZmJkZGQ1",
   "tracks": [
     {
       "added_at": "2021-03-05 00:03:16",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "Other Side Of The Game",
-      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "The Show, The After Party, The Hotel",
         "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 290066,
       "name": "Love U 4 Life",
       "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Rope A Dope Style",
-        "url": "https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta"
-      },
-      "artists": [
-        {
-          "name": "Levert",
-          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
-        }
-      ],
-      "duration_ms": 322200,
-      "name": "Baby I'm Ready",
-      "url": "https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Traces Of My Lipstick",
         "url": "https://open.spotify.com/album/2vURwAnzdxnAlocCPmLG95"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 256720,
       "name": "Softest Place On Earth",
       "url": "https://open.spotify.com/track/19asXa48FNoDzO8PaQm9MN"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Rope A Dope Style",
+        "url": "https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta"
+      },
+      "artists": [
+        {
+          "name": "Levert",
+          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+        }
+      ],
+      "duration_ms": 322200,
+      "name": "Baby I'm Ready",
+      "url": "https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo"
     },
     {
       "added_at": "2021-03-05 00:03:16",

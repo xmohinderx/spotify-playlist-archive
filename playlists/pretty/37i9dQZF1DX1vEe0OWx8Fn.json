@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 60569,
+  "num_followers": 60658,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMGIwMTI4Y2UwN2EyNWExMWM0Y2Y5OTEzY2JhM2YxNjk1",
+  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDNmZWIyNTRhNTUyMTEwNWIwNGI3YzgzMmZhOGFmNThm",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/24qhW8fqWyrMHqkBfM2HPk"
     },
     {
+      "added_at": "2022-12-08 13:00:09",
+      "album": {
+        "name": "The News",
+        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
+    },
+    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "Happier Than Ever (Edit)",
@@ -39,22 +55,6 @@
       "duration_ms": 151444,
       "name": "Happier Than Ever - Edit",
       "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "wish i was dead",
-        "url": "https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 98800,
-      "name": "wish i was dead",
-      "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
     },
     {
+      "added_at": "2022-12-08 13:00:09",
+      "album": {
+        "name": "This is the End",
+        "url": "https://open.spotify.com/album/1fJStrEMC3WHoDmcStWh0h"
+      },
+      "artists": [
+        {
+          "name": "Baby Fisher",
+          "url": "https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA"
+        }
+      ],
+      "duration_ms": 190327,
+      "name": "This is the End",
+      "url": "https://open.spotify.com/track/3j6dcEE1CiLize5IKgtAY4"
+    },
+    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "From Under The Cork Tree",
@@ -171,22 +187,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Battery Acid",
         "url": "https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 319025,
       "name": "Battery Acid",
       "url": "https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -235,6 +251,26 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2022-12-08 13:00:09",
+      "album": {
+        "name": "I\u2019m a Mess (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 187793,
+      "name": "I\u2019m a Mess (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -287,6 +323,42 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "Life's Not Out To Get You",
+        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 218954,
+      "name": "December",
+      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159096,
+      "name": "emo girl (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "DiE4u",
         "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
       },
@@ -315,22 +387,6 @@
       "duration_ms": 138306,
       "name": "then i met her",
       "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Life's Not Out To Get You",
-        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 218954,
-      "name": "December",
-      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -387,26 +443,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159096,
-      "name": "emo girl (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
         "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
@@ -459,6 +495,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "kiss kiss",
+      "url": "https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "She Likes My Tattoos",
         "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
       },
@@ -503,22 +555,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "kiss kiss",
-      "url": "https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Pieces of You",
         "url": "https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84"
       },
@@ -551,6 +587,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "papercuts",
+        "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 180370,
+      "name": "papercuts",
+      "url": "https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "i'm gonna tell my therapist on you",
         "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
       },
@@ -579,22 +631,6 @@
       "duration_ms": 145173,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "papercuts",
-        "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 180370,
-      "name": "papercuts",
-      "url": "https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -667,6 +703,26 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
+        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
@@ -699,26 +755,6 @@
       "duration_ms": 169323,
       "name": "abcdefu (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
-        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -773,6 +809,22 @@
       "url": "https://open.spotify.com/track/5f8v9LU1xMnkYRCRuepklb"
     },
     {
+      "added_at": "2022-12-08 13:00:09",
+      "album": {
+        "name": "Backtrack",
+        "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Backtrack",
+      "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
+    },
+    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "Tell Me About Tomorrow",
@@ -791,66 +843,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
+        "name": "wish i was dead",
+        "url": "https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4"
       },
       "artists": [
         {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 173304,
-      "name": "{ The Dreamer\u2019s Hotel }",
-      "url": "https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "plague town",
-        "url": "https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6"
-      },
-      "artists": [
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 165539,
-      "name": "hangar",
-      "url": "https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "You're So Fucking Pretty",
-      "url": "https://open.spotify.com/track/2UzNrlJnzS5N0PDz2n2kwu"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 317837,
-      "name": "HeatDeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
+      "duration_ms": 98800,
+      "name": "wish i was dead",
+      "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
     }
   ],
   "unique_name": "dear diary",

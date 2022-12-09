@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！2022 年度總集成！Cover: 蔡依林 \(Jolin Tsai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,869 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,889 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [玫瑰少年](https://open.spotify.com/track/2uHMTG5xr9Xk7MrXIWrVUH) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 3:11 |
+| 1 | [親愛的對象 \- 《關於我和鬼變成家人的那件事》電影主題曲](https://open.spotify.com/track/70ywpHtaToCmnULRT9Vu4p) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \(《關於我和鬼變成家人的那件事》電影主題曲\)](https://open.spotify.com/album/6ohthacCclaqEnO1xfEUu6) | 4:54 |
 | 2 | [連名帶姓](https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 5:33 |
 | 3 | [行走的魚](https://open.spotify.com/track/1hM4pPeGTcH3yJImQPFrXt) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [行走的魚](https://open.spotify.com/album/5jdjB6M5n2JbbjUPYCEtlD) | 4:05 |
 | 4 | [一周的朋友 \- 電影《一周的朋友》主題曲](https://open.spotify.com/track/4YROtR4blPL5jWPlha52fJ) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [一周的朋友 \(電影《一周的朋友》主題曲\)](https://open.spotify.com/album/2Ef4YcXyvgMRJRul0Rx8YA) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [不曾回來過 \- 電視劇"通靈少女"插曲](https://open.spotify.com/track/6QAn6Crff7sfcqC83fH7dd) | [李千那](https://open.spotify.com/artist/0rOFGXlFK59NmUCHga8oZM) | [不曾回來過 \(電視劇"通靈少女"插曲\)](https://open.spotify.com/album/7GL1d0RDsArwCJYttz9lSu) | 4:30 |
 | 50 | [最熟悉的陌生人](https://open.spotify.com/track/7ptLu9jaGwjeJCYItMK1LY) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [蕭亞軒\-\-](https://open.spotify.com/album/2iFxrSfOHMw68At3k5JVE9) | 4:22 |
 
-Snapshot ID: `MTY2OTk1NDI1MSwwMDAwMDAwMGZlNTYxZTAyMDAzYzg4MDA0Y2MxMWU4MjFmMWYzYTg2`
+Snapshot ID: `MTY3MDUxNTIwMCwwMDAwMDAwMGY4MzI2Y2ZiOTVmNGFlOTViY2U1MmVkNTlmZDQwNjQ0`

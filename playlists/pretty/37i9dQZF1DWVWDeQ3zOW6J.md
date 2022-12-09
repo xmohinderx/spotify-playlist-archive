@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,643 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,663 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 27 | [Incomprendido](https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 2:56 |
 | 28 | [Merecumbe](https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Live 02 From Miami With DJ LeSpam](https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg) | 5:57 |
 | 29 | [Sandra Mora](https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8) | [Velvet Salsa All Stars](https://open.spotify.com/artist/0Vb0pkmuJAdJkFGJtSe3mI), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Maritza Blanco De Puchi](https://open.spotify.com/artist/2Z23kB3gIu7mNJ4PG76yqI), [PABLO ÁLVAREZ](https://open.spotify.com/artist/0p0TwkF6LO1fYdx8NxcgGK) | [Velvet Salsa All Stars](https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON) | 4:14 |
-| 30 | [Yamulemau](https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [La Verdad de Joe Arroyo](https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3) | 4:30 |
+| 30 | [La Esencia Del Guaguancó](https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [La Perfecta Combinación](https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0) | 4:06 |
 | 31 | [Azuquita Pa'l Cafe](https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:09 |
-| 32 | [La Esencia Del Guaguancó](https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [La Perfecta Combinación](https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0) | 4:06 |
+| 32 | [Yamulemau](https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [La Verdad de Joe Arroyo](https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3) | 4:30 |
 | 33 | [Richie's Jala Jala](https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 5:07 |
 | 34 | [El Manicero](https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Éxitos, Vol\. 1](https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep) | 4:42 |
 | 35 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [El Bodeguero](https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537) | [Orquesta Aragón De Cuba](https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG) | [Antología de la Música Cubana](https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt) | 3:01 |
 | 60 | [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 |
 
-Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMDMzY2E5NjdlMzJlNGU5MTNlMWM2YmE5MDk1MWE5MjY3`
+Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMDYwZWJiNDMxY2MxZWQ4MzIwYTVmMDFmYjI1YjcwZTk2`

@@ -1,64 +1,32 @@
 {
-  "description": "Only the hottest out now in South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349?si=eZI2cZr1Q_KCg5-BCJVRAw\">Posduif</a>",
-  "num_followers": 11401,
+  "description": "Only the best in South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw\">Spoegwolf</a>",
+  "num_followers": 11404,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzMTk0MCwwMDAwMDAwMDQ5NzlkMTJlOGY4OGJhYmRkMjMyYTk4ODVlZTU4NzVj",
+  "snapshot_id": "MTY3MDUzNjc0MCwwMDAwMDAwMDA5M2Y0YThlM2Q3YjEzNTA5NjdiODhkNGE2NDQ2OTY1",
   "tracks": [
     {
-      "added_at": "2022-11-24 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Laatnag-sonop-koebaai",
-        "url": "https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN"
+        "name": "Dryf",
+        "url": "https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt"
       },
       "artists": [
         {
-          "name": "Posduif",
-          "url": "https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349"
-        }
-      ],
-      "duration_ms": 229561,
-      "name": "Laatnag-sonop-koebaai",
-      "url": "https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "Kanniedood",
-        "url": "https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
         },
         {
-          "name": "Hunter Kennedy",
-          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
+          "name": "Jodi Jantjies",
+          "url": "https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG"
         }
       ],
-      "duration_ms": 205086,
-      "name": "Hartseer Freaks",
-      "url": "https://open.spotify.com/track/0QkQXlKStGokMoWhngW99p"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "Far From Who We Are",
-        "url": "https://open.spotify.com/album/03CcQkzVwJtlfN0k33fjpg"
-      },
-      "artists": [
-        {
-          "name": "Far from Who We Are",
-          "url": "https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO"
-        }
-      ],
-      "duration_ms": 195431,
-      "name": "Scarred",
-      "url": "https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M"
+      "duration_ms": 273475,
+      "name": "Erika Way",
+      "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
     },
     {
       "added_at": "2022-11-21 09:26:29",
@@ -101,20 +69,52 @@
       "url": "https://open.spotify.com/track/7vdiUC7BzKmBqsSEJsbnbr"
     },
     {
-      "added_at": "2022-12-01 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Two of a Kind, Pt. 2",
-        "url": "https://open.spotify.com/album/1WyS8TcOhUmN6XZdlJtYcc"
+        "name": "Cherry Glitter",
+        "url": "https://open.spotify.com/album/7EqFfWWUmsqSI0csBwIasf"
       },
       "artists": [
         {
-          "name": "Stones & Gold",
-          "url": "https://open.spotify.com/artist/07H4TBAQGyIVUYxLKoFlEP"
+          "name": "Highway Apostles",
+          "url": "https://open.spotify.com/artist/66GDNl05VRYiOnkKgVfOEE"
         }
       ],
-      "duration_ms": 233500,
-      "name": "Ongevalle",
-      "url": "https://open.spotify.com/track/1shcVBVEDQ43bJOIThkiR2"
+      "duration_ms": 208250,
+      "name": "Cherry Glitter",
+      "url": "https://open.spotify.com/track/2V57HqcRwmG9wYr8rcFbAa"
+    },
+    {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "Laatnag-sonop-koebaai",
+        "url": "https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN"
+      },
+      "artists": [
+        {
+          "name": "Posduif",
+          "url": "https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349"
+        }
+      ],
+      "duration_ms": 229561,
+      "name": "Laatnag-sonop-koebaai",
+      "url": "https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Suburban Casualty",
+        "url": "https://open.spotify.com/album/7tUR8nLZ32a4UoimsM3hmI"
+      },
+      "artists": [
+        {
+          "name": "Julian Place",
+          "url": "https://open.spotify.com/artist/0l5bLIu2lwaoE2Jp15kVcr"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Suburban Casualty",
+      "url": "https://open.spotify.com/track/0dfdQeAFmqYU73QISETk7K"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
     },
     {
-      "added_at": "2022-12-01 21:59:00",
+      "added_at": "2022-11-24 21:59:00",
       "album": {
-        "name": "Six Feet of Snow",
-        "url": "https://open.spotify.com/album/3QCHTxFWFeqqJj2x1tTXbO"
+        "name": "Fight For Me",
+        "url": "https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta"
       },
       "artists": [
         {
-          "name": "Ethyl Ether",
-          "url": "https://open.spotify.com/artist/0SbWug1zk2RZx8WkkwIJpt"
+          "name": "Mann Friday",
+          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
         }
       ],
-      "duration_ms": 298885,
-      "name": "Six Feet of Snow",
-      "url": "https://open.spotify.com/track/6xJqUFVdJXd97rFA1M3Ane"
+      "duration_ms": 226544,
+      "name": "Fight For Me",
+      "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
     },
     {
       "added_at": "2022-09-15 21:59:00",
@@ -171,22 +171,6 @@
       "duration_ms": 175728,
       "name": "Kopskud Revolusie (feat. Spoegwolf)",
       "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
-    },
-    {
-      "added_at": "2022-11-24 21:59:00",
-      "album": {
-        "name": "Fight For Me",
-        "url": "https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta"
-      },
-      "artists": [
-        {
-          "name": "Mann Friday",
-          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
-        }
-      ],
-      "duration_ms": 226544,
-      "name": "Fight For Me",
-      "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -271,22 +255,6 @@
       "duration_ms": 207525,
       "name": "Maksimum Volume",
       "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI"
-      },
-      "artists": [
-        {
-          "name": "Ross Harding",
-          "url": "https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "Black Sun Blues",
-      "url": "https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -385,6 +353,22 @@
       "url": "https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA"
     },
     {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI"
+      },
+      "artists": [
+        {
+          "name": "Ross Harding",
+          "url": "https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA"
+        }
+      ],
+      "duration_ms": 282240,
+      "name": "Black Sun Blues",
+      "url": "https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR"
+    },
+    {
       "added_at": "2022-07-21 21:59:00",
       "album": {
         "name": "kill all my feelings",
@@ -399,6 +383,22 @@
       "duration_ms": 182984,
       "name": "kill all my feelings",
       "url": "https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Anker",
+        "url": "https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth"
+      },
+      "artists": [
+        {
+          "name": "Arnold Bailie",
+          "url": "https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp"
+        }
+      ],
+      "duration_ms": 167061,
+      "name": "Anker",
+      "url": "https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g"
     },
     {
       "added_at": "2022-07-28 21:59:00",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND"
     },
     {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Distopia",
+        "url": "https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9"
+      },
+      "artists": [
+        {
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+        }
+      ],
+      "duration_ms": 213940,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde"
+    },
+    {
       "added_at": "2022-03-31 21:59:00",
       "album": {
         "name": "Fine thanks, and you?",
@@ -729,20 +745,20 @@
       "url": "https://open.spotify.com/track/1PLdMFrVv6cCT9MrQneTMN"
     },
     {
-      "added_at": "2022-03-17 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Quit It",
-        "url": "https://open.spotify.com/album/1YoAazxKlSbG2lvw6PYygm"
+        "name": "The Kid",
+        "url": "https://open.spotify.com/album/4HQlRenLS3Mu9gvIk3tJzk"
       },
       "artists": [
         {
-          "name": "Black Cat Bones",
-          "url": "https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO"
+          "name": "the klubs",
+          "url": "https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF"
         }
       ],
-      "duration_ms": 269440,
-      "name": "Quit It",
-      "url": "https://open.spotify.com/track/0EcRozLgRMqpcoaZK92xHd"
+      "duration_ms": 173892,
+      "name": "The Kid",
+      "url": "https://open.spotify.com/track/30E5yBOsMJ14qYzBbLY9Xo"
     },
     {
       "added_at": "2022-08-04 21:59:00",
@@ -777,20 +793,24 @@
       "url": "https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi"
     },
     {
-      "added_at": "2022-03-17 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "EX-GIRLFRIEND (Radio Edit)",
-        "url": "https://open.spotify.com/album/5jvtsz7stvqP9tjSNqGXUS"
+        "name": "OVERTHINKING",
+        "url": "https://open.spotify.com/album/5N6VbOBsJUIaMlihQn6S5M"
       },
       "artists": [
         {
-          "name": "Alex Solomon",
-          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Christian James",
+          "url": "https://open.spotify.com/artist/3vIPpGcOC1CWD5MVg9xX8x"
         }
       ],
-      "duration_ms": 145571,
-      "name": "EX-GIRLFRIEND - Radio Edit",
-      "url": "https://open.spotify.com/track/1gyaVHGHkYeyFcckiMZ3Zz"
+      "duration_ms": 108000,
+      "name": "OVERTHINKING",
+      "url": "https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen"
     },
     {
       "added_at": "2022-08-25 21:59:00",
@@ -809,36 +829,28 @@
       "url": "https://open.spotify.com/track/6BeR3yIHr9O6ZjQzmpXN2Z"
     },
     {
-      "added_at": "2022-02-17 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Vanilla Sky",
-        "url": "https://open.spotify.com/album/1W3iNe6Kn0pvJ9h4OqjjZO"
+        "name": "Lefase",
+        "url": "https://open.spotify.com/album/0gODdkdalKBZ9NO4P5a0We"
       },
       "artists": [
         {
-          "name": "Wonderwolf",
-          "url": "https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A"
-        }
-      ],
-      "duration_ms": 246173,
-      "name": "Vanilla Sky",
-      "url": "https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr"
-    },
-    {
-      "added_at": "2022-11-24 21:59:00",
-      "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/6B86LoRK5Ddip3RoMUHijd"
-      },
-      "artists": [
+          "name": "Tshepang Ramoba",
+          "url": "https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh"
+        },
         {
-          "name": "Mark Haze",
-          "url": "https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO"
+          "name": "BLK JKS",
+          "url": "https://open.spotify.com/artist/00yegohFGb5ErPFAIYBc3u"
+        },
+        {
+          "name": "Riders Against the Storm",
+          "url": "https://open.spotify.com/artist/7HX7VccoNod5ogSFcosn9Y"
         }
       ],
-      "duration_ms": 264834,
-      "name": "Don't Say Goodbye",
-      "url": "https://open.spotify.com/track/7GTj7UNfrqE3glRpZxza7I"
+      "duration_ms": 210003,
+      "name": "Lefase",
+      "url": "https://open.spotify.com/track/20ACysTMjJiaat5ZAwD9nF"
     },
     {
       "added_at": "2022-08-04 21:59:00",

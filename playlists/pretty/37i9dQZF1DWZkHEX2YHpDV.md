@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Against The Current
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,805 likes - 150 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,856 likes - 150 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 90 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 |
 | 91 | [28](https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [CESSATION](https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa) | 3:36 |
 | 92 | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv) | 2:52 |
-| 93 | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU) | 3:02 |
-| 94 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 |
+| 93 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 |
+| 94 | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU) | 3:02 |
 | 95 | [LEVITATE \(The Summer Song\)](https://open.spotify.com/track/6uIPSuyyTXhED74zn4weTS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [LEVITATE \(The Summer Song\)](https://open.spotify.com/album/19xqa3tlSC1vzTVmirhB6I) | 2:22 |
 | 96 | [Act Like That](https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:03 |
 | 97 | [Fall](https://open.spotify.com/track/4SMRrkuRFwqociFBA2N122) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:34 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 108 | [Groundhog Day](https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Groundhog Day](https://open.spotify.com/album/415iY0uDENvjox5USnF9uC) | 3:37 |
 | 109 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 |
 | 110 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
-| 111 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 |
-| 112 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
+| 111 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
+| 112 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 |
 | 113 | [One True Prince](https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:58 |
 | 114 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 |
 | 115 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 149 | [Just Like Home](https://open.spotify.com/track/1MJMWhmxP93nnU62AcJukk) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Red EP](https://open.spotify.com/album/5BPCHjvb6PYhOny8GXmb9q) | 3:15 |
 | 150 | [October Forever](https://open.spotify.com/track/0jXWHgBV8o9XJjBqTAOLal) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [October Forever](https://open.spotify.com/album/0gI8bB60XLjJWKPC2bWtcS) | 4:11 |
 
-Snapshot ID: `MTY3MDQzNjcyOCwwMDAwMDAwMDRhYjc5ZjRiYTI1OGRkMDA5ZTAzYmJjNjRkMzUyOTU3`
+Snapshot ID: `MTY3MDQzNjcyOCwwMDAwMDAwMDkyYzg1NjQwMWZiMTE4YTgyMmNkZWVhMDgyM2ZlODA1`

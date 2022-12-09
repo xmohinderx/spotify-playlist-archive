@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,040 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,084 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 17 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 |
 | 18 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 |
 | 19 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 |
-| 20 | [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 |
+| 20 | [Apply Pressure](https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 3:14 |
 | 21 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 |
 | 22 | [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 |
 | 23 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 71 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 |
 | 72 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
 | 73 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
-| 74 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 |
-| 75 | [All In](https://open.spotify.com/track/4Ks8tQBpkf3mStOv6KDPDc) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [All In](https://open.spotify.com/album/31i76UJJxEFOkDpFVEvhcE) | 4:00 |
+| 74 | [All In](https://open.spotify.com/track/4Ks8tQBpkf3mStOv6KDPDc) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [All In](https://open.spotify.com/album/31i76UJJxEFOkDpFVEvhcE) | 4:00 |
+| 75 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 |
 | 76 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
 | 77 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 |
 | 78 | [Love Will Work It Out](https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:45 |
 | 79 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 |
 | 80 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 |
 
-Snapshot ID: `MTY3MDMzODgwMCwwMDAwMDAwMGVlN2QzMzJhYjU0ODYwNTI5MmE5ZDI3MTE4MjYyNDMw`
+Snapshot ID: `MTY3MDUyMzEzNCwwMDAwMDAwMDg1NzRiZjcwZTdkYzhhYWZiNTU1YjgyMjFiNDBhYjE5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=byhHllSOSqScaQ5PEWOpPg\"> Sarkodie </a>  ",
+  "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=dEeiPyvUTYSjwFjib5pt4Q\"> Mr Eazi </a>  ",
   "name": "Hot Hits Ghana",
   "published_playlist_ids": [],
   "tracks": [
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 163840,
       "name": "Dayana",
       "url": "https://open.spotify.com/track/09oOecLLvJYFAbKfBolAPs"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 183118,
       "name": "E Choke",
       "url": "https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA"
@@ -1366,6 +1366,40 @@
     },
     {
       "album": {
+        "name": "See Something",
+        "url": "https://open.spotify.com/album/01W43KdTTTYrCzTQPpG52K"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157219,
+      "name": "See Something",
+      "url": "https://open.spotify.com/track/0QG6TEF6PwA6HeMDiE6NJb"
+    },
+    {
+      "album": {
         "name": "JAMZ",
         "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
       },
@@ -1545,6 +1579,24 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/1639uOVB9OMIRiaLEENYoX"
+    },
+    {
+      "album": {
+        "name": "Su Mo Mi",
+        "url": "https://open.spotify.com/album/4UYe6cZPLs6rTSl6F8ZNI4"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204210,
+      "name": "Su Mo Mi",
+      "url": "https://open.spotify.com/track/2VP9RsnRRp1UX8BagWcZkY"
     },
     {
       "album": {

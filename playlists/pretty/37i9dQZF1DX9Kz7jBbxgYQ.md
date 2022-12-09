@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,846 likes - 68 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,989 likes - 68 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 67 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 |
 | 68 | [Ta Khayala](https://open.spotify.com/track/0NyqnSwYGDbM72PUiRVGjM) | [Irfan Ali Taj](https://open.spotify.com/artist/0wzji6eI2JiZNztAEoXer4), [Anas Alam Khan](https://open.spotify.com/artist/5jBNrNEJZsx9jAmNJtnPkd), [Aziz Kazi](https://open.spotify.com/artist/5fcwlFnNLnw4OSMy6oNdnG) | [Mahal](https://open.spotify.com/album/6kVbEY9BY2Fqqr0St7HaXG) | 5:34 |
 
-Snapshot ID: `MTY2OTI2OTY5NiwwMDAwMDAwMDdiMGQxOTA5NGExNDk4ZmU1ZDlkOGRlZjA1ZjI3Mjk0`
+Snapshot ID: `MTY3MDQ4MzY5OCwwMDAwMDAwMGY3NzEwYzY1MWZiMmRmMDU2ZDY5NjUyZjIwNDBlYWRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,650 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,968 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 69 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 |
 | 70 | [Carry on a Wayward Son](https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings \(Deluxe\)](https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h) | 5:24 |
 | 71 | [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 |
-| 72 | [Thunder Kiss '65](https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Play It Forward](https://open.spotify.com/album/6b8LaKbz7KHurVKuGGh7ig) | 3:55 |
-| 73 | [My Own Summer \- Shove It](https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Cover Me in Darkness](https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD) | 3:38 |
+| 72 | [My Own Summer \- Shove It](https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Cover Me in Darkness](https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD) | 3:38 |
+| 73 | [Thunder Kiss '65](https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Play It Forward](https://open.spotify.com/album/6b8LaKbz7KHurVKuGGh7ig) | 3:55 |
 | 74 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
 | 75 | [Bodies](https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Bodies](https://open.spotify.com/album/76VYWxgc2GZTVNJGRRAoEX) | 3:22 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDljNTE4YmYzZjA5MWYwYjBiZDk4MDNmY2Y4NzA4ZGRj`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDk0OTJiYzI5YjJjMjRlZWNlODg0ODU2Yjk2ZWZiYzFh`

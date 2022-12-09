@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,381 likes - 250 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,390 likes - 250 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,8 +226,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 216 | [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 |
 | 217 | [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 |
 | 218 | [Round Corners](https://open.spotify.com/track/5Xihr5cDsWzZoAXDYXIyQT) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Round Corners](https://open.spotify.com/album/2nSqjcfvtIkeqzscccMkZr) | 2:26 |
-| 219 | [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 |
-| 220 | [Remind Me](https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Remind Me](https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO) | 2:26 |
+| 219 | [Remind Me](https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Remind Me](https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO) | 2:26 |
+| 220 | [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 |
 | 221 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 |
 | 222 | [La Storia](https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [La Storia](https://open.spotify.com/album/0c7N8i0rJZjFJmNn1dkMOe) | 2:44 |
 | 223 | [Rites of Passage](https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 3:11 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 |
 | 250 | [Introspection](https://open.spotify.com/track/2009vxkuztUlRIwJBHnDB3) | [Amadeo Rossi](https://open.spotify.com/artist/4nUAGaHP7awm9U9E9Cm9GJ) | [Introspection](https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR) | 2:10 |
 
-Snapshot ID: `MTY2Mzk0MTYwMSwwMDAwMDAwMDE4M2RlM2MyN2E3ZDU5MzJhNjFmMGM0MWQ3NmFiODY2`
+Snapshot ID: `MTY2Mzk0MTYwMSwwMDAwMDAwMDAwY2I3ZGI1ZTBkMTkyYWIxNmEwNTBjZjRiMTBmM2I3`

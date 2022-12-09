@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-121 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
+122 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Ghir Ghir Ke](https://open.spotify.com/track/510UTDROfJ1pQQLrFZgo9Y) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Ghir Ghir Ke](https://open.spotify.com/album/2R6i4AcVuKKaFr8iAecT4w) | 4:07 | 2022-07-12 |  |
 | [Hamsadhwani](https://open.spotify.com/track/2kp7AnVKbDVZyrcRHjWvLB) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 6:16 | 2022-05-17 |  |
 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2022-05-17 |  |
-| [Har Ek Baat](https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/1nixMaLzd7QMvQPfsgqPZF) | 4:00 | 2022-12-07 |  |
+| [Har Ek Baat](https://open.spotify.com/track/00Pub8dRrRGLO6OZHRmY56) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/5EnjKdpZKtAlJWmn3GPIeo) | 4:00 | 2022-12-07 |  |
+| [Har Ek Baat](https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/1nixMaLzd7QMvQPfsgqPZF) | 4:00 | 2022-12-07 | 2022-12-09 |
 | [Homelands](https://open.spotify.com/track/5FqlDVyNf0FuHKAPS8a6K4) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 6:02 | 2022-05-17 |  |
 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 | 2022-05-17 |  |
 | [Humri Ateriya](https://open.spotify.com/track/4QLgVKSIe3OkXRNu5zJSJu) | [Smita Rao Bellur](https://open.spotify.com/artist/0Dje5wyfIRWD7Ks4k2gH0e) | [Yeh Kaali Kaali Ankhein \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ou3S5OJfPdEskgHpAQzsj) | 3:31 | 2022-05-17 |  |

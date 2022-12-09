@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The top tracks from Fresh Finds Pop this year\. Cover: Olivia Knox \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,380 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,474 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

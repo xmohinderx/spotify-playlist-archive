@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,114 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,207 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 2 | [Nie wieder sehen](https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Nie wieder sehen](https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY) | 2:41 |
 | 3 | [Ohne Benzin](https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ohne Benzin](https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0) | 2:35 |
 | 4 | [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 |
-| 5 | [Deine Schuld](https://open.spotify.com/track/2g4FPrvea8sYly3ihGRgwE) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weisses Herz](https://open.spotify.com/album/3TGzhEgQ0A1ijA6bnyrsJH) | 3:04 |
-| 6 | [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 |
+| 5 | [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 |
+| 6 | [Deine Schuld](https://open.spotify.com/track/2g4FPrvea8sYly3ihGRgwE) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weisses Herz](https://open.spotify.com/album/3TGzhEgQ0A1ijA6bnyrsJH) | 3:04 |
 | 7 | [Looking For Love](https://open.spotify.com/track/3iUmoy21qlRY1VdNEtJJlx) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Looking For Love](https://open.spotify.com/album/32CnxZefcziX2MQDBhzAOy) | 2:39 |
 | 8 | [Runaway](https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Runaway](https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH) | 3:06 |
 | 9 | [COOL KIDS](https://open.spotify.com/track/1YcG2ofHVH4B3HUQAayA4P) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [COOL KIDS](https://open.spotify.com/album/5HUtXyg0pthUtXDXHQjlBU) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/6dQzvpLz9qwutLYx6GUYCM) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Mirrors](https://open.spotify.com/album/0KnR5gUhV3Hb6mL13zU05z) | 4:21 |
 | 50 | [Shitlife](https://open.spotify.com/track/2LL9g7WEYzeVM2q7wtORWW) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Softness, Pt\. 2](https://open.spotify.com/album/1kFBJy9PoFDTiVlfAPuqDF) | 3:45 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDgzZjY4ZjQ0MDQyYzY5MWMwZThmNTM2Mzk4MjNhMDAw`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDM0OGI4MWNlM2FhZjYxZDVlNzU3M2UyMjA3YjFiYzI2`

@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 136499,
       "name": "a place to stay",
       "url": "https://open.spotify.com/track/60P0qchOlEMgnrzEgzS5rN"
@@ -638,6 +638,28 @@
     },
     {
       "album": {
+        "name": "Autumn Ode",
+        "url": "https://open.spotify.com/album/2w0SSHmq2gXIRR2lhMX4c1"
+      },
+      "artists": [
+        {
+          "name": "Nowun",
+          "url": "https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154871,
+      "name": "Autumn Ode",
+      "url": "https://open.spotify.com/track/71YfrDrTpHtdkFPe2wWUHm"
+    },
+    {
+      "album": {
         "name": "Aviary",
         "url": "https://open.spotify.com/album/0HxT6dEc5sUB1USYnJaSQP"
       },
@@ -725,7 +747,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 118288,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/70zLApRqXFilHTeREeJgxz"
@@ -891,7 +913,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 192080,
       "name": "calmaria",
       "url": "https://open.spotify.com/track/2hQhgG4J8ykWnxAqLagnwV"
@@ -1029,7 +1051,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 108955,
       "name": "Clean Slate",
       "url": "https://open.spotify.com/track/5urgZcmytFXy08oKO1yR9L"
@@ -1131,6 +1153,24 @@
       "duration_ms": 91200,
       "name": "Cloud Shapes",
       "url": "https://open.spotify.com/track/5QC98jeJQtNfkytjLhSGfD"
+    },
+    {
+      "album": {
+        "name": "Come Down, for Now",
+        "url": "https://open.spotify.com/album/1hlxYWIwgjJg8Msq24UB95"
+      },
+      "artists": [
+        {
+          "name": "Angel's Pulse",
+          "url": "https://open.spotify.com/artist/5wg3xOzYEtJriJs7OFp3Fb"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Come Down, for Now",
+      "url": "https://open.spotify.com/track/07U50Pzu6ZmqXOCWgIXUIb"
     },
     {
       "album": {
@@ -1424,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "DONT GO",
+        "url": "https://open.spotify.com/album/6XcVXWPZhfY0QfNUuCQFxz"
+      },
+      "artists": [
+        {
+          "name": "SLOWIFI",
+          "url": "https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126833,
+      "name": "DONT GO",
+      "url": "https://open.spotify.com/track/5v6GGRV3xNSvSYNfTCzKmS"
+    },
+    {
+      "album": {
         "name": "Dough",
         "url": "https://open.spotify.com/album/5KwP50V6r6CfEzHdD0ShHw"
       },
@@ -1707,7 +1765,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 125204,
       "name": "expiration date",
       "url": "https://open.spotify.com/track/7uECcxJYk3TqCAaOi8vkV8"
@@ -1729,7 +1787,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 168000,
       "name": "falling star",
       "url": "https://open.spotify.com/track/2d56D691hUH6XbVJ6Y0nmE"
@@ -1827,7 +1885,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 119476,
       "name": "Felt Like Spring",
       "url": "https://open.spotify.com/track/4e1hare7hkNfSchA9VrZWB"
@@ -1863,7 +1921,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 135384,
       "name": "first breath after coma.",
       "url": "https://open.spotify.com/track/597waIFxF1L9oHgJ30EcWo"
@@ -2207,7 +2265,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 122905,
       "name": "Homemade Love",
       "url": "https://open.spotify.com/track/4sPQv0sJFuzcWeibuT7rKB"
@@ -2243,7 +2301,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 115000,
       "name": "I Wish I Could Stay",
       "url": "https://open.spotify.com/track/45qawl0C0g0PD61SyhDsjx"
@@ -2305,7 +2363,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 162750,
       "name": "in bloom",
       "url": "https://open.spotify.com/track/6VGV5fT0Pkxwt9fIyR7hGg"
@@ -2584,6 +2642,24 @@
     },
     {
       "album": {
+        "name": "Letting You Know",
+        "url": "https://open.spotify.com/album/0MtI7XE2yinw8ikKZbiEws"
+      },
+      "artists": [
+        {
+          "name": "mennasa",
+          "url": "https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176461,
+      "name": "Letting You Know",
+      "url": "https://open.spotify.com/track/1s1bUlSPztqpgKGTdpc2PD"
+    },
+    {
+      "album": {
         "name": "liaison",
         "url": "https://open.spotify.com/album/76JTRe7VNwOt4iTYlXVIg3"
       },
@@ -2723,6 +2799,24 @@
       "duration_ms": 157923,
       "name": "Looking For The Moon",
       "url": "https://open.spotify.com/track/5x2WVc6pPhkFJWRLjAaXKd"
+    },
+    {
+      "album": {
+        "name": "LOQ",
+        "url": "https://open.spotify.com/album/567jBgBT2qgSTXLQdZe1o0"
+      },
+      "artists": [
+        {
+          "name": "Cinemabum",
+          "url": "https://open.spotify.com/artist/55q2Jq49hjetS8XiEZZ1Xg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123857,
+      "name": "LOQ",
+      "url": "https://open.spotify.com/track/7LekUd5YXvEQGl3fgaFZID"
     },
     {
       "album": {
@@ -2896,6 +2990,24 @@
     },
     {
       "album": {
+        "name": "Matraz",
+        "url": "https://open.spotify.com/album/2txrxySHANr9oGVC4w6i3X"
+      },
+      "artists": [
+        {
+          "name": "lov lofi",
+          "url": "https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Matraz",
+      "url": "https://open.spotify.com/track/0EExX0iMNhZmHM4rqDOrJU"
+    },
+    {
+      "album": {
         "name": "meditation vibes",
         "url": "https://open.spotify.com/album/7lEYOTd4M8zHINq390U9e6"
       },
@@ -3041,7 +3153,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 116756,
       "name": "Mist",
       "url": "https://open.spotify.com/track/0v3YwvruUzRAzFDig3GFKl"
@@ -3259,7 +3371,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 120879,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/6OrNqWMPi3YEXql3FmyaNm"
@@ -3429,10 +3541,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 103384,
       "name": "Once in a while",
       "url": "https://open.spotify.com/track/0B3jBS3ZGi3q5367fD9NiO"
+    },
+    {
+      "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/0LRN7uZKp3N1QRhIwTnl5C"
+      },
+      "artists": [
+        {
+          "name": "vesky",
+          "url": "https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/0FRgXeGLC5k0kOqEpnBUWn"
     },
     {
       "album": {
@@ -3487,6 +3617,24 @@
       "duration_ms": 135750,
       "name": "Out of the day",
       "url": "https://open.spotify.com/track/53RRv08qJ39rEkweiKCaoC"
+    },
+    {
+      "album": {
+        "name": "Quiet Thoughts",
+        "url": "https://open.spotify.com/album/33TE42Ct64dIGmRY0hV7ZI"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Overflowing",
+      "url": "https://open.spotify.com/track/6ArvQ8SOgYdRjAwGWmnuUN"
     },
     {
       "album": {
@@ -3715,7 +3863,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 114000,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/0C0zdDrUpv78MocEzCHEig"
@@ -3868,6 +4016,28 @@
     },
     {
       "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/7zJdDoFIxqO0bbkg7vuasC"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        },
+        {
+          "name": "marbre",
+          "url": "https://open.spotify.com/artist/2blo5YYX36yUbDlleqNSA7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133721,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/2KyN9XxbvyP1UurbDocnUn"
+    },
+    {
+      "album": {
         "name": "Record Me",
         "url": "https://open.spotify.com/album/27dqX0kaUQNH1C9ssB7Qtv"
       },
@@ -3999,7 +4169,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 122500,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/5OgUAkKomjUxeTcu9KzRbg"
@@ -4349,7 +4519,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 153230,
       "name": "Soaring",
       "url": "https://open.spotify.com/track/2BDEYjlvqGbUmQdM4NXiuI"
@@ -4367,7 +4537,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 176783,
       "name": "soft memories",
       "url": "https://open.spotify.com/track/4TJC6VGQEyGIMXisNs00On"
@@ -4613,7 +4783,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 130000,
       "name": "Sunrise Spliff",
       "url": "https://open.spotify.com/track/5M82sFRkIVNWT3mUM504fO"
@@ -4763,7 +4933,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 108169,
       "name": "Swinging Doors",
       "url": "https://open.spotify.com/track/3WmbNgqamqnUZoRMSRzBOY"
@@ -4781,7 +4951,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 134117,
       "name": "Tape Feed",
       "url": "https://open.spotify.com/track/0vHiBx1Nt1N4G9iVBTbQHP"
@@ -4803,6 +4973,24 @@
       "duration_ms": 136458,
       "name": "Tender Solitude",
       "url": "https://open.spotify.com/track/0NfSBcYslavuBvzcCgSMaD"
+    },
+    {
+      "album": {
+        "name": "the day before yesterday",
+        "url": "https://open.spotify.com/album/1biIfLil6eY0B7qvo6hYUD"
+      },
+      "artists": [
+        {
+          "name": "Fool Parsley",
+          "url": "https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112595,
+      "name": "the day before yesterday",
+      "url": "https://open.spotify.com/track/34sygkJSBdYrLfe8GWYDFm"
     },
     {
       "album": {
@@ -5029,7 +5217,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 99259,
       "name": "Tree Leaves",
       "url": "https://open.spotify.com/track/7Cowfhi6Y9Es19O5XhYrBM"

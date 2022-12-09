@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-527 songs - 1 day 8 hr 12 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+528 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-08-20 | 2022-10-07 |
 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 | 2021-04-19 | 2021-05-14 |
 | [星辰大海](https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [星辰大海](https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P) | 3:27 | 2021-10-11 | 2021-12-16 |
-| [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 |  |
+| [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 | 2022-12-09 |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 | 2022-10-25 |
 | [最好的時光](https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [最好的時光](https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn) | 3:55 | 2022-08-06 | 2022-08-25 |
 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-07-23 |  |
@@ -449,6 +449,7 @@
 | [沒有人想念沒離開的人](https://open.spotify.com/track/1ybDBYsAIOO7Xbstm8AbqW) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [明天再見](https://open.spotify.com/album/2idz2ndbhkZXYc1deg3CO3) | 3:09 | 2022-09-14 | 2022-09-18 |
 | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/track/2ubBG8i1vOI02Pffd8zaYz) | [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/album/3M9I0hjkXl6uj0UMzp9ZB7) | 3:26 | 2022-03-10 | 2022-03-18 |
 | [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 | 2022-06-29 | 2022-08-06 |
+| [沒有關係](https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [沒有關係](https://open.spotify.com/album/56TgG6JFlQHeQFMbXDg4Wt) | 2:40 | 2022-12-08 |  |
 | [浪子回頭](https://open.spotify.com/track/2YA5IfmQwAmVzHRP3SVnEd) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:19 | 2021-04-13 | 2021-05-14 |
 | [浪流連](https://open.spotify.com/track/7a6VJHMS9ttKsj55cKC51G) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/3gSVbEaY8DpXpTK7BDUj1C) | 4:13 | 2021-04-04 | 2022-02-17 |
 | [浪費時間](https://open.spotify.com/track/4vSEkALKd7ksHwphWg3oNS) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [浪費時間](https://open.spotify.com/album/3CSze05DeS7ElFA5ppOcNP) | 3:05 | 2022-01-05 | 2022-01-07 |

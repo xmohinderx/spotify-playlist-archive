@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-299 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+302 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,8 +124,10 @@
 | [I Deserve](https://open.spotify.com/track/0g5OzPkEGQeFiExxhUPjc3) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Deserve](https://open.spotify.com/album/3kZ8kuSmWXSJDeWjjTosUv) | 3:49 | 2021-10-29 | 2022-02-26 |
 | [I Hate It Here \- Live](https://open.spotify.com/track/66E7IrBV9rd5YNR6xCQJsy) | [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Live From the Pit](https://open.spotify.com/album/7Jwxk8laLKJF5gWLWIamVj) | 2:30 | 2022-04-01 | 2022-06-26 |
 | [I Need Love](https://open.spotify.com/track/6KQ4xmMQa4MClbj0CcpIMm) | [Precious](https://open.spotify.com/artist/4bVL2bLOv1PLQXHDWXNMPE), [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [I Need Love](https://open.spotify.com/album/4KuRwpsYracRUDh6OUYwE5) | 2:26 | 2022-03-18 | 2022-06-08 |
-| [I Tried](https://open.spotify.com/track/2PrbHDq2BPmBJhQknUMs9j) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Juveniletristen](https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc) | [I Tried](https://open.spotify.com/album/7omH8kpRfBmkwRDrtWrLiW) | 1:57 | 2022-10-07 |  |
-| [I Wanna Fall](https://open.spotify.com/track/5m5LuulFGsW8p6X6K1PJMX) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/4G4S7oiK7aezWTGsv7cJih) | 3:27 | 2022-12-02 |  |
+| [I Tried](https://open.spotify.com/track/0blQoUZeDKJEH3gIbkr4XR) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Juveniletristen](https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc) | [I Tried](https://open.spotify.com/album/3mslHmvlKarV3pzjylYTFZ) | 1:57 | 2022-10-07 |  |
+| [I Tried](https://open.spotify.com/track/2PrbHDq2BPmBJhQknUMs9j) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Juveniletristen](https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc) | [I Tried](https://open.spotify.com/album/7omH8kpRfBmkwRDrtWrLiW) | 1:57 | 2022-10-07 | 2022-12-09 |
+| [I Wanna Fall](https://open.spotify.com/track/0GHmTC6AUzWOUR8thoxzsB) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/69aXkfD7bJROlPuZok3Vf3) | 3:27 | 2022-12-02 |  |
+| [I Wanna Fall](https://open.spotify.com/track/5m5LuulFGsW8p6X6K1PJMX) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/4G4S7oiK7aezWTGsv7cJih) | 3:27 | 2022-12-02 | 2022-12-09 |
 | [I'm Pressed](https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [I'm Pressed](https://open.spotify.com/album/6YrhUIZvO1zL3MN7d2tFZl) | 3:01 | 2022-08-26 | 2022-10-08 |
 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 |  |
 | [If You Must Go](https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft) | [Sækyi](https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB) | [If You Must Go](https://open.spotify.com/album/67mwgOp6oS2Gx7AHJ9icFr) | 3:16 | 2022-09-30 |  |
@@ -292,7 +294,8 @@
 | [What's The Move](https://open.spotify.com/track/1mOGMaI2QcWWchFRmSjjqa) | [Don Altae](https://open.spotify.com/artist/37Y2mDVbUlztt1I5e6K9Bz) | [What's The Move](https://open.spotify.com/album/6vAuH6D9T8Jz6Rl0ikf6Dt) | 2:49 | 2022-09-23 |  |
 | [WHEN IT WAS ME](https://open.spotify.com/track/7B1DMrv005nXVW4pHjJUJz) | [Bandingo YGNE](https://open.spotify.com/artist/4WChwgMrLJSFKqAbfYA4Es) | [WHEN IT WAS ME](https://open.spotify.com/album/1x8aw1lKFBJgzuSeCLvCVY) | 2:29 | 2022-02-04 | 2022-03-05 |
 | [Whose Side Are You On?](https://open.spotify.com/track/1YClEnwTRU2mPWZy4cR3bV) | [Naimah](https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf) | [Whose Side Are You On?](https://open.spotify.com/album/4YxtRfqcQYKZWdVluf7Pmn) | 3:16 | 2022-04-22 | 2022-06-26 |
-| [wicked](https://open.spotify.com/track/3EhGkHOfcJ0ltSDht5vMRg) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [wicked](https://open.spotify.com/album/7ohqrhLykiF5AddwBzGdPs) | 2:07 | 2022-09-09 |  |
+| [wicked](https://open.spotify.com/track/3EhGkHOfcJ0ltSDht5vMRg) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [wicked](https://open.spotify.com/album/7ohqrhLykiF5AddwBzGdPs) | 2:07 | 2022-09-09 | 2022-12-09 |
+| [wicked](https://open.spotify.com/track/7tyfshbtUM0rGPkuAjXVbh) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [More Than Friends](https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN) | 2:07 | 2022-09-09 |  |
 | [WILL SMYTH](https://open.spotify.com/track/2ufWvohzuNuIzg3IFPMhnL) | [SMYTH](https://open.spotify.com/artist/0N3myojWJpjYmDTk73DVlX) | [WILL SMYTH](https://open.spotify.com/album/7AHUIzn7ozUNrJfjPbA0ds) | 2:04 | 2022-03-18 | 2022-05-21 |
 | [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 | 2022-05-20 | 2022-08-13 |
 | [Wish I Knew](https://open.spotify.com/track/3qx7ig57062kyFMNqBHWPn) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Wish I Knew](https://open.spotify.com/album/2dgFS2T4BTuoewTy6MjpiD) | 2:25 | 2022-12-02 |  |

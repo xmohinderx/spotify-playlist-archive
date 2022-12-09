@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. En portada: Los Panchos
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,882 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,095 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 76 | [Noche No Te Vayas](https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [Romanticamente Trios Vol\. 9](https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA) | 2:28 |
 | 77 | [Amor Que Malo Eres](https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:38 |
 | 78 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
-| 79 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
-| 80 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |
-| 81 | [Tus Promesas de Amor](https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Los Grandes Exitos De Virginia Lopez \- A Peticion Del Publici](https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe) | 2:39 |
+| 79 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |
+| 80 | [Tus Promesas de Amor](https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Los Grandes Exitos De Virginia Lopez \- A Peticion Del Publici](https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe) | 2:39 |
+| 81 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 82 | [Nos Hizo Falta Tiempo](https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Nos Hizo Falta Tiempo](https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf) | 2:46 |
 | 83 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 |
 | 84 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 90 | [Ya Tú Verás](https://open.spotify.com/track/2KE723Cj7xEvFe9qXgX8qu) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Los Grandes Exitos De Virginia Lopez \- A Peticion Del Publici](https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe) | 2:31 |
 | 91 | [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 |
 | 92 | [Te Amaré Toda la Vida](https://open.spotify.com/track/0Rc0EKY8krlTnrBHwVyJSr) | [Trio Fantasia](https://open.spotify.com/artist/2APenj3Xk0M7dVCtFZGm3X) | [Bolerísimo](https://open.spotify.com/album/6FD7LaF3pJ6E3nLRm1LA4D) | 2:47 |
-| 93 | [Son De La Loma](https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC) | [Trio Caribe](https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX) | [15 Canciones Inolvidables Con el Trío Caribe](https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS) | 2:45 |
+| 93 | [Cuando Me Vaya](https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:06 |
 | 94 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
-| 95 | [Cuando Me Vaya](https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:06 |
+| 95 | [Son De La Loma](https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC) | [Trio Caribe](https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX) | [15 Canciones Inolvidables Con el Trío Caribe](https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS) | 2:45 |
 | 96 | [Luna Orgullosa](https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:21 |
 | 97 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Grandes Exitos](https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd) | 2:49 |
 | 98 | [Nochecita](https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb) | 2:38 |
 | 99 | [Canción del alma](https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:33 |
 | 100 | [Cancionero](https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:06 |
 
-Snapshot ID: `MTY0MDUxODEyOSwwMDAwMDAwMDQxN2I3ODBiNjZmZjU2NmRhMGE2NzZjMDIyNmExZDVh`
+Snapshot ID: `MTY0MDUxODEyOSwwMDAwMDAwMDI1NmUwMWZhMmYwNWFmOGM5ZmZlOTZjNGEyNjM3MDI2`

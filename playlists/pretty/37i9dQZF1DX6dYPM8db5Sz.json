@@ -1,13 +1,29 @@
 {
-  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P?si=aCjbTw-CQk6Ogh9Mj5Fu_A\">Kloudink</a>",
-  "num_followers": 5157,
+  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf?si=KejCoE4vTEyAUQWvqYQubw\">Mymymy</a>",
+  "num_followers": 5162,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzMTk0MCwwMDAwMDAwMGRhNzNlMzNhNzgxYmMwZTdjZjQ0MzQ4N2M1OGVkMzMz",
+  "snapshot_id": "MTY3MDUzNjc0MCwwMDAwMDAwMDEzZDZjMDY0ODc1ODlkMGIwMzU5Yzg0NjMxMDJlNjk0",
   "tracks": [
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Vonkel",
+        "url": "https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX"
+      },
+      "artists": [
+        {
+          "name": "Mymymy",
+          "url": "https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf"
+        }
+      ],
+      "duration_ms": 246095,
+      "name": "Vonkel",
+      "url": "https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2"
+    },
     {
       "added_at": "2022-11-24 21:59:00",
       "album": {
@@ -25,10 +41,26 @@
       "url": "https://open.spotify.com/track/2RtMLddrvgrurOyKM30w98"
     },
     {
-      "added_at": "2022-12-01 21:59:00",
+      "added_at": "2022-11-24 21:59:00",
       "album": {
-        "name": "Triomf",
-        "url": "https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5"
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
+    },
+    {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
       },
       "artists": [
         {
@@ -36,9 +68,45 @@
           "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
         }
       ],
-      "duration_ms": 289895,
-      "name": "Triomf",
-      "url": "https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a"
+      "duration_ms": 293389,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
+    },
+    {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "Harder",
+        "url": "https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2"
+      },
+      "artists": [
+        {
+          "name": "Dangerfields",
+          "url": "https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU"
+        },
+        {
+          "name": "Mandi Lizamore",
+          "url": "https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX"
+        }
+      ],
+      "duration_ms": 366011,
+      "name": "Harder",
+      "url": "https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Blue Skies Baby",
+        "url": "https://open.spotify.com/album/508gqpQDY4WOLrRiune1oj"
+      },
+      "artists": [
+        {
+          "name": "Painted Flowers",
+          "url": "https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX"
+        }
+      ],
+      "duration_ms": 225391,
+      "name": "Blue Skies Baby",
+      "url": "https://open.spotify.com/track/1hd9094RZE9TAk8IaF7Tdh"
     },
     {
       "added_at": "2022-12-01 21:59:00",
@@ -59,6 +127,22 @@
       "duration_ms": 197333,
       "name": "Simple Things (feat. Theo Croker)",
       "url": "https://open.spotify.com/track/1Q8JyxW2AUpKtqScjz1hkT"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "All These Lights",
+        "url": "https://open.spotify.com/album/3cKG56oZlnWbA39aBNYD4F"
+      },
+      "artists": [
+        {
+          "name": "Jonny Hayes",
+          "url": "https://open.spotify.com/artist/4RscgyBOMvKeYLQ6OOF3sp"
+        }
+      ],
+      "duration_ms": 212195,
+      "name": "All These Lights",
+      "url": "https://open.spotify.com/track/4MPwDMHQgTrOAYvtzZxQyP"
     },
     {
       "added_at": "2022-12-01 21:59:00",
@@ -127,22 +211,18 @@
     {
       "added_at": "2022-12-01 21:59:00",
       "album": {
-        "name": "Harder",
-        "url": "https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2"
+        "name": "Triomf",
+        "url": "https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5"
       },
       "artists": [
         {
-          "name": "Dangerfields",
-          "url": "https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU"
-        },
-        {
-          "name": "Mandi Lizamore",
-          "url": "https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX"
+          "name": "The Great Yawn",
+          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
         }
       ],
-      "duration_ms": 366011,
-      "name": "Harder",
-      "url": "https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG"
+      "duration_ms": 289895,
+      "name": "Triomf",
+      "url": "https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -191,38 +271,6 @@
       "duration_ms": 169062,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
-    },
-    {
-      "added_at": "2022-11-24 21:59:00",
-      "album": {
-        "name": "Saviour Complex",
-        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Saviour Complex",
-      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
-      },
-      "artists": [
-        {
-          "name": "The Great Yawn",
-          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
-        }
-      ],
-      "duration_ms": 293389,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -333,28 +381,20 @@
       "url": "https://open.spotify.com/track/1g61CcDnJNowdZJK6oW1GS"
     },
     {
-      "added_at": "2022-08-18 21:59:00",
+      "added_at": "2022-12-08 21:59:00",
       "album": {
-        "name": "Cigarettes",
-        "url": "https://open.spotify.com/album/6kE2uEV0sRnzY56zH5Vaaa"
+        "name": "CHICKEN MAYO",
+        "url": "https://open.spotify.com/album/6jo8Rk0JRv4h8IhD4oxklW"
       },
       "artists": [
         {
-          "name": "SyonkoTheMan",
-          "url": "https://open.spotify.com/artist/52q9KxQFuumM4i1tbufUgX"
-        },
-        {
-          "name": "GOD-Artist",
-          "url": "https://open.spotify.com/artist/327rzGr8Sj1D2m2ShcAgF0"
-        },
-        {
-          "name": "Wandilorn",
-          "url": "https://open.spotify.com/artist/1w5Cq2qn7FR498amWpFRIR"
+          "name": "SuperSaiyanRasta.",
+          "url": "https://open.spotify.com/artist/2ZUEP6gwvkhOKktt7lT8kX"
         }
       ],
-      "duration_ms": 209382,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/59sO3PZBgWBDVAnhJKkCqp"
+      "duration_ms": 158418,
+      "name": "CHICKEN MAYO",
+      "url": "https://open.spotify.com/track/6o6ydS9wgJL5URC2hIessV"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -517,6 +557,22 @@
       "url": "https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny"
     },
     {
+      "added_at": "2022-09-09 02:51:20",
+      "album": {
+        "name": "NEARLY ME",
+        "url": "https://open.spotify.com/album/1Jdk7zXVJyDFb7fZQ9sXlu"
+      },
+      "artists": [
+        {
+          "name": "Pat McCay",
+          "url": "https://open.spotify.com/artist/1AMLedm2z14uk2eSDbndxK"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "Ride The Next One",
+      "url": "https://open.spotify.com/track/4so7v52k8q4Bac3SxHAPOu"
+    },
+    {
       "added_at": "2022-10-31 13:06:40",
       "album": {
         "name": "Leaving All The Time",
@@ -633,38 +689,6 @@
       "url": "https://open.spotify.com/track/6Sd3bSqCaZ5O9Tn0m0P6IC"
     },
     {
-      "added_at": "2022-08-18 21:59:00",
-      "album": {
-        "name": "If God Is The Pigeon",
-        "url": "https://open.spotify.com/album/58Ybnqt8CX2Ty3B2UsJLwW"
-      },
-      "artists": [
-        {
-          "name": "Ruby Gill",
-          "url": "https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "If God Is The Pigeon",
-      "url": "https://open.spotify.com/track/11hrQND5U7gbysfggLP30o"
-    },
-    {
-      "added_at": "2022-09-09 02:51:20",
-      "album": {
-        "name": "NEARLY ME",
-        "url": "https://open.spotify.com/album/1Jdk7zXVJyDFb7fZQ9sXlu"
-      },
-      "artists": [
-        {
-          "name": "Pat McCay",
-          "url": "https://open.spotify.com/artist/1AMLedm2z14uk2eSDbndxK"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "Ride The Next One",
-      "url": "https://open.spotify.com/track/4so7v52k8q4Bac3SxHAPOu"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Silence, Please!",
@@ -741,26 +765,6 @@
       "url": "https://open.spotify.com/track/3xY36zjy0lSZf6H5aTe5WD"
     },
     {
-      "added_at": "2022-09-02 10:58:49",
-      "album": {
-        "name": "Hot Mess Kamikaze",
-        "url": "https://open.spotify.com/album/64EWgHrGNrClyYihj1gNSf"
-      },
-      "artists": [
-        {
-          "name": "Yorxe",
-          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
-        },
-        {
-          "name": "Meridian Quake",
-          "url": "https://open.spotify.com/artist/78gOv67PJExDFUm8TGgSo7"
-        }
-      ],
-      "duration_ms": 178669,
-      "name": "Hot Mess Kamikaze",
-      "url": "https://open.spotify.com/track/15rZyIFD0Yt4cIuL1bZArn"
-    },
-    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "ghost in the machine",
@@ -775,22 +779,6 @@
       "duration_ms": 207439,
       "name": "ghost in the machine",
       "url": "https://open.spotify.com/track/6g26JrVvHq2JTviCK8Rov2"
-    },
-    {
-      "added_at": "2022-09-02 10:58:49",
-      "album": {
-        "name": "Who am I to follow",
-        "url": "https://open.spotify.com/album/54PzuZVWLC8pw4wVzKIptT"
-      },
-      "artists": [
-        {
-          "name": "Double Comfort Safari",
-          "url": "https://open.spotify.com/artist/1hIiJTji8IMwDhlYLZSv3O"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Who am I to follow",
-      "url": "https://open.spotify.com/track/3N1ymSDgFeaApDPTZ8f4lW"
     },
     {
       "added_at": "2022-09-15 21:59:00",

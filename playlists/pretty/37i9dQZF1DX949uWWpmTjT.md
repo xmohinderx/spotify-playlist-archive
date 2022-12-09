@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,845 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,980 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 99 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 |
 | 100 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 |
 
-Snapshot ID: `MTY2OTkzNTY2MCwwMDAwMDAwMGU1YjcyZTgwZWVjMDA0MTg3MWUwZjk0MzUwYjI4ZThm`
+Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMGZhNGEyNDFiZTFjZWUyYmIxOGY1NDJmZTk3ZjM2ODk0`

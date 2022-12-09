@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,680 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,771 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 19 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 20 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
 | 21 | [Olga](https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:02 |
-| 22 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 |
-| 23 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 |
+| 22 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 |
+| 23 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 |
 | 24 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 |
 | 25 | [999 Renaissance](https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2) | [SymphoCat](https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN) | [Revival Renaissance Rebirth \(Act 1\)](https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW) | 5:04 |
 | 26 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
 | 27 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 |
 | 28 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
-| 29 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 |
-| 30 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
+| 29 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
+| 30 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 |
 | 31 | [Indigo Grit \(feat\. guest\)](https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [guest](https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 1:52 |
 | 32 | [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 |
 | 33 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 99 | [Fountain \(ars amatoria\)](https://open.spotify.com/track/4tuK95S2K07yPnMYJiMnlH) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Fountain \(ars amatoria\)](https://open.spotify.com/album/0hGiFp2Ac0VzhFDQCodUFG) | 7:27 |
 | 100 | [does it have to be beautiful](https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 1:59 |
 
-Snapshot ID: `MTY2OTk5MDQzNSwwMDAwMDAwMDJiNWYwMTk3NDM5MWVkZmUzMmE0ZTViYjUzNDM1ODc5`
+Snapshot ID: `MTY2OTk5MDQzNSwwMDAwMDAwMDE2ZGNkMDU3MGM1ZGVjMzJmMTJlMjkzN2Y2ZGM1MjNi`

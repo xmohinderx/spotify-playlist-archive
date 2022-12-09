@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,342 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,434 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 33 | [Bless The Child](https://open.spotify.com/track/5EGh7JiX79SeHn9J1yn2UX) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 6:12 |
 | 34 | [Deep Silent Complete](https://open.spotify.com/track/3G4Y8kAQlO6vmZ8vkH5Tw1) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 3:57 |
 | 35 | [Weak Fantasy](https://open.spotify.com/track/3POMZFPzYbV6rYXJN1ozXW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 5:24 |
-| 36 | [Where Were You Last Night](https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wish I Had an Angel](https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7) | 3:52 |
-| 37 | [The Crow, the Owl and the Dove](https://open.spotify.com/track/6udzPCAaSWZ1dIE8VwX67z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 4:10 |
+| 36 | [The Crow, the Owl and the Dove](https://open.spotify.com/track/6udzPCAaSWZ1dIE8VwX67z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 4:10 |
+| 37 | [Where Were You Last Night](https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wish I Had an Angel](https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7) | 3:52 |
 | 38 | [The Islander](https://open.spotify.com/track/7Ce61NyQM0XfGbVHSUBBOG) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 5:05 |
 | 39 | [Come Cover Me](https://open.spotify.com/track/0OdY66m0hkI0P45EsDmW2C) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:34 |
 | 40 | [10th Man Down](https://open.spotify.com/track/5YEl0SaWsp0QhrFqZyV0XA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 49 | [7 Days to the Wolves \- Live, at Wembley, 2015](https://open.spotify.com/track/1SQlzlYlaMXvBphd1Z1nmD) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Vehicle of Spirit: Wembley Arena \(Live\)](https://open.spotify.com/album/1y6lNpSBJck5Fi0iRwHot1) | 7:11 |
 | 50 | [Ghost River \- Live, at Wacken, 2013](https://open.spotify.com/track/3veJ8Oy7Z5iNaxZRgZRFOr) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Showtime, Storytime \(Live, at Wacken, 2013\)](https://open.spotify.com/album/2EIvvMqgrCHORCpQBmJDjm) | 6:04 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDBlNzkzNzliYWUyZWNhY2Q4NGY1YWQ4YzhkN2IxNjVlMg==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBjNTg3OTRkN2ZmZDA5YjQ1OWMxYzUxZTk5NDI3N2VlNg==`

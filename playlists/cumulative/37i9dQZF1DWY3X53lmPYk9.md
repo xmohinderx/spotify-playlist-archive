@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-204 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+206 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Darn That Dream](https://open.spotify.com/track/3X0hhcf3nhupCCq2rFaTZP) | [Ethan Iverson](https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Nasheet Waits](https://open.spotify.com/artist/5fhkjcgOAjl6gQGsQOcP46) | [The Purity of the Turf](https://open.spotify.com/album/4KliiTRJlcaMNqsZA15iOF) | 4:44 | 2021-12-14 | 2022-09-30 |
 | [Days of Wine and Roses](https://open.spotify.com/track/0bCwxcB99DGOg6OK9if6c9) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Days of Wine and Roses](https://open.spotify.com/album/1mDaXUoWzlSxRkn8Griz53) | 3:03 | 2021-12-14 |  |
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2022-04-26 |  |
+| [Doin Nothing](https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Doin Nothing](https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW) | 3:53 | 2022-12-08 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:01 | 2021-12-14 | 2022-11-25 |
 | [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
@@ -172,6 +173,7 @@
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-01-13 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2022-12-01 |  |
 | [Summertime](https://open.spotify.com/track/48VBjzx0eH2CkOEjBDlxft) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Summertime](https://open.spotify.com/album/67FpasD3efqkbHYrZoeytx) | 4:41 | 2022-03-10 | 2022-08-12 |
+| [Sweet And Lovely](https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Sweet And Lovely](https://open.spotify.com/album/68praxj4zGWVqDHxwN7wex) | 3:30 | 2022-12-08 |  |
 | [Taking A Chance On Love](https://open.spotify.com/track/1f9NMymXfaYatJPvlkilXv) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Grand Piano](https://open.spotify.com/album/4nkc7tvHOT1xhiaTbjuFiL) | 2:35 | 2022-03-10 | 2022-05-25 |
 | [tea for two](https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:44 | 2021-12-14 |  |
 | [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 | 2021-12-14 | 2022-08-18 |

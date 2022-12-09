@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,250 likes - 63 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,301 likes - 63 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 12 | [Se Pikó El After](https://open.spotify.com/track/4XMnk5JteXlqjvc52OkoTJ) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Se Pikó El After](https://open.spotify.com/album/2hkzdGPSximNluKRSlD75G) | 2:48 |
 | 13 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 |
 | 14 | [Pinta](https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [Pinta](https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha) | 2:57 |
-| 15 | [RAFA PABÖN \| DJ TAO Turreo Session \#11](https://open.spotify.com/track/6AXdAALVzq9mV8RJWX20zo) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [RAFA PABÖN \| DJ TAO Turreo Session \#11](https://open.spotify.com/album/7FsIed2h3dO48TFBUZEzkT) | 3:30 |
+| 15 | [RAFA PABÖN \| DJ TAO Turreo Sessions \#11](https://open.spotify.com/track/1DD7LZaZ8UdCOCqRfA8Kb8) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [RAFA PABÖN \| DJ TAO Turreo Sessions \#11](https://open.spotify.com/album/61iQWLPBMdkAQIDMlifGb2) | 3:30 |
 | 16 | [Tamo Chelo](https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Tamo Chelo](https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD) | 1:52 |
 | 17 | [Fiesta Panky](https://open.spotify.com/track/6H2dh3gbmmdtn4dBQmPkJV) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Basty Corvalan](https://open.spotify.com/artist/6p9BBRwixGcXxZ1gdcqmpd), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Fiesta Panky](https://open.spotify.com/album/0ksje3J45uzOOAoKcEyLaA) | 4:27 |
 | 18 | [TRUCHO](https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [TRUCHO](https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK) | 2:24 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 62 | [Para Que Aprendan](https://open.spotify.com/track/6ZenaPkP2yEdwctGL6eagB) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Para Que Aprendan](https://open.spotify.com/album/0aw5Uti0zedVLh34XE9nzb) | 2:19 |
 | 63 | [SUSY 420](https://open.spotify.com/track/444LRhxSirslV3xR6uwDr1) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [SUSY 420](https://open.spotify.com/album/4jbhivQacS1R66AvVFBIxd) | 3:12 |
 
-Snapshot ID: `MTY3MDM1MDY5NiwwMDAwMDAwMGU3OWExZWYxMmJmZGJmZWQ2Mzg4ODYxZTU4MWRhZTZk`
+Snapshot ID: `MTY3MDM1MDY5NiwwMDAwMDAwMDY2YmY0MGZhNzI0Zjg0YjViZmEwYTEzMGRhODY3ZDc2`

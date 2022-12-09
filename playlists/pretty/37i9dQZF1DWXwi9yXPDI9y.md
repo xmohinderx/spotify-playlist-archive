@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,091 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,223 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 62 | [Three And Six](https://open.spotify.com/track/1rDSvUCDcz2KOoQVIPrQ9z) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Not So Dukish](https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv) | 2:21 |
 | 63 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/1QwPURs9jcgxhyidnzLKme) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b) | 3:23 |
 | 64 | [Indian Summer](https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 5:01 |
-| 65 | [Make The Man Love Me](https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 5:35 |
-| 66 | [I Cover The Waterfront \- Master Take](https://open.spotify.com/track/4VcDJCwRyrSa1oJNJ1Ac9P) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 3:51 |
+| 65 | [I Cover The Waterfront \- Master Take](https://open.spotify.com/track/4VcDJCwRyrSa1oJNJ1Ac9P) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 3:51 |
+| 66 | [Make The Man Love Me](https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 5:35 |
 | 67 | [How Long Has This Been Going On?](https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [The Classic Lena Horne](https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm) | 3:23 |
 | 68 | [Stairway To The Stars](https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 3:05 |
 | 69 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [Polka Dots And Moonbeams](https://open.spotify.com/track/5gKkKecfZsrzIkJlKyikyw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:36 |
 | 100 | [Everything Happens To Me \- Complete Take 2](https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 3:38 |
 
-Snapshot ID: `MTY2OTg5Mzk5NCwwMDAwMDAwMGJiNDc5OWYxODZmYzQwOWZiNmVjNDUyOTM4OTFjZDQy`
+Snapshot ID: `MTY2OTg5Mzk5NCwwMDAwMDAwMGY3MjVlNjEyYmU2ZDg0ZWM4Y2M1MmM5OGM2MGU3NzY2`

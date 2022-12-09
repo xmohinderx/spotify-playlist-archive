@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,967 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,021 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 95 | [Something To Remember You By](https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:42 |
 | 96 | [Georgia On My Mind](https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa Brewer And The Dixieland Band](https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla) | 3:45 |
 | 97 | [But Not For Me](https://open.spotify.com/track/0RylOkUn6emxO9bPwxWqsI) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:51 |
-| 98 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [There's Only One...](https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8) | 5:12 |
+| 98 | [Dear Kathy](https://open.spotify.com/track/151RegbPut96kOvkSiPqLb) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:48 |
 | 99 | [Comes Love](https://open.spotify.com/track/4RCIJZQ866qGKz0tefgYYt) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 2:25 |
-| 100 | [Autumn Leaves \- 1996 Digital Remaster](https://open.spotify.com/track/3FG4FK19MJD7XiuHfZLwGj) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Great Ladies Of Song / Spotlight On Jo Stafford](https://open.spotify.com/album/5QuOghrD0EombfA6qOnMMz) | 2:34 |
+| 100 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [There's Only One...](https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8) | 5:12 |
 
-Snapshot ID: `MTY3MDQwNjAyMSwwMDAwMDAwMDc4NWI0ZmJiZjI3ZmYwZDc0NDhmMzkxMDQxOWVjNTU5`
+Snapshot ID: `MTY3MDQwNjAyMSwwMDAwMDAwMDIxNjI2ZDkxNzA5ZmYzNjMzOTE3MjNiZTVhOGY5NzAz`

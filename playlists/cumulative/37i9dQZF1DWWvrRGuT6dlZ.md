@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds Singapore & Malaysia in 2022\. Cover: shazza
 
-324 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+325 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Running](https://open.spotify.com/track/1YpPgnVsX1qTPHgmGQCjcw) | [codecaud](https://open.spotify.com/artist/3o5MStF8uD9Vvy8Hgqk9ju) | [Still Jive](https://open.spotify.com/album/50QSLXhEWwltjrd2cdmN7u) | 3:58 | 2021-12-01 | 2022-01-14 |
 | [Runway](https://open.spotify.com/track/4hAs3NCpwL8Lhr4GcL9kkV) | [Cadence](https://open.spotify.com/artist/0MtXc3VR14iObCndBTBHTr) | [Runway](https://open.spotify.com/album/3mrOvZdzJgCflKQdJDBxPs) | 3:32 | 2022-01-13 | 2022-06-17 |
 | [SABOTAGE](https://open.spotify.com/track/6JiTElT2IwCE6y7RaoipGY) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [SABOTAGE](https://open.spotify.com/album/0vauqCL7JIOccbQuuFKqRv) | 3:02 | 2022-08-25 | 2022-12-01 |
-| [Sad Blue Eyes](https://open.spotify.com/track/17BCfjdEFjp0LdbYiZMpIp) | [Suehaila](https://open.spotify.com/artist/2CrbmDngTlkWzpWszKVR3p) | [Sad Blue Eyes](https://open.spotify.com/album/51Z8I8NYJTJ0xvhJ85KBPf) | 3:22 | 2021-12-01 |  |
+| [Sad Blue Eyes](https://open.spotify.com/track/0lZdsbxUHofPCqvn8gghUH) | [Suehaila](https://open.spotify.com/artist/2CrbmDngTlkWzpWszKVR3p) | [Sad Blue Eyes](https://open.spotify.com/album/7E5EzKzI6DJievisaDOIOT) | 3:22 | 2022-11-30 |  |
+| [Sad Blue Eyes](https://open.spotify.com/track/17BCfjdEFjp0LdbYiZMpIp) | [Suehaila](https://open.spotify.com/artist/2CrbmDngTlkWzpWszKVR3p) | [Sad Blue Eyes](https://open.spotify.com/album/51Z8I8NYJTJ0xvhJ85KBPf) | 3:22 | 2021-12-01 | 2022-12-09 |
 | [SAFETY FIRST](https://open.spotify.com/track/2qpQJOmQwANHsGToFrtOfO) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [SAFETY FIRST](https://open.spotify.com/album/6e3AFdBnFabQuxAUnjI2ph) | 2:48 | 2022-07-28 | 2022-09-23 |
 | [SAUCE!](https://open.spotify.com/track/7nqGdKjlt1X4hBuPB2Ccm4) | [FUDGY](https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL) | [SAUCE!](https://open.spotify.com/album/7wKL6WBL0lxZlo8h8thdDf) | 2:27 | 2022-02-10 | 2022-06-17 |
 | [see you soon](https://open.spotify.com/track/6NRZ7rvVhYhMUF575qdzcR) | [Darryl Sim](https://open.spotify.com/artist/0FbejZR1UoamwHNaZUXIDN), [Wren](https://open.spotify.com/artist/5l2UPekSc9efPGnfa43lKQ) | [see you soon](https://open.spotify.com/album/26K1hiMLrnuU63gdD19471) | 3:04 | 2022-09-15 | 2022-12-01 |

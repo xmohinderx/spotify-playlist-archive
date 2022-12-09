@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Prodigio, Jimmy P e Dino D'Santiago entram na zona. ",
+  "description": "ProfJam entra na zona. ",
   "name": "Na Zona",
   "published_playlist_ids": [
     "22ncssGshPQaFSB3hgligM"
@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Beijo",
+        "url": "https://open.spotify.com/album/1aSuvQp44qKjLvTMFheNDK"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203483,
+      "name": "Beijo",
+      "url": "https://open.spotify.com/track/2P9UCbKe97jD0q6UOG7bsf"
+    },
+    {
+      "album": {
         "name": "Bimba Y Lola",
         "url": "https://open.spotify.com/album/7CtTCSTIrFUnRlqCKe4oM3"
       },
@@ -557,6 +575,24 @@
       "duration_ms": 165555,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/7uHLAlgUhSOwnnbXJeG7ai"
+    },
+    {
+      "album": {
+        "name": "CABARET",
+        "url": "https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135117,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r"
     },
     {
       "album": {
@@ -1006,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "Dormi No Carro",
+        "url": "https://open.spotify.com/album/0jiBatlpuclG0BU2C1Ancy"
+      },
+      "artists": [
+        {
+          "name": "Russa",
+          "url": "https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Dormi No Carro",
+      "url": "https://open.spotify.com/track/45v2Tp3itHwoAD5CoCErgc"
+    },
+    {
+      "album": {
         "name": "Entre os Dois (feat. Julinho Ksd )",
         "url": "https://open.spotify.com/album/17wFwqW7zLXEFqx59NmIqS"
       },
@@ -1119,7 +1173,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 207071,
       "name": "Estadia",
       "url": "https://open.spotify.com/track/1ivRu9ANM1hYBgeNDZyRmX"
@@ -1221,7 +1275,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 225880,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
@@ -1239,7 +1293,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 197360,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP"
@@ -1363,7 +1417,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 254117,
       "name": "GOD MODE",
       "url": "https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj"
@@ -1647,7 +1701,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
@@ -1959,7 +2013,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 207658,
       "name": "Morte do Artista",
       "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
@@ -2047,6 +2101,46 @@
       "duration_ms": 260605,
       "name": "NADA ME FALTA",
       "url": "https://open.spotify.com/track/1FbYUB1g0NIgywhHzZ0yuS"
+    },
+    {
+      "album": {
+        "name": "Naquela Base",
+        "url": "https://open.spotify.com/album/23Ya0t9be1qWCCcEhj43OH"
+      },
+      "artists": [
+        {
+          "name": "DJ Overule",
+          "url": "https://open.spotify.com/artist/7G2Ifqc6GK5hnQOCEMF1Zo"
+        },
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186826,
+      "name": "Naquela Base",
+      "url": "https://open.spotify.com/track/0IJlFbvpFfcZvgcBHUoLkp"
+    },
+    {
+      "album": {
+        "name": "NARRATIVA",
+        "url": "https://open.spotify.com/album/5J64x57j5IlPX5ewqHpgLk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176954,
+      "name": "NARRATIVA",
+      "url": "https://open.spotify.com/track/71CVtVEjK6GabQINOori0o"
     },
     {
       "album": {
@@ -3207,7 +3301,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 205451,
       "name": "Via L\u00e1ctea",
       "url": "https://open.spotify.com/track/5Bw2IRKXiwAA8rzBogkE5e"

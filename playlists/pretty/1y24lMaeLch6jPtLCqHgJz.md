@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > The biggest Progressive House anthems of 2022\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 82,876 likes - 81 songs - 4 hr 13 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 82,868 likes - 81 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

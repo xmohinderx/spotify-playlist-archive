@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-627 songs - 1 day 13 hr 6 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+628 songs - 1 day 13 hr 11 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/album/6mgn507pXtwFXRcEGcg4bA) | 3:42 | 2021-03-27\* |  |
 | [Bài Này Chill Phết](https://open.spotify.com/track/2AiZm17zqkV7llT3SHz4Nu) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/5V9sf4PHbbTbrAG11xUzRQ) | 4:36 | 2021-03-27\* | 2021-05-29 |
 | [Bên Trên Tầng Lầu](https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ) | [Bên Trên Tầng Lầu](https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG) | 3:04 | 2022-07-08 |  |
-| [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/6uxuJ8Fr1AAfSPJUF9N1yr) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:38 | 2022-09-10 |  |
+| [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/6uxuJ8Fr1AAfSPJUF9N1yr) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:38 | 2022-09-10 | 2022-12-09 |
 | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/album/5eZM5D8F9yNZvsE4uC2l1s) | 4:38 | 2021-03-27\* | 2022-09-11 |
 | [Bước Qua Nhau](https://open.spotify.com/track/38rjRVqEHSlDRrDWDvjkqW) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:17 | 2022-09-10 |  |
 | [Bước Qua Nhau](https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Nhau](https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU) | 4:17 | 2021-11-13 | 2022-09-11 |
@@ -430,6 +430,7 @@
 | [Outro: Wings](https://open.spotify.com/track/7kyUapJyppdjzoAWB6XS14) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:45 | 2022-05-28 | 2022-06-01 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2021-11-08 |
 | [Pandora's Box](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:36 | 2022-07-16 | 2022-07-25 |
+| [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2022-12-08 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-11-14 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-25 |
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2021-12-18 | 2022-06-11 |

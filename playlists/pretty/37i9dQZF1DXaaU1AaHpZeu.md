@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: RPLK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,882 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,938 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 17 | [NUEVOS DESTROZOS](https://open.spotify.com/track/1HpFhq6e92v6qLYCk6rsJW) | [MENTIRA](https://open.spotify.com/artist/025KCrdT7Sl83OzsBfEhtu) | [NUEVOS DESTROZOS](https://open.spotify.com/album/6oqKh4s2MCmFuwNEKb9rvx) | 3:01 |
 | 18 | [Jowar Guolobitch](https://open.spotify.com/track/2oyyeylOGnzSSERKuZiUPI) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Jowar Guolobitch](https://open.spotify.com/album/1NVkIIK0W1RnktuK1YKHfO) | 3:17 |
 | 19 | [Armchair](https://open.spotify.com/track/4mM8j47ojwcplkxlGRgGtg) | [Camila Luna](https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X) | [Armchair](https://open.spotify.com/album/4SKSmSbWIBrw3J1bOYIM7O) | 3:58 |
-| 20 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
+| 20 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
 | 21 | [Santo Domingo](https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Santo Domingo](https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI) | 2:36 |
 | 22 | [Decreto](https://open.spotify.com/track/3ISHt7hGxzM1pWnlXlIDjy) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Decreto](https://open.spotify.com/album/7tlbnFYU7AQR5nqBLy9SMm) | 3:25 |
-| 23 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK), [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 |
+| 23 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 |
 | 24 | [Hasta Mañana](https://open.spotify.com/track/6EXT5R2CmA4KbXVEbw24og) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [todo va a estar bien :\)](https://open.spotify.com/album/28vgZhRk1d58NrJXERHMQz) | 3:49 |
 | 25 | [Nuestro Jardín](https://open.spotify.com/track/2NyVhgzIcYkszgTdxZ3EQ6) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Nuestro Jardín](https://open.spotify.com/album/4mwvvBVua9tg5D2QQBb69A) | 3:35 |
 | 26 | [Ajenos](https://open.spotify.com/track/1wFSyRaisYdUs9YCYnnors) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Ajenos](https://open.spotify.com/album/1TO7TwvjLQv3QwFML19v5X) | 2:29 |

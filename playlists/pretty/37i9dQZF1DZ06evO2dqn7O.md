@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,148 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,159 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 51 | [Okay](https://open.spotify.com/track/2qo6M1TWBhGCX4N0LlqvMi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 4:45 |
 | 52 | [skip.that.party \(with Jensen McRae\)](https://open.spotify.com/track/7IbWXDiwOW8egg28MA0Qpb) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [skip.that.party \(with Jensen McRae\)](https://open.spotify.com/album/0w7D24H0GkZiX2z4co1GKe) | 3:51 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDAyYWMzNGVmYzFlMDdlZWVjM2VlMTUxZmVkMjUxM2IxNA==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBhZGMyZGY4NmMyZTgyZmYzZTc1ZmY4ZjhmMTQ4OWQ0YQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 
 > Uma seleção especial do jazz nacional\. Foto: Letieres Leite, Orkestra Rumpilezz, Caetano Veloso
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,776 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,820 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

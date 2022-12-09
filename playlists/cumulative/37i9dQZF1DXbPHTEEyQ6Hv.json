@@ -1902,6 +1902,28 @@
     },
     {
       "album": {
+        "name": "The Little Drummer Boy",
+        "url": "https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123502,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/3qIyXzaFyemcsdtDwCz00L"
+    },
+    {
+      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/6U12R48Wp7jHFTX4odwrDr"
       },
@@ -1917,7 +1939,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 123502,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/7vFgAMthJFP6jr9HTef2Y8"

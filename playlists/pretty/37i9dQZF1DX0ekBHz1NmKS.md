@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,448 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,457 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 33 | [Grammofon](https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Grammofon](https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2) | 3:09 |
 | 34 | [I Feel It In The Wind](https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Feel It In The Wind](https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7) | 3:33 |
 | 35 | [Ut med allt](https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ut med allt](https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE) | 2:21 |
-| 36 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 |
-| 37 | [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/track/0EA61Q5q4scc29VfvnmAgO) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7), [Irya Gmeyner](https://open.spotify.com/artist/3No4e9xTmvsjOeORRfPi6x) | [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm) | 3:32 |
+| 36 | [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/track/0EA61Q5q4scc29VfvnmAgO) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7), [Irya Gmeyner](https://open.spotify.com/artist/3No4e9xTmvsjOeORRfPi6x) | [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm) | 3:32 |
+| 37 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 |
 | 38 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 |
 | 39 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 |
 | 40 | [Vågar](https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Vågar](https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Flyga](https://open.spotify.com/track/2NYq3cFJKFtGkxbGLzSXLP) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Flyga](https://open.spotify.com/album/4nZYnOABTSVERld8R67WgW) | 2:53 |
 | 100 | [Förbjudet land](https://open.spotify.com/track/4da9wutgbwJbY5L2K0wJSD) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Förbjudet land](https://open.spotify.com/album/3HkXIRwwC7MSTV5U3uDklm) | 3:47 |
 
-Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMGVmYjgwNzhhMTIzOTMwM2NhZWU3N2M2OTI0MDJjMzgx`
+Snapshot ID: `MTY3MDU0NTI1OCwwMDAwMDAwMDdjYzJlYmUxYTU0Yzk2ODU2MmFlYWNlN2YxZGM5YWEx`

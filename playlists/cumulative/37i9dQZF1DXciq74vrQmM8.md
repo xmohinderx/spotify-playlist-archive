@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. bring me the horizon
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. CHELJI
 
-399 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+401 songs - 18 hr 51 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [BUBBLEGUM](https://open.spotify.com/track/1h1YtwDu2DOYxFaJQbNRYj) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Live Laugh Love](https://open.spotify.com/album/4zOkgUkqLbQCK0POFJ3L7S) | 2:04 | 2022-11-18 |  |
 | [BUBBLEGUM](https://open.spotify.com/track/30CvotPyRWWK2HHo1vbVBS) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [BUBBLEGUM](https://open.spotify.com/album/30Tfy5w2spNJk5BKVsxr9l) | 2:04 | 2022-10-13 | 2022-11-18 |
 | [buckshot boy](https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR) | [Onlyfriend](https://open.spotify.com/artist/03zKAbmkkWhUzjUSmJZGVE) | [buckshot boy](https://open.spotify.com/album/6eB0sUv4yuNNWzXFv11A8J) | 2:18 | 2021-12-27 | 2022-01-19 |
-| [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 | 2022-08-25 |  |
+| [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 | 2022-08-25 | 2022-12-09 |
 | [Bull](https://open.spotify.com/track/1HdovCicIl6icinsOlrpqz) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [Bull](https://open.spotify.com/album/1Zf1hkjwXERIjI2585j7jl) | 3:11 | 2022-11-18 |  |
 | [Butterflies](https://open.spotify.com/track/7yF8jMKIjgHRcwduu0fzWc) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp), [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Butterflies](https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA) | 3:43 | 2022-02-18 | 2022-04-01 |
 | [Carnage](https://open.spotify.com/track/61nAGjTRLqb8JlBVNt5Wah) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9) | [Carnage](https://open.spotify.com/album/1V4PSOqCvobqCAZcbLsBc0) | 3:36 | 2022-11-18 |  |
@@ -126,7 +126,7 @@
 | [Fear the Sun](https://open.spotify.com/track/2MOk3NNDzsEnNllOlzAhSK) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Fear the Sun](https://open.spotify.com/album/5hJVy5PfgPrVRbX8sREhKx) | 2:46 | 2022-09-22 |  |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2022-04-19 | 2022-08-19 |
 | [Fighting Fate](https://open.spotify.com/track/4PNPN7lA1UMYbKtTco1JtB) | [Yung'cid](https://open.spotify.com/artist/1It5FG5hReUrQInrg7Be1Q), [Baby Doll](https://open.spotify.com/artist/4htyNjCI51sL6pterwxVCq) | [Fighting Fate](https://open.spotify.com/album/7nFQVDz1vhFcxnnr3ylX5K) | 3:09 | 2022-08-11 | 2022-08-26 |
-| [Flawed Guy](https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Flawed Guy](https://open.spotify.com/album/57KOzUqReaxjaZG6czVlzf) | 2:06 | 2022-09-22 |  |
+| [Flawed Guy](https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Flawed Guy](https://open.spotify.com/album/57KOzUqReaxjaZG6czVlzf) | 2:06 | 2022-09-22 | 2022-12-09 |
 | [fleahouse](https://open.spotify.com/track/6OZ1omuRpM3kc2XKmhRuUf) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Rouge Carpet Disaster](https://open.spotify.com/album/1mIKtxf39TuoDhurzIijt3) | 3:02 | 2022-05-26 | 2022-08-05 |
 | [flesh](https://open.spotify.com/track/1BAIlAqftLfHlpvhfgVwrm) | [babychaos](https://open.spotify.com/artist/5sW5suu6saLZkj0anZtZyg) | [flesh](https://open.spotify.com/album/11RxEPz4jDAJZGaHkJ9z6K) | 2:53 | 2022-04-14 |  |
 | [Flesh](https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 1:19 | 2021-12-27 | 2022-08-19 |
@@ -174,6 +174,7 @@
 | [Hey Joe \(Relax\)](https://open.spotify.com/track/0ZZD2LaUgSslFrnn48Ftez) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:31 | 2022-10-13 | 2022-11-11 |
 | [hi, my name is lonely.](https://open.spotify.com/track/4TKrQI3vyPH31FdOd4WOve) | [stef](https://open.spotify.com/artist/3Tqps31ekhHVR7ylpNUzSj) | [A Glitch in Our Virtual Reality](https://open.spotify.com/album/0Z982C1sqouyogCsQqkrwx) | 2:50 | 2022-10-13 | 2022-12-01 |
 | [Holiday Capsules!!](https://open.spotify.com/track/2fxsZuNi8s8HrTmbXVCl0v) | [YukoEXE](https://open.spotify.com/artist/62gUqdlgqXPpTiYdenThLs) | [Holiday Capsules!!](https://open.spotify.com/album/7KTQUCb8Went1ZcIjv572K) | 1:46 | 2022-09-22 | 2022-11-11 |
+| [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 |  |
 | [I Don't Believe in Anything](https://open.spotify.com/track/5AUGTQppAxp03UpaEVZaiD) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Entropy](https://open.spotify.com/album/02k59B671W2g0wbwqFxPL8) | 3:14 | 2022-10-27 |  |
 | [I DON'T LIKE YA](https://open.spotify.com/track/4uVTa1dafelhcl4DWuY1dX) | [kkbutterfly27xx](https://open.spotify.com/artist/10Ql0msZpTq98eDnRUqyqm) | [I DON'T LIKE YA](https://open.spotify.com/album/0uZI30awLCwvs7eeACAtVh) | 0:58 | 2022-10-20 |  |
 | [I Don't Want It](https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Don't Want It](https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm) | 2:15 | 2022-09-22 |  |
@@ -374,6 +375,7 @@
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 |  |
 | [UH OH!](https://open.spotify.com/track/2LPgMc1ZM0VcVm1sdeCNwV) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [UH OH!](https://open.spotify.com/album/00dZyIEC3bXTvPqjQ6qAfP) | 1:30 | 2022-03-31 | 2022-09-23 |
 | [Underrated Popstar](https://open.spotify.com/track/03YAkNt5ctr4vQwqmNPybe) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Underrated Popstar](https://open.spotify.com/album/2zfYuMo33ayzbl9HfT9laT) | 2:11 | 2021-12-27 | 2022-06-24 |
+| [Unholy \(feat\. Kim Petras\) \- Nova Twins Remix](https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Unholy \(feat\. Kim Petras\) \[Nova Twins Remix\]](https://open.spotify.com/album/1Zq6e7bJTNwtf4IcZr4YaB) | 2:57 | 2022-12-09 |  |
 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:05 | 2022-10-06 | 2022-10-14 |
 | [ur so cool.](https://open.spotify.com/track/2oZKMKHbqWFcn4e3qxhosy) | [Jonah Michael](https://open.spotify.com/artist/0gkaCEuActH6zy9gAh9GCy) | [ur so cool.](https://open.spotify.com/album/3ZgWxDaiXY8kO8ZShBDjAq) | 2:21 | 2022-07-14 | 2022-09-09 |
 | [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 | 2021-12-27 | 2022-06-17 |

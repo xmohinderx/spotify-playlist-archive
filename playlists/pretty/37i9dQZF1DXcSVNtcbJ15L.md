@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vem de dm 🔥  ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,673 likes - 67 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,776 likes - 67 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 50 | [Rockstar](https://open.spotify.com/track/6MeMDyJpSZ25KIxksb6buc) | [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Rockstar](https://open.spotify.com/album/5hhi0tip2L13MxUfE9QNeu) | 4:15 |
 | 51 | [Impostora](https://open.spotify.com/track/6ExrmqIqeqynFQdC65B1gE) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Impostora](https://open.spotify.com/album/2uqjImKj6YXjeojVG2zPWG) | 2:29 |
 | 52 | [Me Tira O Sossego](https://open.spotify.com/track/2os0PZg85oglHfJtBfpz6t) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1) | [Me Tira O Sossego](https://open.spotify.com/album/2es0GKloxQo0T6EOQtwBF2) | 2:44 |
-| 53 | [Liga pra Mim](https://open.spotify.com/track/519BX7HBoxCmvlqv4XKo7L) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma) | [Liga pra Mim](https://open.spotify.com/album/4kJq6ltzbq9VJw0Bwgq32O) | 2:42 |
+| 53 | [Liga pra Mim](https://open.spotify.com/track/7jvr55Bd5Pphy2vYikqrus) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma) | [Liga pra Mim](https://open.spotify.com/album/6hHCoiufU9G2STQC4vzQcc) | 2:42 |
 | 54 | [E\-Girl Me Tira Do Sério](https://open.spotify.com/track/0GlUNYKRfTGhnSBzIgquPE) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di) | [E\-Girl Me Tira Do Sério](https://open.spotify.com/album/4mhUCtMXTaGylGsZBFKz2Y) | 3:05 |
 | 55 | [Te Espero](https://open.spotify.com/track/0DJDVFbVe9KF4xnVxDhi09) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Te Espero](https://open.spotify.com/album/4VOctUPHdfnjnQUXsJ9J36) | 2:19 |
 | 56 | [Terça de Tarde 2](https://open.spotify.com/track/3MlMMabvVmUVrAGHekqAOn) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Terça de Tarde 2](https://open.spotify.com/album/7y3db4Z73wTyMTCacTcUtL) | 2:16 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 66 | [Quero Agora](https://open.spotify.com/track/2EaOYBodrkKFceFdbIBRYC) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Quero Agora](https://open.spotify.com/album/0Wwfj23cw97BCGrOHznMvQ) | 3:25 |
 | 67 | [A Garota Mais Linda de Oz](https://open.spotify.com/track/6blFfIKfjek2zgrcNjWcnU) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [A Garota Mais Linda de Oz](https://open.spotify.com/album/6EnL3B0Co201xFS185pL0B) | 2:45 |
 
-Snapshot ID: `MTY2Mzk0MTQ5OSwwMDAwMDAwMDRkZjBjY2ZiMTFmN2I3ZWFjOTU0NTgxZWQxNjJmN2Q5`
+Snapshot ID: `MTY2Mzk0MTQ5OSwwMDAwMDAwMDVhZGE1MTkzMzUwOTk2YzE3ZjM5MDdjNDUwNGI5YTU3`

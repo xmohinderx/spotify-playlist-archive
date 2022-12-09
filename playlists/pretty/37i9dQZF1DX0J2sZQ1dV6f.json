@@ -1,12 +1,12 @@
 {
   "description": "Perreo after hours.",
-  "num_followers": 61518,
+  "num_followers": 61658,
   "original_name": "4AM Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NjY0MCwwMDAwMDAwMGEwNmViNmI4ZjEyNjNhYTkxZGQxZDg3OWNmNDgwZGQ3",
+  "snapshot_id": "MTY3MDQ1NjY0MCwwMDAwMDAwMGQ0MzY0MjlkZWJjNTA5M2EyNWRiODc3MmM0MDAzODY4",
   "tracks": [
     {
       "added_at": "2022-12-07 23:42:15",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-12-08 01:10:00",
+      "added_at": "2022-12-09 01:12:16",
       "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
     },
     {
-      "added_at": "2022-12-08 01:10:00",
+      "added_at": "2022-12-09 01:12:16",
       "album": {
         "name": "Gatita",
         "url": "https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT"
@@ -155,26 +155,18 @@
     {
       "added_at": "2022-12-07 23:42:15",
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 309120,
-      "name": "No Me Conoce - Remix",
-      "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
       "added_at": "2022-12-07 23:42:15",
@@ -213,23 +205,7 @@
       "url": "https://open.spotify.com/track/791kF1u1fflDhWfXs98QCL"
     },
     {
-      "added_at": "2022-12-07 23:42:15",
-      "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
-    },
-    {
-      "added_at": "2022-12-08 01:10:00",
+      "added_at": "2022-12-09 01:12:16",
       "album": {
         "name": "Mini Mini",
         "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
@@ -251,6 +227,22 @@
     {
       "added_at": "2022-12-07 23:42:15",
       "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2022-12-07 23:42:15",
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
       },
@@ -267,22 +259,6 @@
       "duration_ms": 182836,
       "name": "DEJAU'",
       "url": "https://open.spotify.com/track/3FwGsdOHEGS8kvhycQdzsy"
-    },
-    {
-      "added_at": "2022-12-07 23:42:15",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2022-12-07 23:42:15",
@@ -487,6 +463,22 @@
     {
       "added_at": "2022-12-07 23:42:15",
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 136892,
+      "name": "La Zona",
+      "url": "https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j"
+    },
+    {
+      "added_at": "2022-12-07 23:42:15",
+      "album": {
         "name": "Me Arrepent\u00ed",
         "url": "https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2"
       },
@@ -531,22 +523,6 @@
       "duration_ms": 202866,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
-    },
-    {
-      "added_at": "2022-12-07 23:42:15",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 136892,
-      "name": "La Zona",
-      "url": "https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j"
     },
     {
       "added_at": "2022-12-07 23:42:15",
@@ -627,38 +603,6 @@
     {
       "added_at": "2022-12-07 23:42:15",
       "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
-    },
-    {
-      "added_at": "2022-12-07 23:42:15",
-      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -709,7 +653,39 @@
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
-      "added_at": "2022-12-08 01:10:00",
+      "added_at": "2022-12-07 23:42:15",
+      "album": {
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "added_at": "2022-12-09 01:12:16",
       "album": {
         "name": "Welcome To My World",
         "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
@@ -729,7 +705,7 @@
       "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
     },
     {
-      "added_at": "2022-12-08 01:10:00",
+      "added_at": "2022-12-09 01:12:16",
       "album": {
         "name": "Toro",
         "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
@@ -788,7 +764,7 @@
           "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -813,7 +789,7 @@
       "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
     },
     {
-      "added_at": "2022-12-08 01:10:00",
+      "added_at": "2022-12-09 01:12:16",
       "album": {
         "name": "Siempre Blessd",
         "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
@@ -945,7 +921,7 @@
       "url": "https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu"
     },
     {
-      "added_at": "2022-12-08 01:10:00",
+      "added_at": "2022-12-09 01:12:16",
       "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/0PsRiRXtSXTFC5nZSrDUvi"
@@ -1096,7 +1072,7 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1107,26 +1083,6 @@
       "duration_ms": 249343,
       "name": "Soy Una Gargola",
       "url": "https://open.spotify.com/track/4bEwaORm2IBfu3omjEna7I"
-    },
-    {
-      "added_at": "2022-12-07 23:42:15",
-      "album": {
-        "name": "GUCCI FENDI",
-        "url": "https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "GUCCI FENDI",
-      "url": "https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ"
     },
     {
       "added_at": "2022-12-07 23:42:15",
@@ -1151,6 +1107,26 @@
       "duration_ms": 174236,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK"
+    },
+    {
+      "added_at": "2022-12-07 23:42:15",
+      "album": {
+        "name": "GUCCI FENDI",
+        "url": "https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "GUCCI FENDI",
+      "url": "https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ"
     },
     {
       "added_at": "2022-12-07 23:42:15",
@@ -1667,6 +1643,22 @@
       "duration_ms": 150471,
       "name": "Una Movie",
       "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
+    },
+    {
+      "added_at": "2022-12-07 23:42:15",
+      "album": {
+        "name": "Medallo",
+        "url": "https://open.spotify.com/album/37lSst2Lo5vOBnAafsNfB5"
+      },
+      "artists": [
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/61yKsmCUsKARUnrzjZI8dG"
     }
   ],
   "unique_name": "4AM Perreo",

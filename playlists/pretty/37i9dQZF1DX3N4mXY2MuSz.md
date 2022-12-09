@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,488 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,795 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 16 | [I Want An Alien For Christmas](https://open.spotify.com/track/33O5sjotRAcT8nwOeYXXEm) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Out\-Of\-State Plates](https://open.spotify.com/album/4i7krZXSr5yexVR7lWuclC) | 2:19 |
 | 17 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 |
 | 18 | [Oi To The World](https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 2:40 |
-| 19 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 |
+| 19 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 |
 | 20 | [12 Days of Christmas](https://open.spotify.com/track/02SAP5qoj5GWubcKJDgXX9) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 3:33 |
 | 21 | [Not Another Christmas Song](https://open.spotify.com/track/22HLihdOv820hEmSRJeHUf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Not Another Christmas Song](https://open.spotify.com/album/4KflvArkaGbPj2jNgm70KK) | 2:39 |
-| 22 | [O Come All Ye Faithful](https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 2:04 |
-| 23 | [Nothing For Christmas](https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:35 |
-| 24 | [Making Christmas](https://open.spotify.com/track/2W9IyiUawRDws73eD1zsDE) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP) | 3:27 |
-| 25 | [Fool's Holiday](https://open.spotify.com/track/3s44CRFEl7bbZcYoervR3L) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:43 |
-| 26 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
-| 27 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 |
+| 22 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 |
+| 23 | [O Come All Ye Faithful](https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 2:04 |
+| 24 | [Nothing For Christmas](https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:35 |
+| 25 | [Making Christmas](https://open.spotify.com/track/2W9IyiUawRDws73eD1zsDE) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP) | 3:27 |
+| 26 | [Fool's Holiday](https://open.spotify.com/track/3s44CRFEl7bbZcYoervR3L) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:43 |
+| 27 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
 | 28 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 |
 | 29 | [Boxing Day](https://open.spotify.com/track/6uDMP9Hlgy2FemC6sp9ZRt) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:59 |
 | 30 | [His Favorite Christmas Story](https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr) | [Capital Lights](https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Mr\. Winter](https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | […And A Happy New Year](https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP) | 3:21 |
 | 75 | [Hope This Christmas](https://open.spotify.com/track/7bLIbZBDv6U3hGtyiv0boo) | [Shybits](https://open.spotify.com/artist/3RpiuODlxLEzGTjoKa2qW7), [Eddie Argos](https://open.spotify.com/artist/6Bb1Tz9dIywMGlbDzpwUCo) | [Hope This Christmas](https://open.spotify.com/album/4bcnJnLqOWtNtBghs2Tkdq) | 2:45 |
 
-Snapshot ID: `MTY2OTkzOTE5MCwwMDAwMDAwMDE5MWQ2ZjYyOWNhMGYxZWQ4YWZjYWE0ZjgwMTJjNGY2`
+Snapshot ID: `MTY2OTkzOTE5MCwwMDAwMDAwMGI5Mjk0OGUwNmY3ODU3M2NjMWQyOTQ1MjY3Y2RiYWE2`

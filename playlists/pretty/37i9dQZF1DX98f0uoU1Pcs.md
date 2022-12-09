@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,094 likes - 126 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,215 likes - 126 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 33 | [Eyes](https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Mushroom Death Sex Bummer Party](https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9) | 1:30 |
 | 34 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 |
 | 35 | [Tired Vibes](https://open.spotify.com/track/48vUHZLbzwgr9kgAUbYhzz) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Tired Vibes](https://open.spotify.com/album/5U2iECSjFWm0q26RelJ0yE) | 3:08 |
-| 36 | [Silence Is Golden](https://open.spotify.com/track/1YGdBqULxB6JnUTTpPQ9b0) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Silence Is Golden](https://open.spotify.com/album/4N8TqGejYoSvbkNxRnGtQ4) | 2:56 |
+| 36 | [Silence Is Golden](https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 2:56 |
 | 37 | [De Facto](https://open.spotify.com/track/0IqDJs8WRXwAR5TlaAdFA8) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [De Facto](https://open.spotify.com/album/53mFa0T7xdQAQ6z8gkWeWl) | 4:21 |
 | 38 | [Empires Falling](https://open.spotify.com/track/7tvqPt52eVRDgkIVYobzua) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Wilderness of Mirrors](https://open.spotify.com/album/5xh9UiuCllBPXhDiIwn043) | 3:30 |
 | 39 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 125 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 |
 | 126 | [How Can Some Experience What Pride Is Without Liberation for All?](https://open.spotify.com/track/6RKznMItfF3tAMBP2vyYiI) | [Jools](https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc) | [How Can Some Experience What Pride Is Without Liberation for All?](https://open.spotify.com/album/642k2mjhDGqE7wfwKrDrjU) | 3:32 |
 
-Snapshot ID: `MTY2OTA0OTY1MiwwMDAwMDAwMDUxYzYxOWRiZDMyYTAxNDZmNTJlODUxNDc1Y2ExYjc0`
+Snapshot ID: `MTY2OTA0OTY1MiwwMDAwMDAwMDQ0ZjQzN2Q1ODc2NTVkNzBjMGVlODM0NTRiMDVlM2E5`

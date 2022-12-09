@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,113 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,131 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 23 | [Game Over \(with Queen Naija\)](https://open.spotify.com/track/7FK7yWiBqc6onfm7huwXJv) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:28 |
 | 24 | [Sorry For The Stupid Things \- Main](https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:13 |
 | 25 | [Take It Back](https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:05 |
-| 26 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
-| 27 | [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY) | 4:33 |
+| 26 | [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY) | 4:33 |
+| 27 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
 | 28 | [I Said I Love You](https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:05 |
 | 29 | [Hurt You](https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:10 |
 | 30 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 43 | [It's No Crime](https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 4:01 |
 | 44 | [What I Like About You \(feat\. Babyface\)](https://open.spotify.com/track/6dXihKQBlA4CxPJaoBycPk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Stronger Everyday](https://open.spotify.com/album/3jiSl9MNlxpIXoVN2gsCcA) | 4:25 |
 | 45 | [I'll Make Love to You \- Live On MTV Unplugged](https://open.spotify.com/track/0gazVflAsJdyXmuFrIiKmq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Babyface Unplugged NYC 1997](https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs) | 2:02 |
-| 46 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7ce3XCXIRELdK4RpyYCcxt) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:22 |
-| 47 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
+| 46 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
+| 47 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7ce3XCXIRELdK4RpyYCcxt) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:22 |
 | 48 | [For The Cool In You](https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 |
 | 49 | [There She Goes](https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:31 |
 | 50 | [Tender Lover](https://open.spotify.com/track/00GfGwzlSB8DoA0cDP2Eit) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 4:19 |
 
-Snapshot ID: `Mjc4NDA3NzMsMDAwMDAwMDA0NzMwNDg3YjM5OGRhZWNmZjQzMDkwOGNlMzk2Mzk5OA==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyYTVhN2I2ZTFmYTMyNTkwN2Q1MjQ0MmIzNWNiZDg0Yw==`

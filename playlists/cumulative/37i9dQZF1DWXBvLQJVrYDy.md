@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-127 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
+129 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Jardin du Luxembourg](https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Jardin du Luxembourg](https://open.spotify.com/album/39JBgmbpRckZqhiqnlX5wp) | 4:07 | 2022-08-18 |  |
 | [June In January](https://open.spotify.com/track/1UpAyyhV5v9vynm2ymfLeR) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Violets For Your Furs](https://open.spotify.com/album/6ImvHlHdrTtchmChnfizWr) | 4:42 | 2022-08-18 |  |
 | [Last Dance](https://open.spotify.com/track/7Jz9FKIbjpFvql18j77cpy) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Because of You](https://open.spotify.com/album/6uQ1qKqno2zGaeBrBwqZJA) | 3:56 | 2022-08-18 |  |
+| [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-08 |  |
 | [Like Someone In Love](https://open.spotify.com/track/7FLgkvkt7wDGb3wrwR9xX9) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Genius Of Coleman Hawkins \(Expanded Edition\)](https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz) | 3:55 | 2022-08-18 |  |
 | [Lithe](https://open.spotify.com/track/6Ow1x2Z9OvuQHE6iRqmZJG) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Lithe](https://open.spotify.com/album/3kxCez0DkWqVsD3eXFwv7P) | 3:48 | 2022-08-18 |  |
 | [Little Girl Blue](https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 3:38 | 2022-08-18 |  |
@@ -97,6 +98,7 @@
 | [Searching](https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:28 | 2022-08-18 |  |
 | [September Song](https://open.spotify.com/track/5mn5mx35dGRAQ6hF3I3kDD) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [September Song](https://open.spotify.com/album/0zsOMLv9GS8yPelwkfcvE9) | 3:29 | 2022-10-27 |  |
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-08-18 |  |
+| [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-08 |  |
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2022-08-18 |  |
 | [Snowflakes](https://open.spotify.com/track/3OiG2WAVCWv2eCBS2Iyqsm) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Snowflakes](https://open.spotify.com/album/4XaJ0QnFlJfNbqIGVDeNUf) | 3:31 | 2022-12-01 |  |
 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 | 2022-08-18 |  |

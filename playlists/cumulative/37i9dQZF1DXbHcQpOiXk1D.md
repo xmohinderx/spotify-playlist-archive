@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-351 songs - 1 day 1 hr 47 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+352 songs - 1 day 1 hr 51 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [sweet wurli](https://open.spotify.com/track/3SMt4rUCBTQUEDwtpGZv71) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [sweet wurli](https://open.spotify.com/album/5GkioWixxU8los60AvybaX) | 3:03 | 2021-12-17 | 2022-07-28 |
 | [Sydney](https://open.spotify.com/track/1Xfa2TNdqr5GpzrCMs8AT0) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Awake You Lie](https://open.spotify.com/album/5oBL12HIjoMOIqfGKSXU9Z) | 4:28 | 2022-03-08 | 2022-03-09 |
 | [Sydney](https://open.spotify.com/track/5ITvU6QiEjeijrPBruWK0o) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Sydney](https://open.spotify.com/album/74cFr1mhloboC2kfMb6B8R) | 4:28 | 2022-03-24 | 2022-04-19 |
+| [Take Flight](https://open.spotify.com/track/6G0N1IkBWHsO8WQHxqpz44) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Take Flight](https://open.spotify.com/album/1XWQCrHuszOJyjdcnbTUdH) | 3:05 | 2022-12-09 |  |
 | [Take Your Time](https://open.spotify.com/track/59Q0Io9CKIqZfPCJhRwH79) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [SAHRA](https://open.spotify.com/artist/0afdCvcgScPqyciaOKoAR6), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Take Your Time](https://open.spotify.com/album/4HEynfpdDFX61F4fOvmT3J) | 3:25 | 2021-12-17 | 2022-10-01 |
 | [Talking to the Walls \- Ash Walker Remix](https://open.spotify.com/track/1hk2g15PwL2kvkDIlmzRop) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F), [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Talking to the Walls \(Ash Walker Remix\)](https://open.spotify.com/album/4hjxIRzxNXqHnbYLC7fB72) | 4:32 | 2022-03-08 | 2022-03-09 |
 | [Talking to the Walls \- Ash Walker Remix](https://open.spotify.com/track/0YZ0pUxBhyzdvVZifFRm5l) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU), [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Talking to the Walls \(Ash Walker Remix\)](https://open.spotify.com/album/3TjUPXuSS8Li8nCN21OEQq) | 4:32 | 2021-12-17 | 2022-03-23 |
@@ -305,7 +306,7 @@
 | [The Afternoon of Human Life](https://open.spotify.com/track/06Zwd53J0LySW31tdYEuz6) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Afternoon of Human Life](https://open.spotify.com/album/1IfyoBGbOEf7Nl3glUaah2) | 7:03 | 2021-12-17 | 2022-07-25 |
 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 | 2022-07-28 |  |
 | [The Good Mixer](https://open.spotify.com/track/2GxF6fun3qMMoylt2NiJ5N) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [The Good Mixer](https://open.spotify.com/album/0FvgTIVfAakUedNplzESrF) | 4:43 | 2021-12-17 | 2022-07-28 |
-| [The Message Continues](https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 6:44 | 2021-12-17 |  |
+| [The Message Continues](https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 6:44 | 2021-12-17 | 2022-12-09 |
 | [The Morning Side of Love](https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [The Morning Side of Love](https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf) | 3:53 | 2022-06-10 |  |
 | [The Park](https://open.spotify.com/track/1WBQYwqDL09Q9LtBdsZrqN) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Park](https://open.spotify.com/album/1pDGrfBR9rrK7bMJVroN1G) | 3:37 | 2021-12-17 | 2022-08-11 |
 | [The Rings Of Saturn](https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow \(Deluxe\)](https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz) | 3:23 | 2022-07-21 |  |

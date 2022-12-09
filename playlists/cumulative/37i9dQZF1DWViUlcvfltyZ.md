@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Folks, stay home
+> Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: SANTI FRANCESI
 
-240 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+245 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [around my neck](https://open.spotify.com/track/42UjxTXLgUAgBTjBoUiBpo) | [Eugenia Post Meridiem](https://open.spotify.com/artist/47wCQih5a5wC9l3LqDRySE) | [around my neck](https://open.spotify.com/album/433w6aPK6Ht3Cif62mo5WJ) | 4:09 | 2022-10-06 | 2022-10-21 |
 | [Artistico serale](https://open.spotify.com/track/5EBpMh8KabaQxYITlPd5nc) | [Lo Straniero](https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD) | [Falli a pezzi!](https://open.spotify.com/album/6Y5QkxB88qzpT3njgKH2LF) | 3:43 | 2022-06-30 | 2022-12-02 |
 | [ASSOLO](https://open.spotify.com/track/73mlazOcJ2mD8SdQaYeVGN) | [VERSAILLES](https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE) | [ASSOLO](https://open.spotify.com/album/723w7XUsnkgzhgbilXylzU) | 2:38 | 2022-05-09 | 2022-05-27 |
+| [B4](https://open.spotify.com/track/471iPDomxfndXNESa4xg7C) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Stress](https://open.spotify.com/album/4nWf8QLYNgmTLCZcyFeLJY) | 3:29 | 2022-12-08 |  |
 | [Back To Bangkok](https://open.spotify.com/track/5RrtTSB9uvPFCWFJ8ViI94) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [Back To Bangkok](https://open.spotify.com/album/17T80PkB923M3sQfkvkDQf) | 2:06 | 2022-07-14 | 2022-09-30 |
 | [Bed bugs](https://open.spotify.com/track/0f6w3CkDT3HlSuMYl3qsWQ) | [BAZAAR](https://open.spotify.com/artist/4kY7561u96mXGEzIwECjdd) | [Bed bugs](https://open.spotify.com/album/0QF16110YO5fcOfsU4WOCl) | 3:34 | 2022-05-26 | 2022-07-22 |
 | [Berserk](https://open.spotify.com/track/6fzsjiqZ38KakK6QcJWZ4q) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Berserk](https://open.spotify.com/album/6UrRKtK69QZKkwui1SZ7ib) | 3:49 | 2022-11-10 | 2022-11-18 |
@@ -46,6 +47,7 @@
 | [Canzone 9](https://open.spotify.com/track/3Lkbk6U4UUyxdseqGmip1b) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Ologenesi](https://open.spotify.com/album/37CdwSrQ0Rexb7EVLfQppx) | 3:22 | 2022-10-06 | 2022-10-21 |
 | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/track/6XNyqB9SGce6cWFlR8wMVP) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/album/4dBHrJUJ6tBAe8pzNWfDRW) | 11:54 | 2022-05-09 | 2022-05-13 |
 | [Casanova](https://open.spotify.com/track/4fImlKONfekd1g8CNPnOea) | [Francie](https://open.spotify.com/artist/0yWTeuyotX6gZzD2pbe8ip) | [Casanova](https://open.spotify.com/album/48Kseq11LU065k91UeV3c3) | 3:56 | 2022-09-22 | 2022-11-04 |
+| [Castelli in Aria](https://open.spotify.com/track/5N8gGAxV3wP56aTXiFpqO9) | [JØNA](https://open.spotify.com/artist/3iG0m5jiTCFiM3Dkfn37zK) | [JØNA](https://open.spotify.com/album/24UZYTIAj4AJAYT1KFD4PQ) | 4:13 | 2022-12-08 |  |
 | [Chaise Longue](https://open.spotify.com/track/2oXs1w3ISiVPkz32vXJCCg) | [Verdena](https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN) | [Chaise Longue](https://open.spotify.com/album/2HtuyQa8ttY6Fn433FIs0s) | 3:40 | 2022-09-19 | 2022-11-11 |
 | [Charlie Sheen](https://open.spotify.com/track/73DtLKoCK2gVwaXyU8JRuG) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Charlie Sheen](https://open.spotify.com/album/6cNcGxEFYkNCoMI4x2P2QX) | 4:09 | 2022-05-19 | 2022-07-01 |
 | [Che Bella è](https://open.spotify.com/track/25hud035fkibY2xzOuMLWY) | [CACTUS](https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK) | [Made in Cina](https://open.spotify.com/album/7zWOLZSOXOVfSRTVCOWP4X) | 2:59 | 2022-10-27 |  |
@@ -115,6 +117,7 @@
 | [Il vento](https://open.spotify.com/track/6vO8miBm2egYQXiDcsJshV) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Sale \(Elas\)](https://open.spotify.com/album/1mZdqKhXnngN363k2kXdA0) | 2:46 | 2022-11-03 |  |
 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 | 2022-05-12 | 2022-07-08 |
 | [In ciabatte](https://open.spotify.com/track/1cL1wwfU1LvhGTUmUe5wsc) | [Pino!](https://open.spotify.com/artist/052Bs1XHJXqz4X1KS3ao1O) | [Servito Freddo](https://open.spotify.com/album/3XJL5WJKxgMqozmITOPrFR) | 3:42 | 2022-09-22 | 2022-10-07 |
+| [Io me ne sto fermo ad aspettare](https://open.spotify.com/track/0TmzVdDz05521DzSKJst6v) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Io me ne sto fermo ad aspettare](https://open.spotify.com/album/2Y65xP2U931ct1qr9JT4Cs) | 4:10 | 2022-12-08 |  |
 | [It's Not Fair to Die](https://open.spotify.com/track/0vy20oIYnWXCdeJHXVpKre) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Tutto Brucia OST](https://open.spotify.com/album/7i7wwzcmPlO5W0ahY7AFDS) | 3:55 | 2022-10-06 | 2022-10-28 |
 | [Jack \(Non Sa\)](https://open.spotify.com/track/3lEeE5InLjr2Wpu0zeQ64b) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Jack \(Non Sa\)](https://open.spotify.com/album/6Pado7DoRbTZ3LSkXefVSr) | 3:05 | 2022-05-09 | 2022-07-08 |
 | [Jealousy](https://open.spotify.com/track/3QeqCdw8QPdv8QJhhdCTZ7) | [Radio Trapani](https://open.spotify.com/artist/7rguH32iXoZLRbryffdX0Z), [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Jealousy](https://open.spotify.com/album/3kVYdZofabSeafz8n9kIKi) | 4:03 | 2022-05-09 | 2022-05-20 |
@@ -144,6 +147,7 @@
 | [Meravigliosa \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/3Ji5zXZw7hDUgIp5IkLFiy) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Cari Fottutissimi Amici](https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB) | 3:53 | 2022-05-26 | 2022-07-01 |
 | [Milioni di strade](https://open.spotify.com/track/3WkO6y6Q8AAkoUkHgg4WqH) | [Il Corpo Docenti](https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [Milioni di strade](https://open.spotify.com/album/5RCjhOxheSBtZ7ezp1R7GM) | 3:12 | 2022-09-08 | 2022-11-18 |
 | [MolossA](https://open.spotify.com/track/2BsGzAlf0G1t9tx5IFULDL) | [Nudha](https://open.spotify.com/artist/0qW2PRyNIbZBtm6enEWjqE) | [NUDHA](https://open.spotify.com/album/1aYL5JopqGBtFtfBNB2gDr) | 3:06 | 2022-05-09 | 2022-09-02 |
+| [Mondiali FDC](https://open.spotify.com/track/4hg1my3vuEzQMd2lpYWnca) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Uniti](https://open.spotify.com/album/7Ex3UXYMS1RFcXdcYfd9CO) | 3:01 | 2022-12-08 |  |
 | [Montese](https://open.spotify.com/track/6plgbXWnR6fv3bE2H4yJSu) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Pastimes](https://open.spotify.com/album/4ep2PpS27FYkcXqje4ibyE) | 3:41 | 2022-09-22 | 2022-10-07 |
 | [Multiculti supermarket](https://open.spotify.com/track/1B2enYYrBLeUfDKBFv1faT) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Multiculti supermarket](https://open.spotify.com/album/4yxX7IQ7lT1njmkVgzCXtw) | 3:19 | 2022-05-09 | 2022-05-13 |
 | [My Best](https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [This Is Light](https://open.spotify.com/album/2csk5nXDfK75W5NMNpGoQD) | 3:38 | 2022-05-09 | 2022-10-21 |
@@ -235,6 +239,7 @@
 | [Una festa](https://open.spotify.com/track/25aCtC19xMjjLdejTxJ0z3) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [GOSSIP!](https://open.spotify.com/album/4oMB0omyxPz000ZHH4oesR) | 3:28 | 2022-05-09 | 2022-06-10 |
 | [UNO, DUE](https://open.spotify.com/track/75HUCYfX4wop5tV0qKrHbR) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UNO, DUE](https://open.spotify.com/album/3lpVkPyUEVk6Swojw19kzs) | 3:25 | 2022-06-30 | 2022-08-05 |
 | [Valanga](https://open.spotify.com/track/6cqwc1pyl5i48tBCxGgEvS) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Valanga](https://open.spotify.com/album/0Uzr5FEyRVTN2WuilSQZ0Q) | 3:31 | 2022-06-09 | 2022-11-11 |
+| [Valichi, Oltre](https://open.spotify.com/track/5H16YC9eVKmvZimkNe7T38) | [Stormo](https://open.spotify.com/artist/6HWwPPwublvn8KbCzcV82m) | [Valichi, Oltre](https://open.spotify.com/album/2m5TcgJea92sFbT7Hx0K36) | 3:43 | 2022-12-08 |  |
 | [Vento](https://open.spotify.com/track/6ej9H7pOvE5zA0tm2EQCc6) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Risposte Sincere, Domande Sbagliate](https://open.spotify.com/album/3XNSHrHLDb3UaGFtKXbCRI) | 3:02 | 2022-07-14 | 2022-09-09 |
 | [Vicenza](https://open.spotify.com/track/2UoqMxVRl4I5IgDRblSToW) | [Folks, stay home](https://open.spotify.com/artist/2HzkhtnJn3OBy557HAwDYH) | [La Tosca dei Cani](https://open.spotify.com/album/40Fngltav0uIo6x6cw20bM) | 4:44 | 2022-10-27 |  |
 | [Vita Sperduta](https://open.spotify.com/track/4s2JGsbchZ8fNiqhIPjCZq) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Vita Sperduta](https://open.spotify.com/album/0eeFAco3jtZzRFDD6cUl6q) | 3:36 | 2022-05-09 |  |

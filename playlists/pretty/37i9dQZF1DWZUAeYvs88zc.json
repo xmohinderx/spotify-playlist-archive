@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 491248,
+  "num_followers": 491526,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODgyMDE2NSwwMDAwMDAwMGM0YmYxOTkwODM3M2Y0ZTRlMTIyMGE1MzNiYmUzMzc0",
+  "snapshot_id": "MTY2ODgyMDE2NSwwMDAwMDAwMDhjYTg3NzRkOGIwMGMzN2JlYmQxNzkxNmVkNTQzZjE4",
   "tracks": [
     {
       "added_at": "2022-11-19 01:09:25",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-11-19 01:09:25",
       "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
+    },
+    {
+      "added_at": "2022-11-19 01:09:25",
+      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 278200,
       "name": "Neon Moon - with Kacey Musgraves",
       "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
-    },
-    {
-      "added_at": "2022-11-19 01:09:25",
-      "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
     },
     {
       "added_at": "2022-11-19 01:09:25",

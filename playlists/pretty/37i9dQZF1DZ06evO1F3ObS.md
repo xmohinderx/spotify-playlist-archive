@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,834 likes - 45 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,856 likes - 45 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 44 | [Lost \-Game size\-](https://open.spotify.com/track/7g42Ofn6XWXD61OM8Vqwk0) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 4:01 |
 | 45 | [ANIMA \-Naked Style.\- \-Instrumental\-](https://open.spotify.com/track/1D7CDijkgMBPtWARJiOxNt) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDA0MWE5NzBhODc1MzQzYzFhZjEzMjMwNWNhM2Q5YzNhZA==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyYzMyZDk5M2RiNTAzMWVjMDc3YWVmZWE3NzZjOTdiNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > Music to get fly to\. Cover: Okoye and Shuri from Black Panther: Wakanda Forever
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,280 likes - 117 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,260 likes - 117 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

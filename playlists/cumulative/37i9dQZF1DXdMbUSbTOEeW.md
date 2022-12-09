@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: King & Masked Wolf
 
-145 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+146 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Mai Ni Meriye](https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Mai Ni Meriye](https://open.spotify.com/album/0ihCuXL4ZcE0FKqRwyithU) | 2:52 | 2021-11-26 | 2022-02-02 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2022-02-01 |  |
 | [Mehndi Te Vavi](https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Mehndi Te Vavi](https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W) | 2:29 | 2021-11-26 | 2022-02-02 |
+| [Mera Dil Ye Pukare \- Tu Aaja \- Heartlock Mix](https://open.spotify.com/track/6bJmYR0sjTZNJxwdw52ern) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Heartlock](https://open.spotify.com/artist/0XqW9UITIzCIQ4CurIcgwz) | [Mera Dil Ye Pukare \- Tu Aaja \(Heartlock Mix\)](https://open.spotify.com/album/313XQLTvs8g357smdl4S0j) | 2:02 | 2022-12-08 |  |
 | [Mil Jaa Na](https://open.spotify.com/track/4OcqMM7ptbMq4duRiVm9Cg) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Chayan Bhardwaj](https://open.spotify.com/artist/127oaNBXE2sa0RaTaC9sJ8) | [Resurface](https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5) | 3:38 | 2022-09-16 | 2022-10-04 |
 | [Modern Loneliness \- Ritviz Remix](https://open.spotify.com/track/7yqGJP1pQ1jc4MNAdZW4gR) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:37 | 2021-11-26 | 2022-02-02 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2022-02-01 | 2022-05-19 |

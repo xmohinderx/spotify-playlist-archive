@@ -4,7 +4,7 @@
 
 > Because we all deserve great pop love songs in one playlist.
 
-420 songs - 1 day 0 hr 20 min - [published](https://open.spotify.com/playlist/5Gy0dP1pgPGbnWiiwYHssX)
+421 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/5Gy0dP1pgPGbnWiiwYHssX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2019-07-29\* |  |
 | [For The Love](https://open.spotify.com/track/1Q1Lz8shbr2AXR8zKReTqd) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [For The Love](https://open.spotify.com/album/3M4BeAI8wEts5HLQcJDXlW) | 3:40 | 2019-07-29\* | 2019-08-04 |
 | [For You](https://open.spotify.com/track/2SvO59G9QOuDjdcli1rEYV) | [My Sun and Stars](https://open.spotify.com/artist/6ZzQtFgvmqdNtmB3pvh6UR), [Tom Auton](https://open.spotify.com/artist/0XxvWQYJYvANyRsICQT9eo) | [For You](https://open.spotify.com/album/6LDNoL6sA2NtHlAebl8htF) | 3:22 | 2019-08-15 | 2021-10-14 |
-| [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2019-08-01 |  |
+| [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2019-08-01 | 2022-12-09 |
 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 | 2019-08-04 |  |
 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 | 2021-03-21 |  |
 | [Girlfriend](https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Girlfriend](https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY) | 2:57 | 2020-06-29 | 2022-11-13 |
@@ -279,6 +279,7 @@
 | [Perfect Target](https://open.spotify.com/track/2BZu0scajFJsh7sG07gjee) | [Knightly](https://open.spotify.com/artist/3MBTOqS2YF5nmEHRKsPVbE) | [Perfect Target](https://open.spotify.com/album/34YPXG0yS9Lpj7xk3sOSyG) | 2:48 | 2019-08-01 | 2019-08-08 |
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2019-08-01 |  |
 | [Poetic](https://open.spotify.com/track/3qrGBP34Bs417sDwlRojz9) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Poetic](https://open.spotify.com/album/3nSG9B1cAKypponS3pjUv5) | 3:02 | 2019-07-31 | 2019-10-25 |
+| [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-09 |  |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2021-11-08 |  |
 | [positions](https://open.spotify.com/track/7igeByaBM0MgGsgXtNxDJ7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [positions](https://open.spotify.com/album/3jqEvfiu2ENgmgzZq27zbi) | 2:52 | 2020-10-23 | 2022-07-29 |
 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 | 2020-11-05 |  |

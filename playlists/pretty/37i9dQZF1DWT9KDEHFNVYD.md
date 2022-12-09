@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,740 likes - 200 songs - 18 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,747 likes - 200 songs - 18 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 145 | [All Arounder](https://open.spotify.com/track/12mlu80PHxRpfkBTZaEbvc) | [Oneida](https://open.spotify.com/artist/6If4kQp0rhfVgAZDNudjjS) | [Anthem of the Moon](https://open.spotify.com/album/42V18DJtTkpd9KOwdGZsTQ) | 3:29 |
 | 146 | [Our Home, The Holy Mountain](https://open.spotify.com/track/70rOjXDHnn8LMygaRstyQx) | [Throw Down Bones](https://open.spotify.com/artist/59igdlhJ64qtvlt14aJAla) | [Throw Down Bones](https://open.spotify.com/album/33MrXle1z2UahYH4NrFl4w) | 7:30 |
 | 147 | [E\-Go](https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 6:54 |
-| 148 | [Silva & Grimes](https://open.spotify.com/track/7MQ0frhsOQGYv4lHDyGeUi) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Latin](https://open.spotify.com/album/45nMlmlIPPDVWSCDwdvCB9) | 5:13 |
-| 149 | [Fórmula](https://open.spotify.com/track/73ubQI2yVmQyVhKFMzEd5J) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [A Group Called CoBrA](https://open.spotify.com/album/4sjcbdfcx3yjwHRWpyCWxn) | 4:33 |
+| 148 | [Fórmula](https://open.spotify.com/track/73ubQI2yVmQyVhKFMzEd5J) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [A Group Called CoBrA](https://open.spotify.com/album/4sjcbdfcx3yjwHRWpyCWxn) | 4:33 |
+| 149 | [Silva & Grimes](https://open.spotify.com/track/7MQ0frhsOQGYv4lHDyGeUi) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Latin](https://open.spotify.com/album/45nMlmlIPPDVWSCDwdvCB9) | 5:13 |
 | 150 | [Scubaplus](https://open.spotify.com/track/3vimjIcDxpTBDs3Q1ONJH6) | [Quickspace](https://open.spotify.com/artist/4cqaDkyjB2oXJ8U17ldjYM) | [Superplus](https://open.spotify.com/album/4KMlPTCWrJ3DhTjykEGa9x) | 3:03 |
 | 151 | [Shoot Speed/Kill Light](https://open.spotify.com/track/5K8NewLJairlkvTrbG3Ujf) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [XTRMNTR](https://open.spotify.com/album/1jRIP96i2Dx4bVKV2kwcC8) | 5:16 |
 | 152 | [Magic Kraut](https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 3:43 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 199 | [Polished Chrome \(The Friend, Pt\. 1\) \[feat\. Gary Numan\] \- Chris Carter Remix](https://open.spotify.com/track/43usspg9IHz8hRaFpxUjea) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE), [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [BURN SLOW REMIXES PT\. II](https://open.spotify.com/album/4JDnEaSRzvXdZrQyLrLhvQ) | 5:22 |
 | 200 | [Trimbornstraße](https://open.spotify.com/track/5t6XSo7zCpAuSulPSNH66g) | [Locas In Love](https://open.spotify.com/artist/4Beu6QM5GtQLpUd0b13PMJ) | [Use Your Illusion 3 & 4](https://open.spotify.com/album/1GfqhkmfCGWNgrlTg1l0Fv) | 3:50 |
 
-Snapshot ID: `MTY2ODgzNTk4NiwwMDAwMDAwMGRmZmNmYjVkOTRlZjBlYmJkZDk1NTI3NWJmZTlhYTcy`
+Snapshot ID: `MTY2ODgzNTk4NiwwMDAwMDAwMDQzNDc4YzNiMmI5MzhjOTZmYzViZmE4ZjNlODJhYzZk`

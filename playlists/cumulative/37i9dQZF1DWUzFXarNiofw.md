@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: RINI
 
-635 songs - 1 day 10 hr 26 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
+636 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [I Love You More Than You Know \(feat\. Childish Gambino\)](https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 4:23 | 2022-08-05 | 2022-09-24 |
 | [I Need Love](https://open.spotify.com/track/6KQ4xmMQa4MClbj0CcpIMm) | [Precious](https://open.spotify.com/artist/4bVL2bLOv1PLQXHDWXNMPE), [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [I Need Love](https://open.spotify.com/album/4KuRwpsYracRUDh6OUYwE5) | 2:26 | 2022-03-18 | 2022-04-09 |
 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2022-10-14 | 2022-11-05 |
-| [I Wanna Fall](https://open.spotify.com/track/5m5LuulFGsW8p6X6K1PJMX) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/4G4S7oiK7aezWTGsv7cJih) | 3:27 | 2022-12-02 |  |
+| [I Wanna Fall](https://open.spotify.com/track/0GHmTC6AUzWOUR8thoxzsB) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/69aXkfD7bJROlPuZok3Vf3) | 3:27 | 2022-12-02 |  |
+| [I Wanna Fall](https://open.spotify.com/track/5m5LuulFGsW8p6X6K1PJMX) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/4G4S7oiK7aezWTGsv7cJih) | 3:27 | 2022-12-02 | 2022-12-09 |
 | [I Wanna Know \- Acoustic](https://open.spotify.com/track/2wQusm1xPyFfduOzej331l) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1), [Rome Flynn](https://open.spotify.com/artist/0NVZSlGEwLGVXItNzyAXmZ) | [I Wanna Know \(Acoustic\)](https://open.spotify.com/album/6RfCAam44Ah2SpoAU0d5bj) | 3:57 | 2022-08-19 | 2022-09-24 |
 | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 | 2022-07-15 | 2022-09-17 |
 | [i'm fine](https://open.spotify.com/track/3FiUsaCzKWi943pk0G9F0o) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [i'm fine](https://open.spotify.com/album/0gnssKPBCFAvjVhjAU74ca) | 1:40 | 2022-05-20 | 2022-07-09 |

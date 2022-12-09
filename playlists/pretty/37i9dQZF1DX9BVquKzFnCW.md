@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,717 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,731 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 99 | [Blues Back](https://open.spotify.com/track/1HGZcacR6Drgl1o7gEv1bU) | [Art Blakey Quartet](https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy) | [A Jazz Message](https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA) | 5:19 |
 | 100 | [Sandino](https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Etudes](https://open.spotify.com/album/6Y7tgGIv5fI0EQZbOxL45s) | 4:47 |
 
-Snapshot ID: `MTY3MDQxNzM5NSwwMDAwMDAwMDUyZTg3MTU4ZmExOTBlZjUxMDYyMTJmZWNiYjUzNzMw`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDE5MmMzNDc3MTc5ZTI5MjZhMGQxMTI2YWU2NTdjMWEz`

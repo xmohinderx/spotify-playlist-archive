@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,111 likes - 79 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,184 likes - 79 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 43 | [Kabali Whistle Theme](https://open.spotify.com/track/3mLMlgG8XqaGiIUxAzRipy) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kabali \(Original Background Score\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0H3C0x1ubGV1p9T2qTnPML) | 0:43 |
 | 44 | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Niranjana Ramanan](https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx) | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/album/2ftkMy4ttkkdjFsFReYdWg) | 1:03 |
 | 45 | [Amar Theme \- Background Score](https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:28 |
-| 46 | [Ghost Unmasked \- Background Score](https://open.spotify.com/track/0wgOTeDbMblOxncPcXLCvf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:14 |
-| 47 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 |
+| 46 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 |
+| 47 | [Ghost Unmasked \- Background Score](https://open.spotify.com/track/0wgOTeDbMblOxncPcXLCvf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:14 |
 | 48 | [Wedding Party \- Background Score](https://open.spotify.com/track/0APxSVP73DpITxWovXrEZj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:36 |
 | 49 | [Marriage At 2AM \- Background Score](https://open.spotify.com/track/4XlAwjHZUbQrgUJcfrCuMQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:27 |
 | 50 | [Petta Theme \- From "Petta"](https://open.spotify.com/track/5fyz50nzC0a96r7UAd2Y5f) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:46 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 78 | [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 |
 | 79 | [Manmadhan Theme Music](https://open.spotify.com/track/3v3a6pzDuXm1FBvbEf0XgL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 1:23 |
 
-Snapshot ID: `MTY2NzgwNDk1NiwwMDAwMDAwMDE1ZDE4YTYzMDg3N2U0MzE0YmJjMWIyMmFhYzdjZjM2`
+Snapshot ID: `MTY2NzgwNDk1NiwwMDAwMDAwMGUwMWQxMmNjYTk3NDVmMDIzOTA1YjQ4NTZlMDBiZTQ3`

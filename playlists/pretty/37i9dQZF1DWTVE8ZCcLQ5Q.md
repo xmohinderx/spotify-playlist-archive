@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,495 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,498 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 9 | [Bagulho Louco](https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Bagulho Louco](https://open.spotify.com/album/7vmDYV51NrlXuzdyyQYDen) | 2:04 |
 | 10 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 |
 | 11 | [Calculista](https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly) | [Dom Vittor & Gustavo](https://open.spotify.com/artist/36CiwS6BaZffBHzjJL8y6N), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Calculista](https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy) | 2:38 |
-| 12 | [Eu Fiquei Com a Puta](https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Eu Fiquei Com a Puta](https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C) | 2:18 |
-| 13 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 |
+| 12 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 |
+| 13 | [Putaria 2000](https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Putaria 2000](https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC) | 1:47 |
 | 14 | [Incrivel Jogando a Potranca](https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrivel Jogando a Potranca](https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5) | 1:50 |
-| 15 | [Putaria 2000](https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Putaria 2000](https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC) | 1:47 |
+| 15 | [Eu Fiquei Com a Puta](https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Eu Fiquei Com a Puta](https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C) | 2:18 |
 | 16 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
 | 17 | [INVEJOSO](https://open.spotify.com/track/5YURHESoQKz81fL4IxV7NJ) | [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [INVEJOSO](https://open.spotify.com/album/255NGGUak0BPXU1ImuceyR) | 5:00 |
 | 18 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [poderia ser pior](https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [poderia ser pior](https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O) | 2:52 |
 | 60 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
 
-Snapshot ID: `MTY2NTc3OTMxNywwMDAwMDAwMDg4ZGE0NWYwMmRkYjc3YmU4OTAwOTQwNGUzN2MyYzFh`
+Snapshot ID: `MTY2NTc3OTMxNywwMDAwMDAwMGQyY2I3ZjQyYTc1YTM5MTEzYWJiNDI3MzUzMDE4NDdi`

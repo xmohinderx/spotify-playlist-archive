@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,867 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,878 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 40 | [Patient Zero](https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG) | [Cosmo Vitelli](https://open.spotify.com/artist/0mFsbKrHaJDM5DgL8g3Ke3) | [Patient Zero](https://open.spotify.com/album/39ih18n5FRp601HKnLJLCU) | 8:26 |
 | 41 | [Xid](https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2) | [Herva](https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1) | [Seez](https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg) | 3:41 |
 | 42 | [bda creature](https://open.spotify.com/track/6dnZv0EmSwCoBq91rFK0IH) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [Blue Dust Archive](https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK) | [compciter ep](https://open.spotify.com/album/2qTXiZXOqTEwwfcAVo76bR) | 4:51 |
-| 43 | [Oneness](https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE) | [Teielte](https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU) | [Oneness](https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18) | 3:01 |
-| 44 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
+| 43 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
+| 44 | [Oneness](https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE) | [Teielte](https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU) | [Oneness](https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18) | 3:01 |
 | 45 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
 | 46 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
 | 47 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes \[global magic pack\]](https://open.spotify.com/album/35vE6EkWGVKLNqyVp73ud4) | 5:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 |
 | 50 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 
-Snapshot ID: `MTY3MDM3NTM1NywwMDAwMDAwMDgwMGU4YzEzNTc0NDZlOTZlYzBlNzNlM2YzNTg3MmIz`
+Snapshot ID: `MTY3MDM3NTM1NywwMDAwMDAwMDc1NTIxZjBiMjA5MDNmYTg2ODhmN2UxMmQxZTRkMTFk`

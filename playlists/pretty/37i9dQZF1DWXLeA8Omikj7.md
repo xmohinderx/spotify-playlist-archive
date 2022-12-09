@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,607,859 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,608,125 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 53 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 54 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 |
 | 55 | [Gated Area](https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 3:48 |
-| 56 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
-| 57 | [Subtract](https://open.spotify.com/track/3kd10OwEIMhDnuA35lt4Ug) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Signal Flow](https://open.spotify.com/album/6A4TyH3h2E8qKH1Tos5o8q) | 5:11 |
+| 56 | [Subtract](https://open.spotify.com/track/3kd10OwEIMhDnuA35lt4Ug) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Signal Flow](https://open.spotify.com/album/6A4TyH3h2E8qKH1Tos5o8q) | 5:11 |
+| 57 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
 | 58 | [Scene 2](https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pentagram](https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO) | 2:52 |
 | 59 | [Dust](https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Star Crossed / Dust](https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc) | 3:32 |
 | 60 | [Una Mattina](https://open.spotify.com/track/61It0RwIboh4FD70zzTUoS) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Sleep Swimming](https://open.spotify.com/track/4WgTDWlUMOJuAtlgT78joj) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF) | [Wishful Thinking](https://open.spotify.com/album/15r5QOkft2W7XyYCCN099A) | 2:40 |
 | 100 | [Blueberry](https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Exist Strategy](https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut) | [Blueberry](https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr) | 3:32 |
 
-Snapshot ID: `MTY2MjcxMDkxOCwwMDAwMDAwMGI5YTllMzhmNzkwZmZjY2FmN2Q3ZTA3YjljYzRlNTc5`
+Snapshot ID: `MTY2MjcxMDkxOCwwMDAwMDAwMDNiYTJkOWY1MDE4MGZkOTAwMDAzNjQ4NjlhYjlmOGU1`

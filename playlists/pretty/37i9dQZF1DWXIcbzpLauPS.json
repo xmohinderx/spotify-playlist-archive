@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Bury Tomorrow",
-  "num_followers": 858965,
+  "num_followers": 859071,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDljYjM5Yjg1YjEwZWYyMzM2OTNlYmExZmMwNjQ3YmIz",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGU4YjFhYzY5MjczZTQ3OWMwMDc5Njg4YzlmNGQ4OWI1",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -227,26 +227,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "Jesse Leach",
-          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Ancestry",
-      "url": "https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Fuckboi (feat. Conquer Divide)",
         "url": "https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 164000,
       "name": "Fuckboi (feat. Conquer Divide)",
       "url": "https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Jesse Leach",
+          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
+        }
+      ],
+      "duration_ms": 290733,
+      "name": "Ancestry",
+      "url": "https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
-      },
-      "artists": [
-        {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
-        }
-      ],
-      "duration_ms": 198657,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Coffin",
         "url": "https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 264306,
       "name": "Aching Longing",
       "url": "https://open.spotify.com/track/49UQKQom802JUWPq63lxEb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
+      },
+      "artists": [
+        {
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+        }
+      ],
+      "duration_ms": 198657,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0"
+      },
+      "artists": [
+        {
+          "name": "Dark Divine",
+          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
+        }
+      ],
+      "duration_ms": 182057,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "The Shower Scene Playlist",
         "url": "https://open.spotify.com/album/273LyHQV9St48MzqO73UkX"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 205276,
       "name": "Hip To Be Scared",
       "url": "https://open.spotify.com/track/4lEbtjtLpF0YxRCFWeswAG"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0"
-      },
-      "artists": [
-        {
-          "name": "Dark Divine",
-          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
-        }
-      ],
-      "duration_ms": 182057,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM"
     },
     {
       "added_at": "2022-12-02 05:00:00",

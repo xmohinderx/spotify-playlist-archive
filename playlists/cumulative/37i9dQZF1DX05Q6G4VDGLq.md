@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-379 songs - 23 hr 56 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+380 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-06-28 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-07 |  |
 | [Embraceable You](https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef) | [Purple Patch Band](https://open.spotify.com/artist/0UOvMzVudGhlmOfu2aUBzK) | [Cheek to Cheek](https://open.spotify.com/album/4n1JQHYkpLpScpxqehAYT1) | 5:05 | 2022-06-28 | 2022-10-08 |
+| [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-08 |  |
 | [Eternity](https://open.spotify.com/track/3AxL4mOBBcz5vse4V7o7es) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity](https://open.spotify.com/album/0fFkT2IJK4lCPGKX8LGseX) | 3:38 | 2022-06-28 | 2022-10-11 |
 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 | 2022-06-28 | 2022-12-01 |
 | [Everything Happens To Me](https://open.spotify.com/track/1XD4j1jvrOyiRnkwrKhq7Q) | [Lisa Lugar](https://open.spotify.com/artist/2KsyjaK929SZ2dNuyCuDfO) | [Love For Sale EP](https://open.spotify.com/album/5j4OkS1RWFRJ0fNUHG88Xs) | 4:33 | 2022-06-28 | 2022-10-08 |
@@ -201,7 +202,7 @@
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-06-28 |  |
 | [Lola and Kirby](https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 4:41 | 2022-09-29 |  |
 | [London Plane](https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n) | [Light Hands Trio](https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf) | [London Plane](https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo) | 3:03 | 2022-06-28 |  |
-| [London Plane](https://open.spotify.com/track/0ehejUJtOzYTWpmysmXaMI) | [Luc Brooks](https://open.spotify.com/artist/3Kqbdl8JFUxNSbbJns8OMU) | [London Plane](https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk) | 3:19 | 2022-06-28 |  |
+| [London Plane](https://open.spotify.com/track/0ehejUJtOzYTWpmysmXaMI) | [Luc Brooks](https://open.spotify.com/artist/3Kqbdl8JFUxNSbbJns8OMU) | [London Plane](https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk) | 3:19 | 2022-06-28 | 2022-12-09 |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-01 |  |
 | [Lonely Dreams](https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Lonely Dreams](https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5) | 3:37 | 2022-11-24 |  |
 | [Long Ago And Far Away](https://open.spotify.com/track/4E8iJLPtZiIHvquh0rf0f5) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Long Ago And Far Away](https://open.spotify.com/album/579pCXCY423zV2a3ReVko9) | 3:25 | 2022-10-27 |  |

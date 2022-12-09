@@ -1,47 +1,43 @@
 {
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Nina Chuba\n",
-  "num_followers": 317499,
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: 102 Boyz\n",
+  "num_followers": 317872,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI0NTk5MCwwMDAwMDAwMDc1YTE1MGUxODg3OGZlODczMTQ4N2EwMDkyZDBmMjIx",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDc2MDAwMGI1MTliMzgwNmNkNmY5YjBkNGVlYmJkMzYw",
   "tracks": [
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+        "name": "Toilette",
+        "url": "https://open.spotify.com/album/5AM71NmYm6c733RFmnW2Ik"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
-      },
-      "artists": [
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        },
         {
-          "name": "OsTEKKe",
-          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
+          "name": "Duke102",
+          "url": "https://open.spotify.com/artist/0xsJ8Ai6YxQyu67QZhSQhz"
+        },
+        {
+          "name": "Stacks102",
+          "url": "https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv"
+        },
+        {
+          "name": "Kkuba102",
+          "url": "https://open.spotify.com/artist/4fc3ii0Q4S0O9C7O9XRTxz"
         }
       ],
-      "duration_ms": 145676,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
+      "duration_ms": 206066,
+      "name": "Toilette",
+      "url": "https://open.spotify.com/track/6syx4va6ghrzzet1XMoNDO"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Fieber / Glatteis",
         "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
@@ -57,7 +53,55 @@
       "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
+      },
+      "artists": [
+        {
+          "name": "OsTEKKe",
+          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
+        }
+      ],
+      "duration_ms": 145676,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "The One-T ODC",
+        "url": "https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn"
+      },
+      "artists": [
+        {
+          "name": "One-T",
+          "url": "https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "The Magic Key",
+      "url": "https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Nur ein Wort",
         "url": "https://open.spotify.com/album/2qS9UJHDrxUTJHrAHXCQRH"
@@ -85,63 +129,7 @@
       "url": "https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Tour de Berlin",
-        "url": "https://open.spotify.com/album/7kOiXbB7O03HTlsu0qsBod"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        },
-        {
-          "name": "Replay Okay",
-          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
-        }
-      ],
-      "duration_ms": 151632,
-      "name": "Tour de Berlin",
-      "url": "https://open.spotify.com/track/28eqTE31oIjrlSMK4y1VwF"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Nie Mein Shawty",
-        "url": "https://open.spotify.com/album/7BUBA636QQxzHhSxTcC2ft"
-      },
-      "artists": [
-        {
-          "name": "Romero",
-          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Nie Mein Shawty",
-      "url": "https://open.spotify.com/track/0rCl2Tq2rctLJaqcv4nzV1"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "The One-T ODC",
-        "url": "https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn"
-      },
-      "artists": [
-        {
-          "name": "One-T",
-          "url": "https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "The Magic Key",
-      "url": "https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
@@ -165,7 +153,95 @@
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "we are the people tekkno",
+        "url": "https://open.spotify.com/album/1fhroOApt0VfVEP7NCYOsn"
+      },
+      "artists": [
+        {
+          "name": "TEKKNO",
+          "url": "https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn"
+        }
+      ],
+      "duration_ms": 230900,
+      "name": "we are the people tekkno",
+      "url": "https://open.spotify.com/track/3gINWpBZCz4kBNF4sWTWqw"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Tour de Berlin",
+        "url": "https://open.spotify.com/album/7kOiXbB7O03HTlsu0qsBod"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        },
+        {
+          "name": "Replay Okay",
+          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
+        }
+      ],
+      "duration_ms": 151632,
+      "name": "Tour de Berlin",
+      "url": "https://open.spotify.com/track/28eqTE31oIjrlSMK4y1VwF"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Weihnachtslied 2022",
+        "url": "https://open.spotify.com/album/4GiyJLCszEkMQgZ68HnjD1"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "duration_ms": 157694,
+      "name": "Weihnachtslied 2022",
+      "url": "https://open.spotify.com/track/6DBkV77Ti1Vrq2oemw79ZJ"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Elendig",
+        "url": "https://open.spotify.com/album/5hGBNX1x3YCbFxoaxbQEYE"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Elendig",
+      "url": "https://open.spotify.com/track/4ebcqsgTzKOP0DQLkDF3MG"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Nie Mein Shawty",
+        "url": "https://open.spotify.com/album/7BUBA636QQxzHhSxTcC2ft"
+      },
+      "artists": [
+        {
+          "name": "Romero",
+          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Nie Mein Shawty",
+      "url": "https://open.spotify.com/track/0rCl2Tq2rctLJaqcv4nzV1"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "2022 war film gewesen",
         "url": "https://open.spotify.com/album/7lOlLrkcD0F2SXIqyVxL43"
@@ -185,7 +261,7 @@
       "url": "https://open.spotify.com/track/4xEfMKxaESmdTTAuu2GHK1"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "OLYMPIA",
         "url": "https://open.spotify.com/album/5WbZKAVH7yBYRscDzZNVgd"
@@ -205,7 +281,23 @@
       "url": "https://open.spotify.com/track/4RyN9ul6C39NdpjDE9XuK9"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Eiskalt",
+        "url": "https://open.spotify.com/album/5SEt533ZsVblTHRENNghAT"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        }
+      ],
+      "duration_ms": 134061,
+      "name": "Eiskalt",
+      "url": "https://open.spotify.com/track/2cFVVDuKPW3mmffYp6kaTA"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Shootout",
         "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
@@ -225,43 +317,7 @@
       "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Sick of U",
-        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 168676,
-      "name": "Sick of U (with Oliver Tree)",
-      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Weihnachtslied 2022",
-        "url": "https://open.spotify.com/album/4GiyJLCszEkMQgZ68HnjD1"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        }
-      ],
-      "duration_ms": 157694,
-      "name": "Weihnachtslied 2022",
-      "url": "https://open.spotify.com/track/6DBkV77Ti1Vrq2oemw79ZJ"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -285,7 +341,43 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "CHASE THE SUN",
         "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
@@ -301,7 +393,23 @@
       "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "WAS DU MACHST",
+        "url": "https://open.spotify.com/album/1kncUoEED6DHybwlxzOk4j"
+      },
+      "artists": [
+        {
+          "name": "HENRYY",
+          "url": "https://open.spotify.com/artist/7MN3Ivl1zMpNa381IMZ0FN"
+        }
+      ],
+      "duration_ms": 134870,
+      "name": "WAS DU MACHST",
+      "url": "https://open.spotify.com/track/5oVrNOVEpDdZaf2aG9YNs0"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "BERGSTEIGEN",
         "url": "https://open.spotify.com/album/5Dopr8M0TuAg46tIJksL4d"
@@ -321,23 +429,7 @@
       "url": "https://open.spotify.com/track/6nvaPUmny8Gb0V7qHYGOCv"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "WAS DU MACHST",
-        "url": "https://open.spotify.com/album/1kncUoEED6DHybwlxzOk4j"
-      },
-      "artists": [
-        {
-          "name": "HENRYY",
-          "url": "https://open.spotify.com/artist/7MN3Ivl1zMpNa381IMZ0FN"
-        }
-      ],
-      "duration_ms": 134870,
-      "name": "WAS DU MACHST",
-      "url": "https://open.spotify.com/track/5oVrNOVEpDdZaf2aG9YNs0"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "eine nase",
         "url": "https://open.spotify.com/album/0gyKnJrFCu44TgmRwNpXPJ"
@@ -353,39 +445,7 @@
       "url": "https://open.spotify.com/track/5VGReJtwl1BHxAZTPHOaPs"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Little Dark Age",
-      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Fieber / Glatteis",
-        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 137967,
-      "name": "Fieber",
-      "url": "https://open.spotify.com/track/1DvKUXOcuLJT2H75LuAQY7"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
@@ -401,7 +461,103 @@
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Little Dark Age",
+      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/0Ctk3m6ZOyCv0Gx4zRE1aG"
+      },
+      "artists": [
+        {
+          "name": "iithe1st",
+          "url": "https://open.spotify.com/artist/14oco62zVm1lZy1oOpm6Dh"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Antisocial",
+      "url": "https://open.spotify.com/track/57u3aZ3wDng54JbmWtM1ZL"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Those Eyes Alternate Versions",
+        "url": "https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 167658,
+      "name": "Those Eyes - Sped Up",
+      "url": "https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Fieber / Glatteis",
+        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 137967,
+      "name": "Fieber",
+      "url": "https://open.spotify.com/track/1DvKUXOcuLJT2H75LuAQY7"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Nevada Tapes",
+        "url": "https://open.spotify.com/album/2tJvy3nSH5iuT43sTlWDiQ"
+      },
+      "artists": [
+        {
+          "name": "Search Yiu",
+          "url": "https://open.spotify.com/artist/0jl1GB62whNLQlOh2cZjL7"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Skin Care",
+      "url": "https://open.spotify.com/track/0xL2E5H2ND3lI63rAsUGBb"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Brille auf / Kate Moss",
         "url": "https://open.spotify.com/album/560nIKSFhDj9PeI8ZMiTon"
@@ -417,23 +573,7 @@
       "url": "https://open.spotify.com/track/2ocy6RRR5WolJH5kuVtMyV"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Escapism. / The Thrill Is Gone.",
         "url": "https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb"
@@ -453,7 +593,7 @@
       "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "UGG BOOTS",
         "url": "https://open.spotify.com/album/4wBDoWAXFkchW4zuTbEUhH"
@@ -473,23 +613,7 @@
       "url": "https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Antisocial",
-        "url": "https://open.spotify.com/album/0Ctk3m6ZOyCv0Gx4zRE1aG"
-      },
-      "artists": [
-        {
-          "name": "iithe1st",
-          "url": "https://open.spotify.com/artist/14oco62zVm1lZy1oOpm6Dh"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Antisocial",
-      "url": "https://open.spotify.com/track/57u3aZ3wDng54JbmWtM1ZL"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "The Midnight Club GT",
         "url": "https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW"
@@ -505,7 +629,27 @@
       "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
+        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 164629,
+      "name": "WORTH NOTHING - Fast and Furious: Drift Tape/Phonk Vol 1",
+      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Party Sahne",
         "url": "https://open.spotify.com/album/6vcV95HX3EIghNFsoOgbDC"
@@ -529,7 +673,7 @@
       "url": "https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Baby Blizzard (Babycor3 Version)",
         "url": "https://open.spotify.com/album/01ptxLzi6VNqLBUUuBdH1O"
@@ -545,7 +689,7 @@
       "url": "https://open.spotify.com/track/0UGh6ZoRrcNsAHMzdBH7Ix"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "falling apart (die young VIP)",
         "url": "https://open.spotify.com/album/4ftAVzaVWATQC3wHl8X17F"
@@ -561,7 +705,23 @@
       "url": "https://open.spotify.com/track/4MSmRBs920YvYh4eYdE8lD"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "AC MAILAND",
+        "url": "https://open.spotify.com/album/5OafNf1sosM26tzS0t8WWj"
+      },
+      "artists": [
+        {
+          "name": "selfyy",
+          "url": "https://open.spotify.com/artist/2M3vX4SeNw3RnzyJtjKoFq"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "AC MAILAND",
+      "url": "https://open.spotify.com/track/5CzDztuZCdeQI2SBO79yiw"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
@@ -577,7 +737,7 @@
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "808s & Heartbreak",
         "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
@@ -593,7 +753,7 @@
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/4dnKBBeSoiEc39sCqItmWk"
@@ -609,7 +769,23 @@
       "url": "https://open.spotify.com/track/2kQ9udZ0v3H8PFSVmbY1Kq"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 197692,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Wegen dir",
         "url": "https://open.spotify.com/album/5oVwMSiD5Bldu9Mv0YAgha"
@@ -625,7 +801,7 @@
       "url": "https://open.spotify.com/track/4rOnBJJtINrWBM9dsTpUOA"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "I'm Only a Fool for You",
         "url": "https://open.spotify.com/album/438r5lDWrWN173Wd0HLxiK"
@@ -641,23 +817,27 @@
       "url": "https://open.spotify.com/track/2egLcqqD1fz44PKq28fsKQ"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Those Eyes Alternate Versions",
-        "url": "https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB"
+        "name": "1, 2 Cent",
+        "url": "https://open.spotify.com/album/5whfFiIPynh466Fb43P1vj"
       },
       "artists": [
         {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
         }
       ],
-      "duration_ms": 167658,
-      "name": "Those Eyes - Sped Up",
-      "url": "https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq"
+      "duration_ms": 143202,
+      "name": "1, 2 Cent",
+      "url": "https://open.spotify.com/track/7G4o8dvZKmfZHzA1ZbgEUA"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "i'm yours",
         "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
@@ -673,7 +853,7 @@
       "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
@@ -689,7 +869,23 @@
       "url": "https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/4Qzp5gnK5nrgrGz8d998pX"
@@ -713,7 +909,27 @@
       "url": "https://open.spotify.com/track/6mpRsfJrAAiLwoH45ghGtj"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Gift EP",
+        "url": "https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "TELESHOP",
+          "url": "https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx"
+        }
+      ],
+      "duration_ms": 235750,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
@@ -729,7 +945,23 @@
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "GROWING UP IS _____",
+        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 233587,
+      "name": "GROWING UP IS _____",
+      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "We could have been so good together",
         "url": "https://open.spotify.com/album/0diS1N6ocYhy7f5RwzuOwe"
@@ -745,7 +977,23 @@
       "url": "https://open.spotify.com/track/4sxDA8NwmjV3sPfusOPIf6"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Mercurial Vapor",
+        "url": "https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Mercurial Vapor",
+      "url": "https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Beat Goes On (Rhythm to the Brain)",
         "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
@@ -761,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Taurus (feat. Naomi Wild) [From The Motion Picture Taurus]",
         "url": "https://open.spotify.com/album/5g4O8fSfK5bfRiDRV0mYhd"
@@ -781,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6J3Yay84inLJ6b37lpaHFi"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
@@ -801,7 +1049,7 @@
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
@@ -817,7 +1065,7 @@
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "AUS MEIN KOPF (SLOWED)",
         "url": "https://open.spotify.com/album/3pa8NpXZkR9nqPpKakdRjm"
@@ -833,7 +1081,7 @@
       "url": "https://open.spotify.com/track/6CLKlJ1sCnH2J7A9XISMAU"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Bass",
         "url": "https://open.spotify.com/album/6MwNFxc0GWLmtw0P6L989Y"
@@ -857,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5BiypsiapBLRQELkSFBby2"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/176bXuYcmQYZTbhnQA0p56"
@@ -873,7 +1121,7 @@
       "url": "https://open.spotify.com/track/3zMK5gFf92gp8w7SxW2PrZ"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Berlin City Girl 22",
         "url": "https://open.spotify.com/album/1MX7w6Ekym9Z88py45Za3O"
@@ -889,403 +1137,7 @@
       "url": "https://open.spotify.com/track/3HgvrXJl41JADesTsf7nIR"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Sternenstaub",
-        "url": "https://open.spotify.com/album/1gU9sENbkoBnWpWlizlAjj"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        },
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
-        },
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        }
-      ],
-      "duration_ms": 141395,
-      "name": "Sternenstaub",
-      "url": "https://open.spotify.com/track/0j1whACQqbHlGzSZaUh6uR"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "No Wind Resistance SPED UP!",
-        "url": "https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1"
-      },
-      "artists": [
-        {
-          "name": "Kinneret",
-          "url": "https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "No Wind Resistance SPED UP!",
-      "url": "https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "MOODSWINGS",
-        "url": "https://open.spotify.com/album/4ishdLV5WUZwD57FAYTZJE"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 184137,
-      "name": "MOODSWINGS",
-      "url": "https://open.spotify.com/track/2J579Mufs2FmfvqbOmICLw"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 236795,
-      "name": "Circo Loco",
-      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Down In Atlanta",
-        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 164041,
-      "name": "Down In Atlanta",
-      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Shittin' Me",
-        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 144729,
-      "name": "Shittin' Me",
-      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Can't Sleep",
-        "url": "https://open.spotify.com/album/7ocoPpbZ6ekA6c6ybzWVDj"
-      },
-      "artists": [
-        {
-          "name": "Moritz",
-          "url": "https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Can't Sleep",
-      "url": "https://open.spotify.com/track/214wsuPedDbN32b48HdKZ6"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Geruch von Koks (feat. Paula Hartmann)",
-        "url": "https://open.spotify.com/album/2irGlvjYWIG5mtVwlahBu3"
-      },
-      "artists": [
-        {
-          "name": "Haftbefehl",
-          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 215267,
-      "name": "Geruch von Koks (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/3RC8VtoWlLcwYoZbz3zpBX"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Nachts wach",
-        "url": "https://open.spotify.com/album/6VLivifFeh65jFqwXCAar3"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Nachts wach (Lila Wolken Bootleg)",
-      "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "regen\u0f3a\u2661\u2727+++",
-        "url": "https://open.spotify.com/album/4WW9UNrTYnjBwabayBkxuW"
-      },
-      "artists": [
-        {
-          "name": "DANZINGER 99",
-          "url": "https://open.spotify.com/artist/2PBBBcDggmGWyvOY9HXmKZ"
-        },
-        {
-          "name": "DJ<3",
-          "url": "https://open.spotify.com/artist/53Sn33Pag8qzwOsIol2a4q"
-        }
-      ],
-      "duration_ms": 87417,
-      "name": "regen\u0f3a\u2661\u2727+++",
-      "url": "https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Hal5",
-        "url": "https://open.spotify.com/album/0dgapIsrhJ9JYJM3jXuU4B"
-      },
-      "artists": [
-        {
-          "name": "Lostboi Lino",
-          "url": "https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa"
-        },
-        {
-          "name": "Sharaktah",
-          "url": "https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU"
-        }
-      ],
-      "duration_ms": 178379,
-      "name": "Hal5",
-      "url": "https://open.spotify.com/track/6Gu99KX4HbEJX5aRoSAYgJ"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Baby Blizzard",
-        "url": "https://open.spotify.com/album/3PXQif0FmYLPi2LptqvWyv"
-      },
-      "artists": [
-        {
-          "name": "Baby B3ns",
-          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "Baby Blizzard",
-      "url": "https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Gift EP",
-        "url": "https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW"
-      },
-      "artists": [
-        {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        },
-        {
-          "name": "TELESHOP",
-          "url": "https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx"
-        }
-      ],
-      "duration_ms": 235750,
-      "name": "Gift",
-      "url": "https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 404106,
-      "name": "Stan",
-      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Teenage Dirtbag",
-        "url": "https://open.spotify.com/album/5cXxCJs39er2zl2Ej0RzQc"
-      },
-      "artists": [
-        {
-          "name": "No Skool",
-          "url": "https://open.spotify.com/artist/2wVqIfYWtTq2JTm6f9WRwM"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        },
-        {
-          "name": "Skoob102",
-          "url": "https://open.spotify.com/artist/3fPb08EzQhpNV5PWuEVBzj"
-        },
-        {
-          "name": "Stacks102",
-          "url": "https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/4NZPn84OPwi2n1DMyBlkjk"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Bookie's Dirtbag",
-        "url": "https://open.spotify.com/album/5mxfUmBRoMzVoDW8bFeq1K"
-      },
-      "artists": [
-        {
-          "name": "Kid Bookie",
-          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
-        },
-        {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
-        }
-      ],
-      "duration_ms": 240002,
-      "name": "Bookie's Dirtbag",
-      "url": "https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Crazy Phonk Remixes",
-        "url": "https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1"
-      },
-      "artists": [
-        {
-          "name": "Fxbii",
-          "url": "https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR"
-        }
-      ],
-      "duration_ms": 117480,
-      "name": "Crazy Phonk - Remix",
-      "url": "https://open.spotify.com/track/6LuUTRudM2Q4dgk71PF8Ou"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Ich hass dich",
-        "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        },
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        }
-      ],
-      "duration_ms": 193024,
-      "name": "Ich hass dich",
-      "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/1AUw3cSaq4Rqtp4VbCY23H"
@@ -1305,211 +1157,235 @@
       "url": "https://open.spotify.com/track/5NQJOfR3UlxzKFwL5RfShq"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Nicht das was du suchst 2",
-        "url": "https://open.spotify.com/album/2rF9NQJrd3kK0ZiM2lEuhw"
+        "name": "Devil Is A Woman",
+        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
       },
       "artists": [
         {
-          "name": "Feo Night",
-          "url": "https://open.spotify.com/artist/4w4DiUDjrVnwUBMtey8L5U"
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
         }
       ],
-      "duration_ms": 184745,
-      "name": "Nicht das was du suchst 2",
-      "url": "https://open.spotify.com/track/0RVHHrxnG999eu706TrtG5"
+      "duration_ms": 192491,
+      "name": "Devil Is A Woman",
+      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Genug von dir",
-        "url": "https://open.spotify.com/album/5MKU4q5E3TwE4H80qmktii"
+        "name": "MOODSWINGS",
+        "url": "https://open.spotify.com/album/4ishdLV5WUZwD57FAYTZJE"
       },
       "artists": [
         {
-          "name": "Rojas",
-          "url": "https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1"
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Genug von dir",
-      "url": "https://open.spotify.com/track/7EMAXqufsn0uZIS91TuEDM"
+      "duration_ms": 184137,
+      "name": "MOODSWINGS",
+      "url": "https://open.spotify.com/track/2J579Mufs2FmfvqbOmICLw"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Galaxie",
-        "url": "https://open.spotify.com/album/01VgKeIgjIwatd7lbzzExL"
+        "name": "Late Time",
+        "url": "https://open.spotify.com/album/48gL4MGQo0ntwUMCgTdl5n"
       },
       "artists": [
         {
-          "name": "twenty4tim",
-          "url": "https://open.spotify.com/artist/0BJ10PxQXDtW07wTHuXuLu"
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
         }
       ],
-      "duration_ms": 121093,
-      "name": "Galaxie",
-      "url": "https://open.spotify.com/track/2T9yY0QSM6AVWgokNppBqV"
+      "duration_ms": 178500,
+      "name": "Late Time",
+      "url": "https://open.spotify.com/track/4fPcT9H0iynHtwLhRoFCKZ"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "ELFBAR (feat. Skrt Cobain)",
-        "url": "https://open.spotify.com/album/7b8bCy1LmqmdFYJZ9mOGfw"
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
       },
       "artists": [
         {
-          "name": "Yung Hurn",
-          "url": "https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         },
         {
-          "name": "skrt cobain",
-          "url": "https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 124226,
-      "name": "ELFBAR (feat. Skrt Cobain)",
-      "url": "https://open.spotify.com/track/0NmfatHH0v8U3uyvubURs0"
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+        "name": "Shittin' Me",
+        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
       },
       "artists": [
         {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 177857,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+      "duration_ms": 144729,
+      "name": "Shittin' Me",
+      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "get numb with me",
-        "url": "https://open.spotify.com/album/7kfXBbjC4CdFez8O793xGx"
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/7ocoPpbZ6ekA6c6ybzWVDj"
       },
       "artists": [
         {
-          "name": "Beyazz",
-          "url": "https://open.spotify.com/artist/1U0pXcl8GZlZ48jTgnpGHl"
+          "name": "Moritz",
+          "url": "https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ"
         }
       ],
-      "duration_ms": 146615,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/6MS06wwXPKH316MkRA6nCA"
+      "duration_ms": 181002,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/214wsuPedDbN32b48HdKZ6"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "about u",
-        "url": "https://open.spotify.com/album/1YHRqOs5yxMvHVX69bJuxv"
+        "name": "Bitterkalt",
+        "url": "https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX"
       },
       "artists": [
         {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
         }
       ],
-      "duration_ms": 194773,
-      "name": "about u",
-      "url": "https://open.spotify.com/track/5zLGJENQMphktQdZ1qipP4"
+      "duration_ms": 145195,
+      "name": "Bitterkalt",
+      "url": "https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "COOL KIDS",
-        "url": "https://open.spotify.com/album/5HUtXyg0pthUtXDXHQjlBU"
+        "name": "Geruch von Koks (feat. Paula Hartmann)",
+        "url": "https://open.spotify.com/album/2irGlvjYWIG5mtVwlahBu3"
       },
       "artists": [
         {
-          "name": "Rua",
-          "url": "https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw"
-        }
-      ],
-      "duration_ms": 136981,
-      "name": "COOL KIDS",
-      "url": "https://open.spotify.com/track/1YcG2ofHVH4B3HUQAayA4P"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Zukunft Pink (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
         },
         {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
         }
       ],
-      "duration_ms": 230829,
-      "name": "Zukunft Pink (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
+      "duration_ms": 215267,
+      "name": "Geruch von Koks (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/3RC8VtoWlLcwYoZbz3zpBX"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Very Few Friends",
-        "url": "https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y"
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
         }
       ],
-      "duration_ms": 132500,
-      "name": "Very Few Friends",
-      "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "i'm watching you",
-        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
         }
       ],
-      "duration_ms": 139000,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
-        "url": "https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or"
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
       "artists": [
         {
-          "name": "XATAR",
-          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Nachts wach",
+        "url": "https://open.spotify.com/album/6VLivifFeh65jFqwXCAar3"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
         },
         {
-          "name": "SAMY",
-          "url": "https://open.spotify.com/artist/3m785bWzNnoLuIJP88DUN1"
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
         }
       ],
-      "duration_ms": 243561,
-      "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
-      "url": "https://open.spotify.com/track/4wjEJULVdwTFlSDPlhdkRa"
+      "duration_ms": 158080,
+      "name": "Nachts wach (Lila Wolken Bootleg)",
+      "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Seele reparieren",
+        "url": "https://open.spotify.com/album/7lpCQHON81q6g2FNrCLYMC"
+      },
+      "artists": [
+        {
+          "name": "PAVLO",
+          "url": "https://open.spotify.com/artist/1bS16AfHx66Yys34XXjwD2"
+        },
+        {
+          "name": "Edo Saiya",
+          "url": "https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F"
+        },
+        {
+          "name": "Notorious Nasty",
+          "url": "https://open.spotify.com/artist/314BD4WMcpzWcNQ87X5tew"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Seele reparieren",
+      "url": "https://open.spotify.com/track/6nT7FJgeygiJUlUGEMXDNY"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "24's (German Remix)",
         "url": "https://open.spotify.com/album/2DkocVb8QF1YZEPns4qCyd"
@@ -1529,7 +1405,183 @@
       "url": "https://open.spotify.com/track/4K1dqp0VNjE2u9hB09NqoB"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "regen\u0f3a\u2661\u2727+++",
+        "url": "https://open.spotify.com/album/4WW9UNrTYnjBwabayBkxuW"
+      },
+      "artists": [
+        {
+          "name": "DANZINGER 99",
+          "url": "https://open.spotify.com/artist/2PBBBcDggmGWyvOY9HXmKZ"
+        },
+        {
+          "name": "DJ<3",
+          "url": "https://open.spotify.com/artist/53Sn33Pag8qzwOsIol2a4q"
+        }
+      ],
+      "duration_ms": 87417,
+      "name": "regen\u0f3a\u2661\u2727+++",
+      "url": "https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Baby Blizzard",
+        "url": "https://open.spotify.com/album/3PXQif0FmYLPi2LptqvWyv"
+      },
+      "artists": [
+        {
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "Baby Blizzard",
+      "url": "https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 404106,
+      "name": "Stan",
+      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Ich hass dich",
+        "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        }
+      ],
+      "duration_ms": 193024,
+      "name": "Ich hass dich",
+      "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Nicht das was du suchst 2",
+        "url": "https://open.spotify.com/album/2rF9NQJrd3kK0ZiM2lEuhw"
+      },
+      "artists": [
+        {
+          "name": "Feo Night",
+          "url": "https://open.spotify.com/artist/4w4DiUDjrVnwUBMtey8L5U"
+        }
+      ],
+      "duration_ms": 184745,
+      "name": "Nicht das was du suchst 2",
+      "url": "https://open.spotify.com/track/0RVHHrxnG999eu706TrtG5"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "COOL KIDS",
+        "url": "https://open.spotify.com/album/5HUtXyg0pthUtXDXHQjlBU"
+      },
+      "artists": [
+        {
+          "name": "Rua",
+          "url": "https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw"
+        }
+      ],
+      "duration_ms": 136981,
+      "name": "COOL KIDS",
+      "url": "https://open.spotify.com/track/1YcG2ofHVH4B3HUQAayA4P"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/6ybfQpeXj3QhV6POJ72D68"
+      },
+      "artists": [
+        {
+          "name": "Lucifer Xo",
+          "url": "https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb"
+        }
+      ],
+      "duration_ms": 132705,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/1M54ecYONH5XOrXvLaOLXV"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Zukunft Pink (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 230829,
+      "name": "Zukunft Pink (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "i'm watching you",
+        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Renne",
         "url": "https://open.spotify.com/album/6zG5o2AyOVfH8I0wCgyLEW"
@@ -1557,7 +1609,7 @@
       "url": "https://open.spotify.com/track/1EjbUHdYjVMhgu1gN3oZa2"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Nie wieder sehen",
         "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
@@ -1573,23 +1625,7 @@
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/6ybfQpeXj3QhV6POJ72D68"
-      },
-      "artists": [
-        {
-          "name": "Lucifer Xo",
-          "url": "https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb"
-        }
-      ],
-      "duration_ms": 132705,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/1M54ecYONH5XOrXvLaOLXV"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt"
@@ -1605,51 +1641,7 @@
       "url": "https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Fusion",
-        "url": "https://open.spotify.com/album/6uAU6aLlO3u3GNxL716jzK"
-      },
-      "artists": [
-        {
-          "name": "Tarek K.I.Z",
-          "url": "https://open.spotify.com/artist/0HXAyc6kXXdnrE8wdVwS5E"
-        },
-        {
-          "name": "Drunken Masters",
-          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
-        },
-        {
-          "name": "Longus Mongus",
-          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
-        },
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 245833,
-      "name": "Fusion",
-      "url": "https://open.spotify.com/track/1lygYJYaLXTPQz4CRz91ZY"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Nie verliebt",
         "url": "https://open.spotify.com/album/12dYXSDMMIX9VaJONASnsz"
@@ -1665,7 +1657,7 @@
       "url": "https://open.spotify.com/track/5lZ8DceeoYy2Mb2M6nUegi"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Modjo (Remastered)",
         "url": "https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI"
@@ -1681,7 +1673,7 @@
       "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Hubba Bubba",
         "url": "https://open.spotify.com/album/62eld5kc6XhT6U8HjUo2AO"
@@ -1697,7 +1689,7 @@
       "url": "https://open.spotify.com/track/4h1Qse4KJxZ5fy2lbmT3sy"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk"
@@ -1713,27 +1705,7 @@
       "url": "https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "Die Young (feat. 347aidan)",
-        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 148816,
-      "name": "Die Young (feat. 347aidan)",
-      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Unendlichkeit",
         "url": "https://open.spotify.com/album/6I0qSXltDmckxauHYmJPNv"
@@ -1749,23 +1721,7 @@
       "url": "https://open.spotify.com/track/4TaWCdfI6VyR1O8GVuyCf7"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
-      "album": {
-        "name": "you were there for me",
-        "url": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 195365,
-      "name": "you were there for me",
-      "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
-    },
-    {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "ALLEINE (SW43 L33 D1DO REMIX)",
         "url": "https://open.spotify.com/album/0ozheCbpwPZOCFFzkz1msF"
@@ -1785,7 +1741,7 @@
       "url": "https://open.spotify.com/track/7dq9QIXx5eIz6w2MNzTan4"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
@@ -1801,7 +1757,7 @@
       "url": "https://open.spotify.com/track/6UEsGMsL6vD77jqvjsmCOh"
     },
     {
-      "added_at": "2022-12-05 13:13:10",
+      "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -1819,6 +1775,22 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Very Few Friends",
+        "url": "https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Very Few Friends",
+      "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"
     }
   ],
   "unique_name": "me right now",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1159291,
+  "num_followers": 1159712,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg5ODA2MSwwMDAwMDAwMDRhOWRjOWM0YTAwZjhjZTM0NzNhNmYxN2MyMTJlMzRl",
+  "snapshot_id": "MTY2Njg5ODA2MSwwMDAwMDAwMDNjNGJiMzFjZTliYjM0ZTk3MDk4OGJjZWQyNzA3ZGZj",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Donde Estaras",
         "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 223503,
       "name": "Donde Estaras",
       "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
     },
     {
-      "added_at": "2022-12-08 00:58:44",
+      "added_at": "2022-12-09 01:00:43",
       "album": {
         "name": "En Mi Escritorio",
         "url": "https://open.spotify.com/album/6luDAF1ZwQWRb6j2UebJHi"
@@ -1405,7 +1405,7 @@
       "url": "https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD"
     },
     {
-      "added_at": "2022-12-08 00:58:44",
+      "added_at": "2022-12-09 01:00:43",
       "album": {
         "name": "Sensacion Latina",
         "url": "https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf"
@@ -2017,7 +2017,7 @@
       "url": "https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o"
     },
     {
-      "added_at": "2022-12-08 00:58:44",
+      "added_at": "2022-12-09 01:00:43",
       "album": {
         "name": "Y De Nuevo Otra Vez !!!",
         "url": "https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A"

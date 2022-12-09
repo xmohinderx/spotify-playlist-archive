@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,776 likes - 150 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,834 likes - 150 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 15 | [Artificial Body](https://open.spotify.com/track/7HkmXcuYMvmxiHDvRLz8EH) | [Oma Nata](https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo) | [Briefly Human](https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO) | 6:44 |
 | 16 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
 | 17 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 |
-| 18 | [Indonesia Print](https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Quinto Relatório Anual](https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd) | 3:37 |
-| 19 | [Transformation](https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Metamorphose](https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o) | 3:10 |
+| 18 | [Transformation](https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Metamorphose](https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o) | 3:10 |
+| 19 | [Indonesia Print](https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Quinto Relatório Anual](https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd) | 3:37 |
 | 20 | [My Attitude My Horoscope](https://open.spotify.com/track/3HOnYG8aNIunYRfifc16GS) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 4:09 |
 | 21 | [Torpid](https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Taum](https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r) | 4:34 |
 | 22 | [Portico](https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Portico](https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr) | 6:42 |
 | 23 | [Tar \- Jan Jelinek Remix](https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Tar \(Jan Jelinek Remix\)](https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW) | 5:59 |
 | 24 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 |
-| 25 | [Objekt](https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Objekt](https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi) | 5:02 |
-| 26 | [Penelope Trappes meets Silent Rumble](https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh) | [Malcolm Pardon](https://open.spotify.com/artist/3LCJTqV9F11tXAQptDv1bV), [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Trappes Death Revisited](https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy) | 5:15 |
-| 27 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 |
+| 25 | [Penelope Trappes meets Silent Rumble](https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh) | [Malcolm Pardon](https://open.spotify.com/artist/3LCJTqV9F11tXAQptDv1bV), [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Trappes Death Revisited](https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy) | 5:15 |
+| 26 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 |
+| 27 | [Objekt](https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Objekt](https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi) | 5:02 |
 | 28 | [Pelikan \- Aukai Rework](https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Pelikan \(Aukai Rework\)](https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp) | 5:32 |
 | 29 | [The Edges](https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 5:07 |
 | 30 | [Night Journeys II](https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys II](https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp) | 7:16 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 149 | [The Hole](https://open.spotify.com/track/1q1ne8Zr1GuiVafFHD4YEe) | [Annihilation Of Self](https://open.spotify.com/artist/5DaYScQGBRXnrpi9WubEQR) | [The Nauts Log \(Chapter 1\-4\)](https://open.spotify.com/album/15iBdhwM1FXf8sIRXlv6Rl) | 9:00 |
 | 150 | [Part 3](https://open.spotify.com/track/5lr9zsPpnk6XRHpNZWIHyh) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Posle Vsego](https://open.spotify.com/album/5o1DyqLkD2xTi6txPdPBS5) | 4:44 |
 
-Snapshot ID: `MTY2OTEyMzcxOSwwMDAwMDAwMDgwODg0YTA2NGRhMmUyNTBhYTg5M2VjYWM4NmExZjQ1`
+Snapshot ID: `MTY2OTEyMzcxOSwwMDAwMDAwMDBiNDA1MGU4ODk1MTUxYjNhZTUxYmNlODhiYjk2OTli`

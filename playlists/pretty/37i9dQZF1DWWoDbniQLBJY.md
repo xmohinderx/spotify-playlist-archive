@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Pop Acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,014,087 likes - 120 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,014,104 likes - 120 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 82 | [No Lo Soñé \- Version Acustico](https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mis Favoritas](https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi) | 4:41 |
 | 83 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 |
 | 84 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 |
-| 85 | [NTN](https://open.spotify.com/track/1O8wZHsmHtrjVehbTTC5yM) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [NTN](https://open.spotify.com/album/0iSx1yoFUpRmXrS2C8099U) | 3:04 |
-| 86 | [Algo Más \(Versión Acústica\) \(with Miguel Inzunza\) \- En Vivo](https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh), [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Acustico](https://open.spotify.com/album/7nWAePPkngD730y97WP8H1) | 7:33 |
+| 85 | [Algo Más \(Versión Acústica\) \(with Miguel Inzunza\) \- En Vivo](https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh), [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Acustico](https://open.spotify.com/album/7nWAePPkngD730y97WP8H1) | 7:33 |
+| 86 | [NTN](https://open.spotify.com/track/1O8wZHsmHtrjVehbTTC5yM) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [NTN](https://open.spotify.com/album/0iSx1yoFUpRmXrS2C8099U) | 3:04 |
 | 87 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
 | 88 | [Ansiedad \- Versión Acústica](https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Los Cuatro Actos Acústicos](https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH) | 4:20 |
 | 89 | [Ser Guitarra](https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Ser Guitarra](https://open.spotify.com/album/3xZM5pC6lmpRMXnTPSeLJZ) | 2:59 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 119 | [Voy Cantando](https://open.spotify.com/track/0iROP0Xo315A0ImonYR499) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Voy Cantando](https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY) | 4:22 |
 | 120 | [Siempre Cerca \- Acústico](https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Siempre Cerca \(Acústico\)](https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca) | 3:09 |
 
-Snapshot ID: `MTY1OTcxNjUwMSwwMDAwMDAwMDRkOWMzOTMyZTNhZTNlZDNhNzA4NWE4ZjA3MGQ1NGQx`
+Snapshot ID: `MTY1OTcxNjUwMSwwMDAwMDAwMGMyZTI3OTFhMTJmOWEwNzY2Y2QxMzgxY2M0ZWVhZmMy`

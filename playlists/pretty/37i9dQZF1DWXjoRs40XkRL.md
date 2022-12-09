@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,879 likes - 105 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,928 likes - 105 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 2 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 |
 | 3 | [Lone Poet \(Aeri Aali\)](https://open.spotify.com/track/7vm4uByBujMi734s6LO3hm) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Liyaqat Ali Khan](https://open.spotify.com/artist/2wk2JsBXpShxG2IfSBmNC7) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:01 |
 | 4 | [Dil Leke Mujhe Badnam \- Thumri/lounge](https://open.spotify.com/track/7ncyIsZzLUA9SRzZv8raNk) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ), [Ankur Mukherjee](https://open.spotify.com/artist/69T59hAeicTPSD99TWNO5g) | [Dil Leke Mujhe Badnam \(Thumri/lounge\)](https://open.spotify.com/album/3EffjYOMsxahbRFHYlZsod) | 5:20 |
-| 5 | [Har Ek Baat](https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/1nixMaLzd7QMvQPfsgqPZF) | 4:00 |
+| 5 | [Har Ek Baat](https://open.spotify.com/track/00Pub8dRrRGLO6OZHRmY56) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/5EnjKdpZKtAlJWmn3GPIeo) | 4:00 |
 | 6 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 |
 | 7 | [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 |
 | 8 | [Blessing the Bride \(Baisa\)](https://open.spotify.com/track/79osQzagWc3CI97LvAXXWH) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Romy](https://open.spotify.com/artist/5bk4s1Xe4xxlrTcRC9Dwek) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:49 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 104 | [Shiva Moon \(Prem Joshua & Maneesh de Moor's Moon Nectar Remix\)](https://open.spotify.com/track/0xU1OWWZdbmCjLWpC9YDau) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Dakini Lounge: Prem Joshua Remixed](https://open.spotify.com/album/3POYtJ1eftAtmn3VoZkc7A) | 8:14 |
 | 105 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/1ZpDROkwHFYtpsRkBTG2Sr) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1), [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Shiva Moon](https://open.spotify.com/album/1TtTFpcrxspPiuBsD7f1gT) | 7:12 |
 
-Snapshot ID: `MTY3MDM5NzM1MSwwMDAwMDAwMGU1NmJkM2U3YWE2NWM2MTYxNjIxOWVhNDg1ODZmYWI3`
+Snapshot ID: `MTY3MDM5NzM1MSwwMDAwMDAwMGVkM2Y5NDQzNjczOTY3Y2QwZjk4YTY1Y2Q0NTEwNDEw`

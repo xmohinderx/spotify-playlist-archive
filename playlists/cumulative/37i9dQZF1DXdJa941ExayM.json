@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "maybe it's punk, maybe it's not. Cover: Foushe\u00e9",
+  "description": "maybe it's punk, maybe it's not. Cover: 100 gecs",
   "name": "unleashed",
   "published_playlist_ids": [
     "4Fx7H5bue0NPuMWQvcMhLl"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 184508,
       "name": "ALL COPS ARE BASTARDS*",
       "url": "https://open.spotify.com/track/6Bike9oqxqToe0XPwtVIhD"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 233626,
       "name": "Car Crash",
       "url": "https://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k"
@@ -799,6 +799,28 @@
       "duration_ms": 160054,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/3gKLO2vWVrUkFFCMgajasU"
+    },
+    {
+      "album": {
+        "name": "Death Wish",
+        "url": "https://open.spotify.com/album/0HU0ivC4hwEbYATlSdsA8S"
+      },
+      "artists": [
+        {
+          "name": "So Tuff So Cute",
+          "url": "https://open.spotify.com/artist/1PaF0WJCG5MLAoOv5xSWeR"
+        },
+        {
+          "name": "Slush Puppy",
+          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151481,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/3N3TknnMTUNcbHT1gOLYIW"
     },
     {
       "album": {
@@ -1092,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "Fight Alone",
+        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
+      },
+      "artists": [
+        {
+          "name": "Motive Black",
+          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Fight Alone",
+      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
+    },
+    {
+      "album": {
         "name": "Finger My Heart",
         "url": "https://open.spotify.com/album/0S7mEp3sUtWTU4GXIcrDQt"
       },
@@ -1107,6 +1147,24 @@
       "duration_ms": 193000,
       "name": "Finger My Heart",
       "url": "https://open.spotify.com/track/4P2dzCa69sLHk1QmlAVayX"
+    },
+    {
+      "album": {
+        "name": "Flawed Guy",
+        "url": "https://open.spotify.com/album/57KOzUqReaxjaZG6czVlzf"
+      },
+      "artists": [
+        {
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126302,
+      "name": "Flawed Guy",
+      "url": "https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV"
     },
     {
       "album": {
@@ -1164,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "for a reason",
+        "url": "https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389"
+      },
+      "artists": [
+        {
+          "name": "plxntkid",
+          "url": "https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135470,
+      "name": "for a reason",
+      "url": "https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz"
+    },
+    {
+      "album": {
         "name": "FUK IT",
         "url": "https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1"
       },
@@ -1215,6 +1291,24 @@
       "duration_ms": 180253,
       "name": "Gang",
       "url": "https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe"
+    },
+    {
+      "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208360,
+      "name": "Gatekeepers",
+      "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
     },
     {
       "album": {
@@ -1345,7 +1439,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 157146,
       "name": "Gotta Do More Gotta Be More",
       "url": "https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom"
@@ -1363,7 +1457,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 144460,
       "name": "Having a Headache",
       "url": "https://open.spotify.com/track/1QinYnsNApMjbqaciWrhks"
@@ -1403,6 +1497,24 @@
       "duration_ms": 126750,
       "name": "hey",
       "url": "https://open.spotify.com/track/6244mvRPJErzcf9fpMopkU"
+    },
+    {
+      "album": {
+        "name": "Snake Eyes",
+        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102751,
+      "name": "Hey Big Man",
+      "url": "https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm"
     },
     {
       "album": {
@@ -2127,7 +2239,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 138703,
       "name": "Monkey Mind",
       "url": "https://open.spotify.com/track/7qvwnde6QuoYGd0xUcevIQ"
@@ -2941,7 +3053,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 153796,
       "name": "SOBER",
       "url": "https://open.spotify.com/track/4b15dejUsgkM2UqDpMOoUc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,639 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,658 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 38 | [Lonely Night \(feat.GAEKO\)](https://open.spotify.com/track/7ftv3uigGigYVND065syjM) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Lonely Night](https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf) | 3:37 |
 | 39 | [Til I Die](https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:53 |
 | 40 | [iii \(Feat\. Basick, Kid Milli & Paloalto\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:55 |
-| 41 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
-| 42 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
+| 41 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
+| 42 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
 | 43 | [poison](https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:55 |
 | 44 | [Y earned \(Feat\. Gaeko, SOLE\) \(Prod\. Primary, plusNONE\)](https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [xs](https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 3:06 |
 | 45 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [The Little Prince \(Prod\. Godic\)](https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z), [Godic](https://open.spotify.com/artist/2uxZlbouekTNiuOnjTzbKV) | [School Rapper2 Team\-battle Pt\. 2](https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2) | 2:44 |
 | 50 | [Sky](https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Sky](https://open.spotify.com/album/1V3slxpwvt8VioYBmnzEdT) | 3:39 |
 
-Snapshot ID: `MTY2NzMwNjIwNiwwMDAwMDAwMGUxNjBmYzZhOWE1ZmMyYzViNzViNzA5NTgwMTYwZTVi`
+Snapshot ID: `MTY2NzMwNjIwNiwwMDAwMDAwMGQ3MWZhZDM5MmRiYTFjNTY4NjM4NGEwYmE3YmFmMjkw`

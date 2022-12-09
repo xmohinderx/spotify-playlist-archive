@@ -880,6 +880,24 @@
     },
     {
       "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/1j1wj9lsbZzpUUqCItD4cQ"
+      },
+      "artists": [
+        {
+          "name": "LoMalo",
+          "url": "https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/5BxxJuGICKXs0HcGsVS7Rj"
+    },
+    {
+      "album": {
         "name": "Holos",
         "url": "https://open.spotify.com/album/5qqz89AxH2yfrkc1X2Lu01"
       },

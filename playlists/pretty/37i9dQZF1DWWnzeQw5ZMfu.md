@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,419 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,475 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 51 | [It Must Have Been Love \- Live from Santiago 2012](https://open.spotify.com/track/2LR6DrmvCAIAnL0eCftTQg) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012](https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN) | 5:37 |
 | 52 | [Stars \- Live at Sydney Opera House](https://open.spotify.com/track/4ngirYzBiLhrWCCYGcOMN5) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Farewell: Live in Concert at Sydney Opera House](https://open.spotify.com/album/2ROL02gUpj3nTbB6CCuEz3) | 4:05 |
 | 53 | [Sing \- Live and in Session](https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 5:19 |
-| 54 | [Everything \- Live from Madison Square Garden](https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé Meets Madison Square Garden](https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt) | 3:37 |
-| 55 | [Waterloo \- Live](https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 3:51 |
-| 56 | [I Kissed A Girl \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 4:10 |
+| 54 | [Waterloo \- Live](https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 3:51 |
+| 55 | [I Kissed A Girl \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 4:10 |
+| 56 | [Everything \- Live from Madison Square Garden](https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé Meets Madison Square Garden](https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt) | 3:37 |
 | 57 | [She Wolf \- El Dorado World Tour Live](https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira In Concert: El Dorado World Tour](https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN) | 5:40 |
 | 58 | [Sacrifice \- Live](https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 5:20 |
 | 59 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 84 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 |
 | 85 | [Always on My Mind \- Live at the O2 Arena, London \- 21 December 2009](https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Pandemonium \(Live at the O2 Arena, London \- 21 December 2009\)](https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL) | 3:43 |
 | 86 | [Hopelessly Devoted To You \- Live](https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:00 |
-| 87 | [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 |
-| 88 | [Candle In The Wind \- Live](https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:45 |
-| 89 | [Animals \- Live In Manchester](https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:30 |
+| 87 | [Candle In The Wind \- Live](https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:45 |
+| 88 | [Animals \- Live In Manchester](https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:30 |
+| 89 | [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 |
 | 90 | [Lemon Tree \- Acoustic Live Version](https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [High Times: Best Of / Unplugged: Best Of \(Deluxe Edition\)](https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr) | 5:21 |
 | 91 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 |
 | 92 | [I Won't Let You Go \- Live At The Hospital Club](https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [James Morrison – Live & Unplugged At The Hospital](https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [The Strangest Thing \- Live](https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 6:05 |
 | 100 | [I'm Alive \- Live at The Colosseum at Caesars Palace, Las Vegas, Nevada \- November 2003](https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day...Live In Las Vegas](https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM) | 4:16 |
 
-Snapshot ID: `MTY2ODE3MzcxMCwwMDAwMDAwMGUwNTE3YWVhMjc1MWE0Njc0ZmI3NzJmMTliMDhhZTFh`
+Snapshot ID: `MTY2ODE3MzcxMCwwMDAwMDAwMDJlYmQyMmNjYjc1NjExZWVjMDkzMjk4YmU2OGEzMzM1`

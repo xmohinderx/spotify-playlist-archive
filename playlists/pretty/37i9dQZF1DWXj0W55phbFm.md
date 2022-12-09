@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,128 likes - 100 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,186 likes - 100 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 97 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 6:53 |
 | 98 | [Paul's Pal \- Rudy Van Gelder Edition/Digital Remaster/2006](https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Off To The Races \(Remastered\)](https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi) | 7:06 |
 | 99 | [Tin Roof Blues](https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [Presenting Muggsy Spanier](https://open.spotify.com/album/0IStfKG8KwvvniN0ZtLWih) | 2:56 |
-| 100 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
+| 100 | [Have Blues, Will Play'em](https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT) | [Bill Coleman](https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w) | [Boogie To Funk \- That's The Way I Like It](https://open.spotify.com/album/70HYV459jHKqPQ7QsNNUiX) | 9:46 |
 
-Snapshot ID: `MTY3MDQxODg4MCwwMDAwMDAwMDljZGQ4Mzc2NmJiN2JmYWUwZGQyY2NlNTRiNDg0MDFm`
+Snapshot ID: `MTY3MDQxODg4MCwwMDAwMDAwMGJhNGNjY2JmZDA3MTBjYzk5MDc4NWRkNTljZjFhNTU4`

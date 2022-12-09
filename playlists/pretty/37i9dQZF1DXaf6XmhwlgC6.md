@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,021 likes - 110 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,061 likes - 110 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 20 | [The Beauty Of Cold](https://open.spotify.com/track/1FD8sEUe8DLfMFZSjLrZaR) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [The Beauty Of Cold](https://open.spotify.com/album/4lBKbzCmFIoRTrCCUHCzrf) | 2:22 |
 | 21 | [moon in motion](https://open.spotify.com/track/3GOYS5D20KoipqTbLYjQRM) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [moon in motion](https://open.spotify.com/album/4tWt4T1Yh0581fO8FTLuqN) | 2:30 |
 | 22 | [Dreaming While Awake](https://open.spotify.com/track/1KVq03Ocupx3tRE18yZa5Q) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Dreaming While Awake](https://open.spotify.com/album/4UWDiNomdDxYTdE6exlgO5) | 2:50 |
-| 23 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Hyalite Glow](https://open.spotify.com/artist/3DT9YiO0OHVX5mEsehDD89) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 |
+| 23 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 |
 | 24 | [Trail Of Emptiness \- Ambient Version](https://open.spotify.com/track/7soUChMHrOcBc80OPPVkbN) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Trail Of Emptiness \(Ambient Version\)](https://open.spotify.com/album/0DQ5cSbXp0bhuFbGKWzJk7) | 1:58 |
 | 25 | [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 |
 | 26 | [That Bird of Prey Casts a Long Shadow](https://open.spotify.com/track/0AOz0XTa8sCskJQlBtHfHG) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Ascension](https://open.spotify.com/album/2EIbb68h4DZfT8LPK0KR1k) | 3:09 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 32 | [Fidelity](https://open.spotify.com/track/7aVZPC2jGVBNQ67laOUowW) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Fidelity](https://open.spotify.com/album/1JepRozB8KitEG6WdBLzdT) | 3:04 |
 | 33 | [Vi Går Mot Höst](https://open.spotify.com/track/5n20UxoXkXC2lkTTay0Y75) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Vi Går Mot Höst](https://open.spotify.com/album/7qqwp5hM1P5RrZUt3gYIIb) | 1:58 |
 | 34 | [Atmosphere](https://open.spotify.com/track/52KobVe0PXvMMU9ESnAkXd) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Atmosphere](https://open.spotify.com/album/4C5MzTipU7oYSj3KnXYrwu) | 3:35 |
-| 35 | [The Second Sun](https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J) | [Beyond The Andromeda](https://open.spotify.com/artist/5l47OTM4q2Be8PCn5JuARN) | [The Second Sun](https://open.spotify.com/album/7f4BYiovopoUQKVPqRZhQj) | 3:16 |
+| 35 | [The Second Sun](https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [The Second Sun](https://open.spotify.com/album/7f4BYiovopoUQKVPqRZhQj) | 3:16 |
 | 36 | [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 |
 | 37 | [Undo and Redo](https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Undo and Redo](https://open.spotify.com/album/3vO7qy5LePhyBPg5zIN4V0) | 2:38 |
 | 38 | [Stargazing](https://open.spotify.com/track/3vry2ev8DYAUt2ggdaXrUk) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Stargazing](https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3) | 2:16 |

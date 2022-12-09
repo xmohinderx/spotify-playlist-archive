@@ -1,15 +1,267 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Armand Van Helden x Karen Harding",
-  "num_followers": 119529,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Ti\u00ebsto x Solardo",
+  "num_followers": 119534,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjMzOSwyNWEwODRlY2ZlOWQyYmFlNjNiMWM5ZTgxZDk2ZGRhNTQ3NzIyMzU4",
+  "snapshot_id": "NjM0NCxhOGIyZDMxMGQyNDE4M2U1NDllMDQxMzE3Y2RkMzYyZjY5OTc3ZmQx",
   "tracks": [
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 172799,
+      "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/3EPry0N4okmOA33vzttk8j"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 222071,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/7sJdjALeEOXSIIvlMPdJAe"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "You're Makin Me High",
+        "url": "https://open.spotify.com/album/1FbZJC14ukWYQcPGo6zggH"
+      },
+      "artists": [
+        {
+          "name": "Hi_Tack",
+          "url": "https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "You're Makin Me High",
+      "url": "https://open.spotify.com/track/7vptpK5xwhWWLf9RXD3GxQ"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/0KMydElRr2Her3IGjGbNgF"
+      },
+      "artists": [
+        {
+          "name": "MXRCVRY",
+          "url": "https://open.spotify.com/artist/7fcxzGqZfSRGOZp2KyCxpf"
+        }
+      ],
+      "duration_ms": 116250,
+      "name": "MAYHEM",
+      "url": "https://open.spotify.com/track/4BIDAroSodUwRpmMfmN99K"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "Crypto",
+        "url": "https://open.spotify.com/album/1JRt5rECmRSIkMABuHD2QX"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 135865,
+      "name": "Crypto",
+      "url": "https://open.spotify.com/track/5FiVO5lwVNHS344sMB4OsJ"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "Lapada",
+        "url": "https://open.spotify.com/album/1owYIKoGsokA4W7N7jIAZA"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
+        },
+        {
+          "name": "Leiru",
+          "url": "https://open.spotify.com/artist/7mkeuOpFzi10wppVk0l23O"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Lapada",
+      "url": "https://open.spotify.com/track/4PpPUNBtlM8838tIgN2bRJ"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "So High (feat. Crooked Bangs)",
+        "url": "https://open.spotify.com/album/37x16CdDA6LzyQxFIjjueZ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "So High (feat. Crooked Bangs)",
+      "url": "https://open.spotify.com/track/4FFXEF31Jq6VIyOZCFe6zE"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "Nitrous (Sped Up Version)",
+        "url": "https://open.spotify.com/album/0mfLAdOjFHndBYIqjdyMqf"
+      },
+      "artists": [
+        {
+          "name": "Razihel",
+          "url": "https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O"
+        }
+      ],
+      "duration_ms": 112320,
+      "name": "Nitrous - Sped Up Version",
+      "url": "https://open.spotify.com/track/1D63zvpwJg1AQkNoQszZHL"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "Nitrous (Slowed Version)",
+        "url": "https://open.spotify.com/album/2eQuBNOQQXrcBWlOY0QFAx"
+      },
+      "artists": [
+        {
+          "name": "Razihel",
+          "url": "https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Nitrous - Slowed Version",
+      "url": "https://open.spotify.com/track/50Vn2tGbytupI3M2M76RL8"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "Aqu\u00ed",
+        "url": "https://open.spotify.com/album/6ap5fnMGOUCNLbgXAEg2JX"
+      },
+      "artists": [
+        {
+          "name": "Bryan Softwell",
+          "url": "https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf"
+        }
+      ],
+      "duration_ms": 211171,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4VkLkS6EHULiBDnrD0fAXN"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "Xanadu (Lizzy Wang Remix)",
+        "url": "https://open.spotify.com/album/31WmuJsHgNxislVF0v4ZCJ"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        },
+        {
+          "name": "Lizzy Wang",
+          "url": "https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp"
+        }
+      ],
+      "duration_ms": 144927,
+      "name": "Xanadu (Lizzy Wang Remix)",
+      "url": "https://open.spotify.com/track/4iOont4lQXZEE9GqlBGpER"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "Divide Us (feat. Overhowl)",
+        "url": "https://open.spotify.com/album/1DVsZGYMEZs2Jwd8tGJ908"
+      },
+      "artists": [
+        {
+          "name": "\u00dcH\u00dc",
+          "url": "https://open.spotify.com/artist/0kX81k87cBgYN7KffDI3fC"
+        },
+        {
+          "name": "RUSH\u00d6",
+          "url": "https://open.spotify.com/artist/55Ucoc9siWcgzIZLoe8m1N"
+        },
+        {
+          "name": "Overhowl",
+          "url": "https://open.spotify.com/artist/54ROsLIjoMVpbAm8oyYxpv"
+        }
+      ],
+      "duration_ms": 238087,
+      "name": "Divide Us (feat. Overhowl)",
+      "url": "https://open.spotify.com/track/0DFg4qDEzyJ9kZkGwnx3jB"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
+      "album": {
+        "name": "Shame (Voost Remix) [Single Edit]",
+        "url": "https://open.spotify.com/album/7auuCc6dgjq8dlQmzF30R8"
+      },
+      "artists": [
+        {
+          "name": "Mustii",
+          "url": "https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1"
+        },
+        {
+          "name": "Voost",
+          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
+        }
+      ],
+      "duration_ms": 155238,
+      "name": "Shame (Voost Remix) - Single Edit",
+      "url": "https://open.spotify.com/track/6PKt0YFeEHvz9mgTZaBsI8"
+    },
+    {
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "Wings (I Won't Let You Down)",
         "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
@@ -29,7 +281,7 @@
       "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "Get With Nobody (feat. Baimz)",
         "url": "https://open.spotify.com/album/5maWcarbPD7B93zV5o6DCr"
@@ -49,7 +301,7 @@
       "url": "https://open.spotify.com/track/0gqKw1OIuiSC9Ad6QVWXAK"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "MAS GASOLINA (feat. N.F.I) [Raffa FL Remix]",
         "url": "https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn"
@@ -77,7 +329,7 @@
       "url": "https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "One Life (Festival Mix)",
         "url": "https://open.spotify.com/album/6YnX8UuHdW8sph8ZHUYE45"
@@ -97,7 +349,7 @@
       "url": "https://open.spotify.com/track/2MNtObv5bxyUprOKewE28m"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "Free Candy (feat. DAIJAH)",
         "url": "https://open.spotify.com/album/7iGtZMDewOyUjIFqIRCIdO"
@@ -121,7 +373,7 @@
       "url": "https://open.spotify.com/track/2QaCYdtF5UyHKuPAKqdfx1"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "Feel The Same (feat. Jordan Grace) [Alternative Mix]",
         "url": "https://open.spotify.com/album/7tkNLSMNXlZltonTfxupeP"
@@ -145,7 +397,7 @@
       "url": "https://open.spotify.com/track/7oIRkPpm2PwTniDA85qOky"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "Only You (feat. Tyoz)",
         "url": "https://open.spotify.com/album/4GKlMWJqJ85MsKmeg3qfop"
@@ -169,7 +421,7 @@
       "url": "https://open.spotify.com/track/6RgCQPgqLDvHoDPJUsuZlo"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/2f6n9I791k0vvTg1iLVCT1"
@@ -185,7 +437,7 @@
       "url": "https://open.spotify.com/track/1h1tLzLk7yBM1n9p93XzQV"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "The Funky Beat",
         "url": "https://open.spotify.com/album/5Lf8Ll5FO250z2yfwL0M5U"
@@ -201,7 +453,7 @@
       "url": "https://open.spotify.com/track/51fTFfFagxRASIcULWFKqG"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "Juggler",
         "url": "https://open.spotify.com/album/3HCsj9ZsoPeAnKryTBkyrF"
@@ -225,7 +477,7 @@
       "url": "https://open.spotify.com/track/63qnUzB4dhAQD46yAOM817"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "DM ME",
         "url": "https://open.spotify.com/album/3t0XeuHfiDfeRJD0enq96J"
@@ -241,7 +493,7 @@
       "url": "https://open.spotify.com/track/7dSHCIUMxruReVkPneapxP"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "Xanadu (feat. Ummet Ozcan) [Sped Up Version]",
         "url": "https://open.spotify.com/album/1a8NbKs4rI5YSTjune9FgP"
@@ -261,7 +513,7 @@
       "url": "https://open.spotify.com/track/4xoD3ST2YmUDqJAY8wvS5d"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "Overload",
         "url": "https://open.spotify.com/album/2pMfkhLuAHNl2arl69LiGp"
@@ -285,7 +537,7 @@
       "url": "https://open.spotify.com/track/7eK8NnAGrCjNA76waOYENT"
     },
     {
-      "added_at": "2022-12-01 23:56:33",
+      "added_at": "2022-12-08 23:56:14",
       "album": {
         "name": "Xanadu (feat. Ummet Ozcan) [Slowed Version]",
         "url": "https://open.spotify.com/album/0xYCnd6R5rjSv2nDnHsQHO"
@@ -303,238 +555,6 @@
       "duration_ms": 275547,
       "name": "Xanadu (feat. Ummet Ozcan) - Slowed Version",
       "url": "https://open.spotify.com/track/0XoTiU0a4wwvM5Wn1PZN9L"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl"
-      },
-      "artists": [
-        {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Better with You",
-        "url": "https://open.spotify.com/album/6DhqOOvdiHkns5fninBy8C"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 154940,
-      "name": "Better with You",
-      "url": "https://open.spotify.com/track/0TpXy0gvSuaJcPaG6o9XcM"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Sleepwalking (feat. The Chain Gang of 1974)",
-        "url": "https://open.spotify.com/album/0u5cnlfY2VDHNC7cY4hr6u"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Bruno Be",
-          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
-        },
-        {
-          "name": "GHOSTT",
-          "url": "https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk"
-        },
-        {
-          "name": "The Chain Gang Of 1974",
-          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
-        }
-      ],
-      "duration_ms": 159193,
-      "name": "Sleepwalking (feat. The Chain Gang of 1974)",
-      "url": "https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Have It All (feat. Franky)",
-        "url": "https://open.spotify.com/album/0NHCitf8CZjmXsUmAJ6tWM"
-      },
-      "artists": [
-        {
-          "name": "Jack Wins",
-          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
-        },
-        {
-          "name": "Franky",
-          "url": "https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Have It All (feat. Franky)",
-      "url": "https://open.spotify.com/track/3PryuZr5TAxT74B8290q51"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Alley Oop",
-        "url": "https://open.spotify.com/album/1JDZATDTbpsE39AmBkAxmw"
-      },
-      "artists": [
-        {
-          "name": "U Know Who",
-          "url": "https://open.spotify.com/artist/05l3lWoAqlSOEfoYKbNait"
-        }
-      ],
-      "duration_ms": 102941,
-      "name": "Alley Oop",
-      "url": "https://open.spotify.com/track/1U6KaIshYmRV3DTpPQFkQI"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Dare Your Move",
-        "url": "https://open.spotify.com/album/7wMzeVpDff9c3MsUciRjfU"
-      },
-      "artists": [
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Dare Your Move",
-      "url": "https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Lovesick (feat. BullySongs)",
-        "url": "https://open.spotify.com/album/5knODI610HT7I93xE7tIa1"
-      },
-      "artists": [
-        {
-          "name": "offrami",
-          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Lovesick (feat. BullySongs)",
-      "url": "https://open.spotify.com/track/761dzyEgu1hXpClXWdWHPV"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Rahala (with Arem Ozguc & Arman Aydin)",
-        "url": "https://open.spotify.com/album/2koJ0Q2koZsHgqtjfo6T0s"
-      },
-      "artists": [
-        {
-          "name": "Rasster",
-          "url": "https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg"
-        },
-        {
-          "name": "Arem Ozguc",
-          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
-        },
-        {
-          "name": "Arman Aydin",
-          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Rahala (with Arem Ozguc & Arman Aydin)",
-      "url": "https://open.spotify.com/track/6TV56l9QQsHl3Ad3QSRp1i"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Rave Hoven (feat. Maikki)",
-        "url": "https://open.spotify.com/album/2LYtTq3gF8dJ7bJ57lzNjQ"
-      },
-      "artists": [
-        {
-          "name": "Dimatik",
-          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Rave Hoven (feat. Maikki)",
-      "url": "https://open.spotify.com/track/0rqIgCd4Yotte91pKv08T9"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Summer Jams (Henri PFR VIP Mix)",
-        "url": "https://open.spotify.com/album/2f9K5EbVLPtl725nnnzaoj"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 250629,
-      "name": "Summer Jams (Henri PFR VIP Mix)",
-      "url": "https://open.spotify.com/track/2UYVc8cyX52jtIqj2LvklZ"
-    },
-    {
-      "added_at": "2022-12-01 23:56:33",
-      "album": {
-        "name": "Summer Jams (Blasterjaxx Festival Mix)",
-        "url": "https://open.spotify.com/album/2iBRfLIksm4eG2zRo5XStd"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 184477,
-      "name": "Summer Jams (Blasterjaxx Festival Mix)",
-      "url": "https://open.spotify.com/track/6riXvqD2fTUALqtJ0TO1AK"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

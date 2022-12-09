@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Aleman y Nicki Nicole en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,780 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,948 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 24 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 |
 | 25 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 |
 | 26 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 |
-| 27 | [Como Sea](https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:22 |
+| 27 | [Como Sea](https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:22 |
 | 28 | [Cómo Diamante](https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Humo en la Trampa 3](https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY) | 3:27 |
 | 29 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
 | 30 | [Somos Varios](https://open.spotify.com/track/2hFYvGaFDdcv6tNPFtbBPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Somos Varios](https://open.spotify.com/album/5Wtjm9176pqb5GZQrsBQDv) | 4:16 |

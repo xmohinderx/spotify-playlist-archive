@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "April's Fooling No One",
+        "url": "https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255059,
+      "name": "April's Fooling No One",
+      "url": "https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx"
+    },
+    {
+      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 291840,
       "name": "Change of Heart",
       "url": "https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E"

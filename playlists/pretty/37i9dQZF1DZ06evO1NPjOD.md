@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,340 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,358 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Kitty Talk \(feat\. Quavo, Lil Wayne, & Jack Harlow\) \[Remix\]](https://open.spotify.com/track/4n4yWZbhlyHrgFs9ztg21K) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Kitty Talk \(feat\. Quavo, Lil Wayne, & Jack Harlow\) \[Remix\]](https://open.spotify.com/album/000xZHv6vq55FegQNqELgN) | 3:19 |
 | 50 | [Scared \- from the "Bruised" Soundtrack](https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Scared \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/1VuOFnoveM2MzoLSEeTEHk) | 2:39 |
 
-Snapshot ID: `Mjc4NDA3NzQsMDAwMDAwMDA5N2MyYTk4OGU4YzE0OTgxYTVlNDEwZGE1MmU1YTQwZA==`
+Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA1NTcxNzNlMTE0MjMzMmQ4YjVlNmM0Y2U4NTFiMzM0MA==`

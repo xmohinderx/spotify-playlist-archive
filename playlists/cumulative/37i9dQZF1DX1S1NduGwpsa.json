@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Samara Joy",
+  "description": "The best jazz new releases. Photo : Andr\u00e9 Manoukian",
   "name": "Jazz Club",
   "published_playlist_ids": [
     "3rs0g3vcnj4aI2NKRtpM5z"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 333979,
       "name": "Bet",
       "url": "https://open.spotify.com/track/7pnM9gB0aO7WrIYqjeZaPX"
@@ -493,6 +493,24 @@
       "duration_ms": 206291,
       "name": "Cheek To Cheek - Live",
       "url": "https://open.spotify.com/track/2La0saPUOcHbSuiF8ubrkx"
+    },
+    {
+      "album": {
+        "name": "A Trip in Marseille",
+        "url": "https://open.spotify.com/album/3DCkvGgOPltvOrgYLFifCA"
+      },
+      "artists": [
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248626,
+      "name": "Chorini\u00f1o",
+      "url": "https://open.spotify.com/track/6HYVqx9ECuY6cvBcVE9US4"
     },
     {
       "album": {
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 291691,
       "name": "Did Somebody Make a Fool Out of You",
       "url": "https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 303457,
       "name": "Follow the Light",
       "url": "https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 223182,
       "name": "Freedom Road",
       "url": "https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95"
@@ -1305,6 +1323,40 @@
       "duration_ms": 185346,
       "name": "Hallelujah, I Love Him So - First Sessions Outtake",
       "url": "https://open.spotify.com/track/1QLBKel4BFnZIk6VTQiiqY"
+    },
+    {
+      "album": {
+        "name": "Dear John",
+        "url": "https://open.spotify.com/album/6RlGEJ7lvJllvCu4bt80kA"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Petit",
+          "url": "https://open.spotify.com/artist/7thiPAfYOfJoDeroIQxaKQ"
+        },
+        {
+          "name": "Julia Perminova",
+          "url": "https://open.spotify.com/artist/7t2BzzV0E1usdCusZIST72"
+        },
+        {
+          "name": "Rapha\u00ebl Pannier",
+          "url": "https://open.spotify.com/artist/5C9hm95fwfcWi7vioKUI9x"
+        },
+        {
+          "name": "Jeremy Bruyere",
+          "url": "https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj"
+        },
+        {
+          "name": "Sylvain Gontard",
+          "url": "https://open.spotify.com/artist/70mElInIklqBRDipzilh2P"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264467,
+      "name": "Hedwig\u2019s Theme from \"Harry Potter and the Sorcerer\u2019s Stone\"",
+      "url": "https://open.spotify.com/track/4GAYD9V2N7i4duF2wDfPDF"
     },
     {
       "album": {
@@ -1924,6 +1976,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas Baby",
+        "url": "https://open.spotify.com/album/76xL4ZtUJ91iY0ogL8qV5T"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182451,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/6sKbk9yFs7U7uvUNfBrNrf"
+    },
+    {
+      "album": {
         "name": "Cake Walk from a Spaceship",
         "url": "https://open.spotify.com/album/2m0LHb9pWp1S1ic1x7DnSX"
       },
@@ -2113,6 +2183,32 @@
       "duration_ms": 157364,
       "name": "Nah Neh Nah - Version piano - voix",
       "url": "https://open.spotify.com/track/5afmdUnP6YV1OSYHE0L6ca"
+    },
+    {
+      "album": {
+        "name": "Niggun",
+        "url": "https://open.spotify.com/album/2O6WfKYNY33szSFsARg6ia"
+      },
+      "artists": [
+        {
+          "name": "Omer Klein",
+          "url": "https://open.spotify.com/artist/0YGq6lWfXYjeUjM7oZkEho"
+        },
+        {
+          "name": "Haggai Cohen Milo",
+          "url": "https://open.spotify.com/artist/2fI1YlX1x0WkepdSlvLVve"
+        },
+        {
+          "name": "Amir Bresler",
+          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463345,
+      "name": "Niggun",
+      "url": "https://open.spotify.com/track/3NVhdxU8IWtnnLIs3HhTKR"
     },
     {
       "album": {
@@ -2341,7 +2437,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 371523,
       "name": "Passaic",
       "url": "https://open.spotify.com/track/2j3u6MfjffdvS7TNGOj1BM"
@@ -2579,6 +2675,24 @@
       "duration_ms": 180323,
       "name": "Rondo Arm\u00e9nien",
       "url": "https://open.spotify.com/track/32kaDw2jHXYRv6kzdO04fP"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/0FCCnN5hOvEmWe4GlkXlJL"
+      },
+      "artists": [
+        {
+          "name": "Edouard Ferlet",
+          "url": "https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "RYTHMO\u00cfD",
+      "url": "https://open.spotify.com/track/3lV360S8DDKzCqz1BH0LnV"
     },
     {
       "album": {
@@ -3361,7 +3475,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 223417,
       "name": "Une Seule Etoile",
       "url": "https://open.spotify.com/track/7HnbvhyOEmmIOX8CPUOVko"
@@ -3645,6 +3759,24 @@
       "duration_ms": 159386,
       "name": "West Coast Blues",
       "url": "https://open.spotify.com/track/0iwOlDvcknjVHDuOjMiDB1"
+    },
+    {
+      "album": {
+        "name": "What Are U Doing ?",
+        "url": "https://open.spotify.com/album/5g4o8V11YgaeVUHbqdiPmi"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357946,
+      "name": "What Are U Doing?",
+      "url": "https://open.spotify.com/track/77kTVlyisKD6n7wkqWElHj"
     },
     {
       "album": {

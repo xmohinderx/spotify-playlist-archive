@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 164750,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/5QNsqbcnu7Mrmzr9Dt5N2C"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 125429,
       "name": "Boo Hoo",
       "url": "https://open.spotify.com/track/2monT4BYGsDReiBuAUaCKd"
@@ -1342,6 +1342,32 @@
     },
     {
       "album": {
+        "name": "Dabke (Dimatik Remix)",
+        "url": "https://open.spotify.com/album/5I9TvxUpqpZzsDVHBCs9tf"
+      },
+      "artists": [
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        },
+        {
+          "name": "NASA NOVA",
+          "url": "https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Dabke - Dimatik Remix",
+      "url": "https://open.spotify.com/track/0AEHBVNjgdLuQTYlQNQSdm"
+    },
+    {
+      "album": {
         "name": "DASH (feat. T-Pain) [T-Mix]",
         "url": "https://open.spotify.com/album/7HNd8Zsp8Duyvz65e0b1Fq"
       },
@@ -1393,7 +1419,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 140208,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/4iLryROLgt2A7SXZHfZkbq"
@@ -1441,7 +1467,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 151359,
       "name": "Die Young (Freestyle)",
       "url": "https://open.spotify.com/track/31dmeMMLyx7IFTeydxC8Ed"
@@ -1459,7 +1485,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 145827,
       "name": "DINERO",
       "url": "https://open.spotify.com/track/1XwgW1GlujLIr4VywyjyMo"
@@ -1712,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "EN VIVO",
+        "url": "https://open.spotify.com/album/2r9WWv5OcoVMdgJDYBPBQh"
+      },
+      "artists": [
+        {
+          "name": "Jalmar",
+          "url": "https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "EN VIVO",
+      "url": "https://open.spotify.com/track/3AlUIOQCz0L3ziLaqnC7UN"
+    },
+    {
+      "album": {
         "name": "Enough's Enough",
         "url": "https://open.spotify.com/album/7jGqdtGptrSL7LzUQJMg1P"
       },
@@ -1868,6 +1912,28 @@
     },
     {
       "album": {
+        "name": "Foreign Currency",
+        "url": "https://open.spotify.com/album/52hNNTZJpG7luWeLbRSlA6"
+      },
+      "artists": [
+        {
+          "name": "No Money Enterprise",
+          "url": "https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165480,
+      "name": "Foreign Currency",
+      "url": "https://open.spotify.com/track/43O8FGGnUBZshQPX6aGiHu"
+    },
+    {
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2QwgK5BvLgBEiBVG4gfucG"
       },
@@ -2017,7 +2083,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 180500,
       "name": "Game Day Ritual",
       "url": "https://open.spotify.com/track/4LWjiqxih81T0MwcNwZMUZ"
@@ -2727,7 +2793,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161904,
       "name": "Hundred Club",
       "url": "https://open.spotify.com/track/4jBRQpvCwfWLmiassQeD5c"
@@ -2757,6 +2823,24 @@
       "duration_ms": 195338,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/1p8m1OyndfMeNcZAY5M0tQ"
+    },
+    {
+      "album": {
+        "name": "IN THE MOOD",
+        "url": "https://open.spotify.com/album/0GESCfK9MbheanzTdbChEZ"
+      },
+      "artists": [
+        {
+          "name": "JAY DIAMOND",
+          "url": "https://open.spotify.com/artist/77uMRjpxZSpZOdxVVE8paR"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164954,
+      "name": "IN THE MOOD",
+      "url": "https://open.spotify.com/track/3ayoMoC4HC8RH3r07Qq4uo"
     },
     {
       "album": {
@@ -3007,6 +3091,28 @@
       "duration_ms": 188111,
       "name": "LET'S TROT!",
       "url": "https://open.spotify.com/track/6r8xlPyUQG8zbXbh26duFW"
+    },
+    {
+      "album": {
+        "name": "Levellin Up With Felons",
+        "url": "https://open.spotify.com/album/2vGAfg1lhpLdraEtCMXCq4"
+      },
+      "artists": [
+        {
+          "name": "Cult Sh\u03c6tta",
+          "url": "https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P"
+        },
+        {
+          "name": "Babyface Mal",
+          "url": "https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142408,
+      "name": "Levellin Up With Felons",
+      "url": "https://open.spotify.com/track/3Ju4r2OeKhuNrQXa9AGzxH"
     },
     {
       "album": {
@@ -3443,7 +3549,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 173375,
       "name": "MBAPP\u00c9 (feat. KAHUKX)",
       "url": "https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz"
@@ -3669,6 +3775,24 @@
       "duration_ms": 164000,
       "name": "MY CITY",
       "url": "https://open.spotify.com/track/62bsIzKQuiTnskD0DV3qku"
+    },
+    {
+      "album": {
+        "name": "MY TURN",
+        "url": "https://open.spotify.com/album/1NhU3nH2zA2sLFUlUMlBoh"
+      },
+      "artists": [
+        {
+          "name": "Mason Dane",
+          "url": "https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "MY TURN",
+      "url": "https://open.spotify.com/track/67ymPK8GDCy5G0gtkNr7Tl"
     },
     {
       "album": {
@@ -3942,6 +4066,32 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5rEszQ8iijlsu5caNiHQNY"
+      },
+      "artists": [
+        {
+          "name": "Hp Boyz",
+          "url": "https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp"
+        },
+        {
+          "name": "HP ONIT",
+          "url": "https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG"
+        },
+        {
+          "name": "HP YJ",
+          "url": "https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "NOBODY KNOWS - Spotify Singles",
+      "url": "https://open.spotify.com/track/09CaMPTzbkUkqpi4963qi6"
+    },
+    {
+      "album": {
         "name": "NOKIA 6OY",
         "url": "https://open.spotify.com/album/79SUwO4Kw6JCXMItpqxI27"
       },
@@ -3971,7 +4121,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 143376,
       "name": "Northside Stepper",
       "url": "https://open.spotify.com/track/2ONo43uD9sG5Bhth17nTA7"
@@ -4463,7 +4613,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 142262,
       "name": "PULL'D UP (11PM)",
       "url": "https://open.spotify.com/track/7BqPLWIlvzDBbXAYjIWVWF"
@@ -4830,6 +4980,24 @@
     },
     {
       "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/6MeJtV9EGSD5dMlAYhCCYk"
+      },
+      "artists": [
+        {
+          "name": "Ribby247",
+          "url": "https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170737,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/2obwSnm1fSr4lpDC5b1IT1"
+    },
+    {
+      "album": {
         "name": "RUN THIS TOWN",
         "url": "https://open.spotify.com/album/2NDneoTVnIdGbVaiWKb8ks"
       },
@@ -5112,6 +5280,28 @@
     },
     {
       "album": {
+        "name": "Shut The Gates",
+        "url": "https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf"
+      },
+      "artists": [
+        {
+          "name": "Joel Fletcher",
+          "url": "https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR"
+        },
+        {
+          "name": "MLBRN",
+          "url": "https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210720,
+      "name": "Shut The Gates",
+      "url": "https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI"
+    },
+    {
+      "album": {
         "name": "Since When",
         "url": "https://open.spotify.com/album/55md5f23yj7QaWnI3NJEfp"
       },
@@ -5305,6 +5495,24 @@
       "duration_ms": 165000,
       "name": "Steady",
       "url": "https://open.spotify.com/track/2x87Aklz120dbM31TrH4Kd"
+    },
+    {
+      "album": {
+        "name": "Still G's",
+        "url": "https://open.spotify.com/album/22QUb1uvANqKLhU689vG9i"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Still G's",
+      "url": "https://open.spotify.com/track/3jhXPxvc6iUvHPTW0Y6gyL"
     },
     {
       "album": {
@@ -6063,7 +6271,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 142501,
       "name": "U AIN'T SH!T",
       "url": "https://open.spotify.com/track/64ZMypk4r79o4o5ryQ9hbE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,570 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,714 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 40 | [Alright, Okay, You Win](https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:02 |
 | 41 | [It's All Right](https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 2:50 |
 | 42 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 2:18 |
-| 43 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 |
-| 44 | [Straighten Up And Fly Right](https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:36 |
+| 43 | [Straighten Up And Fly Right](https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:36 |
+| 44 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 |
 | 45 | [When Lights Are Low](https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:56 |
 | 46 | [Just You, Just Me](https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 2:24 |
 | 47 | [El Día Feliz Que Está Llegando](https://open.spotify.com/track/3tDgxtrndyfPWSZNiBpJXl) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [El Día Feliz Que Está Llegando](https://open.spotify.com/album/4hcdtal5UPhzK9Ix9yWy4f) | 4:15 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 60 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 |
 | 61 | [A Foggy Day](https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Cosmopolite: The Oscar Peterson Verve Sessions](https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN) | 3:40 |
 | 62 | [I Ain't Got Nobody](https://open.spotify.com/track/1mYU1xNK2THM44DpukZGY4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Capitol Collector's Series](https://open.spotify.com/album/0L3a0HwsJSOR0dARdZuWzs) | 2:24 |
-| 63 | [The More I See You \- Rudy Van Gelder Edition](https://open.spotify.com/track/42iATJYN5S908wQMReeDkV) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:47 |
-| 64 | [You're Sensational](https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [Blue Trane](https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x) | 6:52 |
+| 63 | [You're Sensational](https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [Blue Trane](https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x) | 6:52 |
+| 64 | [The More I See You \- Rudy Van Gelder Edition](https://open.spotify.com/track/42iATJYN5S908wQMReeDkV) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:47 |
 | 65 | [\(How Little It Matters\) How Little We Know](https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Witchcraft](https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH) | 2:36 |
 | 66 | [Love for Sale](https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:14 |
 | 67 | [Ridin' High](https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [You Make Me Feel so Young](https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor](https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD) | 2:51 |
 | 100 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 |
 
-Snapshot ID: `MTY3MDMzNTkxMSwwMDAwMDAwMDk0MzVmNGYwNDUwYzk2N2NiNGUwZjIxOWE4YzVmMmNj`
+Snapshot ID: `MTY3MDMzNTkxMSwwMDAwMDAwMDU3ZWIyMTIzY2I5NjI3NzA2ZTY5M2E2MThiMWEyN2Q4`

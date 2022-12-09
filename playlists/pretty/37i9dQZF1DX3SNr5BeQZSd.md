@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,169 likes - 96 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,472 likes - 96 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 17 | [Tell Me Why I'm Waiting](https://open.spotify.com/track/3xbUCRFut7tzBoD2F8L56y) | [Timmies](https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Passion & Confusion](https://open.spotify.com/album/5unak64thjeLQpZqSONKqz) | 2:03 |
 | 18 | [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 |
 | 19 | [Can't Take My Eyes off You](https://open.spotify.com/track/2InH5NvwoEymOEeUhpUq48) | [Craymer](https://open.spotify.com/artist/14FalyPBwXYg2XLauocHaU), [AIIVAWN](https://open.spotify.com/artist/7qYVVP9RdHRKzElE6EZQsn) | [Can't Take My Eyes off You](https://open.spotify.com/album/76GPbP7KEgSGqDsyJ2FN1T) | 4:00 |
-| 20 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
+| 20 | [I'm sorry](https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Theres Still Us](https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp) | 2:37 |
 | 21 | [Imagination](https://open.spotify.com/track/5bttUhX2smfy7urwlidPfG) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Patient Zero](https://open.spotify.com/artist/7z6qM92XcUIwugTRs2PcmZ) | [Imagination](https://open.spotify.com/album/4Mm3zqe5BaCECuV8spp9ZG) | 1:44 |
 | 22 | [Love Is More Depressing Than Depression](https://open.spotify.com/track/6x2vJWVX5xaYvkISLVu7Kz) | [prxz](https://open.spotify.com/artist/40HzN0eLAMZk4nTHMk9sUA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Love Wounds](https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc) | 2:13 |
 | 23 | [Dance with Me](https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C) | [Love Is the Same as Sadness](https://open.spotify.com/album/4JcORch57yBGLItxgest7E) | 1:27 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 95 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 96 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMGU5ZDQ0ODM0NDZjOTg2YjdhNWJlNDA3ZjMyNjYwOTJm`
+Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMDU5OGEyMjI3ZTkwZDhlMmRkMmIyMWNlNTQyOWIyMThl`

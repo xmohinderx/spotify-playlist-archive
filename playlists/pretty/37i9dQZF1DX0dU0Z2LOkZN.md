@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,922 likes - 200 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,033 likes - 200 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 77 | [Hear The Vibes](https://open.spotify.com/track/0VR0PrR3URSvUMrOo3MM3f) | [Mobsta Mane](https://open.spotify.com/artist/7xlFYuidFca4KP0IIReFTu), [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2) | [Hear The Vibes](https://open.spotify.com/album/1OLWYenrB1gnk9a28KKOYi) | 2:56 |
 | 78 | [Candy](https://open.spotify.com/track/4kEG7GfptFvhKG6WF4CsdR) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Candy](https://open.spotify.com/album/4pPtVCFv3qzdC8kV1izQHB) | 2:02 |
 | 79 | [90's Flavour](https://open.spotify.com/track/5wFag2sCvJHkVJworyvPWQ) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Mr\. Ginseng](https://open.spotify.com/artist/7ttm00ZarLoBYsKnjauVKw) | [90's Flavour](https://open.spotify.com/album/2XoxrVgfh8qQ3YxLGqnlAw) | 2:07 |
-| 80 | [Going Places](https://open.spotify.com/track/7nynETPpnViUI1xpfM974x) | [BeatLump](https://open.spotify.com/artist/1qfE0r0sCa4ZlMVl5rXwWL) | [Going Places](https://open.spotify.com/album/4LIfB9cGOegYwDfqbOxwUW) | 1:49 |
+| 80 | [Going Places](https://open.spotify.com/track/7nynETPpnViUI1xpfM974x) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Going Places](https://open.spotify.com/album/4LIfB9cGOegYwDfqbOxwUW) | 1:49 |
 | 81 | [Fiesta Siesta](https://open.spotify.com/track/4zHwaIFk44nYXCN8tWkIue) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Fiesta Siesta](https://open.spotify.com/album/4cp82gqMhMVUrGW6zFDuea) | 2:18 |
 | 82 | [DONTKRY](https://open.spotify.com/track/0N3Va74DxgNP3fsc2HmGEJ) | [dylantheinfamous](https://open.spotify.com/artist/5GU82aVRZ2vVfaNuNyYJMM) | [DONTKRY](https://open.spotify.com/album/6DVFOFmjYMtAutqOqwH4Vf) | 1:19 |
 | 83 | [Back In Time](https://open.spotify.com/track/31MDjUsn0l5YsOWzDqqFc5) | [ben iwa](https://open.spotify.com/artist/55xLPbt33Mg2MUQd7p1ev4), [Chill Station](https://open.spotify.com/artist/1FPxSBB6vJ21iKzCblbl1u) | [Back In Time](https://open.spotify.com/album/1nx7fxExiW1rhDcAqfODZ2) | 1:49 |

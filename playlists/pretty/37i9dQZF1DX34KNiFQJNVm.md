@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem João Gomes, Anitta, WIU, Israel & Rodolffo e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,800,739 likes - 74 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,801,376 likes - 74 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

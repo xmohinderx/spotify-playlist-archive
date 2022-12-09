@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2OeXDYwOkCD.md) - [plain]
 
 > Si te gustan por separado, ¿cómo no te van a gustar juntos?
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,785 likes - 95 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,877 likes - 95 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2OeXDYwOkCD.md) - [plain]
 | 72 | [DE AQUÍ NO SALES \- Cap.4: Disputa](https://open.spotify.com/track/0CaiddWO1F3v4nTQGgfk9A) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:24 |
 | 73 | [Hong Kong](https://open.spotify.com/track/4kD4ZzJ1rZIVfJ9qw85CVT) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:23 |
 | 74 | [Te Venero](https://open.spotify.com/track/5r3n7YYY1jtl8pqvZr1DAD) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 4:06 |
-| 75 | [¿Cuánto E$?](https://open.spotify.com/track/77eLBhhdkYwEOptOKfkXlh) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 3:07 |
+| 75 | [¿Cuánto E$?](https://open.spotify.com/track/0t5v9u01TBg8gEQk69orZ0) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 3:07 |
 | 76 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
 | 77 | [It's a Vibe](https://open.spotify.com/track/6HvD8JhIe9Mq6gyql32rYb) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:40 |
 | 78 | [Por Castigarme Tan Fuerte](https://open.spotify.com/track/5bu6hDqiYju5JPcBUxGTjC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 2:08 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2OeXDYwOkCD.md) - [plain]
 | 94 | [Por Mi Puerta No Lo Pasen](https://open.spotify.com/track/2gp9YVRrqL5N9MgjTwunux) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 4:39 |
 | 95 | [Bien:\( \(feat\. Rusowsky\)](https://open.spotify.com/track/6HlWtggWotj9bUNcPGEeLS) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Bien:\(](https://open.spotify.com/album/5deRnNJSQ1Fa61ea3U1S8x) | 1:52 |
 
-Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMGQ1Mzk3OGMxOGY2NjdiYzhlZDNlNTY2MWMyODgxYTQ1`
+Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDg3MGQ5OTgyZWRjMDY3Y2Q5OWRkMDYwYWQ1ZGQzZTMy`

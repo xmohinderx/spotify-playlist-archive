@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,843 likes - 60 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,920 likes - 60 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 38 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 |
 | 39 | [Little Wing \- Live at LOCKN' / 2019](https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 6:53 |
 | 40 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
-| 41 | [Everyday I Have The Blues \- Live \(San Quentin\)](https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At San Quentin](https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2) | 4:41 |
-| 42 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 |
+| 41 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 |
+| 42 | [Everyday I Have The Blues \- Live \(San Quentin\)](https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At San Quentin](https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2) | 4:41 |
 | 43 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 |
 | 44 | [Broke Down On The Brazos \- Live](https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Bring On The Music: Live at The Capitol Theatre, Pt\. 2](https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu) | 8:48 |
 | 45 | [Woman Like You \- Live](https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Rocket 88 \- Live](https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 7:26 |
 | 60 | [True Lies \- Live](https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Live in Chicago](https://open.spotify.com/album/3ljFmredCgsn5o8WsjJBBa) | 5:54 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDRkYzg4ZjkxYmVlNWJhYTM3MTI2M2M4MDc4NTY4OTg1`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDlmMzZiMzI0NzljNmZkMjIyYWZlZmM3ZTUzYmY0MTM0`

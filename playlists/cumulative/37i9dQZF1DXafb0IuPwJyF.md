@@ -4,7 +4,7 @@
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  King Gnu
 
-588 songs - 1 day 12 hr 47 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+589 songs - 1 day 12 hr 51 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [FiNAL SHiTS](https://open.spotify.com/track/0t3Aho5s4jnyU3q3g61ygp) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [FiNAL SHiTS](https://open.spotify.com/album/3UFM7yNZ0Rndf5KtjGNM7U) | 4:39 | 2022-01-02 | 2022-01-12 |
 | [Find Love](https://open.spotify.com/track/7BaExHeRww0LxV4yuYIFSL) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 4:37 | 2022-01-30 | 2022-02-07 |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-12-04 |  |
-| [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 | 2022-12-04 |  |
+| [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 | 2022-12-04 | 2022-12-09 |
+| [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [宇多田ヒカル](https://open.spotify.com/artist/6MMLp7FXx1mewrxMaLr85Y) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2022-12-08 |  |
 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 | 2022-01-16 | 2022-02-21 |
 | [FLN](https://open.spotify.com/track/6mBNGsS8tPt8IqRIev50lY) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [vanitas](https://open.spotify.com/album/16XLHBZEggSq15PKsVG55t) | 3:15 | 2021-12-19 | 2022-02-07 |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2022-07-17 | 2022-08-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,812 likes - 499 songs - 19 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,957 likes - 499 songs - 19 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 48 | [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 |
 | 49 | [poolSide](https://open.spotify.com/track/2V33ELzmC3DA4hWxJoxjvX) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Korean BBQ](https://open.spotify.com/album/0sxHgW3KYTmRfFq0qubtvU) | 2:36 |
 | 50 | [Satisfaction](https://open.spotify.com/track/0Etu29i3NNSXE2KufX3xC2) | [Mysterybops](https://open.spotify.com/artist/3Kz2x1edaxHzoe69LxWK4n) | [Satisfaction](https://open.spotify.com/album/2MeZ3MCw3QFquMCctLFokJ) | 1:52 |
-| 51 | [Connecting The Dots](https://open.spotify.com/track/1fbJ6bWrCH9so8DgKhaBwO) | [Big Bitez](https://open.spotify.com/artist/5abYrnRwx1bZlAsZknHI1i) | [Connecting The Dots](https://open.spotify.com/album/2ja75xLADgouUnZqRPZOv3) | 2:09 |
+| 51 | [Connecting The Dots](https://open.spotify.com/track/1fbJ6bWrCH9so8DgKhaBwO) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Connecting The Dots](https://open.spotify.com/album/2ja75xLADgouUnZqRPZOv3) | 2:09 |
 | 52 | [Missy](https://open.spotify.com/track/0HYPLka9NuU4gUkDrJBBPb) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Missy](https://open.spotify.com/album/5d7P50lx2BxCPjV5gmNTsM) | 1:33 |
 | 53 | [Sensations](https://open.spotify.com/track/3rXKDTaZe8U8RVeSL88eJ4) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Sensations](https://open.spotify.com/album/3SIkmz1TSE0ReBKTZZ9x3E) | 2:39 |
 | 54 | [Grainy Dayz](https://open.spotify.com/track/14EaKQo3LQb24sUd6m8DP9) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Grainy Dayz](https://open.spotify.com/album/3lFgsn0Mw3QSuwhFTtJ0MH) | 2:14 |

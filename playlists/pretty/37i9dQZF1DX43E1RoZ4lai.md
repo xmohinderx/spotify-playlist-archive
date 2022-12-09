@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,515 likes - 200 songs - 17 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,546 likes - 200 songs - 17 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 17 | [Spring of Life](https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Via de la Plata](https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI) | 3:35 |
 | 18 | [The Duke](https://open.spotify.com/track/6RQBoUXjtB1YmUjtPb9WbA) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:45 |
 | 19 | [Stay Now](https://open.spotify.com/track/7hC1pSoxiMsK5pUqZGiyrV) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 2:49 |
-| 20 | [Moon River](https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:46 |
-| 21 | [It's Beginning To Rain Again](https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 4:47 |
+| 20 | [It's Beginning To Rain Again](https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 4:47 |
+| 21 | [Moon River](https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:46 |
 | 22 | [For Heaven's Sake](https://open.spotify.com/track/6u4xBwvs0pkkgVyMXrFC9N) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 11:52 |
 | 23 | [The Circle](https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:56 |
 | 24 | [Street Of Dreams](https://open.spotify.com/track/6lpUeTYRtxreTFCUkUHYxr) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 5:20 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [Flow](https://open.spotify.com/track/28hMFaf5ZaoiGVSRODVFPH) | [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo), [Jerad Lippi](https://open.spotify.com/artist/6f0ul5oNqpBr2Cfk2GohbZ), [Rick Rosato](https://open.spotify.com/artist/3HKWvinOyxbprcbgmbycY4) | [Moments in Trio III \- Roads](https://open.spotify.com/album/52oqKAmMQ7KmBBCzbaeKpl) | 8:12 |
 | 200 | [Aquello](https://open.spotify.com/track/4KAvEGHDIo0bWO6fk9lKQr) | [Hugo Fattoruso](https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9) | [Aquello](https://open.spotify.com/album/1UKFaf4A41MDSjTLSugTWH) | 3:03 |
 
-Snapshot ID: `MTY2OTk5NjE0NCwwMDAwMDAwMDcyOTQwODJhNWY5NjY0ZGMxMWI1NmYzNjc4MWY2ZDg2`
+Snapshot ID: `MTY2OTk5NjE0NCwwMDAwMDAwMGU5YTE5MzMyYmRkNjhlOGJjYjU1Yjc2ZWI1NGFhOWY0`

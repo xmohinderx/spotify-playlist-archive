@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Puro L.
 
-252 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+253 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Affaire](https://open.spotify.com/track/2jwAom7XMWKifWOHK89I6T) | [Karma](https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq) | [Affaire](https://open.spotify.com/album/4Jh4GBieaE8tFEGgmLRzF5) | 3:05 | 2022-09-22 | 2022-10-21 |
 | [Agradeço](https://open.spotify.com/track/1eWINvz1NEVXyskFINj5nT) | [Mary Jane](https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau), [Uest](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5) | [Agradeço](https://open.spotify.com/album/5vbXuxtOKdySOWQ3kYWy7g) | 2:58 | 2022-07-07 | 2022-08-05 |
 | [Ainda sou o mesmo](https://open.spotify.com/track/2HOtjAjvFg8iT4DBheoc7m) | [C\-Jay Pharrell](https://open.spotify.com/artist/1PcrxA9clS0kWu7zpa74tj) | [Ainda sou o mesmo](https://open.spotify.com/album/55pNgUIZqZa8FclThuEDRP) | 3:27 | 2022-11-11 |  |
-| [Airbnb Freestyle](https://open.spotify.com/track/6gWKFWHDOscj9Tpj0WGf44) | [Caixa Cartão Collective](https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk), [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs), [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR), [Tsubasa](https://open.spotify.com/artist/5WotU7HWC7eE9St4p10UV7) | [Airbnb Freestyle](https://open.spotify.com/album/1xRl3OUfHPzTL38VdfVrm8) | 2:26 | 2022-11-11 |  |
+| [Airbnb Freestyle](https://open.spotify.com/track/6gWKFWHDOscj9Tpj0WGf44) | [Caixa Cartão Collective](https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk), [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs), [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR), [Tsubasv](https://open.spotify.com/artist/12LDzeztDQ0bk2C3SHjh7i) | [Airbnb Freestyle](https://open.spotify.com/album/1xRl3OUfHPzTL38VdfVrm8) | 2:26 | 2022-11-11 |  |
 | [Alô](https://open.spotify.com/track/6BEujpD6k3AQqe7HlqURvJ) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U), [Heidje](https://open.spotify.com/artist/5tm9w5jaG6pvK8Z0iRF0qx) | [Icônico](https://open.spotify.com/album/63AQQ7Eh9MIPM5EbPXfpu6) | 3:31 | 2022-10-13 |  |
 | [Amg](https://open.spotify.com/track/6iQTV3skdpN6cWxtE7m27j) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Amg](https://open.spotify.com/album/4cS4lBMnyhNcvntpKhgDFy) | 3:05 | 2022-07-07 | 2022-09-09 |
 | [Anonymous](https://open.spotify.com/track/3K27rwWRxMEKCUmbnb9xXn) | [Hebecz](https://open.spotify.com/artist/6cxNecG2Z0Z4IKrgPLV49W), [O NÚCLEO 360](https://open.spotify.com/artist/2an0HLAQrLuRmr2z4OAl7O) | [Anonymous](https://open.spotify.com/album/3IsEzzDit3f383Jee4Y0jA) | 3:19 | 2022-11-25 |  |
@@ -212,6 +212,7 @@
 | [SIM PODI](https://open.spotify.com/track/1JyBdqo55z9hrdgtJ9iFfl) | [Mr\. Energy Na Casa](https://open.spotify.com/artist/7heoEfCwom2oXBac7x1Tn2) | [LIFE AS IT IS \(PART 2\)](https://open.spotify.com/album/3IelcM5VNrEu908zaj88t6) | 3:26 | 2022-09-22 | 2022-11-18 |
 | [Sin Sabeba](https://open.spotify.com/track/7cAiu8YUA2jh7GVqeX1v0Q) | [Macedo](https://open.spotify.com/artist/6aT1iBRpYCMHxfJAvUQvTG) | [Sin Sabeba](https://open.spotify.com/album/1UH7XXbG4uV2NKAqEG4Yg2) | 2:21 | 2022-07-07 | 2022-08-02 |
 | [Sinto](https://open.spotify.com/track/5Uf9UCWdE5mBVI1R3cNuGy) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Sinto](https://open.spotify.com/album/0Yvz5ibzYfetFuhy2BcsCL) | 2:52 | 2022-08-25 | 2022-12-02 |
+| [So Sick](https://open.spotify.com/track/4SZuZcxa86uaUGNXPVoSXu) | [APB](https://open.spotify.com/artist/6eyIjGhCnXKxFQak3Q037A), [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE) | [So Sick](https://open.spotify.com/album/23KPZXrBoAA6Jmloc5rwex) | 2:29 | 2022-12-02 |  |
 | [Sodadi Nhas Brodas](https://open.spotify.com/track/7xpRwfQk4qTQyOZuyJjQBs) | [MM Apl](https://open.spotify.com/artist/0KcJBLwVL3uO3FwvrVqLrf) | [Igual & Diferente](https://open.spotify.com/album/1h5gq0OGeAu1R2STRzfejY) | 2:48 | 2022-07-07 | 2022-08-12 |
 | [Sonhar](https://open.spotify.com/track/1jdkbqMCGE0E18Pk2aOawJ) | [Pta](https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA) | [Sonhar](https://open.spotify.com/album/5kmrJzY3TS0ZkGUB0CvjoI) | 2:55 | 2022-10-20 |  |
 | [Sou Melhor](https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Sou Melhor](https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73) | 3:05 | 2022-11-25 |  |

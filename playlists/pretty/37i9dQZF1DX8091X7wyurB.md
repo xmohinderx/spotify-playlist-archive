@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,384 likes - 80 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,475 likes - 80 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 79 | [Shower Me](https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6) | [Sam Oladotun](https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c) | [Shower Me](https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe) | 3:31 |
 | 80 | [Mo Ne Yo](https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Mo Ne Yo](https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit) | 4:29 |
 
-Snapshot ID: `MTY2OTM2MjUzMSwwMDAwMDAwMDcyMGYwNDg3MzdlZjYxNWFiZDA2MjBkMWNkYTc5Y2Vh`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGExODUwZmU3NjNlYWY1Y2NlNmEyZjMzYjUwOGY0MWRk`

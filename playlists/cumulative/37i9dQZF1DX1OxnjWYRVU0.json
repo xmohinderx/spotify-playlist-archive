@@ -5677,6 +5677,24 @@
     {
       "album": {
         "name": "My Pony",
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
+    },
+    {
+      "album": {
+        "name": "My Pony",
         "url": "https://open.spotify.com/album/6Z8k55chq0AjqaYbaMX2tp"
       },
       "artists": [
@@ -5687,7 +5705,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 153414,
       "name": "My Pony",
       "url": "https://open.spotify.com/track/6Qpm8XBZ0CrASw7cTMap99"
@@ -7219,7 +7237,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 153442,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/01T0m32L0lgGS8EJTbN26x"
@@ -7241,7 +7259,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 153442,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1m59435sSAVd0F9TfZLoaQ"

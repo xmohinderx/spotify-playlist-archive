@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,055 likes - 67 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,083 likes - 67 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chill Maaro Chill Maaro](https://open.spotify.com/track/7EFE9jUQ0uFTQ69xWQtixm) | [Mahathi Swara Sagar](https://open.spotify.com/artist/1XjPpEBw4dLao4gNgoKhmz), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Macherla Niyojakavargam](https://open.spotify.com/album/22mNmPQpxxjSbQCJqBe44q) | 3:32 |
+| 1 | [Chill Maaro Chill Maaro](https://open.spotify.com/track/7EFE9jUQ0uFTQ69xWQtixm) | [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Macherla Niyojakavargam](https://open.spotify.com/album/22mNmPQpxxjSbQCJqBe44q) | 3:32 |
 | 2 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 |
 | 3 | [Ramuloo Ramulaa \- Duet](https://open.spotify.com/track/4uXJADmybUHUgycBWFHeq6) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/2bP0035NHBzesL59OgAu0M) | 4:05 |
 | 4 | [Gudilo Badilo Madilo](https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q) | [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:24 |

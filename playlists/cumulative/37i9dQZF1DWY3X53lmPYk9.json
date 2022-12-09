@@ -808,6 +808,24 @@
     },
     {
       "album": {
+        "name": "Doin Nothing",
+        "url": "https://open.spotify.com/album/2I8JDTsc8gRIcZYFBwElyW"
+      },
+      "artists": [
+        {
+          "name": "Seth Liane",
+          "url": "https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233242,
+      "name": "Doin Nothing",
+      "url": "https://open.spotify.com/track/7uQGl7eCMmeb7yuKwkEmaO"
+    },
+    {
+      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
       },
@@ -2965,6 +2983,24 @@
       "duration_ms": 281840,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/48VBjzx0eH2CkOEjBDlxft"
+    },
+    {
+      "album": {
+        "name": "Sweet And Lovely",
+        "url": "https://open.spotify.com/album/68praxj4zGWVqDHxwN7wex"
+      },
+      "artists": [
+        {
+          "name": "Ray Royston",
+          "url": "https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210115,
+      "name": "Sweet And Lovely",
+      "url": "https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Quinn <br/>XCII, Chelsea Cutler
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,473 likes - 94 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,590 likes - 94 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 30 | [Machine Learning](https://open.spotify.com/track/3rpqdjRLuBGDfGHyAMD55v) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Machine Learning](https://open.spotify.com/album/5WIvlCtH4dpYfdaXF9sJfX) | 2:35 |
 | 31 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 |
 | 32 | [Men On The Moon](https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Men On The Moon](https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr) | 3:40 |
-| 33 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
+| 33 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
 | 34 | [georgia](https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 3:30 |
 | 35 | [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 |
 | 36 | [loving u is harder](https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [loving u is harder](https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi) | 2:27 |

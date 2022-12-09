@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 353338,
+  "num_followers": 353851,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMDhiZDE2NzQ2MGM0NzdiNTZkMWE4MDhmZGYzZTEzM2Fm",
+  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMGQ0Y2JlYjRiNjUzZWM5MGYyNjIyNWFjNmEwZGFkZmY0",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
       },
@@ -1503,22 +1487,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Mo'Hogany",
-        "url": "https://open.spotify.com/album/1jTqD4utNazxT97NBcIL7G"
-      },
-      "artists": [
-        {
-          "name": "Monifah",
-          "url": "https://open.spotify.com/artist/7peqq4aACFkBwIWGG0YRJ9"
-        }
-      ],
-      "duration_ms": 285826,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3upCmUgdchN3u0vkedbC5S"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Fear Of Flying",
         "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
       },
@@ -1531,6 +1499,38 @@
       "duration_ms": 236826,
       "name": "Case Of The Ex (Whatcha Gonna Do)",
       "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Mo'Hogany",
+        "url": "https://open.spotify.com/album/1jTqD4utNazxT97NBcIL7G"
+      },
+      "artists": [
+        {
+          "name": "Monifah",
+          "url": "https://open.spotify.com/artist/7peqq4aACFkBwIWGG0YRJ9"
+        }
+      ],
+      "duration_ms": 285826,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3upCmUgdchN3u0vkedbC5S"
     },
     {
       "added_at": "2022-08-02 10:25:51",

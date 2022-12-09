@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,790 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,820 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [慢游](https://open.spotify.com/track/552yML9hhVhJaWDsd1iKeK) | [房东的猫](https://open.spotify.com/artist/2yna2YeKL1Mh1w6VZVBcOz) | [慢游](https://open.spotify.com/album/7m7tn8hXQNmQpOgIRKxqcb) | 4:33 |
-| 2 | [無意 \- Live Session](https://open.spotify.com/track/0EjyhLHd0ajxqaQAPiQKO1) | [So\-So Heroes 瘦瘦英雄](https://open.spotify.com/artist/2N9RYbFNaumoJTEw67qsBt) | [無意 \(Live Session\)](https://open.spotify.com/album/7geWheVQ57ZQ6xZaV9yk0b) | 4:12 |
-| 3 | [Thank You \(Acoustic Version\)](https://open.spotify.com/track/0V75pOC9kDcSy94Ch3ChQ0) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [Thank You \(Acoustic Version\)](https://open.spotify.com/album/4BK2pzxYpwVqeuGosGCHBf) | 3:41 |
-| 4 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
-| 5 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 |
-| 6 | [Make Wish](https://open.spotify.com/track/5NClrn8SgIijP7znDJUld1) | [謝孟其](https://open.spotify.com/artist/0JINcCQEGV2Qzda5MfXZ9H) | [Make Wish](https://open.spotify.com/album/00ufstiEUpSdOKZQMigttd) | 3:29 |
+| 1 | [當我閉上眼](https://open.spotify.com/track/2M9aaOChY4DBfhYy2ZaPza) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [這世界怎麼會變得跟我想的不一樣](https://open.spotify.com/album/0N4uMClwRGyMbzILNHs7NM) | 2:32 |
+| 2 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
+| 3 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 |
+| 4 | [Thank You \(Acoustic Version\)](https://open.spotify.com/track/0V75pOC9kDcSy94Ch3ChQ0) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [Thank You \(Acoustic Version\)](https://open.spotify.com/album/4BK2pzxYpwVqeuGosGCHBf) | 3:41 |
+| 5 | [無意 \- Live Session](https://open.spotify.com/track/0EjyhLHd0ajxqaQAPiQKO1) | [So\-So Heroes 瘦瘦英雄](https://open.spotify.com/artist/2N9RYbFNaumoJTEw67qsBt) | [無意 \(Live Session\)](https://open.spotify.com/album/7geWheVQ57ZQ6xZaV9yk0b) | 4:12 |
+| 6 | [慢游](https://open.spotify.com/track/552yML9hhVhJaWDsd1iKeK) | [房东的猫](https://open.spotify.com/artist/2yna2YeKL1Mh1w6VZVBcOz) | [慢游](https://open.spotify.com/album/7m7tn8hXQNmQpOgIRKxqcb) | 4:33 |
 | 7 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
 | 8 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 |
 | 9 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 46 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 |
 | 47 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
 | 48 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 |
-| 49 | [孤島](https://open.spotify.com/track/5HjUtNIFOcZW4piqXBHno6) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [孤島](https://open.spotify.com/album/1IqR6BuJvginXpQ1ZIqO8P) | 3:14 |
-| 50 | [其實你並沒那麼孤單](https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 3:04 |
+| 49 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
+| 50 | [孤島](https://open.spotify.com/track/5HjUtNIFOcZW4piqXBHno6) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [孤島](https://open.spotify.com/album/1IqR6BuJvginXpQ1ZIqO8P) | 3:14 |
 
-Snapshot ID: `MTY2OTkxMDQwMCwwMDAwMDAwMDg0ZjRhYWE0YTk5NmY2YWVhYTEyMTA1NzM1ZjRlN2Y1`
+Snapshot ID: `MTY3MDUxNTIwMCwwMDAwMDAwMDYyYjFhMWNjMjgyM2JhZTdjZGU3NmE5NDBhNmEzNTY5`

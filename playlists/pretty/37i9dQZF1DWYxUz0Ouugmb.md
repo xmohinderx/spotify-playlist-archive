@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: raissa anggiani
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shakira Jasmine
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,980 likes - 45 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,051 likes - 45 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 44 | [Meant 2 Be \(Stripped Version\)](https://open.spotify.com/track/6rYi8GI5jEUCYSHYZSlpvZ) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be \(Stripped Version\)](https://open.spotify.com/album/4VlVn6uG7iXD7H9Onqb6c8) | 5:03 |
 | 45 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 |
 
-Snapshot ID: `MTY2OTkxNDAwMCwwMDAwMDAwMDBlNjE4NDI1MTVhMjM5ZTQxYTU4Y2UyOTQ3ZDBmZGZm`
+Snapshot ID: `MTY3MDUxODgwMCwwMDAwMDAwMDliODI2NGZiOTQzY2FjYjk3NmZiYjliMTI1Mzk3OGJl`

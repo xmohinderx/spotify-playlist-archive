@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,289 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,386 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 76 | [FUCK THE INDUSTRY \(feat\. Rondodasosa, Central Cee, Nko\)](https://open.spotify.com/track/0lWbTtEZCeej46pYi4LJMu) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 3:08 |
 | 77 | [Frero](https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Frero](https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2) | 3:00 |
 | 78 | [Thoiry Remix \(feat\. Gemitaiz, Quentin40, Puritano\) \- Samba Trap Vol\. 3 \- Mitraglia Rec](https://open.spotify.com/track/3Ej69N6aHGfSi4ERhwHRO8) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Puritano](https://open.spotify.com/artist/1DRmznzLP5EnFFGo4h1ZyW) | [Pour l'amour](https://open.spotify.com/album/7248m1lfoXH1fmy61NujXg) | 2:54 |
-| 79 | [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 |
-| 80 | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/track/6KF78W66DcQ9m5YqR0r5Ig) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/album/0p1nAaMSArHL3sz5XKVIsq) | 3:20 |
+| 79 | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/track/6KF78W66DcQ9m5YqR0r5Ig) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/album/0p1nAaMSArHL3sz5XKVIsq) | 3:20 |
+| 80 | [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 |
 
-Snapshot ID: `MTY3MDMxODI3NSwwMDAwMDAwMGM4MjQ4MWVhOTM4OWI3YzgyOWQ5MjUyMzZjZDBkYzNh`
+Snapshot ID: `MTY3MDMxODI3NSwwMDAwMDAwMDM0ZWIwZjE1MjllMDM1Zjk2NzE0ZThiNTcxYTA0NTUw`
