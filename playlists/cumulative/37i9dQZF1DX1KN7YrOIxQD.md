@@ -2,9 +2,9 @@
 
 ### [Éxitos Centroamérica](https://open.spotify.com/playlist/37i9dQZF1DX1KN7YrOIxQD)
 
-> Los éxitos del momento en Centroamérica, con Ozuna y Feid en portada.
+> Los éxitos del momento en Centroamérica, con Arcángel y Bad Bunny en portada.
 
-161 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/2V52nSYzBBJejzD9Aow8EK)
+162 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/2V52nSYzBBJejzD9Aow8EK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-10-08 | 2022-02-12 |
 | [Nasty](https://open.spotify.com/track/7ChKkRFKOxk9QR0C8fXPpK) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO) | [Procedente](https://open.spotify.com/album/7EIkMp1lhoELiFfNmYZaxb) | 3:38 | 2022-04-28 | 2022-06-04 |
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2022-10-14 |  |
+| [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-12-09 |  |
 | [Noche de Teteo](https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Noche de Teteo](https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx) | 3:22 | 2022-05-20 |  |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-15 |  |
 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 | 2022-06-17 | 2022-07-16 |
@@ -136,7 +137,7 @@
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-04-13 | 2022-10-01 |
 | [Se Le Ve](https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Se Le Ve](https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s) | 4:37 | 2022-01-21 | 2022-10-22 |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-10-08 | 2022-09-10 |
-| [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-12 |  |
+| [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-12 | 2022-12-10 |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2021-11-11 | 2022-02-05 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-10-08 | 2022-09-17 |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-04-01 | 2022-05-20 |

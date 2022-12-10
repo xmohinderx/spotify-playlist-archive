@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 225600,
       "name": "(They Call It) Stormy Monday",
       "url": "https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO"
@@ -544,6 +544,28 @@
     },
     {
       "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188493,
+      "name": "I'd Rather Drink Muddy Water - Live/1968",
+      "url": "https://open.spotify.com/track/7ykrjb0F8haiGHwXobEY1q"
+    },
+    {
+      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -757,7 +779,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 320066,
       "name": "Lover's Holiday",
       "url": "https://open.spotify.com/track/6tasaR3rJiSdRbuA9o5xop"
@@ -1367,7 +1389,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 120986,
       "name": "Unforgettable - Live",
       "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"

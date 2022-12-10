@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New music from Metro Boomin ft. The Weeknd & 21 Savage, A$AP Rocky, Nas, Latto is here! ",
+  "description": "New music from A Boogie Wit da Hoodie ft. Kodak Black, YG ft. Lil Wayne, and Polo G is here! ",
   "name": "Hip-Hop Central",
   "published_playlist_ids": [
     "524c90ob7nnH5efTtaRnrW"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 208269,
       "name": "90 Proof (with J. Cole)",
       "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 147435,
       "name": "Bag Talk",
       "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 154285,
       "name": "BET",
       "url": "https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl"
@@ -1356,6 +1356,24 @@
     },
     {
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144594,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
+    },
+    {
+      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 182533,
       "name": "Blow",
       "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
@@ -2904,6 +2922,24 @@
     },
     {
       "album": {
+        "name": "ALPHA PLACE (Deluxe)",
+        "url": "https://open.spotify.com/album/43990rLi4Lh9PkJBJ2m2TC"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117900,
+      "name": "Don't Look Up",
+      "url": "https://open.spotify.com/track/2hEzbMdKzJTcMSvUwXL153"
+    },
+    {
+      "album": {
         "name": "Don't Play That",
         "url": "https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx"
       },
@@ -3233,7 +3269,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 146635,
       "name": "Eye Spy",
       "url": "https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3"
@@ -3531,6 +3567,32 @@
       "duration_ms": 176151,
       "name": "Find That Girl",
       "url": "https://open.spotify.com/track/130HryWoyeI6Y7JxkWoLkN"
+    },
+    {
+      "album": {
+        "name": "Finger Food",
+        "url": "https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1"
+      },
+      "artists": [
+        {
+          "name": "Rolling Loud",
+          "url": "https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg"
+        },
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218413,
+      "name": "Finger Food",
+      "url": "https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ"
     },
     {
       "album": {
@@ -5139,7 +5201,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
@@ -6232,6 +6294,28 @@
     },
     {
       "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
+    },
+    {
+      "album": {
         "name": "Across The Board",
         "url": "https://open.spotify.com/album/7AhYf4qUNi9xkpc6JSgDPs"
       },
@@ -6503,6 +6587,24 @@
       "duration_ms": 383032,
       "name": "My 24th Birthday",
       "url": "https://open.spotify.com/track/5nXB98pCGSh1gXSovAlc0U"
+    },
+    {
+      "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197692,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
     },
     {
       "album": {
@@ -7758,6 +7860,24 @@
     },
     {
       "album": {
+        "name": "Quickie",
+        "url": "https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Quickie",
+      "url": "https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep"
+    },
+    {
+      "album": {
         "name": "R U That (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/2R7eCne1bINTDfQpaQ0h8h"
       },
@@ -8155,7 +8275,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 162236,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/7B2jL3UDbYPXO4zE1WBXw7"
@@ -8594,6 +8714,28 @@
     },
     {
       "album": {
+        "name": "Slime-U-Out (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/1oXlAZaZNjJRc2wGi0W6Wk"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "Slime-U-Out (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/73q28ToK6IQpMoE9w4c7Qm"
+    },
+    {
+      "album": {
         "name": "Slut Me Out",
         "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
       },
@@ -8631,7 +8773,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 253913,
       "name": "Sober (feat. Roddy Ricch & Post Malone)",
       "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
@@ -9260,6 +9402,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS (Heroes Version)",
+        "url": "https://open.spotify.com/album/4o9NExZng35wpV7pLKvuW0"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/1AJuDhb8wqV4gU5Ts6Htl5"
+    },
+    {
+      "album": {
         "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
         "url": "https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks"
       },
@@ -9385,7 +9553,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 281985,
       "name": "Take Shots (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
@@ -10497,7 +10665,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
@@ -10559,6 +10727,28 @@
       "duration_ms": 200486,
       "name": "Want It Bad (with Nigo)",
       "url": "https://open.spotify.com/track/6PzDwzYlw2gH6pYFQqNnFA"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
+      "url": "https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp"
     },
     {
       "album": {
@@ -10773,6 +10963,32 @@
       "duration_ms": 170270,
       "name": "Wheelie (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "album": {
+        "name": "Love Me or Don't",
+        "url": "https://open.spotify.com/album/5EHLCGL63KH1tIn82vAQoY"
+      },
+      "artists": [
+        {
+          "name": "Bslime",
+          "url": "https://open.spotify.com/artist/2EnD37GNRe2REqHBKqMnZQ"
+        },
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177222,
+      "name": "Whippin It",
+      "url": "https://open.spotify.com/track/1FukL3J30psHixQeIdN0ed"
     },
     {
       "album": {

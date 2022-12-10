@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 120 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 120 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 73 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
 | 74 | [don't pick up the phone](https://open.spotify.com/track/5j610MhjMLhyT2pPNy9Zj9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 2:34 |
 | 75 | [Tough](https://open.spotify.com/track/6u0gZDuXDZYfN8QWwnqxMZ) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [West Of The West](https://open.spotify.com/album/1CNxJCixrOSJxMo5pz5ZaP) | 3:44 |
-| 76 | [Fabulous](https://open.spotify.com/track/1nLj9iiZr3Bb3e0zYiyDfm) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [DMK](https://open.spotify.com/artist/6Jzb9QsxR4wkdtNxg108Aj) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 2:53 |
-| 77 | [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 |
-| 78 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
-| 79 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 |
+| 76 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 |
+| 77 | [Fabulous](https://open.spotify.com/track/1nLj9iiZr3Bb3e0zYiyDfm) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [DMK](https://open.spotify.com/artist/6Jzb9QsxR4wkdtNxg108Aj) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 2:53 |
+| 78 | [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 |
+| 79 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
 | 80 | [this christmas](https://open.spotify.com/track/0jWIUiQMQgrKVjkPEaRjK0) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:16 |
 | 81 | [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 |
 | 82 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/7x9BbeXnB9ehDjit1EVzwj) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 3:00 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 119 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 120 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjc4NDI0NzYsMDAwMDAwMDAyYzNmYjJmYjE0YTkwZjRmMzZjMGExYmQ5NzExNTI3NQ==`
+Snapshot ID: `Mjc4NDM5MTYsMDAwMDAwMDA1ZjVmZWY3NGM0M2M3ZDgyNzkwOTRkOTM5YmZjZDU3Ng==`

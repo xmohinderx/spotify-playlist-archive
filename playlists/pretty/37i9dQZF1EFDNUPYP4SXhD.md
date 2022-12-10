@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 927 likes - 159 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 928 likes - 159 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 158 | [Ella Pide De Eso](https://open.spotify.com/track/4OUcankxNe66OYymBu600u) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:22 |
 | 159 | [La Llevo Al Cielo](https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku) | [Kallde "El Rey Del Placer"](https://open.spotify.com/artist/2KQZ7yr0nr7NphqCy7QHRR) | [La Llevo Al Cielo](https://open.spotify.com/album/0M0ULIaP7cDdO9DpE06JwU) | 3:44 |
 
-Snapshot ID: `Mjc4NDI0NjIsMDAwMDAwMDAzNDliZTVlMTRjOWY5YWNmNjg5MDQ3MzNjZDRmZDg4MQ==`
+Snapshot ID: `Mjc4NDM5MDIsMDAwMDAwMDAzMDllYzIxNWY3MTcyNmQyZDY4MDFmMmFjMWI4YzU0Yw==`

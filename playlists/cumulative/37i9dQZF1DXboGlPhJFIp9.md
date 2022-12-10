@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-104 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+106 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Chorale Bloom](https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Chorale Bloom](https://open.spotify.com/album/1mzSDbGGXL5CXXTB8bEFYH) | 2:22 | 2022-06-24 |  |
 | [Clusters](https://open.spotify.com/track/2QHuP9PnPJuu8T3YrhGWLA) | [LUNA](https://open.spotify.com/artist/7xVi0DSU3QPrtx76T70CEi) | [Clusters](https://open.spotify.com/album/6PVMPpV2c8hgr85kOh2LWN) | 2:34 | 2022-07-08 |  |
 | [cold start](https://open.spotify.com/track/1oRYeH614gcXBYZMjjvnOz) | [RRST](https://open.spotify.com/artist/3nPrEz2yxxCTnR2yPHiFo6) | [cold start](https://open.spotify.com/album/50bVrDOjalJh8BlPpsNHYZ) | 2:32 | 2022-05-13 |  |
+| [Color](https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Color](https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e) | 2:50 | 2022-12-09 |  |
 | [Comfort](https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Comfort](https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2) | 2:24 | 2022-05-13 |  |
 | [Count Me In](https://open.spotify.com/track/1BHe1rqxhkVlJctZQ9nzIY) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 3:00 | 2022-05-13 |  |
 | [Crows](https://open.spotify.com/track/0GZRJWAb08RLUPHyP6uWcY) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Condor](https://open.spotify.com/album/71NA8lopGqU0sPiaGvrX5j) | 2:39 | 2022-05-13 |  |
@@ -47,6 +48,7 @@
 | [Heavy Sun](https://open.spotify.com/track/3Qpwi2wStbfsZBmULlVFpS) | [Appletrove](https://open.spotify.com/artist/0FkbvhIhFy46IGyR4Ah1Pd) | [Sometimes I Wish](https://open.spotify.com/album/64swfOKUaHH7FCD7QdEBnW) | 2:49 | 2022-05-13 |  |
 | [Hidden Chambers](https://open.spotify.com/track/4iNlPrMJCvBjakWljscabH) | [Marlee Tuaine](https://open.spotify.com/artist/2qRSibliMCzMBIIUqMqaRB) | [Fragmented Thoughts](https://open.spotify.com/album/0aZWKOxr4JMCSIpVAmBR2T) | 2:49 | 2022-05-13 |  |
 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 | 2022-05-13 |  |
+| [Humility](https://open.spotify.com/track/1735HNwXBqKdNN45fVr0Gp) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Humility](https://open.spotify.com/album/1AkyFuT4waQ9t6wvCMKzdJ) | 2:25 | 2022-12-09 |  |
 | [I Blomstertid](https://open.spotify.com/track/3kclS24SfhIIqoof9pMFhj) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 3:19 | 2022-05-13 |  |
 | [Interweave](https://open.spotify.com/track/6LvmN1802Bk6Tcem36utnB) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Interweave](https://open.spotify.com/album/2HMXhnCNU1aDzIigeKLySH) | 2:20 | 2022-06-24 |  |
 | [Jalons](https://open.spotify.com/track/5ubuyElg33ARspfgM0z2yt) | [Rayonner](https://open.spotify.com/artist/4NbV8Mk4JMa3yT4jv4hMRU) | [Jalons](https://open.spotify.com/album/2TDbQKV43hTLTZKP9egS3u) | 2:31 | 2022-10-14 |  |

@@ -4,12 +4,13 @@
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-82 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
+84 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All I Need](https://open.spotify.com/track/52cNWMjV7pwVsWDzjD3cgx) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [All I Need](https://open.spotify.com/album/2aFgqnVwmGCfQnhXODX0os) | 6:41 | 2022-06-23 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 | 2022-06-23 |  |
+| [Another Plan of Attack](https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Another Plan of Attack](https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k) | 6:34 | 2022-12-09 |  |
 | [Arcadia](https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Moon Cabin](https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg) | 6:35 | 2022-06-23 |  |
 | [Babyman](https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Circles Around the Sun](https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy) | 5:57 | 2022-06-23 |  |
 | [Blow You Away](https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4) | [Daniel Hardin](https://open.spotify.com/artist/4qWbNJklW8aRvZSb8gCi22), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Blow You Away](https://open.spotify.com/album/70MEaXYusonEFxCPoKnvsi) | 4:49 | 2022-06-23 | 2022-08-13 |
@@ -61,7 +62,7 @@
 | [Outer Boroughs](https://open.spotify.com/track/5EzcAEZEjRBT6BplnklT1Y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Outer Boroughs](https://open.spotify.com/album/1D31I5VNHglxOfY2QKQCok) | 7:28 | 2022-11-11 |  |
 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 | 2022-07-01 |  |
 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 | 2022-09-23 | 2022-10-01 |
-| [Random Company](https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Best in Show](https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC) | 8:05 | 2022-06-23 |  |
+| [Random Company](https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Best in Show](https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC) | 8:05 | 2022-06-23 | 2022-12-10 |
 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 | 2022-06-23 |  |
 | [Revival](https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 3:35 | 2022-06-23 |  |
 | [Ride](https://open.spotify.com/track/5KLqBabjr419nnfVZEgOUH) | [Fletcher's Grove](https://open.spotify.com/artist/46JSKePtGJVPmXF45GYrQs) | [Fletcher's Grove](https://open.spotify.com/album/3KNs4EEZm7mt7h8O7Gqszf) | 6:24 | 2022-06-23 | 2022-07-21 |
@@ -78,7 +79,7 @@
 | [The Road](https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 7:13 | 2022-06-23 | 2022-08-27 |
 | [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/track/69m1VanYi7q6ZiDLuMucWJ) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/album/2qF9GzUH5M7k5fvj4Rq1bB) | 1:10 | 2022-10-28 | 2022-11-12 |
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
-| [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 |  |
+| [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 | 2022-12-10 |
 | [Trouble Overnight](https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4) | [Zach Nugent](https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn) | [Trouble Overnight](https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle) | 6:48 | 2022-09-16 |  |
 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 | 2022-06-23 |  |
 | [Waltz of a Thousand Stars](https://open.spotify.com/track/4k3QVmtqLh2fu7sE5zfJeU) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [Waltz of a Thousand Stars](https://open.spotify.com/album/6Nr0Ma9gfD1Uq4jOrNh6Ju) | 2:40 | 2022-09-23 | 2022-10-29 |
@@ -89,6 +90,7 @@
 | [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 | 2022-07-29 |
 | [Wishing Well](https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Dreams](https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S) | 4:50 | 2022-11-11 |  |
 | [Yes We Can Can](https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Yes We Can Can](https://open.spotify.com/album/471new68y9IZShdxJHtCUT) | 4:43 | 2022-09-02 | 2022-09-26 |
+| [You’re a Catman](https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [You're a Catman](https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF) | 5:42 | 2022-12-09 |  |
 | [Zoom Out](https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Zoom Out](https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC) | 4:22 | 2022-10-21 |  |
 
 \*This playlist was first scraped on 2022-06-28. Prior content cannot be recovered.

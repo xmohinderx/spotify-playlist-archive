@@ -1,12 +1,12 @@
 {
   "description": "ft. 100 gecs ",
-  "num_followers": 353514,
+  "num_followers": 353758,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM1NTU1NSwwMDAwMDAwMGUxNzNjMjNlMjk2MDExM2I2MmMxMWM2MDQxZmE4MmNi",
+  "snapshot_id": "MTY3MDU2MzUwMCwwMDAwMDAwMDQ4ZGZhOWVhMTliZTZlZTU2YTYxMzVhYzUyNzk2M2E1",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -63,6 +63,26 @@
       "duration_ms": 180740,
       "name": "So Clear (umru corrosion)",
       "url": "https://open.spotify.com/track/6eE2XyXIvINbBfu4zaILUX"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "Superstar : The Remixes",
+        "url": "https://open.spotify.com/album/71mi9VWItmUtvIidIgo1Pj"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        },
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        }
+      ],
+      "duration_ms": 138082,
+      "name": "Just Another Day - Petal Supply Remix",
+      "url": "https://open.spotify.com/track/40DhYNOtlg5vro3eXfp54V"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -205,6 +225,22 @@
       "url": "https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H"
     },
     {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "rave",
+        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 117624,
+      "name": "two",
+      "url": "https://open.spotify.com/track/2t6m7AWTXQxA892kcJUcZZ"
+    },
+    {
       "added_at": "2022-11-18 05:09:00",
       "album": {
         "name": "bugging!",
@@ -235,6 +271,22 @@
       "duration_ms": 304366,
       "name": "Sister Species",
       "url": "https://open.spotify.com/track/49aOLd5b1fQQGZ2ILd1k5a"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "Rust Genome",
+        "url": "https://open.spotify.com/album/7Bvsv8ZkphwhIZvSZ8bFRk"
+      },
+      "artists": [
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        }
+      ],
+      "duration_ms": 187764,
+      "name": "Rust Genome",
+      "url": "https://open.spotify.com/track/66WNZqIK4YcvkeM6CBEuTh"
     },
     {
       "added_at": "2022-11-18 05:09:00",
@@ -305,6 +357,26 @@
       "url": "https://open.spotify.com/track/2lQvwqK0xkUqxrm5W9YtQW"
     },
     {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "outta my head",
+        "url": "https://open.spotify.com/album/6DkKylYfond5JckZlobycm"
+      },
+      "artists": [
+        {
+          "name": "erdo",
+          "url": "https://open.spotify.com/artist/6PJIOlZNKwk8WHovQreCNs"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "outta my head",
+      "url": "https://open.spotify.com/track/3gNftAHW7iwmDO5EbtwA2j"
+    },
+    {
       "added_at": "2022-11-18 05:09:00",
       "album": {
         "name": "fisheye",
@@ -339,6 +411,26 @@
       "duration_ms": 110063,
       "name": "what about us",
       "url": "https://open.spotify.com/track/2GkxqzH0bBeX5ELUfSyMRb"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "chronic",
+        "url": "https://open.spotify.com/album/4YKm0gBgvrjq1tmKYzF961"
+      },
+      "artists": [
+        {
+          "name": "twikipedia",
+          "url": "https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj"
+        },
+        {
+          "name": "d0llywood1",
+          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
+        }
+      ],
+      "duration_ms": 132828,
+      "name": "line sayer",
+      "url": "https://open.spotify.com/track/4JPHUiX9RK8ZQvlhHMJW7o"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -425,6 +517,22 @@
       "url": "https://open.spotify.com/track/5mC44S74jDK8SDWE2ahtw6"
     },
     {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "givemetoyou",
+        "url": "https://open.spotify.com/album/1BKEbwH7U87Xe9OdXvBXzv"
+      },
+      "artists": [
+        {
+          "name": "sqip",
+          "url": "https://open.spotify.com/artist/6DL4rhjtux4udnPtjnFy1B"
+        }
+      ],
+      "duration_ms": 228223,
+      "name": "givemetoyou",
+      "url": "https://open.spotify.com/track/1N1z5pDT7K5xA4OrZk4g3i"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "rave",
@@ -471,6 +579,26 @@
       "duration_ms": 149691,
       "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
       "url": "https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "see fate",
+        "url": "https://open.spotify.com/album/785pXAKMollBedM0v1D3oC"
+      },
+      "artists": [
+        {
+          "name": "yosha",
+          "url": "https://open.spotify.com/artist/7FYXpBHFJDqIK9KE3xxzdT"
+        },
+        {
+          "name": "Yago",
+          "url": "https://open.spotify.com/artist/3xbnaZlP6XyseDzbMnlWB9"
+        }
+      ],
+      "duration_ms": 149670,
+      "name": "see fate",
+      "url": "https://open.spotify.com/track/39PfYbjjYkoN3jmRDwKtQy"
     },
     {
       "added_at": "2022-11-30 19:42:18",
@@ -527,6 +655,26 @@
       "duration_ms": 196675,
       "name": "Alprazalam",
       "url": "https://open.spotify.com/track/4RvzSExOo2Pyr9ov8YDMgb"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "b i g g i r l",
+        "url": "https://open.spotify.com/album/6LTppmdGEvm5F9OKOdyo5M"
+      },
+      "artists": [
+        {
+          "name": "Oh Boy",
+          "url": "https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt"
+        },
+        {
+          "name": "yergurl",
+          "url": "https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "b i g g i r l",
+      "url": "https://open.spotify.com/track/66PWpxakpxayUJorjjftha"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -599,6 +747,34 @@
       "duration_ms": 226779,
       "name": "Things I Never Nu",
       "url": "https://open.spotify.com/track/1NAYrYgd473ua418mz32xb"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "cheers2u",
+        "url": "https://open.spotify.com/album/4VY3gQhY46siJwlRXUS9jm"
+      },
+      "artists": [
+        {
+          "name": "Josua Natanael",
+          "url": "https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp"
+        },
+        {
+          "name": "Noya Clarissa",
+          "url": "https://open.spotify.com/artist/1lMzaA8LkKlY5UmD9tg4nf"
+        },
+        {
+          "name": "phxlxp",
+          "url": "https://open.spotify.com/artist/5yV37PpgTxOgP9GEkAtw4m"
+        },
+        {
+          "name": "Xora",
+          "url": "https://open.spotify.com/artist/5O9iSWpkO9CTPN6xs2oiRA"
+        }
+      ],
+      "duration_ms": 174838,
+      "name": "cheers2u",
+      "url": "https://open.spotify.com/track/1ZrhW6JrTcq1ZgIS8ABl8F"
     },
     {
       "added_at": "2022-11-25 05:02:00",
@@ -681,6 +857,26 @@
       "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
     },
     {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "F4r from Perf3ct",
+        "url": "https://open.spotify.com/album/5ltmIXGYvH33Kwktx9pBz4"
+      },
+      "artists": [
+        {
+          "name": "B4DFRi3ND",
+          "url": "https://open.spotify.com/artist/3PrnbuZ5zvFogv9uztdq1t"
+        },
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "F4r from Perf3ct",
+      "url": "https://open.spotify.com/track/0uurjifbGIlOt1gUeBB9DR"
+    },
+    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Flowerscent",
@@ -735,6 +931,26 @@
       "duration_ms": 175714,
       "name": "IMPOSTER SYNDROME",
       "url": "https://open.spotify.com/track/0kTRWMYmjuKOMpNhao3XMV"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "try!",
+        "url": "https://open.spotify.com/album/09izSbDgDXxbgdOYTZcD7F"
+      },
+      "artists": [
+        {
+          "name": "N33T",
+          "url": "https://open.spotify.com/artist/0I31JrgwiwwSqpZkQ9EmWe"
+        },
+        {
+          "name": "dobi",
+          "url": "https://open.spotify.com/artist/4QlfcAMb5uq3SwpHVRjace"
+        }
+      ],
+      "duration_ms": 136620,
+      "name": "try!",
+      "url": "https://open.spotify.com/track/1LCL2KQq5mJwb9rYwidGan"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -799,6 +1015,26 @@
       "duration_ms": 136557,
       "name": "HAHAH",
       "url": "https://open.spotify.com/track/4esa3tKLyvysJpj70fUCyK"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "Chemical (Ecstasya Remix)",
+        "url": "https://open.spotify.com/album/1eJLbETaOOtuFdvJQtLL6Q"
+      },
+      "artists": [
+        {
+          "name": "Trophie",
+          "url": "https://open.spotify.com/artist/267gjhlmcoscSuzUHiKqX8"
+        },
+        {
+          "name": "Ecstasya",
+          "url": "https://open.spotify.com/artist/4e1OmAo5dzrenUaHKQs4F0"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Chemical - Ecstasya Remix",
+      "url": "https://open.spotify.com/track/3kAwjHIumxDprlUvkEc7s4"
     },
     {
       "added_at": "2022-10-28 04:05:00",

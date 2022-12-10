@@ -700,6 +700,32 @@
     },
     {
       "album": {
+        "name": "Buy You a Drink",
+        "url": "https://open.spotify.com/album/1vDqaBpfHMJDluz91XspPR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        },
+        {
+          "name": "Austin Burke",
+          "url": "https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c"
+        },
+        {
+          "name": "Southbound xo",
+          "url": "https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199009,
+      "name": "Buy You a Drink",
+      "url": "https://open.spotify.com/track/7jV8yxLZRSptgZcnDhBk6p"
+    },
+    {
+      "album": {
         "name": "Car Trouble",
         "url": "https://open.spotify.com/album/6quccN4IpdGATlsFGDZW47"
       },

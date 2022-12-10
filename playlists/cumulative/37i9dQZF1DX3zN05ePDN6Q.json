@@ -1340,6 +1340,28 @@
     },
     {
       "album": {
+        "name": "Deixa Girar",
+        "url": "https://open.spotify.com/album/4FjIU21YzjyxdjUGD2aMzT"
+      },
+      "artists": [
+        {
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
+        },
+        {
+          "name": "Hermes MC",
+          "url": "https://open.spotify.com/artist/1Hbs5vIF6Ry4xM3awFcb1h"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211257,
+      "name": "Deixa Girar",
+      "url": "https://open.spotify.com/track/5vS3poJ0YgEYFJuyXzSSaI"
+    },
+    {
+      "album": {
         "name": "Depoimento",
         "url": "https://open.spotify.com/album/1M6ns1RMj8vsHGUjrTbBno"
       },

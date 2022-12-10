@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,131 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,148 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 25 | [Take It Back](https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:05 |
 | 26 | [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY) | 4:33 |
 | 27 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
-| 28 | [I Said I Love You](https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:05 |
+| 28 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
 | 29 | [Hurt You](https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:10 |
-| 30 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
+| 30 | [I Said I Love You](https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:05 |
 | 31 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
 | 32 | [I Want You](https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:19 |
 | 33 | [Roller Coaster](https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [There She Goes](https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:31 |
 | 50 | [Tender Lover](https://open.spotify.com/track/00GfGwzlSB8DoA0cDP2Eit) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 4:19 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyYTVhN2I2ZTFmYTMyNTkwN2Q1MjQ0MmIzNWNiZDg0Yw==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA1MGJjNTU1ZjA1YzliODU2MTk5Mjk5ZTg4MThjOWQyMw==`

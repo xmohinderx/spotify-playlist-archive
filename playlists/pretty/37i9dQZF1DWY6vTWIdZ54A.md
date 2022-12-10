@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,190 likes - 145 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,314 likes - 145 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 28 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 |
 | 29 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
 | 30 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 |
-| 31 | [This is Our Life](https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/7GIxrgLPIKexc7d5FwNtuX) | 3:44 |
+| 31 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
 | 32 | [Alter Ego](https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:08 |
 | 33 | [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 |
 | 34 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 144 | [Haunted Heart](https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:45 |
 | 145 | [Wannabe In L.A](https://open.spotify.com/track/68HGqHHc41qmJHUWlLUKCd) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WxHlLQsHHJ8lb4xQrb65A) | 2:15 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGJiMTFjMmI4MmMxMTE5Y2MzNTQ5OTMxYjQwZDQ5Mjkw`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDBlYmEwNTQ5Yzc2MzI4OWNhZDkyNGRmMDIxYWNlNjNi`

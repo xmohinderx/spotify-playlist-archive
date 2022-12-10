@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,826 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,834 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 49 | [Appreciation](https://open.spotify.com/track/0laArkVVQj7e5ld4oiN615) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:16 |
 | 50 | [Call It In The Air](https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Static Prevails \(Bonus Track Version\)](https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem) | 3:00 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBhZmNhNjljMzUxYWY3NTlmYzQwMjNhY2NjNmZiNzIwYg==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDAxYjA2MTlkOTE1MzYxMjJlNDY3ODczMmMyY2ViOGQ2ZA==`

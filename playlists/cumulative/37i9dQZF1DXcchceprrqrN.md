@@ -4,7 +4,7 @@
 
 > self\-reinvention never sounded so good.
 
-62 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/23FhSvlNczzZhdU1RZbwcI)
+63 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/23FhSvlNczzZhdU1RZbwcI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 | 2022-09-23 |  |
 | [Sober to Death](https://open.spotify.com/track/6kOHjAOLz9IvUiRGf72Kec) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 5:04 | 2022-09-23 |  |
 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 | 2022-09-23 |  |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-07 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-07 | 2022-12-10 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-07 |  |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 | 2022-09-26 |  |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-09-23 | 2022-10-22 |
 | [Stars](https://open.spotify.com/track/6bKQ8iw83w4iyACgoEzPt4) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:43 | 2022-09-23 |  |

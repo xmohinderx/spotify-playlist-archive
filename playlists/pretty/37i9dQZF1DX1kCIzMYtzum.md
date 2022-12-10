@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,489 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,653 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 99 | [Miss You](https://open.spotify.com/track/2lxoIZS8tpFwbiJyrDYguI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Miss You](https://open.spotify.com/album/6yNMqtPxykHsGzMJe9m5Fg) | 3:20 |
 | 100 | [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 |
 
-Snapshot ID: `MTY2OTk5NzgyOSwwMDAwMDAwMDEzYzVkMzBhNjQxYTQ2YWIxMmNkYjdjZjMzZWM2ZTAw`
+Snapshot ID: `MTY3MDYyNDUyMSwwMDAwMDAwMDA2MjI0YzIwNjhkMTgyM2E2YmNiZDkwY2ZhZGQwYmQ4`

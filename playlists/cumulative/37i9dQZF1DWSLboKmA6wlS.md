@@ -4,7 +4,7 @@
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: 4JUNE\. Artwork: Isu Kim
 
-196 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/0sFtnPcJ2xiQS1kZ7Io9aQ)
+196 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/0sFtnPcJ2xiQS1kZ7Io9aQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [GONE WRONG](https://open.spotify.com/track/0fMUKWa2f8k08C63fvgTS0) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [GONE WRONG](https://open.spotify.com/album/31ipuIIvVmKmatUi1toIPc) | 3:51 | 2022-09-29 |  |
 | [Hide](https://open.spotify.com/track/0ybrArSpriPb1gYcwB1mmc) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Hide](https://open.spotify.com/album/1jCeN8G9GqxgCOwMcYC4Aj) | 3:27 | 2022-09-15 | 2022-10-08 |
 | [How's Your Life](https://open.spotify.com/track/3nAgPiLvnbD9B6d3mu2BSV) | [BOOMB](https://open.spotify.com/artist/7cKDsBqZL3gFiw2X1IwhXU), [TOD SARAN](https://open.spotify.com/artist/667CTIN2z7GxUdH0eknTOL) | [Love Is Not Possession](https://open.spotify.com/album/6gzKb7uWc3wKjEglmni8U2) | 4:03 | 2022-09-15 | 2022-10-29 |
-| [I'm Not Okay](https://open.spotify.com/track/1t9uGRd8Zq4qmT2Bky8cd2) | [The KYLE](https://open.spotify.com/artist/0IQ0dKIOfKs1h7nIDcKBuW) | [I'm Not Okay](https://open.spotify.com/album/5IQFNDgXSWhTfFNFGxVGoM) | 2:57 | 2022-12-08 |  |
+| [I'm \(not\) okay](https://open.spotify.com/track/1t9uGRd8Zq4qmT2Bky8cd2) | [The KYLE](https://open.spotify.com/artist/0IQ0dKIOfKs1h7nIDcKBuW) | [I'm \(not\) okay](https://open.spotify.com/album/5IQFNDgXSWhTfFNFGxVGoM) | 2:57 | 2022-12-08 |  |
 | [LEMON PIE](https://open.spotify.com/track/39iGvcXuDJSRHeaio4XWDT) | [MOSSHU](https://open.spotify.com/artist/0QDPRZtbJVBBfiBVmRSwbD) | [LEMON PIE](https://open.spotify.com/album/6GXUJtlTFIrVRXosw7qAbF) | 2:46 | 2022-11-25 | 2022-12-02 |
 | [Life](https://open.spotify.com/track/4nGFArMFj3RGNMNQWvSUop) | [DAKOTA](https://open.spotify.com/artist/34DHAMuFy87C613bkwC9WO) | [Life](https://open.spotify.com/album/4SU8bfV8Kor1Ak1Rt6P2nm) | 4:30 | 2022-10-07 | 2022-10-22 |
 | [Love or Hate](https://open.spotify.com/track/1bLdJQNz6EMFtzTA9NlcdP) | [NSL](https://open.spotify.com/artist/1ivcHK8EtQIER7f6zAzujL) | [Love or Hate](https://open.spotify.com/album/0msQEDCAjsvPaEWuVI3PA9) | 3:44 | 2022-11-25 | 2022-12-09 |
@@ -160,7 +160,7 @@
 | [เก็บ \(ทุกเรื่องราว\)](https://open.spotify.com/track/6x5BISLNd78GPfbZ2oVYKU) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [เก็บ \(ทุกเรื่องราว\)](https://open.spotify.com/album/3kXCfnPkx41Lim1W5BcMf6) | 4:16 | 2022-10-28 |  |
 | [เงาข้างกาย](https://open.spotify.com/track/7EShhnNYbxv4ZDUW2Ggxqs) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [เงาข้างกาย](https://open.spotify.com/album/2dXuDFDRp7BYzIpOHEmu8Q) | 4:06 | 2022-09-23 | 2022-10-08 |
 | [เจอ เจ็บ จบ feat\. Chogun](https://open.spotify.com/track/6wGnte8IAtu9fxKcuVF2RP) | [SoulMade Sound](https://open.spotify.com/artist/27Yrj4QN7SEDL7mkrUPMVW), [Chogun](https://open.spotify.com/artist/6LXjIF1XHsFkB2bDfDsISG) | [เจอ เจ็บ จบ](https://open.spotify.com/album/3sh6h4nhXsd7IciQStpe7B) | 3:51 | 2022-09-15 |  |
-| [เช้านี้ตื่นมาคิดถึงเธออีกแล้ว \(Koki's song\)](https://open.spotify.com/track/02FOkx9rdT9u8Qgkom6yA0) | [A Little Bit High](https://open.spotify.com/artist/74m7Gc5TJuJ7IBAHjxDqzt) | [เช้านี้ตื่นมาคิดถึงเธออีกแล้ว \(Koki's song\)](https://open.spotify.com/album/4oyeAaAe18UtCbuIgJNPkg) | 3:47 | 2022-11-25 |  |
+| [เช้านี้ตื่นมาคิดถึงเธออีกแล้ว \(Koki's song\)](https://open.spotify.com/track/02FOkx9rdT9u8Qgkom6yA0) | [A Little Bit High](https://open.spotify.com/artist/74m7Gc5TJuJ7IBAHjxDqzt) | [เช้านี้ตื่นมาคิดถึงเธออีกแล้ว \(Koki's song\)](https://open.spotify.com/album/4oyeAaAe18UtCbuIgJNPkg) | 3:02 | 2022-11-25 |  |
 | [เดอเบค](https://open.spotify.com/track/2mqqkAtraSwAYRIUYJF6mW) | [Teenage](https://open.spotify.com/artist/1XfdQsl2CMLC402LyajjG9) | [เดอเบค](https://open.spotify.com/album/6Ep3YiivKmx4WbL865fwiV) | 3:50 | 2022-11-04 | 2022-11-19 |
 | [เธอชนะ \- MVP](https://open.spotify.com/track/2OBkf5gX5fWpXWWKpk3swO) | [paiiinntt](https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E) | [เธอชนะ \- MVP](https://open.spotify.com/album/0u1P7jg3dErJ6jAk01JPli) | 3:16 | 2022-10-21 | 2022-12-02 |
 | [เธอบอกฉันดีเกินไป](https://open.spotify.com/track/6O27RzH9RDLHlt12ijPkH0) | [EDDIE WALKiNG MAN](https://open.spotify.com/artist/0S5HXbCOxt8uv9waux7cmM) | [เธอบอกฉันดีเกินไป](https://open.spotify.com/album/6q8h8XjMz7aUCb68esXgGh) | 4:28 | 2022-10-07 | 2022-11-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,651 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,683 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 |
 | 100 | [Prelude to a Kiss](https://open.spotify.com/track/5Z9BMdHdZVOX5GXUtzaxr3) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 7:14 |
 
-Snapshot ID: `MTY3MDQyMDc5MCwwMDAwMDAwMDAwMzc2YWYzY2I3NGJmYjAyNTViMDM4YzJjNjQzMjk2`
+Snapshot ID: `MTY3MDU3MjYwNSwwMDAwMDAwMDIwNmJhYWRhOWRkN2Y4NWIxOThiOWNkYTA0YzJlNmU4`

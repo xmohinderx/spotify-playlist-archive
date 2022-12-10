@@ -2,9 +2,9 @@
 
 ### [Templo do Rock](https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN)
 
-> Grandes sucessos e novidades do rock Cristão\. Foto: Brunão Morada
+> Grandes sucessos e novidades do rock Cristão\. Foto: Mauro Henrique
 
-79 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/7oTc2fOi3oZW5UpwamTP2u)
+80 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/7oTc2fOi3oZW5UpwamTP2u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 | 2022-09-02 |  |
 | [Artifício](https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc) | [Marcelo Sissá](https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3) | [Artifício](https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC) | 3:12 | 2022-09-02 |  |
 | [Assume a Responsa](https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Assume a Responsa](https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8) | 4:19 | 2022-09-02 |  |
+| [Ateu](https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Ateu](https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb) | 4:05 | 2022-12-09 |  |
 | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE) | [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63) | 9:25 | 2022-09-02 |  |
 | [Baile das Máscaras](https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Baile das Máscaras](https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t) | 3:35 | 2022-09-02 |  |
 | [Cadê o Amor](https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y) | [Rozeniltton](https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Cadê o Amor](https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3) | 4:33 | 2022-10-14 | 2022-11-26 |
@@ -56,7 +57,7 @@
 | [Novo Gênesis \- Ao Vivo](https://open.spotify.com/track/1iWwHkE9rUvbDbiascv1LF) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [No Jardim Parte 1/3 \(Ao Vivo\)](https://open.spotify.com/album/1iSiezemfGT9mCzLzATNVX) | 5:13 | 2022-09-02 | 2022-10-15 |
 | [Náufrago](https://open.spotify.com/track/4S59qX21KI984gd80DhHCx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Hoje](https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z) | 4:04 | 2022-09-02 |  |
 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 | 2022-09-02 |  |
-| [O Mundo ao Seu Redor](https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a) | [O Maior Clichê do Mundo](https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w) | [O Mundo ao Seu Redor](https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K) | 3:08 | 2022-09-02 |  |
+| [O Mundo ao Seu Redor](https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a) | [O Maior Clichê do Mundo](https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w) | [O Mundo ao Seu Redor](https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K) | 3:08 | 2022-09-02 | 2022-12-10 |
 | [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 | 2022-11-25 |  |
 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 | 2022-09-02 |  |
 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/2DdXmwABkeRvYEwAttO5Gk) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [OH! Se Fendesses \(Ao Vivo\)](https://open.spotify.com/album/23W9YrV5f32i4boR90nsmj) | 6:22 | 2022-10-14 | 2022-11-13 |

@@ -668,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Eyez",
+        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Eyez",
+      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
+    },
+    {
+      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A"
       },

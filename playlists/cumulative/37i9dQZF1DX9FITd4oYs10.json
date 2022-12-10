@@ -434,7 +434,7 @@
     },
     {
       "album": {
-        "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
+        "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
       "artists": [
@@ -447,6 +447,10 @@
           "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
         },
         {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
@@ -455,12 +459,12 @@
           "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
         },
         {
-          "name": "Disstinto",
-          "url": "https://open.spotify.com/artist/7FDAabVIlVUaloRm7MA1Jy"
-        },
-        {
           "name": "Medulla",
           "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
+        },
+        {
+          "name": "Disstinto",
+          "url": "https://open.spotify.com/artist/7FDAabVIlVUaloRm7MA1Jy"
         }
       ],
       "date_added": "2022-08-01",

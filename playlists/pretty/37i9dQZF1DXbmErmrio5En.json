@@ -1,13 +1,209 @@
 {
   "description": "saturation, distortion, overdrive, feedBack. Cover: brakence",
-  "num_followers": 576,
+  "num_followers": 755,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM1NTY0OCwwMDAwMDAwMDY1ZDkxZjUyODcxYTM4NjkzMGEyOGYwNzM2YmRiNmY2",
+  "snapshot_id": "MTY3MDU2MjU0MCwwMDAwMDAwMDU3M2Y0NzNlMzhjNjRkYWY3NjBkZmFhOGIyNzYyMzM3",
   "tracks": [
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "Keep It Tucked",
+        "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 173576,
+      "name": "Keep It Tucked",
+      "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "with u",
+        "url": "https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "with u",
+      "url": "https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "sos",
+        "url": "https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 149627,
+      "name": "sos",
+      "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
+    },
+    {
+      "added_at": "2022-12-04 22:17:01",
+      "album": {
+        "name": "hypochondriac",
+        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "5g",
+      "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "Picking Up (feat. Deb Never)",
+        "url": "https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 175520,
+      "name": "Picking Up (feat. Deb Never)",
+      "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "Doubt Me (with aldn)",
+        "url": "https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 111380,
+      "name": "Doubt Me (with aldn)",
+      "url": "https://open.spotify.com/track/4ittbqP6lNt3n8mCsLRhBm"
+    },
+    {
+      "added_at": "2022-12-04 22:17:01",
+      "album": {
+        "name": "save yourself first",
+        "url": "https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs"
+      },
+      "artists": [
+        {
+          "name": "contradash",
+          "url": "https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "save yourself first",
+      "url": "https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "jealousy",
+        "url": "https://open.spotify.com/album/4RUrlqnlDk7HAQlruVR7SO"
+      },
+      "artists": [
+        {
+          "name": "familypet",
+          "url": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
+        },
+        {
+          "name": "fish narc",
+          "url": "https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU"
+        }
+      ],
+      "duration_ms": 168774,
+      "name": "jealousy",
+      "url": "https://open.spotify.com/track/1moK2L5Y2bftYzpGrcOU5X"
+    },
+    {
+      "added_at": "2022-12-04 22:17:01",
+      "album": {
+        "name": "biteback",
+        "url": "https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 122184,
+      "name": "biteback",
+      "url": "https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS"
+    },
+    {
+      "added_at": "2022-12-04 22:17:01",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "the world is ending and i can't stop crying over these frog boots",
+        "url": "https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7"
+      },
+      "artists": [
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "the world is ending and i can't stop crying over these frog boots",
+      "url": "https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT"
+    },
     {
       "added_at": "2022-12-04 22:17:01",
       "album": {
@@ -41,72 +237,20 @@
       "url": "https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP"
     },
     {
-      "added_at": "2022-12-04 22:17:01",
+      "added_at": "2022-12-09 05:09:00",
       "album": {
-        "name": "hypochondriac",
-        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
+        "name": "ihatefeelingthisway",
+        "url": "https://open.spotify.com/album/72me9cMEdcQxa0uwvEijen"
       },
       "artists": [
         {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+          "name": "inuday",
+          "url": "https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg"
         }
       ],
-      "duration_ms": 209706,
-      "name": "5g",
-      "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
-    },
-    {
-      "added_at": "2022-12-04 22:17:01",
-      "album": {
-        "name": "biteback",
-        "url": "https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 122184,
-      "name": "biteback",
-      "url": "https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS"
-    },
-    {
-      "added_at": "2022-12-04 22:17:01",
-      "album": {
-        "name": "save yourself first",
-        "url": "https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs"
-      },
-      "artists": [
-        {
-          "name": "contradash",
-          "url": "https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "save yourself first",
-      "url": "https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT"
-    },
-    {
-      "added_at": "2022-12-04 22:17:01",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
+      "duration_ms": 223921,
+      "name": "ihatefeelingthisway",
+      "url": "https://open.spotify.com/track/3IP5kKSUkqZcOLraMddHJy"
     },
     {
       "added_at": "2022-12-04 22:17:01",
@@ -607,38 +751,6 @@
       "duration_ms": 151322,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/6bMmTX6kZkCatybG4ZvYB1"
-    },
-    {
-      "added_at": "2022-12-04 22:17:01",
-      "album": {
-        "name": "sydney",
-        "url": "https://open.spotify.com/album/4gL0GCWQjkf2kaiMais7At"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 143225,
-      "name": "sydney",
-      "url": "https://open.spotify.com/track/6c7BepOWSpr5gL44cLKXRW"
-    },
-    {
-      "added_at": "2022-12-04 22:17:01",
-      "album": {
-        "name": "memoryland",
-        "url": "https://open.spotify.com/album/1afj4IR9BrWY65bk8kCglF"
-      },
-      "artists": [
-        {
-          "name": "CFCF",
-          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
-        }
-      ],
-      "duration_ms": 93076,
-      "name": "Punksong",
-      "url": "https://open.spotify.com/track/190XbsoF6JNbXk1K3ltQWk"
     },
     {
       "added_at": "2022-12-04 22:17:01",

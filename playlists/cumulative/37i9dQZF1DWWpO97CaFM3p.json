@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 245640,
       "name": "Cattails",
       "url": "https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z"
@@ -1549,6 +1549,24 @@
       "duration_ms": 197360,
       "name": "Home",
       "url": "https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194416,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0"
     },
     {
       "album": {

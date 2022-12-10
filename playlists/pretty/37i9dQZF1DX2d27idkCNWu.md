@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,471 likes - 90 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,527 likes - 90 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [Tell Me You Love Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7) | 4:07 |
 | 90 | [Blame It On Me \- Acoustic](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMGQ2ODY3MGM5MmNkYzIxMjQ5ZDdmYWYyMWRmNmQ1ZDk1`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDcxYTNiNzQ3OGNlOTYwNzZhYWI0ZGQ1MGVlMGQyOTZj`

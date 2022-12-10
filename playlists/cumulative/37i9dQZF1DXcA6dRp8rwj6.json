@@ -3415,7 +3415,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 202488,
       "name": "Cassette",
       "url": "https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld"
@@ -3433,7 +3433,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202488,
       "name": "Cassette",
       "url": "https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl"
@@ -4234,7 +4234,7 @@
       "artists": [
         {
           "name": "AINN",
-          "url": "https://open.spotify.com/artist/4Fzh679QC1iwpQXm2M6bgq"
+          "url": "https://open.spotify.com/artist/3q2Q5ZizaHq727uR0MIYMK"
         }
       ],
       "date_added": "2022-12-08",
@@ -9277,7 +9277,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 139090,
       "name": "LFG!",
       "url": "https://open.spotify.com/track/5MsO7aTFKXvUy8ziyLZYOX"
@@ -15460,6 +15460,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175328,
+      "name": "Still Life (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw"
+    },
+    {
+      "album": {
         "name": "unorthodox",
         "url": "https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd"
       },
@@ -16105,7 +16123,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 168641,
       "name": "TALK'N THAT SHIT!",
       "url": "https://open.spotify.com/track/6jXyW5q3GQHW6aCZJkToo8"
@@ -17261,6 +17279,28 @@
       "duration_ms": 216357,
       "name": "Too Hot (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9"
+    },
+    {
+      "album": {
+        "name": "So Icy Boyz: The Finale",
+        "url": "https://open.spotify.com/album/5Rb7JdsT1IEITEMgUqcWq2"
+      },
+      "artists": [
+        {
+          "name": "Li Rye",
+          "url": "https://open.spotify.com/artist/1QudwWfbchyvkMXva3wdqn"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166781,
+      "name": "Too Many",
+      "url": "https://open.spotify.com/track/245cBrBsyEhCQdn2pOEO7N"
     },
     {
       "album": {
@@ -18991,6 +19031,24 @@
       "duration_ms": 119887,
       "name": "You Cried",
       "url": "https://open.spotify.com/track/2IPqCA3Sh9B9zAgzaH7KOx"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233688,
+      "name": "Yun (with Erykah Badu)",
+      "url": "https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R"
     },
     {
       "album": {

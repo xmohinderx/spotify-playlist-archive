@@ -362,6 +362,24 @@
     },
     {
       "album": {
+        "name": "Sing for the Earth - Little Wild Animals",
+        "url": "https://open.spotify.com/album/6L8hxqN9Qs3vfnUgB7q2Dp"
+      },
+      "artists": [
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166209,
+      "name": "Brave Like a Lion",
+      "url": "https://open.spotify.com/track/0sBepHNDp8pjGWHlb12gCM"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK"
       },
@@ -3186,7 +3204,7 @@
         },
         {
           "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+          "url": "https://open.spotify.com/artist/3TIIls1NDLaBkWYO7ty2Qp"
         }
       ],
       "date_added": "2022-04-15",

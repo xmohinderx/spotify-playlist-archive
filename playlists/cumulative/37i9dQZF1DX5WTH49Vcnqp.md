@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Mia Wray
 
-679 songs - 1 day 14 hr 37 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+680 songs - 1 day 14 hr 39 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,7 +549,8 @@
 | [Spell Strike](https://open.spotify.com/track/5uUzRMeZmOKMAjWoVhp7sx) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/7DaHhFanoQbsCBHM7bzWUa) | 3:35 | 2022-03-31 | 2022-04-22 |
 | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY) | 3:19 | 2022-11-17 |  |
 | [spirit boy](https://open.spotify.com/track/76l5SNnQAjuGiOmeISe4jP) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/54g9Q7VZdJYNrmEsx93gHV) | 6:27 | 2022-02-28 | 2022-03-21 |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-12-08 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-12-08 | 2022-12-10 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-08 |  |
 | [Splinter](https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Splinter](https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K) | 2:28 | 2022-05-19 | 2022-08-05 |
 | [St Claire](https://open.spotify.com/track/1eNxXBnlIOOCqTwcNiornC) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [St Claire](https://open.spotify.com/album/0FGb6D2noXEeAY7PVLA3Uh) | 3:34 | 2021-12-30 | 2022-03-18 |
 | [Stained Glass Love](https://open.spotify.com/track/5d8HnEi996KfVq0svmeeb0) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Stained Glass Love](https://open.spotify.com/album/3pqjmCTohneJF9XiI9b0RF) | 5:54 | 2022-08-18 | 2022-11-04 |

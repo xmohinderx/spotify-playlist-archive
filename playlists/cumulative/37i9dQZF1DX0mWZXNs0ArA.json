@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Cali4nia (alt versions)",
+        "url": "https://open.spotify.com/album/4roCZCqx5Ua1T8xHm6bhJ7"
+      },
+      "artists": [
+        {
+          "name": "KANADA THE LOOP",
+          "url": "https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157048,
+      "name": "Cali4nia (sped up)",
+      "url": "https://open.spotify.com/track/3xswzs1u96atRKqj1ciOpU"
+    },
+    {
+      "album": {
         "name": "Fuzzybrain (sped-up)",
         "url": "https://open.spotify.com/album/3DDSJ8PNqvNpRF0aFo7rxl"
       },
@@ -863,6 +881,24 @@
       "duration_ms": 164613,
       "name": "House of Memories - Sped Up Version",
       "url": "https://open.spotify.com/track/7AduRd5A2eoZSy3Lwx9JNb"
+    },
+    {
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3zSsXVUo30ceghixa71luU"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134999,
+      "name": "How Do I Say Goodbye - Sped Up",
+      "url": "https://open.spotify.com/track/0b49gQS3t3DNqX4TWBZyhX"
     },
     {
       "album": {
@@ -2037,7 +2073,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 123428,
       "name": "Until I Found You (Sped Up) - Heaven When I Held You Again How Could We Ever Just Be Friends",
       "url": "https://open.spotify.com/track/2w5aTimRJjWefNoXaoCpd4"

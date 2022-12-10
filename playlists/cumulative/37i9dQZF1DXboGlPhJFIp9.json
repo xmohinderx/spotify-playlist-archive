@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e"
+      },
+      "artists": [
+        {
+          "name": "Echoparks",
+          "url": "https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170079,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ"
+    },
+    {
+      "album": {
         "name": "Comfort",
         "url": "https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2"
       },
@@ -711,6 +729,24 @@
       "duration_ms": 162330,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI"
+    },
+    {
+      "album": {
+        "name": "Humility",
+        "url": "https://open.spotify.com/album/1AkyFuT4waQ9t6wvCMKzdJ"
+      },
+      "artists": [
+        {
+          "name": "Eucalyptic",
+          "url": "https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145365,
+      "name": "Humility",
+      "url": "https://open.spotify.com/track/1735HNwXBqKdNN45fVr0Gp"
     },
     {
       "album": {

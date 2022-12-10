@@ -1,12 +1,12 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7826,
+  "num_followers": 7823,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjAwMyxmZGVmZjYzY2QzODQ2NTEwNzk3ZjIyOTRmZDNkMTFmM2FiM2YwZTZl",
+  "snapshot_id": "MjAwNixjM2Y5ZDI2OTIyYzE3ZDVhNzk4NDI3YTZjMDdkOTViYTQwOTRjNmRj",
   "tracks": [
     {
       "added_at": "2022-10-28 14:48:36",
@@ -395,6 +395,22 @@
       "duration_ms": 145205,
       "name": "TICK TOCK",
       "url": "https://open.spotify.com/track/6J4VcQgLGDRV8kbgTMhwly"
+    },
+    {
+      "added_at": "2022-12-09 14:55:18",
+      "album": {
+        "name": "THE GOV'T GAVE US GUNS",
+        "url": "https://open.spotify.com/album/5o0qJK6COqONoWG7FtTeHW"
+      },
+      "artists": [
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "duration_ms": 116794,
+      "name": "THE GOV'T GAVE US GUNS",
+      "url": "https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3"
     },
     {
       "added_at": "2022-09-23 14:26:21",
@@ -1019,22 +1035,6 @@
       "duration_ms": 197280,
       "name": "Show No Love (feat. Fredo Bang)",
       "url": "https://open.spotify.com/track/0B1kYE1ZJHVEtiYhmNPEda"
-    },
-    {
-      "added_at": "2022-07-22 14:11:35",
-      "album": {
-        "name": "MY DIARY - EP",
-        "url": "https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "FAR AWAY",
-      "url": "https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT"
     },
     {
       "added_at": "2022-10-14 12:52:16",

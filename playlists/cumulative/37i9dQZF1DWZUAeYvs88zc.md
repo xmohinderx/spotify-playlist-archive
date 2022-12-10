@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-449 songs - 1 day 1 hr 21 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
+450 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Love Me Now](https://open.spotify.com/track/6nxQdXa1uAL0rY72wPZu89) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 3:30 | 2019-06-22 | 2019-08-08 |
 | [love of your life](https://open.spotify.com/track/58mNlQC7dh07i8JF8CMycR) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [love of your life](https://open.spotify.com/album/2U7nCP55m7ws8MXAqfD8D9) | 2:50 | 2021-09-25 | 2021-10-27 |
 | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY) | 2:44 | 2021-08-31 |  |
-| [love sux](https://open.spotify.com/track/0o8iO4tGwKdxRePgMo9Qrw) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [love sux](https://open.spotify.com/album/6ijYSiTjDjyrHmfDqdC84s) | 2:24 | 2021-12-17 |  |
+| [love sux](https://open.spotify.com/track/0o8iO4tGwKdxRePgMo9Qrw) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [love sux](https://open.spotify.com/album/6ijYSiTjDjyrHmfDqdC84s) | 2:24 | 2021-12-17 | 2022-12-10 |
 | [Love Turns Lonely](https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Love Turns Lonely](https://open.spotify.com/album/73gPLcREEBeTaX81GEup7e) | 2:47 | 2022-02-01 | 2022-04-21 |
 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 | 2022-07-01 | 2022-09-09 |
 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 | 2019-05-26\* | 2022-04-20 |
@@ -451,6 +451,7 @@
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-07-29 |
 | [Year From Now](https://open.spotify.com/track/2XbHQSvl64ZzEkzV91j1WC) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 2:18 | 2021-11-13 | 2022-07-29 |
 | [Year of the Ex](https://open.spotify.com/track/5m1Wm07bfb58sEWw7wosy7) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Year of the Ex](https://open.spotify.com/album/3zT0wDFGo5yeKwyGvEc41e) | 3:04 | 2022-01-21 | 2022-04-20 |
+| [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-09 |  |
 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 | 2021-10-03 |  |
 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 | 2019-07-27 | 2019-08-10 |
 | [You should be sad](https://open.spotify.com/track/4ncDAlyP3gmCWefTlj27zp) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [You should be sad](https://open.spotify.com/album/0hXbi1NMz8paMkILeQEWW8) | 3:25 | 2020-01-17 | 2022-07-24 |

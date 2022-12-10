@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,773 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,910 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 21 | [マイ フレンド](https://open.spotify.com/track/4mt3qRk1HWnk4kyvjbp8Jk) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [マイ フレンド](https://open.spotify.com/album/0pZXSUADHSImR5emCEln8R) | 4:19 |
 | 22 | [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 |
 | 23 | [SEVENTH MOON](https://open.spotify.com/track/72n1TrXlJUz1Lq4xHnjWYd) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [SEVENTH MOON](https://open.spotify.com/album/1lEZO1OI2yk5gYC1chPCxx) | 5:24 |
-| 24 | [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 |
+| 24 | [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichiro Mizuki](https://open.spotify.com/artist/4uW4SEyjVLBFqGsy9iaD9N) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 |
 | 25 | [Around The World](https://open.spotify.com/track/1gsbM54z2EPqErHfiPIIhy) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 5:06 |
 | 26 | [JUST COMMUNICATION](https://open.spotify.com/track/2MJuRVxvB0Wq298yZAmpuT) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [JUST COMMUNICATION](https://open.spotify.com/album/3srT3oJ15NvnclIkLlvN8q) | 4:19 |
 | 27 | [勇気100% \- \(合唱ヴァージョン\)/すずかけ児童合唱団](https://open.spotify.com/track/0UBWkGVqwsWESsVfdnXbut) | [すずかけ児童合唱団](https://open.spotify.com/artist/3HozfEg3Tn0RVf1aBJLdnU) | [「忍たまファミリー・ベストセレクション」](https://open.spotify.com/album/4VUJ2ges1ogO66dtbvTSpP) | 4:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: LA INDIA, Goyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,353 likes - 120 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,419 likes - 120 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 'Frizzell D'souza' is on the cover of IndiEnglish\. Stream now!
 
-134 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+135 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [September Embers](https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [September Embers](https://open.spotify.com/album/4XsTt6wPXIKpgtaGLsja9W) | 4:46 | 2022-03-25 |  |
 | [Settle Down](https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Settle Down](https://open.spotify.com/album/56gEUYYtzrS7DHlsF5q7k5) | 2:58 | 2022-03-25 |  |
 | [Should I Ghost You...](https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy) | [Should I Ghost You...](https://open.spotify.com/album/3CFeHZxJgEC0AshQlK98BT) | 2:14 | 2022-03-25 |  |
+| [Silent Prayer](https://open.spotify.com/track/5lKBXAO6zCWyh4FAWrrUpM) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Silent Prayer](https://open.spotify.com/album/5tHYe6Y8ppgg0S4hFOlccW) | 3:30 | 2022-12-09 |  |
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-03-25 |  |
 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 | 2022-03-25 |  |
 | [Someone To Rely On](https://open.spotify.com/track/3ObhVfAPn5qYx2ZNBvA6nK) | [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [Someone To Rely On](https://open.spotify.com/album/1TMHobI2cDoQtCzullJbVG) | 3:57 | 2022-07-29 |  |

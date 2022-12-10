@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-505 songs - 1 day 4 hr 45 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+507 songs - 1 day 4 hr 50 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [apple of my eye](https://open.spotify.com/track/6obsAYZi05zj2412g9UsGJ) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [apple of my eye](https://open.spotify.com/album/2DCZOJBOiKA7VZDNyXuwl0) | 2:29 | 2022-11-11 |  |
 | [Apricity](https://open.spotify.com/track/6cr9XbO2yAJgTNa6XNRINF) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Apricity](https://open.spotify.com/album/1NaEmkywxX1nBWYK7Erqog) | 2:38 | 2022-06-16 |  |
 | [Archipelago Dreams](https://open.spotify.com/track/0tWJSrOeixKQQcYEws7HTF) | [Halcyon Fields](https://open.spotify.com/artist/7xaDRbKDpOyZnL91F1ki3E) | [Waves Of Hope](https://open.spotify.com/album/1sZDGmD13RMH6acZ2Ix2hO) | 2:36 | 2019-05-26\* | 2020-01-09 |
+| [Are You Up](https://open.spotify.com/track/3xXQCt1vfzNEOndrrNWAZR) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Are You Up](https://open.spotify.com/album/2MOLnimdDLWHZQVEnKZkbO) | 2:32 | 2022-12-09 |  |
 | [Arriving](https://open.spotify.com/track/0VZSqwbrOlZxOEakvAQX5a) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Arriving](https://open.spotify.com/album/7CosLPjvMgHwpwVgZiwNbi) | 2:25 | 2019-06-19\* |  |
 | [As the Lights Fade Away](https://open.spotify.com/track/6iDNiQbHvtlOQ8Z4kL46YW) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Atlantic](https://open.spotify.com/album/2n9rpKtpdYdhQtSTTrSQbP) | 1:46 | 2019-05-26\* | 2019-06-19 |
 | [Ashes](https://open.spotify.com/track/6IcJ3IyAH3Q4In8bjGVP0W) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [New Life](https://open.spotify.com/album/52Fx3NkInGB1fpwstmiy30) | 2:11 | 2019-06-19\* | 2021-09-14 |
@@ -295,6 +296,7 @@
 | [Near Light](https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:28 | 2019-05-26\* | 2020-08-07 |
 | [neck of the woods](https://open.spotify.com/track/5SSvRUwuAGPz7vDEIcq4LA) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [neck of the woods](https://open.spotify.com/album/6bb1mYSKI8PPihbDKOR6yu) | 2:26 | 2022-08-23 |  |
 | [Needless to Say](https://open.spotify.com/track/3JPbOyccVz2HJDNaXfehiX) | [Elkoo](https://open.spotify.com/artist/0IBTVnAY3xjxeJagPZxVCk) | [Needless to Say](https://open.spotify.com/album/0vVDu2K6hAuu0VuJwkvSIn) | 2:13 | 2022-04-21 |  |
+| [Neon White](https://open.spotify.com/track/7GuN1Fddm0hCfppgIDUArP) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Neon White](https://open.spotify.com/album/63GuNC3lRSc90Ur5Y3VcqT) | 2:19 | 2022-12-09 |  |
 | [Never Let Go](https://open.spotify.com/track/4pPQehDJIPMstBLVCzouTs) | [Galvic](https://open.spotify.com/artist/3uJ54ctF087JwTAxL783il) | [Never Let Go](https://open.spotify.com/album/6qUkti8iaY5YyPnrazmB7b) | 2:39 | 2019-07-31 | 2021-09-14 |
 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 | 2019-05-26\* | 2019-08-13 |
 | [Noche Tranquila](https://open.spotify.com/track/6X0KLA9Xh59pHIL5GcDd15) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Noche Tranquila](https://open.spotify.com/album/4voco7fHuTX5hmizXE6xWY) | 2:52 | 2020-08-30 | 2021-09-04 |

@@ -1,13 +1,37 @@
 {
   "description": "The best of today's funk. Cover: Louis Cole",
-  "num_followers": 282386,
+  "num_followers": 282521,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGVmZGY0OTgwYWQ4MzNhMTMzMWQyY2Q4ZWY4OTdlYmQ1",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDg5Y2E1OGNhZWFlODlkOTVmMjM2ZjFmMDVkMjJiZThj",
   "tracks": [
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "New Guru",
+        "url": "https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "New Guru",
+      "url": "https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y"
+    },
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
@@ -1831,26 +1855,6 @@
       "duration_ms": 164980,
       "name": "Where's My Money?",
       "url": "https://open.spotify.com/track/4nqSPBGUtCuJkhJU5coTyW"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Your Sweet Power",
-        "url": "https://open.spotify.com/album/0jaJ9e6vSp9noMKJ0xlOaD"
-      },
-      "artists": [
-        {
-          "name": "JB Stark",
-          "url": "https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm"
-        },
-        {
-          "name": "Kestra",
-          "url": "https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K"
-        }
-      ],
-      "duration_ms": 170957,
-      "name": "Your Sweet Power",
-      "url": "https://open.spotify.com/track/4TdfrvxJ2OD1IMMgq4ip0t"
     }
   ],
   "unique_name": "Nu-Funk",

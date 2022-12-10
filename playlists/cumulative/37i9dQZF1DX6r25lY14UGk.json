@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126688,
+      "name": "Affirmation Song",
+      "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk"
+    },
+    {
+      "album": {
         "name": "Plants Rock",
         "url": "https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg"
       },
@@ -1641,6 +1663,36 @@
       "duration_ms": 252495,
       "name": "Rainbow Connection",
       "url": "https://open.spotify.com/track/2cOfeOWB5kAN2xHeD6jFHe"
+    },
+    {
+      "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hodson-Prior",
+          "url": "https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF"
+        },
+        {
+          "name": "Meesha Garbett",
+          "url": "https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4"
+        },
+        {
+          "name": "Liberty Greig",
+          "url": "https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174746,
+      "name": "Revolting Children",
+      "url": "https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt"
     },
     {
       "album": {

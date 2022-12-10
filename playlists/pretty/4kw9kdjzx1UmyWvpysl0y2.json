@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127138,
+  "num_followers": 127133,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg2NixkZDU3MGI3MmZhNzVkNzhjODViODNmOGUxZTYxOTY4YTFlNzgyZTYz",
+  "snapshot_id": "Mzg3Miw2NzQwYmE4NmY1ZDQyYjBhZWNkZWE3N2I0NWJhOGMyZTIwNDJmNzhm",
   "tracks": [
+    {
+      "added_at": "2022-12-10 01:18:22",
+      "album": {
+        "name": "Lies and Deceptions (Bad Computer Remix)",
+        "url": "https://open.spotify.com/album/6w0bsHy2oXobGo8JndIPsP"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "duration_ms": 207125,
+      "name": "Lies and Deceptions - Bad Computer Remix",
+      "url": "https://open.spotify.com/track/3tV2l4rFMgzt5qoWrE6BlM"
+    },
+    {
+      "added_at": "2022-12-10 01:17:51",
+      "album": {
+        "name": "Nibbana (Volen Sentir's Pink Sky Retouch)",
+        "url": "https://open.spotify.com/album/6XHnLNEb1ZJNcnrT8kaLRq"
+      },
+      "artists": [
+        {
+          "name": "PROFF",
+          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Nibbana - Volen Sentir's Pink Sky Retouch",
+      "url": "https://open.spotify.com/track/2g1kcSv6wz70zl7lhWpJzx"
+    },
     {
       "added_at": "2022-12-08 22:17:59",
       "album": {
@@ -23,6 +63,30 @@
       "duration_ms": 210588,
       "name": "Duality",
       "url": "https://open.spotify.com/track/3SdDaIM1CjAEaFN9jmqfjf"
+    },
+    {
+      "added_at": "2022-12-10 01:17:14",
+      "album": {
+        "name": "She's Got a Gun (Clockvice Remix)",
+        "url": "https://open.spotify.com/album/4dYaUPfO6EOIdXXOxEZeJT"
+      },
+      "artists": [
+        {
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        },
+        {
+          "name": "McCall",
+          "url": "https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT"
+        },
+        {
+          "name": "Clockvice",
+          "url": "https://open.spotify.com/artist/0KgVymhgHYfOMP13j78XsS"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "She's Got a Gun - Clockvice Remix",
+      "url": "https://open.spotify.com/track/5VtHg945KXjNe7dmxA7kYL"
     },
     {
       "added_at": "2022-12-08 00:07:43",
@@ -1043,62 +1107,6 @@
       "duration_ms": 222861,
       "name": "Invane",
       "url": "https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "The Lost Ancient Charm",
-        "url": "https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G"
-      },
-      "artists": [
-        {
-          "name": "Forty Cats",
-          "url": "https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ"
-        },
-        {
-          "name": "Arentis",
-          "url": "https://open.spotify.com/artist/3eAXDhAvVI3bE9ogPMNdnl"
-        }
-      ],
-      "duration_ms": 191156,
-      "name": "The Lost Ancient Charm",
-      "url": "https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e"
-      },
-      "artists": [
-        {
-          "name": "Leah Culver",
-          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
-        }
-      ],
-      "duration_ms": 158440,
-      "name": "October",
-      "url": "https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Double Tap",
-        "url": "https://open.spotify.com/album/4SDO9lDKGzIIBp9zubIvPo"
-      },
-      "artists": [
-        {
-          "name": "Going Quantum",
-          "url": "https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn"
-        },
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "Double Tap",
-      "url": "https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

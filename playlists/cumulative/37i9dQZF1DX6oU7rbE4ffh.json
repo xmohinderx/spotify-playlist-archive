@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH"
+      },
+      "artists": [
+        {
+          "name": "Corbin Tellier",
+          "url": "https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U"
+    },
+    {
+      "album": {
         "name": "Falling Autumn Leaves",
         "url": "https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S"
       },
@@ -1111,6 +1129,24 @@
       "duration_ms": 174000,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/1wqc4mp6CKNGnDV3rOTb9M"
+    },
+    {
+      "album": {
+        "name": "Independencia",
+        "url": "https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6"
+      },
+      "artists": [
+        {
+          "name": "Miravaldini",
+          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206275,
+      "name": "Independencia",
+      "url": "https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU"
     },
     {
       "album": {

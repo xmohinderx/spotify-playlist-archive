@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-194 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
+199 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2022-04-15 |  |
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2022-04-15 |  |
 | [Biscuit](https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Cool Sneakers](https://open.spotify.com/album/6CLLHgPGTWJ0HfNy9Ob8gD) | 2:59 | 2022-04-15 | 2022-05-11 |
+| [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 | 2022-12-09 |  |
 | [Blue Demons](https://open.spotify.com/track/3Ilx5ch1nI6ioUw1nqbYpk) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [Blue Demons](https://open.spotify.com/album/0QG1EKrQ4IqQAGvCVG3dFb) | 1:59 | 2022-04-15 |  |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2022-04-15 |  |
 | [Blue Lagoon](https://open.spotify.com/track/4D2Es54UxjwYiIxVk4wqTm) | [2GO](https://open.spotify.com/artist/4sYcQIGHFdEjSswfZiwPJK) | [Blue Lagoon](https://open.spotify.com/album/28LOep1LS2XmoPH9RRD5U9) | 2:41 | 2022-10-28 |  |
@@ -35,6 +36,7 @@
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-04-15 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2022-04-15 |  |
 | [Caribbean Sunset](https://open.spotify.com/track/3ThZpJ81wK2zLDxzmVlyoH) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Caribbean](https://open.spotify.com/album/33DO98yRb2HR3Vz3jAbfSY) | 3:30 | 2022-11-25 |  |
+| [Casablanca](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Casablanca](https://open.spotify.com/album/3QB0w4wTtbJaRk3aS3qqFD) | 3:41 | 2022-12-09 |  |
 | [Cat Street Fight](https://open.spotify.com/track/1xrwba40SrADws8j0nDkgd) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Cat Street Fight](https://open.spotify.com/album/2NgRFkMxlbO0Hifee0yDvF) | 2:58 | 2022-07-29 | 2022-08-19 |
 | [Chateau](https://open.spotify.com/track/0YX3lvsJWCYtoWqTxmMHd6) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Chateau](https://open.spotify.com/album/42FntNE1ODzKgrOtpMgteH) | 3:03 | 2022-11-25 |  |
 | [Chlorine](https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1) | [Swank Doral](https://open.spotify.com/artist/1zgVVdHt2QiytBSufPLLaV) | [Chlorine](https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY) | 2:59 | 2022-04-15 |  |
@@ -102,6 +104,7 @@
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-04-15 |  |
 | [In Brevi](https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [In brevi](https://open.spotify.com/album/5BgW2Tfu7CgefHz7gEDMAj) | 3:20 | 2022-04-15 |  |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2022-04-15 |  |
+| [Infinite Twin](https://open.spotify.com/track/7wRn9WJMM6yGFobxdeRrBh) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Infinite Twin](https://open.spotify.com/album/3MAH6xeGdAZB1tLDKeTBBB) | 2:52 | 2022-12-09 |  |
 | [Insights](https://open.spotify.com/track/1kwpL3EqUjKXhmEttZ78Md) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Insights](https://open.spotify.com/album/2BcSmACfCfIDnCnzpp1Cyq) | 3:26 | 2022-09-09 |  |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2022-04-15 |  |
 | [Isla de es Vedrá](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM) | [Bongo Percy](https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg) | [Isla de es Vedrá](https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz) | 4:20 | 2022-04-15 | 2022-09-09 |
@@ -163,6 +166,7 @@
 | [Show Me How It's Done](https://open.spotify.com/track/6HjO9nSZmlTy5fgSWXcpgu) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Tullinge Crickets / Show Me How It's Done](https://open.spotify.com/album/0jf2evCQuvnGQX3ngYuLGG) | 5:13 | 2022-04-15 | 2022-05-11 |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-04-15 | 2022-07-08 |
 | [Sker](https://open.spotify.com/track/3jwZYMxDsuWB5stJ3bEcLZ) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Sker](https://open.spotify.com/album/4yFrPTe8yehyzaBQeHfaGI) | 4:52 | 2022-08-05 |  |
+| [skies](https://open.spotify.com/track/7wSCgWpis1zblS4ow4IYLW) | [Setjet](https://open.spotify.com/artist/5blU4gW1Xn3kQ73i2brApA) | [skies](https://open.spotify.com/album/2mrrLqTtqzE0zm8cUQ9Ci7) | 3:24 | 2022-12-09 |  |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-04-15 | 2022-09-09 |
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2022-04-15 | 2022-09-02 |
 | [Sona](https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Sona](https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF) | 3:32 | 2022-09-09 |  |
@@ -200,6 +204,7 @@
 | [When the lights are out](https://open.spotify.com/track/0dHjcYFbChsnfp1gD1leue) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Night Vibes](https://open.spotify.com/album/2MJHtNfn9mlrogJJ7seBJO) | 2:40 | 2022-08-19 |  |
 | [When We Were Suns](https://open.spotify.com/track/51LgENjsl5N0jRYYBSOT0R) | [Uki Luki](https://open.spotify.com/artist/34Uphq1taQuTAZxXEOiVjp) | [When We Were Suns](https://open.spotify.com/album/5Bp6FT43h0t2qI3X0ayuT1) | 4:15 | 2022-04-15 | 2022-07-08 |
 | [Xhosa](https://open.spotify.com/track/3Cty5cCROsp5Q2bzlKyzRH) | [Pablo Funke](https://open.spotify.com/artist/2XsRJTf7BZQTrb3BumlhHm) | [Xhosa](https://open.spotify.com/album/2eFzpE5r2KpHKTuZ56zKP1) | 2:03 | 2022-04-15 | 2022-08-19 |
+| [Yearn](https://open.spotify.com/track/3LXQSqa9XcIELsRTuMAe8S) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Yearn](https://open.spotify.com/album/3C62Fpb9T1E0ktSODga4cs) | 3:17 | 2022-12-09 |  |
 | [Yin Yan Tonic](https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Yin Yan Tonic](https://open.spotify.com/album/2cGFqAL2ttK8IrsC3s7n3U) | 2:50 | 2022-08-05 |  |
 | [Été](https://open.spotify.com/track/4faQsCXVnzLa2yITblP9ow) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Été](https://open.spotify.com/album/46XuT3p7wL8ojiHImiXatz) | 3:37 | 2022-06-17 |  |
 

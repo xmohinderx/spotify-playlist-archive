@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,762 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,782 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 61 | [Hey You](https://open.spotify.com/track/33DSizc0awGwq4MEBX7vYg) | [Cyndi Seui](https://open.spotify.com/artist/6Vl77bkShN9BMikIfhdHG9) | [Toy Boy](https://open.spotify.com/album/2GlRBipf5fOYz9gSGICgyG) | 3:51 |
 | 62 | [Papansin](https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ) | [Minaw](https://open.spotify.com/artist/3WDWdGrDmyczFUkPPkd8aK) | [Papansin](https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf) | 4:17 |
 | 63 | [โรคแอบชอบ](https://open.spotify.com/track/77yWW5kFvEnOknfGeKSl6I) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [Super Serious](https://open.spotify.com/album/4QCpZmpuRq2ulKKBeHxNfa) | 4:01 |
-| 64 | [Sungguh Terlalu](https://open.spotify.com/track/2ooOtbd0mJ27xhwwGCnnkb) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sungguh Terlalu](https://open.spotify.com/album/1TDcayS0iX7Ky7O0a6qvEs) | 4:17 |
+| 64 | [Sungguh Terlalu](https://open.spotify.com/track/7wQDwTshgxYJyXmdVR9ncE) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [A Tiny Bit of Gold In The Dark Ocean](https://open.spotify.com/album/2ye0rT388zwLfuvv4RdRM0) | 4:17 |
 | 65 | [Sigurado](https://open.spotify.com/track/4XCFHies3PCuxqzGJaKsu6) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [U D D](https://open.spotify.com/album/1soFNLmLx08oNlhgBtQB5g) | 5:39 |
 | 66 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 |
 | 67 | [Venus 샛별](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 69 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 |
 | 70 | [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 |
 
-Snapshot ID: `MTY3MDUxMjE4MCwwMDAwMDAwMDczMzk5YmNhNmQwNmNmODFhNTNhN2JkNWZhZDE1MGU1`
+Snapshot ID: `MTY3MDUxMjE4MCwwMDAwMDAwMGI3OTMyZjQ2Njg2ODI5NzlkYzE0ZDMyYzFlZTIyNzJk`

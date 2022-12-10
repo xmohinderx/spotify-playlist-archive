@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-255 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+261 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 | 2022-04-15 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-04-15 |  |
 | [Bored of Amsterdam](https://open.spotify.com/track/2yoNkyAIcjMORYpu1S6Vi0) | [ice bather](https://open.spotify.com/artist/74gUv2wBKXAG2Ad1hGJlps) | [Bored of Amsterdam](https://open.spotify.com/album/2ItmmMWBeNdf6aI0hWFTBn) | 2:28 | 2022-04-15 |  |
+| [Boudins](https://open.spotify.com/track/54yOwjZUJzNWVISgpvQfCz) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Boudins](https://open.spotify.com/album/29bFiImSwSuF4ib3WpcThS) | 2:06 | 2022-12-09 |  |
 | [Bright Red](https://open.spotify.com/track/306wpz1gZioEodOsqyc16i) | [Palos Azules](https://open.spotify.com/artist/4sk8WgXLP5T8ATvv3QuGfw) | [Bright Red](https://open.spotify.com/album/5iCbtIfeGRbmuVLkhd1YnO) | 2:00 | 2022-04-15 |  |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2022-04-15 |  |
 | [Burrata](https://open.spotify.com/track/1wsjU5AYe7xxt7SCa2f6G4) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [Burrata](https://open.spotify.com/album/7lwCGt3pUCdPhJnxhvOMBp) | 2:39 | 2022-10-28 |  |
@@ -110,11 +111,13 @@
 | [Free](https://open.spotify.com/track/47DcKTZGe8PKTr8B64bgZM) | [DANEGIAN](https://open.spotify.com/artist/2k1h6uRnsiIMNavFowk5hc) | [Free](https://open.spotify.com/album/7uhejgr38JOpUCH43v0hkz) | 2:19 | 2022-04-15 | 2022-10-08 |
 | [Futuristic](https://open.spotify.com/track/1KH8pNMx5vEFaKBJ3BGrtA) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Futuristic](https://open.spotify.com/album/1SRiesxh26igFvJRRELjeB) | 3:20 | 2022-10-07 |  |
 | [Gambia](https://open.spotify.com/track/3dFgvv8ft1DHbW28Akce50) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gambia](https://open.spotify.com/album/6MBaL1snqhQFgwVM5SwaFT) | 3:57 | 2022-04-15 | 2022-08-19 |
+| [Get Going](https://open.spotify.com/track/56JcOGYjtpxBZwWzVUbnYf) | [Gallway Flex](https://open.spotify.com/artist/6DZylFpDS9LLQYsGRUpa9t) | [Get Going](https://open.spotify.com/album/3wb4qgQxh4k2gXBKZnUHzD) | 2:52 | 2022-12-09 |  |
 | [Get Over](https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Get Over](https://open.spotify.com/album/3ZyU5uKTIk3cJe4lnuZX1X) | 3:05 | 2022-04-15 |  |
 | [getting ideas](https://open.spotify.com/track/4g5zahq9MIoBxji1q0YF5F) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [getting ideas](https://open.spotify.com/album/10lwP63JZMKOnydAJ2o8uI) | 3:12 | 2022-08-19 |  |
 | [Glide \- DJ Counselling Remix](https://open.spotify.com/track/0tR8nMqQze7nPiec1ONj7u) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Glide \(DJ Counselling Remix\)](https://open.spotify.com/album/2xHOofjrZylWq7F9qCo5L8) | 4:48 | 2022-08-19 |  |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2022-04-15 | 2022-09-02 |
 | [Gravity Run](https://open.spotify.com/track/1v4fcTze4n1Yqj1NrFSKTm) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Lunar Module](https://open.spotify.com/album/5JE2PXgd8OpMkUZWuvb9T0) | 3:02 | 2022-04-15 |  |
+| [Green Grass](https://open.spotify.com/track/1Y3BHcMtNlMANFFn2FQNYM) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Green Grass](https://open.spotify.com/album/52sjGVyYFTzABHzmeWXqpP) | 2:19 | 2022-12-09 |  |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2022-04-15 |  |
 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2022-04-15 | 2022-10-08 |
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2022-04-15 | 2022-09-02 |
@@ -221,6 +224,7 @@
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2022-04-15 | 2022-10-08 |
 | [Softglove](https://open.spotify.com/track/1f7vseTZGBLMKCgWuFsdIb) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Softglove](https://open.spotify.com/album/5VsqfDi3GafC3OpChX9Cbm) | 3:58 | 2022-11-25 |  |
 | [Solana Beach](https://open.spotify.com/track/2VWrRpMicsoQo4I35w0e7W) | [SunZunSun](https://open.spotify.com/artist/5SKcOlTnoLFO3fKYCnLRWN) | [The Best](https://open.spotify.com/album/2CPNcUW9gY2qeWJquCPnHj) | 3:40 | 2022-04-15 |  |
+| [Something Begins](https://open.spotify.com/track/0i7vB0HM4nTfC1yoo1Lbje) | [Sam Lush](https://open.spotify.com/artist/0d1sO3dP7qs2UAq2T9enWL) | [Something Begins](https://open.spotify.com/album/4pti7XN6dDBjm54bbACl9C) | 2:42 | 2022-12-09 |  |
 | [Something Smooth](https://open.spotify.com/track/4OzBqACAPAF6mc2kFj0JRS) | [Col Wright](https://open.spotify.com/artist/3N4pZH3LcxBjfnxb5IKeo9) | [Something Smooth](https://open.spotify.com/album/34WBzOs4NqxyrmvwNq7qnx) | 2:43 | 2022-04-15 |  |
 | [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 | 2022-04-15 | 2022-10-08 |
 | [Southern Sky](https://open.spotify.com/track/7b5JVYNwXrFVB94lBBqeQU) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Southern Sky](https://open.spotify.com/album/2FND9HEcVEEmhGzfQuNnYH) | 3:54 | 2022-04-15 | 2022-08-19 |
@@ -228,6 +232,7 @@
 | [Spicy \- Disco Edit](https://open.spotify.com/track/01b16Z7WnxoK8EkZmj8yF6) | [Curacado](https://open.spotify.com/artist/3MnwSIICaUw2aBQiOklr1b) | [Spicy \- Disco Edit](https://open.spotify.com/album/5EVKank3vCy7E0ZW7Bo6XU) | 2:57 | 2022-04-15 | 2022-09-02 |
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2022-04-15 |  |
 | [Spring Rains](https://open.spotify.com/track/6Y5wMxgMzBSuNxQPJk8XQu) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO) | [Spring Rains](https://open.spotify.com/album/3B3TxUP7B7uxjoomkOlUJT) | 2:55 | 2022-06-17 |  |
+| [Squares](https://open.spotify.com/track/3Lw2Qj1Adw20rvAApyXIsQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Squares](https://open.spotify.com/album/2EkIguAG5AjGPUnQGdyPJA) | 2:52 | 2022-12-09 |  |
 | [Star Bright](https://open.spotify.com/track/4Up93SiEP5fiATqaFqDtgK) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Flux Syndrome](https://open.spotify.com/album/6ACOLdOXSLwjPsM193dX9F) | 2:42 | 2022-11-25 |  |
 | [Stay Hazy](https://open.spotify.com/track/6kO1RFWTIgletNVPVj9H5S) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Stay Hazy / Insomnia](https://open.spotify.com/album/6jiv6wvCNTN6bHiloaS8mt) | 4:44 | 2022-04-15 |  |
 | [Suede](https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg) | [Alexis Dex](https://open.spotify.com/artist/0cTgUITSZa5GgXygwDcyqV) | [Suede](https://open.spotify.com/album/4AxjnlN28EuaWC1tZyOGu1) | 3:03 | 2022-04-15 |  |
@@ -242,6 +247,7 @@
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2022-04-15 | 2022-06-10 |
 | [Telescope](https://open.spotify.com/track/3daZM9Bj2Xh9oylPvXq2Ow) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Telescope](https://open.spotify.com/album/17L1SqxSVbUQKyxZKVFbKt) | 2:46 | 2022-09-16 |  |
 | [Terrazza](https://open.spotify.com/track/1Is0j2BZ6EmFJPuK6kp9NA) | [Desert Island](https://open.spotify.com/artist/4cZz3W4ndwH5QAu08GHxcI) | [Terrazza](https://open.spotify.com/album/4lMVgCbCqqoZSHbAy09zZx) | 3:57 | 2022-10-28 |  |
+| [The Brokers](https://open.spotify.com/track/21MHu6sVYAXJ5HCHznwVmV) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [The Brokers](https://open.spotify.com/album/0x7X776wBVBfhJnY2ZnFz5) | 3:04 | 2022-12-09 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-04-15 | 2022-09-02 |
 | [The Lost Ancient Charm](https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Arentis](https://open.spotify.com/artist/3eAXDhAvVI3bE9ogPMNdnl) | [The Lost Ancient Charm](https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G) | 3:11 | 2022-10-14 |  |
 | [Traffic Lights](https://open.spotify.com/track/3MdKptGeHema5frxISyDAW) | [Slow Ted](https://open.spotify.com/artist/7gU4zqbpqWECGMnox5c9G8) | [Traffic Lights](https://open.spotify.com/album/49axagqRBNCqzBaGCMlmIG) | 3:09 | 2022-06-24 |  |

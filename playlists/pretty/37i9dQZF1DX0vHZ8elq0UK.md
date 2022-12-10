@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,955 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,739 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

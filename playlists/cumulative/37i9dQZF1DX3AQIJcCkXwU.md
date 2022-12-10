@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-133 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+134 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Kirwani](https://open.spotify.com/track/0j438lJoTSWzhmdaokcljh) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/5SB0DHPRMnyCY8tbMvDkmB) | 4:32 | 2022-07-18 | 2022-08-13 |
 | [Kirwani](https://open.spotify.com/track/3uEHOHPX2pDBLQ6QHWBpZs) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/7a3OBCH6fWKGb1MuKpIBKn) | 4:32 | 2022-04-04 | 2022-07-29 |
 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 | 2022-04-04 |  |
+| [Kramina](https://open.spotify.com/track/3W5kk8r0aKHUN5QwOIy7qh) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:59 | 2022-12-09 |  |
 | [Lok Samastha \- Instrumental Version](https://open.spotify.com/track/4l3rzdMhFlvk48wCQhAqyN) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 2:44 | 2022-10-08 |  |
 | [Lost Love of the Rabab](https://open.spotify.com/track/7ulAelTJXZwz75syvdVx4V) | [Palace on Wheels](https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv) | [Lost Love of the Rabab](https://open.spotify.com/album/3baiVoyNz2OCXGE69Iyo1I) | 4:34 | 2022-11-11 |  |
 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 | 2022-04-04 |  |

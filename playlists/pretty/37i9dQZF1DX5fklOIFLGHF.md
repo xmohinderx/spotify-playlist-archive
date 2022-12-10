@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fklOIFLGHF.md) - [plain]
 
 > Rock sin vueltas\. Foto: El Cuarteto De Nos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,875 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,891 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fklOIFLGHF.md) - [plain]
 | 99 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
 | 100 | [Había una Vez ...](https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn) | 4:28 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMDQwNmJmZDAwZDBjMmMyYTk3OGY2OWJiMzRiMmI5Zjhh`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDFhNWRlNjVmMDNjYjhiNmZkZDUyOTU1MTZjOTE1OWU5`

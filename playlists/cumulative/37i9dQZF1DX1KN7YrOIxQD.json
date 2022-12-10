@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica, con Ozuna y Feid en portada.",
+  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica, con Arc\u00e1ngel y Bad Bunny en portada.",
   "name": "\u00c9xitos Centroam\u00e9rica",
   "published_playlist_ids": [
     "2V52nSYzBBJejzD9Aow8EK"
@@ -2080,6 +2080,24 @@
     },
     {
       "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
+    },
+    {
+      "album": {
         "name": "Noche de Teteo",
         "url": "https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx"
       },
@@ -2775,7 +2793,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 191573,
       "name": "Si Te La Encuentras Por Ah\u00ed",
       "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"

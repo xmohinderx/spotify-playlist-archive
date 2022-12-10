@@ -362,6 +362,24 @@
     },
     {
       "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e"
+      },
+      "artists": [
+        {
+          "name": "Echoparks",
+          "url": "https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170079,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ"
+    },
+    {
+      "album": {
         "name": "Dakota",
         "url": "https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL"
       },

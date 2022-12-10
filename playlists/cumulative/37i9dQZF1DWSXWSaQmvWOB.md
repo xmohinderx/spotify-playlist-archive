@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-599 songs - 1 day 12 hr 45 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+600 songs - 1 day 12 hr 49 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,8 @@
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2020-11-13 | 2021-05-21 |
 | [Sinner](https://open.spotify.com/track/3qxbVEvpPubsqUP9FdJibk) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Sinner](https://open.spotify.com/album/4UvHnaLqvhudjFOUe8M0Lm) | 2:42 | 2021-02-24 | 2022-01-14 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-07-31 | 2022-01-28 |
-| [Sky has open doors](https://open.spotify.com/track/5EqtcGaNE7rE6mjVZYarjB) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/3V7X498o84HlP4NK9vhoeY) | 3:39 | 2022-12-08 |  |
+| [Sky has open doors](https://open.spotify.com/track/5EqtcGaNE7rE6mjVZYarjB) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/3V7X498o84HlP4NK9vhoeY) | 3:39 | 2022-12-08 | 2022-12-10 |
+| [Sky has open doors](https://open.spotify.com/track/73KIzrxQOsJAgMj6dBDQ5d) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/0l4lzZ83jqOdYjVxSXLglU) | 3:39 | 2022-12-08 |  |
 | [Slow](https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Slow](https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW) | 2:55 | 2022-07-28 |  |
 | [Slowly Starting to Take Form](https://open.spotify.com/track/1sW4lzC7SyXdzclH82WbgE) | [vbnd](https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW), [The Soulmate Collective](https://open.spotify.com/artist/1C9JOUtzsAzP34pZ26Cbwv) | [Slowly Starting to Take Form](https://open.spotify.com/album/282MjoItOGZcWHGd8mmPk7) | 3:22 | 2021-02-06 | 2021-10-29 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-12 | 2022-03-11 |

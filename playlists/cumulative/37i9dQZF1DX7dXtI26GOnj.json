@@ -823,7 +823,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 234706,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
@@ -1617,6 +1617,24 @@
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
+    },
+    {
+      "album": {
+        "name": "Manual de Como Amar Errado",
+        "url": "https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Frio",
+      "url": "https://open.spotify.com/track/71KMGcQc6UjptNlrKtFhmq"
     },
     {
       "album": {
@@ -2094,6 +2112,36 @@
     },
     {
       "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ"
+    },
+    {
+      "album": {
         "name": "La Ni\u00f1a",
         "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
@@ -2193,6 +2241,24 @@
       "duration_ms": 171280,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/5lwNIm2sP8ixUpCkeoO9G9"
+    },
+    {
+      "album": {
+        "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
+        "url": "https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189838,
+      "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
+      "url": "https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz"
     },
     {
       "album": {
@@ -2930,6 +2996,24 @@
     },
     {
       "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "album": {
         "name": "O Plano (Ao Vivo)",
         "url": "https://open.spotify.com/album/7HyLMHbqJ2ahhh2q10ED5g"
       },
@@ -3143,7 +3227,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 227628,
       "name": "Party",
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
@@ -3201,7 +3285,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
@@ -3331,7 +3415,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 158575,
       "name": "pSi Lo saBE",
       "url": "https://open.spotify.com/track/1pIqjlJdi5ubGWfaaCIrh6"
@@ -3477,7 +3561,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 218274,
       "name": "Qu\u00e9 Rico Fuera",
       "url": "https://open.spotify.com/track/7Bd1mIvqRkIXTPAzw2wBmT"
@@ -4205,7 +4289,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"

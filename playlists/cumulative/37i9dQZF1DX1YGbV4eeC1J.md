@@ -4,7 +4,7 @@
 
 > Exceptionally vivid icebreaker in your love pursuit.
 
-60 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/7JISV0PYVntzUTc3mfFjMQ)
+61 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/7JISV0PYVntzUTc3mfFjMQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Mapenzi](https://open.spotify.com/track/5j3kPTLuJu2xH7tGjrmAYr) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:35 | 2022-05-26 | 2022-11-18 |
 | [Mapenzi](https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Karata 3](https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4) | 3:17 | 2022-05-26 |  |
 | [Mapenzi](https://open.spotify.com/track/2e2dNpszZC0sCEuvfKVyQu) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 5:53 | 2022-05-26 |  |
+| [Mapenzi](https://open.spotify.com/track/3aLDDpMZhXKMfIFzd5nTfP) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 3:14 | 2022-12-09 |  |
 | [Mapenzi Hisia](https://open.spotify.com/track/2NUmT9bkWTOKwXyphQgm1I) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Mapenzi Hisia](https://open.spotify.com/album/5swq13J3dliwnstBBplZ3I) | 3:42 | 2022-05-26 |  |
-| [Maradonna](https://open.spotify.com/track/4KTHSeSyn3oo4dOqxheLPn) | [Tanasha Donna](https://open.spotify.com/artist/4pCGeC6vPX6UaEZhLSucym) | [Maradonna](https://open.spotify.com/album/2FWGVLe0Dk9jmc5upTmZs2) | 3:33 | 2022-07-07 |  |
+| [Maradonna](https://open.spotify.com/track/4KTHSeSyn3oo4dOqxheLPn) | [Tanasha Donna](https://open.spotify.com/artist/4pCGeC6vPX6UaEZhLSucym) | [Maradonna](https://open.spotify.com/album/2FWGVLe0Dk9jmc5upTmZs2) | 3:33 | 2022-07-07 | 2022-12-10 |
 | [Marry Me \(feat\. Marioo\)](https://open.spotify.com/track/0TS6oda4nNVHwn8k9V7SJu) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 3:45 | 2022-08-25 |  |
 | [Mfalme Wa Mapenzi Album](https://open.spotify.com/track/2EL25q2ehIM0Xi0UKvOBoc) | [Sanaipei Tande](https://open.spotify.com/artist/3ZuB8qlh0K034nr5WH5EzB) | [MAHABA \- Swahili Love Story \- Vol 1](https://open.spotify.com/album/74VRwFLnAeHYqV40X3AwxI) | 4:44 | 2022-05-26 | 2022-10-28 |
 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 | 2022-05-26 |  |

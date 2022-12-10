@@ -4,7 +4,7 @@
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Dean Lewis
 
-144 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
+145 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 | 2022-01-28 |  |
 | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU) | 2:53 | 2022-01-28 |  |
 | [Before You Go \- Guitar Acoustic](https://open.spotify.com/track/27829SWtwhWUANViVTEpol) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:38 | 2022-01-28 |  |
-| [Better Break My Heart \- Acoustic version](https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Better Break My Heart](https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32) | 2:55 | 2022-01-28 |  |
+| [Better Break My Heart \- Acoustic version](https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Better Break My Heart](https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32) | 2:55 | 2022-01-28 | 2022-12-10 |
 | [Better Days \- Stripped](https://open.spotify.com/track/4eYAj2IhOBJwL9s6sFsCwi) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days \(Stripped\)](https://open.spotify.com/album/5hSfMn1K0oSbf5mYpuNzXK) | 3:30 | 2022-01-28 | 2022-07-29 |
 | [Better Days \- Stripped](https://open.spotify.com/track/5278MGuTLVxZ4NWrpMjajs) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:30 | 2022-07-15 |  |
 | [Bite Me \- Acoustic](https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me \(Acoustic\)](https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC) | 3:09 | 2022-01-28 |  |
@@ -32,6 +32,7 @@
 | [Burning Bridges \- up close, acoustic](https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Burning Bridges \(up close, acoustic\)](https://open.spotify.com/album/7iDmvsp438Mr3g1j4unr5F) | 2:48 | 2022-01-28 |  |
 | [Chasing Stars \(feat\. James Bay\) \[Stripped\]](https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(Stripped\)](https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz) | 2:44 | 2022-01-28 |  |
 | [club \- ballerini album version](https://open.spotify.com/track/76W2GSF7RhguLirVZ7gClG) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 2:46 | 2022-01-28 |  |
+| [Coast \(feat\. Anderson .Paak\) \[Acoustic\]](https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast \(Acoustic\)](https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO) | 2:46 | 2022-12-09 |  |
 | [Confetti \- Acoustic](https://open.spotify.com/track/1iw5L7Yi2qh2QMLQ0hMtKC) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Acoustic\)](https://open.spotify.com/album/6tBB5iinI1azfsyvSgQVVm) | 3:13 | 2022-01-28 | 2022-03-18 |
 | [Crashing \(ft\. Bahari\) – Stripped](https://open.spotify.com/track/1SreIFDe15GQC4BrdZW2Hh) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Crashing \(Remixes\)](https://open.spotify.com/album/08zPkf6ym2ujJlcyBPAdsA) | 3:46 | 2022-01-28 | 2022-10-09 |
 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 | 2022-01-28 |  |

@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-151 songs - 7 hr 51 min - not published yet
+152 songs - 7 hr 53 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Reassemble](https://open.spotify.com/track/1hUh5SnrnZv1ROMyroR8R6) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ), [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq) | [Reassemble](https://open.spotify.com/album/2BUrigAvDUtMMsQTrWW45Z) | 3:18 | 2021-12-01 |  |
 | [Reverie](https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:18 | 2021-12-01 |  |
 | [Right](https://open.spotify.com/track/19Ws0pVsWp8VTwvvL9SBtR) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Right](https://open.spotify.com/album/6VLiJ8APTZg8Em7CImHVdY) | 4:16 | 2021-12-01 |  |
-| [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-12-01 |  |
+| [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-12-01 | 2022-12-10 |
+| [Right Where You Like](https://open.spotify.com/track/7IoZZURqAsM3luroL55gG8) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/0Qg0coUk5hJTJRHnultu4u) | 2:52 | 2021-12-01 |  |
 | [Saltos de Realidade](https://open.spotify.com/track/2AXZSybVqhbRbRuI7aGO19) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Bebé](https://open.spotify.com/album/6JAI4RgT7MCp8tEoKTwmKB) | 3:12 | 2021-12-01 |  |
 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 | 2021-12-01 |  |
 | [see you later \(ten years\)](https://open.spotify.com/track/6tJ5lE3OZ4Rd7KYExupx66) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Easy 20's](https://open.spotify.com/album/57zfO6YukeUdyQMR2rnpLx) | 3:08 | 2021-12-01 | 2022-11-13 |

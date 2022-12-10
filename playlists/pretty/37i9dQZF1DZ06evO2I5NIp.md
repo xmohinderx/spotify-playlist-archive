@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,774 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,779 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 10 | [Pink Turns To Red](https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:28 |
 | 11 | [Ghetto Child](https://open.spotify.com/track/2vPT6PdxiuIC3TPH6l1OWQ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:06 |
 | 12 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 |
-| 13 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
+| 13 | [Long As I Can See The Light](https://open.spotify.com/track/40FfbBZ6mxWBpsg7r1cTFL) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:21 |
 | 14 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
 | 15 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 |
-| 16 | [Long As I Can See The Light](https://open.spotify.com/track/40FfbBZ6mxWBpsg7r1cTFL) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:21 |
+| 16 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
 | 17 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 |
 | 18 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 |
 | 19 | [Love Song](https://open.spotify.com/track/1YpPzjF3LgUr6htLKCnVei) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 49 | [The Other Woman](https://open.spotify.com/track/08iJoM0fYwdZJ86Ts3KJCH) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:18 |
 | 50 | [Lemon Pie](https://open.spotify.com/track/1du6ikTuFwWd7QweSi8Nss) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 3:25 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDBhMDNmYjhmYzhjNGJiMGVkM2I1OWUwZmFhZGFkNjc0NQ==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDA2MWNkNDJjOGZmZjc5YWM3ZTBkZDljMmVkNjU3NWMwOQ==`

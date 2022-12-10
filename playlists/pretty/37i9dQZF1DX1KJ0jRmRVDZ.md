@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,178 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,261 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 10 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 11 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
 | 12 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 |
-| 13 | [Fuyuumi feat\. Keina Suda](https://open.spotify.com/track/6bppTKO2Fx1xtwPawg8hnY) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [Keina Suda](https://open.spotify.com/artist/5AXd3qJ9SVN09wVWGfFH0K) | [Fuyuumi feat\. Keina Suda](https://open.spotify.com/album/1fTwkmx0IsEwzIXoBCDoPP) | 4:39 |
+| 13 | [Fuyuumi feat\. Keina Suda](https://open.spotify.com/track/6UhJvLFqPF8jG29jsK7AYe) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [Keina Suda](https://open.spotify.com/artist/5AXd3qJ9SVN09wVWGfFH0K) | [ULTRAPANIC](https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz) | 4:39 |
 | 14 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
 | 15 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 16 | [ダンボールの色 \- Rock Sound](https://open.spotify.com/track/7GtbO5Yi0RQPXh1dy7hzl2) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [a Beast](https://open.spotify.com/album/64vWBRtnrBEhH4xbkeWfaf) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 |
 | 50 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 |
 
-Snapshot ID: `MTY3MDM0NzI2MCwwMDAwMDAwMGI1NDI3ZDlkY2NlZTc2MjJjY2MwOTcwODAyOGRhNzMz`
+Snapshot ID: `MTY3MDM0NzI2MCwwMDAwMDAwMDNiYzY1MDkyMTM0MTE2OTdkNjMwYTdmMWYzYmI4ZTFi`

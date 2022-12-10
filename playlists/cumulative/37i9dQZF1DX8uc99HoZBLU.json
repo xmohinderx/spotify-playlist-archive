@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+    },
+    {
+      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 248056,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI"
@@ -3095,7 +3113,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 208155,
       "name": "my future",
       "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
@@ -4771,6 +4789,24 @@
       "duration_ms": 142028,
       "name": "Ultimately",
       "url": "https://open.spotify.com/track/0I0ZackSSk90oGUJtfKnJd"
+    },
+    {
+      "album": {
+        "name": "unless you leave",
+        "url": "https://open.spotify.com/album/0lPd9kfr60CDR9OS50Eefe"
+      },
+      "artists": [
+        {
+          "name": "Chase Elliott",
+          "url": "https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204199,
+      "name": "unless you leave",
+      "url": "https://open.spotify.com/track/5q0HdkRYhJlVI8Ep3Bfv2i"
     },
     {
       "album": {

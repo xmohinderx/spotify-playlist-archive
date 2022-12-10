@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,474,246 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,474,612 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Backbreaker](https://open.spotify.com/track/2mhD6IAZ7oGdRT8bzFI5tF) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Backbreaker](https://open.spotify.com/album/0CLdX3LC98CUhc1FrKCKgh) | 3:08 |
 | 75 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 |
 
-Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMDdhMWJiYTEyNjdlNmU5MzU2NDA2MjIyMWE2YWEzM2Vm`
+Snapshot ID: `MTY3MDU3NTA0MCwwMDAwMDAwMGEyNTc4ZTkxNTZlOTY3MjEwZmNhN2RiYmRjYmVlYzcx`

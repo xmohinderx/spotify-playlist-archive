@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: Minsu(\ubbfc\uc218))",
+  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: Claire Hau(\ud074\ub808\uc5b4 \ud558\uc6b0))",
   "name": "TrenChill K-R&B",
   "published_playlist_ids": [
     "3joqGbdyT1iJwODdo3szax"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 241765,
       "name": "Cigarette (Feat. Tablo, MISO)",
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 206250,
       "name": "Come Back Home (feat. Yeeun)",
       "url": "https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94"
@@ -3195,7 +3195,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 211346,
       "name": "For You (Holiday Remix) - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5"
@@ -3581,7 +3581,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 158468,
       "name": "gr8",
       "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
@@ -4328,6 +4328,24 @@
     },
     {
       "album": {
+        "name": "[Hwa Sa Show Vol.1] just talking to myself",
+        "url": "https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim"
+      },
+      "artists": [
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "just talking to myself",
+      "url": "https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5"
+    },
+    {
+      "album": {
         "name": "kibun (feat. vntermude)",
         "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
@@ -4948,6 +4966,24 @@
     },
     {
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
+    },
+    {
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -5422,6 +5458,24 @@
     },
     {
       "album": {
+        "name": "merry merry",
+        "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165693,
+      "name": "merry merry",
+      "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
@@ -5778,6 +5832,28 @@
     },
     {
       "album": {
+        "name": "NOI MAS",
+        "url": "https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216601,
+      "name": "Never Leave Me (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI"
+    },
+    {
+      "album": {
         "name": "NEW GIRL (feat. Kid Milli)",
         "url": "https://open.spotify.com/album/2Q2A0i59Uk99vBKRjLvvKx"
       },
@@ -5951,7 +6027,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 169800,
       "name": "No worries, I'm good",
       "url": "https://open.spotify.com/track/4knaEneI5Aus0Iro4Kn6PA"
@@ -7193,7 +7269,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 193500,
       "name": "Sandfunk (feat. ELO)",
       "url": "https://open.spotify.com/track/0vM0bCUmKNGAGTmie7yv13"
@@ -8583,7 +8659,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 195666,
       "name": "Vanishing Cats",
       "url": "https://open.spotify.com/track/33DQMWkaKTBkpKlmXuuNT0"

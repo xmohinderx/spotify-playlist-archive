@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-323 songs - 19 hr 39 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
+324 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 | 2021-03-26 | 2022-07-29 |
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2021-03-26 |  |
 | [Big Mountain](https://open.spotify.com/track/26NYHnihUaLfBIzSNf6saR) | [Wormy](https://open.spotify.com/artist/7tdmyWI7sZC48UZmOity9Z) | [Big Mountain](https://open.spotify.com/album/31SxPCD28gFYsAlgIabLSt) | 4:47 | 2021-09-01 | 2022-07-28 |
-| [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 | 2022-12-05 |  |
+| [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 | 2022-12-05 | 2022-12-10 |
 | [Blame](https://open.spotify.com/track/5j5bTgdWPU5h3MDhhaMbDX) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Blame](https://open.spotify.com/album/7gwnkG7m1cna7GPo2kUEud) | 2:50 | 2021-09-24 | 2022-04-17 |
 | [Blessed](https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Blessed](https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia) | 3:57 | 2021-09-24 | 2022-07-27 |
 | [Blue Coupe](https://open.spotify.com/track/3jw5KrLTxeIzpSvByNsH7F) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Sweet '17 Singles](https://open.spotify.com/album/27kop3lqGhtX1fQsBc0lty) | 3:42 | 2021-03-26 | 2022-04-15 |
@@ -68,7 +68,7 @@
 | [Come on Mess Me Up](https://open.spotify.com/track/6lOHJvk1ss3cH42PlxyLvo) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [This Is Our Vice](https://open.spotify.com/album/4cSJTDkqQjB7WweWHdtZ48) | 3:23 | 2021-03-26 | 2022-07-29 |
 | [Coming of Age](https://open.spotify.com/track/3x5VSETP4fRjK2MoZfyVlE) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4pT8v3CWFQci5DQRUVmI3G) | 4:11 | 2021-03-26 | 2022-07-29 |
 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 | 2021-08-27 | 2022-07-29 |
-| [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 | 2021-03-26 | 2022-12-06 |
+| [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 | 2021-03-26 |  |
 | [Could It Be Another Change](https://open.spotify.com/track/50kciHpxC7QyJQujF2LUiF) | [The Samples](https://open.spotify.com/artist/4KV8ACcPuT3Jyx9Bvh6OFs) | [The Samples](https://open.spotify.com/album/4e47xNM1gZ3b43vwo2yb6z) | 3:28 | 2021-12-21 | 2022-04-17 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-10-01 | 2022-07-29 |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-08-12 | 2022-10-13 |
@@ -98,7 +98,7 @@
 | [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2021-03-26 | 2022-07-29 |
 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 | 2021-03-26 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2021-03-26 |  |
-| [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2022-11-29 |  |
+| [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2022-11-29 | 2022-12-10 |
 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 | 2022-03-04 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2021-03-26 |  |
 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 | 2021-03-26 |  |
@@ -244,7 +244,7 @@
 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 | 2021-03-26 | 2022-07-27 |
 | [Seeds](https://open.spotify.com/track/7pJAND8bggxN2rEVYGpPfA) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Seeds](https://open.spotify.com/album/5DYJOrXI0vwA50AW5PAjfW) | 4:11 | 2021-05-07 | 2022-07-29 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-26 | 2022-04-20 |
-| [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 | 2021-03-26 | 2022-12-08 |
+| [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 | 2021-03-26 |  |
 | [Show Up](https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Show Up](https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY) | 3:21 | 2021-11-05 | 2022-07-29 |
 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 | 2021-05-15 | 2022-04-14 |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2021-05-15 |  |
@@ -259,6 +259,7 @@
 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 | 2021-03-26 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2021-03-26 |  |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2021-08-06 | 2022-04-17 |
+| [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2022-12-10 |  |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2021-09-18 |  |
 | [Spirals](https://open.spotify.com/track/21XK3S7N0Jyx9IJLG1tF6D) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Spirals](https://open.spotify.com/album/3jatKNCm41BJlB7y27emjF) | 4:55 | 2022-05-20 | 2022-07-29 |
 | [Stolen Dance](https://open.spotify.com/track/2jiPHbFX5XM8TjaTfYJ0eo) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1CEBG1qVlHZr6v7eHAVF4W) | 5:13 | 2021-03-26 | 2022-04-20 |
@@ -324,7 +325,7 @@
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2021-03-26 |  |
 | [Wide Open Spaces](https://open.spotify.com/track/0otqLHZ2jLAFYu1LLOZzy8) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Wide Open Spaces](https://open.spotify.com/album/77ETBs8gKb44SezIbEMOp9) | 5:01 | 2021-05-14 | 2022-07-29 |
 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 | 2021-03-26 | 2022-04-21 |
-| [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2021-03-26 |  |
+| [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2021-03-26 | 2022-12-10 |
 | [You Know It](https://open.spotify.com/track/169pWCmfvVazzcL4EXFPgL) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Only The Lonely](https://open.spotify.com/album/5vBnIcG7nD3XEt8ErHpytO) | 3:02 | 2021-03-26 | 2022-07-29 |
 | [You Want Everyone To Love You](https://open.spotify.com/track/1OMpWqQCH6GGmHtHJ1xeZk) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [places i’ve lived](https://open.spotify.com/album/5upABJYpPbI6bGWI4UlaEM) | 4:04 | 2021-10-01 | 2022-02-16 |
 | [You Were](https://open.spotify.com/track/7e4ZgRoo2aul0CDlLfIl1F) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Were](https://open.spotify.com/album/32Od9boBc17oS67XnOuMjJ) | 3:13 | 2021-03-26 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Field Medic
 
-273 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+274 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Mohabbat](https://open.spotify.com/track/5PY0OvDT2tnAykdiUQayF8) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mohabbat](https://open.spotify.com/album/1DUjMy0rHh8ckyyvGzQzhm) | 7:42 | 2022-01-21 | 2022-07-29 |
 | [Money Honey](https://open.spotify.com/track/3ZmxvybcMbgR6ySIJeuMOY) | [Zelma Stone](https://open.spotify.com/artist/6zCGW0ocbATOowwaED1mbs) | [Money Honey](https://open.spotify.com/album/2dODpgdAH17PWIFVEPprHm) | 3:50 | 2022-04-13 | 2022-07-29 |
 | [Moon Phase](https://open.spotify.com/track/544All8qqFl7xPX04BFjN7) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [becalmyounglovers](https://open.spotify.com/album/2v6unA9iS25xjas5WVHzEE) | 3:03 | 2022-04-13 | 2022-07-29 |
+| [More](https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [More](https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8) | 4:46 | 2022-12-09 |  |
 | [Mother](https://open.spotify.com/track/6YYInRSnBw8cbEx9sN1ocI) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/1ceVlojqwgJjJUQFia6k16) | 3:15 | 2022-04-13 | 2022-07-29 |
 | [My Blue Suit](https://open.spotify.com/track/4AeMm4h6EIiVDBVgzfE2Qf) | [Matt Sweeney](https://open.spotify.com/artist/6IpGCPfdHtfNZwSGihxXSj), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [My Blue Suit](https://open.spotify.com/album/417TS9g3Cjst35yPEMSJph) | 2:36 | 2022-01-21 | 2022-07-28 |
 | [My Day \(feat\. Alenni\) \(Cordova Session\)](https://open.spotify.com/track/1zxHV6rvRYw8TOO7DequN7) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q), [Alenni](https://open.spotify.com/artist/4H9dYNlHz7Qz20rAh4UscB) | [My Day / What the Hell is Going On? \(Cordova Sessions\)](https://open.spotify.com/album/2v4porMNwSQodSEYmiopZE) | 3:06 | 2022-04-13 | 2022-07-29 |
@@ -257,7 +258,7 @@
 | [Truth Nugget](https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 4:41 | 2022-04-29 |  |
 | [Try Harder](https://open.spotify.com/track/6jLWZqrb635O5jpd3vrHoj) | [Aerial East](https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi) | [Try Harder](https://open.spotify.com/album/6l7BRlwMYdmenmov2wPUJb) | 3:16 | 2022-04-13 | 2022-07-27 |
 | [Ultraviolet](https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V) | [Ultraviolet](https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd) | 3:50 | 2022-04-13 | 2022-11-14 |
-| [Under the Sky](https://open.spotify.com/track/1pU3Ujy096uOmEd68Doqi3) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [When It Comes](https://open.spotify.com/album/3onCVtegEMRsrgiysa4m1P) | 4:18 | 2022-04-29 |  |
+| [Under the Sky](https://open.spotify.com/track/1pU3Ujy096uOmEd68Doqi3) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [When It Comes](https://open.spotify.com/album/3onCVtegEMRsrgiysa4m1P) | 4:18 | 2022-04-29 | 2022-12-10 |
 | [Under the Sky](https://open.spotify.com/track/3vbBc820WrJ6xMjwxB4bxM) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [I Kiss the Night](https://open.spotify.com/album/29WmMuLngwP4b4j1ExcwBv) | 4:18 | 2022-04-13 | 2022-07-29 |
 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 | 2022-09-09 |  |
 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2022-01-21 |  |

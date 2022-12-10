@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,807 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,953 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
-| 2 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 |
+| 2 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 |
 | 3 | [Joni: LA's No\. 1 Health Goth](https://open.spotify.com/track/4gq0UBygSttdeOkjMNDZQB) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:37 |
 | 4 | [Cherry Blue Intention](https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 3:23 |
 | 5 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [She Said](https://open.spotify.com/track/2azIROikp58zEAbcYYmLpH) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:53 |
 | 50 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 |
 
-Snapshot ID: `MTY2OTEzNTUyNCwwMDAwMDAwMDNjNDJmOGYzNDU2ZWJiZTM2ZjczY2E3NmIyZTJkMTQ1`
+Snapshot ID: `MTY2OTEzNTUyNCwwMDAwMDAwMDJmNzMzMTYyMzhiNTg1OTcwMzc4ZWUyMThjZmIyOTZi`

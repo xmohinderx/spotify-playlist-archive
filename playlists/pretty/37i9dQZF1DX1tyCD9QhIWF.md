@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,246,757 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,247,040 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 30 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 31 | [It's Not Your Fault](https://open.spotify.com/track/0l8NnoFm09sUNcts1ycOtV) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 3:18 |
 | 32 | [Dead Weight](https://open.spotify.com/track/7hM9ShrZMCV7xYOQwqBnNb) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Dead Weight](https://open.spotify.com/album/7pyv1fWhBIstEJVTyuMZK5) | 3:27 |
-| 33 | [This is Our Life](https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/7GIxrgLPIKexc7d5FwNtuX) | 3:44 |
+| 33 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
 | 34 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [Slaves](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 |
 | 35 | [Slow](https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Slow](https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D) | 3:07 |
 | 36 | [I.N.V.U.](https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [I.N.V.U.](https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 49 | [Apartment Complex on the Eastside](https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 4:07 |
 | 50 | [Black Roller Coming](https://open.spotify.com/track/5OLFlnmmC8gQHiFisYvrAh) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 2:49 |
 
-Snapshot ID: `MTY2MzExMjEwNCwwMDAwMDAwMGE1MTYzYmUxMDVhM2RiZmZjNjgzNWYwMWM3MGY2NmI2`
+Snapshot ID: `MTY2MzExMjEwNCwwMDAwMDAwMGUxOGI5N2YwY2ExNjBkMzlhMTgzZjNkMWI5MmY3Mjk0`

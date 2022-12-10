@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Argentina en la casa! Foto: Nicki Nicole.",
+  "description": "Argentina en la casa! Foto: Angela Torres.",
   "name": "Reggaet\u00f3n Argentino",
   "published_playlist_ids": [
     "6tDUGVVPmoQw2RkVQfmtJk"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 136744,
       "name": "El Maquinon",
       "url": "https://open.spotify.com/track/1NOImFygNaIBUSoL3C6Jnt"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 131332,
       "name": "HIP\u00d3CRITA",
       "url": "https://open.spotify.com/track/3lXc5YpK6Pta0e7LpVb2lf"
@@ -1278,6 +1278,24 @@
     },
     {
       "album": {
+        "name": "Kitty",
+        "url": "https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129130,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy"
+    },
+    {
+      "album": {
         "name": "KU'",
         "url": "https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf"
       },
@@ -1301,6 +1319,24 @@
       "duration_ms": 230544,
       "name": "KU'",
       "url": "https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M"
+    },
+    {
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151988,
+      "name": "LA NENA DE ARGENTINA",
+      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
     },
     {
       "album": {

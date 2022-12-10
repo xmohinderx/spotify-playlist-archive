@@ -4,7 +4,7 @@
 
 > i'll dance, dance, dance with my hands, hands, hands 🖤
 
-887 songs - 1 day 22 hr 56 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+888 songs - 1 day 22 hr 59 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,7 +730,8 @@
 | [Somewhere Only We Know](https://open.spotify.com/track/7jxu1xilREQM8KAZlvr2iG) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [2000s Songs](https://open.spotify.com/album/0HvKpKZAJYcvfdKoD8UIoE) | 3:56 | 2022-11-10 | 2022-11-13 |
 | [Sorry to Your Next Ex](https://open.spotify.com/track/3MmSF1hLnAHBrpF4A0fY9d) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Sorry to Your Next Ex](https://open.spotify.com/album/2lvlrdFQRBNcgok4O4QKGK) | 2:49 | 2022-05-19 |  |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2022-12-01 |  |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-07 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-07 | 2022-12-10 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-08 |  |
 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2022-05-19 |  |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-22 |  |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-05-19 |  |

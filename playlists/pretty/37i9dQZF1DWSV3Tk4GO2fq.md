@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 
 > The biggest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,078 likes - 150 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,505 likes - 150 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 146 | [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 |
 | 147 | [Isn't This A Lovely Day?](https://open.spotify.com/track/7paEvsQ08LWCV8Agvo9CWa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 6:17 |
 | 148 | [Lonesome Town \- 1990 Digital Remaster](https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:15 |
-| 149 | [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 |
+| 149 | [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 |
 | 150 | [Shake, Rattle And Roll \- Single Version](https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Bill Haley's Greatest Hits](https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV) | 2:30 |
 
 Snapshot ID: `MTY1OTM0MDI2NywwMDAwMDAwMDYzMzMwN2JkOTJlNzkyMWM4OTk0NmExOGMxMjM1NTBi`

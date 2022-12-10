@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 102 Boyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,872 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,058 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 71 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 |
 | 72 | [Geruch von Koks \(feat\. Paula Hartmann\)](https://open.spotify.com/track/3RC8VtoWlLcwYoZbz3zpBX) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Geruch von Koks \(feat\. Paula Hartmann\)](https://open.spotify.com/album/2irGlvjYWIG5mtVwlahBu3) | 3:35 |
 | 73 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
-| 74 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 |
+| 74 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 |
 | 75 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 |
 | 76 | [Nachts wach \(Lila Wolken Bootleg\)](https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Nachts wach](https://open.spotify.com/album/6VLivifFeh65jFqwXCAar3) | 2:38 |
 | 77 | [Seele reparieren](https://open.spotify.com/track/6nT7FJgeygiJUlUGEMXDNY) | [PAVLO](https://open.spotify.com/artist/1bS16AfHx66Yys34XXjwD2), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [Notorious Nasty](https://open.spotify.com/artist/314BD4WMcpzWcNQ87X5tew) | [Seele reparieren](https://open.spotify.com/album/7lpCQHON81q6g2FNrCLYMC) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 100 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDc2MDAwMGI1MTliMzgwNmNkNmY5YjBkNGVlYmJkMzYw`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGVhNDdmZGQyOGJhNGY3NDM5NDUyNjBmZjM1OWQ0NDI1`

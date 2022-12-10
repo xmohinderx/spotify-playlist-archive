@@ -2848,6 +2848,24 @@
     },
     {
       "album": {
+        "name": "Songs That Sleigh",
+        "url": "https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272128,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5buoO4z08iVTp3i8wxtYUK"
+    },
+    {
+      "album": {
         "name": "Sorted Noise Records: A Holiday Album, Vol. 2",
         "url": "https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT"
       },

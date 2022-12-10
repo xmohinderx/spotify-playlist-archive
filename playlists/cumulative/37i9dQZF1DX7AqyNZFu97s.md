@@ -4,7 +4,7 @@
 
 > Introducing the Class of 2022\. Cover: Jaish
 
-677 songs - 1 day 12 hr 45 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
+678 songs - 1 day 12 hr 49 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Before We Were Us](https://open.spotify.com/track/04ag2eala9ZAxtmDCCWNxx) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [Before We Were Us](https://open.spotify.com/album/0VqPBtd4Jr05sOiZkNYeEK) | 2:57 | 2022-03-08 | 2022-03-09 |
 | [beginners' krav maga](https://open.spotify.com/track/73cVv3i5m47vfiNnhaxTQ8) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [beginners' krav maga](https://open.spotify.com/album/5U0iDRNChDuXvbRWtx7yKu) | 2:38 | 2022-01-28 | 2022-03-17 |
 | [Beige](https://open.spotify.com/track/06uCqIkWqwxBDWVGzYXICN) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/2ep49soIT8mJN77rwA0n78) | 3:22 | 2022-01-05 | 2022-03-11 |
-| [Beige](https://open.spotify.com/track/6b5DuZCURXBYCFoizbB31M) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/1O2L22NDOm40KtP8nUT6a2) | 3:22 | 2022-11-30 |  |
+| [Beige](https://open.spotify.com/track/3OBhDSxocfqs9knOUWYkBF) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:22 | 2022-11-30 |  |
+| [Beige](https://open.spotify.com/track/6b5DuZCURXBYCFoizbB31M) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/1O2L22NDOm40KtP8nUT6a2) | 3:22 | 2022-11-30 | 2022-12-10 |
 | [Being Wrong](https://open.spotify.com/track/0PjOZxeR5NHnaIcLQAryvD) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Being Wrong](https://open.spotify.com/album/4pvddL619CqPhH6AMIqBrD) | 2:33 | 2022-01-05 | 2022-02-24 |
 | [Bell Jar](https://open.spotify.com/track/3jE1Nj3eugz8gzGtUMpVji) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [Bell Jar / the Gallery](https://open.spotify.com/album/6t3MykZRBkk3JJD6E9gPb1) | 2:26 | 2022-06-08 | 2022-09-01 |
 | [BELLS LIKE BABY](https://open.spotify.com/track/0cPB5MvFBFmD8aOrXgb2yi) | [kkbutterfly27xx](https://open.spotify.com/artist/10Ql0msZpTq98eDnRUqyqm), [Sawdu Plushia](https://open.spotify.com/artist/4jLee8xErp0xmNTVlhOUEx) | [Bells like baby](https://open.spotify.com/album/4x15xSRyN33ssuvnFOSizD) | 2:15 | 2022-08-24 | 2022-10-07 |

@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-271 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+273 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Serenity](https://open.spotify.com/track/0Tan0vrdENegJ15DutFCxT) | [Songs Of](https://open.spotify.com/artist/5RPFxr1DcmfenWIysgm1gl) | [Symmetry](https://open.spotify.com/album/39yRp0HHmALRLzIN8nJNl5) | 2:45 | 2021-12-10 |  |
 | [Serenity](https://open.spotify.com/track/3hRHtzo5i6J7rKK0g6iite) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Serenity](https://open.spotify.com/album/3PzVxjrkJDlSO4t9OXMhw2) | 2:47 | 2021-12-10 | 2022-08-13 |
 | [Shapeless](https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Shapeless](https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE) | 2:43 | 2021-12-10 |  |
+| [Shelter](https://open.spotify.com/track/6AOdCocb5K5qoqtgJJZfbv) | [Armando Mago](https://open.spotify.com/artist/3G03DUCoeCCsWqlZRlvakU) | [Shelter](https://open.spotify.com/album/6T315JLO4N7RDtHYMRt2Vx) | 2:25 | 2022-12-09 |  |
 | [Sidereus](https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Sidereus](https://open.spotify.com/album/338OsNe2iBBwVdhpdtCGm3) | 3:27 | 2021-12-10 |  |
 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 | 2021-12-10 |  |
 | [Simplicity](https://open.spotify.com/track/44u00vPcT8iajEhoWC2Mar) | [Lilja valjas](https://open.spotify.com/artist/7hOaXb9KVFEZYjTJFjv5Km) | [Simplicity](https://open.spotify.com/album/6abhGJnqtGHO4YeGiGzp3p) | 2:50 | 2021-12-10 |  |
@@ -271,6 +272,7 @@
 | [Whenever You're With Me](https://open.spotify.com/track/37svGyFPieAZ9D89ejymzG) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Whenever You're With Me](https://open.spotify.com/album/6Zi81juw9l7a13KmNMJjQb) | 1:53 | 2021-12-10 | 2022-09-03 |
 | [Where The Street End](https://open.spotify.com/track/4hc6B7G97DoU45u5lYsoZ8) | [Alpine Sun](https://open.spotify.com/artist/5FivdXVNbUZheGS5gTb9WE) | [Weightless Sorrows](https://open.spotify.com/album/0XhPFxCMNU3aCQqrDnk3pT) | 3:02 | 2021-12-10 |  |
 | [Where There Is Hope](https://open.spotify.com/track/1FccNfzWE4sM0h63DrxRl3) | [Michelle Leah](https://open.spotify.com/artist/3osm2fEhvdctN9Dhw3S09C) | [Where There Is Hope](https://open.spotify.com/album/1yrslqpMrsTdxIoNsD4N56) | 3:22 | 2021-12-10 |  |
+| [Where Trees Stand Tall](https://open.spotify.com/track/2dfPVbN70gDVrfMHdsfrUC) | [Lesunia](https://open.spotify.com/artist/3rfxxLcf3jUOQN2ptyhIVj) | [Where Trees Stand Tall](https://open.spotify.com/album/1Su8cxJRziavqhZt8NKuYv) | 1:58 | 2022-12-09 |  |
 | [White Clouds](https://open.spotify.com/track/0oc8j70828V2wJgp7PIWEk) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [White Clouds](https://open.spotify.com/album/54uMaCxZWeMGRzGaOQSEUe) | 2:59 | 2021-12-10 |  |
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2021-12-10 | 2022-08-13 |
 | [Willow](https://open.spotify.com/track/7vGB0te1eym1Gf8NJlXKF7) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [Willow](https://open.spotify.com/album/0Dj4cbCUpaInhC1CfukTwT) | 2:06 | 2021-12-10 |  |

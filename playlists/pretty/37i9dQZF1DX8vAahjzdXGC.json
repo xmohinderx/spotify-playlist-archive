@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Keisya Levronka",
-  "num_followers": 159212,
+  "num_followers": 159308,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUxODgwMCwwMDAwMDAwMGUwZmM3MmI5Mzg0YzU4ODlkZjQ3NGQ0Mjk3YzIyY2Yx",
+  "snapshot_id": "MTY3MDU3MDI4MiwwMDAwMDAwMGI5YWFhYWJhNGY4ZDE0NWFlMThmZDVkZTgxNzdhMTM5",
   "tracks": [
     {
       "added_at": "2022-12-08 17:00:00",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/1Sj8vwRdJRDgOws3XRmyCM"
     },
     {
-      "added_at": "2022-12-08 17:00:00",
+      "added_at": "2022-12-09 01:54:48",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 117773,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W"
+      "duration_ms": 180853,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
     },
     {
       "added_at": "2022-12-08 17:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-12-08 17:00:00",
       "album": {
+        "name": "Omnibus, Pt. 2: Inside Out",
+        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
+    },
+    {
+      "added_at": "2022-12-08 17:00:00",
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp"
       },
@@ -427,6 +443,22 @@
       "duration_ms": 268524,
       "name": "Jangan Ada Kata Pisah",
       "url": "https://open.spotify.com/track/7DaCGEtryNWN3ARuCh8SZp"
+    },
+    {
+      "added_at": "2022-12-09 07:18:02",
+      "album": {
+        "name": "Remnants",
+        "url": "https://open.spotify.com/album/2YvQhNn5yA0WOaSsq77py4"
+      },
+      "artists": [
+        {
+          "name": "Aruna Dawn",
+          "url": "https://open.spotify.com/artist/0IR68oTOmMzCDoidJ7FICS"
+        }
+      ],
+      "duration_ms": 154925,
+      "name": "Remnants",
+      "url": "https://open.spotify.com/track/4VdUAvC8XWWbPAsshtf9tV"
     },
     {
       "added_at": "2022-12-08 17:00:00",
@@ -809,6 +841,22 @@
       "url": "https://open.spotify.com/track/4TPlWx1AaskNu8VLrjgQa2"
     },
     {
+      "added_at": "2022-12-09 04:11:12",
+      "album": {
+        "name": "To Let You Go",
+        "url": "https://open.spotify.com/album/2UMbXWDEF0uaxm1y55JMWO"
+      },
+      "artists": [
+        {
+          "name": "Ei",
+          "url": "https://open.spotify.com/artist/3bcAVVQaEz0ruGunLrjvw0"
+        }
+      ],
+      "duration_ms": 246445,
+      "name": "To Let You Go",
+      "url": "https://open.spotify.com/track/6MyOkrGWGePZGLJiVvEHfh"
+    },
+    {
       "added_at": "2022-12-08 17:00:00",
       "album": {
         "name": "Berjuang Bukan Sembarang",
@@ -1043,6 +1091,22 @@
     {
       "added_at": "2022-12-08 17:00:00",
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/1NVTjDBAJGzgkCgnj9Mkuo"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 111535,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/6zaoVw156UmdL8D3xOwggX"
+    },
+    {
+      "added_at": "2022-12-08 17:00:00",
+      "album": {
         "name": "two",
         "url": "https://open.spotify.com/album/2wDqSDRDZAhC4YujETIrPt"
       },
@@ -1079,8 +1143,8 @@
     {
       "added_at": "2022-12-08 17:00:00",
       "album": {
-        "name": "KiCk i",
-        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
       },
       "artists": [
         {
@@ -1090,7 +1154,7 @@
       ],
       "duration_ms": 139850,
       "name": "Nonbinary",
-      "url": "https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT"
+      "url": "https://open.spotify.com/track/55OmTIQj8yjQFzDP1XUT5w"
     },
     {
       "added_at": "2022-12-08 17:00:00",
@@ -1192,7 +1256,7 @@
       },
       "artists": [
         {
-          "name": "\u5f35\u7cb9\u65b9",
+          "name": "Dena",
           "url": "https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l"
         }
       ],
@@ -1225,7 +1289,7 @@
       "artists": [
         {
           "name": "AINN",
-          "url": "https://open.spotify.com/artist/4Fzh679QC1iwpQXm2M6bgq"
+          "url": "https://open.spotify.com/artist/3q2Q5ZizaHq727uR0MIYMK"
         }
       ],
       "duration_ms": 193714,

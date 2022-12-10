@@ -1,13 +1,61 @@
 {
-  "description": "living life in your 250sq ft micro apartment - cover: Rene\u00e9 Rapp",
-  "num_followers": 1435951,
+  "description": "it's the holiday remix with Miss Sabrina Carpenter",
+  "num_followers": 1436739,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDM3YjhhNzYzZDBiNzc1MWFjYTIyNTAxY2Q0ZDgxNDI1",
+  "snapshot_id": "MTY3MDU2MjcyNCwwMDAwMDAwMGVlMmIzYmMwZGY1NjFkZjUwYmUyNTIzYjMwYmNhYWE2",
   "tracks": [
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "A Nonsense Christmas",
+        "url": "https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 153099,
+      "name": "A Nonsense Christmas",
+      "url": "https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Girl Like Me",
+        "url": "https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 149456,
+      "name": "Girl Like Me",
+      "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 248818,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
+    },
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
@@ -25,36 +73,36 @@
       "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/0Qkz4dXVbm9MTpGTfO7zfg"
+        "name": "Christmas Tree Farm",
+        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 163648,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/3MVIHbuVWx7MLRRdHWnd8j"
+      "duration_ms": 228026,
+      "name": "Christmas Tree Farm",
+      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Smoke Signal",
-        "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
+        "name": "stacy's brother",
+        "url": "https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68"
       },
       "artists": [
         {
-          "name": "Olivia Knox",
-          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
         }
       ],
-      "duration_ms": 152727,
-      "name": "Smoke Signal",
-      "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
+      "duration_ms": 182400,
+      "name": "stacy's brother",
+      "url": "https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -77,68 +125,20 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Backtrack",
-        "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 158840,
-      "name": "Backtrack",
-      "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "stacy's brother",
-        "url": "https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "stacy's brother",
-      "url": "https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Kiss You",
-        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Kiss You",
-      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/1893jpgnH51NsGubSHlvfJ"
-      },
-      "artists": [
-        {
-          "name": "Annika Rose",
-          "url": "https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv"
-        }
-      ],
-      "duration_ms": 165021,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5ll8HAvZjHncvYQbGmQiWS"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -159,6 +159,22 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Devil Is A Woman",
+        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 192491,
+      "name": "Devil Is A Woman",
+      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -223,22 +239,6 @@
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Superache",
-        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 248818,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -471,26 +471,6 @@
       "duration_ms": 117727,
       "name": "STRUT",
       "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "For the Night",
-        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 205170,
-      "name": "For the Night",
-      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1373,6 +1353,22 @@
       "url": "https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34"
     },
     {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Kiss You",
+        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 152506,
+      "name": "Kiss You",
+      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "why u gotta be like that (feat. Nightly)",
@@ -1507,22 +1503,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "ugly",
-        "url": "https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "ugly",
-      "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
       },
@@ -1615,22 +1595,6 @@
       "duration_ms": 140826,
       "name": "stupid i miss u",
       "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Baby Don't Go",
-        "url": "https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 152230,
-      "name": "Baby Don't Go",
-      "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1843,26 +1807,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Awaken (Feel Alive)",
-        "url": "https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 180204,
-      "name": "Awaken (Feel Alive)",
-      "url": "https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "End of an Era",
         "url": "https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc"
       },
@@ -1975,22 +1919,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Bye Bye Blues",
-        "url": "https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO"
-      },
-      "artists": [
-        {
-          "name": "Stela Cole",
-          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Bye Bye Blues",
-      "url": "https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Late To The Party",
         "url": "https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX"
       },
@@ -2035,6 +1963,22 @@
       "duration_ms": 193731,
       "name": "Hot Crush Lover",
       "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Did It Hurt?",
+        "url": "https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 164566,
+      "name": "Did It Hurt?",
+      "url": "https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2163,6 +2107,22 @@
       "duration_ms": 124636,
       "name": "CLONES",
       "url": "https://open.spotify.com/track/20Qs2YytFIhWlw278Pd8B8"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Backtrack",
+        "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Backtrack",
+      "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2415,22 +2375,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "TRANSITIONS EP",
-        "url": "https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "M&M's for Breakfast",
-      "url": "https://open.spotify.com/track/3Gk5K27zIXTMqnbUEwzBmA"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Old Her",
         "url": "https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc"
       },
@@ -2445,36 +2389,84 @@
       "url": "https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Penny",
-        "url": "https://open.spotify.com/album/7L0E6vv8DPyAUirVSwSJNW"
+        "name": "Smoke Signal",
+        "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
       },
       "artists": [
         {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+          "name": "Olivia Knox",
+          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
         }
       ],
-      "duration_ms": 222529,
-      "name": "Sunny D",
-      "url": "https://open.spotify.com/track/6RfuWRctUik5CiwnIajDVB"
+      "duration_ms": 152727,
+      "name": "Smoke Signal",
+      "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 191949,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Used To",
+        "url": "https://open.spotify.com/album/0c1M4N5265NMLoKlJAFd0q"
+      },
+      "artists": [
+        {
+          "name": "Lila Drew",
+          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
+        }
+      ],
+      "duration_ms": 199089,
+      "name": "Used To",
+      "url": "https://open.spotify.com/track/0v2TpzTRJvP43SNFs8iB4k"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Love You When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "Love You When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "how dare you",
+        "url": "https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 177247,
+      "name": "how dare you",
+      "url": "https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS"
     }
   ],
   "unique_name": "young & free",

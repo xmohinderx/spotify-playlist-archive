@@ -4,7 +4,7 @@
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-76 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
+77 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Tour Stories \- Instrumental](https://open.spotify.com/track/71UYIUEqgChcl8gBAOrrGI) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [Tour Stories](https://open.spotify.com/album/5x2FrDwXcD3rftOgRxCjmW) | 4:45 | 2022-11-25 |  |
 | [Travellin' Man \(Instrumental\)](https://open.spotify.com/track/5GVTLWtI6oJYYHeuxKjfPO) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:16 | 2022-07-22 |  |
 | [Tried by 12 \(Instrumental\)](https://open.spotify.com/track/3vIqoLnL7Y20z3ityk8h5i) | [The East Flatbush Project](https://open.spotify.com/artist/4BjbptmmVOKOYPTKivxmWp) | [First Born](https://open.spotify.com/album/2mtaatiOutLFEB0UlvAZse) | 2:54 | 2022-07-22 | 2022-08-13 |
+| [Walk in the Park \- Remix Instrumental](https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Public Assembly](https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay) | 4:28 | 2022-12-09 |  |
 | [Watanabe](https://open.spotify.com/track/7vIxfxNI94g3qeGJ6xoJBA) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Watanabe](https://open.spotify.com/album/0qobFyLAWz1SHcc8vmlQaK) | 1:59 | 2022-07-22 |  |
 | [What You Want \- Instrumental](https://open.spotify.com/track/5RXxzWwZh6ywqPjWV8qXhq) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [What You Want](https://open.spotify.com/album/0XJn9bM9zWldjvjgWSqhxd) | 4:36 | 2022-07-22 |  |
 | [What's Real \- Instrumental](https://open.spotify.com/track/4BUrdsObZr1hX5GvmIVNaZ) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Group Home](https://open.spotify.com/artist/48elQHSJ3DmffHQpf89jxX), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [One Of The Best Yet \(Instrumental\)](https://open.spotify.com/album/2RM0ccLK3EL96uOGXTNg1R) | 3:24 | 2022-07-22 |  |

@@ -1289,7 +1289,7 @@
     {
       "album": {
         "name": "Contours of a Cliff",
-        "url": "https://open.spotify.com/album/1O2L22NDOm40KtP8nUT6a2"
+        "url": "https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0"
       },
       "artists": [
         {
@@ -1300,6 +1300,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202495,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/3OBhDSxocfqs9knOUWYkBF"
+    },
+    {
+      "album": {
+        "name": "Contours of a Cliff",
+        "url": "https://open.spotify.com/album/1O2L22NDOm40KtP8nUT6a2"
+      },
+      "artists": [
+        {
+          "name": "Cooza",
+          "url": "https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
       "duration_ms": 202495,
       "name": "Beige",
       "url": "https://open.spotify.com/track/6b5DuZCURXBYCFoizbB31M"

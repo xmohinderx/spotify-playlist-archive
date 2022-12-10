@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,084 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,130 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 5 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
 | 6 | [Otro Perdedor](https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Otro Perdedor](https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD) | 4:10 |
 | 7 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 |
-| 8 | [El Famoso Chino Antrax](https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:18 |
+| 8 | [Joaquín](https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joaquín](https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi) | 3:29 |
 | 9 | [Rolling One](https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 4:03 |
-| 10 | [Joaquín](https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joaquín](https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi) | 3:29 |
+| 10 | [El Famoso Chino Antrax](https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:18 |
 | 11 | [Estrenando Amante](https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Estrenando Amante](https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw) | 2:48 |
 | 12 | [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 |
 | 13 | [Soy Mencho](https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Del Barrio](https://open.spotify.com/track/4hRreLnYg3zgMp9nYxKkBF) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio](https://open.spotify.com/album/63BoqY5Mcs2obz6ZLdWDN8) | 3:03 |
 | 50 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAwODQxNzQzMTViZjk2MWIyMDkwZDNmNTFiNDA3YWY1ZA==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDAwYzdjYzExNGM4NDZmZGMyMjc1Yzk4OGExMDBhZWZkNA==`

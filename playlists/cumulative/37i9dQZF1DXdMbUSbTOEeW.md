@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: King & Masked Wolf
 
-146 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+147 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Balenciaga](https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3) | 2:48 | 2022-05-18 |  |
 | [Balenciaga](https://open.spotify.com/track/7AkaTXiCoyXfUGF1Mzk0Ep) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4ysDej04vod1SPIq4o4m3n) | 2:48 | 2022-07-22 | 2022-10-05 |
 | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/track/1afsdE2fV1sq37wvPHH0EU) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/album/38AVJUS2z5C5ltLyiACFum) | 2:46 | 2022-07-22 |  |
+| [Bappi \- Edit](https://open.spotify.com/track/3oQmoqWlT0HUl0w48CN2Mo) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Bappi](https://open.spotify.com/album/45qi6kZ0LB5kqE8tbmjCy9) | 3:24 | 2022-12-09 |  |
 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 | 2022-05-18 |  |
 | [Big \(feat\. Gunna\)](https://open.spotify.com/track/78oZ26xvmtCfarveRXs3dq) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Big \(feat\. Gunna\)](https://open.spotify.com/album/4oAJhbdsokVDoLHMdbqtDP) | 2:36 | 2021-11-26 | 2022-05-19 |
 | [Burnin](https://open.spotify.com/track/5D246C2tLKCTeZgcsRfvcA) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 2:55 | 2021-11-26 | 2022-02-02 |

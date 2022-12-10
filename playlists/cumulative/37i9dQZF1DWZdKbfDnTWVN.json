@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: Big Yasa",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: Wakadinali",
   "name": "254 Flow",
   "published_playlist_ids": [
     "5uX6eRgTlxUUU0p5d2ahrD"
@@ -169,6 +169,24 @@
       "duration_ms": 146207,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/4FvQmCYubtpfKo5Dhbmf0f"
+    },
+    {
+      "album": {
+        "name": "NDANI YA COCKPIT 3",
+        "url": "https://open.spotify.com/album/3NvCDHqPpNi1y3lVhmAAsy"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333479,
+      "name": "Balalu",
+      "url": "https://open.spotify.com/track/0ARRlq8N1s8cAQ0ykjAez9"
     },
     {
       "album": {
@@ -806,6 +824,28 @@
     },
     {
       "album": {
+        "name": "Connecting The Dots",
+        "url": "https://open.spotify.com/album/65eH656OUbEIXNrFqV0tqc"
+      },
+      "artists": [
+        {
+          "name": "Kig$",
+          "url": "https://open.spotify.com/artist/0f9uh9RgnM6OSO5zkGyRpZ"
+        },
+        {
+          "name": "Kahu$h",
+          "url": "https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230414,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/0SWqx2r2vLUY3j9bCPYnLp"
+    },
+    {
+      "album": {
         "name": "Make Amends",
         "url": "https://open.spotify.com/album/5uFC8GqHRAwtyV2wY8oWER"
       },
@@ -817,7 +857,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 171951,
       "name": "Make Amends",
       "url": "https://open.spotify.com/track/5F2xI5nPDnatDJvNtP06NA"
@@ -1113,10 +1153,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 197565,
       "name": "Pree",
       "url": "https://open.spotify.com/track/2YEu77cQVAPT51V4dWSyAb"
+    },
+    {
+      "album": {
+        "name": "EAST MPAKA LONDON",
+        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197565,
+      "name": "PREE",
+      "url": "https://open.spotify.com/track/37Y6TzAQsNfXR5nfQsrkBW"
     },
     {
       "album": {
@@ -1293,6 +1351,24 @@
       "duration_ms": 151631,
       "name": "Shetani 1",
       "url": "https://open.spotify.com/track/7cLVeJHt6Liw5HRfDSma5Q"
+    },
+    {
+      "album": {
+        "name": "Shmoke",
+        "url": "https://open.spotify.com/album/1m8EVbDpkDLABR2ojleMPg"
+      },
+      "artists": [
+        {
+          "name": "Xavier Xander",
+          "url": "https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102762,
+      "name": "Shmoke",
+      "url": "https://open.spotify.com/track/3pgVqyZNW3PXilNUdXV9q8"
     },
     {
       "album": {
@@ -1521,7 +1597,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 159757,
       "name": "Thao Moja",
       "url": "https://open.spotify.com/track/1PO7W6fuOlFqM7bdNhzN1q"
@@ -1613,7 +1689,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 267441,
       "name": "Umoroto",
       "url": "https://open.spotify.com/track/5wjD5yBTFfmSzfFdxfNAki"

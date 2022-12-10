@@ -3145,7 +3145,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 144848,
       "name": "El Alma Que Te Trajo",
       "url": "https://open.spotify.com/track/5pGz6FrmpHjOuso83azbik"
@@ -4865,7 +4865,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 159076,
       "name": "HOPE (with Kidd Keo)",
       "url": "https://open.spotify.com/track/79X7BhWIBGSjChXPjkJcvQ"
@@ -6135,7 +6135,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -6790,6 +6790,24 @@
     },
     {
       "album": {
+        "name": "Menorcito",
+        "url": "https://open.spotify.com/album/4IymjYh97Aq8qO5RFh2J3H"
+      },
+      "artists": [
+        {
+          "name": "FiltraDeusss",
+          "url": "https://open.spotify.com/artist/59gWjVJzG3TD9DVJlwdjgV"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318392,
+      "name": "Menorcito",
+      "url": "https://open.spotify.com/track/4DKpKQBNZw4VWBvpqYV7Bx"
+    },
+    {
+      "album": {
         "name": "Menorcito Jordan",
         "url": "https://open.spotify.com/album/0lQOUrsodBYWn7vJSnyutr"
       },
@@ -7351,6 +7369,24 @@
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "album": {
+        "name": "Montagem Orquestra Sinf\u00f4nica",
+        "url": "https://open.spotify.com/album/6Ja89uJAsjfln7NnoXHrIt"
+      },
+      "artists": [
+        {
+          "name": "DJ TENEBROSO ORIGINAL",
+          "url": "https://open.spotify.com/artist/2mq1noMJKfEyEuCR3Iihhc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199999,
+      "name": "Montagem Orquestra Sinf\u00f4nica",
+      "url": "https://open.spotify.com/track/6IptkpsuIYGFtR16DaHVwC"
     },
     {
       "album": {
@@ -9787,7 +9823,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 184666,
       "name": "Segundos Platos",
       "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
@@ -10037,7 +10073,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 185573,
       "name": "Shinunoga E-Wa",
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
@@ -10471,10 +10507,28 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
+    },
+    {
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW"
     },
     {
       "album": {
@@ -11915,6 +11969,28 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
       "album": {

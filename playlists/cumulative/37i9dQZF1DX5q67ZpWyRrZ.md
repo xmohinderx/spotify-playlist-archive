@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> The best Indie tracks\. Cover \- Anuv Jain
+> The best Indie tracks from the scene\. Cover \- Taaruk Raina
 
 169 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,349 likes - 146 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,356 likes - 146 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 34 | [Lilo e Stitch](https://open.spotify.com/track/4yiHkUuvdgOhuxjbBiUW8I) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [Lilo e Stitch](https://open.spotify.com/album/1yTNEwLCDzanzs6c9IAfwe) | 2:37 |
 | 35 | [NON PIANGERE](https://open.spotify.com/track/0aF8dGSr4JxGrNiCLYKydt) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/3POuzBmU79UAhUbtXjp0IM) | 2:45 |
 | 36 | [Soli assieme](https://open.spotify.com/track/6W8sIhqfWYgwzYvwRUQ9iG) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Soli assieme](https://open.spotify.com/album/747G8oEEwQcHz1alvW6Rpv) | 2:42 |
-| 37 | [Bonsai](https://open.spotify.com/track/2uALGYtjQPsTP78Fahhd7E) | [Lasio](https://open.spotify.com/artist/5uBGLejbb9miU8Wj0OswKd), [Rvssk](https://open.spotify.com/artist/24KLO8SifhYTWexRx5G9q3) | [Bonsai](https://open.spotify.com/album/17MAMB9DcY5Gl40pFRy5iY) | 2:53 |
+| 37 | [Bonsai](https://open.spotify.com/track/2uALGYtjQPsTP78Fahhd7E) | [Lasio](https://open.spotify.com/artist/5uBGLejbb9miU8Wj0OswKd), [Piccolorvssk](https://open.spotify.com/artist/4V2xmUqZRloPOuVbH6r4ue) | [Bonsai](https://open.spotify.com/album/17MAMB9DcY5Gl40pFRy5iY) | 2:53 |
 | 38 | [Resta Vivo](https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Resta Vivo](https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp) | 2:56 |
 | 39 | [bellacomestai](https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT) | [bellacomestai](https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM) | 1:58 |
 | 40 | [Lulu \- Acoustic Version](https://open.spotify.com/track/4qfhJANVbltHdayStVa2lg) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Un bacio \(Deluxe Edition\)](https://open.spotify.com/album/6yrXXxGeHilQRiiNPXuPYh) | 3:26 |

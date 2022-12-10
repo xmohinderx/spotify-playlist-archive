@@ -4,14 +4,16 @@
 
 > Warm and cozy acoustic instrumentals.
 
-208 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+211 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Moment To Arise](https://open.spotify.com/track/3122D1oPB9S7azLBXWBrtS) | [Matt Emilien Parker](https://open.spotify.com/artist/1J9TuyJ5QFyXmGqGUHjCYl) | [A Moment To Arise](https://open.spotify.com/album/3eFAeBv4QZXulrBoTmphas) | 2:30 | 2022-05-13 | 2022-06-10 |
+| [A Sky Full of Stars](https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [A Sky Full of Stars](https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1) | 2:36 | 2022-12-09 |  |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-05-13 |  |
 | [Agate](https://open.spotify.com/track/0jSw2WmuvpZaZzbJpEhdui) | [Esther Heath](https://open.spotify.com/artist/0heT0cVuEFMR2TwLjIkXBR) | [Agate](https://open.spotify.com/album/6m6MYjcJWvX2PaBmfO28S0) | 3:04 | 2022-05-13 | 2022-07-22 |
 | [Alahazy Basin](https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Alahazy Basin](https://open.spotify.com/album/27fuxVWhEIMGis2Eu0hgk9) | 2:29 | 2022-10-07 |  |
+| [Altri Tempi](https://open.spotify.com/track/2bdS2ijhi2tuwOlkHFF0lm) | [Atos Arces](https://open.spotify.com/artist/4ljlcKJnAdk2UlhQR638pG) | [Altri Tempi](https://open.spotify.com/album/3QGyNeWDbPOGX6oSXtDCWG) | 4:12 | 2022-12-09 |  |
 | [Am Flussufer](https://open.spotify.com/track/4EDCWd1sxAhOgO17vKHA9k) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 3:58 | 2022-05-13 | 2022-07-22 |
 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-05-13 |  |
 | [Arizona Sunsets](https://open.spotify.com/track/3vBZ5BwSoqcDdab0ks2AEx) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Arizona Sunsets](https://open.spotify.com/album/463pBKIsmNYwXgXuWBvSPq) | 2:07 | 2022-07-08 |  |
@@ -46,6 +48,7 @@
 | [Dew](https://open.spotify.com/track/2AgbBeirZsQscZYJuZYO8t) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Dew](https://open.spotify.com/album/1ihmY5wn40fLchhW60Ibjg) | 2:02 | 2022-10-07 |  |
 | [Diguil](https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Diguil](https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2) | 3:17 | 2022-05-13 |  |
 | [Distances](https://open.spotify.com/track/63iYBQAZDyqQYwf91qG6ZX) | [Between the Dots](https://open.spotify.com/artist/1i1ZRmxu9V91AzofKXp72i) | [Distances](https://open.spotify.com/album/20KF1rWAGlEEiSFVDhKkTL) | 3:05 | 2022-05-13 | 2022-06-10 |
+| [Dreamstate](https://open.spotify.com/track/2MCRPbiKo2AmcBduhTrUqI) | [Don Steale](https://open.spotify.com/artist/2HwPnlL403PomZYlx8SHQs) | [Dreamstate](https://open.spotify.com/album/2M1tz2hu4LvjsZfiam9AUV) | 3:32 | 2022-12-09 |  |
 | [Dreamy Hill](https://open.spotify.com/track/4xuHOEXLwk0mWmYwx8k99m) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Dreamy Hill](https://open.spotify.com/album/73ucC01vW9LnhxoBPbjhBl) | 1:55 | 2022-05-13 | 2022-05-27 |
 | [Dunes](https://open.spotify.com/track/2D8rgpm4G1baiUk5nvKbTX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Dunes](https://open.spotify.com/album/5SGwwCl8w3ngX0BwszeQfb) | 2:20 | 2022-05-13 | 2022-10-07 |
 | [Dust and Ashes \- Guitar Instrumental](https://open.spotify.com/track/1YSkQpcby9nfzBowrz00wC) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Behind the Breastbone \(Instrumentals\)](https://open.spotify.com/album/6LXLTqQpj8che1C9i2Haro) | 3:22 | 2022-09-02 |  |

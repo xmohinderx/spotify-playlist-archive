@@ -4,7 +4,7 @@
 
 > you up?
 
-343 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
+344 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 | 2022-04-01 | 2022-04-21 |
 | [Pearl](https://open.spotify.com/track/4DsRgTgw9ywVRrYCCpraTv) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Pearl](https://open.spotify.com/album/3GUmrEh3fTY9x3tE3YhcBS) | 3:12 | 2022-03-25 | 2022-04-20 |
 | [PERSIAN RUGS](https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 2:54 | 2022-08-19 | 2022-10-15 |
-| [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-17 |  |
+| [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-17 | 2022-12-10 |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 | 2022-07-27 |
 | [Poison](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Poison](https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD) | 3:32 | 2022-02-20 |  |
 | [Prada](https://open.spotify.com/track/4vaEOyy9MYJIsa8YvaxCD6) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [Prada](https://open.spotify.com/album/01YijZvjK0ksgnERYtrYaX) | 1:53 | 2022-02-20 | 2022-06-14 |
@@ -332,6 +332,7 @@
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-01 | 2022-07-29 |
 | [Us](https://open.spotify.com/track/1hjSjUTpe0PaR5LXuQLeW0) | [MOVEMENT](https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX) | [Us](https://open.spotify.com/album/011jHoVOT2w1FN2qwKQGXX) | 3:02 | 2022-03-25 | 2022-04-12 |
 | [Use Somebody](https://open.spotify.com/track/0OcRaDIJXOBj8BKllfp3Fi) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Use Somebody](https://open.spotify.com/album/27pAJ7HDxqaHr2prUTbJL9) | 4:30 | 2022-03-25 | 2022-04-20 |
+| [Used \(feat\. Don Toliver\)](https://open.spotify.com/track/1TweDM3JC49LNeelLVg3yX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:26 | 2022-12-09 |  |
 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 | 2022-03-28 | 2022-04-17 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-09 |  |
 | [Vibez](https://open.spotify.com/track/6T6D9CIrHkALcHPafDFA6L) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 2:43 | 2022-02-04 | 2022-07-29 |

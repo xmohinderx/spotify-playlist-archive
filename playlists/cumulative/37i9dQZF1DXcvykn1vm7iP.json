@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Independencia",
+        "url": "https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6"
+      },
+      "artists": [
+        {
+          "name": "Miravaldini",
+          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206275,
+      "name": "Independencia",
+      "url": "https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU"
+    },
+    {
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII"
       },
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 146400,
       "name": "Soundscape - 125 Hz",
       "url": "https://open.spotify.com/track/5aaumNrLeFcJ0BTS23muLa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,819 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,042 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 36 | [Ya Viene Amaneciendo](https://open.spotify.com/track/5AVJgFRGY7zv55T2XcuJcH) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 2:17 |
 | 37 | [Tengo Ganas](https://open.spotify.com/track/3v8d12Ogo5N2ucwReogiSq) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Homenaje A Una Vida Vol 1](https://open.spotify.com/album/4c2ZYYDwVqpfShY6IJGoFi) | 2:46 |
 | 38 | [Acá Entre Nos \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2YBcpGHHvg9vfCosDvTeal) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:55 |
-| 39 | [Flor de Capomo](https://open.spotify.com/track/4tjXsHj3H4RYPd0vGHmACg) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Flor de Capomo](https://open.spotify.com/album/0TBSLDwB9LUUUwKLdWdHjf) | 2:35 |
-| 40 | [El Huizache](https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Exitos De Valentín Elizalde](https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB) | 3:55 |
+| 39 | [El Huizache](https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Exitos De Valentín Elizalde](https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB) | 3:55 |
+| 40 | [Flor de Capomo](https://open.spotify.com/track/4tjXsHj3H4RYPd0vGHmACg) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Flor de Capomo](https://open.spotify.com/album/0TBSLDwB9LUUUwKLdWdHjf) | 2:35 |
 | 41 | [La Gallina Ponedora](https://open.spotify.com/track/7sWpr279lr6tDK5w0js3pC) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:53 |
 | 42 | [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 |
 | 43 | [La Yaquesita](https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Se Les Pelo Baltazar](https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [El Hijo Del Pueblo](https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [3 Grandes De La Banda En Homenaje A José Alfredo Jiménez](https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u) | 3:07 |
 | 50 | [Pa' Que Son Pasiones](https://open.spotify.com/track/3efT4wg1RQG0nkKrN2zegl) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Pa' Que Son Pasiones](https://open.spotify.com/album/3PBwBac0AfDItVJ7qe4l9U) | 3:12 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBjNjM3Yzg5MzQyNzZlODY2OGFhNzJkMzI0ZmVlMTY5Mw==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDAzYjg1YTVhN2ViNWYzOTgzOGI3NzNlYTI4MmQzY2Y3MA==`

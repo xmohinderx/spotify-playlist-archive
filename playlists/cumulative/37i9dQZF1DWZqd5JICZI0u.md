@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-447 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+448 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Langeland](https://open.spotify.com/track/6vZRJSlkmxAEDb51WeqZFC) | [Felix Langgard](https://open.spotify.com/artist/4TGwoikKqGTkf6yt1DVSSL) | [Langeland](https://open.spotify.com/album/4uWdAqHiYju8w7gW1Yilqf) | 3:02 | 2021-03-02 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2021-12-09 |  |
 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 | 2022-11-22 |  |
+| [Layers](https://open.spotify.com/track/0dV0hmfXXs4IlEYjJzKQrq) | [Da Malia](https://open.spotify.com/artist/21uIQDwO87x0WilDQA3NkT) | [Layers](https://open.spotify.com/album/3s9Bz1dca6XBz5Lrc7Zf5l) | 2:25 | 2022-12-09 |  |
 | [Le Doux](https://open.spotify.com/track/7pMX0cXGVn2zhWUm2UM8SY) | [Somnia Terra](https://open.spotify.com/artist/1ik9VBhOvg5HDwhLjLB3B1) | [Le Doux](https://open.spotify.com/album/16x9see46svEoEgyGrnhnp) | 3:09 | 2021-11-26 |  |
 | [legacy](https://open.spotify.com/track/4EWCM7S4DAtpSJ0BOiM9LK) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [legacy](https://open.spotify.com/album/6BCFck8IVatMnjeOIDjP3T) | 4:09 | 2020-09-30\* | 2021-07-14 |
 | [Legend Of Zea](https://open.spotify.com/track/3tzNYs0IcqBBy0eSvyAwB6) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 3:14 | 2020-09-30\* | 2021-06-16 |

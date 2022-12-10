@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-417 songs - 19 hr 27 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+420 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Buggin](https://open.spotify.com/track/1wjHKZGLuZarl2lY16CQ1H) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Buggin](https://open.spotify.com/album/3Vd2F2hoxhMSsEW0MlUZIP) | 2:11 | 2021-11-16 | 2022-02-26 |
 | [C'est la vie](https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [C'est la vie](https://open.spotify.com/album/5h4deWk0g9b3wC5YCSqx8I) | 2:51 | 2022-08-18 |  |
 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 | 2022-09-23 |  |
+| [Call You Drunk](https://open.spotify.com/track/2Zy4IqUZ0FK4NpKU9Mth30) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Call You Drunk](https://open.spotify.com/album/3m2MxYOk7sCKq87MpQi7yT) | 2:13 | 2022-12-09 |  |
 | [Cape Cod](https://open.spotify.com/track/4NwylqX02BEv6yuMdGFUj5) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [Cape Cod](https://open.spotify.com/album/50IWjX5dsIcNq2qqf7Tg3h) | 2:45 | 2021-11-16 | 2022-02-26 |
 | [Carefree](https://open.spotify.com/track/0UfB1oHKwWuBTBAuIZc0V7) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Carefree](https://open.spotify.com/album/0CqaHkcLlm6Q3JQNsF74bg) | 2:59 | 2022-04-04 | 2022-06-11 |
 | [careless](https://open.spotify.com/track/0SBylBekAoBQ6JpYtGDaCA) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:06 | 2022-10-14 |  |
@@ -213,6 +214,7 @@
 | [la di da \- acoustic](https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 3](https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5) | 1:28 | 2022-04-08 | 2022-05-07 |
 | [La La Land](https://open.spotify.com/track/7taeV6Kz3xIgjx5QR0eG8p) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Carnival](https://open.spotify.com/album/1gTkvHFHZhcFMhpy0Ko2Ln) | 2:37 | 2022-07-12 | 2022-11-22 |
 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 | 2022-09-23 | 2022-10-08 |
+| [lame ass](https://open.spotify.com/track/3A4yOd5WdPDW8o7YihEKA7) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [lame ass](https://open.spotify.com/album/0kr9yyqkAmBrla1OEgfvaz) | 1:59 | 2022-12-09 |  |
 | [Latency](https://open.spotify.com/track/24bcu7IGNipuid5nU7oqgU) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Latency](https://open.spotify.com/album/4cOomZu7ZP0IZdcuSy15sh) | 2:52 | 2022-06-03 | 2022-11-22 |
 | [lead me on](https://open.spotify.com/track/45HHTHXv7gQ5q2r89ui2Fy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [lead me on](https://open.spotify.com/album/3X368boMWsdwZGW8ByzNU9) | 2:07 | 2021-11-16 | 2022-02-26 |
 | [League](https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [League](https://open.spotify.com/album/3salXEA3cRs0wZT3VLEWyf) | 2:43 | 2022-11-25 |  |
@@ -406,6 +408,7 @@
 | [up again](https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [up again](https://open.spotify.com/album/5a5ueckwVJ6n5CVIOeyMVU) | 2:48 | 2022-03-25 | 2022-07-07 |
 | [Upper Hand](https://open.spotify.com/track/4BIXStJCdslgGUnuoz87JC) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [No Love Is Ever Wasted](https://open.spotify.com/album/0riXZXCMgIwXMPmrJhXErZ) | 2:52 | 2022-06-10 | 2022-10-29 |
 | [used to](https://open.spotify.com/track/7uoVZumpiY5md0zudUujPU) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Cassette Tapes](https://open.spotify.com/artist/720HJ3Ql6chO1V56okaUSV) | [COLOR BLIND](https://open.spotify.com/album/6eNQ3KPfctSXB2jO0pfmKi) | 2:47 | 2021-11-16 | 2022-02-19 |
+| [villains](https://open.spotify.com/track/0eaWFvBi1kPbhKgvOx0Adz) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [villains](https://open.spotify.com/album/11VKtnnjZ81tDFAoB5u412) | 2:33 | 2022-12-09 |  |
 | [Voices](https://open.spotify.com/track/5vZ9IyT4e6K4ePtor70TV9) | [Calabasas](https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Voices](https://open.spotify.com/album/398FPx4zBx9VosF0SdbFxp) | 2:51 | 2021-11-16 | 2022-02-26 |
 | [W \(with yvngxchris\)](https://open.spotify.com/track/4pFkivUXTiGcEQS4dfcVc6) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [W \(with yvngxchris\)](https://open.spotify.com/album/6wWt12ueB7BwQJS0OcuoHZ) | 2:31 | 2022-03-25 | 2022-04-29 |
 | [Walk Around](https://open.spotify.com/track/6WFW82dzsdevDzS2zAle04) | [Double A\-Ron](https://open.spotify.com/artist/4F2fO13keDtQ3zYtKpxlua), [Jdillon](https://open.spotify.com/artist/5eNYvtpRb5v6pA7cAj6EeT) | [Walk Around](https://open.spotify.com/album/6UUugVOt7WnPXz3Oy1357L) | 2:12 | 2022-06-17 | 2022-08-06 |

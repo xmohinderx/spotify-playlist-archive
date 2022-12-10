@@ -1,240 +1,244 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10456,
+  "num_followers": 10457,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjQ2MSxiODhmZDI2YjdjZDUwMTNmZGUyOTIyOTZhNTc3Nzc4YmM5ZjYxZjZm",
+  "snapshot_id": "MjQ2Myw2ZWZjNjQ2NzIyNzM3NjI2ZDdmOTQ4MzZiZTBjOTk5NzIxY2U4NTJi",
   "tracks": [
     {
-      "added_at": "2022-12-02 07:18:44",
+      "added_at": "2022-12-09 10:18:43",
       "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+        "name": "Welcome To My Island",
+        "url": "https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI"
       },
       "artists": [
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 233278,
+      "name": "Welcome To My Island",
+      "url": "https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "Devil Is A Woman",
+        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 192491,
+      "name": "Devil Is A Woman",
+      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "Girl Like Me",
+        "url": "https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 149456,
+      "name": "Girl Like Me",
+      "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "b i g g i r l",
+        "url": "https://open.spotify.com/album/6LTppmdGEvm5F9OKOdyo5M"
+      },
+      "artists": [
+        {
+          "name": "Oh Boy",
+          "url": "https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt"
         },
         {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+          "name": "yergurl",
+          "url": "https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo"
         }
       ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
+      "duration_ms": 166153,
+      "name": "b i g g i r l",
+      "url": "https://open.spotify.com/track/66PWpxakpxayUJorjjftha"
     },
     {
-      "added_at": "2022-12-02 07:18:44",
+      "added_at": "2022-12-09 10:18:43",
       "album": {
-        "name": "You Know What I Need",
-        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
+        "name": "Need Me Right",
+        "url": "https://open.spotify.com/album/6lkMuhT1CneIWN1wCnOGLM"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "duration_ms": 144602,
+      "name": "Need Me Right",
+      "url": "https://open.spotify.com/track/6bGTVNNA07wWwyPFPa7PyD"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "Suckerpunch",
+        "url": "https://open.spotify.com/album/2YtSEYkyS4sYuWBpsXpiih"
+      },
+      "artists": [
+        {
+          "name": "Raissa",
+          "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
+        }
+      ],
+      "duration_ms": 178912,
+      "name": "Suckerpunch",
+      "url": "https://open.spotify.com/track/0v3N6CXe66fR56ft39WL5b"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "Sagittarius",
+        "url": "https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Kickflip",
+      "url": "https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "BITTER",
+        "url": "https://open.spotify.com/album/6DWCVVXLmHlueMzqSUm3ZT"
+      },
+      "artists": [
+        {
+          "name": "Lucy Deakin",
+          "url": "https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h"
+        }
+      ],
+      "duration_ms": 183546,
+      "name": "BITTER",
+      "url": "https://open.spotify.com/track/5k59LtpAdqrzbHBBOLsDqo"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "MOONKISS",
+        "url": "https://open.spotify.com/album/0ENK4WbQuDunSFcCYBNakg"
+      },
+      "artists": [
+        {
+          "name": "R.I.Pablo",
+          "url": "https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb"
+        }
+      ],
+      "duration_ms": 148377,
+      "name": "MOONKISS",
+      "url": "https://open.spotify.com/track/3jjaWxIRbxUkgcO5R3cxaL"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL"
+    },
+    {
+      "added_at": "2022-12-09 10:18:43",
+      "album": {
+        "name": "WOAH, WHAT A BLUR!",
+        "url": "https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
         },
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 170000,
-      "name": "You Know What I Need",
-      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+      "duration_ms": 164469,
+      "name": "PICK YOUR POISON (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y"
     },
     {
-      "added_at": "2022-12-02 07:18:44",
+      "added_at": "2022-12-09 10:18:43",
       "album": {
-        "name": "Boy's a liar",
-        "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
+        "name": "There\u2019s Nothing But Space, Man!",
+        "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
         }
       ],
-      "duration_ms": 131253,
-      "name": "Boy's a liar",
-      "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
+      "duration_ms": 185986,
+      "name": "Put A Light On Me",
+      "url": "https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc"
     },
     {
-      "added_at": "2022-12-02 07:18:44",
+      "added_at": "2022-12-09 10:18:43",
       "album": {
-        "name": "Marry Me",
-        "url": "https://open.spotify.com/album/5VtXT9YEdsQxIXhgfLsQdT"
+        "name": "Cutting Through Noise",
+        "url": "https://open.spotify.com/album/0wVgIG352OHHFx0MiJh0aY"
       },
       "artists": [
         {
-          "name": "Olly Murs",
-          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
         }
       ],
-      "duration_ms": 174227,
-      "name": "Go Ghost",
-      "url": "https://open.spotify.com/track/3kMvXUDTA5Iavx7NBWJtoN"
-    },
-    {
-      "added_at": "2022-12-02 07:18:44",
-      "album": {
-        "name": "V838 (Intro)",
-        "url": "https://open.spotify.com/album/3X9HZhdZxXZ7iN3PONeslg"
-      },
-      "artists": [
-        {
-          "name": "Tiggi Hawke",
-          "url": "https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l"
-        },
-        {
-          "name": "Oliver JT Dipre",
-          "url": "https://open.spotify.com/artist/6ftSKi8PRdFmR1xGbeZZGn"
-        }
-      ],
-      "duration_ms": 147488,
-      "name": "V838 (Intro)",
-      "url": "https://open.spotify.com/track/52ExDfIz07NnmMJIjbsd5u"
-    },
-    {
-      "added_at": "2022-12-02 07:18:44",
-      "album": {
-        "name": "Pointless",
-        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 228988,
-      "name": "Pointless",
-      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
-    },
-    {
-      "added_at": "2022-12-02 07:18:44",
-      "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/0BelpsRp8VUFESM1zUbq6c"
-      },
-      "artists": [
-        {
-          "name": "whenyoung",
-          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Unchained",
-      "url": "https://open.spotify.com/track/2CBvjn9Nqxb2zjhKFz6cEV"
-    },
-    {
-      "added_at": "2022-12-02 07:18:44",
-      "album": {
-        "name": "Disco Machine Sound / This Dance Isn\u2019t Over",
-        "url": "https://open.spotify.com/album/49qrTIPhXEndH93olUNl2B"
-      },
-      "artists": [
-        {
-          "name": "SHEE",
-          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
-        }
-      ],
-      "duration_ms": 201587,
-      "name": "This Dance Isn't Over - Edit",
-      "url": "https://open.spotify.com/track/2hoGEGsFVMzzz0TDjaer9n"
-    },
-    {
-      "added_at": "2022-12-02 07:18:44",
-      "album": {
-        "name": "Sensitive Child (Soulwax Remix)",
-        "url": "https://open.spotify.com/album/1j93UmCt06HQ9XCVqAitcA"
-      },
-      "artists": [
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        },
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 346093,
-      "name": "Sensitive Child - Soulwax Remix",
-      "url": "https://open.spotify.com/track/0fER4siVB8s68N3JkFAI4O"
-    },
-    {
-      "added_at": "2022-12-02 07:18:44",
-      "album": {
-        "name": "I'll Never Let You Go",
-        "url": "https://open.spotify.com/album/4DFL74rppKwnY7zRbj8ES5"
-      },
-      "artists": [
-        {
-          "name": "Sam Girling",
-          "url": "https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS"
-        },
-        {
-          "name": "William S",
-          "url": "https://open.spotify.com/artist/5t8pPAOxUSIfEPipFCWY12"
-        }
-      ],
-      "duration_ms": 205383,
-      "name": "I'll Never Let You Go",
-      "url": "https://open.spotify.com/track/3tfHAxVT3liJRbYx1WQMPL"
-    },
-    {
-      "added_at": "2022-12-02 07:18:44",
-      "album": {
-        "name": "I Think I Love You",
-        "url": "https://open.spotify.com/album/1GqZAk1uPn3CToYZn0Uux1"
-      },
-      "artists": [
-        {
-          "name": "ABISHA",
-          "url": "https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ"
-        }
-      ],
-      "duration_ms": 252599,
-      "name": "I Think I Love You",
-      "url": "https://open.spotify.com/track/2KZF6LTvlwYKwhStAWCd0f"
-    },
-    {
-      "added_at": "2022-12-02 07:18:44",
-      "album": {
-        "name": "Wishlist",
-        "url": "https://open.spotify.com/album/4bJoRazDOrMpA58mF7n5HT"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/4WCOxwqS5NqmcGCO0FngNb"
-    },
-    {
-      "added_at": "2022-12-02 07:18:44",
-      "album": {
-        "name": "Side by Side (from 'The Amazing Maurice')",
-        "url": "https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 167031,
-      "name": "Side by Side (from 'The Amazing Maurice')",
-      "url": "https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q"
+      "duration_ms": 154684,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/1kUr5WO7EmvT8b8i2uD3lR"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-261 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+262 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Alpha Concentration 107Hz \- 115Hz](https://open.spotify.com/track/5IEoPKlhlxwjnekvHRXXJW) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:30 | 2021-09-02 |  |
 | [Alpha Dreams](https://open.spotify.com/track/6cfuBECGdDOtVCsYNU0tdy) | [Binaural State](https://open.spotify.com/artist/50X4WE5GrxrVDrG5vWJMsJ) | [Alpha Dreams](https://open.spotify.com/album/6NN5gHMcp2Foa2zb87tT4c) | 2:17 | 2021-04-22 |  |
 | [Alpha Drone](https://open.spotify.com/track/2TIIo8DDxEuyxQm1wOmG70) | [Sleepy Moon](https://open.spotify.com/artist/2QRn1QIBN1ayOLFvAMVrIc) | [Binaural Reflection](https://open.spotify.com/album/5U85GoDFh2zqCqDf6m9TZo) | 2:38 | 2021-05-06 | 2021-06-18 |
+| [Alpha Equinox 11 Hz](https://open.spotify.com/track/1F76NetapFNFzsU3628zh3) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 2:55 | 2022-12-09 |  |
 | [Alpha Flow State 131Hz \- 143Hz](https://open.spotify.com/track/2gmVwgaGyRtXdyRZIWBVuO) | [Zeta Loxi](https://open.spotify.com/artist/7BvP1SJxIHUPDY2b35JgPL) | [Binaural Dimensions](https://open.spotify.com/album/2bfCUkCpDoC8TducDnE0vM) | 2:53 | 2021-02-24 |  |
 | [Alpha Flow State 150Hz \- 157Hz](https://open.spotify.com/track/2mUxbRuJlnNCBmX9vbIcYM) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 3:29 | 2021-02-24 |  |
 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 | 2021-04-10 |  |
@@ -94,7 +95,7 @@
 | [Binaural Alpha Waves 110Hz \- 121Hz](https://open.spotify.com/track/4UDj4H6F7maZirCU6SJRJs) | [Demeter's Pillow](https://open.spotify.com/artist/4KLZvElXK5Eom1ir5sGTJS) | [Binaural Alpha Sinus](https://open.spotify.com/album/3YrIMIOaLQx20AmfF7u0Vs) | 2:53 | 2021-02-24 |  |
 | [Binaural Beats \(Beta Waves\)](https://open.spotify.com/track/3TLncofi5AVg10IngMY6fh) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r) | [Sleeping Music: Soothing Binaural Beats and Dream Sleep Sounds for Deep Sleep, Relaxing Sleep Aid, Asmr and Sleep Music](https://open.spotify.com/album/22yQ8lgVEHKJyVrOvrMiNe) | 2:00 | 2019-05-26\* | 2021-04-22 |
 | [Binaural Beats \(Gamma Waves\)](https://open.spotify.com/track/0OuwjKdHaMMcWVKgteV0uM) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r) | [Sleeping Music: Soothing Binaural Beats and Dream Sleep Sounds for Deep Sleep, Relaxing Sleep Aid, Asmr and Sleep Music](https://open.spotify.com/album/22yQ8lgVEHKJyVrOvrMiNe) | 1:59 | 2019-05-26\* | 2021-08-05 |
-| [Binaural Beta Sinus](https://open.spotify.com/track/5W5QowDNS0jyWGV3SfYmgR) | [Schlafgeräusch Hill](https://open.spotify.com/artist/29dAkWuyrZL0jgW7ATFdBv) | [Binaural Beta Sinus](https://open.spotify.com/album/38wyS1c8N1zLqapSflFWwB) | 2:06 | 2021-02-03 |  |
+| [Binaural Beta Sinus](https://open.spotify.com/track/5W5QowDNS0jyWGV3SfYmgR) | [Schlafgeräusch Hill](https://open.spotify.com/artist/29dAkWuyrZL0jgW7ATFdBv) | [Binaural Beta Sinus](https://open.spotify.com/album/38wyS1c8N1zLqapSflFWwB) | 2:06 | 2021-02-03 | 2022-12-10 |
 | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/track/4BXh6etJ4wKucRbT5oU6kG) | [Beta Gamma](https://open.spotify.com/artist/6zycKAX0nUJe4naz7BthZk) | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/album/0bGcqwRtvhRkBEzAbipJqM) | 2:22 | 2021-06-04 | 2022-08-23 |
 | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/track/727VTdgkCBN4zumcmpcfK2) | [Phil O Sophie](https://open.spotify.com/artist/4j7JJYsEkFjo8wcVJMdDcq) | [Binaural Delta Sinus 90 Hz \- 91 Hz](https://open.spotify.com/album/1KhUasLZZC8QJUSkihGBGu) | 2:22 | 2021-06-18 | 2022-11-24 |
 | [Binaural Beta Sinus 150 Hz \- 158 Hz](https://open.spotify.com/track/3cGajN4KLwOkg14H5j9wPP) | [Beta Gamma](https://open.spotify.com/artist/6zycKAX0nUJe4naz7BthZk) | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/album/0bGcqwRtvhRkBEzAbipJqM) | 2:38 | 2021-06-04 |  |

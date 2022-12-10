@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,857 likes - 102 songs - 4 hr 45 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,856 likes - 116 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,19 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 100 | [Dancing With The Devil](https://open.spotify.com/track/5PVSKhsZuIDwPzYzHtt1wW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Dancing With The Devil](https://open.spotify.com/album/4S6cOtQhoyXmnz8rh5M2AE) | 2:55 |
 | 101 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
 | 102 | [e](https://open.spotify.com/track/5vqDfXxQbSgY4YTJCka5UJ) | [Cadence Floria](https://open.spotify.com/artist/11Vu80Yb4WYdbkqROFixrS) | [& so,](https://open.spotify.com/album/4SmQFE30fSa6NTaldKFsCe) | 3:26 |
+| 103 | [Welcome 2 the Trenches](https://open.spotify.com/track/4BCoHnSgyGfsHELrlS1jIl) | [TG Kommas](https://open.spotify.com/artist/0QtTAKI96I6w8ByQIY3QQv) | [Welcome 2 the Trenches](https://open.spotify.com/album/0qHLWXq6yVPDx0A6MdXBTc) | 2:55 |
+| 104 | [This Christmas](https://open.spotify.com/track/7ryDMjQUkbiBXjpsjAIcGV) | [Kenndog](https://open.spotify.com/artist/2NLseG7xyv3fHY5U8AUntx) | [This Christmas](https://open.spotify.com/album/7DUTGQcjw6zko30hopA2N9) | 2:16 |
+| 105 | [Stacy's Mom \- Live from Salt Lick Sessions](https://open.spotify.com/track/2IRAP8idrxWaGnSYP1gGE8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [Stacy's Mom \(Live from Salt Lick Sessions\)](https://open.spotify.com/album/3voJd9y1mapvwHz8xzZPbq) | 3:28 |
+| 106 | [Naughty With You \(This Christmas\)](https://open.spotify.com/track/2iefNdjhqC50RdhjyyNAy3) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Naughty With You \(This Christmas\)](https://open.spotify.com/album/0qcrSaxBWO8A5zjgn5WFXx) | 2:56 |
+| 107 | [Okay Okay](https://open.spotify.com/track/0J7o6H1e1HhqGw6lRrBFzq) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E) | [Okay Okay](https://open.spotify.com/album/2dmvioy2GcI5NpuaFUAUPw) | 2:32 |
+| 108 | [Just When I Thought](https://open.spotify.com/track/1djdtT8qEy2P3mRGM0F1KU) | [Kevo Muney](https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY) | [Just When I Thought](https://open.spotify.com/album/5C5NWVrJPECO7R9BmllyPQ) | 2:19 |
+| 109 | [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 |
+| 110 | [GLOWY CEILIN STICKER STARS](https://open.spotify.com/track/7ea5UuYlBwxgUU7us4xV9T) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [GLOWY CEILIN STICKER STARS](https://open.spotify.com/album/6OWJtm9UdKS3al0OGOGrgx) | 2:28 |
+| 111 | [OLÈ](https://open.spotify.com/track/5tqpBgfKdVBkQNs98J9GA6) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [OLÈ](https://open.spotify.com/album/5aQWW05Xu1jDxEc8cb0WqL) | 2:40 |
+| 112 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 |
+| 113 | [I Got A Lot To Lose](https://open.spotify.com/track/3yAGO9Paqr1USajZV0WIG1) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [three](https://open.spotify.com/album/1ooobrQ5GnZuoVvmGJit4f) | 2:55 |
+| 114 | [Clarity \- Live at Sydney Opera House](https://open.spotify.com/track/5IMwpp87G6Bduu0PDkgUUu) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Live at Sydney Opera House](https://open.spotify.com/album/4mC41kARjuinQkgYcENo88) | 3:49 |
+| 115 | [OH! Not Again](https://open.spotify.com/track/5RtmIaz3UUmpdtpFJkfYT5) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [OH! Not Again](https://open.spotify.com/album/4o7f1qgkeQfwuKM5AAMnWl) | 2:58 |
+| 116 | [Floreal](https://open.spotify.com/track/0WbqqJV6vFwyAINhsQtqcH) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Floreal](https://open.spotify.com/album/4ffdFrjKiOwCLp8dzod7ZZ) | 2:46 |
 
-Snapshot ID: `NTI3Miw1ZjkzNWVmODE3MTM5ODk1ZTJiNDFjMTNhOGE0YzY5NWI0MzhhZWIw`
+Snapshot ID: `NTI4Niw4ODQ4YjIwNTU3ZTA4ZTA2YTFmMWI4MDI4Yjc1NmNiMDI0NTQyNjll`

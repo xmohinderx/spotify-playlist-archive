@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: poptropicaslutz!
 
-774 songs - 1 day 14 hr 47 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+775 songs - 1 day 14 hr 50 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Arm's Length](https://open.spotify.com/track/7t4LARzhISs3JPGhSZnsSq) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Arm's Length](https://open.spotify.com/album/7CmMXb8dpxte308mtqGqwe) | 4:18 | 2022-07-14 | 2022-08-26 |
 | [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/track/1lPdVGhYGvE9RiWQ5zB7lI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3), [Rhoda Dakar](https://open.spotify.com/artist/28q3NuNiFoeWa1UVdbNzOH) | [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/album/4V0dVPKKUWESWe45QHkT86) | 2:52 | 2022-07-21 | 2022-08-14 |
 | [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/track/2rsrUjh63rWpT3amc4N6GV) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3), [Rhoda Dakar](https://open.spotify.com/artist/28q3NuNiFoeWa1UVdbNzOH) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 2:52 | 2022-08-11 | 2022-09-09 |
+| [Ashley's Song](https://open.spotify.com/track/0kwmVZGz6oPjjgGxSdpmd8) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [Ashley's Song](https://open.spotify.com/album/2iyah7OT94v7zUdAoZqP3C) | 3:17 | 2022-12-09 |  |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-10-20 |  |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-04 | 2022-09-30 |
 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 | 2022-04-07 | 2022-05-27 |

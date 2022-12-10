@@ -2,9 +2,9 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Lo mejor del reggaetón y flow actual con KAROL G en portada.
+> Lo mejor del reggaetón y flow actual con Kim Loaiza, DJ Luian, Mambo Kingz, De La Ghetto, Darell, KEVVO en portada.
 
-254 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
+255 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,11 @@
 | [Antojo \(with De La Ghetto\)](https://open.spotify.com/track/0ped2RBpjF2pRWCrmi1Lfw) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Antojo \(with De La Ghetto\)](https://open.spotify.com/album/2MS1YlHQkeWVVn9WAlk3Ww) | 3:27 | 2022-01-21 | 2022-02-19 |
 | [APAGAITA](https://open.spotify.com/track/4P3PZFvMsKlNwTDHcN7w0J) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [APAGAITA](https://open.spotify.com/album/1R24ulrH6V31SpX9AzJp7z) | 2:35 | 2022-04-28 | 2022-06-16 |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-15 | 2022-07-02 |
+| [Apreton](https://open.spotify.com/track/3bUhvt1PcJVZdliG1XtpXW) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Apreton](https://open.spotify.com/album/3Li9ZLoAyR7PSnJ1YojaFH) | 4:18 | 2022-12-09 |  |
 | [Avemaría](https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Avemaría](https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q) | 2:12 | 2022-09-30 |  |
 | [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2022-09-23 |  |
 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 | 2022-02-25 | 2022-03-18 |
-| [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 | 2022-05-13 |  |
+| [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 | 2022-05-13 | 2022-12-10 |
 | [Bellake](https://open.spotify.com/track/4QwryINbuIcR4zOiLnTheh) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Gárgolas Forever](https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO) | 3:14 | 2021-12-17 | 2022-03-26 |
 | [Besos Moja2](https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Besos Moja2](https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn) | 3:49 | 2022-10-03 | 2022-10-09 |
 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 | 2022-10-07 |  |

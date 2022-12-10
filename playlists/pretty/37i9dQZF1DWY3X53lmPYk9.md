@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,137 likes - 165 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,164 likes - 165 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 164 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 |
 | 165 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 |
 
-Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMDBmZDQyMGY4ZTUxNDJmZDg5YjY2MWQxNzM4MzQ1ZDE5`
+Snapshot ID: `MTY3MDU3MzQyNiwwMDAwMDAwMDI1YWIxNDNiZDEyZjY3MWUzOWE1YWIxMTk1M2JmOGIw`

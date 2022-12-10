@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-245 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+246 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Midnight](https://open.spotify.com/track/6TT9QrhtNpgWdrFGfjfV02) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Remote](https://open.spotify.com/album/1Zo58diAaOKimtYyzny5LH) | 3:43 | 2022-10-12 | 2022-11-08 |
 | [Midnight Sway \- Electro Swing VIP](https://open.spotify.com/track/4GK1ig82TFO1a3AHBi7EBY) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Vintage Jukebox EP 4](https://open.spotify.com/album/6mrjBSJiLvS7KugBnbeVwT) | 3:33 | 2022-10-12 | 2022-11-08 |
 | [Minnie the Moocher](https://open.spotify.com/track/0JANCc1DhGuwOBnfaZNzaK) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [Minnie the Moocher](https://open.spotify.com/album/0hWecQ5wm2BbKegl84GYEx) | 3:41 | 2022-10-12 | 2022-11-08 |
-| [Miss Her](https://open.spotify.com/track/3VpLkugcSbYuDSOBKNxFaQ) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Bubbles](https://open.spotify.com/album/73KjLxHjBCmF1MF3Iw5405) | 4:02 | 2020-10-30 |  |
+| [Miss Her](https://open.spotify.com/track/3VpLkugcSbYuDSOBKNxFaQ) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Bubbles](https://open.spotify.com/album/73KjLxHjBCmF1MF3Iw5405) | 4:02 | 2020-10-30 | 2022-12-10 |
 | [Mockingbird](https://open.spotify.com/track/0eVobqDxiFnDvKcXfScqCi) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [Prohibition](https://open.spotify.com/album/6zxN2ZwKEIVxzKlp0m4m2V) | 2:37 | 2022-10-12 | 2022-11-08 |
 | [Moonlight Jive](https://open.spotify.com/track/2Ag6FZjxfu3raD2EgmPfYq) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Life Playing Tricks](https://open.spotify.com/album/1fSKDjqkvMXg6cRSCBffL4) | 4:35 | 2020-10-30 | 2022-05-15 |
 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/1DxJG8xDWh8T83w6IR8YRx) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/11baJFTYO58XviE7cQrvZO) | 3:44 | 2020-10-30 | 2022-07-29 |
@@ -252,6 +252,7 @@
 | [Wicked Evil \- Spooky Swing Mix](https://open.spotify.com/track/4DPZKhVUVQmYkVyLzb01q9) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Wicked Evil](https://open.spotify.com/album/3FaAsnvQqJuwgtfyxMgbb7) | 3:09 | 2022-10-21 | 2022-11-08 |
 | [Wochenend Und Sonnenschein \(Electro Swing\)](https://open.spotify.com/track/6oFrnNtYCU1oswN3sz5cP4) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Hans Wachsmann](https://open.spotify.com/artist/4FNI6ZBXPuSt2HghuTeZmT) | [Wochenend Und Sonnenschein \(Electro Swing\)](https://open.spotify.com/album/7nkCekFLGh5JbCB3VWHXcU) | 3:02 | 2020-10-30 | 2022-08-06 |
 | [Worldwide](https://open.spotify.com/track/5sjmBbBBXMo5g8GyMTvGm0) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Worldwide](https://open.spotify.com/album/7MzUsDka8FtsPLFn941toY) | 3:03 | 2020-10-30 | 2022-07-01 |
+| [You Meet the Nicest People \(In Your Dreams\) \(Electro Swing\)](https://open.spotify.com/track/0xLdR1lvZfsyXepQwDY9Jf) | [Swing City](https://open.spotify.com/artist/3APMjlZOb1eQ3yX5jUz6GR) | [You Meet the Nicest People \(In Your Dreams\) \(Electro Swing\)](https://open.spotify.com/album/4eo0MYjW0dziEPmKb6t2fh) | 3:07 | 2022-12-09 |  |
 | [You Rascal You](https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Both Sides of the Moon](https://open.spotify.com/album/3nE3aRcSztx4bLkk5DwtJK) | 2:45 | 2022-07-05 | 2022-10-13 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

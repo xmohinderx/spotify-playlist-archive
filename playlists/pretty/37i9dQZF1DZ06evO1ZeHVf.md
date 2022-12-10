@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,196 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,233 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 28 | [Come Fill My Heart](https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:48 |
 | 29 | [How Great Is Our God/How Great Thou Art \- Medley](https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 5:27 |
 | 30 | [I Surrender All](https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:29 |
-| 31 | [King Of Kings \(He's A Wonder\)](https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:24 |
-| 32 | [When You Love \(feat\. CeCe Winans, Yolanda Adams & Mary Mary\)](https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [We All Are One \(Live In Detroit\)](https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk) | 4:26 |
+| 31 | [When You Love \(feat\. CeCe Winans, Yolanda Adams & Mary Mary\)](https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [We All Are One \(Live In Detroit\)](https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk) | 4:26 |
+| 32 | [King Of Kings \(He's A Wonder\)](https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:24 |
 | 33 | [King of Glory \- Live](https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 10:35 |
 | 34 | [Alone In The Presence](https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:06 |
 | 35 | [Thank You for Being You](https://open.spotify.com/track/6b7xNBl42iQIoB3bR2sK4h) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf), [Maureen McGovern](https://open.spotify.com/artist/3bnf5pPVQFWv762IiavilV), [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6), [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc), [Toni Rose](https://open.spotify.com/artist/1NqrEarOHLaEmhw2UBUc69), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Songs from the Neighborhood: The Music of Mister Rogers](https://open.spotify.com/album/3cBGz03vO7HN2LOBeTtwy7) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [Worthy](https://open.spotify.com/track/1fEHKfIhgVMb9PJCOr9e97) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:22 |
 | 50 | [Everlasting Love](https://open.spotify.com/track/1v7IsaTlOwnPfHf8DVIr5u) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:39 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBmODk2ODNmYTQ5Y2Q3MjQxNWE4ZDZiZjRjMjVhNWFhMA==`
+Snapshot ID: `Mjc4NDM0NzQsMDAwMDAwMDAzZWQ1NzI2NTk5ZDBlZWFhMWViODUzMjRlZTQyZDM4MA==`

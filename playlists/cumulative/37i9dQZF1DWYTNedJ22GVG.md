@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-166 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
+167 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All I Want For Christmas Is You](https://open.spotify.com/track/1iBnuoXZV2dGFl6mRWlZAk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Party!](https://open.spotify.com/album/3kRyhfULYkUMMfZQTqwbtG) | 3:15 | 2021-12-07 | 2022-11-24 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-07 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/1j75fzIDImv5G7NvSW9FNK) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 4:18 | 2021-12-07 |  |
+| [All The Children](https://open.spotify.com/track/5lpoogZcerFwUQdgrREJ2X) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [All The Children](https://open.spotify.com/album/28peZvLZSm5izgtbWIhMWd) | 3:23 | 2022-12-09 |  |
 | [Alone for Christmas \(feat\. Kiana Ledé\) \- from Still Home For The Holidays \(An R&B Christmas Album\)](https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 2:55 | 2021-12-07 |  |
 | [Baby It's Cold Outside](https://open.spotify.com/track/5u6twnQs1d6ontqhUOWh7t) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Ave Maria \- Merry Christmas](https://open.spotify.com/album/0kdIJZ7T44dlfXSp1EIvW8) | 2:46 | 2021-12-07 | 2022-11-13 |
 | [Baby It's Cold Outside \(duet with Michael Bublé\)](https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas Wishes](https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI) | 2:46 | 2021-12-07 | 2022-07-29 |
@@ -78,8 +79,8 @@
 | [Jingle Bells](https://open.spotify.com/track/2iSLGcgeZ6NnLfaHDnBooG) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [The Christmas EP](https://open.spotify.com/album/1H7ff5n8Dju9kDgZTFPgyv) | 3:01 | 2021-12-07 | 2022-11-13 |
 | [Jingle Bells](https://open.spotify.com/track/2tD3pZnBsE4wm4PmqVhJCL) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/6NY392KOBGs1zCJKiNgtp6) | 3:01 | 2021-12-07 | 2022-07-29 |
 | [Jingle Bells](https://open.spotify.com/track/37dlx96QkvFn8gNvTFugYF) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt) | 3:01 | 2021-12-07 |  |
-| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0AZkaiZwMl3fULKhhSQxlG) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Holiday](https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR) | 2:20 | 2022-12-02 |  |
-| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3) | 2:20 | 2021-12-07 | 2022-12-05 |
+| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0AZkaiZwMl3fULKhhSQxlG) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Holiday](https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR) | 2:20 | 2022-12-02 | 2022-12-10 |
+| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3) | 2:20 | 2021-12-07 |  |
 | [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/2eifVaVxxzerYshms9gIf4) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/08iqqXwfQYhptJEo6Vxe7u) | 2:20 | 2021-12-07 | 2022-07-29 |
 | [Last Christmas](https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX) | 3:32 | 2021-12-07 |  |
 | [Last Christmas](https://open.spotify.com/track/34kSAsvs36tXZ8DaiBphUG) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/4mVIcvIiA2bIXiN0P0otKJ) | 3:32 | 2021-12-07 | 2022-07-29 |

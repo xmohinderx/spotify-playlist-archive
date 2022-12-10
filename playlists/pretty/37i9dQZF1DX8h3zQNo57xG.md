@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 
 > Put yourself to sleep with delta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,085 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,178 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 6 | [Diving \(Delta 130 Hz \- 134 Hz\)](https://open.spotify.com/track/0kKvSsrcHaAv92QvNZFgrj) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Diving \(Delta 130 Hz \- 134 Hz\)](https://open.spotify.com/album/3VpVkXeykUTFsYY3JPW3SM) | 3:01 |
 | 7 | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/track/37QKoaOOqKqS7khtF4KNRT) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/album/4yZmbSxZTXG24qQ0GNoqgX) | 4:37 |
 | 8 | [REM Ember \(Delta Waves\)](https://open.spotify.com/track/5nRbt0FEu7g8Zm1oApiKhe) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [REM Ember](https://open.spotify.com/album/7FDCVL0FDr0lgZ0duzkkfO) | 3:26 |
-| 9 | [Binaural Delta 1hz 123hz and 124hz](https://open.spotify.com/track/1n2HzVLCZSEZ2ME1AutT73) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Binaural Delta and Theta Brainwaves for Sleep](https://open.spotify.com/album/4wWOPfIqG0U0Q060BU9AS6) | 2:32 |
-| 10 | [In Control \(Delta Relax Waves\)](https://open.spotify.com/track/4vJGL9X3d3dFymERTqxHTL) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Delta Force](https://open.spotify.com/album/4fmpqaIzIfbK9JABdeSzB9) | 3:26 |
-| 11 | [Meditative Delta \(L\-98Hz R\-99.7Hz\)](https://open.spotify.com/track/53B0QMB3fQVFxt93wVjHuk) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 4:52 |
+| 9 | [Delta Equinox 3 Hz](https://open.spotify.com/track/1kFCJ9w9EWje4YHKGfSu62) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 2:39 |
+| 10 | [Binaural Delta 1hz 123hz and 124hz](https://open.spotify.com/track/1n2HzVLCZSEZ2ME1AutT73) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Binaural Delta and Theta Brainwaves for Sleep](https://open.spotify.com/album/4wWOPfIqG0U0Q060BU9AS6) | 2:32 |
+| 11 | [In Control \(Delta Relax Waves\)](https://open.spotify.com/track/4vJGL9X3d3dFymERTqxHTL) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Delta Force](https://open.spotify.com/album/4fmpqaIzIfbK9JABdeSzB9) | 3:26 |
 | 12 | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/track/5BG09azTJhFK50nEx60YuT) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/album/7F30kdRKhpV392urnfBjrf) | 3:04 |
 | 13 | [Delta 78.3\-80.8Hz](https://open.spotify.com/track/18lxuqcr3Dho1EZidOZeX4) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 3:56 |
 | 14 | [Delta Sinus 125 Hz \- 128 Hz](https://open.spotify.com/track/3yvLiFaVGniTSJkBK9P5VS) | [Beatwaves](https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP) | [Beatwaves](https://open.spotify.com/album/21Knlncq1KCJSkGyKbMIle) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 99 | [Deep Shelter \(2 Hz Delta Binaural Beat\)](https://open.spotify.com/track/5ce38nO7UuAYX7190FS0WD) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Binarual Beats Remixes](https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy) | 3:10 |
 | 100 | [Delta Sinus 160 Hz \- L 165 Hz \- R \- Drone](https://open.spotify.com/track/69V8WWWQCX7aFd2uVWml3x) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Delta Brainwaves For Deep Sleep](https://open.spotify.com/album/2T3TcvujzYCxkqwxhJkAL6) | 3:33 |
 
-Snapshot ID: `MTY2OTE5ODIyMSwwMDAwMDAwMDYwZjc3NTY4MWYzMDBhYzQxZGM2MTI0NGNlYWI3YjA3`
+Snapshot ID: `MTY3MDU5ODE3NSwwMDAwMDAwMDlhMTFjYzliYzg3YzgyOGIwOWI1ZjliZjRmYjkyN2Mz`

@@ -696,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Cloudbed",
+        "url": "https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL"
+      },
+      "artists": [
+        {
+          "name": "Ceri Rocha",
+          "url": "https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163437,
+      "name": "Cloudbed",
+      "url": "https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6"
+    },
+    {
+      "album": {
         "name": "Convergence",
         "url": "https://open.spotify.com/album/1095m41z6UPcurOL35ybPa"
       },
@@ -1179,6 +1197,24 @@
       "duration_ms": 178000,
       "name": "Eudaemonia",
       "url": "https://open.spotify.com/track/3ZxQ9iLS9QWcnoyg0tbSME"
+    },
+    {
+      "album": {
+        "name": "Evolving",
+        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194919,
+      "name": "Evolving",
+      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
     },
     {
       "album": {

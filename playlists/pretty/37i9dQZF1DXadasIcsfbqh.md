@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Katy Perry and Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,326 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,409 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 |
 | 100 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MTY2OTg3MDgwMCwwMDAwMDAwMDNhZmNmMmY5YzQ1NGI0ODk4Mzk4YmI2ZTVkY2E3NTJj`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGViOWNiYjcyMDI5YjMwZjg2NTlhNTY4ZjY5NDNkMjQ5`

@@ -2,9 +2,9 @@
 
 ### [Internacional Mexicano](https://open.spotify.com/playlist/37i9dQZF1DXbApqiewDQsL)
 
-> The songs and collaborations pushing the Mexican sound to a global level\. Cover: Kany García & Christian Nodal.
+> The songs and collaborations pushing the Mexican sound to a global level\. Cover: Tokischa & Natanael Cano
 
-63 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/6afbS8jMGP22mlmpnwyCdP)
+64 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/6afbS8jMGP22mlmpnwyCdP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Flow Dragon](https://open.spotify.com/track/0sraRgvPfsDbFaPH5IyAdF) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde El Infierno](https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n) | 3:30 | 2022-05-13 | 2022-08-16 |
 | [Glopeta y Dios](https://open.spotify.com/track/3ipLtuOWd0xHEWZKju7foh) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [DELUXE](https://open.spotify.com/album/1GqEkyZqFiv1k45AQzEyHk) | 3:46 | 2022-05-13 |  |
 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 | 2022-05-13 |  |
+| [Kilos de Amor](https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kilos de Amor](https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp) | 3:56 | 2022-12-09 |  |
 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 | 2022-05-13 |  |
 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 | 2022-09-23 |  |
 | [La Verdad](https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [La Verdad](https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA) | 2:21 | 2022-05-13 |  |
@@ -48,7 +49,7 @@
 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 | 2022-05-13 |  |
 | [Municiones](https://open.spotify.com/track/2nVOSrxGjCqblT9CKqEMHi) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 2:55 | 2022-05-13 |  |
 | [No Hay Pedo](https://open.spotify.com/track/7FMa8CKN1im2uXR9bArJvX) | [Grupo Sigma](https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [No Hay Pedo](https://open.spotify.com/album/5o7CtNJewla3ScdV8RrePn) | 3:03 | 2022-05-13 | 2022-12-06 |
-| [No Lo Vi Venir](https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 | 2022-05-13 |  |
+| [No Lo Vi Venir](https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 | 2022-05-13 | 2022-12-10 |
 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 | 2022-05-13 |  |
 | [Otra Botella](https://open.spotify.com/track/1eF1uRpuxr351DXcsZ8t34) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Otra Botella](https://open.spotify.com/album/0yAKlqiiZXRUrSRdag7YeA) | 3:46 | 2022-05-13 |  |
 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/3lR4O0vtkhCAvVEUEWUL0S) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:47 | 2022-05-13 |  |

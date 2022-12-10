@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-328 songs - 15 hr 42 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+329 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2020-10-20\* | 2022-07-16 |
 | [The Quiet Hours](https://open.spotify.com/track/40M4T2bzYllLK4DzSPCGPy) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [The Quiet Hours](https://open.spotify.com/album/05MirPFXPGeqG59lLaHGyN) | 2:10 | 2021-09-08 |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2020-10-20\* | 2022-02-04 |
+| [The Space Between Us](https://open.spotify.com/track/6sjD1SSw6kbkSDi5qIUxQO) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Born Again](https://open.spotify.com/album/4VhkKxDXLDSmk9XxzJYWKo) | 2:54 | 2022-12-09 |  |
 | [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 | 2020-10-20\* |  |
 | [Thoughts](https://open.spotify.com/track/3MUvt8kUIA6QPSBTEnjgMr) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Empty Canvas](https://open.spotify.com/album/6xla5pUFL0vlN6NjCEeOV3) | 3:21 | 2020-10-20\* |  |
 | [Thoughts about the Past](https://open.spotify.com/track/3mT4rBTlHe90bcKv7Vq38T) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:44 | 2020-10-20\* |  |

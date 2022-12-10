@@ -1042,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/42tptQ38LTPQenmxgSBtjU"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/501X2Nrk11zzfOn546Rhti"
+    },
+    {
+      "album": {
         "name": "Joder",
         "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },

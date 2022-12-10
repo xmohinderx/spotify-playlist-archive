@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,741 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,791 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 99 | [Divine Light \- Studio Edit](https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:00 |
 | 100 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 |
 
-Snapshot ID: `MTY2OTk4OTU4MywwMDAwMDAwMGRlYjY3NzAxYzdlYWQ2ZGI5OWVmMmQyOGFjZGY4OGYw`
+Snapshot ID: `MTY3MDU5OTMzNCwwMDAwMDAwMDE3NTcwMzllNjI3NWE3NGVkZTBlYjA2YzhmMGYxNzdj`

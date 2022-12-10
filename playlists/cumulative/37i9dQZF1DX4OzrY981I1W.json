@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 249520,
       "name": "Cough Syrup",
       "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 245425,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
@@ -4303,7 +4303,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 224693,
       "name": "She's so High",
       "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
@@ -4559,6 +4559,24 @@
       "duration_ms": 121880,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+    },
+    {
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "album": {
@@ -5743,7 +5761,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"

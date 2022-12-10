@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-245 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+246 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,11 +43,11 @@
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2021-12-23 |  |
 | [Changes](https://open.spotify.com/track/7LN8q1j8AvipS8Rd17SZh8) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Changes](https://open.spotify.com/album/2AJCLt8HmnHefCJOOcqNtT) | 3:08 | 2021-12-23 |  |
 | [Chasing Cloud Nine](https://open.spotify.com/track/2PNnspLf4w92O4niNRR7lN) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:42 | 2022-11-11 | 2022-11-13 |
-| [Chasing Cloud Nine](https://open.spotify.com/track/3syIiKL3nOWcphWLsVtMEA) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Chasing Cloud Nine](https://open.spotify.com/album/3EB3bjFZwEXfdMcMFM4eoK) | 2:42 | 2022-07-22 |  |
+| [Chasing Cloud Nine](https://open.spotify.com/track/3syIiKL3nOWcphWLsVtMEA) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Chasing Cloud Nine](https://open.spotify.com/album/3EB3bjFZwEXfdMcMFM4eoK) | 2:42 | 2022-07-22 | 2022-12-10 |
 | [Chasing Cloud Nine](https://open.spotify.com/track/6nUMS7cttlCUPvl0wfN3sQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/6Y3wbX1sgVdf2KAVJ0nPt7) | 2:42 | 2021-12-23 | 2022-07-29 |
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2021-12-23 |  |
 | [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-09-13 |  |
-| [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-12-23 |  |
+| [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-12-23 | 2022-12-10 |
 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2021-12-23 |  |
 | [Contemplation](https://open.spotify.com/track/6dAScKFmnc7epcmlV7uXRv) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Contemplation](https://open.spotify.com/album/4X1afAsNqXENvFo1ijXnau) | 3:02 | 2021-12-23 |  |
 | [Coucher](https://open.spotify.com/track/0gBwjXf71aUxndZSzrJ6Ej) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Coucher](https://open.spotify.com/album/5GaPY7G2NrAsOG6M0y5d4y) | 3:13 | 2022-11-11 |  |
@@ -72,7 +72,7 @@
 | [Ending In Mist](https://open.spotify.com/track/1EARYCS97kPiVGEf0wMhQt) | [Atlentea](https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4) | [Ending In Mist](https://open.spotify.com/album/6YPKQpMvioaOTpIyx5AZA3) | 3:04 | 2022-08-05 |  |
 | [Endless Fragments of Time](https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:36 | 2021-12-23 | 2022-09-03 |
 | [Enlightened Room](https://open.spotify.com/track/7wVGdCV81JeomYcKNMoKcm) | [Jon Goldfield](https://open.spotify.com/artist/2T8zvXA9vOR9aHbTkhx0IU) | [Enlightened Room](https://open.spotify.com/album/2oqfsZYj4obwEVD8lUcZhj) | 2:13 | 2021-12-23 |  |
-| [Epilogue](https://open.spotify.com/track/6y0lVyrMuMfpOLBBItogIT) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 4:17 | 2021-12-23 |  |
+| [Epilogue](https://open.spotify.com/track/6y0lVyrMuMfpOLBBItogIT) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 4:17 | 2021-12-23 | 2022-12-10 |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-23 |  |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2021-12-23 |  |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-06-24 |  |
@@ -101,7 +101,7 @@
 | [Humilis Cicer](https://open.spotify.com/track/1sYKMOqw4fgn8jlHrlodmU) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Humilis Cicer](https://open.spotify.com/album/4kJNPj1cyLiE3ux4LjhIgI) | 2:54 | 2021-12-23 | 2022-12-03 |
 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 | 2022-01-07 |  |
 | [If.](https://open.spotify.com/track/0trkmvv7w7SMBqOnQikIGV) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/719Uu5vBFVSLv8KnMNte0A) | 2:04 | 2021-12-23 | 2022-07-29 |
-| [If.](https://open.spotify.com/track/29QCZzX5VWwuzF4fLKFYTj) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/6CXGJJW4997QYQzKRSAbGC) | 2:04 | 2022-07-22 |  |
+| [If.](https://open.spotify.com/track/29QCZzX5VWwuzF4fLKFYTj) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/6CXGJJW4997QYQzKRSAbGC) | 2:04 | 2022-07-22 | 2022-12-10 |
 | [In een ander leven](https://open.spotify.com/track/537oPrVMaJChPcHDEP83nR) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [In een ander leven](https://open.spotify.com/album/3gDdSpkPuaEvfknYdFW8Db) | 2:56 | 2022-03-03 |  |
 | [In Plain Sight](https://open.spotify.com/track/0gfWmjRdqIWwMzqnyhed0K) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/5qyeAgJQ1rk0uRZcjgCGMc) | 3:19 | 2021-12-23 | 2022-07-29 |
 | [In Plain Sight](https://open.spotify.com/track/1Hv0xfiKWyRicMFmV4TYZU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/3clSZEB0Fg1q8HE6Ckp2ya) | 3:19 | 2022-07-22 |  |
@@ -166,6 +166,7 @@
 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 | 2021-12-23 |  |
 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 | 2021-12-23 | 2022-09-03 |
 | [Phobos](https://open.spotify.com/track/0oMpRwCaNzymAs2gwfgRzQ) | [Orphoria](https://open.spotify.com/artist/0WTxtKGnW3poFGHyG9Hcpg) | [Solar Sail](https://open.spotify.com/album/5LnqmFMVmIut3nRotPDWzc) | 4:02 | 2021-12-23 |  |
+| [Places](https://open.spotify.com/track/45is8QBgjhyLKWQEslJKQs) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Night Explorer](https://open.spotify.com/album/4nVmSEXUsqxaGcpdvhsHLd) | 2:30 | 2022-12-09 |  |
 | [Porcelain](https://open.spotify.com/track/1p6B2W8oxPhLhkY9baZbi5) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 2:09 | 2022-11-11 |  |
 | [Pour l'amour de toi](https://open.spotify.com/track/30fnP9bbrN5BVLFQdLAeAu) | [Tranquil Cove](https://open.spotify.com/artist/7wcYGhAdnlsglHP4ty9b26) | [Pour l'amour de toi](https://open.spotify.com/album/5WuFegQt0hnehGmaEkUt4T) | 2:03 | 2021-12-23 |  |
 | [Primrose](https://open.spotify.com/track/5tIbsGFsbxljVv1KxUUXKV) | [Joan Magana](https://open.spotify.com/artist/0WZH1ZpG77XFRS44A8lL5R) | [Primrose](https://open.spotify.com/album/2T22dTQnkNLOFlfsqv8kd4) | 3:38 | 2021-12-23 |  |
@@ -191,9 +192,9 @@
 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2021-12-23 |  |
 | [Serene](https://open.spotify.com/track/4UkBU9f4gIkISb9FA4FCRK) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Serene](https://open.spotify.com/album/3DHeJvTrp7SnoX5QsBxMFN) | 2:34 | 2021-12-23 |  |
 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 | 2021-12-23 |  |
-| [Shizuka](https://open.spotify.com/track/6HT1n99x9rmGRQd2lbszzI) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Shizuka & Ugokanai](https://open.spotify.com/album/4KBRd7Ce8OyLMnJ07AnlPw) | 2:14 | 2021-12-23 |  |
+| [Shizuka](https://open.spotify.com/track/6HT1n99x9rmGRQd2lbszzI) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Shizuka & Ugokanai](https://open.spotify.com/album/4KBRd7Ce8OyLMnJ07AnlPw) | 2:14 | 2021-12-23 | 2022-12-10 |
 | [Shoreline Waves](https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:00 | 2021-12-23 |  |
-| [Sidereus](https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Sidereus](https://open.spotify.com/album/338OsNe2iBBwVdhpdtCGm3) | 3:27 | 2021-12-23 |  |
+| [Sidereus](https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Sidereus](https://open.spotify.com/album/338OsNe2iBBwVdhpdtCGm3) | 3:27 | 2021-12-23 | 2022-12-10 |
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2021-12-23 |  |
 | [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 | 2022-05-19 |  |
 | [Skirr](https://open.spotify.com/track/0tzo8lb0ghQsazQTkmUtss) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Skirr](https://open.spotify.com/album/02bD03yEh1tcxFNVEIIXqj) | 2:30 | 2022-03-03 |  |
@@ -216,7 +217,7 @@
 | [Tambo](https://open.spotify.com/track/1VSbOfZgq1QvuSg8s7F0tZ) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Tambo](https://open.spotify.com/album/2IBgAMSclg0n79MbD8a6sr) | 3:12 | 2022-09-30 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 | 2021-12-23 |  |
-| [The Explorer](https://open.spotify.com/track/02CXPIbxZQD8utqIQBQ59A) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [The Explorer](https://open.spotify.com/album/572p09vhNOLPyc0PHeMWuf) | 2:36 | 2021-12-23 |  |
+| [The Explorer](https://open.spotify.com/track/02CXPIbxZQD8utqIQBQ59A) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [The Explorer](https://open.spotify.com/album/572p09vhNOLPyc0PHeMWuf) | 2:36 | 2021-12-23 | 2022-12-10 |
 | [The First Light](https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Crepuscule](https://open.spotify.com/album/7zOlVGVm9AGwbPBr6TpWzI) | 2:46 | 2022-11-11 |  |
 | [The Flow \- Ambient Version](https://open.spotify.com/track/1npBONsS8I6x9PUwBVvGKl) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [The Flow](https://open.spotify.com/album/4No1BWcLfp9OnirTStsSPC) | 2:45 | 2021-12-23 |  |
 | [The Garden's Light](https://open.spotify.com/track/72cj11O7lJBQiLu3dXzKLV) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [New Ambitions](https://open.spotify.com/album/2pFPMeYVWjKFW85yCBuJ5Q) | 3:13 | 2022-07-22 | 2022-09-03 |

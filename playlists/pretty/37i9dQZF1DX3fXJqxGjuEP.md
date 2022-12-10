@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,956 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,115 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,861 likes - 250 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,857 likes - 250 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

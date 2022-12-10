@@ -4,7 +4,7 @@
 
 > Bollywood beats to keep you dancing all night\. Cover: Liger
 
-78 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/5HAFGxpwN32oLCPDEylxYw)
+79 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/5HAFGxpwN32oLCPDEylxYw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [O Saki Saki \(From "Batla House"\)](https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [O Saki Saki \(From "Batla House"\)](https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq) | 3:11 | 2021-12-24 |  |
 | [Param Sundari](https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mimi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z) | 3:20 | 2021-12-24 |  |
 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 | 2021-12-24 |  |
+| [Ra Ra Reddy](https://open.spotify.com/track/3CltdQnB1NJuE5khm0d6r7) | [Tarannum Mallik Jain](https://open.spotify.com/artist/4ZourJRcQTpIL5haRgvyWl) | [Macharla Chunaav Kshetra \(M.C.K\)](https://open.spotify.com/album/0qRXOBFcg6JaeECfILhtvz) | 4:19 | 2022-12-09 |  |
 | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z) | 3:47 | 2022-04-27 |  |
 | [Sakhiyan2.0](https://open.spotify.com/track/2hTn8oS49IQULxAWs7hEBz) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Sakhiyan2.0 \- BellBottom](https://open.spotify.com/album/5iXTBxq6U8TlbjRIDEDItN) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Sakhiyan2.0](https://open.spotify.com/track/0E0Us1GI40GNXWOQwbL5uG) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Zara Khan](https://open.spotify.com/artist/3YVD2aXecw8JQuWkGAuf7t) | [BellBottom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xcn75mmKGdvd2XYJUmqCU) | 2:57 | 2022-09-28 | 2022-11-14 |

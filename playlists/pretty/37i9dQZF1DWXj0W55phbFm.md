@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,186 likes - 100 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,244 likes - 100 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Tin Roof Blues](https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [Presenting Muggsy Spanier](https://open.spotify.com/album/0IStfKG8KwvvniN0ZtLWih) | 2:56 |
 | 100 | [Have Blues, Will Play'em](https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT) | [Bill Coleman](https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w) | [Boogie To Funk \- That's The Way I Like It](https://open.spotify.com/album/70HYV459jHKqPQ7QsNNUiX) | 9:46 |
 
-Snapshot ID: `MTY3MDQxODg4MCwwMDAwMDAwMGJhNGNjY2JmZDA3MTBjYzk5MDc4NWRkNTljZjFhNTU4`
+Snapshot ID: `MTY3MDU3Mjk4MCwwMDAwMDAwMGJjMjM3YzY4ZjhjY2U1NGE0YTY0ZmJhY2QyODY3NTNk`

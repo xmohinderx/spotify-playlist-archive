@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,141 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,379 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 99 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 |
 | 100 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 |
 
-Snapshot ID: `MTY3MDE5ODQwMCwwMDAwMDAwMDRlMDAxZWJhNTYyMjQzZjIxNGQwNDA4NjE1YTg1ZDAy`
+Snapshot ID: `MTY3MDU2NjQ5NSwwMDAwMDAwMGI0NjAwYmMxNzEzY2IwMzIzZGY3ZTc5NTY5ZTFkNjVj`

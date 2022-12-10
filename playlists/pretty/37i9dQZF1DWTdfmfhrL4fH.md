@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdfmfhrL4fH.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,214 likes - 200 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,332 likes - 200 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,7 +191,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdfmfhrL4fH.md) - [plain]
 | 181 | [Heroin](https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:41 |
 | 182 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 |
 | 183 | [Well, Everybody's Fucking In A U.F.O.](https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:43 |
-| 184 | [Let It Burn](https://open.spotify.com/track/6FlCPO7Z0QGgwtIL8ocZzY) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Until We Have Faces](https://open.spotify.com/album/3mCFgW3TWFsRTD1Kc1yEtO) | 4:57 |
+| 184 | [Let It Burn](https://open.spotify.com/track/6FlCPO7Z0QGgwtIL8ocZzY) | [Red](https://open.spotify.com/artist/1I6NXqNRc80qu8vz7vxikU) | [Until We Have Faces](https://open.spotify.com/album/3mCFgW3TWFsRTD1Kc1yEtO) | 4:57 |
 | 185 | [Put Your Money on Me](https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:53 |
 | 186 | [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 |
 | 187 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |

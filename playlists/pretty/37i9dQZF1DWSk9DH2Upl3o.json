@@ -1,18 +1,18 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 10785,
+  "num_followers": 10838,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDBkOTRhODlmZTRkZmM5OGVhMDIwZTNmZDliODg4MTEy",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGYyNDIwY2ZkZmFhODdkZTMwYzJhNDljZTFiMmI0YzI3",
   "tracks": [
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Zoom Out",
-        "url": "https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC"
+        "name": "You're a Catman",
+        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
         }
       ],
-      "duration_ms": 262805,
-      "name": "Zoom Out",
-      "url": "https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv"
+      "duration_ms": 342994,
+      "name": "You\u2019re a Catman",
+      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/5EzcAEZEjRBT6BplnklT1Y"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/4gpAq0kaZMRURC4mn8zBGm"
-      },
-      "artists": [
-        {
-          "name": "SunSquabi",
-          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
-        }
-      ],
-      "duration_ms": 369476,
-      "name": "Water Level",
-      "url": "https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Soul Sweet Song",
@@ -89,36 +73,20 @@
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Dripfield",
-        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
+        "name": "Another Plan of Attack",
+        "url": "https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k"
       },
       "artists": [
         {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+          "name": "The Disco Biscuits",
+          "url": "https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D"
         }
       ],
-      "duration_ms": 426602,
-      "name": "Hungersite",
-      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S"
-      },
-      "artists": [
-        {
-          "name": "Tommy Kaelin",
-          "url": "https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p"
-        }
-      ],
-      "duration_ms": 290150,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy"
+      "duration_ms": 394596,
+      "name": "Another Plan of Attack",
+      "url": "https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -151,6 +119,22 @@
       "duration_ms": 173105,
       "name": "New Eyes",
       "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Dripfield",
+        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 426602,
+      "name": "Hungersite",
+      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -203,6 +187,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
+      },
+      "artists": [
+        {
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+        }
+      ],
+      "duration_ms": 306840,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Interludes For The Dead (feat. Neal Casal)",
         "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 565240,
       "name": "Saturday's Children (feat. Neal Casal)",
       "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
-      },
-      "artists": [
-        {
-          "name": "Lotus ",
-          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
-        }
-      ],
-      "duration_ms": 306840,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -317,6 +301,22 @@
       "url": "https://open.spotify.com/track/57lOagpbrS9oL3pHcXQONR"
     },
     {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/4gpAq0kaZMRURC4mn8zBGm"
+      },
+      "artists": [
+        {
+          "name": "SunSquabi",
+          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
+        }
+      ],
+      "duration_ms": 369476,
+      "name": "Water Level",
+      "url": "https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24"
+    },
+    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Phone.Keys.Wallet",
@@ -331,6 +331,22 @@
       "duration_ms": 139773,
       "name": "Stacy's on the Lake",
       "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Zoom Out",
+        "url": "https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 262805,
+      "name": "Zoom Out",
+      "url": "https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -363,22 +379,6 @@
       "duration_ms": 357053,
       "name": "Babyman",
       "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Microdosio",
-        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 331570,
-      "name": "Cubensis",
-      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -459,6 +459,22 @@
       "duration_ms": 400000,
       "name": "Tumbleweed",
       "url": "https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Microdosio",
+        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 331570,
+      "name": "Cubensis",
+      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -659,22 +675,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Dopapod",
-        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 304826,
-      "name": "Nuff",
-      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Element",
         "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 215653,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Dopapod",
+        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
+      },
+      "artists": [
+        {
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+        }
+      ],
+      "duration_ms": 304826,
+      "name": "Nuff",
+      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -785,36 +801,20 @@
       "url": "https://open.spotify.com/track/5QLYkHW64i9wdhLwplMmhb"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
+      "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Time Dilates",
-        "url": "https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S"
       },
       "artists": [
         {
-          "name": "Lotus ",
-          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+          "name": "Tommy Kaelin",
+          "url": "https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p"
         }
       ],
-      "duration_ms": 321688,
-      "name": "Time Dilates",
-      "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Best in Show",
-        "url": "https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC"
-      },
-      "artists": [
-        {
-          "name": "Aqueous",
-          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
-        }
-      ],
-      "duration_ms": 485880,
-      "name": "Random Company",
-      "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
+      "duration_ms": 290150,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy"
     }
   ],
   "unique_name": "Modern Jam Band",

@@ -2,9 +2,9 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> O Poder Dessa Garota e os funks mais 🔑 do Brasil\. Foto: MC Gabzin
+> Tutu e Fafá e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP, MC Daniel
 
-127 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
+128 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [Mtg \- Vem Sentando Vem \(feat\. Dj Nbeat\) \- Remix](https://open.spotify.com/track/2Xgc216OMnc9PyUalpaSPc) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS), [Dj Nbeat](https://open.spotify.com/artist/0bzyhFojsIgDceZ4NQK9pY) | [Mtg \- Vem Sentando Vem \(feat\. Dj Nbeat\) \[Remix\]](https://open.spotify.com/album/4N6rRcnZCELIQGfHRmQ5ni) | 2:19 | 2021-12-31 | 2022-04-09 |
 | [Mtg Ta Brotando No Plantão Pra Tira Foto Com Revolver](https://open.spotify.com/track/1pPuodu8A0LxAuVhf3QniW) | [Dj Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mtg Ta Brotando No Plantão Pra Tira Foto Com Revolver](https://open.spotify.com/album/74KdOIHh6aHI2qoHkqWeqS) | 1:56 | 2021-12-31 | 2022-06-18 |
 | [Mágico do Som](https://open.spotify.com/track/0eumeycOAI8ew5qRzFJbEr) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Mágico do Som](https://open.spotify.com/album/6elOu6PrCxDHrnOT9E2wjC) | 2:01 | 2022-03-18 | 2022-08-13 |
+| [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 | 2022-12-09 |  |
 | [No Pique BBB, Tu Já Sabe o Macete \(feat\. Mc Rodrigo do CN\)](https://open.spotify.com/track/6QSc8c7gLPSpv80eoUzoZP) | [Dj Bruninho Pzs](https://open.spotify.com/artist/5bSWLXu8tYxI5ISra9j6IF), [DJ TITÍ OFICIAL](https://open.spotify.com/artist/0hhuWXnDOhe2ByXnLJGjXZ), [DJ JS MIX](https://open.spotify.com/artist/4OI9MSXu1JqXoKlS6P5H4F), [MC Rodrigo do CN](https://open.spotify.com/artist/449rEPoJUfZNnXX9UnUUbi) | [No Pique BBB, Tu Já Sabe o Macete \(feat\. Mc Rodrigo do CN\)](https://open.spotify.com/album/6E5cEnHmrqsvR46J11wIYn) | 2:47 | 2021-12-31 | 2022-07-02 |
-| [Novinha Malada do Insta](https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Novinha Malada do Insta](https://open.spotify.com/album/0PysEJ0X0U5sP1uG4fxFVj) | 1:47 | 2022-01-26 |  |
+| [Novinha Malada do Insta](https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Novinha Malada do Insta](https://open.spotify.com/album/0PysEJ0X0U5sP1uG4fxFVj) | 1:47 | 2022-01-26 | 2022-12-10 |
 | [Não Nasceu pra Namorar](https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Não Nasceu pra Namorar](https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ) | 2:20 | 2021-12-31 |  |
 | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL) | 2:22 | 2022-01-26 | 2022-02-19 |
 | [Não Quer Chifre](https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC) | [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Quer Chifre](https://open.spotify.com/album/0bjhRzZTAjo8MJ4MuV9Y5g) | 2:29 | 2021-12-31 | 2022-06-07 |

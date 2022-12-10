@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Top of the top tracks in RADAR KOREA playlist this year! \(Cover: NMIXX\(엔믹스\)\) 2022년 RADAR KOREA를 빛낸 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,533 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,571 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Do you wanna get down](https://open.spotify.com/track/3pkreie3kWVsVhu1Dcz3Fn) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [Do you wanna get down](https://open.spotify.com/album/3yJjpb5pvVGa3ViMv4NL98) | 3:20 |
 | 50 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 |
 
-Snapshot ID: `MTY2OTgyOTg1MSwwMDAwMDAwMGEwMjBkODIyZTgyZGIwODgwMjI4MGY5NzY0ZDk0Yjg5`
+Snapshot ID: `MTY3MDU3NjYyMCwwMDAwMDAwMGFjMWY0YjRjNDUwNDI0YzRjZGJiMGZlY2UzZGU5MmNm`

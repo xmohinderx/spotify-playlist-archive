@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,084 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,100 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 46 | [Him](https://open.spotify.com/track/50XKj7DDE5cFGpV6z90SD9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:40 |
 | 47 | [Shaderoom](https://open.spotify.com/track/56VdUlGYjJOeHd4FPZoutA) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:33 |
 | 48 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
-| 49 | [KICK DOOR](https://open.spotify.com/track/3hrNmOrVieY0t27DijFfYH) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:22 |
+| 49 | [Party in Heaven](https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:16 |
 | 50 | [Survivor's Outro](https://open.spotify.com/track/17WII2fbPxGhBLsAyhhzpP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:50 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDAwNmM4MGQ5MGE4YWEyMDNiODJjNzQ1YjhjZmUzYTkzYQ==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBhODAyZjYzMTE4YTI5YjE2NWEzZjhlN2JjMjUwZWU4ZA==`

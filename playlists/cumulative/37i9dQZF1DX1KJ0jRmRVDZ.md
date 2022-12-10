@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-556 songs - 1 day 7 hr 57 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+557 songs - 1 day 8 hr 1 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [First Love feat.natsumi](https://open.spotify.com/track/0UP2LfMahz2upMadwoqGfu) | [VILLSHANA](https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo), [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [First Love feat.natsumi](https://open.spotify.com/album/2agcpsXOnEyGDkRgqPEAHo) | 2:25 | 2022-07-28 | 2022-08-23 |
 | [Flore](https://open.spotify.com/track/0pq466YrVQcHoMI5NEP7ry) | [Caro](https://open.spotify.com/artist/4A2gPMTP4JlLW4BhA4BeTr) | [Flore](https://open.spotify.com/album/1MjwCvVYqvRPBRI7dOoN7v) | 4:30 | 2022-06-23 | 2022-07-20 |
 | [Forgery](https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Forgery](https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v) | 2:20 | 2022-11-15 | 2022-12-06 |
-| [Fuyuumi feat\. Keina Suda](https://open.spotify.com/track/6bppTKO2Fx1xtwPawg8hnY) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [Keina Suda](https://open.spotify.com/artist/5AXd3qJ9SVN09wVWGfFH0K) | [Fuyuumi feat\. Keina Suda](https://open.spotify.com/album/1fTwkmx0IsEwzIXoBCDoPP) | 4:39 | 2022-11-22 |  |
+| [Fuyuumi feat\. Keina Suda](https://open.spotify.com/track/6UhJvLFqPF8jG29jsK7AYe) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [Keina Suda](https://open.spotify.com/artist/5AXd3qJ9SVN09wVWGfFH0K) | [ULTRAPANIC](https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz) | 4:39 | 2022-12-06 |  |
+| [Fuyuumi feat\. Keina Suda](https://open.spotify.com/track/6bppTKO2Fx1xtwPawg8hnY) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [Keina Suda](https://open.spotify.com/artist/5AXd3qJ9SVN09wVWGfFH0K) | [Fuyuumi feat\. Keina Suda](https://open.spotify.com/album/1fTwkmx0IsEwzIXoBCDoPP) | 4:39 | 2022-11-22 | 2022-12-10 |
 | [Gerbera](https://open.spotify.com/track/0WpodCrGhNjKu87WxMUkFK) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [Gerbera](https://open.spotify.com/album/5bW6MAWuSTKFk7cuMLOETR) | 3:50 | 2022-07-14 | 2022-07-27 |
 | [Girl.](https://open.spotify.com/track/2uH4sSVxfRDBhsg1YekBBm) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Girl.](https://open.spotify.com/album/5jR5aEVdxEXOMRf9Mp6uIK) | 3:25 | 2022-06-09 | 2022-07-24 |
 | [good time](https://open.spotify.com/track/7vLR5hYebH7l7CCRoZZ21f) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [二条瑛士郎](https://open.spotify.com/artist/0RIr0bT6YEaqInva42lKBS) | [good time](https://open.spotify.com/album/2J7uuTCcBiIqNYF3C8Zgky) | 3:34 | 2022-08-25 | 2022-09-15 |

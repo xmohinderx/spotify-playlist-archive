@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-360 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+361 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [I'm With The DJ](https://open.spotify.com/track/6glWuI8u4DdoIkNIwhyk2N) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [I'm With The DJ](https://open.spotify.com/album/4QjPl6fliUZnwvGsWuMnXb) | 3:32 | 2022-07-28 | 2022-11-12 |
 | [icarus](https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 | 2022-01-31 | 2022-03-31 |
 | [In Your Eyes](https://open.spotify.com/track/4LZtJRxcce5RPdSNmfa9AT) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [In Your Eyes](https://open.spotify.com/album/0O24SqzRbDIS8W4xqwHrG4) | 3:12 | 2022-06-25 | 2022-07-16 |
+| [IN YOUR EYES 「瞳の中で」](https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 4:15 | 2022-12-10 |  |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-03-11 | 2022-03-31 |
 | [Inside My Head](https://open.spotify.com/track/4wjk41EIeEwam4t2dyFD1F) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN), [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [Inside My Head](https://open.spotify.com/album/46Xk8s8C66TNraDW6r4dWs) | 2:42 | 2022-10-09 |  |
 | [Into The Night](https://open.spotify.com/track/36NDrXStsbcDfQWVKlAj0p) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Eilish Gilligan](https://open.spotify.com/artist/65LDkZn0JiySoZODomsvVQ) | [Into The Night](https://open.spotify.com/album/37NLypcnxqNBPzPuoJYcVS) | 2:30 | 2022-08-04 | 2022-09-19 |

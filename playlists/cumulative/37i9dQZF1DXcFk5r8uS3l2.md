@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-231 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+233 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Everybody Wants To Be My Friend](https://open.spotify.com/track/2dHohxPASrUNxY5NDKWZ1e) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Everybody Wants To Be My Friend](https://open.spotify.com/album/1YTz5RAgMEKkSavrQAg3yN) | 3:37 | 2022-04-15 | 2022-06-12 |
 | [Feels Like Freedom](https://open.spotify.com/track/14HCZEU2biaM0hEoOEq1vd) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Feels Like Freedom](https://open.spotify.com/album/1oK1BuADbj2eCKKf24BPwL) | 3:50 | 2022-10-28 |  |
 | [Feels so Bad \- Previously Unreleased Take](https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Introducing Junior Kimbrough](https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD) | 2:17 | 2021-12-17 |  |
-| [Fiddle](https://open.spotify.com/track/1yqA8U6NTglVeBWoLwpwAO) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fiddle](https://open.spotify.com/album/5tlMpDBnEsbFPkgTNcpWyU) | 3:12 | 2022-12-02 |  |
+| [Fiddle](https://open.spotify.com/track/1yqA8U6NTglVeBWoLwpwAO) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fiddle](https://open.spotify.com/album/5tlMpDBnEsbFPkgTNcpWyU) | 3:12 | 2022-12-02 | 2022-12-10 |
 | [Fight the Good Fight](https://open.spotify.com/track/4SZcib7kgYNZC43ZeLpYQM) | [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) | [Fight the Good Fight](https://open.spotify.com/album/09KRwQuSiA0RE2Hy1L3u20) | 3:46 | 2022-04-15 | 2022-06-11 |
 | [Fire](https://open.spotify.com/track/4mGkVCstt9CC4mIU8iHOZ5) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [Fire](https://open.spotify.com/album/2rGNHADUSv8bTiRa13dB0j) | 3:59 | 2022-08-19 | 2022-09-03 |
 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 | 2022-06-24 | 2022-07-02 |
@@ -154,6 +154,7 @@
 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 | 2021-12-17 |  |
 | [Order out of Chaos](https://open.spotify.com/track/0g4O3fIl76RzfB6YvPjEhI) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [Order out of Chaos](https://open.spotify.com/album/474UZkOJiONk1qZbePll0F) | 5:02 | 2022-04-15 | 2022-06-11 |
 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 | 2021-12-17 |  |
+| [Pound Cake](https://open.spotify.com/track/3goF1TzajL2w26cwbVuIlt) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Pound Cake](https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK) | 2:59 | 2022-12-10 |  |
 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 | 2021-12-17 | 2022-07-28 |
 | [Profit](https://open.spotify.com/track/4kw9x3gkvWRNk3IIv6cYGW) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:13 | 2022-08-12 | 2022-10-23 |
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 | 2022-09-05 |
@@ -168,6 +169,7 @@
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-12-17 | 2022-06-12 |
 | [Rosie](https://open.spotify.com/track/5wBP2sIgbhdWdmr1u54Eoz) | [Calling Cadence](https://open.spotify.com/artist/4k9Si9nVLMfD6bEIMzXdXD) | [Calling Cadence](https://open.spotify.com/album/7fSLZKWKWueYzKOBH1RWkg) | 4:02 | 2022-05-06 | 2022-06-11 |
 | [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-16 | 2022-09-24 |
+| [Running](https://open.spotify.com/track/2M6f90yKmcXK71HGVpnOcB) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [Terra Santa](https://open.spotify.com/album/3utismh5YS0OUEc0M0pDb2) | 4:00 | 2022-12-09 |  |
 | [Said and Done](https://open.spotify.com/track/1nU3EteBtKcrE2DhnKZLw2) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [Right On](https://open.spotify.com/album/0bHzlnQ4InLhnDwrqL0nBC) | 2:28 | 2022-05-20 | 2022-06-11 |
 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 | 2022-01-28 |  |
 | [Savior](https://open.spotify.com/track/5gICNh1EHmDlpyWERFitXG) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Savior](https://open.spotify.com/album/7FH2YwQt08tTA8vnxkAwfy) | 3:43 | 2021-12-17 | 2022-07-29 |
@@ -176,7 +178,7 @@
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 | 2022-01-28 |  |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail part I](https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh) | 4:57 | 2021-12-17 | 2022-07-29 |
 | [Shake! Shake! Shake!](https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40), [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Shake! Shake! Shake!](https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8) | 3:08 | 2022-11-11 |  |
-| [She](https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [She](https://open.spotify.com/album/6rVUQtUjLguzMmdCIcy1A4) | 3:48 | 2022-10-07 |  |
+| [She](https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [She](https://open.spotify.com/album/6rVUQtUjLguzMmdCIcy1A4) | 3:48 | 2022-10-07 | 2022-12-10 |
 | [So Far Gone](https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [So Far Gone](https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4) | 3:43 | 2022-04-08 | 2022-09-17 |
 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-09-09 | 2022-09-24 |
 | [So Much Fun](https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3) | [A.J\. Croce](https://open.spotify.com/artist/5GddXlP15Ktw1aHZEcKGZe) | [So Much Fun](https://open.spotify.com/album/6lP1LTZ6X6bzRigf2HwLFu) | 3:10 | 2022-06-17 | 2022-07-02 |

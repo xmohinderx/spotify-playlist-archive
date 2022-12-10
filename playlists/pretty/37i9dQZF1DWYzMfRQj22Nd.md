@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 
 > Taking the big steps with Drum & Bass.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,028 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,055 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

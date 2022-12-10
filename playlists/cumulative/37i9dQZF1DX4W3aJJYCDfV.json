@@ -42,7 +42,7 @@
     },
     {
       "album": {
-        "name": "0nly 0ne",
+        "name": "0NLY 0NE",
         "url": "https://open.spotify.com/album/51EftfDzYkJ7ZoPBsMa8ac"
       },
       "artists": [
@@ -55,7 +55,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218899,
-      "name": "0nly 0ne",
+      "name": "0NLY 0NE",
       "url": "https://open.spotify.com/track/7xZO7T6ccGY4okpo0tXlru"
     },
     {
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176283,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI"
@@ -1757,6 +1757,24 @@
       "duration_ms": 224517,
       "name": "Big",
       "url": "https://open.spotify.com/track/10DOeEQX4RDjk9XgtYjZ3h"
+    },
+    {
+      "album": {
+        "name": "Tugg Melodies Ape Colours",
+        "url": "https://open.spotify.com/album/36dcQFKThrGrMgVENkwHHp"
+      },
+      "artists": [
+        {
+          "name": "Ghostface600",
+          "url": "https://open.spotify.com/artist/4zVBItdCNXEAMB5cZvtlw1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189913,
+      "name": "Big 44 No Safety",
+      "url": "https://open.spotify.com/track/1AyANqavH62O21R6o6GZrf"
     },
     {
       "album": {
@@ -7206,6 +7224,24 @@
     },
     {
       "album": {
+        "name": "Two Lz Make A Win",
+        "url": "https://open.spotify.com/album/2eKy3GSPOutqKznNvlmO2m"
+      },
+      "artists": [
+        {
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131539,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/1JzqmbwauONl6mFos47psz"
+    },
+    {
+      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/5oFilFhl18mKz7maRhRSah"
       },
@@ -7221,7 +7257,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 131539,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/4y7UXes8gx08wBO73a4ZEu"
@@ -11435,6 +11471,24 @@
       "duration_ms": 175947,
       "name": "PENDULUM",
       "url": "https://open.spotify.com/track/3v4jYNa4W7IkCjnvPfNCoP"
+    },
+    {
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/1kP6tt24YPAb6MqTCzR2GG"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/7cbe94yjeFCvXZ0T7avjJS"
     },
     {
       "album": {
@@ -17303,10 +17357,28 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 319586,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/2HfIsO3MiiS29e5EqCtwvp"
+    },
+    {
+      "album": {
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/1MT0Js8Eb7YsKVHVpEneam"
+      },
+      "artists": [
+        {
+          "name": "Don Letts",
+          "url": "https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319586,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/5Men1Ylu4EIFdU2Ia3rIsI"
     },
     {
       "album": {

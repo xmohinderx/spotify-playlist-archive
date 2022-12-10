@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,159 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,167 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 24 | [Fear](https://open.spotify.com/track/2uns3Zgiz6Bt4e6Me77wKb) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 2:41 |
 | 25 | [Kerosene Dreams](https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:53 |
 | 26 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 |
-| 27 | [Hoping](https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Hoping](https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9) | 3:13 |
-| 28 | [Razor's Edge \(feat\. X Ambassadors\)](https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:33 |
+| 27 | [Razor's Edge \(feat\. X Ambassadors\)](https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:33 |
+| 28 | [Hoping](https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Hoping](https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9) | 3:13 |
 | 29 | [CONFIDENCE \(feat\. K.Flay\)](https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 2:53 |
 | 30 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
 | 31 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 51 | [Okay](https://open.spotify.com/track/2qo6M1TWBhGCX4N0LlqvMi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 4:45 |
 | 52 | [skip.that.party \(with Jensen McRae\)](https://open.spotify.com/track/7IbWXDiwOW8egg28MA0Qpb) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [skip.that.party \(with Jensen McRae\)](https://open.spotify.com/album/0w7D24H0GkZiX2z4co1GKe) | 3:51 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBhZGMyZGY4NmMyZTgyZmYzZTc1ZmY4ZjhmMTQ4OWQ0YQ==`
+Snapshot ID: `Mjc4NDM0NzgsMDAwMDAwMDA2MGY4NWIwN2FiMDcwNmIxMzM1NjE3Y2NhZjU1OTU2OA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,981 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,071 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en voz de Gera MX, Jayrick y Rich Vagos
+> Hip\-hop mexicano, rimas de la calle, en voz de Aleman y Peso Pluma.
 
-234 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+235 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [De Callejón](https://open.spotify.com/track/0Z1ap3SVAzq7XjUgp6v9gH) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Luz & Sombra](https://open.spotify.com/album/4zfSMksNSvSWuwVWE0QmM8) | 3:51 | 2022-01-28 | 2022-05-14 |
 | [De Por Vida](https://open.spotify.com/track/6T9LqHQOWTbkZomzvyUL3h) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [De Por Vida](https://open.spotify.com/album/7ASBDgsoGpAge4byZaRPzj) | 3:15 | 2022-06-03 |  |
 | [De Roll](https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [De Roll](https://open.spotify.com/album/1j7jCLsAyoWIQvhtB7dByg) | 3:46 | 2022-01-28 | 2022-05-20 |
+| [Delivery](https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Delivery](https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9) | 3:29 | 2022-12-09 |  |
 | [Demasiado Tarde](https://open.spotify.com/track/0F3QlgOx1MR7JSvrWDWaz3) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 4:14 | 2022-08-25 | 2022-09-03 |
 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 | 2022-01-28 | 2022-04-29 |
 | [Dieciséis por Cuatro](https://open.spotify.com/track/1IImnpTzv5VGDYhNHqxWuv) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Dieciséis por Cuatro](https://open.spotify.com/album/3uffoHB3O251FApRRA8jXl) | 3:23 | 2022-02-04 |  |
@@ -146,7 +147,7 @@
 | [Ojos Rojos](https://open.spotify.com/track/1R53sL7UQ6XVV3GoBWKYVx) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Ojos Rojos](https://open.spotify.com/album/2pFjYdQXmaFAG5LznUpgkI) | 3:17 | 2022-07-19 |  |
 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 | 2022-04-22 | 2022-10-05 |
 | [Pa Mis Enemigos](https://open.spotify.com/track/40O3MSJLqJDCULnvRM1Rfh) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Pa Mis Enemigos](https://open.spotify.com/album/6YCFImRXWL7zPfLk4HiPNQ) | 3:06 | 2022-03-25 |  |
-| [Pal Negocio](https://open.spotify.com/track/0ef6A5rkEKvTXUNb2OmgpP) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Pal Negocio](https://open.spotify.com/album/6n3hOlBUiiYmRK85uR43Ij) | 3:36 | 2022-04-24 |  |
+| [Pal Negocio](https://open.spotify.com/track/0ef6A5rkEKvTXUNb2OmgpP) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Pal Negocio](https://open.spotify.com/album/6n3hOlBUiiYmRK85uR43Ij) | 3:36 | 2022-04-24 | 2022-12-10 |
 | [Pantera](https://open.spotify.com/track/0JAxf6vf8Lppihm55k13zv) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:49 | 2022-11-15 |  |
 | [Pantera](https://open.spotify.com/track/75qifOPkcKBXt5lqGiQLCI) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:49 | 2022-11-15 | 2022-11-21 |
 | [Papá](https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:20 | 2022-08-25 |  |

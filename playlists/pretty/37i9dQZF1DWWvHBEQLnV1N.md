@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,189 likes - 59 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,781 likes - 59 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

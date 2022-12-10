@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,553 likes - 83 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,910 likes - 83 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 72 | [I've Got A Crush On You](https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 4:06 |
 | 73 | [Down In The Willow Garden](https://open.spotify.com/track/7F4z7VV5aVWX72YK4bM9HB) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Songs Our Daddy Taught Us](https://open.spotify.com/album/6TChmXsRtOQXNZQPrI2yGy) | 3:04 |
 | 74 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |
-| 75 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [50's Love Songs](https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q) | 3:04 |
-| 76 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [The Very Best Of Norman Wisdom](https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz) | 3:36 |
-| 77 | [The Black Hills of Dakota](https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:59 |
-| 78 | [Rivers Of No Return](https://open.spotify.com/track/0Smy9pU6cl87BUJsBO1PIN) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Essentials](https://open.spotify.com/album/2KarlyCvqzzVdsbhGaH2bI) | 2:14 |
-| 79 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
+| 75 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [The Very Best Of Norman Wisdom](https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz) | 3:36 |
+| 76 | [The Black Hills of Dakota](https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:59 |
+| 77 | [Rivers Of No Return](https://open.spotify.com/track/0Smy9pU6cl87BUJsBO1PIN) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Essentials](https://open.spotify.com/album/2KarlyCvqzzVdsbhGaH2bI) | 2:14 |
+| 78 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
+| 79 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/5wcR5Xdn2RxQmQGqrer8JQ) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:02 |
 | 80 | [St\. Therese of the Roses](https://open.spotify.com/track/6FFEc6zpDHwK4zQVBRXrVi) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:52 |
 | 81 | [Red Sails In The Sunset](https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:17 |
 | 82 | [I'll Never Smile Again](https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:54 |
 | 83 | [Outside of Heaven](https://open.spotify.com/track/5TPvEyuAu8QVDpp3Zf4g3k) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 2:38 |
 
-Snapshot ID: `MTY1MzkxNTU0MCwwMDAwMDAwMGQyMmRkMTY4OWVlMzNiZThiYjU2MmNhNTE3OWRkMTBl`
+Snapshot ID: `MTY1MzkxNTU0MCwwMDAwMDAwMGU1ZjEwZDNkNWJhZjE2YTMyNjJmYWYxOGE5OGM0MGFk`

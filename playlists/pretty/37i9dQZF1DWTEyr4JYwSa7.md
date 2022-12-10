@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,022 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,226 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Je t'offre mon cœur](https://open.spotify.com/track/5e9Rr0cC3a6zs04w7a4RFs) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Noël à deux](https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv) | 3:16 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MTY3MDAwNjQ3NywwMDAwMDAwMGI5NmJjOWNkZTQ5MWQ2MzM5ODA1YTQ4NmRjYmQ3ZTY2`
+Snapshot ID: `MTY3MDYwMDM5OSwwMDAwMDAwMDMzM2NjOGRiN2M3MzQxYmIzMmFiMmEzNzJlMTUzZDM5`

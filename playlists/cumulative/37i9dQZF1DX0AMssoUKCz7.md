@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-545 songs - 1 day 4 hr 19 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+546 songs - 1 day 4 hr 22 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Dancing with a Ghost](https://open.spotify.com/track/5Tazqnb1XlUaG49jlOf8bB) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Dancing with a Ghost](https://open.spotify.com/album/3Mt2TpYN932IIhiQMgbGVa) | 2:50 | 2022-09-09 | 2022-11-20 |
 | [Dangerous](https://open.spotify.com/track/6LHvM6g4TD9ugyYs4CKwyc) | [Antoine Chambe](https://open.spotify.com/artist/5DIQ8PaQ21m4G3ao0JG84N), [Lucas Cozy](https://open.spotify.com/artist/4CLnVttsdDWEBtNJrTFN47) | [Riverside](https://open.spotify.com/album/1wl6LlP6gh7byEPdI3oGxk) | 3:32 | 2022-06-03 | 2022-07-28 |
 | [Days Go By](https://open.spotify.com/track/23EsgI4ZCW4ONfbFgyVjbl) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Days Go By](https://open.spotify.com/album/1U2nDCVDwxBfq0rZQpI3Ax) | 2:39 | 2022-04-01 |  |
-| [Did You Know](https://open.spotify.com/track/6ovG9hWIxh9t9hMjjeofLY) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Did You Know](https://open.spotify.com/album/5jZort4N3u6JTedNEYVuFg) | 2:56 | 2022-04-01 |  |
+| [Did You Know](https://open.spotify.com/track/6ovG9hWIxh9t9hMjjeofLY) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Did You Know](https://open.spotify.com/album/5jZort4N3u6JTedNEYVuFg) | 2:56 | 2022-04-01 | 2022-12-10 |
 | [Die Young](https://open.spotify.com/track/7vniVkC7TKvLVMpAKMZ6Zz) | [Jonas Schmidt](https://open.spotify.com/artist/2iVI5g77D4FT62vErTSfLX) | [Die Young](https://open.spotify.com/album/3zzHhpyraU6ZZPNyhXhHwM) | 2:56 | 2022-05-27 | 2022-07-26 |
 | [Dizzy](https://open.spotify.com/track/7qBNJBQJJjQjYFZlP3IPhK) | [Dimmi](https://open.spotify.com/artist/7HIN94LvSDgxN5RoOLi3E5) | [Promesses](https://open.spotify.com/album/23VKIXQ7rqLLgT7VI8xhII) | 4:20 | 2022-01-14 | 2022-09-24 |
 | [Do It All For You](https://open.spotify.com/track/6NObVhdEjWkH216Xq7MNup) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Harrisen Larner\-Main](https://open.spotify.com/artist/4ghTiyy3f0elAv2op9aN68) | [Do It All For You](https://open.spotify.com/album/6Vi9RMxw8KNUQVVm7TEoxc) | 3:02 | 2022-10-22 |  |
@@ -161,6 +161,7 @@
 | [From Me To You \- Edit](https://open.spotify.com/track/1AgZA1lTtCXeIbhXrIup4W) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [From Me To You](https://open.spotify.com/album/1oUmEpb1N5hk2F7pBTLUDC) | 3:33 | 2022-01-14 | 2022-04-19 |
 | [Frozen Tide](https://open.spotify.com/track/2nPZts2J87iS1N0tmzvEMO) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Frozen Tide](https://open.spotify.com/album/7spxBGGlm1asxU4h681SMO) | 2:28 | 2022-10-14 |  |
 | [Future Self \(feat\. Melody Noel\)](https://open.spotify.com/track/0Oom8UCxknB2ussaW0P9HL) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Future Self \(feat\. Melody Noel\)](https://open.spotify.com/album/1VOn5C736v12oFdDVnwdd2) | 3:21 | 2022-01-14 | 2022-05-20 |
+| [Get With Nobody \(feat\. Baimz\)](https://open.spotify.com/track/0gqKw1OIuiSC9Ad6QVWXAK) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Baimz](https://open.spotify.com/artist/5Hg39B4SZlegOjpTNzaclT) | [Get With Nobody \(feat\. Baimz\)](https://open.spotify.com/album/5maWcarbPD7B93zV5o6DCr) | 3:19 | 2022-12-09 |  |
 | [Ghost \- Lost Kings Remix](https://open.spotify.com/track/4ehErMHPM40f92dks3vb2p) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [Room 93: The Remixes](https://open.spotify.com/album/6XMQpJUwiG6KAniW9nziXt) | 3:09 | 2022-01-14 | 2022-04-21 |
 | [Give Me Your Love](https://open.spotify.com/track/5aYRFQqCBxTQBkYjtZgrNw) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Esemty](https://open.spotify.com/artist/5wfl3jyyjGGkVbB6ojSwcF), [SebDell](https://open.spotify.com/artist/4JilqgKuNlwLPG6IppSVuK) | [Give Me Your Love](https://open.spotify.com/album/7m6kMGE891tL1wjpkAB67U) | 2:25 | 2022-07-15 | 2022-09-26 |
 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2022-04-01 | 2022-07-28 |

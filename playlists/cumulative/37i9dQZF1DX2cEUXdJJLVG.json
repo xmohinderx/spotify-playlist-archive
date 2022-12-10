@@ -3408,6 +3408,24 @@
     },
     {
       "album": {
+        "name": "The Juice: Vol. III",
+        "url": "https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175527,
+      "name": "Slide All Night",
+      "url": "https://open.spotify.com/track/1pou1vJsBUcH1y7UmFmDVp"
+    },
+    {
+      "album": {
         "name": "So Cool",
         "url": "https://open.spotify.com/album/0WTexgyWemY3YVYS3VE8Qk"
       },

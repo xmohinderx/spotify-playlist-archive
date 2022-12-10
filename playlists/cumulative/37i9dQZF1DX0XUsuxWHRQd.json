@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Metro Boomin, Latto and Nas & 21 Savage.",
+  "description": "New music from Polo G, Moneybagg Yo and A Boogie Wit da Hoodie.",
   "name": "RapCaviar",
   "published_playlist_ids": [
     "5P8tKmuueRelbQ17C8xRQo"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 136695,
       "name": "2 Mins of Pain (feat. Alborosie)",
       "url": "https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi"
@@ -2259,7 +2259,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 147435,
       "name": "Bag Talk",
       "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
@@ -3624,6 +3624,24 @@
     },
     {
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144594,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
+    },
+    {
+      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
@@ -3723,7 +3741,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 182533,
       "name": "Blow",
       "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
@@ -4333,7 +4351,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 177073,
       "name": "Bulletproof Maybach (feat. Offset)",
       "url": "https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3"
@@ -4603,7 +4621,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
@@ -9031,10 +9049,44 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 280986,
       "name": "Freaky Gurl (feat. Ludacris and Lil Kim) - Remix",
       "url": "https://open.spotify.com/track/3oePgThYVcdoQCBAf4lovM"
+    },
+    {
+      "album": {
+        "name": "Free Game",
+        "url": "https://open.spotify.com/album/1YEI2r0hrO4Td3gBJKLSqd"
+      },
+      "artists": [
+        {
+          "name": "MOUNT WESTMORE",
+          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231683,
+      "name": "Free Game",
+      "url": "https://open.spotify.com/track/4a5J9U353e52exFOFPcMaZ"
     },
     {
       "album": {
@@ -10671,6 +10723,24 @@
       "duration_ms": 143414,
       "name": "HANDSOMER",
       "url": "https://open.spotify.com/track/4v1TTTCadimzZkTuDTnYBc"
+    },
+    {
+      "album": {
+        "name": "Hanging With Wolves",
+        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "Hanging With Wolves",
+      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
     },
     {
       "album": {
@@ -13384,6 +13454,28 @@
     },
     {
       "album": {
+        "name": "Keep Calling",
+        "url": "https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Keep Calling",
+      "url": "https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU"
+    },
+    {
+      "album": {
         "name": "Public Housing",
         "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
       },
@@ -15960,6 +16052,28 @@
     },
     {
       "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
+    },
+    {
+      "album": {
         "name": "Miss The Rage (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A"
       },
@@ -16705,6 +16819,24 @@
       "duration_ms": 200135,
       "name": "Muwop (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+    },
+    {
+      "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197692,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
     },
     {
       "album": {
@@ -17877,7 +18009,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 199111,
       "name": "Nothing Changed",
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
@@ -19529,7 +19661,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
@@ -20426,6 +20558,24 @@
     },
     {
       "album": {
+        "name": "Quickie",
+        "url": "https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Quickie",
+      "url": "https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk"
       },
@@ -20547,7 +20697,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 188586,
       "name": "Raindrops (Insane) [with Travis Scott]",
       "url": "https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY"
@@ -23011,7 +23161,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 187843,
       "name": "Shoot It Myself (feat. Future)",
       "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
@@ -27340,6 +27490,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
+    },
+    {
+      "album": {
         "name": "Too Much (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
       },
@@ -28877,6 +29053,28 @@
       "duration_ms": 151022,
       "name": "Watch Yo Homie",
       "url": "https://open.spotify.com/track/0z745VvMjQZnLjnZon4OHu"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
+      "url": "https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp"
     },
     {
       "album": {

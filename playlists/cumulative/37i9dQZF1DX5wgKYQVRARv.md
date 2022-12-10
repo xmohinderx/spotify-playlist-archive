@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-577 songs - 2 day 2 hr 0 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+579 songs - 2 day 2 hr 18 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Chauvinist](https://open.spotify.com/track/2znJImPhsEV8FhHI4Xzxoc) | [Levels](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [Chauvinist](https://open.spotify.com/album/6hRnrYQSZOKd8msauQCChA) | 3:13 | 2022-07-13 |  |
 | [Clairvoyant](https://open.spotify.com/track/0Ey64fhfqXKfdDohWzPZJm) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/4GbvTCSu1Kehnr9Xq334u7) | 7:37 | 2022-07-13 |  |
 | [Clairvoyant](https://open.spotify.com/track/39v9F4fMRSvpYPx9AOg9WW) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/5xBtUANwVKmjYKgPzdMPcP) | 7:37 | 2022-07-13 | 2022-07-28 |
-| [Cloaked](https://open.spotify.com/track/2GIEbKn7RURChEwZooy7TU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Cloaked](https://open.spotify.com/album/5y8d5e1d4Gs2fCD6ZBRIId) | 3:54 | 2021-12-17 |  |
+| [Cloaked](https://open.spotify.com/track/2GIEbKn7RURChEwZooy7TU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Cloaked](https://open.spotify.com/album/5y8d5e1d4Gs2fCD6ZBRIId) | 3:54 | 2021-12-17 | 2022-12-10 |
 | [Cloud 9](https://open.spotify.com/track/6grBntnvJiVqgqqbmeq9iU) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Cloud 9](https://open.spotify.com/album/3XdE4xEWmjv7ZckfOoVqAX) | 3:16 | 2022-03-18 |  |
 | [Cloud Cascade](https://open.spotify.com/track/6pgdUH7dRJlH5ITa1YeAem) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Cloud Cascade](https://open.spotify.com/album/2q9o2kY9qyIov8f3eCKzFy) | 4:09 | 2022-07-13 |  |
 | [Cold Arrival](https://open.spotify.com/track/6AjvfDGxXe2RcSOx3nxWTY) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Cold Arrival](https://open.spotify.com/album/0LLGVNzbjaRTyjIJsiOTmh) | 4:07 | 2021-12-17 | 2022-07-29 |
@@ -159,6 +159,7 @@
 | [Empires Erased](https://open.spotify.com/track/7LdWEEzQ7ppMKBBDzsGLEA) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Eternal Reign](https://open.spotify.com/album/4cQvWOaOguhmfKKGlzzg1S) | 3:25 | 2022-10-28 |  |
 | [Empty](https://open.spotify.com/track/2DIqYiqMXd7OZ92QEERUHS) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Empty](https://open.spotify.com/album/3b7uGrWZsEwVkFtDs2Wl8A) | 4:21 | 2021-12-17 | 2022-07-29 |
 | [Ephemeral](https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Ephemeral](https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS) | 4:06 | 2022-07-13 |  |
+| [Equus](https://open.spotify.com/track/7w3AcH1IPIjZqjgixLgiEO) | [Ne Obliviscaris](https://open.spotify.com/artist/5kbidtcpyRRMdAQUnI1BG4) | [Equus](https://open.spotify.com/album/6u0sO15h0hLRfNJmbmqJD1) | 12:29 | 2022-12-09 |  |
 | [Eraser](https://open.spotify.com/track/3Hvg1cYUnHxKr6BJBKLq6S) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Oscillate](https://open.spotify.com/album/1nsHYACVLo93RusBYHmPXV) | 8:30 | 2021-12-17 | 2022-09-03 |
 | [Eschatology](https://open.spotify.com/track/3kVEOUj0OIAQUaKaLOWfgH) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss) | [Eschatology](https://open.spotify.com/album/1qqBFEIPmJewN2KkmNxlKz) | 5:29 | 2021-12-17 | 2022-07-28 |
 | [Eternal Golden Monk \- forte](https://open.spotify.com/track/63lzuPkE4FkPW7SPyDolSi) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden \(forte\)](https://open.spotify.com/album/5QGxkAyvsgRiQQw6K04ftz) | 3:51 | 2022-01-28 |  |
@@ -384,6 +385,7 @@
 | [Reaching for the Sky](https://open.spotify.com/track/3qtdGRlnee4fQPXsiFz0Nk) | [Transatlantic](https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC) | [Reaching for the Sky](https://open.spotify.com/album/7MB6phnSBj1c7Bh1CIay2K) | 5:40 | 2021-12-31 | 2022-04-18 |
 | [Reclaim](https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4) | [From Sorrow To Serenity](https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5) | [Reclaim](https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0) | 3:16 | 2022-07-13 | 2022-07-29 |
 | [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 |  |
+| [Reflection](https://open.spotify.com/track/6suhC134iU9dsegUGIngx6) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Different Kinds of Losses](https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni) | 6:04 | 2022-12-09 |  |
 | [Remanence](https://open.spotify.com/track/71OQ9gOH6NUMLSBq2i1mfx) | [Dukkha](https://open.spotify.com/artist/7nyn1GFcq9woxZSQIYkNLi) | [Remanence](https://open.spotify.com/album/7mxcGyauyqgMX4YHzFP8nn) | 4:12 | 2021-12-17 | 2022-07-25 |
 | [Reprogram \- Single Version](https://open.spotify.com/track/5R8IEz7wqrbgTW2u8c52gU) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Reprogram](https://open.spotify.com/album/6VNdkapfDgOF42ZkB3kcRQ) | 4:26 | 2022-07-13 |  |
 | [Reptile](https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Reptile](https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4) | 3:44 | 2022-07-13 |  |
@@ -518,7 +520,7 @@
 | [Three Bridges](https://open.spotify.com/track/7IwuxtmnfC5rjxmk49it95) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Three Bridges](https://open.spotify.com/album/3vb21L1QoverZCitHOoOhq) | 8:45 | 2021-12-17 | 2022-07-29 |
 | [Through the Depths \(Single Edit\)](https://open.spotify.com/track/5C0736WNhxPThhiAiXysUk) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Through the Depths](https://open.spotify.com/album/0Jdbzsh0TxdSzyJFkskOhl) | 4:55 | 2021-12-17 | 2022-07-29 |
 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 | 2022-04-29 |  |
-| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 |  |
+| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 | 2022-12-10 |
 | [Total](https://open.spotify.com/track/6RBwhxL28i63ZwluSirl9d) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/5Urcd0CgxOwChJzrJnanIo) | 4:24 | 2022-03-25 |  |
 | [Transcend](https://open.spotify.com/track/0BPlqGBFXNrgO7H3H4SB6T) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss), [Vitaly Machunsky](https://open.spotify.com/artist/4mXWfRVvpyFuXhPeUcGKXK) | [Transcend](https://open.spotify.com/album/0sqwBRnSwTe1zoO2dYnhxC) | 5:25 | 2022-01-07 | 2022-07-26 |
 | [Tsitsushka](https://open.spotify.com/track/50oIQfiIQbNnDyhkI0S3sB) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Tsitsushka](https://open.spotify.com/album/313qBhwyl3mlW91CCBIKf2) | 5:38 | 2021-12-17 | 2022-07-29 |

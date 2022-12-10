@@ -109,7 +109,7 @@
           "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
         }
       ],
-      "date_added": "2022-12-08",
+      "date_added": "2022-12-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184800,
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 206471,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
@@ -844,6 +844,24 @@
     },
     {
       "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+    },
+    {
+      "album": {
         "name": "Kiziniro",
         "url": "https://open.spotify.com/album/5dtu1dkZGbl2a89dQ6yjtc"
       },
@@ -971,7 +989,7 @@
           "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
         }
       ],
-      "date_added": "2022-12-04",
+      "date_added": "2022-12-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 228040,

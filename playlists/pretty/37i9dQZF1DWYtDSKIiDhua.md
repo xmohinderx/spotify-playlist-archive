@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,269 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,374 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SOS](https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:57 |
+| 1 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 |
 | 2 | [Pressure](https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Ultraviolet](https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45) | 3:34 |
 | 3 | [hate me](https://open.spotify.com/track/1Trna2zgrXLnIMGoZepn3X) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [hate me](https://open.spotify.com/album/4BgqPDBaoMCyzIreCad3ep) | 2:37 |
 | 4 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [Don't Love Me](https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Don't Love Me](https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G) | 2:47 |
 | 85 | [See You Tonight](https://open.spotify.com/track/7mn0jmTCZJ7oy6Pxn5CBRD) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc), [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV) | [See You Tonight](https://open.spotify.com/album/1PGucCJAPXx8aOVX6OW3JM) | 3:05 |
 
-Snapshot ID: `MTY3MDUxNTIwMCwwMDAwMDAwMDE1MzNhOTIyNjQxNzhlMTFkZTExMWM5NmIwNTFiNmQ4`
+Snapshot ID: `MTY3MDU1MjUwNywwMDAwMDAwMGMzNDk2YzJjODg4NWNhNGJmOGZlM2YyZmE1M2ExZWZi`

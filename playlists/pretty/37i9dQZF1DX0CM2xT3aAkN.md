@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 
 > Choral and instrumental classical music from the Renaissance era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,871 likes - 41 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,915 likes - 41 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-243 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+245 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Last Xmas](https://open.spotify.com/track/5Iylu9FEarJW7j3VXJO7UN) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Last Xmas](https://open.spotify.com/album/2u9Rn2STUFI6gtvsoHRTqH) | 3:46 | 2021-12-24 | 2022-11-19 |
 | [Last Xmas](https://open.spotify.com/track/6RvXE6jgaNIRus7cFtS2FG) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Last Xmas](https://open.spotify.com/album/38PdGHsPrRweDZgyBoVI1P) | 3:46 | 2021-12-24 | 2022-07-29 |
 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/2EmEXCi8ue7p5Xqmqz10kW) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 2:39 | 2021-12-24 |  |
-| [Little Drummer Boy](https://open.spotify.com/track/3E3QIlYJikHymLrScKCynD) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Little Drummer Boy](https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj) | 2:50 | 2021-12-24 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Little Drummer Boy](https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t) | 2:52 | 2022-12-09 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/3E3QIlYJikHymLrScKCynD) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Little Drummer Boy](https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj) | 2:50 | 2021-12-24 | 2022-12-10 |
 | [Little Road to Bethlehem](https://open.spotify.com/track/122NEAKQMTs9o19ghyz5L9) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Don Brownrigg](https://open.spotify.com/artist/3is059epfwPYtkmzokUjPW) | [Little Road to Bethlehem](https://open.spotify.com/album/0NQLT0pT4KrGEQTQbr2QnB) | 2:49 | 2021-12-24 |  |
 | [Little Toy Trains](https://open.spotify.com/track/5WFEEphpUMGVLv13n2KgLa) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Spirit Of Christmas](https://open.spotify.com/album/3tipSow7W1R9vGIMYeusxV) | 2:14 | 2021-12-24 | 2022-07-27 |
 | [Little Toy Trains](https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Spirit Of Christmas](https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG) | 2:14 | 2021-12-24 |  |
@@ -164,7 +165,7 @@
 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 | 2021-12-24 |  |
 | [Moonshine & Mistletoe](https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc) | [Sons of Daughters](https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR) | [Moonshine & Mistletoe](https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg) | 3:27 | 2021-12-24 |  |
 | [Moonshine and Mistletoe](https://open.spotify.com/track/1AgjU4E9UjsKNDfO5ItZZG) | [Sons of Daughters](https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR) | [Moonshine and Mistletoe](https://open.spotify.com/album/5nL2tMpzePt3OFwAPiBs9e) | 3:27 | 2021-12-24 | 2022-07-28 |
-| [My Best Christmas](https://open.spotify.com/track/6dMFQBqkz2q6QgshdmgOUz) | [The Collection](https://open.spotify.com/artist/3sva1UjOJOx6cGISZOpItl) | [My Best Christmas](https://open.spotify.com/album/64sTOcJAqQMzfiXHw6P8ET) | 3:38 | 2022-10-29 |  |
+| [My Best Christmas](https://open.spotify.com/track/6dMFQBqkz2q6QgshdmgOUz) | [The Collection](https://open.spotify.com/artist/3sva1UjOJOx6cGISZOpItl) | [My Best Christmas](https://open.spotify.com/album/64sTOcJAqQMzfiXHw6P8ET) | 3:38 | 2022-10-29 | 2022-12-10 |
 | [My Christmas List](https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [My Christmas List](https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy) | 3:27 | 2021-12-24 |  |
 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 | 2021-12-24 |  |
 | [My Little Snowflake](https://open.spotify.com/track/2AVOlfywRkziYM3DgzEPpG) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [My Little Snowflake](https://open.spotify.com/album/3kdqWoboAHEGeYfjOHBffO) | 2:52 | 2021-12-24 | 2022-10-30 |
@@ -201,6 +202,7 @@
 | [Sing Along With Me](https://open.spotify.com/track/7yXdRNtDfc2At6yItKIuMR) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Sing Along With Me](https://open.spotify.com/album/46roHdAH2qp7LdZAo0STIz) | 3:02 | 2021-12-24 |  |
 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 | 2022-11-18 |  |
 | [Sleigh My Name](https://open.spotify.com/track/70bR0gy62cos6Gmfz6PBf2) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Sleigh My Name](https://open.spotify.com/album/40XkCmo1r0p2GVtCMYNpdQ) | 2:50 | 2021-12-24 | 2022-11-25 |
+| [Sleigh My Name \(Remix\)](https://open.spotify.com/track/1sIhm5NsxNEcuNIm4RVjWD) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sleigh My Name \(Remix\)](https://open.spotify.com/album/2EGGSpoN4WAGyojOzDwg0H) | 3:35 | 2022-12-09 |  |
 | [Sleigh Ride](https://open.spotify.com/track/6lBgUoMwlbUVYMVviXYZMu) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD), [Abi Rose](https://open.spotify.com/artist/6Oh2MfYa3RhbiiXOuA0owX) | [Lit Up – Music For Christmas](https://open.spotify.com/album/2rScCkR59ec2RRRr7WL5er) | 2:38 | 2021-12-24 | 2022-07-26 |
 | [Sleigh Ride](https://open.spotify.com/track/6IXWwaxcBVLqSbU39Pqc19) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Sleigh Ride](https://open.spotify.com/album/76ZALfjfhhwd6WPW1JBhop) | 3:05 | 2022-10-29 |  |
 | [Slide On Christmas](https://open.spotify.com/track/6q5mRQkkn9iG7H3Kl5YdcJ) | [John Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [Slide On Christmas](https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ) | 3:56 | 2021-12-24 | 2022-11-20 |

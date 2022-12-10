@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhUYCGnZTnv.md) - [plain]
 
 > Your very own time capsule: a nostalgic look back on the past four years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,650 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,637 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 542251,
+  "num_followers": 542839,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQxNjg2NiwwMDAwMDAwMDU3ZDRhNjJmZjRmOGFkNDkxNDMzMzk0YWIzYTI0NDZh",
+  "snapshot_id": "MTY3MDQxNjg2NiwwMDAwMDAwMGJhNTdlMzQ1MWE5NWFiYjAwOWU4OTBlM2RkYTI4NTQ0",
   "tracks": [
     {
       "added_at": "2022-11-25 12:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2022-11-25 12:00:00",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
-    },
-    {
-      "added_at": "2022-11-25 12:00:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
       },
@@ -1995,26 +1975,6 @@
       "duration_ms": 188640,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn"
-    },
-    {
-      "added_at": "2022-11-25 12:00:00",
-      "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        }
-      ],
-      "duration_ms": 130412,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
     },
     {
       "added_at": "2022-11-25 12:00:00",
@@ -2039,6 +1999,26 @@
       "duration_ms": 201639,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/6VlxEmdgQWA8LifowgVSky"
+    },
+    {
+      "added_at": "2022-11-25 12:00:00",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
     },
     {
       "added_at": "2022-11-25 12:00:00",
@@ -3131,6 +3111,26 @@
       "duration_ms": 205440,
       "name": "The Right Song",
       "url": "https://open.spotify.com/track/59yxjfkqhOPacjiolBHQDC"
+    },
+    {
+      "added_at": "2022-11-25 12:00:00",
+      "album": {
+        "name": "New Rules (Remixes)",
+        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "New Rules - KREAM Remix",
+      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
     }
   ],
   "unique_name": "Energy Booster: Dance",

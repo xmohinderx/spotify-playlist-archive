@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-158 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+160 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Choro de Saudade](https://open.spotify.com/track/3Kfd574iIrlhqnQeqtXKuv) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Choro de Saudade](https://open.spotify.com/album/2WrAWCGZQYtkDmAvvjHUJ6) | 5:05 | 2021-12-23 | 2022-10-07 |
 | [City Lights](https://open.spotify.com/track/1qh4crx5pT2dWNM1fhAyeR) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:28 | 2021-12-23 | 2022-11-18 |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-03-03 |  |
+| [Close](https://open.spotify.com/track/7wa5VEOnVq50Q2k0ljj69z) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Close](https://open.spotify.com/album/3CAEYcRuZNYdDV8JAMNbEV) | 1:59 | 2022-12-09 |  |
 | [Comings & Goings](https://open.spotify.com/track/04QYnXLbnPWSS2pgR0z1yZ) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Comings & Goings](https://open.spotify.com/album/1x5HTAuVJWSlbn3prj6Bfb) | 2:59 | 2021-12-23 |  |
 | [Contemplation](https://open.spotify.com/track/02tk3raiAkGKpEsxlF3pKw) | [Calvin Nolan](https://open.spotify.com/artist/7qX73NefWkqJGQaxCT3UdA) | [Contemplation](https://open.spotify.com/album/5q0V9WTTDKaQ6YR8TT07WQ) | 2:06 | 2021-12-23 | 2022-10-29 |
 | [Cuéntame Tu Vida](https://open.spotify.com/track/2vUJZddP9b4k5XsJIaYm1L) | [Juan Pedro Camoro](https://open.spotify.com/artist/0RU0eLI9MsXfF40bMd6Wh1) | [Cuéntame Tu Vida](https://open.spotify.com/album/3Y1mO7huUBt02ZH4ZUjWeZ) | 2:18 | 2021-12-23 | 2022-11-18 |
@@ -59,6 +60,7 @@
 | [Floral Hymn](https://open.spotify.com/track/2gCd69plASs1CIhfArHlPQ) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Echo Ark](https://open.spotify.com/album/4PUBYJiKEdJKdMwqHSeilt) | 3:35 | 2021-12-23 | 2022-03-02 |
 | [Fortevik](https://open.spotify.com/track/5a6M9QcEU7oZiBDCT9Y2bn) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Mysterium](https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT) | 2:24 | 2021-12-23 | 2022-04-06 |
 | [Fortuity](https://open.spotify.com/track/5o3XuFWlUW1h76SFvAmkDJ) | [Kel Giamo](https://open.spotify.com/artist/0xXalPo0tukcLui85tnDKW) | [Fortuity](https://open.spotify.com/album/5Di3Qkun1rinXSCqMFieqs) | 2:32 | 2022-04-22 |  |
+| [Gently Forward](https://open.spotify.com/track/2KYDJIdEBUtkHBY9H7sJe6) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [Gently Forward](https://open.spotify.com/album/1N5fiOXjJQ8HWO4qZdcyQ9) | 2:35 | 2022-12-09 |  |
 | [Getsuei](https://open.spotify.com/track/5VVHPMx47waVZE7rNutKd4) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [Getsuei](https://open.spotify.com/album/7wImlh1GGjFobn5I00H2B6) | 4:20 | 2022-06-24 |  |
 | [Giardino del respiro](https://open.spotify.com/track/0vN8hsuQ8yOldDKnVMuzEU) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Giardino del respiro](https://open.spotify.com/album/10a1HPIygy93hpQc3r5pgZ) | 2:17 | 2021-12-23 |  |
 | [Gilmerton](https://open.spotify.com/track/2zJvW1rqjvYHFNPl2mYuPk) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Gilmerton](https://open.spotify.com/album/1X2C2VeeduvqLPPA9X6KlC) | 2:19 | 2021-12-23 |  |

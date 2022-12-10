@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "R&B without boundaries. Cover: Christian Kuria",
+  "description": "R&B without boundaries. Cover: Casper Sage",
   "name": "Alternative R&B",
   "published_playlist_ids": [
     "5LTt78znSTM3vwYtfHo5Kh"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 204224,
       "name": "23rd Street",
       "url": "https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx"
@@ -1556,6 +1556,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150720,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
+    },
+    {
+      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 182000,
       "name": "Brown Angel",
       "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
@@ -2641,6 +2659,28 @@
       "duration_ms": 191024,
       "name": "COMPLEX OF KILLING A MAN",
       "url": "https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn"
+    },
+    {
+      "album": {
+        "name": "Concentrate (feat. Dua Saleh)",
+        "url": "https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134060,
+      "name": "Concentrate (feat. Dua Saleh)",
+      "url": "https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E"
     },
     {
       "album": {
@@ -3854,6 +3894,24 @@
     },
     {
       "album": {
+        "name": "Cold Toronto",
+        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Fell Asleep",
+      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
+    },
+    {
+      "album": {
         "name": "Fellowship (Remix) ft. Ambr\u00e9 & Alex Isley",
         "url": "https://open.spotify.com/album/0z9WlDfltYm5CAyWHIkXPd"
       },
@@ -4681,6 +4739,24 @@
       "duration_ms": 137647,
       "name": "Golden pt. 2 (feat. Mereba)",
       "url": "https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY"
     },
     {
       "album": {
@@ -6019,7 +6095,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 232570,
       "name": "Inside Out \u2013 A COLORS SHOW",
       "url": "https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2"
@@ -6125,6 +6201,24 @@
       "duration_ms": 204166,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/4GYtrWXfgSd09WCCTtsbjM"
+    },
+    {
+      "album": {
+        "name": "is this real life?",
+        "url": "https://open.spotify.com/album/04Xf8kg1pUJ2pGOQ7JDoRz"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265640,
+      "name": "is this real life?",
+      "url": "https://open.spotify.com/track/3c7jfhoHw5LLp9OrwhanQh"
     },
     {
       "album": {
@@ -6317,6 +6411,24 @@
       "duration_ms": 209226,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "album": {
@@ -8815,7 +8927,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 164163,
       "name": "pieces",
       "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
@@ -9165,7 +9277,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 196033,
       "name": "Primal Design",
       "url": "https://open.spotify.com/track/72go9p5GOwd87BuAxOkitl"
@@ -10115,6 +10227,24 @@
       "duration_ms": 244933,
       "name": "Send My Love",
       "url": "https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr"
+    },
+    {
+      "album": {
+        "name": "Dreaming Eyes",
+        "url": "https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187863,
+      "name": "Sent from Above",
+      "url": "https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU"
     },
     {
       "album": {
@@ -11637,7 +11767,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 186531,
       "name": "THE SEASON (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
@@ -12037,7 +12167,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 209720,
       "name": "Top Steppa",
       "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"

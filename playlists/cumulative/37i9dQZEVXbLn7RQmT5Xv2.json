@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 195642,
       "name": "ANA DEAL",
       "url": "https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD"
@@ -6083,7 +6083,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 207306,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
       "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
@@ -6279,7 +6279,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 168920,
       "name": "On Time (with John Legend)",
       "url": "https://open.spotify.com/track/0YFqKxV9uNu6LUeYkLOKRS"
@@ -7891,7 +7891,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 182096,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/13E54FVYV7fzEfZhtrKn0K"
@@ -9182,6 +9182,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0647 \u064a\u0627 \u0628\u062e\u062a\u0647 \u0627\u0644\u0644\u064a \u064a\u0632\u0627\u0645\u0644\u0646\u064a ( \u0631\u0648\u062d \u0628\u0642\u0644\u0628\u0643 \u0645\u0634 \u0628\u062c\u0633\u0645\u0643 )",
+        "url": "https://open.spotify.com/album/4uWndJo5yNbF9jQw4MkNGU"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244950,
+      "name": "\u0627\u0647 \u064a\u0627 \u0628\u062e\u062a\u0647 \u0627\u0644\u0644\u064a \u064a\u0632\u0627\u0645\u0644\u0646\u064a ( \u0631\u0648\u062d \u0628\u0642\u0644\u0628\u0643 \u0645\u0634 \u0628\u062c\u0633\u0645\u0643 )",
+      "url": "https://open.spotify.com/track/7ydZcXrYQhW0YRGsH7zgJr"
+    },
+    {
+      "album": {
         "name": "\u0628\u0623\u0645\u0627\u0631\u0629 \u0645\u064a\u0646",
         "url": "https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd"
       },
@@ -9683,7 +9701,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 210892,
       "name": "\u0633\u0643\u0631\u062a\u064a",
       "url": "https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0"

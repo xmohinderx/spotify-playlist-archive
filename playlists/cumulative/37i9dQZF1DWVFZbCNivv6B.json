@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en voz de Gera MX, Jayrick y Rich Vagos",
+  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en voz de Aleman y Peso Pluma.",
   "name": "Arena Hip-Hop",
   "published_playlist_ids": [
     "18GYr3VL7srQ56xnZNWbUP"
@@ -1225,6 +1225,28 @@
       "duration_ms": 226666,
       "name": "De Roll",
       "url": "https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE"
+    },
+    {
+      "album": {
+        "name": "Delivery",
+        "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209367,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
     },
     {
       "album": {
@@ -3147,7 +3169,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 216244,
       "name": "Pal Negocio",
       "url": "https://open.spotify.com/track/0ef6A5rkEKvTXUNb2OmgpP"

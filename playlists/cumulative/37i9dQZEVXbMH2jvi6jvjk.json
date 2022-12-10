@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 191520,
       "name": "Around Me (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH"
@@ -1660,6 +1660,48 @@
     },
     {
       "album": {
+        "name": "Ba Straata",
+        "url": "https://open.spotify.com/album/0q5jxlUjZpr0Nrn07xStTq"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Visca",
+          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825"
+        },
+        {
+          "name": "Stompiiey",
+          "url": "https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402890,
+      "name": "Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",
+      "url": "https://open.spotify.com/track/4lOujgdHEUyFThYND4EmlQ"
+    },
+    {
+      "album": {
         "name": "Ba Straata (feat. 2woshortrsa, Stompiiey, Shaunmusiq, Ftears & Madumane)",
         "url": "https://open.spotify.com/album/25plKOfn0KCUMmzBztMMu6"
       },
@@ -1699,48 +1741,6 @@
       "duration_ms": 402890,
       "name": "Ba Straata (feat. 2woshortrsa, Stompiiey, Shaunmusiq, Ftears & Madumane)",
       "url": "https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f"
-    },
-    {
-      "album": {
-        "name": "Ba Straata",
-        "url": "https://open.spotify.com/album/0q5jxlUjZpr0Nrn07xStTq"
-      },
-      "artists": [
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Visca",
-          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
-        },
-        {
-          "name": "2woshortrsa",
-          "url": "https://open.spotify.com/artist/16coVgDlRHVIgfTZ0Rs29m"
-        },
-        {
-          "name": "Stompiiey",
-          "url": "https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN"
-        },
-        {
-          "name": "Shaunmusiq",
-          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
-        },
-        {
-          "name": "Ftears",
-          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
-        },
-        {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
-        }
-      ],
-      "date_added": "2022-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 402890,
-      "name": "Ba Straata (feat. 2woshortrsa, Stompiiey, Shaunmusiq, Ftears & Madumane)",
-      "url": "https://open.spotify.com/track/4lOujgdHEUyFThYND4EmlQ"
     },
     {
       "album": {
@@ -10873,7 +10873,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 382328,
       "name": "Kancane",
       "url": "https://open.spotify.com/track/0dHswGoIHgWfHSraVv9mnq"
@@ -12214,24 +12214,6 @@
     },
     {
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "date_added": "2022-11-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196520,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
-    },
-    {
-      "album": {
         "name": "ANXIETY+",
         "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
       },
@@ -12273,6 +12255,24 @@
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
     },
     {
       "album": {
@@ -13651,7 +13651,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 174560,
       "name": "Metro Spider (with Young Thug)",
       "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
@@ -15659,7 +15659,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 168920,
       "name": "On Time (with John Legend)",
       "url": "https://open.spotify.com/track/0YFqKxV9uNu6LUeYkLOKRS"
@@ -16405,7 +16405,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 416036,
       "name": "Piano Ngijabulise",
       "url": "https://open.spotify.com/track/3Puq6i4xIRH4lrPvJxIC83"
@@ -20433,7 +20433,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 353541,
       "name": "STOP n GO",
       "url": "https://open.spotify.com/track/1e4kVDvQEnCXmwIyRnQ9Sp"

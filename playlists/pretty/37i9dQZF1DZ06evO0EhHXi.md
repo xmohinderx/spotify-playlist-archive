@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,005 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,102 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 18 | [We Want the Airwaves \- 2002 Remaster](https://open.spotify.com/track/6x7B9cDXyH4X7lCwH6B40o) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 3:21 |
 | 19 | [Judy Is a Punk \- 2016 Remaster](https://open.spotify.com/track/0vGCxnTwYZFtOAW3oz28kd) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:32 |
 | 20 | [Commando \- 2017 Remaster](https://open.spotify.com/track/7bmHNcuflaGgUgEV4CuDCA) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:53 |
-| 21 | [I Wanna Live](https://open.spotify.com/track/11ejh5AOn4TEY2xJlm6Ver) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Halfway to Sanity](https://open.spotify.com/album/5rxzv4JxiZcrpoIxu17n5c) | 2:37 |
-| 22 | [Durango 95 \- Live](https://open.spotify.com/track/2o8YxKjziubadspvVN20eS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loco Live](https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ) | 0:46 |
+| 21 | [Durango 95 \- Live](https://open.spotify.com/track/2o8YxKjziubadspvVN20eS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loco Live](https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ) | 0:46 |
+| 22 | [I Wanna Live](https://open.spotify.com/track/11ejh5AOn4TEY2xJlm6Ver) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Halfway to Sanity](https://open.spotify.com/album/5rxzv4JxiZcrpoIxu17n5c) | 2:37 |
 | 23 | [Havana Affair \- 2016 Remaster](https://open.spotify.com/track/2A0zKcpBgK7v9G2gsimPIY) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:57 |
 | 24 | [Cretin Hop \- 2017 Remaster](https://open.spotify.com/track/2GMujhtXaUVaSNbcTSGQ8m) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 1:55 |
 | 25 | [Strength to Endure](https://open.spotify.com/track/1iOqQucADvs4hFX6YpflHO) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [I Love You](https://open.spotify.com/track/5A9QXobyNHl8xjPZMn5kWS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:19 |
 | 50 | [Go Mental \- 2018 Remaster](https://open.spotify.com/track/6HRoLDxi1mMJQmNMC98HCH) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:42 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBkOTY3OWQ5MjZlNTVhNjFkNTFjNjUwOWE4MTM2Nzk0MQ==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBlZGQzMGJjOTFmOWE3ZTUwM2JjMTdiZDkwM2I2ODllMA==`

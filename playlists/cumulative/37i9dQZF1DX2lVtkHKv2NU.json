@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -566,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp"
       },
@@ -649,7 +685,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 122772,
       "name": "Build a Bitch",
       "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
@@ -927,7 +963,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
@@ -1064,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+    },
+    {
+      "album": {
         "name": "Devoto",
         "url": "https://open.spotify.com/album/417TYUiFFmZrHLGkTOTuJV"
       },
@@ -1097,7 +1151,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 173638,
       "name": "Doodoodoo",
       "url": "https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp"
@@ -1466,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -1747,7 +1819,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 187000,
       "name": "hey girl",
       "url": "https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw"
@@ -2325,7 +2397,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 253500,
       "name": "Marisol",
       "url": "https://open.spotify.com/track/4iOe9PEYklFUXJMJAg7JDG"
@@ -2623,6 +2695,24 @@
       "duration_ms": 265386,
       "name": "Nuestra Canci\u00f3n (feat. Vicente Garc\u00eda)",
       "url": "https://open.spotify.com/track/0qP9Kt3gmpDFoDUzl3REGs"
+    },
+    {
+      "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "album": {
@@ -3215,7 +3305,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
@@ -3671,7 +3761,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 170958,
       "name": "Todo Est\u00e1 Bien",
       "url": "https://open.spotify.com/track/38eAUn1uCsiFDVtcqleR0k"
@@ -3783,7 +3873,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 209721,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/7lgvGRC1gN0JGgY9VGXsQT"
@@ -3931,7 +4021,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 164629,
       "name": "WORTH NOTHING - Fast and Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"

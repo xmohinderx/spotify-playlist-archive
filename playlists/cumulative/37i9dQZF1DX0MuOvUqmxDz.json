@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas",
+        "url": "https://open.spotify.com/album/3nfEsZpJwyLq0lYp2uhDRi"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245168,
+      "name": "All I Want For Christmas",
+      "url": "https://open.spotify.com/track/2FPFSnekLjOKZ61X7jYaGM"
+    },
+    {
+      "album": {
         "name": "All I Want For Christmas Is A Real Good Tan",
         "url": "https://open.spotify.com/album/4vLpAl3eThYWwJCX0Ru3DD"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 255866,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/5QcbWukYFHHV3RIAPsuyLb"
@@ -1915,6 +1933,24 @@
       "duration_ms": 219266,
       "name": "I Needed Christmas",
       "url": "https://open.spotify.com/track/0sw6GV1pKByCL0aP13IX4M"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Christmas Collection",
+        "url": "https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219560,
+      "name": "I Needed Christmas",
+      "url": "https://open.spotify.com/track/4bGq0eDMT9t1uupNjQotk4"
     },
     {
       "album": {
@@ -4333,6 +4369,24 @@
       "duration_ms": 215000,
       "name": "Tennessee Christmas",
       "url": "https://open.spotify.com/track/02DZEo1MbyHNH01f1fSUXq"
+    },
+    {
+      "album": {
+        "name": "The Best Gift for Christmas",
+        "url": "https://open.spotify.com/album/3at8GLc93grvHuT0WeJZTB"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "The Best Gift for Christmas",
+      "url": "https://open.spotify.com/track/21EF9UCp4GZwsqcg9a4YGI"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Esto es un perreo a lo FERXXO.",
+  "description": "Esto es un perreo a lo Anuel AA.",
   "name": "Perreo City",
   "published_playlist_ids": [
     "7slpjtiTF4amPLODArmLYt"
@@ -1002,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "Calentura",
+        "url": "https://open.spotify.com/album/0BWKR99sP38uPNKeiubjMl"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229414,
+      "name": "Calentura",
+      "url": "https://open.spotify.com/track/2hVVBKkvunpUH86JKO70lE"
+    },
+    {
+      "album": {
         "name": "Calle y Pistola",
         "url": "https://open.spotify.com/album/2rMOOoHNbnz9cw4WrZP2fV"
       },
@@ -1201,6 +1219,28 @@
       "duration_ms": 168133,
       "name": "CHORRITO PA LAS ANIMAS",
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
+    },
+    {
+      "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6xU2rOCRu56Dc9ccFHunbJ"
+      },
+      "artists": [
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        },
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128879,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/0Jpk1xeY7NNz1RcGWuGIch"
     },
     {
       "album": {
@@ -1433,7 +1473,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 223585,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/1kwtHmqEr6rSyUwrBTtE9j"
@@ -1581,7 +1621,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 243680,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2DWaaGqHqQYgAt4QTyPQWs"
@@ -3529,7 +3569,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 230544,
       "name": "KU'",
       "url": "https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M"
@@ -3751,6 +3791,36 @@
       "duration_ms": 187580,
       "name": "La Mano (feat. Tavo Rayo)",
       "url": "https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG"
+    },
+    {
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ"
     },
     {
       "album": {
@@ -4750,6 +4820,24 @@
     },
     {
       "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215616,
+      "name": "Mintiendo",
+      "url": "https://open.spotify.com/track/1T1YzsWr4iH6xJKTe0zZEs"
+    },
+    {
+      "album": {
         "name": "MMC",
         "url": "https://open.spotify.com/album/6PFzOuphApnB6DBJT6Tw8M"
       },
@@ -5249,7 +5337,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202600,
       "name": "Noche de Teteo",
       "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"

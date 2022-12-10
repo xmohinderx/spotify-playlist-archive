@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,746 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,807 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [Let It All Bleed Out](https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 4:09 |
 | 50 | [The Scorpion Sleeps](https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:38 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBmMDMwM2Q4NzVkMTcyZmQ3MTM1MzllMmNiODZjZTMyZg==`
+Snapshot ID: `Mjc4NDM0NzgsMDAwMDAwMDBjMWE3ZDMxNDc3NzVhMWI1NDMzNTAzMDdlYmJlNmUwZA==`

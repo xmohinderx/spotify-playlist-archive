@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,563 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,573 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 48 | [Llorar por Amor](https://open.spotify.com/track/6DoYsoFeICbUoq9nNddaH1) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:55 |
 | 49 | [Mi Charchina](https://open.spotify.com/track/6vK2viIk4tabUUztnxQcTb) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 3:06 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA5NTNiY2I3ZjI2OWYzYjBkMzljNTIxZmZkNTZiMzhkOA==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDBjZjVjYjQyYzE5ODBkN2FjNWNkZTE0OWExM2Q2Nzg1MA==`

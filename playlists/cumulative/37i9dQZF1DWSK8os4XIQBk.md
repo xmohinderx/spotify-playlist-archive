@@ -4,7 +4,7 @@
 
 > Nothing but the best modern country music\. Cover: Lainey Wilson
 
-337 songs - 18 hr 7 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+338 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-12-31 | 2022-01-22 |
 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 | 2022-01-21 | 2022-07-16 |
 | [Feel Good](https://open.spotify.com/track/4uYDlFubKq2MFdosNK0Q04) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good](https://open.spotify.com/album/6EbuNiak8igHrZhvm8dmzA) | 2:49 | 2022-04-29 | 2022-07-23 |
-| [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 | 2022-02-18 |  |
+| [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 | 2022-02-18 | 2022-12-10 |
 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 | 2022-06-17 | 2022-12-03 |
 | [Fish In The Sea](https://open.spotify.com/track/7do6jSnRFiYyjsMWsWd09D) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:49 | 2022-07-01 | 2022-09-10 |
 | [Flirtin'](https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh), [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Flirtin'](https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4) | 3:42 | 2022-02-18 | 2022-06-18 |
@@ -193,6 +193,7 @@
 | [My Poor Mama](https://open.spotify.com/track/4Q3BRVk8Yn3iR3PI42siD2) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Nothing Is Meaningless](https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW) | 3:06 | 2021-12-31 | 2022-01-15 |
 | [Nashville Or Nothing](https://open.spotify.com/track/27VXGsgJOEj7aYW6uWdJxK) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing](https://open.spotify.com/album/0u7mZIt4MJk667bsC1ZFIf) | 2:45 | 2022-03-18 | 2022-08-13 |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:42 | 2022-06-17 | 2022-08-06 |
+| [NEED A FAVOR](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NEED A FAVOR](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 | 2022-12-09 |  |
 | [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 | 2022-08-26 | 2022-09-24 |
 | [Never Leave](https://open.spotify.com/track/1rWoeYw0Vnnj8BLH6ECoiB) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Never Leave](https://open.spotify.com/album/7okh01uYgCUb6VxU5k4CR3) | 3:27 | 2022-09-16 |  |
 | [Never Met A Beer](https://open.spotify.com/track/2DiDaZdGU6Ey3mn6LCDVnh) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM), [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [Never Met A Beer](https://open.spotify.com/album/6Xn7RynwBkQup3YmWgzpGZ) | 2:52 | 2022-08-05 |  |

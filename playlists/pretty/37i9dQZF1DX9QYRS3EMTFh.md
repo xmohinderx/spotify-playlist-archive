@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Jahyanai
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,429 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,509 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 36 | [So Good](https://open.spotify.com/track/1HZsyQS1sPugJ0UTJgTGof) | [Mata](https://open.spotify.com/artist/4tdlXdW4Agcp0EGX9otdDK) | [So Good](https://open.spotify.com/album/6lpMl9Tl9wSNbStPEHtCGK) | 3:08 |
 | 37 | [MISE À MORT \(feat\. Maureen\)](https://open.spotify.com/track/7HIMz7nSt3GLAqZKBG0dPT) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [SunSystem](https://open.spotify.com/album/2iZTwsFoNuV7KywtKM7lVT) | 2:20 |
 | 38 | [Buzz](https://open.spotify.com/track/7dNKk2V4bD0MXdBhh1PLmR) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buzz](https://open.spotify.com/album/2ByFERdFOCwLIyxXfz1an5) | 2:02 |
-| 39 | [MA JOLIE](https://open.spotify.com/track/44poH5uwgwcfhprLBBt9a6) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [Marginal](https://open.spotify.com/artist/3WbS1ppPV9QmsO29NG28fG) | [To be continued](https://open.spotify.com/album/0n6uzzVODatFJWYUP0Sc6i) | 2:48 |
+| 39 | [MA JOLIE](https://open.spotify.com/track/2klasbfxSuLdv7IcQ2Oj8r) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [Marginal](https://open.spotify.com/artist/3WbS1ppPV9QmsO29NG28fG) | [To be continued](https://open.spotify.com/album/552zZmeV44WUgYPBq64H5i) | 2:48 |
 | 40 | [Plan V](https://open.spotify.com/track/6IfRbvKDTsOnwe3HY0Q1gp) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq) | [Plan V](https://open.spotify.com/album/3IiLdoLGywwshUqR8L3q7l) | 2:07 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGJjOTBkZGYwNGM2NDk0ZTYxM2QxMmQ3NjliZGFkMjc3`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDQxMDYyOWNkODc4MzhmOTc3Nzc5OWE4MTZmYjYwNWZh`

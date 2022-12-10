@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Another Plan of Attack",
+        "url": "https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k"
+      },
+      "artists": [
+        {
+          "name": "The Disco Biscuits",
+          "url": "https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394596,
+      "name": "Another Plan of Attack",
+      "url": "https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2"
+    },
+    {
+      "album": {
         "name": "Moon Cabin",
         "url": "https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg"
       },
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 485880,
       "name": "Random Company",
       "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 321688,
       "name": "Time Dilates",
       "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
@@ -1511,6 +1529,24 @@
       "duration_ms": 283299,
       "name": "Yes We Can Can",
       "url": "https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA"
+    },
+    {
+      "album": {
+        "name": "You're a Catman",
+        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342994,
+      "name": "You\u2019re a Catman",
+      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
     },
     {
       "album": {

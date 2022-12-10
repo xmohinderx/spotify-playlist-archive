@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-195 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
+197 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
 | [Finally Home](https://open.spotify.com/track/6ggz7xBE6dTOAiSe7RNaF3) | [Keely Bain](https://open.spotify.com/artist/2ueoP3YsFTlMOO2Y2Co9Ad) | [Finally Home](https://open.spotify.com/album/2cp4SZMOwKu7SbPbtT0w49) | 2:52 | 2022-11-22 |  |
 | [First Ray of Sun](https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Moto Perpetuo](https://open.spotify.com/album/5PiMD2EnpqjMBfQgCfLJ6C) | 2:19 | 2022-07-15 |  |
+| [Fleeting](https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Illusive](https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71) | 3:01 | 2022-12-09 |  |
 | [Fly Among Clouds](https://open.spotify.com/track/6Kf6iSevn3QqANd6SHHHOk) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:18 | 2022-07-15 |  |
 | [For Simplicity's Sake](https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [For Simplicity's Sake](https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7) | 1:56 | 2022-07-15 |  |
 | [For Your Relief](https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Graceful](https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa) | 2:21 | 2022-07-15 |  |
@@ -142,6 +143,7 @@
 | [presence](https://open.spotify.com/track/16n67SZWxTUrA6ROUId39X) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [presence](https://open.spotify.com/album/711PJkTmbbJTTFYvk9h3nq) | 3:22 | 2022-07-15 |  |
 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
 | [Pure And Calm](https://open.spotify.com/track/663LF9heB9sWluligQWpG8) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Pure And Calm](https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j) | 2:45 | 2022-07-15 |  |
+| [Pure Elements](https://open.spotify.com/track/3VXo1X3728wauOstZ44viK) | [Eustace Zachary](https://open.spotify.com/artist/02z2wzPVdsZWkKB0BRfhBM) | [Calming Sounds](https://open.spotify.com/album/3lep8BdhfX3rEnCauSUtLE) | 3:15 | 2022-12-09 |  |
 | [Quiet Lights](https://open.spotify.com/track/24AJr6RHcOOQG2dobtxFi4) | [Marzell Fischer](https://open.spotify.com/artist/0RzYpNqdYSyg9P4PtKlO1s) | [Quiet Lights](https://open.spotify.com/album/1nB1Z0e3yKPyXDlp5YLI4G) | 2:19 | 2022-07-15 |  |
 | [Quiet Melodies](https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Quiet Melodies](https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc) | 2:43 | 2022-11-11 |  |
 | [Quiet Stars](https://open.spotify.com/track/1OlQRV9bOuT0CGCNI225EP) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/1160mTTHoFxFl3wFuIkUGX) | 1:54 | 2022-07-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: SANTI FRANCESI
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,585 likes - 59 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,629 likes - 59 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 131253,
       "name": "Boy's a liar",
       "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
@@ -2478,6 +2478,24 @@
     },
     {
       "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL"
+    },
+    {
+      "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 267306,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/3tAQNhm1o0kzldsI5QkrB1"
@@ -6757,7 +6775,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
@@ -9391,7 +9409,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -10865,7 +10883,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -11151,7 +11169,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -11939,7 +11957,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 273499,
       "name": "Wild Flower (with youjeen)",
       "url": "https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q"

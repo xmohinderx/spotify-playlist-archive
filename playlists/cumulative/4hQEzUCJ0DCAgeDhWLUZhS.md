@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Paramore
 
-337 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+338 songs - 20 hr 18 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Shadowland](https://open.spotify.com/track/1l3elIbQWyMArfxbIXM6uB) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Shadowland](https://open.spotify.com/album/5scdC0iQINKXXSwqwHTyVi) | 5:21 | 2020-10-16 | 2022-03-18 |
 | [She Couldn't](https://open.spotify.com/track/11LguGpEjOklkNQr70nrHQ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [She Couldn't](https://open.spotify.com/album/43tjeef8lVwnRffkZY0uQp) | 5:05 | 2020-10-10\* | 2022-03-18 |
 | [Shockwave](https://open.spotify.com/track/2UnqgtIfVMfZOvCDGZuUMI) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Shockwave](https://open.spotify.com/album/7hK48vJsNdxAT9hLwpWsAd) | 3:31 | 2020-10-10\* | 2021-02-25 |
+| [Show Me Your God](https://open.spotify.com/track/049eMbPucZ3Acq6r3aQkvz) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Show Me Your God](https://open.spotify.com/album/3AM7lcG3bkYL8FPtXlhReq) | 3:37 | 2022-12-09 |  |
 | [Shut It Down](https://open.spotify.com/track/4tRR0oqkIFjs39wC5cAuK6) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Colorado](https://open.spotify.com/album/47EbZp22zR6rGhKJJsuZBv) | 3:44 | 2020-10-10\* | 2021-02-25 |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-13 | 2022-03-18 |
 | [Sick of The Silence](https://open.spotify.com/track/2x9Hr7Fuf9E8Z7vONIHPyM) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Sick of The Silence](https://open.spotify.com/album/1Twv557qLgnS0hpVQLwDYD) | 3:08 | 2021-06-12 |  |

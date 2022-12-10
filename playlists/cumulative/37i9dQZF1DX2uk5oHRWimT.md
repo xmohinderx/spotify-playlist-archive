@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-197 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
+198 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [The Christmas Song](https://open.spotify.com/track/24MfeH4tGo8SxmNH311YzO) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [The Christmas Song](https://open.spotify.com/album/0qz6VbQmFw0WLZwD3k9QdT) | 2:02 | 2021-11-09 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 | 2021-11-09 |  |
 | [The First Noel](https://open.spotify.com/track/0xo74ue4eAko2WXco63cfv) | [The Ruby Pines](https://open.spotify.com/artist/4KO4HRGHPSH7HtGn8gAOpl) | [Walker in a Winter Wonderland](https://open.spotify.com/album/0UhF379fa6PvnfLTsBngqa) | 2:21 | 2021-11-09 |  |
+| [The Little Drummer Boy](https://open.spotify.com/track/5buoO4z08iVTp3i8wxtYUK) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Songs That Sleigh](https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz) | 4:32 | 2022-12-09 |  |
 | [This December](https://open.spotify.com/track/03jjfF3WRY8cUOsf8yFIVw) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 3:56 | 2021-11-09 |  |
 | [This December](https://open.spotify.com/track/1SNpdbPokipmCJ8rTqbnrm) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 3:56 | 2021-11-09 | 2022-10-19 |
 | [This December](https://open.spotify.com/track/34u4F3zFM9aZgkyBetPR8D) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5IRX3MjFCSlyJdYszpz7hq) | 3:56 | 2021-11-09 | 2022-11-13 |

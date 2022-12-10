@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,406 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,425 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 67 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 |
 | 68 | [最悲傷的事 \- 《比悲傷更悲傷的故事》影集版 主題曲](https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [最悲傷的事 \(《比悲傷更悲傷的故事》影集版 主題曲\)](https://open.spotify.com/album/5wwMx4hWNkUijoyTVdXwln) | 4:57 |
 | 69 | [在你不知道的时间里爱你很久 \- 电影《我在时间尽头等你》片尾曲](https://open.spotify.com/track/103IeGsEatrmA2Q4Vb1RpM) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [在你不知道的时间里爱你很久 \(电影《我在时间尽头等你》片尾曲\)](https://open.spotify.com/album/3XPJqAQ3az7bQg3H5Ohr9y) | 4:18 |
-| 70 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 |
+| 70 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 |
 | 71 | [獲獎人](https://open.spotify.com/track/5s8u5uW7zXvWfes7xh0Gr8) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [獲獎人](https://open.spotify.com/album/03o1FOmIQdIOjgSnj93RFb) | 4:00 |
 | 72 | [也可以](https://open.spotify.com/track/3dAi45j46EoBEd0UVoalcf) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [我有我自己](https://open.spotify.com/album/38NZBdDb6cgyMrYPsF8sSt) | 4:33 |
 | 73 | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/track/72kP6AJqsEeSLkO640Tu7F) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/album/5ksD6oRRGRd1zr4vW7bB7g) | 4:42 |

@@ -2,9 +2,9 @@
 
 ### [night pop](https://open.spotify.com/playlist/37i9dQZF1DXbcP8BbYEQaO)
 
-> in the evening the real me comes alive
+> sparkling, shimmery synth pop ✨
 
-473 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+474 songs - 1 day 2 hr 52 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Cosmic Lover](https://open.spotify.com/track/7ltiK6ak3SI37XygHoXLnB) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Lonely Hearts Club](https://open.spotify.com/album/0OqV782ApCWpQUdQGd3xD4) | 3:24 | 2022-07-29 | 2022-08-06 |
 | [count on](https://open.spotify.com/track/1A4tabNlyLKLOHQW2XpjaU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Colin](https://open.spotify.com/artist/1VBF82bIhEpKowEnCNB8Cu) | [count on](https://open.spotify.com/album/3Crvq8uqSTfvnn4IbIzAHY) | 3:26 | 2020-10-13\* | 2021-12-04 |
 | [Crazier Things](https://open.spotify.com/track/2ptqYXyQ1QdArGjbrTzBaU) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 5:04 | 2020-11-18 | 2021-11-20 |
-| [Crazy Sexy Dream Girl](https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [PLAYGIRL](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) | 2:26 | 2022-10-14 |  |
+| [Crazy Sexy Dream Girl](https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [PLAYGIRL](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) | 2:26 | 2022-10-14 | 2022-12-10 |
 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 | 2022-11-18 |  |
 | [Cynical](https://open.spotify.com/track/2LW4Bkirg94ae861UMg4bW) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Cynical](https://open.spotify.com/album/6CkRa8wMIAPDJYiPXA6nHp) | 3:09 | 2020-10-13\* | 2021-09-25 |
 | [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 | 2021-09-11 |  |
@@ -411,7 +411,7 @@
 | [Talk](https://open.spotify.com/track/3ZE3BSTojEeiBmep57CcUa) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Talk](https://open.spotify.com/album/4onhJdux51mV5lSgb9rU1U) | 2:30 | 2022-09-16 | 2022-10-08 |
 | [tear myself apart](https://open.spotify.com/track/57m2Kve0xnAgYVAPxMLKHS) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [tear myself apart](https://open.spotify.com/album/3FhPAdYjwW3aLRMvx8HbKz) | 2:48 | 2020-10-13\* | 2021-12-04 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 | 2022-04-16 |  |
-| [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 | 2021-10-16 |  |
+| [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 | 2021-10-16 | 2022-12-10 |
 | [Tennis Club](https://open.spotify.com/track/2I4QyfxbaYASskhchbxsDw) | [Talltale](https://open.spotify.com/artist/47bwOR6s1vZymFYFCfgsrZ) | [Tennis Club](https://open.spotify.com/album/2sPSj9hpO9Aw5TAZDzLX1i) | 3:21 | 2021-11-19 | 2021-11-20 |
 | [that friend](https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [that friend](https://open.spotify.com/album/33BfwbhA9EgZZfDCZEj7Bh) | 3:00 | 2021-07-04 | 2022-03-09 |
 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-10-21 |  |
@@ -456,6 +456,7 @@
 | [Want Me Back](https://open.spotify.com/track/62ThvHsujqV9sMr1V7yAJr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Want Me Back](https://open.spotify.com/album/1Wjga5d8cmSnBaHwBodxVv) | 3:54 | 2020-10-13\* | 2021-02-19 |
 | [Warm on a Cold Night](https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:21 | 2021-06-19 | 2022-01-08 |
 | [We Own The Night](https://open.spotify.com/track/6e9EADA7sFGSmD10zcO5cs) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [We Own The Night](https://open.spotify.com/album/3mu6qWNBn513C5z2lHYaZn) | 3:05 | 2022-08-19 |  |
+| [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:53 | 2022-12-09 |  |
 | [WESTWORLD](https://open.spotify.com/track/6ZP2iPx7t4epRBAKWvRPt1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [WESTWORLD](https://open.spotify.com/album/1y8qDhdUaUKxlvDLJ2tHgC) | 3:29 | 2021-07-10 | 2022-03-26 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 |  |
 | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/track/3qDLLnU3pQBCkb7Pctum3O) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/album/0k7wjFeipafGeyu29azRR7) | 2:48 | 2021-10-02 | 2022-03-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Mia Wray
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,831 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,854 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 20 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 |
 | 21 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 |
 | 22 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
-| 23 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 |
+| 23 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 |
 | 24 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 |
 | 25 | [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 |
 | 26 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 84 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 |
 | 85 | [Stay](https://open.spotify.com/track/0TeLna0zybq5xWU4nwH6ve) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Stay](https://open.spotify.com/album/73ogVAAEfYxX525BFM1wEo) | 3:19 |
 
-Snapshot ID: `MTY3MDUwNDQwMCwwMDAwMDAwMDU1ZTQ5ZTk1ZjQzYTY5OWRmMTk0YTdlYjBmYjRjMjdi`
+Snapshot ID: `MTY3MDUwNDQwMCwwMDAwMDAwMDYxZGM4ZGRkYTZkYTg3MWNiNDUxNjc4ODI1MWI5NWYw`

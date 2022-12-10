@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Peer Kusiv
 
-1,149 songs - 4 day 9 hr 3 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+1,150 songs - 4 day 9 hr 9 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -817,7 +817,8 @@
 | [Red \- James Harcourt Remix](https://open.spotify.com/track/1mPcoVJF26uXKgX5qiyy5L) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB), [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Red \(James Harcourt Remix\)](https://open.spotify.com/album/0mgtgQd5C8lbXp7hfsSwbe) | 7:05 | 2022-07-28 | 2022-08-12 |
 | [Red Hot](https://open.spotify.com/track/105ChM3Z5mxLh3YJwdskS1) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Ziggy Zeitgeist](https://open.spotify.com/artist/7KWDEHlNQ5jXyDaqPyf10X) | [Red Hot](https://open.spotify.com/album/1bR5C8y4mFq3m3BA7g3IUp) | 4:16 | 2022-10-06 | 2022-10-21 |
 | [Reflections](https://open.spotify.com/track/5oo1HNNzaCiEn8IF57Ysbe) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [Reflections](https://open.spotify.com/album/4vHMhqhM0wqzaxNACySpec) | 4:58 | 2022-11-03 | 2022-11-25 |
-| [Reflections \(Sam Shure Remix\)](https://open.spotify.com/track/0zZ087uE09xoSJAPjRgVQR) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Reflections \(Sam Shure Remix\)](https://open.spotify.com/album/0bUuxiXsMUGs1ilCVR66e6) | 6:04 | 2022-12-09 |  |
+| [Reflections \(Sam Shure Remix\)](https://open.spotify.com/track/0zZ087uE09xoSJAPjRgVQR) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Reflections \(Sam Shure Remix\)](https://open.spotify.com/album/0bUuxiXsMUGs1ilCVR66e6) | 6:04 | 2022-12-09 | 2022-12-10 |
+| [Reflections \- Sam Shure Remix](https://open.spotify.com/track/1KYtiR7ZOdwXz1v0gGSR8X) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Reflections \(Sam Shure Remix\)](https://open.spotify.com/album/1RqBdAPDoC1GvILO1c1p7P) | 6:04 | 2022-12-09 |  |
 | [Reflex](https://open.spotify.com/track/4G5EpoAQK9QisiqfUP38bL) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Reflex](https://open.spotify.com/album/5wa0NLltENEZcKcmzU6TZJ) | 6:26 | 2022-09-08 | 2022-09-30 |
 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-01 | 2022-09-23 |
 | [Rejection \- Martin Waslewski Remix](https://open.spotify.com/track/5zF2LhMNz7TpEk2CPZXNsl) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ), [Martin Waslewski](https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06) | [Rejection \(Martin Waslewski Remix\)](https://open.spotify.com/album/0UpE1oBCZDFIJ4AsAysr4s) | 5:45 | 2022-04-21 | 2022-05-13 |

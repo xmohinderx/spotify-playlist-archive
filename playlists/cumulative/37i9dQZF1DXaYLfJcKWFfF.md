@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=71IZoDndRoWuYhF1DS533w"> Johnny Drille </a>
 
-64 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
+65 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-07-28 | 2022-11-26 |
 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 | 2021-10-22 |  |
 | [Justified](https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Superpowers](https://open.spotify.com/album/0XEPP0DkiGxJjk2rTB1oKY) | 3:52 | 2022-12-08 |  |
+| [Korba](https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/56tUJqILM4XfQ0XfyCPqGh) | 2:45 | 2022-12-08 |  |
 | [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-25 |  |
 | [Luendu](https://open.spotify.com/track/1anZTHDNZp9OlQtqFwkVON) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Mopero Mupemba](https://open.spotify.com/artist/2WUJ6i3nedRAN5IycBqhBs) | [Archeology](https://open.spotify.com/album/3V4BPB1PiG4Uobib3AeRN3) | 3:08 | 2022-10-21 | 2022-11-04 |
 | [Magic In The Water](https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Magic In The Water](https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g) | 4:14 | 2022-02-24 | 2022-12-09 |

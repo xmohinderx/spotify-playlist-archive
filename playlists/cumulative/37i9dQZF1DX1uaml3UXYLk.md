@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-509 songs - 1 day 8 hr 52 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+511 songs - 1 day 8 hr 58 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Hurting \- I:Cube Remix](https://open.spotify.com/track/4UjZw34ku2C14aVslkaaVf) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Cutie Schamuthie](https://open.spotify.com/artist/6bGoDRFoUbC2oHUewDmVb7), [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Moon II Remixes Pt\. I](https://open.spotify.com/album/3E7mBvJ8YEQIdjPnkbUn9P) | 5:47 | 2021-01-29 | 2021-02-20 |
 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 | 2021-08-25 |  |
 | [I ADORE U](https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [I ADORE U](https://open.spotify.com/album/5xnqBY02HrPts7DQlfXtnK) | 4:02 | 2022-05-10 |  |
+| [I Can’t Even](https://open.spotify.com/track/1hZDvLGzGTvbBRP8CqU0rD) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [I Can’t Even](https://open.spotify.com/album/2vqmwm05G6x3QOKwZRCaJh) | 2:51 | 2022-12-09 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2020-12-11 | 2022-08-05 |
 | [I'm nothin'](https://open.spotify.com/track/4sVY4JmPEBLPsX5GRH8S6u) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [I'm nothin'](https://open.spotify.com/album/5L29YvrjfGVhkkTWLdeS31) | 3:42 | 2021-01-07 | 2021-08-25 |
 | [If I Could I Would](https://open.spotify.com/track/0wx7ZtHC12OTHIWW9hJafV) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Euch die Uhren uns die Zeit](https://open.spotify.com/album/47c58ulJOzSaw2iLkSWfI9) | 7:19 | 2020-11-13 | 2022-05-11 |
@@ -391,6 +392,7 @@
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2021-11-10 |  |
 | [Shadows \- Glizzinger Edit](https://open.spotify.com/track/71SMntwtq5ddzffP7RO2po) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Shadows \- Glizzinger Edit](https://open.spotify.com/album/17aQXGOQLHfg72KYwOe8yp) | 3:40 | 2021-11-10 | 2022-02-11 |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2021-06-04 |  |
+| [Shine](https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Shine](https://open.spotify.com/album/5uD45F8wERKOjBswG3fSXY) | 2:46 | 2022-12-09 |  |
 | [Short and Sweet](https://open.spotify.com/track/0Ia1TRbEotMBljaiQnHk1Y) | [Pure Indigo](https://open.spotify.com/artist/0kuQZf585oUCcp9aIKbgMu) | [Short and Sweet](https://open.spotify.com/album/0s21Rk25Kwhi4xPy8AYDhV) | 2:26 | 2020-10-20\* | 2022-06-24 |
 | [Show Me How It's Done](https://open.spotify.com/track/6HjO9nSZmlTy5fgSWXcpgu) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Tullinge Crickets / Show Me How It's Done](https://open.spotify.com/album/0jf2evCQuvnGQX3ngYuLGG) | 5:13 | 2021-11-10 | 2022-04-06 |
 | [Shut Down](https://open.spotify.com/track/4voScCHrWmAGe5iAHrFMmk) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Last Dream](https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9) | 4:02 | 2020-10-20\* | 2021-03-06 |

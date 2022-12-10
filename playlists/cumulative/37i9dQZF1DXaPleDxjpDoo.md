@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-87 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
+88 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Fleuriste \- Meditation](https://open.spotify.com/track/69f7nyk91VrWuNXjAOENML) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Fleuriste](https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa) | 4:38 | 2022-09-15 |  |
 | [Forest Awakens](https://open.spotify.com/track/5byEWvYqXJvyvIthJtIpHn) | [Doug Loodabert](https://open.spotify.com/artist/1soP7EvA2zGxb39peRXviG) | [Forest Awakens](https://open.spotify.com/album/1CLoQedetRmKO3z1N43wPi) | 2:50 | 2022-09-15 |  |
 | [Forest Dreams](https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP) | [Glacier Wave](https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN) | [Forest Dreams](https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO) | 3:42 | 2022-09-15 |  |
-| [Forest Dwelling](https://open.spotify.com/track/0n7atpg512cdKCTxkVi2nR) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Forest Dwelling](https://open.spotify.com/album/0jNWQHzzYcS1fPjzNsTAGE) | 32:33 | 2022-09-15 |  |
+| [Forest Dreams](https://open.spotify.com/track/5FgCKWFEVSfCEyE9rSvjDm) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Forest Dreams](https://open.spotify.com/album/3AWyX4p9FejcBLRxawTIez) | 3:17 | 2022-12-09 |  |
+| [Forest Dwelling](https://open.spotify.com/track/0n7atpg512cdKCTxkVi2nR) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Forest Dwelling](https://open.spotify.com/album/0jNWQHzzYcS1fPjzNsTAGE) | 32:33 | 2022-09-15 | 2022-12-10 |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2022-09-15 |  |
 | [Forest Symphony](https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Forest Symphony](https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY) | 3:02 | 2022-09-15 |  |
 | [Frozen Sunlight](https://open.spotify.com/track/02tb4HZydiOwErys8qitIc) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 | 2022-10-14 |  |

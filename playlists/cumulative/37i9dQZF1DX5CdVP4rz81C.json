@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Discover your favorite new chill pop songs. Cover: Quinn \nXCII, Chelsea Cutler ",
+  "description": "Discover your favorite new chill pop songs. Cover: CIL",
   "name": "Fresh & Chill",
   "published_playlist_ids": [
     "0bYTEzgb7cQ54Fa4kGbaPS"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 178407,
       "name": "18",
       "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 155811,
       "name": "All We Wanted",
       "url": "https://open.spotify.com/track/62kLLQc0yirM4bxYsv9vM3"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 199883,
       "name": "American Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 172723,
       "name": "amnesia",
       "url": "https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj"
@@ -2019,6 +2019,24 @@
       "duration_ms": 199396,
       "name": "Blame",
       "url": "https://open.spotify.com/track/63qWXTXbAaB4RZ9gopoz1Y"
+    },
+    {
+      "album": {
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138374,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "album": {
@@ -3621,7 +3639,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 239113,
       "name": "complex",
       "url": "https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s"
@@ -4480,6 +4498,24 @@
     },
     {
       "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL"
+    },
+    {
+      "album": {
         "name": "Didn't Make It",
         "url": "https://open.spotify.com/album/4bswjAv070Cs95SI60avQV"
       },
@@ -4989,7 +5025,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 213024,
       "name": "Drink It Up",
       "url": "https://open.spotify.com/track/6dvsNpJahg7VBk3nyHU0Uk"
@@ -6055,7 +6091,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 184395,
       "name": "Figure Me Out",
       "url": "https://open.spotify.com/track/7oGQyQfvAqKmmdoHJW4qYr"
@@ -6626,6 +6662,24 @@
     },
     {
       "album": {
+        "name": "getting older",
+        "url": "https://open.spotify.com/album/0c6wCWOriEOPRWKQQkjI01"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166214,
+      "name": "getting older",
+      "url": "https://open.spotify.com/track/3e9Z0TBZPg21jOHnufb2jL"
+    },
+    {
+      "album": {
         "name": "Getting Over You",
         "url": "https://open.spotify.com/album/0JxpmNUNXqfXFDpZgaJ4My"
       },
@@ -6641,6 +6695,28 @@
       "duration_ms": 130310,
       "name": "Getting Over You",
       "url": "https://open.spotify.com/track/22hCW8J2tHYdaBhdDX44HI"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
     },
     {
       "album": {
@@ -6969,6 +7045,24 @@
       "duration_ms": 155960,
       "name": "Gradually",
       "url": "https://open.spotify.com/track/2zQ0BWsBnGckZt5PwW2Rrj"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/4tW1prOUVuxwZqBJ9kQEaB"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188632,
+      "name": "Graffiti",
+      "url": "https://open.spotify.com/track/1nbf58hrmgDkfathd8NwTD"
     },
     {
       "album": {
@@ -7457,7 +7551,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 182844,
       "name": "hayley.",
       "url": "https://open.spotify.com/track/6yP9ZYK6fNkFVv20nS2jAj"
@@ -7713,7 +7807,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 153391,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp"
@@ -8081,7 +8175,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 173548,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/06ovgbpjFwZCsggHI77TAG"
@@ -9211,7 +9305,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 201673,
       "name": "ill (feat. Kenny Beats)",
       "url": "https://open.spotify.com/track/1VWY0mwYmKxNaf5EhAGSBA"
@@ -9969,7 +10063,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 229436,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3"
@@ -10741,6 +10835,24 @@
       "duration_ms": 160681,
       "name": "Little Bother (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG"
+    },
+    {
+      "album": {
+        "name": "Seventeen Going Under (Live Deluxe)",
+        "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "Little Bull Of Blithe",
+      "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
     },
     {
       "album": {
@@ -12605,7 +12717,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 178679,
       "name": "never got better",
       "url": "https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3"
@@ -14410,6 +14522,24 @@
     },
     {
       "album": {
+        "name": "ready",
+        "url": "https://open.spotify.com/album/6kX8LJnFlcfwbRdnWrkwK4"
+      },
+      "artists": [
+        {
+          "name": "Alex Kehm",
+          "url": "https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "ready",
+      "url": "https://open.spotify.com/track/2XrAj5PhEDhStVgyoUPCa1"
+    },
+    {
+      "album": {
         "name": "Ready For You",
         "url": "https://open.spotify.com/album/2x7J2pFGoNS0LA5qYc8y7Y"
       },
@@ -14849,6 +14979,24 @@
     {
       "album": {
         "name": "Runaway",
+        "url": "https://open.spotify.com/album/1oF9fD7FtJVOffaB1Zplxk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150366,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4c70PG49Nuw2LKaMwECqvv"
+    },
+    {
+      "album": {
+        "name": "Runaway",
         "url": "https://open.spotify.com/album/2wDZg4ltJv3MCyK1svvdQD"
       },
       "artists": [
@@ -14899,7 +15047,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176121,
       "name": "Runner Up",
       "url": "https://open.spotify.com/track/2sfBZKDSWwQsvU5kWDEFoc"
@@ -15253,6 +15401,28 @@
       "duration_ms": 186143,
       "name": "Seeing Other People",
       "url": "https://open.spotify.com/track/2OX5cec5sbZDSQOa7klacx"
+    },
+    {
+      "album": {
+        "name": "Seeing Other People",
+        "url": "https://open.spotify.com/album/014cyjQZihVY9akGL5uoIx"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        },
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210232,
+      "name": "Seeing Other People",
+      "url": "https://open.spotify.com/track/3LpbQsIPCrp4nKqmCbx7xi"
     },
     {
       "album": {
@@ -17192,6 +17362,24 @@
     },
     {
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+    },
+    {
+      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/4xCdy8RgwS1k4pJI6ScvUh"
       },
@@ -18267,7 +18455,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
@@ -18369,7 +18557,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 169721,
       "name": "uh oh",
       "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
@@ -20189,7 +20377,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 185321,
       "name": "you'd never know",
       "url": "https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9"

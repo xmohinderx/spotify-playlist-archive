@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,080 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,131 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 35 | [ZURE](https://open.spotify.com/track/5ZJUC56dfmK9Ef76M7xk5K) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 5:11 |
 | 36 | [美貌の青空\(Original\)](https://open.spotify.com/track/6Pr6KO5wWLBKCAZHmgZQNa) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [SMOOCHY](https://open.spotify.com/album/7oeVetwYBxgvx2uqLSrLAV) | 5:39 |
 | 37 | [Japan](https://open.spotify.com/track/0e38wH30H0iLDda4NtNI4V) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Coda](https://open.spotify.com/album/0jkkllHZt6ovs8LbcE5Xe6) | 2:58 |
-| 38 | [八重の桜 メインテーマ \- Playing the Orchestra Ver.](https://open.spotify.com/track/2AwA1w50cFpu6OvkL0cUVd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [NHK大河ドラマ「八重の桜」 \(オリジナル・サウンドトラック コンプリート盤\)](https://open.spotify.com/album/2SXKwtazZVLnN6NYKt9L2R) | 2:42 |
+| 38 | [八重の桜 \- メインテーマ \(Playing the Orchestra Ver.\)](https://open.spotify.com/track/2AwA1w50cFpu6OvkL0cUVd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [NHK大河ドラマ「八重の桜」 \(オリジナル・サウンドトラック コンプリート盤\)](https://open.spotify.com/album/2SXKwtazZVLnN6NYKt9L2R) | 2:42 |
 | 39 | [Happy End](https://open.spotify.com/track/1t0wA9xkyYZnlPuT6x0cJE) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Judy Kang](https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR) | [THREE](https://open.spotify.com/album/2vxrJgwfpt0sHQtDhSXjpc) | 5:23 |
 | 40 | [Germination](https://open.spotify.com/track/2kAw46gk20ZAgAHNlq8eoS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 1:49 |
 | 41 | [M.A.Y\. IN THE BACKYARD](https://open.spotify.com/track/45vQStUpPYY0NEq7GKY5Wl) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ongaku Zukan \-2015 Edition\-](https://open.spotify.com/album/2CI4X2v5UpNLxh6RFpspHR) | 5:34 |

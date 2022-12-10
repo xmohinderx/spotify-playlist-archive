@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > Introducing the Class of 2022\. Cover: Jaish
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,078 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,084 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 85 | [Orbit](https://open.spotify.com/track/6d7b24aFZ1RB0ro2gqQEC0) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Orbit](https://open.spotify.com/album/7vVal8T8OSlBZacQGXVlPa) | 2:55 |
 | 86 | [2 Cool 2 Be Somebody](https://open.spotify.com/track/1KLEHZfhkCNpdhSXMGAGXW) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [2 Cool 2 Be Somebody](https://open.spotify.com/album/2DnO2F70y4jUWMHC65awMe) | 3:07 |
 | 87 | [Nihilist](https://open.spotify.com/track/79hHhUxnK1slHwz6VSMH7o) | [Yana Bey](https://open.spotify.com/artist/4sve9pXG18U5nqViEpIzFe) | [Nihilist](https://open.spotify.com/album/4QicWxxxsB4lyZj4dlWj3y) | 2:35 |
-| 88 | [Beige](https://open.spotify.com/track/6b5DuZCURXBYCFoizbB31M) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/1O2L22NDOm40KtP8nUT6a2) | 3:22 |
+| 88 | [Beige](https://open.spotify.com/track/3OBhDSxocfqs9knOUWYkBF) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:22 |
 | 89 | [OBiNRiN](https://open.spotify.com/track/34HdupoNXwiGPFthiBJ9mD) | [DIVINEANGEL](https://open.spotify.com/artist/2P2NByJDCB5VUHkKVVnOtX), [Angel Seka](https://open.spotify.com/artist/3YqnEjLCU7wmiG51vnUlC0), [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [OBiNRiN](https://open.spotify.com/album/2IKoeMAEUBOvnkLwx3h8v4) | 4:08 |
 | 90 | [Wondering What I Did To Lose You](https://open.spotify.com/track/5f75XPGWRZqKp6IDWdtzkS) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO), [Rahmania Astrini](https://open.spotify.com/artist/3WRbuoFaZ6HUGjZEQ12c3J) | [Wondering What I Did To Lose You](https://open.spotify.com/album/20N9WJu6hx0Rpn9KN1FKt6) | 2:08 |
 | 91 | [Sick of It](https://open.spotify.com/track/5QXGw1NqlVAkl3DYj9zUcZ) | [wtr](https://open.spotify.com/artist/5eX9fwoNnYywE0qOFazRbF) | [Sick of It](https://open.spotify.com/album/00PwfYLAalFybBEm6LFnSC) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Delusion Spree](https://open.spotify.com/track/0c7o9pbFsW2TASt8A238w6) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Delusion Spree](https://open.spotify.com/album/4KrGIr7VNaDbps4aYjVvAZ) | 3:49 |
 | 100 | [Friends](https://open.spotify.com/track/3nVYHkWhrWH2msWIZlXczI) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE) | [The Tennis Champions](https://open.spotify.com/album/41kBxOSrjwgmeaKQVmmI7o) | 3:03 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDFiN2UyMmVkNzBlNzA3N2MwMTFjMzM2MTIwNzY1YjE4`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGE4Y2E1Y2NiZjI0YjI3MjQzNDFlMzlkYjQ1OTgwMzc1`

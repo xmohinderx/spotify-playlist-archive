@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-140 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/6P9X9MwCBeNsFzdG2NDQp3)
+141 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/6P9X9MwCBeNsFzdG2NDQp3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw) | 3:25 | 2022-02-18 |  |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-05 |  |
 | [EXCHANGE](https://open.spotify.com/track/2DYNyO657ppfS7Hl7jHg7a) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [EXCHANGE](https://open.spotify.com/album/2QZQ6HUp0WhpxpnkCqZrkw) | 2:54 | 2022-06-03 | 2022-07-23 |
-| [FAR AWAY](https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 3:15 | 2022-07-22 |  |
+| [FAR AWAY](https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 3:15 | 2022-07-22 | 2022-12-10 |
 | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/track/4c9fF18rZHbsA8X8apjuRd) | [Poundside Pop](https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/album/78vPH1YGbwtqZuF0sFcFv7) | 2:23 | 2021-12-17 | 2022-10-01 |
 | [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 | 2022-05-06 |  |
 | [FLA Boy](https://open.spotify.com/track/3c7o1Lmx4jzlJhhT1cOCWL) | [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd) | [FLA Boy](https://open.spotify.com/album/4hRKO4GIkvzz9a7mId2IMB) | 2:54 | 2022-10-07 |  |
@@ -133,6 +133,7 @@
 | [Storyteller](https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Storyteller](https://open.spotify.com/album/28Y1Tj8nZRro47bwhKnOiV) | 2:46 | 2022-06-10 | 2022-08-27 |
 | [Teach U How To Play](https://open.spotify.com/track/4iiwARZ0XDDG70UvL0skme) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Teach U How To Play](https://open.spotify.com/album/4R09J6lWN5YfS8gEjHbQeQ) | 2:14 | 2022-09-16 | 2022-10-15 |
 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 | 2022-10-14 |  |
+| [THE GOV'T GAVE US GUNS](https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [THE GOV'T GAVE US GUNS](https://open.spotify.com/album/5o0qJK6COqONoWG7FtTeHW) | 1:56 | 2022-12-09 |  |
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-08-20 |  |
 | [TICK TOCK](https://open.spotify.com/track/6J4VcQgLGDRV8kbgTMhwly) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TICK TOCK](https://open.spotify.com/album/4RS2sGxRhVfHotPAzUGRwo) | 2:25 | 2022-09-23 |  |
 | [Time \- From the Motion Picture "Amsterdam"](https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Time \(From the Motion Picture "Amsterdam"\)](https://open.spotify.com/album/3VDUN8potNxTgF520R642l) | 3:42 | 2022-09-23 | 2022-10-29 |

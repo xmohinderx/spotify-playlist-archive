@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-63 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
+65 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Butterflies](https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [Mountains of the Moon](https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs) | 3:17 | 2022-06-06 |  |
 | [Do Me \- Remix](https://open.spotify.com/track/48ZJQls86YBeO0oSvsZvDf) | [Alloy Malik](https://open.spotify.com/artist/7iGL7mxv4v0aj4EtwQox88), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Do Me \(Remix\)](https://open.spotify.com/album/2ck68T2ILwr0m3x9lJjPeB) | 2:48 | 2022-06-06 | 2022-09-09 |
 | [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 | 2022-06-06 |  |
+| [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 | 2022-12-09 |  |
 | [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 |  |
 | [Grand Pa](https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5) | [Dreventy](https://open.spotify.com/artist/20rJZ2igPSXRYRp09Kppb3) | [Blue Detail](https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz) | 2:46 | 2022-07-25 |  |
 | [Habibi](https://open.spotify.com/track/5iz5aaY16uQ29mkNXsiBre) | [Lamu](https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS) | [No Pressure](https://open.spotify.com/album/4JxJjVcjULbJNQxBPpH324) | 3:23 | 2022-06-06 |  |
@@ -60,6 +61,7 @@
 | [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-06-06 |  |
 | [Serenade at Serena](https://open.spotify.com/track/3CeVhX1dTzx8IxQ9BVcqpa) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Evon](https://open.spotify.com/artist/3aRikpwal24y5bhOYcVHnJ) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 5:44 | 2022-06-06 | 2022-08-06 |
 | [SIGANYE \(feat\. Axon\)](https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Axon](https://open.spotify.com/artist/6ULfcssaluvJyhAxMcVeds) | [WENA CHAPTER 2](https://open.spotify.com/album/09QQkaDBulEZx9DE5chbuV) | 2:18 | 2022-06-06 |  |
+| [Sing For You \- Acoustic version](https://open.spotify.com/track/232FrkWVjJkPjqX1P8tstE) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Sing For You \(Acoustic version\)](https://open.spotify.com/album/6EfDjpkOMVSaMdjnaS7HD7) | 2:53 | 2022-12-09 |  |
 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 | 2022-06-06 |  |
 | [Sukaali](https://open.spotify.com/track/4CUD0GgGWJYyzsi5KERvh6) | [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Kigozi Caleb](https://open.spotify.com/artist/5llla9IYuLR7CRx1QYgLzS) | [Sukaali](https://open.spotify.com/album/3hLy3adsszXa7NtHzXqS19) | 3:25 | 2022-06-06 |  |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 |  |

@@ -4,7 +4,7 @@
 
 > Music to get fly to\. Cover: Okoye and Shuri from Black Panther: Wakanda Forever
 
-304 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+306 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-08-05 | 2022-07-12 |
 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 | 2022-05-20 | 2022-09-03 |
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2022-04-15 | 2022-07-12 |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-12-09 |  |
 | [hey prentiss](https://open.spotify.com/track/2mIW33L1ycl9oqBAlkmO7l) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/38KlL9hDNslKeFJ2A0pKXC) | 2:11 | 2021-11-19 | 2022-04-28 |
 | [Hot Rod](https://open.spotify.com/track/6t8MIRE7HlRiWteL5EqruV) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Hot Rod](https://open.spotify.com/album/72E7gOHQneXKHXHTZOENX3) | 3:26 | 2022-09-13 | 2022-10-08 |
 | [HOW CAN I SLEEP](https://open.spotify.com/track/7GfDyeYSkBWENSzZH0pYOv) | [Evenson](https://open.spotify.com/artist/7sWocbRfg9Tc5jNfxcSxEd) | [HOW CAN I SLEEP](https://open.spotify.com/album/6RAOysblAHnraRB2txh7C7) | 4:27 | 2021-11-04 | 2022-04-16 |
@@ -247,6 +248,7 @@
 | [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 | 2022-05-27 | 2022-07-02 |
 | [Something Real](https://open.spotify.com/track/3igF3hh2CifmH2ybD3hHiT) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:13 | 2022-11-21 |  |
 | [Something Real](https://open.spotify.com/track/58NhjNniLzv9moIlOzPQGp) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Something Real](https://open.spotify.com/album/0KR14TOAs6EAoe0zjMDyQR) | 2:13 | 2022-08-12 | 2022-12-01 |
+| [Special](https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:38 | 2022-12-09 |  |
 | [Spin Me Around](https://open.spotify.com/track/3WOZcIibmurJult4Z7Wfce) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 2:26 | 2022-11-17 |  |
 | [Spinning Away](https://open.spotify.com/track/0EZ4GxnjKkB5Q0X5MhMNEf) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/60iUtvboDimzQEiZjGfkzP) | 5:27 | 2022-09-13 | 2022-10-08 |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2021-08-05 | 2022-07-12 |

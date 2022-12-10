@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 184240,
       "name": "La Belle Vie",
       "url": "https://open.spotify.com/track/6ZiyU4U2GlSz814vTTBBDo"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Les passantes",
       "url": "https://open.spotify.com/track/0PNBQlTTJT5Mpjk2qCSHa7"
@@ -934,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265581,
+      "name": "Success",
+      "url": "https://open.spotify.com/track/7LnZRiI3GuF44G6mqLWQA1"
+    },
+    {
+      "album": {
         "name": "Post Pop Depression",
         "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 283360,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"

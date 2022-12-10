@@ -8074,6 +8074,24 @@
     },
     {
       "album": {
+        "name": "it's been a year",
+        "url": "https://open.spotify.com/album/0wsETlKs4fptjLrGDKY2U4"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216670,
+      "name": "it's been a year",
+      "url": "https://open.spotify.com/track/2untQJbPOaB1BjyZKIVuZv"
+    },
+    {
+      "album": {
         "name": "J.O.Y.",
         "url": "https://open.spotify.com/album/4HK0mnxBqWZsImD3We8rEj"
       },
@@ -10166,6 +10184,24 @@
     },
     {
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SzUEjyhgu2BA2BcRiE4hl"
+      },
+      "artists": [
+        {
+          "name": "Halle Kearns",
+          "url": "https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189683,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/59GZjTxsvzzClmqHnONcMk"
+    },
+    {
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/1UVUIMDHj2I0Lt5Mumd6eh"
       },
@@ -10257,6 +10293,24 @@
       "duration_ms": 261032,
       "name": "Morning In New Orleans",
       "url": "https://open.spotify.com/track/58ecPv0XoQ0nO0Fh9ZEp8N"
+    },
+    {
+      "album": {
+        "name": "Motel On the Moon",
+        "url": "https://open.spotify.com/album/6Pbmoox4o7GVCyQDkgOWaX"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238895,
+      "name": "Motel On the Moon",
+      "url": "https://open.spotify.com/track/1s6081YVpuKRS4cZp5zyne"
     },
     {
       "album": {
@@ -12731,7 +12785,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 187018,
       "name": "running back",
       "url": "https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px"

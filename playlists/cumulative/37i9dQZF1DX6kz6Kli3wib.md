@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-240 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
+242 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Spectra](https://open.spotify.com/track/2MFkg5GzZyRZKnVi3CciBw) | [Oh Lascar](https://open.spotify.com/artist/74qLRIl7rBXBWAzk0CMOYe) | [Spectra](https://open.spotify.com/album/23SmT1r0p9WuQM0FzDjvBW) | 2:33 | 2021-11-11 | 2022-05-11 |
 | [Spectrum](https://open.spotify.com/track/3IDdpuIzrtWQqP2kT5r1Iq) | [Wael](https://open.spotify.com/artist/5yLU77HGlLwIOkuqsxctrp) | [Spectrum](https://open.spotify.com/album/32qSgni58sL6LGoELPUia1) | 3:04 | 2021-11-11 | 2022-07-22 |
 | [Spirit Lovers](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil) | [Snowman vs](https://open.spotify.com/artist/0YPrHloQKCZTqyxG4fFAuv) | [Spirit Lovers](https://open.spotify.com/album/6P9OnTlNLSvIlHHyDMRrkn) | 2:11 | 2021-11-11 | 2022-04-15 |
+| [Spring](https://open.spotify.com/track/30WWfaOwc8c0s2mrstl5HE) | [Kajavela](https://open.spotify.com/artist/3zZOZe9sN2dQnmYXSfhlXp) | [Spring](https://open.spotify.com/album/20ibgT1ftTBJ8i8NLs2NRc) | 2:34 | 2022-12-09 |  |
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-11-11 | 2022-02-11 |
 | [Steek](https://open.spotify.com/track/0tmfkSrjCbV7fOUPEDznhP) | [Movistar](https://open.spotify.com/artist/0QJCy3yneN39i7ZSdoqcrP) | [Aquarelle](https://open.spotify.com/album/6cCkiXerbNIJNbbGJuvsPA) | 1:52 | 2022-01-21 |  |
 | [Stellar Bomb](https://open.spotify.com/track/1uyZR0MR3AKiUJD55PJs8A) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Stellar Bomb](https://open.spotify.com/album/3Qr158I4WE250jcb1FWRuD) | 2:54 | 2022-10-07 |  |
@@ -215,6 +216,7 @@
 | [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-05-10 |  |
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2021-11-11 |  |
 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 | 2021-11-11 | 2022-04-06 |
+| [Techo Con Sol](https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Techo Con Sol / Caprice](https://open.spotify.com/album/1cWXNpUajWvpJaWLpMavr1) | 3:08 | 2022-12-09 |  |
 | [Tenacious Aura](https://open.spotify.com/track/5KNESkEEm92UTYQ5psdIK6) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [Tenacious Aura](https://open.spotify.com/album/445wpYYsV11OvhiMIcIjLJ) | 4:09 | 2022-05-20 | 2022-07-29 |
 | [The Lighthouse](https://open.spotify.com/track/4C8vDZVeXTs4coyFq914Wh) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [The Lighthouse](https://open.spotify.com/album/5jVus1wCuzCbYKI8VFA9IN) | 2:12 | 2021-11-11 |  |
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2021-11-11 |  |

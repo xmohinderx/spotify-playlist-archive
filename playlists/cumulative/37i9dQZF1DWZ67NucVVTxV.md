@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-181 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
+182 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [Big Money](https://open.spotify.com/track/5cKpgv19Uh2kwWM29Q5YNp) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Big Money](https://open.spotify.com/album/1kXCtMduX4ysnZnIfEdBBA) | 2:18 | 2022-09-19 | 2022-10-14 |
 | [Bigger Than Life](https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Bigger Than Life](https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G) | 2:40 | 2022-06-30 | 2022-08-06 |
 | [Billing](https://open.spotify.com/track/5Uf7FM6gBCvAp8NRXEeghY) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Billing](https://open.spotify.com/album/453klLTlEAFDEBFvJiR3Xw) | 2:45 | 2022-07-28 |  |
-| [Billionaire](https://open.spotify.com/track/67BVAiOqovJtuKUMpqfFXM) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Billionaire](https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH) | 3:11 | 2022-11-18 |  |
+| [Billionaire](https://open.spotify.com/track/67BVAiOqovJtuKUMpqfFXM) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Billionaire](https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH) | 3:11 | 2022-11-18 | 2022-12-10 |
 | [Blessed](https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Blessed](https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7) | 2:55 | 2022-06-30 | 2022-07-23 |
 | [Blessing](https://open.spotify.com/track/7zSLyH0RvNm1wyhI9XvAus) | [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Blessing](https://open.spotify.com/album/2rMgkLQu1LmUmr5M695d30) | 2:29 | 2022-11-25 |  |
 | [Blessings](https://open.spotify.com/track/0U7ZICZtRhWB3oSMdtulDL) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Kae's Study](https://open.spotify.com/album/3zvBH4f8pSkOgOfkn6fHVV) | 2:40 | 2022-10-07 |  |
 | [Blessings](https://open.spotify.com/track/5tDP97l3FFgLKmAkP029rw) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT), [Tega Starr](https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb) | [Blessings](https://open.spotify.com/album/4NEEvkvHl6aDZofeHm5AcQ) | 2:45 | 2022-07-28 | 2022-10-01 |
 | [Blessings](https://open.spotify.com/track/5ibf0QRiCeCmlFlNb7otEP) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Blessings](https://open.spotify.com/album/0tgjVqsRs4lXQ4sgJ1EFIg) | 2:03 | 2021-11-25 | 2022-07-26 |
+| [Blessings \- Remix](https://open.spotify.com/track/4yl5K1GQx8a5L5n5xzgCX5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Blessings \(Remix\)](https://open.spotify.com/album/7pnIuSwrbrjrkl1kWhlFXq) | 3:05 | 2022-12-09 |  |
 | [Blood Hot](https://open.spotify.com/track/3ocQ7frjALF31yCx5eMhTz) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [Blood Hot](https://open.spotify.com/album/3hEla1QCivyzb2KEXXDgGy) | 2:25 | 2022-06-30 | 2022-08-13 |
 | [Bonsam Dollar](https://open.spotify.com/track/4JiMqXP10Z37OscLQgUbzZ) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [King of Melodies](https://open.spotify.com/album/1ifp91N2jYTmlLqT1Su4ma) | 2:44 | 2022-07-28 | 2022-08-06 |
 | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/track/6ztz7MysNjHec8CHmigWDp) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/album/5c2opaEOTa8gn5Ufinm3H1) | 2:47 | 2022-07-14 | 2022-08-06 |

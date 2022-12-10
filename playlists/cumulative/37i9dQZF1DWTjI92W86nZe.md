@@ -4,17 +4,18 @@
 
 > El que por su gusto muere, hasta la muerte la sabe\. Las historias de nuestro México 💀🪦💐
 
-54 songs - 2 hr 54 min - not published yet
+56 songs - 3 hr 1 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Botellas](https://open.spotify.com/track/0yUdVG0iFv8SvQSOBuS0H6) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [100 Botellas](https://open.spotify.com/album/6W2kqjFCv9BbOdD0NSZ8P6) | 3:01 | 2022-10-24 |  |
+| [100 Botellas](https://open.spotify.com/track/0yUdVG0iFv8SvQSOBuS0H6) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [100 Botellas](https://open.spotify.com/album/6W2kqjFCv9BbOdD0NSZ8P6) | 3:01 | 2022-10-24 | 2022-12-10 |
 | [A Mis Enemigos](https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 3:03 | 2022-10-24 |  |
 | [Brindo](https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Brindo](https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ) | 3:02 | 2022-10-24 |  |
 | [Cada Quien](https://open.spotify.com/track/3T6M9C9eOTSeGyDFVbV8uN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:07 | 2022-10-24 |  |
 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 | 2022-10-24 |  |
 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 | 2022-10-24 |  |
 | [Cien Charolas](https://open.spotify.com/track/2SjQ6wfhDn5ozfJK4F5ogi) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:58 | 2022-10-24 |  |
+| [Ciudad Peligrosa](https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ciudad Peligrosa](https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3) | 3:46 | 2022-12-09 |  |
 | [Contrato Con la Muerte \- En Vivo](https://open.spotify.com/track/4g2ypBvuR4k8Th0NbGlqb9) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 4:08 | 2022-10-24 |  |
 | [Cruz De Madera](https://open.spotify.com/track/5c3hK5u7Ffexubtjh02PJW) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Cruz De Madera](https://open.spotify.com/album/2LLv3jXBORYcVgzlsir9HJ) | 2:55 | 2022-10-24 |  |
 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2022-10-24 |  |
@@ -30,7 +31,8 @@
 | [La Despedida](https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Despedida](https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5) | 2:59 | 2022-10-24 |  |
 | [La Gran Pachanga](https://open.spotify.com/track/3vXfJ9iAKPGLfy8G7es3bz) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Más Fuerte Que Nunca](https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX) | 2:47 | 2022-10-24 |  |
 | [La Ley De La Vida](https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 2:55 | 2022-10-24 |  |
-| [La Tambora Va A Sonar](https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:36 | 2022-10-24 |  |
+| [La Tambora Va A Sonar](https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:36 | 2022-10-24 | 2022-12-10 |
+| [La Tambora Va A Sonar](https://open.spotify.com/track/1cp26SwLH6r7mPFvT4KmDP) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 2:39 | 2022-12-09 |  |
 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 | 2022-10-24 |  |
 | [Las Tres Tumbas](https://open.spotify.com/track/0B2KzUIiv3F3ODkhMye2ZV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 3:03 | 2022-10-24 | 2022-11-12 |
 | [Las Tres Tumbas](https://open.spotify.com/track/1jHxbXJ4MPxGZJbq4gvl5N) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [La Historia Del Corrido](https://open.spotify.com/album/7LTYE3QVrARb8p9aiZWhY1) | 3:13 | 2022-10-24 | 2022-11-13 |

@@ -4558,6 +4558,24 @@
     },
     {
       "album": {
+        "name": "Show Me Your God",
+        "url": "https://open.spotify.com/album/3AM7lcG3bkYL8FPtXlhReq"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217127,
+      "name": "Show Me Your God",
+      "url": "https://open.spotify.com/track/049eMbPucZ3Acq6r3aQkvz"
+    },
+    {
+      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/47EbZp22zR6rGhKJJsuZBv"
       },

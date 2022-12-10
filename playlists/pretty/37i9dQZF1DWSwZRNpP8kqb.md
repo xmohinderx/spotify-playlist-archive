@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,840 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,859 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 |
 | 75 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
 
-Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMDUxZjVlNjBlN2NhNzYwNjBjZjY3MjI4NmQ4ZTk4ODk1`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMGY2N2NlZWMxZTU2N2VhMWVkZmVmM2UxYjZlYzRjYjlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,222 likes - 61 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,257 likes - 61 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

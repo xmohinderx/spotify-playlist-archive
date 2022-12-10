@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-104 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
+105 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Harvest](https://open.spotify.com/track/7AlHOgQGvfVRiXMY64pOyn) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Harvest](https://open.spotify.com/album/25LBaQA9rUHkIDoVQK3wje) | 2:42 | 2022-08-05 |  |
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2022-08-05 |  |
 | [Here & Now](https://open.spotify.com/track/0MzwONXcdPaDdsEy1SQwKm) | [Faye Brinkmann](https://open.spotify.com/artist/34THtJSLQbUmVxt5BxcmpC) | [Here & Now](https://open.spotify.com/album/1ZEALWmQkIP4kMFGvBqD4Y) | 3:08 | 2022-08-05 |  |
+| [Independencia](https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Independencia](https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6) | 3:26 | 2022-12-09 |  |
 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 | 2022-11-22 |  |
 | [Invisible Waters](https://open.spotify.com/track/2OtMv9xZ3n9XYJCc4eGDDZ) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Invisible Waters](https://open.spotify.com/album/3xvxpj3ETyaC4g4pASqxm9) | 3:06 | 2022-09-23 |  |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 | 2022-10-01 |
@@ -86,7 +87,7 @@
 | [Slow Comets](https://open.spotify.com/track/3RooVmiw2ZTwu3rnBNAq1f) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [Slow Comets](https://open.spotify.com/album/6KkIHN9fRp96181Q3Y1kV5) | 2:40 | 2022-08-05 |  |
 | [Smyrna](https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0kRViOapDgEc4RvhO4jbXA) | 3:19 | 2022-08-05 |  |
 | [Softly Drift](https://open.spotify.com/track/2zUpfJ2ktCYOjprfIaoLGq) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [Softly Drift](https://open.spotify.com/album/1Z863c5YVm586N8lv6JREG) | 3:15 | 2022-10-08 |  |
-| [Soundscape \- 125 Hz](https://open.spotify.com/track/5aaumNrLeFcJ0BTS23muLa) | [Cha Kra](https://open.spotify.com/artist/1ik6KM5qOycsX1gAX1O5UJ) | [Soundscapes For Meditation And Sleep](https://open.spotify.com/album/20rpIRzKgRuOh0haWlj6fw) | 2:26 | 2022-08-05 |  |
+| [Soundscape \- 125 Hz](https://open.spotify.com/track/5aaumNrLeFcJ0BTS23muLa) | [Cha Kra](https://open.spotify.com/artist/1ik6KM5qOycsX1gAX1O5UJ) | [Soundscapes For Meditation And Sleep](https://open.spotify.com/album/20rpIRzKgRuOh0haWlj6fw) | 2:26 | 2022-08-05 | 2022-12-10 |
 | [Standing Wave](https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Teegarden C](https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR) | 4:08 | 2022-08-05 |  |
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-08-05 |  |
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-08-05 |  |

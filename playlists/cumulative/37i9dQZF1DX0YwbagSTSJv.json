@@ -848,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Evolving",
+        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194919,
+      "name": "Evolving",
+      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
+    },
+    {
+      "album": {
         "name": "\u00c1 Eftir",
         "url": "https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM"
       },
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 185732,
       "name": "Tamashi Journey",
       "url": "https://open.spotify.com/track/3bB0KwVk8ZZi4qzGoWhJ3h"
@@ -2459,6 +2477,24 @@
       "duration_ms": 207250,
       "name": "Where Peaceful Waters Flow",
       "url": "https://open.spotify.com/track/06k0KNOgWngBL962uONmeV"
+    },
+    {
+      "album": {
+        "name": "Winter Night Mist",
+        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193095,
+      "name": "Winter Night Mist",
+      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
     },
     {
       "album": {

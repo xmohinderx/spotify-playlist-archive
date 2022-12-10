@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-369 songs - 19 hr 22 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+371 songs - 19 hr 28 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Bringing Thoughts](https://open.spotify.com/track/727PVueCZnnNs1vx9yYQoP) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Bringing Thoughts](https://open.spotify.com/album/4Qw8APlNksbU0cwqX3L6M8) | 3:20 | 2022-05-26 |  |
 | [Buenas Noches](https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Flowing Strings](https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8) | 4:38 | 2022-05-26 | 2022-11-12 |
 | [Butterfly Effect](https://open.spotify.com/track/6trn8cmiMBsiQGoIZRIsBF) | [Timothy Byrne](https://open.spotify.com/artist/2DGtEENrN5vjB1DXzRaL58) | [Butterfly Effect](https://open.spotify.com/album/21fDm2rbX5Ip7ecxwUdsik) | 3:00 | 2022-05-26 | 2022-11-12 |
+| [By Night](https://open.spotify.com/track/3GUcRSX4iicaUG2K2g4bBH) | [Hain Sona](https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD) | [By Night](https://open.spotify.com/album/0XD64OAteO7YJRXdMfnuKb) | 2:44 | 2022-12-09 |  |
 | [Caelum](https://open.spotify.com/track/3IhzOZvoIivYAzzUEZhIyv) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Caelum](https://open.spotify.com/album/62ccvdP66pR3MYVc4UxjeF) | 3:04 | 2022-05-26 |  |
 | [Calibration of Time](https://open.spotify.com/track/4942rhM8v2rn45GZwNdV1K) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Calibration of Time](https://open.spotify.com/album/6cRk4SEFqjH5vPNTNv78KW) | 3:20 | 2022-05-26 |  |
 | [Calm](https://open.spotify.com/track/3Pcd6tCQ84hbnBDhkIhO4g) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [New Light](https://open.spotify.com/album/5CFrWmXkc0iHtduRrZYgmY) | 3:35 | 2022-05-26 |  |
@@ -128,6 +129,7 @@
 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2022-05-26 |  |
 | [Finding Solitude](https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Finding Solitude](https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7) | 2:33 | 2022-05-26 |  |
 | [Fjords](https://open.spotify.com/track/0un2LnKNOVlm3SOyqM2gTM) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Fjords](https://open.spotify.com/album/0QlljBesjW5xU2bYMz1oux) | 3:33 | 2022-05-26 |  |
+| [Fleeting](https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Illusive](https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71) | 3:01 | 2022-12-09 |  |
 | [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-09-30 |  |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-14 |  |
 | [Flower](https://open.spotify.com/track/3aGgKoB5mIx7L00cPwBHSN) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Analogue Nature](https://open.spotify.com/album/5nw0R73IOsPK4ihhJzYvbV) | 4:38 | 2022-05-26 |  |

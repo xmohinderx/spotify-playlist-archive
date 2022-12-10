@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,555 likes - 31 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,574 likes - 31 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 30 | [Lullaby of the Giants](https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 |
 | 31 | [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBlNjcxZjlmMzRkOTc5NzgxYmYxODUxZTQzYWE1YTNmMQ==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDA3ZWM3OWEwOWMyZWQwMzY1NDczZWZkZmZmZWQxMDMyNg==`

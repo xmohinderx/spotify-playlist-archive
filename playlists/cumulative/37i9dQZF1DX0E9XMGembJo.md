@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-464 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/0vsPFwJnQ8QXKEMwMShfbf)
+466 songs - 1 day 1 hr 41 min - [published](https://open.spotify.com/playlist/0vsPFwJnQ8QXKEMwMShfbf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,8 +244,10 @@
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2021-12-29 | 2022-11-13 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-12-29 |  |
 | [landline](https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [landline](https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op) | 3:03 | 2022-05-13 | 2022-07-29 |
+| [Last Dance](https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i) | [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Last Dance](https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII) | 2:45 | 2022-12-09 |  |
 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 | 2022-03-25 | 2022-04-16 |
 | [Lately](https://open.spotify.com/track/5awvelCGpDQHwgZem0ira9) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Biskwiq](https://open.spotify.com/artist/7J4Pg0NGyrWoMrROYhnlP6), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [Lately](https://open.spotify.com/album/0EnDlVqk7eKzyfJmC24lJH) | 3:27 | 2022-03-25 | 2022-04-15 |
+| [LEMON LIME](https://open.spotify.com/track/1kiQfpmbMrcDO7o9e7GBH6) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [LEMON LIME](https://open.spotify.com/album/4wZ5SnY6NjtiCf4NycJxSZ) | 2:58 | 2022-12-09 |  |
 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 | 2022-05-20 | 2022-05-28 |
 | [Let Me Down](https://open.spotify.com/track/0jk6J6B9ivegJc7dTg10Mp) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 1:51 | 2022-03-28 | 2022-04-20 |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-12-29 | 2022-07-29 |
@@ -398,7 +400,7 @@
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-06-03 |  |
 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2022-04-08 |  |
 | [Sunchyme \- Radio Edit](https://open.spotify.com/track/6Pazx4283O07HkrbONIRGc) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sound of Africa](https://open.spotify.com/album/0BSOb57Yy0GCKHYVdhpdSW) | 3:54 | 2022-03-28 | 2022-04-11 |
-| [Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sundress](https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl) | 2:38 | 2022-04-01 |  |
+| [Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sundress](https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl) | 2:38 | 2022-04-01 | 2022-12-10 |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2022-03-25 | 2022-04-16 |
 | [Sunkissed](https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG) | 2:06 | 2022-03-28 | 2022-04-21 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-12-29 | 2022-07-29 |
@@ -471,6 +473,6 @@
 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 | 2022-03-25 | 2022-04-12 |
 | [Young Blood](https://open.spotify.com/track/6kI6727dievCjaJckIvg0f) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You \(Deluxe Edition\)](https://open.spotify.com/album/4kUEUO4zw6MCCYrVuecTIv) | 4:06 | 2022-03-25 | 2022-04-18 |
 | [Young Folks](https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew) | 4:39 | 2022-03-25 | 2022-04-16 |
-| [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/album/11Bkx3E99vf0IlYPND61LJ) | 3:27 | 2022-03-28 |  |
+| [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/album/11Bkx3E99vf0IlYPND61LJ) | 3:27 | 2022-03-28 | 2022-12-10 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

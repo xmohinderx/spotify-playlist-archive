@@ -2,7 +2,7 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=nNMrzwyiTe2P\_3y00xhTkQ">Maandy </a> and <a href="https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u?si=P\_ibN3lPRXKA12JffrSK0g">Mejja </a>
+> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=6FaHJ3sJRZ\-8aikGhceCow">Boutross </a>
 
 219 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
 

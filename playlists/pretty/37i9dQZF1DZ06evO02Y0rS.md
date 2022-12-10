@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,817 likes - 47 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,831 likes - 47 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 11 | [From You](https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:30 |
 | 12 | [Stay The Same](https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:44 |
 | 13 | [Kerala](https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:57 |
-| 14 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 |
+| 14 | [Antenna](https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 3:32 |
 | 15 | [Tides](https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:46 |
-| 16 | [Antenna](https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 3:32 |
+| 16 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 |
 | 17 | [Bambro Koyo Ganda](https://open.spotify.com/track/5EGJ7e7frJjYja6H4afzoT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 5:02 |
 | 18 | [Kiara](https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:50 |
 | 19 | [Shadows](https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:45 |
 | 20 | [Flutter](https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 4:44 |
 | 21 | [Second Sun](https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:43 |
 | 22 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
-| 23 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 |
+| 23 | [Elysian](https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:02 |
 | 24 | [If You Stayed Over](https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 5:23 |
 | 25 | [Noctuary](https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 5:22 |
 | 26 | [Ghost Ship](https://open.spotify.com/track/3gegbtYGClUcA05vbmI2z5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands Remixed](https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v) | 4:20 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 46 | [Change Down](https://open.spotify.com/track/7eDNiX2DbNo7xhLlgjlGrh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 4:33 |
 | 47 | [Nothing Owed](https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 6:16 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA4MTczNjk1MGRmYzVkZjM3ZDE5NzVjOGRmNzdhNmI5OA==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBiODI2YzZmMmM3YTZjZTMyMDUwMjRjNWM4YmYzYTM0Zg==`

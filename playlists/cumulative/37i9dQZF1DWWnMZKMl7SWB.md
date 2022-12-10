@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-300 songs - 19 hr 26 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+303 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Body Language \- Interpretation](https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ) | 5:00 | 2022-11-11 |  |
 | [Body Language \- Interpretation](https://open.spotify.com/track/2zjDsffctRXJyVLfaxnvWJ) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/01VSZEe3mkHLzNSPMRoAdX) | 5:00 | 2022-04-12 | 2022-11-20 |
 | [Body Language \- Interpretation](https://open.spotify.com/track/6syBFNheQcC5HYt4sh6gkC) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:00 | 2022-04-12 | 2022-07-29 |
+| [Bossa Bem](https://open.spotify.com/track/203h5qdRjnASiE1dOXzEmY) | [The Directionz](https://open.spotify.com/artist/66vdhayY3Ab8VeJUxKQmiR) | [Bossa Bem](https://open.spotify.com/album/2yRNisFBclumNBbUhE4ZXw) | 2:17 | 2022-12-09 |  |
 | [Breather](https://open.spotify.com/track/3EX7o6cJG9jGUJBSOLLKdP) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Pending](https://open.spotify.com/album/2SZomWDmOD84JYTbqJo6PG) | 3:26 | 2022-04-12 |  |
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2022-04-12 |  |
 | [Bunny](https://open.spotify.com/track/0TPI2OKla5SwqlPU2nG4OF) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Bunny](https://open.spotify.com/album/4iGt8DHG73tfq2iNPkT5YS) | 3:34 | 2022-04-12 |  |
@@ -215,6 +216,7 @@
 | [Rock With You](https://open.spotify.com/track/6iqOV7dFoLKI4No4T7XjxO) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD) | [Rock With You](https://open.spotify.com/album/7MjrhOm7aMD96Lg2s46o1O) | 1:24 | 2022-04-12 | 2022-07-29 |
 | [Rock With You](https://open.spotify.com/track/2OZrxq8XMp9iFDgFuIWHfm) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD) | [Rock With You](https://open.spotify.com/album/1iQmYo1Y9CBAsCqj3XHkYn) | 1:24 | 2022-04-12 |  |
 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 | 2022-04-12 |  |
+| [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 | 2022-12-09 |  |
 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 | 2022-04-12 |  |
 | [Rose's Thorn](https://open.spotify.com/track/2hlqCFahLVgdBIbY3yTrAb) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/1L879cRp3hbkvCaMRQ7d1l) | 4:24 | 2022-04-12 | 2022-07-29 |
 | [Runaway](https://open.spotify.com/track/2MfAOSFDDrXMbitZbZoabE) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Runaway](https://open.spotify.com/album/4kyaFX7xMSbCxWl6hv4CeN) | 1:53 | 2022-04-12 |  |
@@ -253,6 +255,7 @@
 | [Still Think](https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Chrome Sparks](https://open.spotify.com/album/5Y0yPA0zZetcpimqsegK1i) | 5:35 | 2022-04-12 |  |
 | [Stumble](https://open.spotify.com/track/3uvALUobqjZvTGAh6737Mb) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Juicy Fruit](https://open.spotify.com/album/7Ih98kmIPJCsXcgrikcmoq) | 4:30 | 2022-04-12 |  |
 | [Sunhat](https://open.spotify.com/track/1coFcVuX3Ws09wptKbIzKE) | [Phil Morison](https://open.spotify.com/artist/6H7RQb4Me099lhkXM3D0e2) | [Sapatos](https://open.spotify.com/album/4glz3ZGCcq49a3qIGIhykp) | 1:41 | 2022-04-12 |  |
+| [sunshine](https://open.spotify.com/track/6PhsEeekyldBPZ55toYDDE) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [sunshine](https://open.spotify.com/album/25DoamTx8yHEhwGQ4nWEIG) | 2:18 | 2022-12-09 |  |
 | [Superbloom](https://open.spotify.com/track/4ztHQlDj5rCNWiSg3DAYWG) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O), [Premes](https://open.spotify.com/artist/1ZbaKBbzutbVyG2GIJH5EI), [Jameson Hodge](https://open.spotify.com/artist/6eoS42oBq9Et9uY0NKYAKs) | [Superbloom](https://open.spotify.com/album/6HU9QXLiiiDHtNpUK8G0dg) | 2:55 | 2022-04-12 |  |
 | [Sweet Berries](https://open.spotify.com/track/4V4NLXR80N6ePJ6UDxez7s) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Sweet Berries](https://open.spotify.com/album/16agYZgs1aCOoAak0kyzZV) | 2:47 | 2022-04-12 |  |
 | [Take Over You \- Perttu Remix](https://open.spotify.com/track/0AJweQJITpq4cOKap791fX) | [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Joey Cass](https://open.spotify.com/artist/2jb5SbSrV4BSAq7Z8Vyrpl), [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Take Over You \(Remixes\)](https://open.spotify.com/album/5IfrRzYOHIQopxh1xhiYDE) | 3:33 | 2022-04-12 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Tem rap nacional e muito boom bap na área\. Foto: Uterço
 
-231 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
+232 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Céu Azul](https://open.spotify.com/track/0S4YjU15ivg0rB9zKYJmND) | [Uterço](https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm) | [Original Marginal Rap](https://open.spotify.com/album/0rOxZJE47FdZnRSL63jpoT) | 4:03 | 2022-12-02 |  |
 | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/track/4HJ1ffUdueDSeblz7wGKJo) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux) | 5:09 | 2022-03-18 | 2022-11-12 |
 | [Daria um Livro](https://open.spotify.com/track/5dv5azooBPx0KFKDirir6e) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Daria um Livro](https://open.spotify.com/album/2bjGcjJylyRHqEDAO5Hy10) | 2:39 | 2022-04-01 | 2022-05-28 |
+| [Deixa Girar](https://open.spotify.com/track/5vS3poJ0YgEYFJuyXzSSaI) | [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW), [Hermes MC](https://open.spotify.com/artist/1Hbs5vIF6Ry4xM3awFcb1h) | [Deixa Girar](https://open.spotify.com/album/4FjIU21YzjyxdjUGD2aMzT) | 3:31 | 2022-12-09 |  |
 | [Depoimento](https://open.spotify.com/track/42p0xuP2D0qSqd7qZr1Or0) | [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG), [Bruno Cunha](https://open.spotify.com/artist/7BRalUBpDkkEu9lbgu05dv) | [Depoimento](https://open.spotify.com/album/1M6ns1RMj8vsHGUjrTbBno) | 2:50 | 2022-07-29 | 2022-08-13 |
 | [Depressão Freestyle](https://open.spotify.com/track/1yeYXm6mMGgo2EVmZ1w39r) | [Bruno Darko](https://open.spotify.com/artist/27jhhOC9dxRGWFhfgVuIjJ), [Neutro](https://open.spotify.com/artist/4IQcaVLkIDtZJlM8cGYuuw) | [Depressão Freestyle](https://open.spotify.com/album/3RHQIpHYgJa7vxbuoqUZQs) | 1:13 | 2022-05-20 | 2022-05-28 |
 | [Desavento](https://open.spotify.com/track/2S44kcVUvjd8xy2ndatosj) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Valada](https://open.spotify.com/artist/54pqoIRMifMNNc69yNzToB) | [Desavento](https://open.spotify.com/album/56ZIX9QNRoqVY1Nb02yDXY) | 3:13 | 2022-07-01 |  |

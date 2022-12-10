@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Argentina en la casa! Foto: Nicki Nicole.
+> Argentina en la casa! Foto: Angela Torres.
 
-147 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
+149 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Dándote](https://open.spotify.com/track/4qjxEKW5hIOhsZ3O584W63) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Dándote](https://open.spotify.com/album/0TMWoq8coUwBzUbSGeijwG) | 3:38 | 2022-05-24 |  |
 | [Dónde Estás](https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/0ZyvU9dSoBua8NOYnAP0x3) | 2:33 | 2022-05-24 |  |
 | [El Freno](https://open.spotify.com/track/4xYY1nKA9XVJgZYJ1ESysM) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [El Freno](https://open.spotify.com/album/6mvuFU08OZXKTNT7C17ALE) | 2:25 | 2022-05-24 |  |
-| [El Maquinon](https://open.spotify.com/track/1NOImFygNaIBUSoL3C6Jnt) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [El Maquinon](https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P) | 2:16 | 2022-05-27 |  |
+| [El Maquinon](https://open.spotify.com/track/1NOImFygNaIBUSoL3C6Jnt) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [El Maquinon](https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P) | 2:16 | 2022-05-27 | 2022-12-10 |
 | [Ella Dice](https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Ella Dice](https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS) | 2:41 | 2022-05-24 | 2022-06-04 |
 | [En la Oscuridad](https://open.spotify.com/track/4OrAAeefsDOdUSfE87C6WR) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 2:53 | 2022-05-24 |  |
 | [Enchuladita](https://open.spotify.com/track/1yr5jqX0NuFvXn27ttb2Hz) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Enchuladita](https://open.spotify.com/album/638ziIBdtwAWjdy3p3arn2) | 2:50 | 2022-08-05 | 2022-08-13 |
@@ -61,7 +61,7 @@
 | [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 | 2022-07-28 | 2022-08-27 |
 | [Hagámoslo de Nuevo](https://open.spotify.com/track/5nqd99eG78DHIFLTKlEW8C) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Hagámoslo de Nuevo](https://open.spotify.com/album/5nZkyesRCLkiCel7T2t681) | 2:05 | 2022-06-17 |  |
 | [HIPÓCRITA](https://open.spotify.com/track/3MzIbS7vJQDqECgY5NbEk9) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [HIPÓCRITA](https://open.spotify.com/album/4YPvY8FTDgGAbkqkn6jU70) | 2:11 | 2022-05-24 | 2022-07-29 |
-| [HIPÓCRITA](https://open.spotify.com/track/3lXc5YpK6Pta0e7LpVb2lf) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [ESTADO CRITICAL](https://open.spotify.com/album/4jEiRYaIUUEjHWvZdTQZVe) | 2:11 | 2022-11-18 |  |
+| [HIPÓCRITA](https://open.spotify.com/track/3lXc5YpK6Pta0e7LpVb2lf) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [ESTADO CRITICAL](https://open.spotify.com/album/4jEiRYaIUUEjHWvZdTQZVe) | 2:11 | 2022-11-18 | 2022-12-10 |
 | [HIPÓCRITA](https://open.spotify.com/track/6NV79c4HHFD43MJlDGFpSQ) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [HIPÓCRITA](https://open.spotify.com/album/6DGtE7wbmpWsvnT0nz8MSz) | 2:11 | 2022-07-28 |  |
 | [Infraganti](https://open.spotify.com/track/25h54oPQAB19qacffSp5wG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Infraganti](https://open.spotify.com/album/0r7CSTbtwcWDFXYYmOPzNo) | 2:44 | 2022-05-24 | 2022-06-11 |
 | [Inseguridades](https://open.spotify.com/track/7LbbirHUrbo8NzKwiT7yOW) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Inseguridades](https://open.spotify.com/album/2ssQJdINLCv9ecZqOuIHk8) | 3:26 | 2022-05-24 |  |
@@ -71,7 +71,9 @@
 | [JUNGLE](https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [JUNGLE](https://open.spotify.com/album/6XromBO32uhidY3LWZORO1) | 2:54 | 2022-05-24 | 2022-11-08 |
 | [Ke No Importe Na](https://open.spotify.com/track/3VwuVG1pdI45jJ7RGps0sn) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Ke No Importe Na](https://open.spotify.com/album/6kehms0cE5sDqL2PF42jJt) | 2:34 | 2022-05-24 | 2022-06-18 |
 | [KILOWA](https://open.spotify.com/track/54acJyeShQSK5DfEdW7J7n) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [KILOWA](https://open.spotify.com/album/1U4rNnGAuoDm01x3kOHnU9) | 2:12 | 2022-05-24 | 2022-05-28 |
+| [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 | 2022-12-09 |  |
 | [KU'](https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [KU'](https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf) | 3:50 | 2022-05-24 |  |
+| [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2022-12-09 |  |
 | [LA PRESIÓN \| E4](https://open.spotify.com/track/02stB512CW9N2RQN1HiTRo) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [LA PRESIÓN \| E4](https://open.spotify.com/album/1w1l7DaGaNLeIyzxErQPwi) | 2:49 | 2022-05-24 | 2022-08-06 |
 | [Ley de Atracción](https://open.spotify.com/track/52PVGjg5sUhfs9PHiSl02c) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Ley de Atracción](https://open.spotify.com/album/3bCHpjpghyFjPfl0l108mF) | 3:00 | 2022-05-24 |  |
 | [Lo Olvidaste](https://open.spotify.com/track/6HQTemjqjKBwDfN8AG16uj) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Lo Olvidaste](https://open.spotify.com/album/3StSMliOF6G8OLYrsPV3Y0) | 2:46 | 2022-05-24 |  |

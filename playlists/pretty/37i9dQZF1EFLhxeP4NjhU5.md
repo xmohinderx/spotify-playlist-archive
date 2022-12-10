@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 821 likes - 159 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 820 likes - 159 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 108 | [360](https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 |
 | 109 | [Si Te Vas Conmigo](https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Si Te Vas Conmigo](https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM) | 2:40 |
 | 110 | [Dame tu amor](https://open.spotify.com/track/580gh01pywO8H2p5atKoQj) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:23 |
-| 111 | [Lamento Tu Perdida](https://open.spotify.com/track/1c47gRjNPik1Y9u9m4ZssL) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 2:41 |
-| 112 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 |
+| 111 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 |
+| 112 | [Lamento Tu Perdida](https://open.spotify.com/track/1c47gRjNPik1Y9u9m4ZssL) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 2:41 |
 | 113 | [Corazón De Metal](https://open.spotify.com/track/0jpOYcaDlWUD1c4IlI2DJX) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [La Movida](https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM) | 3:53 |
 | 114 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
 | 115 | [Amigos Na' Mas](https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 158 | [Rally](https://open.spotify.com/track/0snt078vtq4zd5F1K1zSOF) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:28 |
 | 159 | [La Llevo Al Cielo](https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku) | [Kallde "El Rey Del Placer"](https://open.spotify.com/artist/2KQZ7yr0nr7NphqCy7QHRR) | [La Llevo Al Cielo](https://open.spotify.com/album/0M0ULIaP7cDdO9DpE06JwU) | 3:44 |
 
-Snapshot ID: `Mjc4NDI0NjEsMDAwMDAwMDBmYWZjYjAyOTUyNDYxNjlhOTU1OGU1MDM5OGViNGM1Zg==`
+Snapshot ID: `Mjc4NDM5MDEsMDAwMDAwMDBmMzczYmUwNDYwODVjOGNiYzc4MTBhY2U3MGU2YzAzOQ==`

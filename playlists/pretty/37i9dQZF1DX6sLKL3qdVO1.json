@@ -1,13 +1,49 @@
 {
-  "description": "Lo mejor del reggaet\u00f3n y flow actual con KAROL G en portada.",
-  "num_followers": 506621,
+  "description": "Lo mejor del reggaet\u00f3n y flow actual con Kim Loaiza, DJ Luian, Mambo Kingz, De La Ghetto, Darell, KEVVO en portada.",
+  "num_followers": 509395,
   "original_name": "Dale Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM4OTc1MiwwMDAwMDAwMGJmYTZhYzVjNzZlODhlYTAxZDZmZDQ4ZTgyMzQzZDc3",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDU1YjJiZDEyODY4MTNlMWJlMDU0MTRlN2M4MTY0ZGUy",
   "tracks": [
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Apreton",
+        "url": "https://open.spotify.com/album/3Li9ZLoAyR7PSnJ1YojaFH"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "Apreton",
+      "url": "https://open.spotify.com/track/3bUhvt1PcJVZdliG1XtpXW"
+    },
     {
       "added_at": "2022-11-16 01:00:41",
       "album": {
@@ -203,22 +239,6 @@
       "duration_ms": 163680,
       "name": "REMIX",
       "url": "https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": "2022-10-21 05:00:00",

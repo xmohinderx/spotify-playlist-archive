@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Madd
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,042 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,128 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 3 | [Ken Sasaki](https://open.spotify.com/track/2ZGyInkLMjVOVFJEjVH6sS) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Ken Sasaki](https://open.spotify.com/album/7ntxY7I51IOCNC2POHNGTe) | 3:36 |
 | 4 | [عُمر المُختار](https://open.spotify.com/track/1kTCib48ZJyIp66dgdZS9l) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [عُمر المُختار](https://open.spotify.com/album/4zdv7TVPcXeALi2xOPEOtE) | 2:36 |
 | 5 | [SOY MAROCCINO](https://open.spotify.com/track/51MSCZdV26sXAM2t5BG4iy) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [SOY MAROCCINO](https://open.spotify.com/album/31V8d6Fw3eRsDUU6BpSCLI) | 2:18 |
-| 6 | [KOUN RAJEL](https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [KOUN RAJEL](https://open.spotify.com/album/0oRaXdhsMKLj3h0BPQBuxK) | 3:23 |
-| 7 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 |
-| 8 | [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 |
-| 9 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 |
+| 6 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 |
+| 7 | [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 |
+| 8 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 |
+| 9 | [KOUN RAJEL](https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [KOUN RAJEL](https://open.spotify.com/album/0oRaXdhsMKLj3h0BPQBuxK) | 3:23 |
 | 10 | [Sociopath](https://open.spotify.com/track/0UOGIvX0NKZKFwrvIAwdL9) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Sociopath](https://open.spotify.com/album/7bHaIDfBfqYkEhy361w3yB) | 3:28 |
 | 11 | [Hiphop is dead](https://open.spotify.com/track/08FKkdkbm4FXA0fWLscjJh) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Hiphop is dead](https://open.spotify.com/album/2nPyvcEJof1Xg70FmEOYp2) | 2:47 |
 | 12 | [Faux Départ](https://open.spotify.com/track/26Skmv785i0ql4T3vJHgLe) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Faux Départ](https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM) | 2:45 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 54 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 |
 | 55 | [Flouka](https://open.spotify.com/track/6er3lHDqA1L9IXtf8Nej9g) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Flouka](https://open.spotify.com/album/1z7XskxLNTlVN3fHS1HzuA) | 3:28 |
 
-Snapshot ID: `MTY3MDMxMTQ3MywwMDAwMDAwMDQyZDRhYzA5Y2U0Mzk1NTYwODI1YzIxOTA3ZWE3MTFl`
+Snapshot ID: `MTY3MDU5NDE1MiwwMDAwMDAwMGQ4NDEwNTJlMWI4MDk0ZGRmMzk4MTI3M2ZjZDJkNDFj`

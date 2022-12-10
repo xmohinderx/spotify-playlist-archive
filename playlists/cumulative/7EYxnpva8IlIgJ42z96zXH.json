@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Golden People",
+        "url": "https://open.spotify.com/album/3cBfuYo2EekRF6a5NAb6Rv"
+      },
+      "artists": [
+        {
+          "name": "Adult Art Club",
+          "url": "https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "A Thousand Golden People",
+      "url": "https://open.spotify.com/track/36Oc2jTc0DcCoWXQRur7lA"
+    },
+    {
+      "album": {
         "name": "Acid Worldwide",
         "url": "https://open.spotify.com/album/03ImbfSMNzsOD40ca7nilZ"
       },
@@ -672,6 +690,32 @@
     },
     {
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "album": {
         "name": "The Ringmaster",
         "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
       },
@@ -995,7 +1039,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 162611,
       "name": "Blip",
       "url": "https://open.spotify.com/track/5HvNPQrx34MJKnvoecVLxz"
@@ -2397,7 +2441,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
@@ -3621,7 +3665,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 238085,
       "name": "Forever",
       "url": "https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H"
@@ -4146,6 +4190,46 @@
     },
     {
       "album": {
+        "name": "Guarantees",
+        "url": "https://open.spotify.com/album/0o3iQuYunyNhzwrFUSWjrC"
+      },
+      "artists": [
+        {
+          "name": "Thandi Phoenix",
+          "url": "https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v"
+        },
+        {
+          "name": "Arona Mane",
+          "url": "https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Guarantees",
+      "url": "https://open.spotify.com/track/1HGjOjUOPntNujrvpD0D1k"
+    },
+    {
+      "album": {
+        "name": "hace ejercicios",
+        "url": "https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460813,
+      "name": "hace ejercicios",
+      "url": "https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP"
+    },
+    {
+      "album": {
         "name": "Haiti",
         "url": "https://open.spotify.com/album/1VdAEEIj3XuLSGD5yTW95s"
       },
@@ -4370,6 +4454,28 @@
     },
     {
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
+    },
+    {
+      "album": {
         "name": "Hey Baby (feat. Gia Koka)",
         "url": "https://open.spotify.com/album/0wMS7Uv7zvR9e7xCTqo39u"
       },
@@ -4411,6 +4517,24 @@
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
+    },
+    {
+      "album": {
+        "name": "Higher Than You",
+        "url": "https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "Higher Than You",
+      "url": "https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP"
     },
     {
       "album": {
@@ -4865,7 +4989,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 163200,
       "name": "I'm Too Much",
       "url": "https://open.spotify.com/track/3maIQrrrYfP5QxU9cgm0YZ"
@@ -5030,6 +5154,28 @@
     },
     {
       "album": {
+        "name": "It Was You",
+        "url": "https://open.spotify.com/album/1Rj8NnCRP0ZbWh1JLJV498"
+      },
+      "artists": [
+        {
+          "name": "ZOLLY",
+          "url": "https://open.spotify.com/artist/0R3pc6Lw83AAoBRBnOALxL"
+        },
+        {
+          "name": "Woodes",
+          "url": "https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271475,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/0mj133z9qx9G0r41qIai9U"
+    },
+    {
+      "album": {
         "name": "It's A Killa",
         "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
       },
@@ -5063,7 +5209,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 261333,
       "name": "Jesper",
       "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
@@ -6693,7 +6839,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 255680,
       "name": "My People",
       "url": "https://open.spotify.com/track/4DmsB3oMGtEkMLOEniSsoz"
@@ -8834,6 +8980,28 @@
     },
     {
       "album": {
+        "name": "Shut The Gates",
+        "url": "https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf"
+      },
+      "artists": [
+        {
+          "name": "Joel Fletcher",
+          "url": "https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR"
+        },
+        {
+          "name": "MLBRN",
+          "url": "https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210720,
+      "name": "Shut The Gates",
+      "url": "https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI"
+    },
+    {
+      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
       },
@@ -8977,7 +9145,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 148023,
       "name": "SNAP - Luca Schreiner Remix",
       "url": "https://open.spotify.com/track/318aZ99vbKrMbjQwm6y2E3"
@@ -9693,7 +9861,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 205714,
       "name": "T.Y.S.D. (Throw Your Soul Down)",
       "url": "https://open.spotify.com/track/5NZZsGz86ewqRrnEceof4d"
@@ -9855,6 +10023,28 @@
       "duration_ms": 170982,
       "name": "Teardrops (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC"
+    },
+    {
+      "album": {
+        "name": "Techno Tree",
+        "url": "https://open.spotify.com/album/0V4X0jvLYTkPoL10SUo2ZA"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        },
+        {
+          "name": "Ammara",
+          "url": "https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Techno Tree",
+      "url": "https://open.spotify.com/track/3ayr63CSoS0di3sbH1VCcY"
     },
     {
       "album": {
@@ -11241,7 +11431,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

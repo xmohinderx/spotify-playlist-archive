@@ -5137,6 +5137,10 @@
           "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
         },
         {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
           "name": "Mainstreet",
           "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
@@ -7685,7 +7689,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 173333,
       "name": "Papo de Agustinho",
       "url": "https://open.spotify.com/track/5cCwZJUf8QiCQGnyakhpmF"
@@ -7885,6 +7889,28 @@
       "duration_ms": 186121,
       "name": "penhasco.",
       "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
+    },
+    {
+      "album": {
+        "name": "Perdoou Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Perdoou Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
     },
     {
       "album": {

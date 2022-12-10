@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,136 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,149 likes - 51 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 19 | [THIS IS HOW WE ROCK](https://open.spotify.com/track/3BNlW6QAR8xiONRS0wRmPE) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 |
 | 20 | [雨上がりに咲く花](https://open.spotify.com/track/2riW4PnBZZgy4lNvq5UV76) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:43 |
 | 21 | [BEAUTIFUL DAYS](https://open.spotify.com/track/22wg1cgcSSy8J9goZFXaNg) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 4:16 |
-| 22 | [Little Summer](https://open.spotify.com/track/3VCel9SsPYeZMQvvz0pNQS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 4:00 |
-| 23 | [Born To Be Loud](https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST OF THE BEST](https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3) | 3:54 |
+| 22 | [Born To Be Loud](https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST OF THE BEST](https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3) | 3:54 |
+| 23 | [Little Summer](https://open.spotify.com/track/3VCel9SsPYeZMQvvz0pNQS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 4:00 |
 | 24 | [MIDNIGHT](https://open.spotify.com/track/5KeU7MslMMU4NZcJ2GIJdK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 |
 | 25 | [ジャパニケーション](https://open.spotify.com/track/4izm2Q9AE1hUWQ7RNjR88p) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 2:55 |
 | 26 | [Get over it](https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:36 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 40 | [GLORY](https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:47 |
 | 41 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 |
 | 42 | [La la la...](https://open.spotify.com/track/1wQvj3pThSir8In5NhulMK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 4:04 |
-| 43 | [Be with](https://open.spotify.com/track/15ED6FZUHGy0BbTlv7mYhA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:33 |
-| 44 | [STAR](https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Naked](https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9) | 3:49 |
+| 43 | [STAR](https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Naked](https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9) | 3:49 |
+| 44 | [Be with](https://open.spotify.com/track/15ED6FZUHGy0BbTlv7mYhA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:33 |
 | 45 | [All I Need](https://open.spotify.com/track/0V42vftKrkhKskoASUG13A) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [All I Need](https://open.spotify.com/album/463XqUTaykWu0IW906Ls6j) | 5:07 |
 | 46 | [B\-THE ONE](https://open.spotify.com/track/0fRKHLnHPG8DcO7Gytr4sv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 4:03 |
 | 47 | [Trust your anthem](https://open.spotify.com/track/3DpDfPEqWG3KIz6iaGPaIA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [イマジネーション](https://open.spotify.com/album/7agIWNYo87cjSudbijhzVu) | 2:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 50 | [Hold It, Buster!! 〜Battle of Rap〜](https://open.spotify.com/track/4rdBB2adAtweJmY76Haoxw) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [I Wanna Be...](https://open.spotify.com/album/3ymMxpfCF7NC6aqWktAe7n) | 3:28 |
 | 51 | [君がいた夏](https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:00 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyNmM5Y2E1OThhZTk2Njg1MGEyMjdiMjIwZGNmMjE3OA==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBjZmYzMzYyMWJiMTY4MGQzOGQyMjI4NjdiM2U5YzcwYQ==`

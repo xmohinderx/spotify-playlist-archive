@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Moonshine
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,891 likes - 90 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,940 likes - 90 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Par Terre – A COLORS SHOW](https://open.spotify.com/track/0vm0LYhr2BdhZ3tYFIxeRx) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Par Terre – A COLORS SHOW](https://open.spotify.com/album/1VDtSNMukAMgQbiSrKFQ9X) | 3:30 |
-| 2 | [Vita Nzoto](https://open.spotify.com/track/4mNLvByLESJ18RRSkxuSii) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Love Lokombe](https://open.spotify.com/artist/2BAYGiGYXPrFP9bfday4Ui) | [SMS for Location, Vol\. 5](https://open.spotify.com/album/09qNuueWvc74UyyrqLDTIO) | 4:02 |
+| 2 | [Vita Nzoto](https://open.spotify.com/track/4mNLvByLESJ18RRSkxuSii) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Love Lokombe](https://open.spotify.com/artist/1oiTM6RUjVUAmDXDpbv6ob) | [SMS for Location, Vol\. 5](https://open.spotify.com/album/09qNuueWvc74UyyrqLDTIO) | 4:02 |
 | 3 | [Loi](https://open.spotify.com/track/3ERMjh3EfOWWoLJjcxtpvt) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Loi](https://open.spotify.com/album/3GTtST9Tk2rcDNxV5YFIBy) | 5:35 |
 | 4 | [Sapés comme jamais \(feat\. Niska\) \- Pilule bleue](https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:26 |
 | 5 | [Karolina](https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Mondongo](https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc) | 4:32 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 7 | [Fimbu](https://open.spotify.com/track/44Lba4g6bftsoPiDnM1BJt) | [Felix Wazekwa](https://open.spotify.com/artist/0pzeKLviAxrnJTAUQzaUs3) | [Fimbu](https://open.spotify.com/album/22BBi4bgCd0fPzkijhCmMa) | 3:46 |
 | 8 | [Ndombolo](https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK) | [J.B\. Mpiana](https://open.spotify.com/artist/6ZZMaIylugRJgjP7CAg7DX), [Wenge Musica](https://open.spotify.com/artist/196Mh2yrd4xaNupimhUmpP), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Feux de l'amour](https://open.spotify.com/album/2R1EfXW4P5627Q6qZqxPtF) | 3:22 |
 | 9 | [Mais](https://open.spotify.com/track/4EzTZrPNxui7ovuaCixG3a) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Mais](https://open.spotify.com/album/6SkQeNEaK0TRG2XDclaHUG) | 3:23 |
-| 10 | [Ofele \- Remix](https://open.spotify.com/track/5ov6NSwaKW2uycaad8mIrF) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [MC Azas](https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx) | [Ofele \(Remix\)](https://open.spotify.com/album/2iciVqnrQFBEyWv4BrhIgk) | 5:39 |
+| 10 | [Ofele \- Remix](https://open.spotify.com/track/5ov6NSwaKW2uycaad8mIrF) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Mc Azas](https://open.spotify.com/artist/17N0ZLk7LwYBXT2DsG73KN) | [Ofele \(Remix\)](https://open.spotify.com/album/2iciVqnrQFBEyWv4BrhIgk) | 5:39 |
 | 11 | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/track/5gpFpZOZ67HfKpwjZeQMkf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Charlotte Dipanda](https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL) | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/album/0qLNkh0AwO8ospd87D4jxe) | 7:40 |
 | 12 | [Hypnosia](https://open.spotify.com/track/3y37dGMIG4msr8n8jEcqh2) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [Hypnosia](https://open.spotify.com/album/3US94NljdsVB2HON8Y5YlM) | 3:32 |
 | 13 | [Champion](https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Champion](https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl) | 3:10 |

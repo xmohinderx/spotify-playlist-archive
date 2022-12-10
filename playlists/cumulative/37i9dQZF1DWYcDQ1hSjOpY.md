@@ -4,13 +4,14 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-364 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+365 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A côté de toi](https://open.spotify.com/track/3nQ9IJ1Drf8DsrEebEHPyd) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [A côté de toi](https://open.spotify.com/album/3f5OqGu0sKroc7YImsTxTG) | 3:25 | 2022-02-17 | 2022-06-17 |
 | [A Illa](https://open.spotify.com/track/2VTvUT7mn0fEh39q5yh0KW) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [A Illa](https://open.spotify.com/album/3IEHeEPfmdzzFzTmT2FNWK) | 3:22 | 2021-11-10 |  |
 | [A Neutral Place](https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [A Neutral Place](https://open.spotify.com/album/5gQ1Y7dwVAIWwTwjzZNZho) | 2:49 | 2022-11-11 |  |
+| [A Night Full Of Stars](https://open.spotify.com/track/550zqNehla4IUSDFgMNDYB) | [Soft Voyage](https://open.spotify.com/artist/4FDnFOfVVVFWDNecPIbaYo) | [A Night Full Of Stars](https://open.spotify.com/album/46MohKiyZoPYkMhnQKcbfV) | 3:36 | 2022-12-09 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 |  |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-08-15 |  |
 | [Acending](https://open.spotify.com/track/0gny3oCHB6fKmZ6PoDedRA) | [So Jao](https://open.spotify.com/artist/0ScQmROrSMggRHzVdPIRim) | [Acending](https://open.spotify.com/album/5UTfGuymK5d3VbqMVjh0fh) | 2:54 | 2021-11-10 |  |

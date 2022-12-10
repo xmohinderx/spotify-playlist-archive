@@ -2,9 +2,9 @@
 
 ### [Vivo de Rock](https://open.spotify.com/playlist/37i9dQZF1DWW6E2JpQb9U9)
 
-> Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Rata Blanca
+> Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: La Beriso
 
-266 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
+267 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Faro de los Ahogados](https://open.spotify.com/track/6SmQ9rcEcmcpGdk41EKgWr) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Quebrado Vivo](https://open.spotify.com/album/2obHx8Orxsw1my5N3SrLhY) | 3:35 | 2022-06-24 |  |
 | [Fina Ropa Blanca](https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Don Lucero](https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY) | 5:16 | 2022-04-01 |  |
 | [Flores \(En Vivo Estadio Vélez Sarsfield\)](https://open.spotify.com/track/2YjfvG1TMvqZ5FSo7CYwXK) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Llenos de Historias](https://open.spotify.com/album/09HYPLsnyB05BhvoDY56DE) | 5:17 | 2022-04-01 | 2022-07-25 |
+| [Flores \(Sinfónico en Vivo\)](https://open.spotify.com/track/2V9J0oeYVz2G1DaJqFG75b) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Flores \(Sinfónico en Vivo\)](https://open.spotify.com/album/31CoMLj31zPfI8ApJ2tneP) | 7:32 | 2022-12-09 |  |
 | [Flores \- En Vivo en el Estadio Único](https://open.spotify.com/track/3zLOiFlFq5Wh8qckWyRNqy) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 7:36 | 2022-04-01 |  |
 | [Frágil \- En Vivo](https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Frágil \(En Vivo\)](https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq) | 3:20 | 2022-04-01 |  |
 | [Fuego \- En Vivo](https://open.spotify.com/track/4QCaZtY4jteAcLnGDzdWqJ) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Pepsi Music 2005](https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N) | 4:22 | 2022-04-01 | 2022-07-29 |
@@ -270,7 +271,7 @@
 | [Volando \- Acústico en Vivo](https://open.spotify.com/track/5ba8CYp9PnXs6gISceAzLQ) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Instante Eterno \(acústico en Vivo\)](https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev) | 4:13 | 2022-04-01 |  |
 | [Ya Me da Igual \- En Vivo en el Foro Sol](https://open.spotify.com/track/3tZcIjUEe7HiF2IFYYMjAi) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 2:43 | 2022-04-01 | 2022-11-14 |
 | [Ya No Estás \- En Vivo en el Luna Park](https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:34 | 2022-04-01 |  |
-| [Yendo de la Cama al Living \- En Vivo Teatro Ópera](https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Fabián Von Quintiero](https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG) | [Yendo de la Cama al Living \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc) | 4:58 | 2022-04-01 |  |
+| [Yendo de la Cama al Living \- En Vivo Teatro Ópera](https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Fabián Von Quintiero](https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG) | [Yendo de la Cama al Living \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc) | 4:58 | 2022-04-01 | 2022-12-10 |
 | [Yo Tomo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:46 | 2022-04-01 |  |
 | [¿Por Qué Será Que Dios No Me Quiere? \(En Vivo\)](https://open.spotify.com/track/3ErClfBvCqOTjeUqdrmm2V) | [Indio Solari y los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [¿Por Qué Será Que Dios No Me Quiere? \(En Vivo\)](https://open.spotify.com/album/1w0irouqXrcdR4Wm8SYohd) | 3:56 | 2022-06-10 | 2022-07-25 |
 | [¿Qué Tal? \(En Vivo\)](https://open.spotify.com/track/5L4FkYBqBBcGBhD72rebEh) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en el Teatro Coliseo](https://open.spotify.com/album/4Tm00saalKTLhIz3xL6erW) | 8:07 | 2022-04-01 | 2022-07-25 |

@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Pablo Alborán & Maria Becerra
 
-162 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
+163 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:08 | 2022-01-14 |  |
 | [Después De Ti](https://open.spotify.com/track/7Gyw1SoLPJE5x1yF1ogD5o) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Después De Ti](https://open.spotify.com/album/5F5kLsabAGAACpCMxWS1D9) | 3:18 | 2022-05-20 |  |
 | [Destruyeme](https://open.spotify.com/track/3FnNW86W5Snl5EqdY3FB5L) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Destruyeme](https://open.spotify.com/album/2MqRyypiQ28jI9FKkp1hrs) | 2:46 | 2022-01-14 | 2022-02-12 |
-| [Dolce](https://open.spotify.com/track/37qPzPVOfxSDI7QOF2oZFB) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Ley De Gravedad](https://open.spotify.com/album/21wimzvehpbiBmJS0upDr6) | 2:53 | 2022-03-11 |  |
+| [DOBLE VIDA](https://open.spotify.com/track/0Dhks7VwA1F7baYPVEeo4S) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 3:01 | 2022-12-09 |  |
+| [Dolce](https://open.spotify.com/track/37qPzPVOfxSDI7QOF2oZFB) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Ley De Gravedad](https://open.spotify.com/album/21wimzvehpbiBmJS0upDr6) | 2:53 | 2022-03-11 | 2022-12-10 |
 | [Dos Extraños](https://open.spotify.com/track/0W8RPldmytO1ETl5OnuJjw) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Dos Extraños](https://open.spotify.com/album/1R7O40i07tOHZMcQ2hF3Fk) | 2:47 | 2022-01-14 |  |
 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 | 2022-07-22 |  |
 | [El Amor en Mi Vida](https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [El Amor en Mi Vida](https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1) | 3:42 | 2022-01-14 |  |

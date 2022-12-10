@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,656 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,668 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 23 | [BECØME THE FIRESTØRM](https://open.spotify.com/track/7GvQCTBtBQ5izny7E7AB9v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:59 |
 | 24 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
 | 25 | [Halo](https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 9:02 |
-| 26 | [Imperium](https://open.spotify.com/track/2WK78upCkuvhkJcrHlEEyI) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 6:41 |
-| 27 | [Take My Scars](https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:19 |
+| 26 | [Take My Scars](https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:19 |
+| 27 | [Imperium](https://open.spotify.com/track/2WK78upCkuvhkJcrHlEEyI) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 6:41 |
 | 28 | [Catharsis](https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 6:10 |
 | 29 | [A Thousand Lies](https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 6:13 |
 | 30 | [Bulletproof](https://open.spotify.com/track/3niNvr5rU58SPKdtGeMSJD) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Civil Unrest](https://open.spotify.com/album/42eklVVP8Eosdti7osH01B) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [EXTERØCEPTIØN](https://open.spotify.com/track/3ACe9ZJx9pOUCt8zbAN3Qc) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN \- Bonus Tracks](https://open.spotify.com/album/3wA47rONRTYNzjveZRHNvK) | 4:45 |
 | 50 | [The Burning Red](https://open.spotify.com/track/6I1TUZcHHhcFfI2GNfXcYU) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 6:43 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBhZjViMDViYWMzMDRhMTRlOTE2OWM1YzU5ZTU3MWM2Mg==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA3ZDNmM2NhNTQ5ZjRmZTEyNzBkY2YxNDgwMjRlMTlmOQ==`

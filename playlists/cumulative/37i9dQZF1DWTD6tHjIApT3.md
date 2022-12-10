@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Aimer
 
-942 songs - 2 day 14 hr 4 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+943 songs - 2 day 14 hr 7 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Cecile no Amagasa \(Version II\) \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/0105y2JAjha9xmJi9APSM5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [Mari Iijima \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/0p880y8z907ga4mFt4abRD) | 4:47 | 2022-08-31 | 2022-09-07 |
 | [Center Of My Heart](https://open.spotify.com/track/144WC5yOvEKMFktSe0ivIp) | [YOSHIKA](https://open.spotify.com/artist/1b5Fb9CuKd1OtGrSVjM9pd) | [Center Of My Heart](https://open.spotify.com/album/38dg1OjYJM7AamTL5uUdor) | 4:42 | 2022-06-16 | 2022-06-19 |
 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 | 2022-08-02 | 2022-09-07 |
+| [Chiisana Yume](https://open.spotify.com/track/169bY9djGFRpPcqMMm9hik) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Chiisana Yume](https://open.spotify.com/album/0OWqyw14hYLK0842eXNNLg) | 3:24 | 2022-12-08 |  |
 | [Chiruchirumichiru](https://open.spotify.com/track/3U4ntiketE4EpEP95p6uqO) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [Chiruchirumichiru](https://open.spotify.com/album/4NGeMsqrx0G9Dj3gTx4E5I) | 4:14 | 2022-05-29 | 2022-07-21 |
 | [CHRISTMAS AFTERNOON](https://open.spotify.com/track/62o7GbKYuWcNnEE7rjtnzu) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [With Regard to Christmas](https://open.spotify.com/album/72Ch3T83gNhJV2NEhJ6dkP) | 4:42 | 2022-11-29 | 2022-12-03 |
 | [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-23 |
@@ -786,7 +787,7 @@
 | [宝石](https://open.spotify.com/track/69DHtYlEU4uoclvwTBfaCl) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [宝石](https://open.spotify.com/album/2u2si3GxlUcNZ24WwpDP0f) | 4:10 | 2022-05-29 | 2022-07-23 |
 | [実りの唄](https://open.spotify.com/track/3KbWapIBKYwx2zNraXBRrY) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [実りの唄](https://open.spotify.com/album/2s9LmGF2ACqsc6M2BHSx8r) | 4:46 | 2022-05-31 | 2022-07-21 |
 | [小さな嘘 \-Callin' me\- \(feat\. ひかり\)](https://open.spotify.com/track/31lRhol8b42FFMFAxpotvB) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [小さな嘘 \-Callin' me\- \(feat\. ひかり\)](https://open.spotify.com/album/3skNP2DSlofDefG2aZQiGk) | 3:44 | 2022-07-05 | 2022-07-13 |
-| [小さな夢](https://open.spotify.com/track/5RgAxJOsu3rvHIGPZQAvnJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [小さな夢](https://open.spotify.com/album/3mokMJdxZ0uBCpp0Ndobgu) | 3:24 | 2022-12-08 |  |
+| [小さな夢](https://open.spotify.com/track/5RgAxJOsu3rvHIGPZQAvnJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [小さな夢](https://open.spotify.com/album/3mokMJdxZ0uBCpp0Ndobgu) | 3:24 | 2022-12-08 | 2022-12-10 |
 | [島より](https://open.spotify.com/track/1rFBg0RaUGcJ4YWoYfpoeZ) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [島より](https://open.spotify.com/album/47WtIVWAIBJZl71kWFZE82) | 4:24 | 2022-06-02 | 2022-07-11 |
 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 | 2022-07-26 | 2022-09-07 |
 | [左耳にメロディー](https://open.spotify.com/track/14WVA2xyPGlbIPyz2lmjIP) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Bitter](https://open.spotify.com/album/4jtm7PHVbJRSogfB6VNFOp) | 3:23 | 2022-06-07 | 2022-07-29 |

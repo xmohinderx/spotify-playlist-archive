@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Cover: Banda MS
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,632 likes - 150 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,677 likes - 150 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 68 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 |
 | 69 | [Hawái \- Remix](https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hawái \(Remix\)](https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v) | 3:20 |
 | 70 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
-| 71 | [Caramelo \- Remix](https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:53 |
+| 71 | [Caramelo \- Remix](https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:53 |
 | 72 | [Toda Remix \- Remix](https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Toda Remix](https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618) | 6:07 |
 | 73 | [Morad: Bzrp Music Sessions, Vol\. 47](https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Morad: Bzrp Music Sessions, Vol\. 47](https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR) | 2:57 |
 | 74 | [El Telefono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |

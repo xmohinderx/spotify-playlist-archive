@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Eruca Sativa.
 
-143 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+144 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 | 2022-06-24 |  |
 | [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-06-24 |  |
 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 4:29 | 2022-06-24 |  |
-| [Corazón de Neón](https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [El Último Que Apague la Luz](https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX) | 4:32 | 2022-06-24 |  |
+| [Corazón de Neón](https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [El Último Que Apague la Luz](https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX) | 4:32 | 2022-06-24 | 2022-12-10 |
 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 | 2022-11-18 |  |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-06-24 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 |  |
@@ -63,6 +63,7 @@
 | [Indómito Sentir](https://open.spotify.com/track/0ldljvvUw0ApIcnVdzrupm) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Indómito Sentir](https://open.spotify.com/album/0Cqfl5mK3EmyH2baOd2a7K) | 4:09 | 2022-09-30 |  |
 | [Inmediatez](https://open.spotify.com/track/54lymSICrfTr7Z0UeVPmRY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Germán Daffunchio](https://open.spotify.com/artist/3WFJJl01wqMrNjjiGSOyrJ) | [Inmediatez](https://open.spotify.com/album/6LoA2hbjy7lPdLBh46l2M8) | 3:54 | 2022-06-24 | 2022-07-02 |
 | [Intoxicarme](https://open.spotify.com/track/6d519FJTrTbeaTlG5pXWM9) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Intoxicarme](https://open.spotify.com/album/2pZiZAe9HInht6L56YwIif) | 3:01 | 2022-06-24 |  |
+| [Inventario](https://open.spotify.com/track/5b4nQSv5xOqdkpt1e3N0sq) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Inventario](https://open.spotify.com/album/5V8oEK9q3A3xVVy2zZS2QU) | 2:42 | 2022-12-09 |  |
 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 | 2022-06-24 |  |
 | [Jugando Con Fuego](https://open.spotify.com/track/1Ts0sHzGfkg5VO96NWaqcA) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Jugando Con Fuego](https://open.spotify.com/album/0x3ULeWwEr8zHPRs88rZQh) | 3:12 | 2022-06-24 |  |
 | [Ken Kesey \(scherzo\)](https://open.spotify.com/track/3QdjStCd2S66h1DYU7rO7h) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Ken Kesey \(scherzo\)](https://open.spotify.com/album/77Hia84RuOXF6hQ9YixTul) | 4:30 | 2022-09-30 |  |

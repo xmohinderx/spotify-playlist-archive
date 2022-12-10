@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-159 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
+160 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Birth](https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Birth](https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM) | 2:55 | 2022-05-12 |  |
 | [Blossom \- Studio Edit](https://open.spotify.com/track/21rLyEqEoIGoSHoWcsztUv) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Blossom](https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG) | 3:02 | 2022-01-07 | 2022-08-13 |
 | [Breathe](https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Breathe](https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ) | 3:10 | 2022-09-02 |  |
+| [Breathing Fresh Air \(Meditation\)](https://open.spotify.com/track/2wj2XZSRNcHuqHGgMwbUFe) | [Eli Dylan](https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC) | [Breathing Fresh Air](https://open.spotify.com/album/4J8dh4zW2wYChtJZo8gIrj) | 3:52 | 2022-12-09 |  |
 | [Bring Us Back](https://open.spotify.com/track/59Vt25MOgFp1CkzdRFzMJP) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Bring Us Back](https://open.spotify.com/album/6oUu8OWwS3L9YPYleN2Ofu) | 2:38 | 2022-09-02 |  |
 | [Brotes](https://open.spotify.com/track/6kxKu4HXQetA3Uu0UeAcl1) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Semillero](https://open.spotify.com/album/4wXMtPpipCgbiz8kyYR2dx) | 2:04 | 2022-01-07 | 2022-09-03 |
 | [Callisto](https://open.spotify.com/track/0kDtcfMhgxjM2zSwPypNcd) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Floating Thoughts](https://open.spotify.com/album/47Vq9SMjGvvR4vVBK89sop) | 3:15 | 2022-01-07 |  |
@@ -48,7 +49,7 @@
 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-01-07 | 2022-06-03 |
 | [Finally at Ease](https://open.spotify.com/track/0flbHtYjcLkCTekTMcTbPZ) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Finally at Ease](https://open.spotify.com/album/4vJeu82GObb5iIBvGClsLH) | 3:49 | 2022-01-07 |  |
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2022-10-25 |  |
-| [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-01-07 |  |
+| [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-01-07 | 2022-12-10 |
 | [Fragility](https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Fragility](https://open.spotify.com/album/5xoJiIPUG9kVH5HoQiKRb6) | 2:28 | 2022-01-07 |  |
 | [Gan Duille](https://open.spotify.com/track/1Xs8qLgBD1IeblneE69YsV) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Gan Duille](https://open.spotify.com/album/0tqA8fa838YZ9Ex863r6Yl) | 2:31 | 2022-01-07 |  |
 | [Halving The Compass](https://open.spotify.com/track/54NquOiocazAzjHpqIGGS3) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Eingya](https://open.spotify.com/album/1OF3AnbSDa1ZSEFE7lukTb) | 5:26 | 2022-01-07 | 2022-05-13 |
@@ -56,13 +57,13 @@
 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 | 2022-01-07 |  |
 | [Ida](https://open.spotify.com/track/7GkIuSUwvTdG4JoEI7FeJ8) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Earth Child](https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p) | 4:00 | 2022-01-07 |  |
 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-25 |  |
-| [Japanese Garden](https://open.spotify.com/track/4eV80e6Y5BwkKBfVo9xxJs) | [Norma Prins](https://open.spotify.com/artist/0yog2kmjIunKNTMSafM9Id) | [Japanese Garden](https://open.spotify.com/album/3XYxOEv2KfIJOhHnlOroLc) | 3:39 | 2022-06-02 |  |
+| [Japanese Garden](https://open.spotify.com/track/4eV80e6Y5BwkKBfVo9xxJs) | [Norma Prins](https://open.spotify.com/artist/0yog2kmjIunKNTMSafM9Id) | [Japanese Garden](https://open.spotify.com/album/3XYxOEv2KfIJOhHnlOroLc) | 3:39 | 2022-06-02 | 2022-12-10 |
 | [Journey](https://open.spotify.com/track/5J9uQJFBl1B9rs2NFSR8ng) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Journey](https://open.spotify.com/album/1cg1vzA5QVFBQ73giNEBLZ) | 2:31 | 2022-01-07 |  |
 | [Kimaya](https://open.spotify.com/track/2w7XVdKP6nGduoVdPl0CGR) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Kimaya](https://open.spotify.com/album/1gYcGahpk1csWH2FoUQ2GJ) | 2:40 | 2022-05-12 |  |
-| [Kundalini](https://open.spotify.com/track/0sLaaBl2OPlNJeqvhycUab) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Kundalini](https://open.spotify.com/album/7n2KeDhj36LPnHni9QgkDo) | 2:22 | 2022-01-07 |  |
+| [Kundalini](https://open.spotify.com/track/0sLaaBl2OPlNJeqvhycUab) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Kundalini](https://open.spotify.com/album/7n2KeDhj36LPnHni9QgkDo) | 2:22 | 2022-01-07 | 2022-12-10 |
 | [Kyoto 5 AM](https://open.spotify.com/track/0lJAlB8iVsp6Y99MnTjlu8) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Kyoto 5 AM](https://open.spotify.com/album/1fwFa6VhMpBZpYboapGASG) | 2:34 | 2022-01-07 | 2022-09-03 |
 | [L'ambience](https://open.spotify.com/track/6g1AnzB3B4VUFlXJTzXEUE) | [Deep Zones](https://open.spotify.com/artist/7fwJtNfFJPvvPbY2EKgMbX) | [L'ambience](https://open.spotify.com/album/0eyvpkaCP84vYfRUIY65XO) | 2:46 | 2022-01-07 |  |
-| [Last Forever](https://open.spotify.com/track/6ORmQ1xm70tFaJMfMqeRLv) | [4lienetic](https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk) | [Last Forever](https://open.spotify.com/album/3MVQCQ1Fgdv4FM1JmxBmyS) | 1:24 | 2022-01-07 |  |
+| [Last Forever](https://open.spotify.com/track/6ORmQ1xm70tFaJMfMqeRLv) | [4lienetic](https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk) | [Last Forever](https://open.spotify.com/album/3MVQCQ1Fgdv4FM1JmxBmyS) | 1:24 | 2022-01-07 | 2022-12-10 |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-05-12 |  |
 | [Levitate](https://open.spotify.com/track/4tvw1HmpJfV333GUunASjB) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Levitate](https://open.spotify.com/album/15iFY9yp9b8rfVEsd47HE3) | 3:09 | 2022-06-02 |  |
 | [Like A Picture](https://open.spotify.com/track/73lpNHqKr4JdBIRYjQRi0d) | [Armango Bay](https://open.spotify.com/artist/7AmkawHusvlrAoWr90PZPP) | [Like A Picture](https://open.spotify.com/album/0XloQxOCNUwH5A9cHYoNvY) | 3:03 | 2022-10-25 |  |
@@ -113,7 +114,7 @@
 | [Satsang Lullaby](https://open.spotify.com/track/6P5I0vXLtayAh1AAgSlEiG) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Satsang Lullaby](https://open.spotify.com/album/6zR3kOaWYIZPec7gZDghu5) | 2:11 | 2022-10-25 |  |
 | [Savitri](https://open.spotify.com/track/5vjexs7Iu9LZksyyLAQ1JF) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Savitri](https://open.spotify.com/album/0DoI5SafFqC5cdAw7cxiwT) | 2:53 | 2022-09-22 |  |
 | [Seasons](https://open.spotify.com/track/46CRYu4uW8cuMdCbJPqjYv) | [Gravitons](https://open.spotify.com/artist/2VlCnCbs8J939zLt0dB5RF) | [Seasons](https://open.spotify.com/album/0lcBxYgR4TgnndPYe1uUFI) | 3:06 | 2022-10-25 |  |
-| [secret dream](https://open.spotify.com/track/7nTF2dyXvsPdPVWu9pcz8v) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [secret dream](https://open.spotify.com/album/65pWpFsm37vjl67sIHsZyY) | 2:58 | 2022-06-02 |  |
+| [secret dream](https://open.spotify.com/track/7nTF2dyXvsPdPVWu9pcz8v) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [secret dream](https://open.spotify.com/album/65pWpFsm37vjl67sIHsZyY) | 2:58 | 2022-06-02 | 2022-12-10 |
 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 | 2022-03-02 |  |
 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 | 2022-05-12 |  |
 | [Sensory Perception](https://open.spotify.com/track/0gkpdzAJ3065QgKDO0Nm8x) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [Sensory Perception](https://open.spotify.com/album/4LKuWF3OzhS6dwvN9e0LNs) | 3:05 | 2022-11-25 |  |
@@ -126,9 +127,9 @@
 | [Shoreline Waves](https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:00 | 2022-01-07 |  |
 | [Slumber](https://open.spotify.com/track/3lkhDSz3zcAQ0myoBAcdbX) | [Lerova](https://open.spotify.com/artist/4jwh3HwRmDuTdiUSXkTRUN) | [Slumber](https://open.spotify.com/album/6XwAWXmThYCdy7ecSuMUks) | 2:58 | 2022-10-25 |  |
 | [So Far From Earth](https://open.spotify.com/track/4LUjaGIUsdxaWz5CFtj0u9) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter Two](https://open.spotify.com/album/5aAUw2eurzQtThb2g4dDvr) | 3:09 | 2022-01-07 |  |
-| [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-12 |  |
-| [Solsken](https://open.spotify.com/track/0r14frSgaiYUHdW66ZCDY3) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Solsken](https://open.spotify.com/album/06ZptErgRD4TluQw7ax1wj) | 3:45 | 2022-06-02 |  |
-| [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 | 2022-08-12 |  |
+| [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-12 | 2022-12-10 |
+| [Solsken](https://open.spotify.com/track/0r14frSgaiYUHdW66ZCDY3) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Solsken](https://open.spotify.com/album/06ZptErgRD4TluQw7ax1wj) | 3:45 | 2022-06-02 | 2022-12-10 |
+| [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 | 2022-08-12 | 2022-12-10 |
 | [Spring Flower](https://open.spotify.com/track/6wPoL3OrhS8NOOwWk9F7QW) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Spring Flower](https://open.spotify.com/album/2E3hwDKb2jqMrS3oMqAyZp) | 3:00 | 2022-09-22 |  |
 | [Stavselet](https://open.spotify.com/track/7tI2DDr0bxmGendIMcv7zk) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Gimdalen](https://open.spotify.com/album/5KiyJPS3ZdCt1yCQh80pdE) | 3:07 | 2022-01-07 |  |
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-01-07 |  |
@@ -160,12 +161,12 @@
 | [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 | 2022-08-12 |  |
 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 | 2022-01-07 |  |
 | [Whalus](https://open.spotify.com/track/0SpMQOXBNSSrFD0n7xIxL4) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Whalus](https://open.spotify.com/album/0hlEqr684mPySDKXqmON9w) | 1:51 | 2022-03-02 |  |
-| [Whole Again \- Yoga Version](https://open.spotify.com/track/1fdHVkA2KhOYjxBF7BUSle) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 3:19 | 2022-01-07 |  |
+| [Whole Again \- Yoga Version](https://open.spotify.com/track/1fdHVkA2KhOYjxBF7BUSle) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 3:19 | 2022-01-07 | 2022-12-10 |
 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 | 2022-11-25 |  |
 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 | 2022-01-07 |  |
 | [Zazen](https://open.spotify.com/track/3FkzIRfHSwD7BWfIsFDf7d) | [Isolde Mayer](https://open.spotify.com/artist/1hNufH9KnMW35douay0AoY) | [Zazen](https://open.spotify.com/album/7D6hFUf2mYOrtwT0ARzK6T) | 2:57 | 2022-05-12 |  |
-| [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 | 2022-07-29 |  |
-| [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 | 2022-01-07 |  |
+| [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 | 2022-07-29 | 2022-12-10 |
+| [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 | 2022-01-07 | 2022-12-10 |
 | [हीलिंग संगीत](https://open.spotify.com/track/42OSQ6hAF9tviEK9IfU0uJ) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [हीलिंग संगीत](https://open.spotify.com/album/3B32SEiXthq0sp3WLuxrKj) | 2:46 | 2022-01-07 | 2022-06-03 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

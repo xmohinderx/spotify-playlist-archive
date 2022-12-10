@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > 'Frizzell D'souza' is on the cover of IndiEnglish\. Stream now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,776 likes - 98 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,797 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 94 | [Angel](https://open.spotify.com/track/3fiJON79NQ5PfWniQ6EK3i) | [Prabhtoj Singh](https://open.spotify.com/artist/78XtO5iHFCF6gSqWV18AWA), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Angel](https://open.spotify.com/album/0TbvqQkBA8c5zrkpXNOn7G) | 3:06 |
 | 95 | [Hello and Goodbye](https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Hello and Goodbye](https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt) | 3:09 |
 | 96 | [Permanent Food](https://open.spotify.com/track/2tt1Q2eYTrMl7fhfPqOGlG) | [Shantanu Pandit](https://open.spotify.com/artist/0s6UCPuypDgqfdqp0bypNG) | [Permanent Food](https://open.spotify.com/album/4mwKW9CZbncuZCitTBQbRc) | 2:34 |
-| 97 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 |
-| 98 | [A Shot of Alcohol](https://open.spotify.com/track/5RjOdVrGkXEo1hEaAlHgq4) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Prateek Kuhad](https://open.spotify.com/album/2XgppkF85xmQ2zCUqpuCjb) | 2:48 |
+| 97 | [Silent Prayer](https://open.spotify.com/track/5lKBXAO6zCWyh4FAWrrUpM) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Silent Prayer](https://open.spotify.com/album/5tHYe6Y8ppgg0S4hFOlccW) | 3:30 |
+| 98 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 |
+| 99 | [A Shot of Alcohol](https://open.spotify.com/track/5RjOdVrGkXEo1hEaAlHgq4) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Prateek Kuhad](https://open.spotify.com/album/2XgppkF85xmQ2zCUqpuCjb) | 2:48 |
 
-Snapshot ID: `MTY2OTk4NjYwMCwwMDAwMDAwMDE4ZDZhNjNhOWU3ZGFiYWJlY2VkNDdlYmYwZTcyNWJm`
+Snapshot ID: `MTY3MDU4NTE0OCwwMDAwMDAwMDlmY2Q4MWM4NzQ3ZDEwZWE3YTAwN2JmY2U1OTUxMzE5`

@@ -1878,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "Mammoth WVH (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4JbHzfL3iwGrbYVOClW0n9"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260131,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4vSnZR2POAHKIbE7B362Wd"
+    },
+    {
+      "album": {
         "name": "Gotta Let It Go",
         "url": "https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb"
       },
@@ -3633,7 +3651,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 179200,
       "name": "Self Doubt",
       "url": "https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J"

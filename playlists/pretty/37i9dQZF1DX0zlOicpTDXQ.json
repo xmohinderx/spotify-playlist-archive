@@ -1,12 +1,12 @@
 {
   "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent. Cover: Lindsay Lohan in Falling for Christmas. \n",
-  "num_followers": 1523,
+  "num_followers": 1565,
   "original_name": "Netflix Holidays Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE0ODg2NSwwMDAwMDAwMDA4MTk5ZDUyMjQ2YWM0Mjg0Mzk3YTNlMjM2YTVlMzc2",
+  "snapshot_id": "MTY3MDYyOTIxNywwMDAwMDAwMDA4MmE5OGIzYmEyNGI3ZDQwNTA5M2Y2ODIxMTZmNTgz",
   "tracks": [
     {
       "added_at": "2022-11-18 00:01:06",
@@ -191,6 +191,22 @@
       "duration_ms": 193920,
       "name": "Angels from the Realms of Glory (from the Netflix Film A Castle For Christmas)",
       "url": "https://open.spotify.com/track/5QB64gwD8o0JKMLKPKSp2c"
+    },
+    {
+      "added_at": "2022-12-09 23:40:17",
+      "album": {
+        "name": "Noche de \u00bfpaz? (from the Netflix Film \"Reviviendo la Navidad\")",
+        "url": "https://open.spotify.com/album/7KCzMJ14PhDEhjvzGDCTjz"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 126635,
+      "name": "Noche de \u00bfpaz? (from the Netflix Film \"Reviviendo la Navidad\")",
+      "url": "https://open.spotify.com/track/6Mi7pOAGx8wkCHeu7dmerb"
     },
     {
       "added_at": "2022-11-18 00:01:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: Aimer
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,292 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,341 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 12 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 |
 | 13 | [1DK](https://open.spotify.com/track/7gFEJepDJQozYYVJDHaLjw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [1DK](https://open.spotify.com/album/0JVSlC0WdDSj97rtfHqyjd) | 4:08 |
 | 14 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 |
-| 15 | [小さな夢](https://open.spotify.com/track/5RgAxJOsu3rvHIGPZQAvnJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [小さな夢](https://open.spotify.com/album/3mokMJdxZ0uBCpp0Ndobgu) | 3:24 |
+| 15 | [Chiisana Yume](https://open.spotify.com/track/169bY9djGFRpPcqMMm9hik) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Chiisana Yume](https://open.spotify.com/album/0OWqyw14hYLK0842eXNNLg) | 3:24 |
 | 16 | [花](https://open.spotify.com/track/44OxrvlXzAao1iIASR8I5j) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [花](https://open.spotify.com/album/3sho9cirh8faBkktavxD18) | 4:52 |
 | 17 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 |
 | 18 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [懐かしい未来](https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [懐かしい未来](https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op) | 4:33 |
 | 100 | [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 |
 
-Snapshot ID: `MTY3MDUxMTYwMCwwMDAwMDAwMDBlZDNlZjE3NDE4NDBhNzNiNzJkMWQ0NDVhNGUwYjJl`
+Snapshot ID: `MTY3MDUxMTYwMCwwMDAwMDAwMDVhNDljMTZkYjkwMjY5MTE2NTQzMWMyODBlZTRmNzNm`

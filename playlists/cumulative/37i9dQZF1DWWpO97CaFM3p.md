@@ -4,7 +4,7 @@
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-257 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/2lKUPKpOcgpoeFy7kKdAMO)
+258 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/2lKUPKpOcgpoeFy7kKdAMO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Breathe Again \- Acoustic](https://open.spotify.com/track/4i7kl1EAd9zgYsJ2wcCD0M) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again \(Acoustic\)](https://open.spotify.com/album/22x38hY6zx2WhTpobtRVk1) | 3:18 | 2021-12-17 | 2022-07-29 |
 | [Call Me When You Land](https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Call Me When You Land](https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D) | 4:47 | 2022-05-25 |  |
 | [Call Me When You Land](https://open.spotify.com/track/4oRgpwXGPigjcEkp0mPgad) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Call Me When You Land](https://open.spotify.com/album/30CoHXRDdptOwXzGvct7Cp) | 4:47 | 2021-12-17 | 2022-07-29 |
-| [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 | 2022-05-25 |  |
+| [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 | 2022-05-25 | 2022-12-10 |
 | [Cattails](https://open.spotify.com/track/623gFZ4VYa2EDu1D1sWFm0) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p) | 4:05 | 2022-04-01 | 2022-04-21 |
 | [chance with you](https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 3:35 | 2022-04-01 | 2022-04-15 |
 | [change](https://open.spotify.com/track/0EvDzKDIwY5NkYWxzsOy3P) | [elkyn](https://open.spotify.com/artist/5qlnbZjig0IqfxA0qGRwpM) | [holy spirit social club](https://open.spotify.com/album/5YMex9qqYgeG2xPvcyaxyx) | 3:06 | 2022-04-01 | 2022-04-21 |
@@ -92,6 +92,7 @@
 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 | 2021-12-17 | 2022-07-29 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-04-01 |  |
 | [Home](https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Stop Stealing The Covers!](https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah) | 3:17 | 2022-04-01 |  |
+| [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 | 2022-12-09 |  |
 | [Honest](https://open.spotify.com/track/5a96KdnfSUrqIURvskDO5j) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Honest](https://open.spotify.com/album/5yJM5nvvLYF6gw1pF1fveP) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 | 2022-05-25 |  |
 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 | 2021-12-17 | 2022-07-29 |

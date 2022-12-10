@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Kany Garc\u00eda & Christian Nodal. ",
+  "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Tokischa & Natanael Cano",
   "name": "Internacional Mexicano",
   "published_playlist_ids": [
     "6afbS8jMGP22mlmpnwyCdP"
@@ -704,6 +704,28 @@
     },
     {
       "album": {
+        "name": "Kilos de Amor",
+        "url": "https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236267,
+      "name": "Kilos de Amor",
+      "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
+    },
+    {
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -935,7 +957,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 182280,
       "name": "No Lo Vi Venir",
       "url": "https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9"

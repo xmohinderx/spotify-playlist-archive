@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,328 likes - 21 songs - 1 hr 2 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,326 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Drunk in the Bathtub](https://open.spotify.com/track/1EFfOdupn1DbhX9WLP5efs) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Drunk in the Bathtub](https://open.spotify.com/album/7sbfuEc5X1TwieMFPRXn6t) | 2:46 |
-| 2 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 |
-| 3 | [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 |
-| 4 | [shade of blue \(feat\. Rxseboy, Tia Tia & Shalfi\)](https://open.spotify.com/track/11JLypXfGVfs314vav1JAB) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS), [Shalfi](https://open.spotify.com/artist/6HJqFsXnlWehSwPu6s4BAO) | [surrounded by hounds and serpents](https://open.spotify.com/album/5iFPxq21dVb6E7RFjBSYvG) | 2:28 |
-| 5 | [Traketeando \- En Vivo](https://open.spotify.com/track/6hKJLUCgTWYt989CLMbxOW) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [Traketeando \(En Vivo\)](https://open.spotify.com/album/2L0MqXft3PsJGmM8kuOrTL) | 3:02 |
-| 6 | [On Us](https://open.spotify.com/track/0uj17ZkKn1tqdfqFhmDOHh) | [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Bittersweet](https://open.spotify.com/album/0vQJpDV6ic02Vj6wtV7dKU) | 3:16 |
-| 7 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 |
-| 8 | [Oh Well](https://open.spotify.com/track/5IWF1FzZAKzYvoHHTyjH7b) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Oh Well](https://open.spotify.com/album/5bRDCBv1CwFm1T9lbaitXe) | 2:15 |
+| 1 | [Girl Like Me](https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Girl Like Me](https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv) | 2:29 |
+| 2 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 |
+| 3 | [Get Money \(feat\. Polo G\)](https://open.spotify.com/track/2lCksaXDjYoYBiBtODuNFG) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Help Is On The Way](https://open.spotify.com/album/7JNS0SjmLodxUxHJ1SJvhn) | 2:32 |
+| 4 | [COOK UP](https://open.spotify.com/track/2yUAogxEgxEHBGG3zw57x9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [COOK UP](https://open.spotify.com/album/1DiX91mf1oiNuLmtJWYYqi) | 2:09 |
+| 5 | [happy f\*\*\*ing birthday](https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [happy f\*\*\*ing birthday](https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR) | 3:06 |
+| 6 | [Better Tomorrows](https://open.spotify.com/track/0QeLd5hzvG0k3gS0uml6Eb) | [Ewan McGregor](https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1) | [Guillermo del Toro's Pinocchio \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/7GQqZap38LT44AcbZriYqt) | 4:16 |
+| 7 | [unless you leave](https://open.spotify.com/track/5q0HdkRYhJlVI8Ep3Bfv2i) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [unless you leave](https://open.spotify.com/album/0lPd9kfr60CDR9OS50Eefe) | 3:24 |
+| 8 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 |
 | 9 | [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 |
 | 10 | [Turn Back the Hands of Time](https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 3:07 |
 | 11 | [highway 95](https://open.spotify.com/track/2E4INiVkDRBXXkFL4kB1Vk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 1:31 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 20 | [Sunroof \(feat\. Thomas Rhett\)](https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Sunroof \(Remixes\)](https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj) | 2:43 |
 | 21 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 |
 
-Snapshot ID: `NTc5MixhOWNhYjRkNTUxMDIwZjhmMWUzZTUxMmNiZTZjMWUyZGNiODZiMWU5`
+Snapshot ID: `NTgxMSxlNmMyZjhmN2NiNTMxMjIxZjg3YzFkZDRkNzFlZjAyMjhmNGQ1MTlk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Kay9ine
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,076 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,129 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 87 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
 | 88 | [Losing Interest](https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp) | [Kstan](https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i), [WiTTZ SG](https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx) | [Losing Interest](https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq) | 2:39 |
 | 89 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
-| 90 | [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 |
-| 91 | [No Emotions](https://open.spotify.com/track/5iSCp2kkb7UzpZavOMXhbA) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ) | 2:50 |
-| 92 | [Derby To Moston](https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Derby To Moston](https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO) | 3:02 |
-| 93 | [No Pain](https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [No Pain](https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ) | 2:43 |
+| 90 | [No Emotions](https://open.spotify.com/track/5iSCp2kkb7UzpZavOMXhbA) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ) | 2:50 |
+| 91 | [Derby To Moston](https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Derby To Moston](https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO) | 3:02 |
+| 92 | [No Pain](https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [No Pain](https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ) | 2:43 |
+| 93 | [Take The Risk](https://open.spotify.com/track/0awuE0LPZZUnlNyfS3KH0B) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/3GtwsJ6W6K5YhhmhSFvjET) | 3:20 |
 | 94 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
 | 95 | [High On Love](https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High On Love](https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo) | 3:01 |
 | 96 | [Married To Music](https://open.spotify.com/track/0BzkXAdyJcycv5eij2YzaQ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Married To Music](https://open.spotify.com/album/7fbKdr059ApFzZFVgH3Z9v) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Meaning Of Love](https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Recovery](https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0) | 3:27 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MTY1OTQ1NDk0OCwwMDAwMDAwMGE2MGEzY2I2MzJmMzg1ODkwYzkyYzQ4MTY0NDBhNzRm`
+Snapshot ID: `MTY1OTQ1NDk0OCwwMDAwMDAwMGQzNjcwYmE0YWYyMDJhOTA1YjA1NjUzOWViNDc1OTEw`

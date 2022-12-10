@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,063 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,127 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 41 | [Hot, Blue and Righteous \- 2006 Remaster](https://open.spotify.com/track/0tH43q9uOXKh1shZCs53DP) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:17 |
 | 42 | [Mexican Blackbird \- 2005 Remaster](https://open.spotify.com/track/7rbm9b3fLOKCCBqNFVdkWV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 3:05 |
 | 43 | [Rhythmeen](https://open.spotify.com/track/0ENGJrM4g0kODzoWGHjqOr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 3:52 |
-| 44 | [Dipping Low \(In the Lap of Luxury\)](https://open.spotify.com/track/4m4XQfjhxm5lV7AT38aeK1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:11 |
-| 45 | [I Thank You](https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 3:24 |
+| 44 | [I Thank You](https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 3:24 |
+| 45 | [Dipping Low \(In the Lap of Luxury\)](https://open.spotify.com/track/4m4XQfjhxm5lV7AT38aeK1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:11 |
 | 46 | [Nasty Dogs and Funky Kings \- 2005 Remaster](https://open.spotify.com/track/2nOkKjTkLvKeebQEHUB3Hi) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:42 |
 | 47 | [What's Up With That](https://open.spotify.com/track/1vZ3oSRyLRC4JOZ0S8j7G3) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 5:21 |
-| 48 | [Woke up with Wood](https://open.spotify.com/track/5DAWFvcrsfMOkLwGvxLcjG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:45 |
-| 49 | [Consumption](https://open.spotify.com/track/2WtcpnIJRKuzrOA9BRzaEt) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 3:47 |
+| 48 | [Consumption](https://open.spotify.com/track/2WtcpnIJRKuzrOA9BRzaEt) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 3:47 |
+| 49 | [Woke up with Wood](https://open.spotify.com/track/5DAWFvcrsfMOkLwGvxLcjG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:45 |
 | 50 | [Jailhouse Rock \- 2005 Remaster](https://open.spotify.com/track/1MRidycoVNBWpBTOkD84rX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 1:55 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDBjNTI5Zjk3YmNmNDFiZjhiOTZkMjM5MGQ5NWMyNzE2ZA==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDAxZTFlMThlY2U3NTYzYjYwNTQyOGUzZjI3MTdkOWQxMA==`

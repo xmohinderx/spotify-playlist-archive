@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Dr. Dre",
-  "num_followers": 60807,
+  "num_followers": 60839,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMDFkNWUxMGRlMDk2OTM1MzgxMTAyYmM5YjFmNGUwM2U1",
+  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMDI3NjE4NTg3MzVlMWViMGU3Yzc1NmE2NjE1ZDIxYzI3",
   "tracks": [
     {
       "added_at": "2022-02-11 14:10:03",
@@ -341,26 +341,6 @@
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
-      "added_at": "2020-01-31 17:44:55",
-      "album": {
-        "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-        "url": "https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
-    },
-    {
       "added_at": "2022-02-11 14:10:03",
       "album": {
         "name": "Another Level",
@@ -457,22 +437,6 @@
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
-    },
-    {
       "added_at": "2018-01-30 18:06:42",
       "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
@@ -489,6 +453,22 @@
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+    },
+    {
       "added_at": "2022-02-11 14:10:03",
       "album": {
         "name": "No More Drama",
@@ -503,6 +483,26 @@
       "duration_ms": 265866,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+    },
+    {
+      "added_at": "2020-01-31 17:44:55",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
     },
     {
       "added_at": "2022-02-11 14:10:03",
@@ -541,24 +541,24 @@
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
-      "added_at": "2020-01-31 17:44:55",
+      "added_at": "2022-02-11 14:10:03",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Chantaje (feat. Maluma)",
-      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
     },
     {
       "added_at": "2018-01-30 18:06:42",
@@ -591,26 +591,6 @@
       "duration_ms": 259453,
       "name": "She Will Be Loved - Radio Mix",
       "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
-    },
-    {
-      "added_at": "2022-02-11 14:10:03",
-      "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Drop It Like It's Hot",
-      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
     },
     {
       "added_at": "2018-01-30 18:06:42",
@@ -881,22 +861,6 @@
       "url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
     },
     {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
       "added_at": "2018-01-30 18:06:42",
       "album": {
         "name": "One Of The Boys",
@@ -911,6 +875,38 @@
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2020-01-31 17:44:55",
@@ -943,22 +939,6 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1121,6 +1101,22 @@
       "url": "https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI"
     },
     {
+      "added_at": "2018-01-30 18:06:42",
+      "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
       "added_at": "2020-01-31 18:41:40",
       "album": {
         "name": "The Saga Continues...",
@@ -1143,22 +1139,6 @@
       "duration_ms": 253066,
       "name": "Bad Boy for Life",
       "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
-    },
-    {
-      "added_at": "2018-01-30 18:06:42",
-      "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1209,6 +1189,30 @@
       "url": "https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"
     },
     {
+      "added_at": "2018-01-30 18:06:42",
+      "album": {
+        "name": "The Cookbook",
+        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "duration_ms": 226863,
+      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
+    },
+    {
       "added_at": "2020-01-31 18:41:40",
       "album": {
         "name": "Heat Wave",
@@ -1255,30 +1259,6 @@
       "duration_ms": 257866,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg"
-    },
-    {
-      "added_at": "2018-01-30 18:06:42",
-      "album": {
-        "name": "The Cookbook",
-        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
-        }
-      ],
-      "duration_ms": 226863,
-      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
-      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1497,6 +1477,42 @@
       "url": "https://open.spotify.com/track/5QizJ1IfhrJemVys14KlJF"
     },
     {
+      "added_at": "2020-01-31 17:44:55",
+      "album": {
+        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
+        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Best Of Number Ones",
+        "url": "https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg"
+    },
+    {
       "added_at": "2020-01-31 18:41:40",
       "album": {
         "name": "Greatest Hits 1990-1992",
@@ -1559,22 +1575,6 @@
       "duration_ms": 287733,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5MSC1blxmqpS2PZ6YVN1GB"
-    },
-    {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
-        "name": "Best Of Number Ones",
-        "url": "https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1645,20 +1645,24 @@
       "url": "https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i"
     },
     {
-      "added_at": "2020-01-31 18:41:40",
+      "added_at": "2022-02-11 14:10:03",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/1TVVVSbdBRF6KtffVu0p2g"
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 276893,
-      "name": "Live For Loving You",
-      "url": "https://open.spotify.com/track/6eT8JIrp1I3N6UfzXSnFhU"
+      "duration_ms": 238466,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X"
     }
   ],
   "unique_name": "Halftime Hits",

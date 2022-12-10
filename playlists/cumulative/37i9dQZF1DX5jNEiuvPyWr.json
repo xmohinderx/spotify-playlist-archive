@@ -1644,6 +1644,24 @@
     },
     {
       "album": {
+        "name": "Paradis Bleu",
+        "url": "https://open.spotify.com/album/2KDfg8dRxwo3Y6506NqCtZ"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197032,
+      "name": "Paradis Bleu",
+      "url": "https://open.spotify.com/track/6d2q14a2wY6HUeLApYLdoo"
+    },
+    {
+      "album": {
         "name": "PARADOXE",
         "url": "https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh"
       },

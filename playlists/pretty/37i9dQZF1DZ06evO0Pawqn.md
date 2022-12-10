@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,652 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,658 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 9 | [Nosotros Tambien Podemos](https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:30 |
 | 10 | [Quisiera Amarte Menos](https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:36 |
 | 11 | [Renunciacion](https://open.spotify.com/track/5C5rat4IzxN0DbEW0Lp6Hu) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:38 |
-| 12 | [Arrepiéntete](https://open.spotify.com/track/0qe27hcrq0TrMt83uYpTIs) | [Rojo Tabaco](https://open.spotify.com/artist/5xoyjz868s9vDfGyJkVRRN), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Arrepiéntete](https://open.spotify.com/album/2U45ybea0lPaBgJCvKSNEf) | 2:55 |
-| 13 | [Matame a Besos](https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tiranos del Norte](https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf) | 3:17 |
+| 12 | [Matame a Besos](https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tiranos del Norte](https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf) | 3:17 |
+| 13 | [Arrepiéntete](https://open.spotify.com/track/0qe27hcrq0TrMt83uYpTIs) | [Rojo Tabaco](https://open.spotify.com/artist/5xoyjz868s9vDfGyJkVRRN), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Arrepiéntete](https://open.spotify.com/album/2U45ybea0lPaBgJCvKSNEf) | 2:55 |
 | 14 | [Mil Noches](https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:23 |
 | 15 | [Hermosa Tirana](https://open.spotify.com/track/42jgtQjhL2Qu5nbZKUSO7Q) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:52 |
 | 16 | [Arrepientete](https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 |
 | 50 | [Mujer de Cabaret](https://open.spotify.com/track/4VVUDVHPWN4xH3scjU465w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Relampagueando](https://open.spotify.com/album/5HLgQtnZbcqiT59ktqtWae) | 2:48 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAwNWM0ZTQ3N2RhZTgzNDQ0MTQ3ZGY5MGQ1ZGFjNWVmMQ==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBjNGUzNDM0ZDJkNzkzODEwYzg0N2ZhYTE3ZDc3Mjg1NA==`

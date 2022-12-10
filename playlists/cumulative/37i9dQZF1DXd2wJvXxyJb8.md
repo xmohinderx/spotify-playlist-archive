@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> i only speak pru pru pru pru pru my friend🇧🇷🇧🇷🇧🇷🇧🇷
+> brazil i'm devasted
 
 185 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 

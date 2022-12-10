@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > IYKYK 💔🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,346 likes - 120 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,675 likes - 120 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

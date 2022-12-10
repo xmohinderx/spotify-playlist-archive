@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,434 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,552 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 99 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/album/2DWRIlo1R10apEYqCk2fK7) | 3:12 |
 | 100 | [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 |
 
-Snapshot ID: `MTY3MDQ4NDY4MiwwMDAwMDAwMGZlYjkwOWM5ZDRmN2QyMzAzMTE4NzM3ZjNlZDA3MjVm`
+Snapshot ID: `MTY3MDU3NDAyNCwwMDAwMDAwMDFhYjY2NmNkMDViMTIyYjBiMGNlNzMzMDJjZDM2MzYw`

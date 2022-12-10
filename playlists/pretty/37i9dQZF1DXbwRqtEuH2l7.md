@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 
 > Long and constant \- lose yourself in the sustain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,670 likes - 120 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,721 likes - 120 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

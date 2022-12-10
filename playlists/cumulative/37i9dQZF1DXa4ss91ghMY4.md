@@ -4,7 +4,7 @@
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-484 songs - 1 day 0 hr 52 min - [published](https://open.spotify.com/playlist/5yfnaPkFyTj76hzrAjgLmZ)
+485 songs - 1 day 0 hr 55 min - [published](https://open.spotify.com/playlist/5yfnaPkFyTj76hzrAjgLmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Most People](https://open.spotify.com/track/1KCon9P4bPjLGFBGyTLt6f) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Most People](https://open.spotify.com/album/2XQR2HRnaF8F7NnTGVpWTt) | 2:21 | 2022-03-25 | 2022-04-18 |
 | [Mother](https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Mother](https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT) | 2:42 | 2022-03-25 | 2022-04-13 |
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG) | 4:37 | 2022-04-04 | 2022-04-19 |
+| [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-12-09 |  |
 | [My 100](https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [My 100](https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm) | 2:53 | 2022-03-25 | 2022-04-17 |
 | [my ex's best friend \(with blackbear\)](https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:19 | 2022-03-25 |  |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-02-18 |  |
@@ -436,7 +437,7 @@
 | [this is what falling in love feels like](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:00 | 2022-10-14 |  |
 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 | 2022-03-25 | 2022-10-13 |
 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 | 2022-08-24 | 2022-10-02 |
-| [this is what heartbreak feels like](https://open.spotify.com/track/4RxdAzEmkPXTiIU6ULLoXh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:37 | 2022-10-14 |  |
+| [this is what heartbreak feels like](https://open.spotify.com/track/4RxdAzEmkPXTiIU6ULLoXh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:37 | 2022-10-14 | 2022-12-10 |
 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2022-04-04 | 2022-04-21 |
 | [Time I Love To Waste](https://open.spotify.com/track/0yQj6jvxjDYWkjZor9UezX) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Time I Love To Waste](https://open.spotify.com/album/6xS2tk8vwMQeCGZ8s8VJdV) | 3:17 | 2022-04-04 | 2022-04-11 |
 | [Time Machine](https://open.spotify.com/track/4vP1DbZq2mVdP5y3lI886c) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Greatest Hits Vol\. 1](https://open.spotify.com/album/30WNa86MJsrzTlki1YHI6A) | 2:46 | 2022-03-25 | 2022-04-19 |

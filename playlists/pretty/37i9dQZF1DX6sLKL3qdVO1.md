@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Lo mejor del reggaetón y flow actual con KAROL G en portada.
+> Lo mejor del reggaetón y flow actual con Kim Loaiza, DJ Luian, Mambo Kingz, De La Ghetto, Darell, KEVVO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,621 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,395 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 |
-| 2 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 |
-| 3 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 |
-| 4 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |
-| 5 | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/album/2Mlyp5GSTI9XzBX7DrBuVn) | 2:40 |
-| 6 | [Nos Comemos Vivos](https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 3:45 |
-| 7 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
-| 8 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 |
-| 9 | [La bebe](https://open.spotify.com/track/1yeN7zkjU0DU1SGEwvxMEk) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/3fsLDApUM08iTJDtKoXE0L) | 3:43 |
-| 10 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
-| 11 | [REMIX](https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:43 |
-| 12 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
+| 1 | [Apreton](https://open.spotify.com/track/3bUhvt1PcJVZdliG1XtpXW) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Apreton](https://open.spotify.com/album/3Li9ZLoAyR7PSnJ1YojaFH) | 4:18 |
+| 2 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 |
+| 3 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 |
+| 4 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 |
+| 5 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |
+| 6 | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/album/2Mlyp5GSTI9XzBX7DrBuVn) | 2:40 |
+| 7 | [Nos Comemos Vivos](https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 3:45 |
+| 8 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
+| 9 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 |
+| 10 | [La bebe](https://open.spotify.com/track/1yeN7zkjU0DU1SGEwvxMEk) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/3fsLDApUM08iTJDtKoXE0L) | 3:43 |
+| 11 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
+| 12 | [REMIX](https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:43 |
 | 13 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
 | 14 | [Noche de Teteo](https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Noche de Teteo](https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx) | 3:22 |
 | 15 | [Mayor Que Usted](https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Usted](https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W) | 3:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 74 | [Hipernova](https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Hipernova](https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR) | 3:28 |
 | 75 | [EMPELICULADOS \- Spotify Singles](https://open.spotify.com/track/3PjY7hNtvJPnFeZxplptne) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR) | [EMPELICULADOS \- Spotify Singles](https://open.spotify.com/album/1L88SIO4NmlW9TeY5gbCLb) | 3:42 |
 
-Snapshot ID: `MTY3MDM4OTc1MiwwMDAwMDAwMGJmYTZhYzVjNzZlODhlYTAxZDZmZDQ4ZTgyMzQzZDc3`
+Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMDU1YjJiZDEyODY4MTNlMWJlMDU0MTRlN2M4MTY0ZGUy`

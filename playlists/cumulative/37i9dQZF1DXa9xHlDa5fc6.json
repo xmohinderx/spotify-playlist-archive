@@ -2159,10 +2159,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 362693,
       "name": "Happy Family",
       "url": "https://open.spotify.com/track/41JKvaaTrlNggstXrYagZ4"
+    },
+    {
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/7K59JMBaDefg9AjOWhkSem"
+      },
+      "artists": [
+        {
+          "name": "Now More Than Ever",
+          "url": "https://open.spotify.com/artist/4rs2uBw6Y9uBQ1eJ0gFRwl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169646,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/0ReAOLM3cKp3OQktV32ruJ"
     },
     {
       "album": {

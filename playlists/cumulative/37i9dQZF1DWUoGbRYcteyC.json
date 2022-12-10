@@ -1046,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
+    },
+    {
+      "album": {
         "name": "Encima De Mil",
         "url": "https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E"
       },
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 182708,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 183546,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/0gWbAFRcUyZKdfUxEOuOiD"
@@ -3671,7 +3689,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 191250,
       "name": "WOW BB",
       "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"

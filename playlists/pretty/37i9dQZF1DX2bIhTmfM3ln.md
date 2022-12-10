@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > West African love stories wrapped up in song
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,968 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,979 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 79 | [Insensitive](https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Insensitive](https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax) | 3:34 |
 | 80 | [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGNmYzQwZDZjN2IyNGEyMTIxNGFmOThlYmZmY2JkMmI4`
+Snapshot ID: `MTY3MDU3NTcyMSwwMDAwMDAwMGE1Nzk2MDZmZjY3YmZhMTdmNDBhMWQxZTU4ZjlhMmI4`

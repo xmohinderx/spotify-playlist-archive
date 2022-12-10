@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-323 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+326 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [30 30](https://open.spotify.com/track/65sdOSWPi0yNwqTkgR7pJK) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [30 30](https://open.spotify.com/album/2SgXvw9j5YcmyarliH5nct) | 3:10 | 2022-08-19 |  |
 | [500 gr.](https://open.spotify.com/track/6SJmVvwqAnGCdpEyTE6HvE) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [500 gr.](https://open.spotify.com/album/1txGawwmq3xShlmzfPg2mx) | 3:37 | 2021-09-10 | 2021-10-14 |
 | [A Cruel Angel's Thesis \(From "Neon Genesis Evangelion"\) \- Calmadò Remix](https://open.spotify.com/track/2Ve3UUmJtUzXjo1iOjVVyg) | [Calmadò](https://open.spotify.com/artist/44uFtT0wcd9MDJ7hSeJyHQ) | [A Cruel Angel's Thesis \(From "Neon Genesis Evangelion"\) \[Calmadò Remix\]](https://open.spotify.com/album/2WXBxDS4HFf6cfJDIVQKyD) | 2:20 | 2021-07-09 | 2021-10-14 |
-| [Aftershock](https://open.spotify.com/track/6X2DG2wogUVDPyKWkK8jBC) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Quake](https://open.spotify.com/album/44V58chGzXo8ql3f0Ds9vX) | 2:42 | 2021-04-26\* |  |
+| [Aftershock](https://open.spotify.com/track/6X2DG2wogUVDPyKWkK8jBC) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Quake](https://open.spotify.com/album/44V58chGzXo8ql3f0Ds9vX) | 2:42 | 2021-04-26\* | 2022-12-10 |
 | [Ain't Shit Free](https://open.spotify.com/track/4RXpJgl2Q4ZEHaExw9YnzJ) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/5KJhwBaUGaPhWCXiyo1Rzv) | 3:17 | 2021-05-07 | 2022-07-29 |
 | [Ain't Shit Free](https://open.spotify.com/track/5IfXAwIrFnymwN0RGaSIeT) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/3TREMXQuq6rpRSnyzepFdH) | 3:17 | 2022-07-29 |  |
 | [All Of Them](https://open.spotify.com/track/2GmCYDUX9GR7XXBU76C0s9) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [Imperfectionist](https://open.spotify.com/album/6Msn1kQREtbLla2wJTfDlZ) | 1:51 | 2021-04-26\* | 2022-09-17 |
@@ -76,6 +76,7 @@
 | [District](https://open.spotify.com/track/1N191u47JA4Gi83FF0T099) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [District](https://open.spotify.com/album/4y9sncHu7BNxDbLttcfQV2) | 2:41 | 2021-06-04 | 2022-10-14 |
 | [Dizzy Bluesy \(smile\)](https://open.spotify.com/track/2M8ns1WQYQbS0E6Xef6Vuv) | [Mr Diz](https://open.spotify.com/artist/6WJfjbKY69hEevc5WJH1vu), [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Dizzy Bluesy \(smile\)](https://open.spotify.com/album/709ObnJx4qIQEbdukVVCnQ) | 1:38 | 2022-04-22 |  |
 | [Don't Quit](https://open.spotify.com/track/3hWnx9sV4Tssynrnl8oM7k) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Muses](https://open.spotify.com/album/1An4K6esv5QVy2loqhRyKb) | 2:26 | 2021-08-26 |  |
+| [Don't Speak His Name](https://open.spotify.com/track/046RxrrENoOmaP3fHy15Dq) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Last Breath](https://open.spotify.com/album/7kgTiCRbJ9WHwvctE8yHZi) | 3:22 | 2022-12-09 |  |
 | [Donnie DarKo](https://open.spotify.com/track/2KGATOvaBe8tw2hvB2Suc1) | [Sarach](https://open.spotify.com/artist/50NbkaTw0JbpYCMyHvAfIM), [baru](https://open.spotify.com/artist/1F8qMVXNHlvxGFkHLdWvvL) | [Donnie DarKo](https://open.spotify.com/album/44NTVo4xYykD6ni27p3yoG) | 2:14 | 2021-04-26\* | 2022-05-14 |
 | [Double Agent](https://open.spotify.com/track/5BcrWV0sc7dN0bQwIAx8SB) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Double Agent](https://open.spotify.com/album/5qS6evH7F4mdTccmQ3yjB6) | 2:24 | 2021-08-26 |  |
 | [Downheart](https://open.spotify.com/track/0Lp1LrUBqlSYTBf5s6jfTc) | [Michael Tylor](https://open.spotify.com/artist/3U4Nn3hdz5eDPdDQUPW0MM) | [Downheart](https://open.spotify.com/album/3qK5sZYstzW4yt29Tw7Ocl) | 2:09 | 2022-09-02 |  |
@@ -218,6 +219,7 @@
 | [Peace Police](https://open.spotify.com/track/2qHaXryEN56zBsYEG4j5Sj) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Peace Police](https://open.spotify.com/album/5UcnhXhnPxol0KORBDsW6L) | 2:16 | 2021-11-10 |  |
 | [Peaceful End](https://open.spotify.com/track/2BsiCSZgCSNJbghOyUrJ5F) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 2:12 | 2021-04-26\* | 2021-06-18 |
 | [Peer Pressure](https://open.spotify.com/track/30PDbNjIAYsxmh5z0gdJUN) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Peer Pressure](https://open.spotify.com/album/6FGjZ4GxmrGCr89TRLwk19) | 3:24 | 2022-11-25 |  |
+| [Perfect Dream](https://open.spotify.com/track/3xwOHHCCN6fR3xDW8rJmnk) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Perfect Dream](https://open.spotify.com/album/1SIsocvfPaZSbfDFGmgoLe) | 2:19 | 2022-12-09 |  |
 | [Perfection](https://open.spotify.com/track/3cgmk4PnyagSVS0snpSHBf) | [Carl Down](https://open.spotify.com/artist/3SUWaiyM09qqsnBkfm6lPv) | [Perfection](https://open.spotify.com/album/6DO8231AhivEuWarU7JeJz) | 1:32 | 2021-04-26\* | 2022-04-22 |
 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 | 2021-11-10 |  |
 | [Powerwalk](https://open.spotify.com/track/2ph6ScN92MMhfJQfRrU1nJ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Wheel of Life](https://open.spotify.com/album/2SwyzaK73I5ynws5UNyfyg) | 2:56 | 2021-04-26\* | 2021-06-18 |
@@ -252,6 +254,7 @@
 | [Shoot For The Stars](https://open.spotify.com/track/52kS9zM2JWsyTG1tTUlrwA) | [SG Beatz](https://open.spotify.com/artist/3AWkypHQ3p6a85QtDKjca5) | [Highlife EP](https://open.spotify.com/album/3IjNNbjnJM3PFGtBdszsqb) | 2:55 | 2022-06-17 | 2022-07-29 |
 | [Showtime](https://open.spotify.com/track/14pC7BwY6F1i2T9oA4TFjI) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:21 | 2021-06-04 | 2021-08-26 |
 | [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2021-09-10 |  |
+| [Silent Haters](https://open.spotify.com/track/7JfxL8fwpZqFcOn7Y4FeJ2) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Blood in the Night](https://open.spotify.com/album/5F85byRYuprIUfpXnLDCD0) | 2:43 | 2022-12-09 |  |
 | [Silver Lining](https://open.spotify.com/track/49hqLCrBX4CnAkEM0iclaO) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Silver Lining](https://open.spotify.com/album/1rCa089W6ZFhIcpVzw4tCJ) | 2:29 | 2021-04-26\* | 2022-05-20 |
 | [Sink Or Swim](https://open.spotify.com/track/6iKOQlbQaP1ml7Rcnz40mL) | [Heater Fanz](https://open.spotify.com/artist/4Uytcl5jKXgZcHVIiOzqQH) | [Sink Or Swim](https://open.spotify.com/album/50U2GR6RFdlpW1vQRArcx5) | 2:54 | 2022-01-27 |  |
 | [Sinking ships](https://open.spotify.com/track/0rnI5wlgmeUF2iFI2d1WEx) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Arrest that man](https://open.spotify.com/album/21XcINkyFBW3xswH4R3mNl) | 2:25 | 2022-11-25 |  |

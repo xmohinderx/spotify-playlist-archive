@@ -4,7 +4,7 @@
 
 > ProfJam entra na zona.
 
-167 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+168 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 | 2022-07-16 | 2022-10-28 |
 | [Dior](https://open.spotify.com/track/1TOFRsEFNmlpzHh8ZYtrKv) | [Deedz B](https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Dior](https://open.spotify.com/album/4uN3kS3ygEFS7C6SiUY9Lm) | 3:17 | 2022-11-11 |  |
 | [Doce](https://open.spotify.com/track/3D0nHtG6BSu5RIsy6j5Wwg) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2), [ZoHar](https://open.spotify.com/artist/5uLGaEegHHoEEHk5EWH8Q4) | [Doce](https://open.spotify.com/album/3K8LvFUKsMj3seejRF6M0W) | 2:51 | 2022-09-30 | 2022-10-21 |
+| [Don Papai](https://open.spotify.com/track/3T29hYGSR86FHdkdDsnHQg) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [DSB 1224](https://open.spotify.com/artist/2stDBehct4FMgEapZ92nLg) | [Don Papai](https://open.spotify.com/album/48Fdauj7Ytcc9UZqTafCKM) | 3:12 | 2022-12-09 |  |
 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 | 2022-07-16 | 2022-11-18 |
 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 | 2022-08-11 | 2022-09-02 |
 | [DONDE](https://open.spotify.com/track/4EiZlZ37Q8EnQIU7e2aD2y) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [DONDE](https://open.spotify.com/album/1YR6A1jw2N2B9WlvqIMjfu) | 3:31 | 2022-12-02 |  |

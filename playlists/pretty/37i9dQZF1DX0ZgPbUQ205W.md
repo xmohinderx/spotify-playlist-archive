@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,189 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,250 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

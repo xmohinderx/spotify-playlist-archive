@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Ashe",
+  "description": "Featuring that new vintage. Cover: WILSN",
   "name": "Retro Pop",
   "published_playlist_ids": [
     "3Icin3X1CyEouQNp33mzQK"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 194386,
       "name": "Catch My Wave",
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
@@ -2035,6 +2035,28 @@
       "duration_ms": 226622,
       "name": "hurt",
       "url": "https://open.spotify.com/track/2ULMkcWFhgiyuTQgdALlqC"
+    },
+    {
+      "album": {
+        "name": "Hurts So Bad",
+        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Hurts So Bad - with Josh Teskey",
+      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
     },
     {
       "album": {

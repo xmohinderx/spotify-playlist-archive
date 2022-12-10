@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: Thursday
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,139 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,227 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 17 | [Half Of Ninety](https://open.spotify.com/track/38Io4HK6GhMKlkzY3IXxS1) | [Pop Unknown](https://open.spotify.com/artist/4CLc2mcJfxXTAFGVHlonB7) | [If Arsenic Fails, Try Algebra](https://open.spotify.com/album/3oP8OX2XPNsI4uBCcrpYgG) | 4:03 |
 | 18 | [Marigold & Patchwork](https://open.spotify.com/track/2MPndJjBcn555aZQyuvt3S) | [The Appleseed Cast](https://open.spotify.com/artist/0MkAzpDHUZpuDnWGUII4RN) | [The End Of The Ring Wars](https://open.spotify.com/album/46522TAHAMPyA2utw8bo3F) | 5:49 |
 | 19 | [Copper and Stars](https://open.spotify.com/track/3X6BvcNz8QSYaXLqJ3uHfw) | [Planes Mistaken For Stars](https://open.spotify.com/artist/2rfJuPYf7n3inXgdDNxMku) | [Planes Mistaken for Stars](https://open.spotify.com/album/2yyupliWXQe9Dz4xYT3Y14) | 3:31 |
-| 20 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame and Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 |
+| 20 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 |
 | 21 | [The D In Detroit](https://open.spotify.com/track/0tlgt22cueiCMotxCMc6Cf) | [The Anniversary](https://open.spotify.com/artist/1mi3Fx4j7ektT97ycLSxl8) | [Designing a Nervous Breakdown](https://open.spotify.com/album/42fsY10FqhlkSbkJA4lUCJ) | 4:16 |
 | 22 | [This Time Next Year](https://open.spotify.com/track/3ZfoS2MfHC8aRldwqlknfS) | [The Movielife](https://open.spotify.com/artist/6WuH3nSjp98OqgwnDqYnRK) | [This Time Next Year](https://open.spotify.com/album/18KiEYIQ5jdFSpRzdNET1A) | 2:50 |
 | 23 | [For Me This Is Heaven](https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 4:06 |

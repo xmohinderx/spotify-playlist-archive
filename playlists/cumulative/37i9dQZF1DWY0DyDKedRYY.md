@@ -4,7 +4,7 @@
 
 > Villano Antillano is our newest RADAR artist.
 
-399 songs - 20 hr 38 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+400 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [South Dakota](https://open.spotify.com/track/7wcXX4NMlmz0LtxgsIxeiO) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Mind Games](https://open.spotify.com/album/5KKaLdWcmLpJqCnvvu0Vus) | 3:11 | 2021-12-01 | 2022-04-09 |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-04-08 | 2022-05-18 |
 | [Special](https://open.spotify.com/track/1mBR4OepAtxwfLwokFhWKC) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 2:43 | 2022-11-14 |  |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-14 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-14 | 2022-12-10 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-14 |  |
 | [Standard](https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Standard](https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev) | 2:32 | 2022-05-17 | 2022-06-15 |
 | [Stay](https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Stay](https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy) | 2:52 | 2022-05-17 | 2022-06-15 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-26 | 2022-09-07 |

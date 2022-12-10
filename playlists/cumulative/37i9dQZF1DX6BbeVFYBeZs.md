@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-186 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+188 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [El Ciego](https://open.spotify.com/track/1EtqyTZZhHtT7cmznkSc25) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [El Ciego](https://open.spotify.com/album/6qo8bLXjZSYwCU5I6PaN4b) | 1:39 | 2022-06-17 |  |
 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 | 2022-06-17 |  |
 | [El Raval](https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [El Raval](https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4) | 3:07 | 2022-06-17 |  |
+| [El Sabio](https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [El Sabio](https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n) | 2:06 | 2022-12-09 |  |
 | [Elena](https://open.spotify.com/track/7L8szhG2EyNBPDVN8u7NfV) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Elena](https://open.spotify.com/album/1qlDQQh4Syo913ywPxNmQW) | 2:05 | 2022-06-17 |  |
 | [Elf](https://open.spotify.com/track/651BGDJru3qXduKTv6ouhD) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Elf](https://open.spotify.com/album/0Z3SmXze4TCJpJSF3f43ot) | 1:48 | 2022-07-08 | 2022-10-14 |
 | [Elf](https://open.spotify.com/track/2z5Prq6ZP7gX5yMmPsMaPk) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Elf](https://open.spotify.com/album/58d8SRTrTcfiDkPdOxFwHQ) | 1:48 | 2022-10-14 |  |
@@ -165,6 +166,7 @@
 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 | 2022-10-28 |  |
 | [Telémaco](https://open.spotify.com/track/3qvKQpE2OLPDqho3DM19N1) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB), [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Telémaco](https://open.spotify.com/album/6kKjlOBuPfKXQicsIZUmgw) | 2:45 | 2022-06-17 |  |
 | [Terrassa](https://open.spotify.com/track/4uR1yeK0D3mRIno6VFWtWU) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Terrassa](https://open.spotify.com/album/1U7j93AXBB4QEyNxLYLTyp) | 2:21 | 2022-06-17 |  |
+| [The Answers](https://open.spotify.com/track/6fyvEapH6yPLGRplGYscPi) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [The Answers](https://open.spotify.com/album/0ql2lwrmwxEsQQDdfWbRq7) | 3:04 | 2022-12-09 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/7cSsTfPAectKHrHZD3zsn0) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [The End Of A Love Affair](https://open.spotify.com/album/28E3zfSiJxO1mjaaDiU8ih) | 2:41 | 2022-06-17 |  |
 | [The Gastruck](https://open.spotify.com/track/4IJnVCZll8ikwz0bKUbuvH) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [The Gastruck](https://open.spotify.com/album/25xzlHNAAhJSiZUQL9XkqK) | 2:28 | 2022-06-17 |  |
 | [The Ride](https://open.spotify.com/track/6LWt0Sm7MovGMGDioGYqmB) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [The Ride](https://open.spotify.com/album/7kZka9w9yttCo8i8L2W0rD) | 2:04 | 2022-11-18 |  |

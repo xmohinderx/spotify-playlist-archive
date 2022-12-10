@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,651 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,662 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 49 | [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 |
 | 50 | [Fuck The Rain](https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 3:33 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA3ZTg0MDczODRjNGE3MzkzMDhhYjVjMGY4MmYwZjQyMA==`
+Snapshot ID: `Mjc4NDM0NzgsMDAwMDAwMDA5MTA4YmZmNmIxNGNhNjcwZGQ1ZDc0YTU1YzI3NDliNg==`

@@ -1,12 +1,12 @@
 {
   "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX?si=J4P0DDhDTUGu1u4E719xoA\"> M.anifest </a> ",
-  "num_followers": 8871,
+  "num_followers": 8884,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGEwMzc1ZTEyMThhZWM1ODc3N2U1ZjgyZDFkZjllYTcx",
+  "snapshot_id": "MTY3MDU3NjMwNSwwMDAwMDAwMDYwOGZmZThkYWQwMjdkMTFlMGI5NmExZjkwYTEzMmNh",
   "tracks": [
     {
       "added_at": "2022-11-15 09:45:18",
@@ -681,6 +681,26 @@
       "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
     },
     {
+      "added_at": "2022-12-09 08:58:25",
+      "album": {
+        "name": "We Dey",
+        "url": "https://open.spotify.com/album/3idMIRqDQBaPKXTAGZUn4a"
+      },
+      "artists": [
+        {
+          "name": "Sofie",
+          "url": "https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0"
+        },
+        {
+          "name": "Sister Deborah",
+          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
+        }
+      ],
+      "duration_ms": 152076,
+      "name": "We Dey",
+      "url": "https://open.spotify.com/track/5KryeTvG0C02vF9cpgZrYA"
+    },
+    {
       "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Problem No Dey Finish (Remix)",
@@ -947,22 +967,6 @@
       "duration_ms": 232630,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/6miftk872yxPKve9CdKaQO"
-    },
-    {
-      "added_at": "2022-09-30 06:36:39",
-      "album": {
-        "name": "Badman",
-        "url": "https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "duration_ms": 217165,
-      "name": "Badman",
-      "url": "https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn"
     },
     {
       "added_at": "2022-10-13 23:00:00",

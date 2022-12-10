@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover: M.C the Max\(엠씨더맥스\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,283 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,336 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

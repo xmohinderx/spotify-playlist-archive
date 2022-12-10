@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > For all the beautiful queens! Guest curated by Mary J\. Blige
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,507 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,739 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

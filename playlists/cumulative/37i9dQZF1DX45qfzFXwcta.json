@@ -1338,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "Public Assembly",
+        "url": "https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay"
+      },
+      "artists": [
+        {
+          "name": "Damu The Fudgemunk",
+          "url": "https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268074,
+      "name": "Walk in the Park - Remix Instrumental",
+      "url": "https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8"
+    },
+    {
+      "album": {
         "name": "Watanabe",
         "url": "https://open.spotify.com/album/0qobFyLAWz1SHcc8vmlQaK"
       },

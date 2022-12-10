@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Ibiza season is back for 2022\. Let's dance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,589 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,783 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

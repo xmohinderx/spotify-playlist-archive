@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,605 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,611 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 44 | [Difícil Es](https://open.spotify.com/track/63SeaRiwlp1AwDi1hKPejK) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:16 |
 | 45 | [Inesperadamente](https://open.spotify.com/track/4GAqqobic0kTtK3mfAP6Am) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Inesperadamente](https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu) | 3:09 |
 | 46 | [No Es Como Tu](https://open.spotify.com/track/6YmeOtWUb3u8WBo0LcrhzQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [No Es Como Tu](https://open.spotify.com/album/5nNvbTmDYOd8HBHvsovdKU) | 3:29 |
-| 47 | [Ya Te Han Visto Con Él](https://open.spotify.com/track/43uJ9LN57wAcrfsufEJat8) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Lo Mío](https://open.spotify.com/album/4WlXlmCSRRJaAQZMzclg3Y) | 2:55 |
+| 47 | [La Plancha](https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:32 |
 | 48 | [Se Me Antoja](https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:07 |
-| 49 | [La Plancha](https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:32 |
+| 49 | [Ya Te Han Visto Con Él](https://open.spotify.com/track/43uJ9LN57wAcrfsufEJat8) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Lo Mío](https://open.spotify.com/album/4WlXlmCSRRJaAQZMzclg3Y) | 2:55 |
 | 50 | [Viviras Selena](https://open.spotify.com/track/2pXb4Rtjt4RfmdlxqUYCdG) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY), [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA), [Jennifer Y Los Jetz](https://open.spotify.com/artist/6RNtyMrzRxg0Ojr0bmS3j7), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp), [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Movie Soundtrack](https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO) | 5:03 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyNDkyYWM0NTg2YWIzMmY1ODQ0YjExOGQwOTY3N2E3Yw==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBmZGNkOGIwM2QyNGNjYmM3ZWY4OWI1MTI5NzNjNDcyZA==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: KANGDANIEL",
+  "description": "Future K-Pop hits! Cover: SHAUN",
   "name": "K-Pop Rising",
   "published_playlist_ids": [
     "365X6AQFdYqkXtDjWksHVf"
@@ -9702,6 +9702,24 @@
     },
     {
       "album": {
+        "name": "Omnibus, Pt. 2: Inside Out",
+        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232960,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
+    },
+    {
+      "album": {
         "name": "ONEUS THEATRE : Shut Up \ubc1b\uace0 Crazy Hot!",
         "url": "https://open.spotify.com/album/0UXupM1TaPLQSTMkKwYEqQ"
       },
@@ -12675,7 +12693,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 181533,
       "name": "Without You",
       "url": "https://open.spotify.com/track/5Yxizu2LeHTpSHvf3zANWY"

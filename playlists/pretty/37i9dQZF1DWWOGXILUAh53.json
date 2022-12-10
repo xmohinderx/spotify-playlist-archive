@@ -1,13 +1,189 @@
 {
-  "description": "The hottest new pop with the all the drops. Cover: Rebecca Black",
-  "num_followers": 102099,
+  "description": "The hottest new pop with the all the drops. Cover: Martin Garrix & JVKE",
+  "num_followers": 102790,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGY2ODA1Mjg2YjkxODVjM2U3NjZiNmFhMjE0NmYzMWIw",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGI0MWVhMmZmNmU3MjU0MzAwYjgyNjljNzk2MTc1NmY5",
   "tracks": [
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Wish on an Eyelash, Pt. 2",
+        "url": "https://open.spotify.com/album/6Toz3ZYx7OtGPxptZytqvx"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 189890,
+      "name": "Wish on an Eyelash, Pt. 2",
+      "url": "https://open.spotify.com/track/10yYDp1Lnac8zEIYiCk1sp"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 194612,
+      "name": "Anti-Hero - Kungs Remix",
+      "url": "https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3pkj9uRre7NilqLmjGVZwN"
+      },
+      "artists": [
+        {
+          "name": "Able Faces",
+          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3IndaJBMpKGvtR4StOFyte"
+    },
+    {
+      "added_at": "2022-11-11 22:49:48",
+      "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "When You Know",
+        "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 178994,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Pretty Girl Era",
+        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Pretty Girl Era",
+      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
+    },
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
@@ -29,6 +205,22 @@
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Wings (I Won't Let You Down)",
@@ -47,22 +239,6 @@
       "duration_ms": 171904,
       "name": "Wings (I Won't Let You Down)",
       "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Pretty Girl Era",
-        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
-      },
-      "artists": [
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Pretty Girl Era",
-      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -101,26 +277,6 @@
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Anti-Hero (Remixes)",
-        "url": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 194612,
-      "name": "Anti-Hero - Kungs Remix",
-      "url": "https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Wonderlust",
@@ -135,22 +291,6 @@
       "duration_ms": 188811,
       "name": "Wonderlust",
       "url": "https://open.spotify.com/track/6IQXfJMEirB4kdu5qMNlh9"
-    },
-    {
-      "added_at": "2022-11-11 22:49:48",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1251,22 +1391,6 @@
     {
       "added_at": "2022-10-26 01:44:21",
       "album": {
-        "name": "party in my head (ur not invited)",
-        "url": "https://open.spotify.com/album/3imQuJ7FuS85XSHrsAkTCy"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "party in my head (ur not invited)",
-      "url": "https://open.spotify.com/track/5EPBBxuMALRFTMimsm1OsX"
-    },
-    {
-      "added_at": "2022-10-26 01:44:21",
-      "album": {
         "name": "Always Be There",
         "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
       },
@@ -1383,30 +1507,6 @@
       "duration_ms": 185875,
       "name": "2 Die 4",
       "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
-    },
-    {
-      "added_at": "2022-10-26 01:44:21",
-      "album": {
-        "name": "DON'T YOU WORRY",
-        "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "DON'T YOU WORRY",
-      "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
     }
   ],
   "unique_name": "Fresh Dance Pop",

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,255 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,290 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Between The Bars](https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:21 |
 | 2 | [Waltz \#2 \(XO\)](https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 4:40 |
 | 3 | [Somebody That I Used To Know](https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:09 |
-| 4 | [Needle In The Hay](https://open.spotify.com/track/1bFPKxP56XWDXJOwo3Kvfp) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 4:17 |
+| 4 | [Miss Misery](https://open.spotify.com/track/4zetUxeSCCDwrr1jJT0SuD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO \(Deluxe Edition\)](https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM) | 3:12 |
 | 5 | [Angeles](https://open.spotify.com/track/0Ziohm1Ku8E2yUDYoclfhO) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:57 |
 | 6 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
 | 7 | [Everything Reminds Me Of Her](https://open.spotify.com/track/3nkdVXnH4xC6f3YZS0C8pC) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:37 |
-| 8 | [Miss Misery](https://open.spotify.com/track/4zetUxeSCCDwrr1jJT0SuD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO \(Deluxe Edition\)](https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM) | 3:12 |
+| 8 | [Needle In The Hay](https://open.spotify.com/track/1bFPKxP56XWDXJOwo3Kvfp) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 4:17 |
 | 9 | [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 |
 | 10 | [Independence Day](https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:04 |
 | 11 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 27 | [No Name \#3](https://open.spotify.com/track/5xmqzcBqw4c0c5gcDHthDO) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:13 |
 | 28 | [Twilight](https://open.spotify.com/track/5YoR2agiVdBpuAuW9PvgKD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:29 |
 | 29 | [Because](https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8 \(Deluxe Edition\)](https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan) | 2:19 |
-| 30 | [The White Lady Loves You More](https://open.spotify.com/track/75l3rO9pLGAas7P4O22RDE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:24 |
+| 30 | [Coming Up Roses](https://open.spotify.com/track/56glzc2mZUIJwKsEjKqY8b) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 3:10 |
 | 31 | [Roman Candle](https://open.spotify.com/track/7GDciQOihRs8nQFEFOrc5K) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:36 |
 | 32 | [Whatever \(Folk Song In C\)](https://open.spotify.com/track/1YbZab5h60Tr89DZp5Tdr2) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 2:17 |
 | 33 | [King's Crossing](https://open.spotify.com/track/2GsiKnbHHXDpoL7R6cJUTZ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:57 |
-| 34 | [Coming Up Roses](https://open.spotify.com/track/56glzc2mZUIJwKsEjKqY8b) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 3:10 |
+| 34 | [The White Lady Loves You More](https://open.spotify.com/track/75l3rO9pLGAas7P4O22RDE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:24 |
 | 35 | [No Name \#1](https://open.spotify.com/track/09xUNc3vKdOmH74jWIYfAm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:03 |
 | 36 | [I Don't Think I'm Ever Gonna Figure It Out \- Remixed / Remastered](https://open.spotify.com/track/0tiz18U3REWZSXkn1A6g8L) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/1rQWVnptZV3CfNP1pHSmqV) | 1:57 |
 | 37 | [Let's Get Lost](https://open.spotify.com/track/39GFqAvg1Bvabc4syFawmY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 2:27 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 45 | [Going Nowhere](https://open.spotify.com/track/00tFEPQtl9JiaIhpu1Ck8u) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 3:51 |
 | 46 | [Half Right](https://open.spotify.com/track/5KqUAChw7ZFJpc4knm4jka) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:50 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDA5NzA5OTFiN2IzZmYzZmIxZjFmOWVmMmM3YjZhYjU4Mw==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDA3OTFmMzBjNTUxNzQyYzkzZjM0ODZiYzkzOTRkMDIwNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,832 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,969 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 |
 | 50 | [Isis \- Remix](https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj), [Catra](https://open.spotify.com/artist/7clv57AT6aP2cMrphyksAb), [Lex Bratcher](https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf), [Kvng Moses](https://open.spotify.com/artist/6bke0iSCUylKssEtk3Ltr2) | [Isis \(Remix\)](https://open.spotify.com/album/2FKqCFX8YuORASp2wON4iQ) | 4:56 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDJlNGIzNjk4MWM3MThlZDUzZDYxNjA5ZDg2NzQ5Zjg5`
+Snapshot ID: `MTY3MDU1MDc5OSwwMDAwMDAwMDM0OWUxMjllYzJiZDVhYjc0MTM0MjcxMzdhYmRjNWI5`

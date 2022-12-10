@@ -2576,6 +2576,24 @@
     },
     {
       "album": {
+        "name": "Unholy",
+        "url": "https://open.spotify.com/album/0kdzhwPZRoeJ5Ta8Y4Vfq5"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/5COQiZO96OTpgWPLOglz4N"
+    },
+    {
+      "album": {
         "name": "Waiting on the World to Change (Instrumental)",
         "url": "https://open.spotify.com/album/1qd3fl7QXEqFFA5FoMm7pk"
       },

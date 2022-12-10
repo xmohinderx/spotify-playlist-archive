@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,115 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,126 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 8 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 |
 | 9 | [She's A Self Made Man](https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [She's A Self Made Man](https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G) | 3:01 |
 | 10 | [Come on in My Kitchen](https://open.spotify.com/track/579GL5nioUg1vxV1ilSFRR) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:11 |
-| 11 | [Bad Spell](https://open.spotify.com/track/5TS1lP8hWsGMjjblpVrUnI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 |
+| 11 | [Bolt Cutters & The Family Name](https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 |
 | 12 | [Keep Diggin’](https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:13 |
 | 13 | [Strike Gold](https://open.spotify.com/track/3eFCcD8aZJIc2wRmJm6Vyx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5YPy3q0MV7e5fJHFYNutjV) | 3:20 |
 | 14 | [Sometimes](https://open.spotify.com/track/32EakGEjZPjasCLjHN5ktx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 2:52 |
-| 15 | [Bolt Cutters & The Family Name](https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 |
+| 15 | [Bad Spell](https://open.spotify.com/track/5TS1lP8hWsGMjjblpVrUnI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 |
 | 16 | [Tears Of Blue To Gold](https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:12 |
 | 17 | [John the Revelator](https://open.spotify.com/track/1Ozg06SCQcx6yBoIie8Xo7) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:19 |
 | 18 | [Mad As A Hatter \- Live In Concert](https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 5:12 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 44 | [Sucker Puncher](https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:30 |
 | 45 | [Baby Blue Eyes \(feat\. Larkin Poe\) \- Rainy Day Sessions](https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [The Rainy Day Sessions EP](https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr) | 3:53 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyYmRiZjNlMDU3NWVkMzJmM2YzMTE3YmQ4Njc2MjMwZQ==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDA4ZDJkYmU2Njk2MTZjYjRiMmRiMzMzYzNiYzg5Mzk4Ng==`

@@ -700,6 +700,24 @@
     },
     {
       "album": {
+        "name": "chrome",
+        "url": "https://open.spotify.com/album/1A2lg20TBi2x4eVUVIBIoi"
+      },
+      "artists": [
+        {
+          "name": "love_eight",
+          "url": "https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142555,
+      "name": "chrome",
+      "url": "https://open.spotify.com/track/409mSIlqx7ZKfWhPzFzRhL"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/1i3HkR1ygBKfTvBU3dm0s3"
       },
@@ -1196,6 +1214,24 @@
     },
     {
       "album": {
+        "name": "Easy Cheese",
+        "url": "https://open.spotify.com/album/2XLsbqEwMJUGfr2Xgi9PWg"
+      },
+      "artists": [
+        {
+          "name": "Daniel Fridell",
+          "url": "https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335327,
+      "name": "Easy Cheese",
+      "url": "https://open.spotify.com/track/4rnf2QpPSzkxLlbFxxXgK0"
+    },
+    {
+      "album": {
         "name": "Electro Lofi",
         "url": "https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG"
       },
@@ -1211,6 +1247,28 @@
       "duration_ms": 115200,
       "name": "Electro Lofi",
       "url": "https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB"
+    },
+    {
+      "album": {
+        "name": "Elegua",
+        "url": "https://open.spotify.com/album/6OxA3z3EOvhbEfPMQbM9Ka"
+      },
+      "artists": [
+        {
+          "name": "Oaty.",
+          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
+        },
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122681,
+      "name": "Elegua",
+      "url": "https://open.spotify.com/track/3JKfpG7unjgUxjOVAVdxa3"
     },
     {
       "album": {
@@ -2317,6 +2375,28 @@
       "duration_ms": 145500,
       "name": "Limitless Romance",
       "url": "https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB"
+    },
+    {
+      "album": {
+        "name": "lindo",
+        "url": "https://open.spotify.com/album/58glJDDiyNwRMHyaXFMwU8"
+      },
+      "artists": [
+        {
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
+        },
+        {
+          "name": "Tau",
+          "url": "https://open.spotify.com/artist/2tV1Ys5GAXL47UahBxq8hB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "lindo",
+      "url": "https://open.spotify.com/track/66NcL7vEfkRz5iTd78h24f"
     },
     {
       "album": {

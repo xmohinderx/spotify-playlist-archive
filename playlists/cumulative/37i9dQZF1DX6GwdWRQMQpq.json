@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto & Glorilla",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Coi Leray",
   "name": "Feelin' Myself",
   "published_playlist_ids": [
     "0FtcGJDMEWLAVf67SoV0Nd"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "6000 Degrees (AH HA)",
+        "url": "https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH"
+      },
+      "artists": [
+        {
+          "name": "$hyfromdatre",
+          "url": "https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102872,
+      "name": "6000 Degrees (AH HA)",
+      "url": "https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG"
+    },
     {
       "album": {
         "name": "8 Year Run",
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 144625,
       "name": "Issa Photoshoot",
       "url": "https://open.spotify.com/track/49MICz2iDO0E4suYyVYr62"
@@ -2429,6 +2447,24 @@
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "album": {
@@ -2639,7 +2675,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 155740,
       "name": "My Twin",
       "url": "https://open.spotify.com/track/4YA7aHYDUm1sfvGe6FznYB"
@@ -2985,7 +3021,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 172793,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
@@ -4477,6 +4513,28 @@
       "duration_ms": 218205,
       "name": "UonU (feat. Yung Bleu)",
       "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146950,
+      "name": "Used (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1TweDM3JC49LNeelLVg3yX"
     },
     {
       "album": {

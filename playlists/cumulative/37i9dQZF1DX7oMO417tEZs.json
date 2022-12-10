@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: RAYE",
+  "description": "Proudly marching to the beat of their own drum. Cover: River Tiber",
   "name": "Outliers",
   "published_playlist_ids": [
     "2eZDT7fvyZw5HsAm74ImXE"
@@ -303,6 +303,24 @@
       "duration_ms": 192133,
       "name": "Africvillean Funk",
       "url": "https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn"
+    },
+    {
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244617,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH"
     },
     {
       "album": {
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 167979,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 156866,
       "name": "CARNAGE",
       "url": "https://open.spotify.com/track/0FE3XDuJH4tnf1MCgsg3Ju"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 202488,
       "name": "Cassette",
       "url": "https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld"
@@ -1797,7 +1815,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202488,
       "name": "Cassette",
       "url": "https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl"
@@ -2356,6 +2374,28 @@
     },
     {
       "album": {
+        "name": "D.A.N.C.E. (Logic Reprise)",
+        "url": "https://open.spotify.com/album/4E9hJCYmee24KVYymC1SFQ"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196408,
+      "name": "D.A.N.C.E. - Logic Reprise",
+      "url": "https://open.spotify.com/track/5qz9QTNgiajpsnp7agqBpc"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/5PZqmQFWD4UjHcBk27jA06"
       },
@@ -2551,7 +2591,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 240374,
       "name": "Dear LIFE",
       "url": "https://open.spotify.com/track/0Pl6bvQS1C1qUnU2WUnGFa"
@@ -3504,6 +3544,24 @@
     },
     {
       "album": {
+        "name": "Fam Without Blood",
+        "url": "https://open.spotify.com/album/0BAZrp2yemAgUY2RiKQt3k"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181293,
+      "name": "Fam Without Blood",
+      "url": "https://open.spotify.com/track/1J4VJFAnnb55HrCfglZmF0"
+    },
+    {
+      "album": {
         "name": "Far Apart",
         "url": "https://open.spotify.com/album/2XHYnTTmjpCcLPjJBEJbXl"
       },
@@ -4291,7 +4349,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 215583,
       "name": "goingthroughit",
       "url": "https://open.spotify.com/track/3reIoS4AAK10cSpdxazxx9"
@@ -5179,7 +5237,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 168504,
       "name": "i'm an alchemist",
       "url": "https://open.spotify.com/track/3KIvgKWgMuPu9j7domnxer"
@@ -5241,7 +5299,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 314634,
       "name": "Idiom",
       "url": "https://open.spotify.com/track/6NzsXA6b3rdnnRUSOFMJKZ"
@@ -5303,6 +5361,24 @@
       "duration_ms": 264573,
       "name": "Imagine That (feat. Shad)",
       "url": "https://open.spotify.com/track/18pEhwBhFr9ToeHPjHD0r5"
+    },
+    {
+      "album": {
+        "name": "Dreaming Eyes",
+        "url": "https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256992,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/4rQlCooK88oFN819QAduCw"
     },
     {
       "album": {
@@ -5810,6 +5886,24 @@
     },
     {
       "album": {
+        "name": "Keep It Tucked",
+        "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173576,
+      "name": "Keep It Tucked",
+      "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
+    },
+    {
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -6249,6 +6343,24 @@
       "duration_ms": 120000,
       "name": "Like When We Were Kids",
       "url": "https://open.spotify.com/track/7kbX93erh3pjxXufIRPAsw"
+    },
+    {
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "album": {
@@ -6975,7 +7087,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 216808,
       "name": "Mink",
       "url": "https://open.spotify.com/track/64eANrvJU285DaHWmmiY1n"
@@ -9306,6 +9418,24 @@
     },
     {
       "album": {
+        "name": "SHELLS",
+        "url": "https://open.spotify.com/album/5uf5Lw6nR3McOPXYOqHU41"
+      },
+      "artists": [
+        {
+          "name": "nyan",
+          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292677,
+      "name": "SERENITY",
+      "url": "https://open.spotify.com/track/013NaZeORX70apTvS9QW7K"
+    },
+    {
+      "album": {
         "name": "Sexo Amor Dinero",
         "url": "https://open.spotify.com/album/04s5v1OBxraFoczLoN15Sf"
       },
@@ -10237,7 +10367,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 152528,
       "name": "Talk To Myself",
       "url": "https://open.spotify.com/track/2nfGGjeIAbvKIplshPJQBZ"
@@ -11707,6 +11837,24 @@
       "duration_ms": 157466,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc"
+    },
+    {
+      "album": {
+        "name": "You Get Me (A Final Word)",
+        "url": "https://open.spotify.com/album/0kUAc906p6guqq3pPguC3t"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213215,
+      "name": "You Get Me (A Final Word)",
+      "url": "https://open.spotify.com/track/7pggyXFvSZYb7Sv3kKtiZy"
     },
     {
       "album": {

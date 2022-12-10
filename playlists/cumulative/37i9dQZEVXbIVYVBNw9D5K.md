@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-561 songs - 1 day 4 hr 32 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+562 songs - 1 day 4 hr 35 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
 | [Beyaz Skandalım](https://open.spotify.com/track/1gLCVATJt0IT6aRuqZvrKt) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/2sXpdxb6xQ1t3lOX072al6) | 3:35 | 2021-06-12 | 2022-01-05 |
 | [Beyaz Skandalım](https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/5ux7MVV2OT5BOOLXETC4qL) | 3:35 | 2022-01-04 | 2022-02-13 |
-| [Beyoğlu](https://open.spotify.com/track/1qFiddLkQ7saFavoVIBpsF) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Beyoğlu](https://open.spotify.com/album/3g9In29GTvJJK6uPMpoNdX) | 2:28 | 2022-10-09 | 2022-12-03 |
+| [Beyoğlu](https://open.spotify.com/track/1qFiddLkQ7saFavoVIBpsF) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Beyoğlu](https://open.spotify.com/album/3g9In29GTvJJK6uPMpoNdX) | 2:28 | 2022-10-09 |  |
 | [Bi Bedeli Var](https://open.spotify.com/track/1Yp69wntPFZYy5AokQC6Yz) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Bedeli Var](https://open.spotify.com/album/6SP4HNSraBsDw82Mv8xY3J) | 2:28 | 2021-04-26 | 2021-05-08 |
 | [Bi Daha Bi Daha](https://open.spotify.com/track/6LsfvgCDhypMTR0ODFjoT1) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Bi Daha Bi Daha](https://open.spotify.com/album/1tebFD0J7cKzUFTKSMpxmH) | 3:16 | 2021-06-27 | 2021-07-01 |
 | [Bi Sonraki Hayatımda Gel](https://open.spotify.com/track/5SYkeNpjhJPFUMOP5TK8iw) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM) | 2:47 | 2021-04-08 | 2021-04-10 |
@@ -116,7 +116,7 @@
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 | 2022-09-03 |
 | [BİLDİRİMLER KAPALI](https://open.spotify.com/track/3Pyy3y16EesdzWOfVSQesl) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [BİLDİRİMLER KAPALI](https://open.spotify.com/album/77j2RhU8nPDGqfOzYxYVzA) | 2:32 | 2022-01-29 | 2022-01-31 |
 | [Bla Bla Bla Bla](https://open.spotify.com/track/6fhcwrfGQCBT0VpbtjMRIm) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 4:39 | 2022-06-04 | 2022-06-17 |
-| [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-04 |  |
+| [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-04 | 2022-12-10 |
 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 | 2021-05-20 | 2021-05-21 |
 | [Bonita](https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Bonita](https://open.spotify.com/album/7LODVV9sx3SfkuISMoyQ13) | 2:18 | 2021-06-27 | 2022-08-31 |
 | [BOZGUN](https://open.spotify.com/track/5OmwljVFUGG5xpbwH0BS7A) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 2:36 | 2021-06-13 | 2021-06-14 |
@@ -345,7 +345,7 @@
 | [Lütfen](https://open.spotify.com/track/6AVblFcGxnVp66PUmIcRIf) | [Straed](https://open.spotify.com/artist/1DBOwwrhpygRVJs6QKTtIA) | [Lütfen](https://open.spotify.com/album/1f4PePKL0J3waEvNsUP9J8) | 2:27 | 2021-08-20 | 2021-08-21 |
 | [Mahvettim](https://open.spotify.com/track/1GWxwShcDEdSvlr0jcpYI1) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/3hrus3W40mGxVJRPRKHrrP) | 2:36 | 2021-10-31 | 2022-01-05 |
 | [Mahvettim](https://open.spotify.com/track/1ji6PoTBfVXqycvsXdgZgp) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/6MYYIeblEVcAdUyFqIRIIq) | 2:36 | 2021-10-30 | 2022-05-13 |
-| [Mahşer](https://open.spotify.com/track/2RehF0hYbLDGxLTvjL0Xy6) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Mahşer](https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN) | 4:31 | 2022-04-12 |  |
+| [Mahşer](https://open.spotify.com/track/2RehF0hYbLDGxLTvjL0Xy6) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Mahşer](https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN) | 4:31 | 2022-04-12 | 2022-12-10 |
 | [MAKARON \- LÉ ORIGINAL](https://open.spotify.com/track/1Nq0FjJsVR06EYNZcyCvIG) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:57 | 2022-01-22 | 2022-01-26 |
 | [Makina](https://open.spotify.com/track/5jvhTc0g18kwYQNUJM5C4e) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:31 | 2021-03-27\* | 2022-03-30 |
 | [Marlon Brando](https://open.spotify.com/track/0O2zRCntGYssJk4bGn6dXk) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Marlon Brando](https://open.spotify.com/album/746vxoUmfdqRya2d924CPj) | 3:30 | 2021-05-09 | 2021-05-23 |
@@ -389,6 +389,7 @@
 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 | 2021-06-13 | 2021-06-14 |
 | [NERDESİN](https://open.spotify.com/track/3YHvDD4kOmU0aNyq9QH5tW) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [NERDESİN](https://open.spotify.com/album/0fE1B7BGyBGXQsKUKXmlcV) | 3:45 | 2021-04-26 | 2021-05-10 |
 | [Neyse Ne](https://open.spotify.com/track/1sLJtaMAbXGdvHDiPjg0eq) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Neyse Ne](https://open.spotify.com/album/395nlaZJns6xnreX5HdExs) | 2:56 | 2021-04-04 | 2021-04-11 |
+| [NKBİ](https://open.spotify.com/track/52KeXv6Ha1ndWru3WzdNkQ) | [Ali](https://open.spotify.com/artist/6PxZyYu4CsSp2TUaYTmmUx) | [NKBİ](https://open.spotify.com/album/41xu1RICTXRwblCxCC8wyK) | 2:58 | 2022-12-09 |  |
 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-06-06 |  |
 | [NKBİ 2.0](https://open.spotify.com/track/6a2HEgqlTmdxMOaLiLJz7O) | [Shuzky](https://open.spotify.com/artist/0LYZv1HvXUlUGnTXZeiAgw), [Godzee](https://open.spotify.com/artist/5vQvrYiNH2jK4GWSmbxK1T) | [NKBİ 2.0](https://open.spotify.com/album/1hif1tjTQ2RNijfzS8QWO7) | 2:58 | 2022-11-26 | 2022-12-01 |
 | [O \- CHORBA](https://open.spotify.com/track/0vhDm5t8sVsqPh9JOKTvaQ) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:57 | 2022-10-15 | 2022-10-20 |

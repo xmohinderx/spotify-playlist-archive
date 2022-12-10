@@ -4,10 +4,11 @@
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-169 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/5VTKv4gJGHX2mH8jSSC2Vt)
+169 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/5VTKv4gJGHX2mH8jSSC2Vt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 0:00 | 2020-11-24 |  |
 | [A Ti Sea La Gloria \(feat\. Marcela Gandara\)](https://open.spotify.com/track/4gkqlpX6YJXJeMICepszZe) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Un Brote De Adoracion 2](https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo) | 5:05 | 2020-11-24 | 2022-07-18 |
 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 | 2020-11-24 |  |
 | [Abro Mis Brazos](https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e) | [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [Acústico](https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V) | 3:49 | 2020-11-24 |  |
@@ -120,7 +121,6 @@
 | [Nadie Me Dijo](https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Amor Favor Gracia](https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS) | 4:18 | 2020-11-24 |  |
 | [No Basta](https://open.spotify.com/track/0x5bPI62nRetHyUiPykJwK) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Hoy Más Que Ayer](https://open.spotify.com/album/7HgsN9Iac7wiBz4TsucSBw) | 3:50 | 2020-11-24 |  |
 | [No Basta](https://open.spotify.com/track/2jP3Vq1WzlOTwCejhokGuN) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Hoy Más Que Ayer](https://open.spotify.com/album/623gBThpduIjV7x1vxfCPo) | 3:50 | 2020-11-24 | 2022-07-29 |
-| [No Crezcas Mas](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Irreversible](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 4:20 | 2020-11-24 |  |
 | [No Crezcas Más](https://open.spotify.com/track/6rO8OuBnXrEusZgnzMj4Br) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Irreversible](https://open.spotify.com/album/49ZQTKyiGfLtv1jWEZxxJm) | 4:20 | 2020-11-24 | 2022-07-29 |
 | [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 | 2020-11-24 |  |
 | [No Me Digas Adiós](https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Dios Siempre Tiene el Control](https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv) | 4:45 | 2020-11-24 |  |

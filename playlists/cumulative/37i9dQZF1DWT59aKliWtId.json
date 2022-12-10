@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality blend ft. First Aid Kit",
+  "description": "The highest quality blend ft. The Arcs",
   "name": "Grade A",
   "published_playlist_ids": [
     "5atRHR4vc4jlkDH31Rwpnd"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 237320,
       "name": "A.M. RADIO",
       "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 330653,
       "name": "Comes In Waves",
       "url": "https://open.spotify.com/track/5bLn8Dnmv1MzrQ536k5XdE"
@@ -1997,6 +1997,24 @@
       "duration_ms": 212142,
       "name": "Devil I Know",
       "url": "https://open.spotify.com/track/1WcNBLTw8rPnD5oRb5qEau"
+    },
+    {
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL"
     },
     {
       "album": {
@@ -2563,6 +2581,24 @@
       "duration_ms": 184847,
       "name": "Excited Ones",
       "url": "https://open.spotify.com/track/0g7SEOa5ilYJJt6lxTHDOH"
+    },
+    {
+      "album": {
+        "name": "Eyez",
+        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Eyez",
+      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
     },
     {
       "album": {
@@ -5984,6 +6020,24 @@
     },
     {
       "album": {
+        "name": "Milk Teeth",
+        "url": "https://open.spotify.com/album/2SH7pbrUVL6DRWB6g8BALw"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Neon Signs",
+      "url": "https://open.spotify.com/track/6JZj85Iz5sc4cGKvOefO7G"
+    },
+    {
+      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/0pZgWeVFEMFEkLljfazaCr"
       },
@@ -6331,7 +6385,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 200336,
       "name": "Oh Cecilia",
       "url": "https://open.spotify.com/track/6diHlXYoz0YgK3mZ8o1HNT"
@@ -6533,7 +6587,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 152362,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/4VXGsmZkyqUmF6ClElnd23"
@@ -8589,10 +8643,32 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 222026,
       "name": "Swan Upon Leda",
       "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
+    },
+    {
+      "album": {
+        "name": "Sweet Symphony",
+        "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228076,
+      "name": "Sweet Symphony (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
     },
     {
       "album": {
@@ -9378,6 +9454,24 @@
     },
     {
       "album": {
+        "name": "This Year",
+        "url": "https://open.spotify.com/album/6TYFFAcE5IWeqVMrwxdhDd"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194575,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/4qfKdJO2DNS7xPwQgy78ji"
+    },
+    {
+      "album": {
         "name": "Through The Echoes / Lose It",
         "url": "https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC"
       },
@@ -9483,7 +9577,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 241666,
       "name": "Today",
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"

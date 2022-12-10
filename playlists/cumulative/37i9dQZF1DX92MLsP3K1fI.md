@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Thalía en portada.
 
-157 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
+159 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Baila Baila](https://open.spotify.com/track/3FlWxZwKNgrIYmrffyMK3f) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Baila Baila](https://open.spotify.com/album/123bVeEVLsA0hSCAdV7ePG) | 4:28 | 2022-02-25 | 2022-03-23 |
 | [Bailando al Amanecer](https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Bailando al Amanecer](https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5) | 3:56 | 2022-06-02 | 2022-11-01 |
 | [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 | 2022-06-10 |  |
+| [Bien Por Ti](https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Bien Por Ti](https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5) | 2:34 | 2022-12-09 |  |
 | [Blanco Y Negro](https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Blanco Y Negro](https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp) | 3:23 | 2022-04-22 | 2022-04-24 |
 | [BOY BYE](https://open.spotify.com/track/1rskNLiG7qPmvaJWnQ6Ijw) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [BOY BYE](https://open.spotify.com/album/7DoGqiWF84pl0Rh4xUGOC7) | 3:08 | 2022-02-18 | 2022-06-22 |
 | [Brutal](https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Brutal](https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T) | 2:43 | 2022-06-15 | 2022-09-02 |
@@ -61,7 +62,7 @@
 | [Exclusivos](https://open.spotify.com/track/53NibtEaqljnpqjTRh3oNQ) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv), [Elisama](https://open.spotify.com/artist/2G5sbmIkoE8hZpNdXHHhrU) | [Exclusivos](https://open.spotify.com/album/0fh4TVwLVCFHpzlt777dpy) | 3:07 | 2022-02-04 | 2022-07-26 |
 | [Feelin’ U](https://open.spotify.com/track/2CHnGGcS7pO8SnaprKdjog) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Feelin’ U](https://open.spotify.com/album/3BZtJGg47lgiFRFSAVUqlr) | 3:05 | 2022-02-04 | 2022-07-27 |
 | [Frida](https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Frida](https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK) | 2:47 | 2022-12-02 |  |
-| [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 | 2022-02-04 |  |
+| [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 | 2022-02-04 | 2022-12-10 |
 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 | 2022-02-04 |  |
 | [Hola, ¿Qué Tal?](https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Hola, ¿Qué Tal?](https://open.spotify.com/album/3k9BginlCEQlACX95UdAme) | 2:48 | 2022-02-04 | 2022-02-16 |
 | [Hora y Cuarto \- Single Version](https://open.spotify.com/track/2pqRUZyX7LOC2FgoawYtG8) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Alaska](https://open.spotify.com/artist/5ppm4jKbRPVMwuBO3DwnWB) | [Hora y Cuarto](https://open.spotify.com/album/3j8ns8OLszeAGzbem3Ei6C) | 3:53 | 2022-02-04 | 2022-08-22 |
@@ -117,11 +118,12 @@
 | [Por ti](https://open.spotify.com/track/1bgpFTASKqTZiBXjM3somT) | [Famasloop](https://open.spotify.com/artist/0XHiwpimzCx4fWUdtniRC7) | [Lo Más Seguro Es Que Quién Sabe](https://open.spotify.com/album/6wSMFRm8HwZI7ygxo0zS0L) | 3:31 | 2022-09-23 | 2022-12-03 |
 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 | 2022-11-14 |  |
 | [Put Your Money](https://open.spotify.com/track/6SKIDMQzzPqT348oFTVr0N) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW) | [JUMP](https://open.spotify.com/album/08UCL77Bqi7KC6XSjkVgLN) | 3:18 | 2022-05-20 | 2022-05-31 |
+| [Que Hueva](https://open.spotify.com/track/3azbX22yptxcL69DQXyEbd) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [heartbreaker](https://open.spotify.com/album/2fpH8T5bUzB88IxqMjcT8y) | 2:55 | 2022-12-09 |  |
 | [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 | 2022-06-03 | 2022-07-28 |
 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 | 2022-02-04 |  |
 | [Recuerdo contigo </3](https://open.spotify.com/track/6UsZkU73WoXh2i2qHjzguf) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Recuerdo contigo </3](https://open.spotify.com/album/1vobSeDg4RDZxUbCyDDk7s) | 3:08 | 2022-12-02 |  |
 | [Rubia O Morena](https://open.spotify.com/track/2VR24KhfUigt65Ta92WUEQ) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Rubia O Morena](https://open.spotify.com/album/32w5DFYXF4RPKL3qbxvQU1) | 2:44 | 2022-03-04 | 2022-05-21 |
-| [Se Pone A Beber](https://open.spotify.com/track/5xoFIA7Tp9tEsD78PpkBwn) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [Se Pone A Beber](https://open.spotify.com/album/7wYM9wF9zYryzFz9yWabuA) | 2:43 | 2022-09-23 |  |
+| [Se Pone A Beber](https://open.spotify.com/track/5xoFIA7Tp9tEsD78PpkBwn) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [Se Pone A Beber](https://open.spotify.com/album/7wYM9wF9zYryzFz9yWabuA) | 2:43 | 2022-09-23 | 2022-12-10 |
 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 | 2022-02-25 | 2022-05-20 |
 | [Sexo Pudor y Lagrimas \- Banda Sonora De la Película](https://open.spotify.com/track/42MW4FhAIvSZLmzTk40SkM) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Sexo Pudor y Lagrimas 2 \(Música Original de la Película\)](https://open.spotify.com/album/021XWHKRxVNQmCP9B0g1qu) | 4:19 | 2022-02-04 | 2022-03-04 |
 | [Shake It](https://open.spotify.com/track/2dRtUEV3LSBP3RjmYbSRof) | [LemonGrass](https://open.spotify.com/artist/0988g1pgIlWAKBVf3DQ7db), [Mia Rubin](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Shake It](https://open.spotify.com/album/4tnVkc0GEYYJWxGH0nMDho) | 3:24 | 2022-02-04 | 2022-07-29 |

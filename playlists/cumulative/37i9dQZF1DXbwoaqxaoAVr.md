@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-128 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
+129 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Lucky \(feat\. Emily King\)](https://open.spotify.com/track/10RokxYn1aqGPeKGT5Z1C3) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Lucky \(Deluxe\)](https://open.spotify.com/album/42ejzMaOuiyLrUzaGg433c) | 4:06 | 2021-11-25 |  |
 | [Mad World](https://open.spotify.com/track/2hNV55lee10JvRSQ918fMn) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/0OUG8M7SX8AXQCs9LfI3ke) | 2:30 | 2022-10-28 | 2022-12-05 |
 | [Mad World](https://open.spotify.com/track/7CgedTnm0Ehh8O1Iaa8OwM) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/5EypOXAENUBdyfTAHbLTe9) | 2:30 | 2022-11-10 |  |
-| [Magic Potion](https://open.spotify.com/track/3wE1mg5XLt1HR4BC3Dm6Tg) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/1rtJZt0m57FZBKe3F9e6M4) | 4:12 | 2021-11-25 |  |
+| [Magic Potion](https://open.spotify.com/track/3wE1mg5XLt1HR4BC3Dm6Tg) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/1rtJZt0m57FZBKe3F9e6M4) | 4:12 | 2021-11-25 | 2022-12-10 |
+| [Magic Potion](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 | 2022-12-06 |  |
 | [Make Love](https://open.spotify.com/track/0FQJrnW7nH6P2LJsPk4aqX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs) | 5:35 | 2021-11-25 |  |
 | [Monde de fous](https://open.spotify.com/track/2c8SxnR1Y9m7v5WnpfaoZp) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Monde de fous](https://open.spotify.com/album/4FB0GAPMr9qkmJoSBuq4kW) | 3:54 | 2021-11-25 | 2022-04-29 |
 | [Morning Is Coming \(with Shaggy\)](https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [44/876 \(Deluxe\)](https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l) | 3:11 | 2021-11-25 |  |

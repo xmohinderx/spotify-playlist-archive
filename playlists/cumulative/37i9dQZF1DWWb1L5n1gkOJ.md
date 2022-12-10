@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-116 songs - 5 hr 29 min - not published yet
+117 songs - 5 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Crystal Grid, Pt\. 1](https://open.spotify.com/track/0tRgzV9zTGDG51NWCDI9li) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Reiki Healing](https://open.spotify.com/album/53nBbgsW6vWkFgfEKlriyu) | 3:24 | 2022-10-12 |  |
 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-10-12 | 2022-11-23 |
 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 | 2022-10-12 |  |
+| [Daybreak](https://open.spotify.com/track/6XEh5HfvUIdJiyujQ3HnoT) | [Tehan Form](https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij) | [Daybreak](https://open.spotify.com/album/2W7g2RcbpDsH9cmmKsnlih) | 2:54 | 2022-12-09 |  |
 | [Departure](https://open.spotify.com/track/2fMHpHh9mWIGyqWSlZsg9M) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Departure](https://open.spotify.com/album/3NZQJVGMmErMbQhDPJttsY) | 2:55 | 2022-10-12 |  |
 | [Di Sini Dan Kini](https://open.spotify.com/track/5Z6Upi9bxSyk8jQzsF0Cka) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Di Sini Dan Kini](https://open.spotify.com/album/5A9XzJpMCg7JkYibgnfIEh) | 2:23 | 2022-10-12 |  |
 | [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-10-12 |  |

@@ -2,7 +2,7 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
 
-> Éxitos urbanos de Latinoamérica con Arcangel.
+> Éxitos urbanos de Latinoamérica con Bellakath.
 
 409 songs - 23 hr 7 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Arcangel & Bad Bunny ",
+  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Maria Becerra",
   "name": "Viva Latino",
   "published_playlist_ids": [
     "5BhGHTGbq4HOInzfEXtLEB"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 191555,
       "name": "A Veces (feat. Feid)",
       "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 141340,
       "name": "Caile",
       "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
@@ -1382,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152004,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL"
+    },
+    {
+      "album": {
         "name": "GAT\u00daBELA",
         "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
       },
@@ -1666,6 +1684,24 @@
     },
     {
       "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154626,
+      "name": "Kaleidosc\u00f3pica",
+      "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -1828,6 +1864,46 @@
     },
     {
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151988,
+      "name": "LA NENA DE ARGENTINA",
+      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
+    },
+    {
+      "album": {
+        "name": "SIXDO",
+        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "La Pasamos CXBRXN",
+      "url": "https://open.spotify.com/track/672zDo2nzWSoIIQ7zD5kuj"
+    },
+    {
+      "album": {
         "name": "La Trampa es Ley",
         "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
@@ -1861,6 +1937,32 @@
       "duration_ms": 167674,
       "name": "La Triple T",
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "album": {
+        "name": "LACONE",
+        "url": "https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260952,
+      "name": "LACONE",
+      "url": "https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J"
     },
     {
       "album": {
@@ -2753,7 +2855,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 157000,
       "name": "NO HAY LEY",
       "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
@@ -3315,7 +3417,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 166253,
       "name": "Prohibidox",
       "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
@@ -4089,7 +4191,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"

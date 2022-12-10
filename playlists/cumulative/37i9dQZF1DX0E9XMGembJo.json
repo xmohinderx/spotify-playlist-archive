@@ -4468,6 +4468,28 @@
     },
     {
       "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Mendiola",
+          "url": "https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO"
+        },
+        {
+          "name": "Ted Fresco",
+          "url": "https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165793,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i"
+    },
+    {
+      "album": {
         "name": "Painted",
         "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
       },
@@ -4509,6 +4531,24 @@
       "duration_ms": 207000,
       "name": "Lately",
       "url": "https://open.spotify.com/track/5awvelCGpDQHwgZem0ira9"
+    },
+    {
+      "album": {
+        "name": "LEMON LIME",
+        "url": "https://open.spotify.com/album/4wZ5SnY6NjtiCf4NycJxSZ"
+      },
+      "artists": [
+        {
+          "name": "Bestfriend",
+          "url": "https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178689,
+      "name": "LEMON LIME",
+      "url": "https://open.spotify.com/track/1kiQfpmbMrcDO7o9e7GBH6"
     },
     {
       "album": {
@@ -7463,7 +7503,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 158205,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
@@ -8845,7 +8885,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 207333,
       "name": "Young, Wild & Free (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Andy Shauf",
+  "description": "A laid-back trip in the folk scene. Cover: Noah Kahan",
   "name": "Folk & Friends",
   "published_playlist_ids": [
     "5U0EeaLNxWf1VoBuo6txNc"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 241600,
       "name": "Bird Without Wings",
       "url": "https://open.spotify.com/track/04anQtHIm8VdSINRrpijHq"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 267029,
       "name": "Cannot Change It All",
       "url": "https://open.spotify.com/track/3o0DkaDAeuO8mXFqdgCVXv"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 178965,
       "name": "Desert Road",
       "url": "https://open.spotify.com/track/0KlEiSPThHV6VBbMVXaUQ4"
@@ -2258,6 +2258,46 @@
     },
     {
       "album": {
+        "name": "Light in Me",
+        "url": "https://open.spotify.com/album/7Dvwbd49vsYVL1oPezhsDp"
+      },
+      "artists": [
+        {
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        },
+        {
+          "name": "Rod Coote",
+          "url": "https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172037,
+      "name": "Light in Me",
+      "url": "https://open.spotify.com/track/26a0XK6phpV2mCZ6LlMFFy"
+    },
+    {
+      "album": {
+        "name": "Seventeen Going Under (Live Deluxe)",
+        "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "Little Bull Of Blithe",
+      "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
+    },
+    {
+      "album": {
         "name": "Lost In The Water",
         "url": "https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4"
       },
@@ -2939,7 +2979,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 227111,
       "name": "Other Rivers",
       "url": "https://open.spotify.com/track/1Y2Oah15zszzFVtCw0seA3"
@@ -3449,6 +3489,24 @@
       "duration_ms": 243641,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6"
+    },
+    {
+      "album": {
+        "name": "Should've Drowned",
+        "url": "https://open.spotify.com/album/7eOnY5aNvOMhXBJNGCwlwC"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216966,
+      "name": "Should've Drowned",
+      "url": "https://open.spotify.com/track/68WkQbTM7Fs1Wj0hPT7iZV"
     },
     {
       "album": {
@@ -4197,6 +4255,24 @@
       "duration_ms": 241520,
       "name": "This Book",
       "url": "https://open.spotify.com/track/5TC1Fufom6S1e0GgwwLij1"
+    },
+    {
+      "album": {
+        "name": "This City",
+        "url": "https://open.spotify.com/album/4mIj6C6X8wflQ3HP9nfIhm"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200265,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/6r794TiASWZgXGleR2425l"
     },
     {
       "album": {

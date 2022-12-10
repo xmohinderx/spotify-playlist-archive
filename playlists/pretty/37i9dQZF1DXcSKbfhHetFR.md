@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,614 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,625 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 12 | [Gros tas d'marde](https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV) | 3:10 |
 | 13 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 |
 | 14 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
-| 15 | [R'viens Pas Trop Tard](https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS) | [Zebulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil Du Zig](https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe) | 3:27 |
+| 15 | [R'viens Pas Trop Tard](https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS) | [Zébulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil Du Zig](https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe) | 3:27 |
 | 16 | [Crabe](https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm) | [Les Goules](https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA) | [Les Goules](https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC) | 3:38 |
 | 17 | [Magané](https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk) | 3:47 |
 | 18 | [Johnny go](https://open.spotify.com/track/1SLovCqrzoxNbzT6AJGZhi) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [1985\-2003 Je joue de la guitare](https://open.spotify.com/album/13dpLxuec4cGilEfXHNeOR) | 5:28 |

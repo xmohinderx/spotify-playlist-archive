@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 164254,
       "name": "AWESOME",
       "url": "https://open.spotify.com/track/5O6XUXibuVgl0folQt5e4p"
@@ -565,6 +565,28 @@
       "duration_ms": 177733,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8"
+    },
+    {
+      "album": {
+        "name": "Close To Home",
+        "url": "https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Baby (feat. Ashanti)",
+      "url": "https://open.spotify.com/track/4wHkV6OpCanrNg2PRNhWjM"
     },
     {
       "album": {
@@ -1359,7 +1381,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
@@ -2367,7 +2389,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
@@ -3897,7 +3919,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 113814,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/753cO5OnvTsCFGQXI5XHML"
@@ -5060,6 +5082,24 @@
     },
     {
       "album": {
+        "name": "Luv 4 Rent",
+        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175018,
+      "name": "No L's",
+      "url": "https://open.spotify.com/track/12CNybio0Bxean3F3uYugU"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/16BbKsl9JDW5bFIxJ6DTKg"
       },
@@ -5253,7 +5293,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 189629,
       "name": "Omgoddess",
       "url": "https://open.spotify.com/track/4EqHlDuhSRl03fBMA5pK2c"
@@ -5809,7 +5849,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
@@ -6557,6 +6597,28 @@
       "duration_ms": 221773,
       "name": "Settled (feat. Russ)",
       "url": "https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk"
+    },
+    {
+      "album": {
+        "name": "She Know",
+        "url": "https://open.spotify.com/album/3dPd8uPJ6QwoKvnxzXnGhn"
+      },
+      "artists": [
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155544,
+      "name": "She Know",
+      "url": "https://open.spotify.com/track/3iIXhhRB1zP1SIiu45zYV4"
     },
     {
       "album": {
@@ -7457,7 +7519,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 105194,
       "name": "Sweet Yamz",
       "url": "https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI"
@@ -7519,6 +7581,24 @@
       "duration_ms": 111840,
       "name": "Talk Nice",
       "url": "https://open.spotify.com/track/1qo8LZ0OHfObYJpA8Zdfhl"
+    },
+    {
+      "album": {
+        "name": "Not a Statistic",
+        "url": "https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136813,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
     },
     {
       "album": {
@@ -7806,6 +7886,24 @@
     },
     {
       "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185201,
+      "name": "Turn Off The Radio",
+      "url": "https://open.spotify.com/track/1Jm9YFU7BLkDR2dSOb8ebB"
+    },
+    {
+      "album": {
         "name": "Typa Way",
         "url": "https://open.spotify.com/album/1v8obs02a28Pv1b6Mbjnir"
       },
@@ -7995,6 +8093,28 @@
       "duration_ms": 186677,
       "name": "Usain Boo",
       "url": "https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146950,
+      "name": "Used (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1TweDM3JC49LNeelLVg3yX"
     },
     {
       "album": {

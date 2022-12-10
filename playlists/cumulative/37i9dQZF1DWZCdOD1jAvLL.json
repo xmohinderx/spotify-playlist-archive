@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Ride the bassline. Cover: Michael Sparks",
+  "description": "Ride the bassline. Cover: jeonghyeon",
   "name": "Bangers",
   "published_playlist_ids": [
     "2inX9KjLJ9q0s1JwzrIqze"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 147604,
       "name": "All I Want To Do",
       "url": "https://open.spotify.com/track/6VeJvewq2YkBDUXEL6afbC"
@@ -1410,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Come Back to Me",
+        "url": "https://open.spotify.com/album/0eILQbXrlfdGPAWWmDAjM5"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217738,
+      "name": "Come Back to Me",
+      "url": "https://open.spotify.com/track/0wGFG26QzuMRH03ACmlyW7"
+    },
+    {
+      "album": {
         "name": "Crank",
         "url": "https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD"
       },
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 144608,
       "name": "Feed My Hunger (No Shade)",
       "url": "https://open.spotify.com/track/0hsjCTNkruMDApePUJZMKv"
@@ -3071,7 +3089,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 215238,
       "name": "Into My Arms - Radio Edit",
       "url": "https://open.spotify.com/track/66XJcRIDGLTuH7YIcdl8i6"
@@ -3651,7 +3669,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 279677,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/10PrnkYAVa90S27nMDPps9"
@@ -3774,6 +3792,28 @@
     },
     {
       "album": {
+        "name": "Losing",
+        "url": "https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Losing",
+      "url": "https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/6CMZK3G1qaa72PG24mQy7v"
       },
@@ -3891,6 +3931,36 @@
       "duration_ms": 212682,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/7xz0zWS9RGucopvS2i1GZC"
+    },
+    {
+      "album": {
+        "name": "MAS GASOLINA (feat. N.F.I) [Raffa FL Remix]",
+        "url": "https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Ryan Arnold",
+          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+        },
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "N.F.I",
+          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195838,
+      "name": "MAS GASOLINA (feat. N.F.I) - Raffa FL Remix",
+      "url": "https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr"
     },
     {
       "album": {
@@ -4847,7 +4917,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 388543,
       "name": "Ossington",
       "url": "https://open.spotify.com/track/4jKH7fJtZi07pI8ptnuYMd"
@@ -5603,6 +5673,32 @@
       "duration_ms": 222928,
       "name": "RIP",
       "url": "https://open.spotify.com/track/17dPQMxsqyWBlNI9mSyAmu"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4RhhoTQSL1nuBWHOuL1Pau"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Leah Culver",
+          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/71B802cRMsrJ0GuzJH8q8o"
     },
     {
       "album": {
@@ -6380,6 +6476,28 @@
     },
     {
       "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169658,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
+    },
+    {
+      "album": {
         "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
         "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
       },
@@ -6978,6 +7096,28 @@
     },
     {
       "album": {
+        "name": "Transmission (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224274,
+      "name": "Transmission - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "album": {
         "name": "Trials (NGHTMRE & SPACE LACES Club Mix)",
         "url": "https://open.spotify.com/album/5BhTksD3LCLkchjrS2I5HZ"
       },
@@ -7190,6 +7330,36 @@
     },
     {
       "album": {
+        "name": "Turn On The Lights again.. (feat. Future) [Solomun Remix]",
+        "url": "https://open.spotify.com/album/5uJJDoI0Kr5mmJKrPsStug"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357088,
+      "name": "Turn On The Lights again.. (feat. Future) - Solomun Remix",
+      "url": "https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr"
+    },
+    {
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/3AxNTKF8r1khG4EWKxbiQQ"
       },
@@ -7391,7 +7561,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 160638,
       "name": "We Don't Ever Stop",
       "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
@@ -7567,7 +7737,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 158677,
       "name": "You Be Mine",
       "url": "https://open.spotify.com/track/4FaEnMfs9lzN35MGbrOJer"

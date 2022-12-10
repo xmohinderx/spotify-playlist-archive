@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-267 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+268 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2022-11-18 |  |
 | [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 | 2022-01-27 | 2022-06-03 |
 | [Godzilla](https://open.spotify.com/track/6X3XvthYOhT8SHIJpY7sKw) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [Godzilla](https://open.spotify.com/album/0xodabdosMvBKkBtTLfmuK) | 3:52 | 2022-09-22 |  |
+| [Goodbye](https://open.spotify.com/track/4vSnZR2POAHKIbE7B362Wd) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH \(Deluxe Edition\)](https://open.spotify.com/album/4JbHzfL3iwGrbYVOClW0n9) | 4:20 | 2022-12-09 |  |
 | [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-05 | 2022-07-29 |
 | [Gotta Let It Go](https://open.spotify.com/track/7Mu5u6zgKWRj020HFsEnFc) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:56 | 2022-06-30 | 2022-09-07 |
 | [Great Mass of Color](https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Great Mass of Color](https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp) | 6:00 | 2021-12-16 | 2022-02-11 |
@@ -207,7 +208,7 @@
 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 | 2022-05-19 | 2022-11-26 |
 | [Scared Together](https://open.spotify.com/track/44KmH8YZX9kypWnxcQwkw5) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Physical Thrills](https://open.spotify.com/album/2NqgOQKY5RB7UPmnhcyWEb) | 3:56 | 2022-09-06 | 2022-10-01 |
 | [see red](https://open.spotify.com/track/5VnWXQhBVKpW2J22VGnY99) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [see red](https://open.spotify.com/album/4CzCKNNmMVVS1J89FkcwZr) | 3:27 | 2021-12-16 | 2022-03-04 |
-| [Self Doubt](https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J) | [Moonball](https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj) | [Self Doubt](https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O) | 2:59 | 2022-09-06 |  |
+| [Self Doubt](https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J) | [Moonball](https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj) | [Self Doubt](https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O) | 2:59 | 2022-09-06 | 2022-12-10 |
 | [Self Portrait](https://open.spotify.com/track/3hyNFwOZD4Gn9OiTaVuXrd) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Magic Hour](https://open.spotify.com/album/4SjIdmDhVUA1eunwERtgPv) | 3:32 | 2022-10-14 |  |
 | [Separate Ways](https://open.spotify.com/track/2Aj29eavK4DmnduCE8UXsA) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Separate Ways](https://open.spotify.com/album/2YYRNRiW5C1FZiET3a1UVq) | 1:57 | 2021-12-16 | 2022-04-15 |
 | [SEX DOPE GOLD](https://open.spotify.com/track/3jxOhd8XKXjNjV84USrER4) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [SEX DOPE GOLD](https://open.spotify.com/album/1eu5Cb1GTFJjTGOABSKjsI) | 2:57 | 2022-02-24 | 2022-05-27 |

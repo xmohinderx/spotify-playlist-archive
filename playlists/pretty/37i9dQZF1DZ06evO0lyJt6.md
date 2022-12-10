@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,398 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,415 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 50 | [Te Prometo](https://open.spotify.com/track/52e9XXEgDuyQ1FYK5aJaYZ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Te Prometo](https://open.spotify.com/album/2LP0reDguNHlmKi0C1mS8V) | 3:58 |
 | 51 | [Mundos Diferentes](https://open.spotify.com/track/2dw3SduPYpYv4ggL4f8Zqn) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mundos Diferentes](https://open.spotify.com/album/6czi1PBL1Bvjmi6nWfmtOQ) | 3:17 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDBkNWY4ZGQ1NGJkNzdmZjU5NWIwNDNiYzA1MTU5MzlmZg==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBkZjdhMTlhMjg5ZWFkNjdiMmI3YTA1YWViMTFhNWE3Nw==`

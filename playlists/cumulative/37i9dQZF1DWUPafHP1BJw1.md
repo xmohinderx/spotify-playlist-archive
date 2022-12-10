@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-147 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
+148 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Total Eclipse of the Heart \(feat\. Simply Three\)](https://open.spotify.com/track/19L0jgD9mr8QOy9kxr7LZS) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Total Eclipse of the Heart \(feat\. Simply Three\)](https://open.spotify.com/album/0sZwPaM40mIDElKRmnYvAb) | 4:33 | 2021-11-19 |  |
 | [Traitor \- arr\. String Quartet \(inspired by Bridgerton\)](https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Traitor \[arr\. String Quartet \(inspired by Bridgerton\)\]](https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga) | 3:42 | 2022-04-01 |  |
 | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8) | 2:43 | 2021-11-19 |  |
+| [Unholy](https://open.spotify.com/track/5COQiZO96OTpgWPLOglz4N) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Unholy](https://open.spotify.com/album/0kdzhwPZRoeJ5Ta8Y4Vfq5) | 3:09 | 2022-12-09 |  |
 | [Waiting on the World to Change \- Instrumental](https://open.spotify.com/track/4DOZYZ45UAwfx6CTuvIF2d) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Waiting on the World to Change \(Instrumental\)](https://open.spotify.com/album/1qd3fl7QXEqFFA5FoMm7pk) | 3:06 | 2021-11-19 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/3vZ5bB1uAQQsG6N78BvaIJ) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Watermelon Sugar](https://open.spotify.com/album/25ejJm7KpguIh1zBc3q7ev) | 2:55 | 2022-05-13 |  |
 | [We Are the Champions \(Arr\. S\. Mulligan for Piano\)](https://open.spotify.com/track/3w2R0fwS0APnP1hKPNI2kB) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH), [Simon Mulligan](https://open.spotify.com/artist/6HOM0TW25PhhjMXcif7xQw) | [Who Wants to Live Forever: Queen on a Steinway](https://open.spotify.com/album/2VH1mSWHCYUqQMRsD3FazF) | 3:01 | 2021-11-19 | 2022-05-14 |

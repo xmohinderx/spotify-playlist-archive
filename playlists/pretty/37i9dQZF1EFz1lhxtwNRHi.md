@@ -110,10 +110,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 100 | [Hold On To Me](https://open.spotify.com/track/64cNNOHp4pXPgpS7ZRRUS1) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 3:04 |
 | 101 | [Room for One More](https://open.spotify.com/track/5381XmHRfSnSDH2YcQrdfy) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 4:07 |
 | 102 | [Colors \(feat\. Liza Owen\)](https://open.spotify.com/track/6C94uudp1S9fOKJQ7sxrEG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:41 |
-| 103 | [Ordinary Man](https://open.spotify.com/track/5U9oCmRbpS5VouLyPdfJIg) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 4:21 |
-| 104 | [Celebrity](https://open.spotify.com/track/64qEkCn9ntAmCUdVL6uG4u) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 3:02 |
-| 105 | [Do Ya?](https://open.spotify.com/track/3cRSyAAVCA2EPwCIemlUps) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Do You Think About Me](https://open.spotify.com/album/05vm8Q18u4xfnRTk5LNhgm) | 3:36 |
-| 106 | [DRESS UP](https://open.spotify.com/track/76bt0UPQdWBag54VPDS3LL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:50 |
+| 103 | [Celebrity](https://open.spotify.com/track/64qEkCn9ntAmCUdVL6uG4u) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 3:02 |
+| 104 | [Ordinary Man](https://open.spotify.com/track/5U9oCmRbpS5VouLyPdfJIg) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 4:21 |
+| 105 | [DRESS UP](https://open.spotify.com/track/76bt0UPQdWBag54VPDS3LL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:50 |
+| 106 | [Do Ya?](https://open.spotify.com/track/3cRSyAAVCA2EPwCIemlUps) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Do You Think About Me](https://open.spotify.com/album/05vm8Q18u4xfnRTk5LNhgm) | 3:36 |
 | 107 | [Shake It Off](https://open.spotify.com/track/3KYLjmsRTdWQEV3VL5iJSh) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:28 |
 | 108 | [Trash](https://open.spotify.com/track/3ETGCH7qwgDpfTLytMGVAR) | [Model Child](https://open.spotify.com/artist/3zZPv8aJhRywJjUqOLFe0O) | [Trash](https://open.spotify.com/album/45YZhqE6PEbrx0h2iOC3Vz) | 2:14 |
 | 109 | [Prescriptions](https://open.spotify.com/track/6TNZaCv1Togun3NT1HqdP9) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:47 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 143 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 144 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc4NDI0NjgsMDAwMDAwMDBmZDFmODUxY2Q0MTQ4ZjkxYjA4MDFmN2I0ZTdhOTAwMg==`
+Snapshot ID: `Mjc4NDM5MDgsMDAwMDAwMDAxYTRhMGYxYzBmNGE0ZTgzOGQwYzhmMzRiZjQ3ZjRlNg==`

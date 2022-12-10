@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 108710,
+  "num_followers": 108755,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1MTczNiwwMDAwMDAwMDVkMjhlOTFhYjdhYzYyMWQwY2RjNDJkNTJjYThhY2Zk",
+  "snapshot_id": "MTY3MDU3ODkyOSwwMDAwMDAwMDA5ZTIzZWI3M2JlYzMzMzc2MDZiZDFiZGI4OGVlMzE1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -57,26 +57,6 @@
       "url": "https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Boundaries (DRAMA Remix)",
-        "url": "https://open.spotify.com/album/0KFOUugVRJwr9pnevuIrtl"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 220411,
-      "name": "Boundaries - DRAMA Remix",
-      "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Honestly, Nevermind",
@@ -91,6 +71,30 @@
       "duration_ms": 243227,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
       "added_at": "2022-08-12 04:16:30",
@@ -149,44 +153,40 @@
       "url": "https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
-      "added_at": "2022-09-23 04:08:19",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Self-Contained",
-        "url": "https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "DWY",
-          "url": "https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 217485,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK"
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
       "added_at": "2022-07-29 04:11:59",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -251,66 +235,6 @@
       "duration_ms": 96133,
       "name": "Break it off - Bonus",
       "url": "https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1"
-    },
-    {
-      "added_at": "2022-08-05 04:16:42",
-      "album": {
-        "name": "Ce Soir",
-        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Ce Soir",
-      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -333,6 +257,26 @@
       "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
     },
     {
+      "added_at": "2022-08-05 04:16:42",
+      "album": {
+        "name": "Ce Soir",
+        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Ce Soir",
+      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Don't Forget My Love",
@@ -351,6 +295,66 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "U Are My High (with Future)",
+        "url": "https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "U Are My High (with Future)",
+      "url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7"
     },
     {
       "added_at": "2022-10-28 04:39:09",
@@ -373,20 +377,20 @@
       "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2022-11-18 06:08:56",
       "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+        "name": "POP!",
+        "url": "https://open.spotify.com/album/2hDGxRzjtmYbq977e9CCPa"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
         }
       ],
-      "duration_ms": 138268,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
+      "duration_ms": 196063,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/2M9AnJN0YIrkWtKXaUj56Q"
     },
     {
       "added_at": "2022-09-09 04:08:54",
@@ -405,24 +409,64 @@
       "url": "https://open.spotify.com/track/76oTS246cR6Qnk9UznLk0K"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2022-12-10 01:13:31",
       "album": {
-        "name": "U Are My High (with Future)",
-        "url": "https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG"
+        "name": "Ejoya Class of '22",
+        "url": "https://open.spotify.com/album/74VogAYkcqXfg2SnkgFW9H"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Ejoya",
+          "url": "https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe"
+        },
+        {
+          "name": "Tchella",
+          "url": "https://open.spotify.com/artist/6XUDmNo0UycZOMBWE3JU1S"
+        },
+        {
+          "name": "Jesse Alordiah",
+          "url": "https://open.spotify.com/artist/1SirH3jX4VbETzustXAkal"
         }
       ],
-      "duration_ms": 211200,
-      "name": "U Are My High (with Future)",
-      "url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7"
+      "duration_ms": 177280,
+      "name": "Losing Me",
+      "url": "https://open.spotify.com/track/3cCycSfiDl5FuXjSHV8ELu"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 138268,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Euphonyus",
+        "url": "https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 229505,
+      "name": "warmest winter.",
+      "url": "https://open.spotify.com/track/4g6by7LB72YVpIP2RDmWiH"
     },
     {
       "added_at": "2022-07-29 04:11:59",
@@ -453,42 +497,6 @@
       "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Euphonyus",
-        "url": "https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 229505,
-      "name": "warmest winter.",
-      "url": "https://open.spotify.com/track/4g6by7LB72YVpIP2RDmWiH"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
-    },
-    {
       "added_at": "2022-09-23 04:08:19",
       "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
@@ -507,6 +515,26 @@
       "duration_ms": 196965,
       "name": "Bleu (better with time)",
       "url": "https://open.spotify.com/track/7mRD0qvI5y0SZ4DPhpejdd"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -621,26 +649,6 @@
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
-    },
-    {
       "added_at": "2022-10-28 04:39:09",
       "album": {
         "name": "Rose Rouge",
@@ -695,6 +703,26 @@
       "duration_ms": 233537,
       "name": "24k",
       "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
+    },
+    {
+      "added_at": "2022-08-05 04:16:42",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -755,26 +783,6 @@
       "duration_ms": 112762,
       "name": "Bag",
       "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
-    },
-    {
-      "added_at": "2022-08-05 04:16:42",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 232122,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -901,26 +909,6 @@
       "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "BUBBA",
@@ -939,6 +927,26 @@
       "duration_ms": 226720,
       "name": "The Worst In Me",
       "url": "https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
     },
     {
       "added_at": "2022-07-30 02:24:25",

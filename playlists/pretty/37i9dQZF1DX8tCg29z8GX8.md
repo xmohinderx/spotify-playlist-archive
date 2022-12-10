@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > Beat the traffic blues with these killer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,593 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,604 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Ozumba Mbadiwe \- Remix](https://open.spotify.com/track/0WZv29OGhRABeryXBPMAV6) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Ozumba Mbadiwe \(Remix\)](https://open.spotify.com/album/656VMGOU4NL8RpviUz5IYF) | 3:31 |
 | 80 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGQ0NGE0Y2UwYWRlNzNlMzA2OTgwZTc3MjYxMWMzYWYz`
+Snapshot ID: `MTY3MDU3NjI2MSwwMDAwMDAwMDNiMWQ0NGE1YzI2MGYyMzIwZDkxZGViNDg5NzIzODYw`

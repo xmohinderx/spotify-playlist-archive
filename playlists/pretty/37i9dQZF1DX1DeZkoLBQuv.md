@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,219 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,272 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Feliz Natal](https://open.spotify.com/track/5gYzSC8RstOKVyM6HHgVKA) | [Bruno Átyla](https://open.spotify.com/artist/5lENw00wwnZE4q98GMUxLp), [Haldo e Diames](https://open.spotify.com/artist/59cVfb20QheOgE3kFCzTTb) | [Feliz Natal](https://open.spotify.com/album/7vTIzjCHpHEVlRVpv4ZFhm) | 3:18 |
 | 50 | [O Primeiro Natal](https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [O Primeiro Natal](https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH) | 4:38 |
 
-Snapshot ID: `MTY2OTM0NzMwMSwwMDAwMDAwMDU1NDY0ZTA4YzVlM2ZkOGZiMTZjNzExNDVlOTI1NmVk`
+Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMGIwNTE2ZGZkNGMxODI3ZjBjNGM3ZmE2NzQ1MDNhNWJm`

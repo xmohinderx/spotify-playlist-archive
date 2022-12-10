@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,016 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,018 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,20 +29,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 19 | [Bobo](https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 5:58 |
 | 20 | [Mansa Fo La](https://open.spotify.com/track/5gAw9gpPXg6gCUoeuxfN1C) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 6:43 |
 | 21 | [Kuma](https://open.spotify.com/track/5LFN2u1WNQyC25r37rOSpn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:59 |
-| 22 | [Nyanyama](https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 6:18 |
+| 22 | [Iniagige](https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:33 |
 | 23 | [M'Bemba](https://open.spotify.com/track/4oaahUdtJfsBA8HipvnbSm) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 8:50 |
 | 24 | [Diawara Fa](https://open.spotify.com/track/17tsY0rbQfpQgWLKgl8xbT) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 5:59 |
-| 25 | [Iniagige](https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:33 |
-| 26 | [N B'I Fe](https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 5:09 |
-| 27 | [Sina \(Soumbouya\)](https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 4:49 |
+| 25 | [Nyanyama](https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 6:18 |
+| 26 | [Baba](https://open.spotify.com/track/2NE2p5hRU0ICJP7tOvbUPN) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:43 |
+| 27 | [N B'I Fe](https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 5:09 |
 | 28 | [Syrie](https://open.spotify.com/track/7efKxNDq3rzhE1RQQ5mhMI) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 5:04 |
-| 29 | [Baba](https://open.spotify.com/track/2NE2p5hRU0ICJP7tOvbUPN) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:43 |
-| 30 | [Karifa](https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:05 |
-| 31 | [La Différence](https://open.spotify.com/track/3ONfiEPnapVGBui8Wa3EgB) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Anthology](https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839) | 4:04 |
-| 32 | [Djembe](https://open.spotify.com/track/30102u9oWhTedLkAY26isZ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 5:02 |
-| 33 | [Koukou](https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:02 |
-| 34 | [Lony](https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 7:55 |
-| 35 | [Africa, One Of A Kind](https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:08 |
+| 29 | [Sina \(Soumbouya\)](https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 4:49 |
+| 30 | [Koukou](https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:02 |
+| 31 | [Karifa](https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:05 |
+| 32 | [La Différence](https://open.spotify.com/track/3ONfiEPnapVGBui8Wa3EgB) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Anthology](https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839) | 4:04 |
+| 33 | [Djembe](https://open.spotify.com/track/30102u9oWhTedLkAY26isZ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 5:02 |
+| 34 | [Africa, One Of A Kind](https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:08 |
+| 35 | [Lony](https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 7:55 |
 | 36 | [San Ka Na](https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 5:28 |
 | 37 | [Mandjou](https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 10:37 |
 | 38 | [Intro Mansa](https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 1:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 49 | [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 |
 | 50 | [C'Est Bon, C'Est Bon](https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Talé](https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql) | 5:00 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyODQ1OTM5OTYzNjljMDE2YjY4Mzk1N2M5ZTNmZDQ3Ng==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBiNzdmMmJhNmYyMmEwYzczYTYxN2UwYzczOGJiZDdjMw==`

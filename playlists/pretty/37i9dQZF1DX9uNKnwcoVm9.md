@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,409 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,511 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 25 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:52 |
 | 26 | [Qué Se Abra El Cielo \(Feat\. Marcos Brunet\)](https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 7:25 |
 | 27 | [Me Paro En La Brecha](https://open.spotify.com/track/3pM6OolQIxI5YZl77qwD3t) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Me Paro En La Brecha](https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol) | 3:51 |
-| 28 | [No Crezcas Mas](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Irreversible](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 4:20 |
+| 28 | [](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 0:00 |
 | 29 | [Veo Llover](https://open.spotify.com/track/19Gbb0udRUmOM0vmsKB358) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:00 |
 | 30 | [Dios de Lo Imposible](https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [David Reyes](https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 7:30 |
 | 31 | [El Poderoso de Israel](https://open.spotify.com/track/0Uh50z2eslMbLWoewgHqKM) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR) | 1:19 |

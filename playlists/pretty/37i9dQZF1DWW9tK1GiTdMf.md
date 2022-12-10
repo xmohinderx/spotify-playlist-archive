@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare ❤️‍🩹 yungblud in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,447 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,459 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 10 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 |
 | 11 | [Non Piangere](https://open.spotify.com/track/34a6K461hJ4NHZH8ZakM2K) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY) | [Non Piangere](https://open.spotify.com/album/0leAdGkv75n8mgSd2VDgV9) | 3:05 |
 | 12 | [Questa tua fottuta negatività](https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy) | [Redd](https://open.spotify.com/artist/7I5vEYDtuS7TwfVAhBWeLk) | [Questa tua fottuta negatività](https://open.spotify.com/album/31zbrJQzG2tEzwaNrV6kDr) | 2:36 |
-| 13 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 |
+| 13 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 |
 | 14 | [Poche chiacchiere](https://open.spotify.com/track/3RFFb5SmfDj33BQ5ANfB2B) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Poche chiacchiere](https://open.spotify.com/album/2Ufa7f7IQUdPUzIsUM8RBJ) | 2:47 |
 | 15 | [DUEMILADUE](https://open.spotify.com/track/2Gus1ytU3SbxiXoMu60cfa) | [Schianta](https://open.spotify.com/artist/5RuBmTwAQniQinysSScGmB), [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM) | [DUEMILADUE](https://open.spotify.com/album/4vDxZ4y2OsrKbr4LMebir7) | 3:40 |
 | 16 | [UN CASSETTO DI LACRIME](https://open.spotify.com/track/7dLxR2WIxWxrm9iccELI6Y) | [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh) | [UN CASSETTO DI LACRIME](https://open.spotify.com/album/72fjREfFH9cBp1mSlRmGAu) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [Quanto ti vorrei](https://open.spotify.com/track/2KdcUxAJWAARnGTWmSWxwu) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [OCEANO PARADISO](https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m) | 3:00 |
 | 80 | [dove non posso guardare](https://open.spotify.com/track/1n0P0etFhPJqCKz6oK3zEw) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [dove non posso guardare](https://open.spotify.com/album/0gdCbk9bYB24atLxIHuak1) | 3:08 |
 
-Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMDY0N2EzNzcwMzhjZjY4NThjODM4NTZhNjRkMzY2ZDI5`
+Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMGU5YmUzNmQ4MGZlOWQyMjE0YWRhMzg1NzExMDg1YmVh`

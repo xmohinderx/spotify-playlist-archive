@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,171 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,685 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Such a Whore \(Stellular Remix\)](https://open.spotify.com/track/6A25J9As7towpxovYryAWr) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu) | [Such a Whore \(Stellular Remix\)](https://open.spotify.com/album/50FPtqYZf0YuJMOUFc8Pkg) | 2:27 |
 | 2 | [Shake That](https://open.spotify.com/track/1BrIZsDXewY03c9BUY4Rn9) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN) | 2:59 |
-| 3 | [Rahala \(with Arem Ozguc & Arman Aydin\)](https://open.spotify.com/track/6TV56l9QQsHl3Ad3QSRp1i) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Rahala \(with Arem Ozguc & Arman Aydin\)](https://open.spotify.com/album/2koJ0Q2koZsHgqtjfo6T0s) | 2:34 |
-| 4 | [SNEAKY](https://open.spotify.com/track/7sorNP9VLdnIRIjIwUq5g7) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SNEAKY](https://open.spotify.com/album/5LEr15ggG2zjjQm7KrASpj) | 2:05 |
-| 5 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 |
-| 6 | [Pullin Up](https://open.spotify.com/track/48tI68zHn3r3uHmGxdkKDd) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z) | [Pullin Up](https://open.spotify.com/album/5uCLVj0095GwMv7tjt3IRX) | 1:55 |
+| 3 | [SNEAKY](https://open.spotify.com/track/7sorNP9VLdnIRIjIwUq5g7) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SNEAKY](https://open.spotify.com/album/5LEr15ggG2zjjQm7KrASpj) | 2:05 |
+| 4 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 |
+| 5 | [Pullin Up](https://open.spotify.com/track/48tI68zHn3r3uHmGxdkKDd) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z) | [Pullin Up](https://open.spotify.com/album/5uCLVj0095GwMv7tjt3IRX) | 1:55 |
+| 6 | [Rahala \(with Arem Ozguc & Arman Aydin\)](https://open.spotify.com/track/6TV56l9QQsHl3Ad3QSRp1i) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Rahala \(with Arem Ozguc & Arman Aydin\)](https://open.spotify.com/album/2koJ0Q2koZsHgqtjfo6T0s) | 2:34 |
 | 7 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |
 | 8 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 |
 | 9 | [ULETAY](https://open.spotify.com/track/6Pv2ssBWBcj2QFgmPl42gx) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [ORGAN](https://open.spotify.com/artist/1YKl8e8MJE5TK28LC4UyC6), [Titov](https://open.spotify.com/artist/3SuQprUc8N1kIOs2Hm2mAk), [FAVIA](https://open.spotify.com/artist/4SbfECqQtDGpJrcjv4Iwlr) | [ULETAY](https://open.spotify.com/album/35VhiKDtvhfredQm0zWb2m) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Sweet Dreams](https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Sweet Dreams](https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ) | 2:32 |
 | 50 | [Get Low](https://open.spotify.com/track/6o2FQGObDH7kCpYlvJH2ai) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Get Low](https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT) | 3:41 |
 
-Snapshot ID: `MTY2OTk2NDQwMiwwMDAwMDAwMDdlNzk3MzI4NDJhOGIzZTM3YjNiYzhjZDQ0MTBiNDEx`
+Snapshot ID: `MTY3MDU2NTkzNywwMDAwMDAwMDE5NjA0NzJhMjU0MmRkYjZhNTgwNTEzNGNiODdlNzQ2`

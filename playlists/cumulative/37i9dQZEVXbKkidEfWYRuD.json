@@ -2020,6 +2020,28 @@
     },
     {
       "album": {
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
+      },
+      "artists": [
+        {
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120593,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/5oAmmsRnwV6fvRAM060HL0"
       },
@@ -7603,10 +7625,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
+    },
+    {
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW"
     },
     {
       "album": {
@@ -13685,7 +13725,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202408,
       "name": "\u041d\u0435 \u0437\u0430\u0431\u0443\u0434\u0435\u043c \u0456 \u043d\u0435 \u043f\u0440\u043e\u0431\u0430\u0447\u0438\u043c",
       "url": "https://open.spotify.com/track/6KvQKU21c1ZGEoOajKfim0"

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-136 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
+137 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 | 2020-10-16 | 2022-06-19 |
 | [Gone to Stay](https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ) | [John Norum](https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh) | [Gone to Stay](https://open.spotify.com/album/4WGb9jqt64iaJ6zjfXRl9E) | 4:16 | 2022-10-28 | 2022-11-19 |
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-24 |  |
-| [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 | 2021-09-10 |  |
+| [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 | 2021-09-10 | 2022-12-10 |
 | [Gotta Be Movin’](https://open.spotify.com/track/6n9CPTtFd6DeOpWnP57O9i) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Gotta Be Movin'](https://open.spotify.com/album/2JWnNwLCTdvnMH081yhjAz) | 3:35 | 2021-09-10 | 2022-07-29 |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-09-03 | 2022-09-10 |
 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 | 2021-03-26 | 2022-12-06 |
@@ -109,6 +109,7 @@
 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 | 2020-10-16 |  |
 | [Silver Paper](https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Silver Paper](https://open.spotify.com/album/6Y6nPjdXZd0p7qAMiM3A9z) | 3:26 | 2022-03-04 | 2022-06-24 |
 | [Skin 'n Bone](https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Skin 'n Bone](https://open.spotify.com/album/2ZWSn4DgPq9jFuIj1wywPF) | 3:23 | 2021-06-11 | 2022-07-02 |
+| [So Long](https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [So Long](https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm) | 3:01 | 2022-12-09 |  |
 | [Solar Fire](https://open.spotify.com/track/65gFWCRdKZD19F32AHhtmK) | [Smith/Kotzen](https://open.spotify.com/artist/5DE14yhJCkOYGtBVFnrtK5), [Adrian Smith](https://open.spotify.com/artist/6PdIfS6g7piReOMxEsdiiK), [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Smith/Kotzen](https://open.spotify.com/album/4fuwMAMhY0LC4Qu1KXdgK5) | 4:29 | 2021-03-26 | 2022-07-19 |
 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 | 2020-10-16 |  |
 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 | 2021-08-27 |  |

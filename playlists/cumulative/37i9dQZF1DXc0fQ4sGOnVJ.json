@@ -176,6 +176,28 @@
     },
     {
       "album": {
+        "name": "Boondocks",
+        "url": "https://open.spotify.com/album/3qxlU28Y4DlH3IVzq3CVbR"
+      },
+      "artists": [
+        {
+          "name": "Tre Brock",
+          "url": "https://open.spotify.com/artist/2jBk09UvUtyOZGMOwyZA5T"
+        },
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167755,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/7zNow8jwff91QBjGfUexpo"
+    },
+    {
+      "album": {
         "name": "BOSS HOGG",
         "url": "https://open.spotify.com/album/2bruwkxxKI8ZS1CNNQBokd"
       },

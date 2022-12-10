@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,406 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,436 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 45 | [1 Milli](https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:43 |
 | 46 | [ALASKA \(feat\. Davido, Hell Raton & Shiva\)](https://open.spotify.com/track/7io8voeFCefZOJ9Vr5kEZr) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [5019](https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Hell Raton](https://open.spotify.com/artist/6g5SF1Yz63eoPUnJgRHfrz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [BV3](https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW) | 3:10 |
 | 47 | [Lowo Lowo](https://open.spotify.com/track/1ntjV3CIMC5IYMqNzW0grl) | [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SUREBOY](https://open.spotify.com/album/63dlFY16kCNUPm5eGrPDLp) | 3:38 |
-| 48 | [Bum Bum Bum](https://open.spotify.com/track/2q0GvAQvk1rEAUEFy1sziH) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right About Now](https://open.spotify.com/album/0qvuCRNRSqnz2EBMaZ06Uy) | 2:46 |
-| 49 | [Achie](https://open.spotify.com/track/5IV1mcpTvqjiio3HrunOGx) | [B\-RED](https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Achie](https://open.spotify.com/album/6D8fD01nE0A6C7gwcjTs0z) | 3:31 |
-| 50 | [Like Dat](https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Like Dat](https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM) | 3:20 |
+| 48 | [Like Dat](https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Like Dat](https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM) | 3:20 |
+| 49 | [Bum Bum Bum](https://open.spotify.com/track/2q0GvAQvk1rEAUEFy1sziH) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right About Now](https://open.spotify.com/album/0qvuCRNRSqnz2EBMaZ06Uy) | 2:46 |
+| 50 | [Achie](https://open.spotify.com/track/5IV1mcpTvqjiio3HrunOGx) | [B\-RED](https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Achie](https://open.spotify.com/album/6D8fD01nE0A6C7gwcjTs0z) | 3:31 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBjODc2YTdhNTdjODU3ZjdhOWY4NzRjZjM2NTg4ZGY0Zg==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA4OGJiNzRiN2RjNzc3OGJlOGNlYTdlZDBlNDFiNWM5ZQ==`

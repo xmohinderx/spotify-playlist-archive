@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」2022年の総まとめ！今月のアンバサダー:  Chara <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,800 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,802 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

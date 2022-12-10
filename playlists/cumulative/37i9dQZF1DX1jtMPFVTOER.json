@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 304817,
       "name": "Camden Free Public Library",
       "url": "https://open.spotify.com/track/6Oxc4nkfR3SPJjBUNtf87r"
@@ -2227,7 +2227,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 229333,
       "name": "Encino",
       "url": "https://open.spotify.com/track/0K3nJxtfCeySaUxBXPOjub"
@@ -6048,6 +6048,32 @@
     },
     {
       "album": {
+        "name": "Park",
+        "url": "https://open.spotify.com/album/0cvBy16KIq84WFKliCbpx7"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "Tee Peters",
+          "url": "https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156144,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/0g2CWgmpAPL2oUX6PhIxHQ"
+    },
+    {
+      "album": {
         "name": "sleeping at the party",
         "url": "https://open.spotify.com/album/1LfsBRYd27TebvLfvRfwJT"
       },
@@ -8097,6 +8123,32 @@
       "duration_ms": 190333,
       "name": "You Make Me Feel So Good",
       "url": "https://open.spotify.com/track/52ZUwYOfSHJB2aJ4nfz9ic"
+    },
+    {
+      "album": {
+        "name": "Your Eyes Tell Lies",
+        "url": "https://open.spotify.com/album/2wH7NgZf0FgqShVFJtOkxH"
+      },
+      "artists": [
+        {
+          "name": "Liltrxptendo",
+          "url": "https://open.spotify.com/artist/3WFlOP0dm0rDBwjiMNbfsP"
+        },
+        {
+          "name": "FAE'S HAVEN",
+          "url": "https://open.spotify.com/artist/3uyIU5vKL81KbY7JWv3zeV"
+        },
+        {
+          "name": "Sherren Olivia",
+          "url": "https://open.spotify.com/artist/6GehMzP7f5Q08Qaq2CZDw6"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196368,
+      "name": "Your Eyes Tell Lies",
+      "url": "https://open.spotify.com/track/6mzguPPGxYkrXoPCMaG7zF"
     },
     {
       "album": {

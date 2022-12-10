@@ -198,6 +198,24 @@
     },
     {
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/6bVAm6VNpL3EsTjagnHNdR"
+      },
+      "artists": [
+        {
+          "name": "Ronald Mkiza",
+          "url": "https://open.spotify.com/artist/1mMBeutte2NZsxeqoNXaL1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228260,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/21Jy2EJECcC8FQSKiiWmAJ"
+    },
+    {
+      "album": {
         "name": "Dear Gambe",
         "url": "https://open.spotify.com/album/4cOVoj2vxhLViRWFhA5XUm"
       },
@@ -538,6 +556,24 @@
     },
     {
       "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/3usAd7tI0dYP7KUH9s6wsL"
+      },
+      "artists": [
+        {
+          "name": "DJ Gibbzy",
+          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/77e741vkrVhgXSbfZvQx3L"
+    },
+    {
+      "album": {
         "name": "Loverboy Chronicles (I.D.I.S)",
         "url": "https://open.spotify.com/album/59LDvaec15rQlKO8ku30Uc"
       },
@@ -553,7 +589,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 289593,
       "name": "Loverboy Chronicles (I.D.I.S)",
       "url": "https://open.spotify.com/track/5fksMgr5uKN7brQRvUJDcP"
@@ -915,7 +951,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176413,
       "name": "Say",
       "url": "https://open.spotify.com/track/7x90WpEMiHUD1T5RseSVeN"
@@ -1012,6 +1048,28 @@
     },
     {
       "album": {
+        "name": "Sio Kwa Ubaya",
+        "url": "https://open.spotify.com/album/1iZQP1UhukZKFSHI0Mo2LY"
+      },
+      "artists": [
+        {
+          "name": "MwanaFA",
+          "url": "https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "Sio Kwa Ubaya",
+      "url": "https://open.spotify.com/track/3iu6HFPMKLWJpJqmhLzzih"
+    },
+    {
+      "album": {
         "name": "Sponsa",
         "url": "https://open.spotify.com/album/0jxDFi4yennWvYM9q6DDqR"
       },
@@ -1085,7 +1143,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 224615,
       "name": "Step",
       "url": "https://open.spotify.com/track/4znb2uP2JB0Ws5cIM4ryC9"

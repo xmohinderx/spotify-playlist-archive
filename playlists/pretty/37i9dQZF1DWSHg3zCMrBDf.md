@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=dEeiPyvUTYSjwFjib5pt4Q"> Mr Eazi </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,248 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,306 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

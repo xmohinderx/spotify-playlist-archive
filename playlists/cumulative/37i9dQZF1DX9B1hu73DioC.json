@@ -4270,6 +4270,28 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
+    },
+    {
+      "album": {
         "name": "High Beams",
         "url": "https://open.spotify.com/album/0Z3dnKulGDg97zHhomkppb"
       },
@@ -6923,7 +6945,7 @@
       ],
       "date_added": "2020-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 187120,
       "name": "Old Bone",
       "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
@@ -8855,7 +8877,7 @@
           "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "date_added": "2022-12-08",
+      "date_added": "2022-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241304,

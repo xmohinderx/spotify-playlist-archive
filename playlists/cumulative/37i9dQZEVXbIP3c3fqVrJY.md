@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-848 songs - 1 day 19 hr 45 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
+849 songs - 1 day 19 hr 47 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Fam](https://open.spotify.com/track/6FhT6T6eBbQad4xEbeKJex) | [Smack](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7) | [Chimera Pt\. 3: Snake](https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD) | 3:31 | 2021-12-17 | 2022-01-06 |
 | [farebna preliezka](https://open.spotify.com/track/4vmapH9M9G4QNeW1R20UUF) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [Anarchia](https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW) | 3:01 | 2021-09-03 | 2021-09-16 |
 | [Fast Life](https://open.spotify.com/track/2ukkfjdqNSCx73WyYTVG5H) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR](https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK) | 2:17 | 2022-03-12 | 2022-05-22 |
-| [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-30 | 2022-12-09 |
+| [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-30 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-19 | 2022-12-05 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-06-08 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |
@@ -471,7 +471,7 @@
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-03-06 | 2022-03-13 |
 | [Msport](https://open.spotify.com/track/3Lm09sjsP7e2DU3azyhvRZ) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux), [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Jeb System 3](https://open.spotify.com/album/546dZNZxoPwLmCtgkTbQxX) | 3:30 | 2021-07-25 | 2021-07-31 |
 | [Muah](https://open.spotify.com/track/5GUYbSuOZ02s0zBhv0twCP) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko), [Zayo](https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q) | [Finesa](https://open.spotify.com/album/6mDThweCb6pZxqwfThAw8Q) | 3:45 | 2022-06-14 | 2022-06-17 |
-| [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-07-31 |  |
+| [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-07-31 | 2022-12-10 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-07-18 |
 | [My Life](https://open.spotify.com/track/3yPQ0T0w021ucbCqkKBku6) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 3:44 | 2022-06-07 | 2022-06-17 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-11-21 | 2021-11-22 |
@@ -672,7 +672,8 @@
 | [SOUNDTRACK MALEJ METROPOLY](https://open.spotify.com/track/5H5j58iWC7dR0U2NOnBfXX) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [BIG BOY FM](https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5) | 2:32 | 2022-06-21 | 2022-06-23 |
 | [Spaceship](https://open.spotify.com/track/1iCxH5udvifjp0otnwIj75) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 3:27 | 2021-11-20 | 2022-01-30 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-05 | 2022-11-07 |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-02 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-02 | 2022-12-10 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-09 |  |
 | [Spokojenej boyy](https://open.spotify.com/track/2SELMoJUcEpf6ymUegqEMF) | [Meizyy](https://open.spotify.com/artist/6bfvcDuHhC8XKWj4r4VZ1o) | [4](https://open.spotify.com/album/77g80qKJKdCFNxR2HO4E9H) | 3:31 | 2022-06-09 | 2022-07-31 |
 | [Spěchám](https://open.spotify.com/track/4Yt6piDbjP1DKg11JaEYvv) | [Hana Zagorová](https://open.spotify.com/artist/4cFceELvzYd8CJBtN6WCBV) | [S Úctou](https://open.spotify.com/album/50OkoSv5gSYapwOsAspmus) | 3:16 | 2022-08-27 | 2022-08-30 |
 | [SQUADRA AZZURA](https://open.spotify.com/track/0kt6NCMhQlEkV8YCvR5dAe) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [SQUADRA AZZURA](https://open.spotify.com/album/6CcAdu9zk9N2Iagl8m7EqV) | 2:00 | 2022-01-25 | 2022-02-10 |

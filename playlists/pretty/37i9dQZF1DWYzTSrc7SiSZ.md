@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,623 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,697 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

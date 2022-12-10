@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,057 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,147 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [out and about with my love at the weekend](https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z) | [Akassia](https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5), [Samuel Williams](https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv) | [out and about with my love at the weekend](https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd) | 2:19 |
 | 100 | [Ice\-free](https://open.spotify.com/track/60xyKm58pAqYg5HJ5pApWJ) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Helge Norbakken](https://open.spotify.com/artist/330550E6AXRr7jHSLX1GPd) | [Harbour](https://open.spotify.com/album/7rzUSG7h8pGwMOCvXAiGai) | 3:08 |
 
-Snapshot ID: `MTY3MDQwMDI3NCwwMDAwMDAwMGEwMWI2YmM3MWU0ZTg0NDhmNzg5OWFjZmM0NjU2MTc3`
+Snapshot ID: `MTY3MDU5NTE4OSwwMDAwMDAwMDQ3ZTZiMjY4MGRmMTJjNWEwYWUzMzA2Y2FkNDE2NWY0`

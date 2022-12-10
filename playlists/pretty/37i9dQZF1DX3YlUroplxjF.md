@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,300 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,334 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

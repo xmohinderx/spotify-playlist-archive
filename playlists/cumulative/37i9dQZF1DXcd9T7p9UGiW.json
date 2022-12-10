@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=nKrIAInNTeSpQZnRMZGaLw\" > Naira Marley </a>  and <a href=\"https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL?si=QYs1j5iLSJaNsetulQjllA\" > BackRoad Gee</a> ",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=5dwnc1j_SByNOTWWBcCBTw\" > Oxlade </a>  and <a href=\"https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF?si=-VO0zRASTJ2xWVgc64LZsA\" > Camila Cabello </a> ",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -635,10 +635,32 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 165507,
       "name": "blessing me (with Pa Salieu & Skillibeng)",
       "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
+    },
+    {
+      "album": {
+        "name": "Blessings (Remix)",
+        "url": "https://open.spotify.com/album/7pnIuSwrbrjrkl1kWhlFXq"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185083,
+      "name": "Blessings - Remix",
+      "url": "https://open.spotify.com/track/4yl5K1GQx8a5L5n5xzgCX5"
     },
     {
       "album": {
@@ -2628,6 +2650,28 @@
     },
     {
       "album": {
+        "name": "KU LO SA (with Camila Cabello)",
+        "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "KU LO SA (with Camila Cabello)",
+      "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
+    },
+    {
+      "album": {
         "name": "Lane",
         "url": "https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH"
       },
@@ -2703,6 +2747,28 @@
       "duration_ms": 240000,
       "name": "Lavender & Red Roses - Champion Remix",
       "url": "https://open.spotify.com/track/1hX9wpJtDe9niKDD4tkHkm"
+    },
+    {
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139586,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
     },
     {
       "album": {
@@ -4150,6 +4216,28 @@
     },
     {
       "album": {
+        "name": "Ronisia (Version Deluxe)",
+        "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "Probl\u00e8me",
+      "url": "https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28"
+    },
+    {
+      "album": {
         "name": "Propeller (feat. BNXN & Pajel) [Remix]",
         "url": "https://open.spotify.com/album/2UhHDTS4zYq8Xua2xFLytW"
       },
@@ -4439,7 +4527,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 161531,
       "name": "Scary",
       "url": "https://open.spotify.com/track/2zlCpQNLCXi3Vtg0ViPoCu"
@@ -5629,7 +5717,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"

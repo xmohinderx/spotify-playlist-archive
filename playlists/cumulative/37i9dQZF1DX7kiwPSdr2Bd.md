@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Midian Lima
 
-96 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/65FJ5aIMXCu7yCIPpdXqxC)
+97 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/65FJ5aIMXCu7yCIPpdXqxC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [O Deus dos Pequeninos](https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Deus dos Pequeninos](https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h) | 4:41 | 2022-12-05 |  |
 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 | 2022-11-25 |  |
 | [O Melhor Pra Ti](https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Melhor Pra Ti](https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd) | 4:03 | 2022-09-09 | 2022-12-05 |
-| [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 | 2022-09-09 |  |
+| [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 | 2022-09-09 | 2022-12-10 |
 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 | 2022-09-30 | 2022-11-26 |
 | [O Que Eu Sempre Procurei](https://open.spotify.com/track/52L6TEZc3G0T0abeXLqIVa) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [O Que Eu Sempre Procurei](https://open.spotify.com/album/13hsKpvu4OHooyS8cxW1IZ) | 7:54 | 2022-09-30 | 2022-10-15 |
 | [O Rosto de Cristo](https://open.spotify.com/track/0tuPvRP9F6qsvH5zFsdDeW) | [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [O Rosto de Cristo](https://open.spotify.com/album/1R8USucR49aZQlUsy704a0) | 4:14 | 2022-10-07 | 2022-11-26 |
@@ -82,6 +82,7 @@
 | [Purificados](https://open.spotify.com/track/0DYqL9ijMsiUZEqMkyTUHL) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Purificados](https://open.spotify.com/album/1FChfjyeKe3iD83te6z5Xs) | 5:39 | 2022-09-09 |  |
 | [Quando Estás Neste Lugar / Tudo é Para Tua Glória \- Ao Vivo](https://open.spotify.com/track/2GEEArVsPUKlZxzgJbMfCc) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Quando Estás Neste Lugar / Tudo é Para Tua Glória \(Ao Vivo\)](https://open.spotify.com/album/6UChSkVXF5t1U0xUzvW7ak) | 6:02 | 2022-09-09 | 2022-10-15 |
 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 | 2022-09-09 | 2022-10-01 |
+| [Raridade \(Ao Vivo\)](https://open.spotify.com/track/2j5ZnD3cpAvVpxduF0PmvG) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Raridade \(Ao Vivo\)](https://open.spotify.com/album/15ICKAPYvESqJvrlRkmdpv) | 3:48 | 2022-12-09 |  |
 | [Referência](https://open.spotify.com/track/76b1lGPFPAo09ZKhe3AjIr) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Referência](https://open.spotify.com/album/0Xx7AZGCjtUooh5UURgv0d) | 4:17 | 2022-09-09 |  |
 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 | 2022-09-09 |  |
 | [Santo](https://open.spotify.com/track/2MHys4QtjlA9PW4vpWMHme) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Santo](https://open.spotify.com/album/5jFjtCN7cYop72h0iylfxk) | 3:38 | 2022-10-07 | 2022-11-26 |

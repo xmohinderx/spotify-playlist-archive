@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating.
 
-233 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/027UqX8P6FZN5RTz6rBeyf)
+234 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/027UqX8P6FZN5RTz6rBeyf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Let Go](https://open.spotify.com/track/1NCWXbUyF88ee30OMAe7dO) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/429Bd8x5qNmBK9z6lyOXr6) | 2:56 | 2021-12-16 | 2022-06-08 |
 | [Liberation](https://open.spotify.com/track/63HeOmi0Cav15rLsktJq8W) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Liberation](https://open.spotify.com/album/2ikZVKHUow5r1VdlVaFBnZ) | 2:38 | 2022-01-14 | 2022-04-12 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 |  |
-| [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:25 | 2021-12-16 |  |
+| [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:25 | 2021-12-16 | 2022-12-10 |
 | [Location](https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:48 | 2021-12-16 | 2022-04-29 |
 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2021-12-16 | 2022-04-18 |
 | [Love Is Only a Feeling](https://open.spotify.com/track/7umZiitjVsEjMQ6HNddpUI) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Love Is Only a Feeling](https://open.spotify.com/album/5e82uQW57EpmAOCJvLKMpr) | 2:32 | 2022-01-20 | 2022-06-15 |
@@ -192,6 +192,7 @@
 | [Somehow.](https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Yesterday's Tomorrow](https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u) | 3:50 | 2021-12-16 | 2022-04-20 |
 | [Someplace Else](https://open.spotify.com/track/1RIcka7rD0CLu3QU2pTIbp) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [Someplace Else](https://open.spotify.com/album/1TtMGJN3w5c67E1i7XqfZ1) | 2:02 | 2022-04-01 | 2022-06-28 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-09 | 2022-04-19 |
+| [SOS](https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:57 | 2022-12-09 |  |
 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 | 2021-12-16 | 2022-11-05 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2021-12-16 |  |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-06-03 | 2022-07-02 |

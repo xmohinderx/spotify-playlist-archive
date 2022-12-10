@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-149 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+150 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 | 2022-06-10 |  |
 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2021-12-10 | 2022-10-13 |
 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 | 2022-08-19 |  |
-| [Grey](https://open.spotify.com/track/5uiBxGoDN7ys5iR7jQiiI6) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Grey](https://open.spotify.com/album/0VUfyApXn4pk0hkxiM7nan) | 3:05 | 2022-02-18 |  |
+| [Grey](https://open.spotify.com/track/1fn6p2B9xyAMcNDWb1Z5X2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:05 | 2022-11-25 |  |
+| [Grey](https://open.spotify.com/track/5uiBxGoDN7ys5iR7jQiiI6) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Grey](https://open.spotify.com/album/0VUfyApXn4pk0hkxiM7nan) | 3:05 | 2022-02-18 | 2022-12-10 |
 | [Half An Orphan](https://open.spotify.com/track/2KdGu9WtqeGlmleNPuGyXg) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Denis Was a Bird](https://open.spotify.com/album/0xa2MFADkJYkKXXIzJLDKa) | 2:37 | 2021-12-10 | 2022-06-11 |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-04-01 |  |
 | [Have I Ever Been](https://open.spotify.com/track/4yRS5wjodEe28wyWcTM5up) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Have I Ever Been](https://open.spotify.com/album/2NB8LDy6LsycfkiFHr8Nwv) | 2:53 | 2022-11-25 |  |

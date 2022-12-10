@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: Mobb Deep",
+  "description": "Damn son, where'd ya find this? Cover: MOUNT WESTMORE",
   "name": "Raw & Uncut",
   "published_playlist_ids": [
     "4c9h9hZs4oLmLgvuiXYoN5"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 201191,
       "name": "AMBEYONC\u00c9 (feat. Smino)",
       "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176551,
       "name": "Blue",
       "url": "https://open.spotify.com/track/47wJ3E7U150odlv00y3Zxt"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 202488,
       "name": "Cassette",
       "url": "https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202488,
       "name": "Cassette",
       "url": "https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
@@ -1887,6 +1887,40 @@
       "duration_ms": 113684,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/4SdsAqf5pPAG2y4bVyQpXV"
+    },
+    {
+      "album": {
+        "name": "SNOOP CUBE 40 $HORT",
+        "url": "https://open.spotify.com/album/5G9QOLi5KSYTuZoMpJMa2e"
+      },
+      "artists": [
+        {
+          "name": "MOUNT WESTMORE",
+          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303385,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/1H3iFlT3jKjcD92ut8LnHT"
     },
     {
       "album": {
@@ -3504,6 +3538,32 @@
     },
     {
       "album": {
+        "name": "Pumpkin Seeds",
+        "url": "https://open.spotify.com/album/5f9t4cfgnlHWbtqS22d0zt"
+      },
+      "artists": [
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
+        },
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        },
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Pumpkin Seeds",
+      "url": "https://open.spotify.com/track/3OuX2bsCv6nYZpLq4i8qbQ"
+    },
+    {
+      "album": {
         "name": "The Elephant Man's Bones",
         "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
       },
@@ -4753,6 +4813,24 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "album": {
+        "name": "Thinking to Myself",
+        "url": "https://open.spotify.com/album/1ISHVzRrOrGH43v1oEerca"
+      },
+      "artists": [
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135510,
+      "name": "Thinking to Myself",
+      "url": "https://open.spotify.com/track/5QsN1W5nvBZcweBfRtaWFj"
     },
     {
       "album": {

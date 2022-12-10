@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-254 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+255 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,10 +83,11 @@
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2021-12-08 | 2022-10-01 |
 | [Family Dawn](https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Personal Experiences](https://open.spotify.com/album/6gIXWTlb5DKqNAf4aTAfDw) | 3:48 | 2021-12-08 |  |
 | [Felidae](https://open.spotify.com/track/7H5oDBhgS4ZKeHGUgD0jpo) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [Felidae](https://open.spotify.com/album/4P3ktQbRMauYGxulDJd2ai) | 3:07 | 2021-12-08 |  |
-| [Finding You](https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Finding You](https://open.spotify.com/album/706n9jfumnN5j4IjAeAqS7) | 3:04 | 2021-12-08 |  |
+| [Finding You](https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Finding You](https://open.spotify.com/album/706n9jfumnN5j4IjAeAqS7) | 3:04 | 2021-12-08 | 2022-12-10 |
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2021-12-08 | 2022-07-28 |
 | [First Ray of Sun](https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Moto Perpetuo](https://open.spotify.com/album/5PiMD2EnpqjMBfQgCfLJ6C) | 2:19 | 2021-12-08 |  |
 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 | 2022-02-03 |  |
+| [Foliage](https://open.spotify.com/track/0rVFLkB8YWaET3lwNnCsVF) | [Wate Way](https://open.spotify.com/artist/2FlrdMztVZTJ9Df7qeGMvR) | [Foliage](https://open.spotify.com/album/0iHWuRkhVKW1buqJmtCncO) | 2:30 | 2022-12-09 |  |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-12-08 |  |
 | [Frozen Grasslands](https://open.spotify.com/track/2QN55dmp583TNohDVITyfz) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 2:38 | 2021-12-08 |  |

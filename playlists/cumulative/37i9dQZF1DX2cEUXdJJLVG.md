@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-206 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
+207 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Shots](https://open.spotify.com/track/6bBjArs6x5oGYDPtF797DJ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/0oWbmnZr6PPQq582jT4bEV) | 4:31 | 2022-09-09 |  |
 | [Show You the World](https://open.spotify.com/track/5ier31vbYr7fGn5hK7Y8pR) | [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [Jessica Pham](https://open.spotify.com/artist/5cFluXh5aSPpf6ne9VAyIz) | [Show You The World](https://open.spotify.com/album/2R19WR5owthJuZvKKx3P0K) | 3:36 | 2022-09-09 |  |
 | [Signs](https://open.spotify.com/track/1PMn4TOF2HBDFi5dhZL9iT) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [Andreas](https://open.spotify.com/album/3iziTSI728p59ZmH5pfIT5) | 3:22 | 2022-09-09 |  |
+| [Slide All Night](https://open.spotify.com/track/1pou1vJsBUcH1y7UmFmDVp) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:55 | 2022-12-09 |  |
 | [So Cool](https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [So Cool](https://open.spotify.com/album/0WTexgyWemY3YVYS3VE8Qk) | 1:51 | 2022-09-09 |  |
 | [So Full Of Love](https://open.spotify.com/track/0Vb4ByCBddUaXWyqr8Aj6B) | [Dave Leatherman](https://open.spotify.com/artist/6yIn9HZS8StotrpaKwAyzV), [Bruce Nolan](https://open.spotify.com/artist/5sKnJafPSfMttoO0ZqHMO8) | [So Full Of Love](https://open.spotify.com/album/52vPiQ46PABlhPjMhLRbD3) | 6:32 | 2022-09-09 |  |
 | [So I Lie](https://open.spotify.com/track/1erZEUKhZ03cHHD0vOr8aQ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Art Dealer Chic 4](https://open.spotify.com/album/0HjWJuW1StzouaOWndsxt9) | 3:57 | 2022-09-09 |  |

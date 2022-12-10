@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,562 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,571 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

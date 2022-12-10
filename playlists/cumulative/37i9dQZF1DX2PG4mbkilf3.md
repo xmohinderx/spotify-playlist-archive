@@ -2,9 +2,9 @@
 
 ### [Mood Ring](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is R&B in Canada, elevate your aura with Jessie Reyez.
+> This is R&B in Canada, elevate your aura with pisceze, 11:11, and A$AP Twelvyy.
 
-466 songs - 1 day 0 hr 18 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+469 songs - 1 day 0 hr 29 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-02-18 | 2022-03-05 |
 | [Benchmark](https://open.spotify.com/track/17Ct6PmsR5laPdylW8cRms) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Benchmark](https://open.spotify.com/album/0nDORNahzyOzSM4jBwNMEz) | 3:07 | 2022-02-25 | 2022-06-04 |
 | [Beside Me](https://open.spotify.com/track/2VrV7wCTN2LBvhZyv5Xly5) | [Charlie Noiir](https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO) | [Beside Me](https://open.spotify.com/album/17rqZcnWm6lUbrPG8QSS7g) | 3:30 | 2022-04-29 | 2022-05-28 |
+| [Best Friend](https://open.spotify.com/track/0iTTTSQ2SV6DU5vaMqgton) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Best Friend](https://open.spotify.com/album/1z7mTXM7oIUAYAeBjFgpZN) | 4:00 | 2022-12-09 |  |
 | [Best Friends \- Remix](https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Best Friends \(Remix\)](https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk) | 2:55 | 2022-08-05 |  |
 | [Bet on Me](https://open.spotify.com/track/0m0MkG5PgAFYKdkAdxYYFk) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Bet on Me](https://open.spotify.com/album/1WPUKvdXUxK27Xmujturse) | 2:59 | 2022-07-22 | 2022-08-20 |
 | [Better Man](https://open.spotify.com/track/2CZjjlYWasiqbCOors8pAC) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Better Man](https://open.spotify.com/album/6y78B6grK5x7soppUlOwcX) | 2:43 | 2022-02-18 | 2022-05-28 |
@@ -103,8 +104,8 @@
 | [Don't](https://open.spotify.com/track/2Jt1N8rd5eYFVr9AHbTnuV) | [Dfresh Sande](https://open.spotify.com/artist/3gUO8KqXBI5E43eY32Cvkn) | [My way](https://open.spotify.com/album/22viOAbq3ia5Vgm5i2l61k) | 3:28 | 2022-05-13 | 2022-05-20 |
 | [don't call me](https://open.spotify.com/track/3gKY1wkjy7wRbgiK4Um8dz) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [don't call me](https://open.spotify.com/album/5aoD6fu1YipqnOVVCNLGss) | 3:01 | 2022-03-25 | 2022-04-16 |
 | [Don't Explain](https://open.spotify.com/track/4aMJWOxbgdreFo0CAzuVyC) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Celebrating Nina: A Reggae Tribute to Nina Simone](https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF) | 5:08 | 2022-03-18 | 2022-06-11 |
-| [Don't go](https://open.spotify.com/track/1KRSiMMebZLfWSd5TTW6i4) | [Persis](https://open.spotify.com/artist/74rFJaOCffY3YqFzwNe7yX) | [Don't go](https://open.spotify.com/album/0qLH3BtvnQBP4LWiiRFo87) | 3:31 | 2022-10-28 |  |
-| [Don't Mind](https://open.spotify.com/track/2xv35DpHy7xmnCkPWKo4dC) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/6IgiDt94AUYI6TANSG6SNa) | 3:17 | 2022-10-14 |  |
+| [Don't go](https://open.spotify.com/track/1KRSiMMebZLfWSd5TTW6i4) | [Persis](https://open.spotify.com/artist/74rFJaOCffY3YqFzwNe7yX) | [Don't go](https://open.spotify.com/album/0qLH3BtvnQBP4LWiiRFo87) | 3:31 | 2022-10-28 | 2022-12-10 |
+| [Don't Mind](https://open.spotify.com/track/2xv35DpHy7xmnCkPWKo4dC) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/6IgiDt94AUYI6TANSG6SNa) | 3:17 | 2022-10-14 | 2022-12-10 |
 | [Don't Mind](https://open.spotify.com/track/6rgamKIpPgddW3Fc0J1KBo) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/0VTL1h4Vk5JCN7f3YqQoFF) | 3:17 | 2022-09-23 | 2022-10-15 |
 | [Don't Say](https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Don't Say](https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ) | 2:35 | 2022-02-18 | 2022-05-28 |
 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 | 2022-10-21 |  |
@@ -172,7 +173,7 @@
 | [Hate Me Less](https://open.spotify.com/track/3AMKbaH2FrFN05YrkNdptz) | [DONATO](https://open.spotify.com/artist/42kyhJvRS0AbklBdzFLnZy) | [Hate Me Less](https://open.spotify.com/album/41pZJOc1kTt7UwZfqonIjk) | 2:33 | 2022-02-18 | 2022-05-14 |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-25 | 2022-03-12 |
 | [Here](https://open.spotify.com/track/5AWG9WZvWqx9w8am9Vl8TS) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Here](https://open.spotify.com/album/58OrFFZ6M0DI0RQ7J5Mgng) | 3:14 | 2022-07-15 |  |
-| [Hey Lova](https://open.spotify.com/track/2mnjeG9kYpsagKPI5KR6Wi) | [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp) | [THINGS WE SAY](https://open.spotify.com/album/2daI7RpVMrubBDub3czxjC) | 2:16 | 2022-07-29 |  |
+| [Hey Lova](https://open.spotify.com/track/2mnjeG9kYpsagKPI5KR6Wi) | [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp) | [THINGS WE SAY](https://open.spotify.com/album/2daI7RpVMrubBDub3czxjC) | 2:16 | 2022-07-29 | 2022-12-10 |
 | [Hey Mama](https://open.spotify.com/track/4ZLxc4XwUQni9pYyHI1Je5) | [Kyla Charter](https://open.spotify.com/artist/7wzZ8mQWZVqlMRVoctu4Z9) | [Hey Mama](https://open.spotify.com/album/0HDUISzJGl5h13H4AO4mFm) | 3:14 | 2022-05-13 | 2022-07-23 |
 | [High Love](https://open.spotify.com/track/4kGNRJ1yFiYAbPuUADhigH) | [Makadi](https://open.spotify.com/artist/1rEQ6P5WQcRxmHkH9d43Ld) | [High Love](https://open.spotify.com/album/3zejMcwsnBD93chmhV0bfI) | 3:58 | 2022-06-03 | 2022-07-02 |
 | [High with Me](https://open.spotify.com/track/4npQ5B7PrxGtxoWHqQ1wbe) | [hard.times](https://open.spotify.com/artist/4YPWm7B3v1LMxmkPTc5kkc), [Lady Phyl](https://open.spotify.com/artist/2Sj10auNFpo3YkxpxFp5yI) | [High with Me](https://open.spotify.com/album/3u9oXr7VWoLd9eTllucHHd) | 5:44 | 2022-04-22 | 2022-06-25 |
@@ -188,6 +189,7 @@
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-29 | 2022-12-03 |
 | [Hot Seat](https://open.spotify.com/track/5xukBu3xjGka7Q8bgj6nmE) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Tangible](https://open.spotify.com/album/0fvGi7uj6n88ZBSTVvrgDH) | 2:28 | 2022-02-18 | 2022-08-06 |
 | [Hours In Silence](https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 6:39 | 2022-11-11 |  |
+| [How About Us?](https://open.spotify.com/track/1TWFl4FJ3vmtGHozu2ydmh) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P), [11:11](https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3) | [How About Us?](https://open.spotify.com/album/5zCWsX5LSiPsufggif80es) | 3:10 | 2022-12-09 |  |
 | [How Would You Feel](https://open.spotify.com/track/5yosbcAjMrTNcosZbhZiBo) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [How Would You Feel](https://open.spotify.com/album/373W4hy5SMxKxICDMDynoX) | 2:41 | 2022-03-25 | 2022-08-20 |
 | [Hurricane](https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny) | [Hurricane](https://open.spotify.com/album/6GWkW0A9C6WNAM0sozjrsN) | 4:14 | 2022-02-18 | 2022-05-20 |
 | [Hymn](https://open.spotify.com/track/2fGiwQIUWDauKSYgosdlhN) | [Josh Dillon](https://open.spotify.com/artist/5oMcE7NWSdStKb6sMUzA32) | [Hymn](https://open.spotify.com/album/2xRw2iiMHx52vMaZ9ewQRF) | 4:11 | 2022-04-15 | 2022-05-28 |
@@ -444,6 +446,7 @@
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-01 | 2022-04-29 |
 | [Up to You](https://open.spotify.com/track/0GdeitSxIUCO33j7g710HF) | [Scott Goodwin](https://open.spotify.com/artist/2g2GZo5L6RKNOPe6bT8cSO) | [Up to You](https://open.spotify.com/album/4KpNRTT9xDrcxlIZF71Iu7) | 2:16 | 2022-02-18 | 2022-06-11 |
 | [Uptight](https://open.spotify.com/track/1rn150UQFKRWcjUsgbVZn8) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Uptight](https://open.spotify.com/album/2bU00oTGSDtjqokdeNaZ4Q) | 2:56 | 2022-09-09 | 2022-09-17 |
+| [Ur Loss](https://open.spotify.com/track/3rvnZ6pD9XiYeoTpZYTqNK) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Ur Loss](https://open.spotify.com/album/3l5IDzNQrprO11pT86fP5o) | 3:38 | 2022-12-09 |  |
 | [Venom](https://open.spotify.com/track/3GOuJI9OakUV3uu0N8blIv) | [Serenade](https://open.spotify.com/artist/3pXkGyRhsDavFHyVL9pmoY) | [Venom](https://open.spotify.com/album/3HJJYynNSRVTIHu6hYuTeT) | 2:22 | 2022-09-23 | 2022-11-19 |
 | [Victory](https://open.spotify.com/track/2W03dE5pdOeOaGrKqZ5Nh3) | [Kelly Anthony](https://open.spotify.com/artist/2ICgAt3eHtYeiz6AEGoRzG) | [Victory](https://open.spotify.com/album/5JGnl8hhoMnwcMKE2gYBXe) | 2:17 | 2022-05-13 | 2022-06-11 |
 | [Video Games](https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Video Games](https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ) | 3:40 | 2022-02-18 | 2022-06-11 |

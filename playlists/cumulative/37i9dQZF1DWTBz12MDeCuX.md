@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: 102 Boyz
 
-530 songs - 1 day 1 hr 40 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+531 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,8 @@
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2022-07-19 | 2022-08-26 |
 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 | 2022-06-09 | 2022-07-14 |
 | [Spannung](https://open.spotify.com/track/7G4wi7IAadEj3pzQeR923K) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [Dorian](https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb) | [Spannung](https://open.spotify.com/album/6KOvdB1RpDc3wqdEr1pXmE) | 2:37 | 2022-10-27 | 2022-11-11 |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-10 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-10 | 2022-12-10 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-08 |  |
 | [Stacheldraht](https://open.spotify.com/track/4KQDy7okEGF3m01f8R8Lt6) | [Kidd Azzurra](https://open.spotify.com/artist/78l0gyXe9ppP4zLZDsgfcj), [Lil Tees](https://open.spotify.com/artist/7M6OC6xy5T144Y9lEhxTBV) | [Stacheldraht](https://open.spotify.com/album/3fXoULRxQUxINFAbrFoL0H) | 2:14 | 2022-11-17 | 2022-11-25 |
 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 | 2022-07-28 |  |
 | [Stan](https://open.spotify.com/track/0zIckkQ6ZRos7IdoNPakAw) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Curtain Call: The Hits](https://open.spotify.com/album/1zUY4PAFrNUOCeaEBrEHzh) | 6:44 | 2022-11-10 | 2022-11-13 |

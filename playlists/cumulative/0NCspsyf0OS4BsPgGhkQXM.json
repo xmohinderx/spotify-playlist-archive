@@ -2407,7 +2407,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 140800,
       "name": "D E A T H Metal Rage",
       "url": "https://open.spotify.com/track/54UnnwazTfj2nI5O98kzTx"
@@ -4555,7 +4555,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 262425,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/21PELgAI135nZmhjEi9MxG"
@@ -10113,7 +10113,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 210824,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/6CgyavIuuXYEmoFppku4X0"
@@ -11419,7 +11419,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 198000,
       "name": "Time - NESADES + onumi Remix",
       "url": "https://open.spotify.com/track/6wfNUVSqcEGOH44rjvM3Qt"
@@ -11441,7 +11441,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 239015,
       "name": "Time - Pala Chrome Remix",
       "url": "https://open.spotify.com/track/5xrdLwQK6QmV3XsnsCVvOP"
@@ -11723,6 +11723,28 @@
       "duration_ms": 322285,
       "name": "ULTRA",
       "url": "https://open.spotify.com/track/0iz4UuJnAG1rx2jXHiFgLR"
+    },
+    {
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/2SuXUgAWLnSF89bHq7cLJN"
+      },
+      "artists": [
+        {
+          "name": "Biometrix",
+          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
+        },
+        {
+          "name": "Hex & Solstice",
+          "url": "https://open.spotify.com/artist/09IVjJm54cApXuwVwmG04B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/3inG72xPY9bCmAn1cBihMZ"
     },
     {
       "album": {

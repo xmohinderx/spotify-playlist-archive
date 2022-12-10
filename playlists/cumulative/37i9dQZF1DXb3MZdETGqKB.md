@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: Christone "Kingfish" Ingram
+> All new, all blues\. Cover: Eric Bibb
 
-167 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+168 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 | 2021-05-14 | 2022-05-07 |
 | [Everything You Need](https://open.spotify.com/track/2IJ7JF3Sva50EgrbCVcWW1) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Everything You Need](https://open.spotify.com/album/3yM6APa7fwLuGC4RLDmnGB) | 3:38 | 2021-06-11 | 2022-05-07 |
 | [Fading Away](https://open.spotify.com/track/7FpFxqvwMMR4j1Yi1vndpK) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Fading Away](https://open.spotify.com/album/4rbAfXhaS3CKaDGSfaK9Jb) | 3:44 | 2021-02-05 | 2022-03-26 |
+| [Family](https://open.spotify.com/track/6R7Lxgc6rZoN5dslqxSZGj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ) | 4:47 | 2022-12-09 |  |
 | [Fancy Drones \(Fracture Me\) \- Live at Studio 615 / May 2021](https://open.spotify.com/track/7mSlf5NUKd5UAVe3eI2VBL) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Fancy Drones \(Fracture Me\) \[Live at Studio 615 / May 2021\]](https://open.spotify.com/album/24EGgm4XrVEEoHIvEAhm5r) | 3:17 | 2021-10-01 | 2022-06-19 |
 | [Find Somebody New](https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY) | [Jason Weaver](https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq) | [Find Somebody New](https://open.spotify.com/album/7yia02IejFb97Uv85hLddH) | 2:50 | 2022-09-02 |  |
 | [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 | 2022-07-02 |
@@ -159,7 +160,7 @@
 | [They Go Low](https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [They Go Low](https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb) | 3:42 | 2022-05-06 |  |
 | [Too Bold \- Diamond Remix \(Radio Edit\)](https://open.spotify.com/track/1y7jhEe6UsTYIFnu3a0Mmu) | [Shingai](https://open.spotify.com/artist/7woNunWFUYvNqvaBxOEGUJ), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [Tawiah](https://open.spotify.com/artist/4KGv7zG47u8hMcFGj5xhJV), [Celisse Henderson](https://open.spotify.com/artist/177oBO6n9Xu3vJBRLFgepH), [Ala.Ni](https://open.spotify.com/artist/6ezEFZpvL8TqZrVUAQRov4), [MVM](https://open.spotify.com/artist/4yTMehdrfNS5my16yd2qYr), [Jelly Cleaver](https://open.spotify.com/artist/7brjzhmgOWCGkdEI2AIRzl), [Megan Coleman](https://open.spotify.com/artist/3UwGCYZVzMRKiNQHrtLy8m) | [Too Bold \(Diamond Remix\)](https://open.spotify.com/album/00Y0pCGuMYeO5GudIcBoEv) | 3:31 | 2021-03-12 | 2022-03-26 |
 | [Trudoo](https://open.spotify.com/track/4Sn5zo5BXRhMp54m20sQNg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Trudoo](https://open.spotify.com/album/22RA78OrEQBFsWO0GOrBW3) | 3:37 | 2022-04-08 | 2022-06-19 |
-| [Until the Heat Leaves Town](https://open.spotify.com/track/1QjOBgzl45AYVVa4yWpZjA) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [Until the Heat Leaves Town](https://open.spotify.com/album/2X1aR4wJFLvQP495uh62ag) | 3:33 | 2021-08-13 |  |
+| [Until the Heat Leaves Town](https://open.spotify.com/track/1QjOBgzl45AYVVa4yWpZjA) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [Until the Heat Leaves Town](https://open.spotify.com/album/2X1aR4wJFLvQP495uh62ag) | 3:33 | 2021-08-13 | 2022-12-10 |
 | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/track/2V5o61Yu0ddJDFz1Pi8T3N) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/album/6YgBwPmvrWQYRd2QeoiXpq) | 3:21 | 2021-09-17 | 2022-06-19 |
 | [Waste of a Pretty Face](https://open.spotify.com/track/4IpuYe7tPM0VasiAzigXff) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Waste of a Pretty Face](https://open.spotify.com/album/1gcgGlZKyAH4YuJTR7hqcO) | 2:38 | 2021-05-28 | 2022-05-07 |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 |  |

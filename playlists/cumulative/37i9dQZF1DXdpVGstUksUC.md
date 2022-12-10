@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-263 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
+264 songs - 1 day 0 hr 31 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Evaporate](https://open.spotify.com/track/3KmM9GEunX8IGyup6rne2z) | [35007](https://open.spotify.com/artist/09kNJ3LqHcfQZO5qixfmft) | [Liquid](https://open.spotify.com/album/2fVeY5ePxT4SQDvL18Sfye) | 5:53 | 2022-04-28 | 2022-09-28 |
 | [Evaporate](https://open.spotify.com/track/53mkH3YBERbdpBNte7hlb7) | [35007](https://open.spotify.com/artist/09kNJ3LqHcfQZO5qixfmft) | [Liquid](https://open.spotify.com/album/5Y88pvJ3kx62BkJ15E16Vs) | 5:53 | 2021-11-30 | 2022-07-27 |
 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 | 2021-11-30 |  |
+| [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 | 2022-12-10 |  |
 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 | 2021-11-30 |  |
 | [Febersvan](https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [GAUPA](https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC) | 7:27 | 2022-04-28 |  |
 | [Febersvan](https://open.spotify.com/track/4mN4IKOVpFTidgCc1I60Xw) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [GAUPA](https://open.spotify.com/album/6FNQ7j6pueu7jjVi4Ecrcc) | 7:27 | 2021-11-30 | 2022-07-29 |
@@ -230,7 +231,7 @@
 | [The Ghosts of Charlie Barracuda](https://open.spotify.com/track/2CeY0S8kVprPlCO4r5ffzx) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 7:46 | 2021-11-30 |  |
 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 | 2021-11-30 |  |
 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 | 2021-11-30 |  |
-| [The Left Hand Path](https://open.spotify.com/track/5aIn4HiXK6MSnxHuC10kNm) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [The Left Hand Path](https://open.spotify.com/album/7eRyUB84hcmm5v4npGfMjD) | 6:51 | 2022-10-14 |  |
+| [The Left Hand Path](https://open.spotify.com/track/5aIn4HiXK6MSnxHuC10kNm) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [The Left Hand Path](https://open.spotify.com/album/7eRyUB84hcmm5v4npGfMjD) | 6:51 | 2022-10-14 | 2022-12-10 |
 | [The Lost Art Of Keeping A Secret](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R \- Deluxe Edition](https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto) | 3:36 | 2021-11-30 |  |
 | [The Regulator](https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Edition\)](https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8) | 5:25 | 2022-04-28 |  |
 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 | 2021-11-30 | 2022-07-27 |

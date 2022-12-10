@@ -578,6 +578,24 @@
     },
     {
       "album": {
+        "name": "big heart",
+        "url": "https://open.spotify.com/album/1z9alhP09uNHb8XzGi5Fp7"
+      },
+      "artists": [
+        {
+          "name": "Stratospheric",
+          "url": "https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "big heart",
+      "url": "https://open.spotify.com/track/2tTEI9HzHglqVe3fthyZ4X"
+    },
+    {
+      "album": {
         "name": "Bingsoo",
         "url": "https://open.spotify.com/album/7qYQo8mQK3Q2oZAmTp4Lng"
       },
@@ -982,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/0WjQm5BS0gDoPPMzVC4rpg"
+      },
+      "artists": [
+        {
+          "name": "Galian",
+          "url": "https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143528,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/53XAm8X2pBeQMULzRtbGUY"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6"
       },
@@ -1105,6 +1141,24 @@
       "duration_ms": 151034,
       "name": "C\u00f4te d'Azur",
       "url": "https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe"
+    },
+    {
+      "album": {
+        "name": "Daft Kids",
+        "url": "https://open.spotify.com/album/0sjg0cUWNvvaha0TvksAZW"
+      },
+      "artists": [
+        {
+          "name": "Sonaya",
+          "url": "https://open.spotify.com/artist/6RUxinrtMPQKQElph9PaN9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Daft Kids",
+      "url": "https://open.spotify.com/track/4nJvbH8x3yugwGtF2S0xfX"
     },
     {
       "album": {
@@ -1393,6 +1447,24 @@
       "duration_ms": 203406,
       "name": "Falling Short",
       "url": "https://open.spotify.com/track/6u9cWDkxbTXaqf4GZP5MHh"
+    },
+    {
+      "album": {
+        "name": "Fauna",
+        "url": "https://open.spotify.com/album/44eIDFdzVYc5Y3RyXMBin5"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grape",
+          "url": "https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132794,
+      "name": "Fauna",
+      "url": "https://open.spotify.com/track/0HB4kzAoxW1Xp2yueKZSio"
     },
     {
       "album": {
@@ -1855,6 +1927,24 @@
       "duration_ms": 129039,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/5XVEEfGmtPbUNUgtZhplx7"
+    },
+    {
+      "album": {
+        "name": "Green Grass",
+        "url": "https://open.spotify.com/album/52sjGVyYFTzABHzmeWXqpP"
+      },
+      "artists": [
+        {
+          "name": "Naupaka",
+          "url": "https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139124,
+      "name": "Green Grass",
+      "url": "https://open.spotify.com/track/1Y3BHcMtNlMANFFn2FQNYM"
     },
     {
       "album": {
@@ -2739,6 +2829,24 @@
       "duration_ms": 112617,
       "name": "Mistress",
       "url": "https://open.spotify.com/track/06oqnlt9Ay6bgIERsUEmK6"
+    },
+    {
+      "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/6g3cISTVHaLOiQKJrzSoC4"
+      },
+      "artists": [
+        {
+          "name": "Bush Lily",
+          "url": "https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142362,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/21e6H9aw9iqjKKk7Yqi4eK"
     },
     {
       "album": {
@@ -5251,6 +5359,24 @@
       "duration_ms": 193194,
       "name": "Yama",
       "url": "https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h"
+    },
+    {
+      "album": {
+        "name": "Yearn",
+        "url": "https://open.spotify.com/album/3C62Fpb9T1E0ktSODga4cs"
+      },
+      "artists": [
+        {
+          "name": "West & Zander",
+          "url": "https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197695,
+      "name": "Yearn",
+      "url": "https://open.spotify.com/track/3LXQSqa9XcIELsRTuMAe8S"
     },
     {
       "album": {

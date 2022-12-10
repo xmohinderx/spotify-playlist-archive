@@ -9944,6 +9944,28 @@
     },
     {
       "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/6xtnCpTxexx1KtyGDRl4j0"
+      },
+      "artists": [
+        {
+          "name": "NVDES",
+          "url": "https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy"
+        },
+        {
+          "name": "The Vibe Trillionaires",
+          "url": "https://open.spotify.com/artist/2ChPvjFuvqOs9ezyG24HEV"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162394,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/76PQc7doSlZ2ytD7M21Apo"
+    },
+    {
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/67Z2NQvpbliA1BC0T9wDB0"
       },

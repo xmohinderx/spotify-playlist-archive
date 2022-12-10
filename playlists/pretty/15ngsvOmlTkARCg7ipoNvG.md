@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/15ngsvOmlTkARCg7ipoNvG.md) - [plain]
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-[IW Music](https://open.spotify.com/user/ikwong1979) - 19,269 likes - 849 songs - 19 hr 48 min
+[IW Music](https://open.spotify.com/user/ikwong1979) - 19,267 likes - 849 songs - 19 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,7 +222,7 @@ pretty - [cumulative](/playlists/cumulative/15ngsvOmlTkARCg7ipoNvG.md) - [plain]
 | 212 | [Dreaming In Color](https://open.spotify.com/track/2iu4AUVDOtM0We0x66fEs3) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Atmospheric Strings](https://open.spotify.com/album/5QVVcAmb2omYcc4V93rtjY) | 1:02 |
 | 213 | [Breathing Softly](https://open.spotify.com/track/1b1ybBdqhSZINz8ieWFZBg) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies](https://open.spotify.com/album/66iwgells6KAwWRuCmUS1M) | 1:03 |
 | 214 | [Patience And Hope](https://open.spotify.com/track/1Scfz6anlCdK9BdnVNHrii) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 |
-| 215 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/7JnGgoEO148fKVqZzxpS94) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 |
+| 215 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 |
 | 216 | [Quiet Love](https://open.spotify.com/track/3s6VZYDAJ7GfqIflkxqy1t) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Quiet Love](https://open.spotify.com/album/5FOLujx57ozchoLQGmFouU) | 1:01 |
 | 217 | [Peak Calm](https://open.spotify.com/track/23w76N1lxIasS5HoNs9Tzp) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Atmospheric Strings](https://open.spotify.com/album/5QVVcAmb2omYcc4V93rtjY) | 1:03 |
 | 218 | [Blossoming Spirit](https://open.spotify.com/track/4chZVzClsbIKWbX5LbvDtS) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ambient Piano Preludes](https://open.spotify.com/album/0SsjsjgsbPhlAceWmMc01P) | 1:02 |

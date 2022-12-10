@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 172023,
       "name": "Can't Lose",
       "url": "https://open.spotify.com/track/5wWbAr0jLpAYgV4wB6llRl"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 150648,
       "name": "Corner House",
       "url": "https://open.spotify.com/track/77zVEDRU3U5RtgtukAxIPQ"
@@ -1685,7 +1685,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 165000,
       "name": "Don't Check Me",
       "url": "https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL"
@@ -2223,7 +2223,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 231683,
       "name": "Free Game",
       "url": "https://open.spotify.com/track/4a5J9U353e52exFOFPcMaZ"
@@ -2775,6 +2775,40 @@
       "duration_ms": 183814,
       "name": "Hate To Say It",
       "url": "https://open.spotify.com/track/0JovAYpOGoftOSuQv3TRwO"
+    },
+    {
+      "album": {
+        "name": "SNOOP CUBE 40 $HORT",
+        "url": "https://open.spotify.com/album/5G9QOLi5KSYTuZoMpJMa2e"
+      },
+      "artists": [
+        {
+          "name": "MOUNT WESTMORE",
+          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303385,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/1H3iFlT3jKjcD92ut8LnHT"
     },
     {
       "album": {
@@ -3404,6 +3438,28 @@
     },
     {
       "album": {
+        "name": "Keep Calling",
+        "url": "https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Keep Calling",
+      "url": "https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU"
+    },
+    {
+      "album": {
         "name": "BABYST5XNE GORILLAS",
         "url": "https://open.spotify.com/album/63ypakNyLDCYERVQz17caO"
       },
@@ -3473,10 +3529,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 152941,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/3byMEMdaRI4WcFcDDHG7e7"
+    },
+    {
+      "album": {
+        "name": "Keep It Lit",
+        "url": "https://open.spotify.com/album/4dT12cCIl1LbwX8snaQvZi"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Know The Vibes",
+      "url": "https://open.spotify.com/track/22SbXv4tKTZaiw11YnwPNj"
     },
     {
       "album": {
@@ -3733,6 +3807,28 @@
       "duration_ms": 158350,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
+    },
+    {
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/12HPKBvQUIpg0c3BfQaeCs"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        },
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/6k0uXMxdOgkz4w3fCKB2iX"
     },
     {
       "album": {
@@ -4061,6 +4157,28 @@
       "duration_ms": 150857,
       "name": "Milan",
       "url": "https://open.spotify.com/track/5IxOlNnq8GDOH3iENer7uX"
+    },
+    {
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
     },
     {
       "album": {
@@ -4549,7 +4667,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 180000,
       "name": "No Manners (feat. R3 DA Chilliman)",
       "url": "https://open.spotify.com/track/3TBAP12UEEPb3p5wtgybIq"
@@ -6051,6 +6169,28 @@
       "duration_ms": 217271,
       "name": "STUCK",
       "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
+    },
+    {
+      "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/3gRpuBhGFFzi997GMO5P95"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143471,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/4VTsnJUPlrL4YsWnXsfd1F"
     },
     {
       "album": {

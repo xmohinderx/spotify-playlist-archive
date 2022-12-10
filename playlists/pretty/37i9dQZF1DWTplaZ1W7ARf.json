@@ -1,13 +1,65 @@
 {
   "description": "Neighborhood Storytellers. Cover: Rich Homie Quan",
-  "num_followers": 53934,
+  "num_followers": 53939,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDM1MDUyNTAyODMwY2YxMjFmMDcxODFlMGMxZTI0ODlh",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDY3YmEwZGI0NzNlNmY5YTZkOWUzZmVjMTYxMDQxNGU1",
   "tracks": [
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Went Deaf",
+        "url": "https://open.spotify.com/album/68jBNJ9GR32vg0eEW0dqfB"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 183047,
+      "name": "Went Deaf",
+      "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
+    },
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
@@ -41,22 +93,6 @@
       "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Went Deaf",
-        "url": "https://open.spotify.com/album/68jBNJ9GR32vg0eEW0dqfB"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 183047,
-      "name": "Went Deaf",
-      "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
-    },
-    {
       "added_at": "2022-11-19 22:29:46",
       "album": {
         "name": "Feed Tha Streets III",
@@ -71,22 +107,6 @@
       "duration_ms": 153743,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/0hlpJecbVBbxg8YNFaxv8k"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2022-11-19 22:29:46",
@@ -231,6 +251,26 @@
       "duration_ms": 169723,
       "name": "Chief",
       "url": "https://open.spotify.com/track/7MN2fQ1oMGvhKf0NQolm9R"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Miss U Already",
+        "url": "https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 309363,
+      "name": "Miss U Already",
+      "url": "https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC"
     },
     {
       "added_at": "2022-11-04 04:00:00",

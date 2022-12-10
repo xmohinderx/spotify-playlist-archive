@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: MD Chefe, DomLaike, Rare G, 4Genesis, Cax Camp
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,426 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,650 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 8 | [Tropa do Mantém](https://open.spotify.com/track/3tpfnn4QoKrkzWW20UKili) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [DJ Nemo NTR](https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:58 |
 | 9 | [X1](https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:08 |
 | 10 | [Visão de Onça \- Spotify Singles](https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Visão de Onça \- Spotify Singles](https://open.spotify.com/album/068AREijgAvQQuZkiAfap3) | 2:21 |
-| 11 | [Hino dos Mlks](https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Hino dos Mlks](https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt) | 3:29 |
+| 11 | [Hino dos Mlks](https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Hino dos Mlks](https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt) | 3:29 |
 | 12 | [Balmain](https://open.spotify.com/track/44U6wTQDkos958gqTbilSw) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Balmain](https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA) | 3:17 |
 | 13 | [Vestido da Fendi](https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Vestido da Fendi](https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y) | 2:44 |
 | 14 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 |

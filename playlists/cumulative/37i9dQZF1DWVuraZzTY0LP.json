@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 239600,
       "name": "Blowback",
       "url": "https://open.spotify.com/track/7aZ1Grktl7RBHLwxem7DE7"
@@ -1312,6 +1312,28 @@
     },
     {
       "album": {
+        "name": "LA RUTA NATURAL",
+        "url": "https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197179,
+      "name": "LA RUTA NATURAL",
+      "url": "https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Llamada",
         "url": "https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL"
       },
@@ -1377,7 +1399,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
@@ -1413,7 +1435,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
@@ -1525,7 +1547,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 149900,
       "name": "Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
@@ -1898,6 +1920,24 @@
     },
     {
       "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "album": {
         "name": "Sonidos De Karm\u00e1tica Resonancia",
         "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
@@ -2025,6 +2065,28 @@
       "duration_ms": 210425,
       "name": "Recuerdos Que Torturan",
       "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
+    },
+    {
+      "album": {
+        "name": "Regalo",
+        "url": "https://open.spotify.com/album/512JRiq6UX5wYeFIAXN4KK"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177640,
+      "name": "Regalo",
+      "url": "https://open.spotify.com/track/7mU8ts3VQhufEOMc00vzKX"
     },
     {
       "album": {
@@ -2436,6 +2498,24 @@
     },
     {
       "album": {
+        "name": "The News",
+        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
+    },
+    {
+      "album": {
         "name": "The Same",
         "url": "https://open.spotify.com/album/6pOCDhBkcTAiN0Drk3Vdaw"
       },
@@ -2656,6 +2736,24 @@
     },
     {
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/5bJmbfuFolaCYncb9jt8Ea"
+    },
+    {
+      "album": {
         "name": "Tu Color",
         "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
       },
@@ -2721,7 +2819,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 204066,
       "name": "Un D\u00eda Especial",
       "url": "https://open.spotify.com/track/4EavV1ZnEKT4X3KlljYBsA"
@@ -2761,7 +2859,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 197280,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/1pmhavHQm3tVTObNNRcmAb"
@@ -3035,7 +3133,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"

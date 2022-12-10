@@ -1,12 +1,12 @@
 {
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Aslay",
-  "num_followers": 51393,
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Marioo",
+  "num_followers": 51437,
   "original_name": "Bongo Flava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkyODM0MCwwMDAwMDAwMGU1NzFjZjg1OGRjZTY5NGY3OTQzNDc5NzliNWNlNzk4",
+  "snapshot_id": "MTY3MDU2MDQzNiwwMDAwMDAwMDkyYTFiYWY2ZTM5NjZmNDBkYmJkNzEyMjgzNzQxZDQ4",
   "tracks": [
     {
       "added_at": "2022-10-07 13:00:20",
@@ -105,6 +105,30 @@
       "url": "https://open.spotify.com/track/6Zo7ymeK6BQOJ8Jf6gZeVJ"
     },
     {
+      "added_at": "2022-12-09 04:33:56",
+      "album": {
+        "name": "The Kid You Know",
+        "url": "https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        }
+      ],
+      "duration_ms": 297345,
+      "name": "Amawele",
+      "url": "https://open.spotify.com/track/3QWSO7dAr4PXL8QK2vzySs"
+    },
+    {
       "added_at": "2022-07-21 20:59:00",
       "album": {
         "name": "Nakupenda",
@@ -199,6 +223,26 @@
       "duration_ms": 208163,
       "name": "My Way",
       "url": "https://open.spotify.com/track/6XdVKBJLMLl2v26lPJIoS0"
+    },
+    {
+      "added_at": "2022-12-09 04:33:56",
+      "album": {
+        "name": "Whine 4 Me (feat. Vanillah)",
+        "url": "https://open.spotify.com/album/6Qf9oIZtf7Gxf1SGfCSf81"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flavour",
+          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
+        },
+        {
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Whine 4 Me (feat. Vanillah)",
+      "url": "https://open.spotify.com/track/6o8Ah4wcVQw88DN8O5RsR8"
     },
     {
       "added_at": "2022-11-24 20:59:00",
@@ -327,6 +371,42 @@
     {
       "added_at": "2022-10-07 13:00:20",
       "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 193190,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"
+    },
+    {
+      "added_at": "2022-06-02 20:59:00",
+      "album": {
+        "name": "Manzese",
+        "url": "https://open.spotify.com/album/5Q7GATwyhV0GGRS9uA6HPo"
+      },
+      "artists": [
+        {
+          "name": "Navy Kenzo",
+          "url": "https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Manzese",
+      "url": "https://open.spotify.com/track/3YShLver8yW2GFaVyyo53s"
+    },
+    {
+      "added_at": "2022-10-07 13:00:20",
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/4G7Ss5mK4cMH81YEF7cj8U"
       },
@@ -439,26 +519,6 @@
       "duration_ms": 221591,
       "name": "Asali",
       "url": "https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB"
-    },
-    {
-      "added_at": "2022-10-07 13:00:20",
-      "album": {
-        "name": "Jugni",
-        "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 193190,
-      "name": "Jugni",
-      "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"
     },
     {
       "added_at": "2022-08-19 04:58:25",
@@ -1069,22 +1129,6 @@
       "url": "https://open.spotify.com/track/1UQfdQIYiu4Ogj7SOWBTJf"
     },
     {
-      "added_at": "2022-06-02 20:59:00",
-      "album": {
-        "name": "Manzese",
-        "url": "https://open.spotify.com/album/5Q7GATwyhV0GGRS9uA6HPo"
-      },
-      "artists": [
-        {
-          "name": "Navy Kenzo",
-          "url": "https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Manzese",
-      "url": "https://open.spotify.com/track/3YShLver8yW2GFaVyyo53s"
-    },
-    {
       "added_at": "2022-06-30 20:59:00",
       "album": {
         "name": "The King Of New School",
@@ -1139,22 +1183,6 @@
       "duration_ms": 213103,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6JZemVPI8dX5M6is4gayPK"
-    },
-    {
-      "added_at": "2022-07-07 20:59:00",
-      "album": {
-        "name": "Tamu Kwa Tamu",
-        "url": "https://open.spotify.com/album/0VYGQMTaK2E8l8lWresCxq"
-      },
-      "artists": [
-        {
-          "name": "Mzee Yusuph",
-          "url": "https://open.spotify.com/artist/1JyYRDJWdQMECFjJGWjMqm"
-        }
-      ],
-      "duration_ms": 248321,
-      "name": "Nibebe",
-      "url": "https://open.spotify.com/track/0wAeptB1IYnjfmU4yP6Mxn"
     },
     {
       "added_at": "2021-11-11 20:59:00",
@@ -1283,22 +1311,6 @@
       "duration_ms": 198431,
       "name": "Nampenda",
       "url": "https://open.spotify.com/track/3OV9LcFiJZn4CMulAiPoGP"
-    },
-    {
-      "added_at": "2022-04-14 20:59:00",
-      "album": {
-        "name": "Don't You Know",
-        "url": "https://open.spotify.com/album/3iMtRORC74LGs0pm4AewFB"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flavour",
-          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/1XPpKdRjnNNsXZcYg7Krwg"
     },
     {
       "added_at": "2022-07-14 20:59:00",

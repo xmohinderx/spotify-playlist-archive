@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,702 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,897 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 65 | [Warning \(feat\. Stick Figure\)](https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Local Motion](https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0) | 3:52 |
 | 66 | [Rescue](https://open.spotify.com/track/2saVnMHiSuTmNSrsTvse0i) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Woman](https://open.spotify.com/album/4DaJjx2PUk0xunYJ2W5Y0M) | 4:25 |
 | 67 | [Don't Start Now](https://open.spotify.com/track/1jdOJBKLdLtSrV63ztyYdP) | [Bristol Love](https://open.spotify.com/artist/25w54ChZ90U3nrnC4SNjfp), [Lee Avril](https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu) | [Don't Start Now](https://open.spotify.com/album/6r55H42Pcw4fpChqvB5oZN) | 3:44 |
-| 68 | [Magic Potion](https://open.spotify.com/track/3wE1mg5XLt1HR4BC3Dm6Tg) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/1rtJZt0m57FZBKe3F9e6M4) | 4:12 |
+| 68 | [Magic Potion](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 |
 | 69 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 |
 | 70 | [Beautiful Things \(Remix\)](https://open.spotify.com/track/1OhaZufeyAo6bve6Dm8hWR) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [New Again](https://open.spotify.com/album/5RN7Lm1aUvOsr7viqOl4x4) | 4:05 |
 
-Snapshot ID: `MTY3MDMzMDMxOCwwMDAwMDAwMDUwYjcyZWEzNTNjYjMyYWZkMzFjODk1NWY5OTlhMDE4`
+Snapshot ID: `MTY3MDMzMDMxOCwwMDAwMDAwMDIxNjYyOWZmY2E3NmFiOTgzNThmZDhmY2QyNjVhMWNm`

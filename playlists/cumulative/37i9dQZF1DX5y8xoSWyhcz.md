@@ -2,9 +2,9 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe \(◡ ‿ ◡ ✿\)\. cover: hemlocke springs on the cover.
+> it's a vibe \(◡ ‿ ◡ ✿\)\. bestfriend on the cover.
 
-996 songs - 2 day 3 hr 9 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+998 songs - 2 day 3 hr 15 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-01-09 | 2021-02-20 |
 | [Droves](https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj) | 3:50 | 2022-04-01 |  |
 | [DRUGS](https://open.spotify.com/track/0yruV4sUwyczq5cxMRRljU) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [DRUGS](https://open.spotify.com/album/0EomGnN4zv8AC2Zi7NL1bV) | 2:39 | 2020-11-03 | 2020-11-07 |
-| [drugs are for fun](https://open.spotify.com/track/3EAPXckxzS63OgxbDgaAZz) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [drugs are for fun](https://open.spotify.com/album/7IhqRJzrwITx7QCXzYitzT) | 2:22 | 2022-08-05 |  |
+| [drugs are for fun](https://open.spotify.com/track/3EAPXckxzS63OgxbDgaAZz) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [drugs are for fun](https://open.spotify.com/album/7IhqRJzrwITx7QCXzYitzT) | 2:22 | 2022-08-05 | 2022-12-10 |
 | [Dumb](https://open.spotify.com/track/3ADZ5dT4Gdau4pVmFhleBF) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Dumb](https://open.spotify.com/album/66u2QlWEFzKwpqLeHIR1Q2) | 3:58 | 2021-06-27 | 2021-09-04 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-07-10 | 2021-10-16 |
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2021-10-30 | 2022-02-19 |
@@ -354,6 +354,7 @@
 | [Gonna Be Okay](https://open.spotify.com/track/1FfQScGXFnfPu309jwGgwg) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [Gonna Be Okay](https://open.spotify.com/album/31BsDGUGcmuIXG7W76JV4v) | 2:51 | 2020-10-29\* | 2021-02-13 |
 | [Goosebumps](https://open.spotify.com/track/6rQETb8NqBgY6Fqxpz1Qbr) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Goosebumps](https://open.spotify.com/album/1Hfpxs1Vgk0ynXBivdSFkg) | 4:21 | 2020-10-29\* | 2020-11-11 |
 | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/track/6ek40cFUiRjxA2KrOHNfi3) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/album/55yLoYwGsnb7tCg10LmKIJ) | 1:46 | 2021-10-02 | 2022-02-12 |
+| [Graffiti](https://open.spotify.com/track/1nbf58hrmgDkfathd8NwTD) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Violet](https://open.spotify.com/album/4tW1prOUVuxwZqBJ9kQEaB) | 3:08 | 2022-12-09 |  |
 | [Grateful](https://open.spotify.com/track/0GW5VyjYKZUXRHdlEjQagl) | [Jenny Palacios](https://open.spotify.com/artist/1TpnyAngai2yGUjI7OKFp8) | [Grateful](https://open.spotify.com/album/3kPciuGVmlx6wkOKU23oXn) | 3:22 | 2022-03-04 | 2022-03-26 |
 | [green felt](https://open.spotify.com/track/3oN4POrCHruPnGHlzn3WQC) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [green felt](https://open.spotify.com/album/5EbBAnE0T18sQKoBTLn2jk) | 2:20 | 2021-11-13 | 2022-02-26 |
 | [Greenhouse](https://open.spotify.com/track/5ocop7SJaAtCK7cGc5p2JD) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Greenhouse EP](https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi) | 4:33 | 2020-11-03 | 2021-03-06 |
@@ -421,7 +422,7 @@
 | [I Blame You](https://open.spotify.com/track/22KOTx9pZZOsjicvOofqfg) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [I Blame You](https://open.spotify.com/album/0Zsg76LfPMeLc7CVKEA2Ag) | 3:10 | 2022-03-25 | 2022-06-18 |
 | [I Could Die](https://open.spotify.com/track/7ygrZLtm1fACjfPTYHjBLK) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [I Could Die](https://open.spotify.com/album/788D1lbGLyKuaUtL6euBPv) | 2:47 | 2022-04-29 | 2022-09-03 |
 | [i could die](https://open.spotify.com/track/3M94jcrpYyJpMDkvoriPYC) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i could die](https://open.spotify.com/album/4qZnP5lDjnUhm9p8doZJBo) | 2:35 | 2022-05-06 | 2022-07-30 |
-| [I Could Do This All Night](https://open.spotify.com/track/4MYVPz0rYU0jhT5HtFQni3) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [I Could Do This All Night](https://open.spotify.com/album/6TV5kVpf7hUVDhJ3lroF2V) | 3:08 | 2022-07-15 |  |
+| [I Could Do This All Night](https://open.spotify.com/track/4MYVPz0rYU0jhT5HtFQni3) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [I Could Do This All Night](https://open.spotify.com/album/6TV5kVpf7hUVDhJ3lroF2V) | 3:08 | 2022-07-15 | 2022-12-10 |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2021-05-22 | 2021-08-21 |
 | [I Don't Care](https://open.spotify.com/track/3qR417vBrNd4Lf01eMVwWB) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/17GLkeQ4HyRAWfTDjzEKYP) | 3:45 | 2020-10-29\* | 2021-01-21 |
 | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 | 2022-06-03 |  |
@@ -511,6 +512,7 @@
 | [leading me on but i'm not mad about it](https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [leading me on but i'm not mad about it](https://open.spotify.com/album/5FrXGtQvP3jyfycc9CXrKe) | 2:54 | 2020-10-29\* | 2020-11-11 |
 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 | 2022-08-26 | 2022-10-15 |
 | [Ledge](https://open.spotify.com/track/23Q68gHWInQnaji7rjO6PG) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Ledge](https://open.spotify.com/album/13Yn26k2IbaNd60lUrbB5s) | 2:55 | 2022-03-18 | 2022-04-09 |
+| [LEMON LIME](https://open.spotify.com/track/1kiQfpmbMrcDO7o9e7GBH6) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [LEMON LIME](https://open.spotify.com/album/4wZ5SnY6NjtiCf4NycJxSZ) | 2:58 | 2022-12-09 |  |
 | [Lemonade](https://open.spotify.com/track/5Kr72kgrS973p2pj2ljRt5) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Lemonade](https://open.spotify.com/album/3H590nC6Jt4RkHfd8UBT7s) | 3:47 | 2020-10-29\* | 2021-01-06 |
 | [Let Go](https://open.spotify.com/track/1DtdX9FfsysjfOXhVfGySB) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Let Go](https://open.spotify.com/album/0nanElKiXhl3gLEyluduzv) | 3:10 | 2022-08-12 |  |
 | [Let Me](https://open.spotify.com/track/3j8h9Eu2R3JSbJdMQSGbZM) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Let Me](https://open.spotify.com/album/4I9CdA8S8MgpXAtMJ35zdb) | 3:23 | 2021-11-20 | 2022-03-05 |

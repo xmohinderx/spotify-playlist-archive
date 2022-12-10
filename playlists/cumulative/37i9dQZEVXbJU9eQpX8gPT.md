@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-888 songs - 2 day 1 hr 16 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+889 songs - 2 day 1 hr 19 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,7 +578,7 @@
 | [Ne pleure pas](https://open.spotify.com/track/4SSF9Cs9AdMebHsBc4ar7E) | [Dame Civile](https://open.spotify.com/artist/2x3nZ4tXQJLAriCyhblQoG), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Ne pleure pas](https://open.spotify.com/album/6L9fjosMJDCIWqMjHlWz8C) | 3:36 | 2022-11-24 | 2022-11-27 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-04 | 2021-09-27 |
 | [Netflix](https://open.spotify.com/track/0wm3Tuie0LfHwRSNI1bqOn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [8ird](https://open.spotify.com/artist/3QmZDh7Hz0zasHGHK6NZkw) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:46 | 2022-01-29 | 2022-02-12 |
-| [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 | 2022-12-03 |  |
+| [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 | 2022-12-03 | 2022-12-10 |
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/5XJWEh8huqG0l9RgRyArtv) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:27 | 2022-12-04 | 2022-12-09 |
 | [NICHANE](https://open.spotify.com/track/5meK07pUTC30PBHWiNPTAX) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:47 | 2022-06-19 | 2022-06-23 |
 | [Nifi](https://open.spotify.com/track/1BhnBaTsEXx7AddmTJgHvI) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:24 | 2022-01-29 | 2022-01-31 |
@@ -639,6 +639,7 @@
 | [Papillon](https://open.spotify.com/track/2e6OAZn3kthKizIsGugLeR) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:31 | 2022-05-07 | 2022-10-17 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-09 |
 | [PARASITE](https://open.spotify.com/track/2yF2mzAJgithv1mGqqKnF1) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 2:13 | 2022-08-13 | 2022-08-15 |
+| [Paro](https://open.spotify.com/track/3gilyLEPttYyyo9NTNyAwx) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6P65wxp5Uptiv1PdpLlwQI) | 3:24 | 2022-12-09 |  |
 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Sos \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 | 2022-07-22 | 2022-10-30 |
 | [Passe Passe](https://open.spotify.com/track/1ERaWbmU3snPFCdLBARVqH) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo), [DJ Sim\-H](https://open.spotify.com/artist/4vhOcnMfCqZAOoLTpiDxXF), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Rap Khatr](https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP) | 2:58 | 2021-04-13 | 2021-05-30 |
 | [PAUSE](https://open.spotify.com/track/3rgK01p9Vi8RfTuABJQtzM) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 3:39 | 2022-08-13 | 2022-09-11 |

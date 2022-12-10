@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,819 likes - 69 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 69 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 | 51 | [Zone](https://open.spotify.com/track/0xl5SmrxNAmwc92Ihv9e5s) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [John Wolf](https://open.spotify.com/artist/3DN7OJUQmcj8YAwNaOaiEZ) | [Zone](https://open.spotify.com/album/75hxVfkeyfCso8XCFZQRim) | 3:19 |
 | 52 | [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 |
 | 53 | [Mas Que Nada](https://open.spotify.com/track/6U7GUjtamt2P0LcFod1dBT) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Timeless](https://open.spotify.com/album/4sceISkCvRuDbd74AtKeEH) | 4:22 |
-| 54 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 |
+| 54 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:22 |
 | 55 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 |
 | 56 | [Hayya Hayya \(Better Together\) \- Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aisha](https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Hayya Hayya \(Better Together\) \[Music from FIFA World Cup Qatar 2022 Soundtrack\]](https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU) | 3:26 |
 | 57 | [The World Is Yours To Take \- Budweiser Anthem Of The FIFA World Cup 2022](https://open.spotify.com/track/6LiCDjlGCBx8DK4VhOijvp) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The World Is Yours To Take \(Budweiser Anthem Of The FIFA World Cup 2022\)](https://open.spotify.com/album/6EVAtrDDDMRCbxmLikzJnv) | 2:47 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 | 68 | [Premier League Anthem](https://open.spotify.com/track/2G369PWLsQasfuNwLeDrZw) | [Premier League](https://open.spotify.com/artist/7jdi4Wj9TKBABuJTKsxQKn) | [Premier League Anthem](https://open.spotify.com/album/6gb8ZFqOodTjLpxvBtlpIe) | 3:12 |
 | 69 | [This Is Premier League](https://open.spotify.com/track/49ujze11sPOADic4ssGnrO) | [Premier League Music](https://open.spotify.com/artist/7BO1yFil6IhV5i73zeU9gO) | [This Is Premier League](https://open.spotify.com/album/2YTQepsyrqmSypnw5VKMJr) | 3:24 |
 
-Snapshot ID: `MTY2OTAxMzYyOSwwMDAwMDAwMDE5ZDczZjViN2IwYTViZDQzODBkYzFkMjFmMTY0NzU1`
+Snapshot ID: `MTY2OTAxMzYyOSwwMDAwMDAwMGIwZDQ1ZjEzY2YzMjk3MWRmZTNkMzdjZTgxMzI4NDE2`

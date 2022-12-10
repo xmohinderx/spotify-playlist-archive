@@ -4,7 +4,7 @@
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: DIKKE
 
-104 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
+105 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/5AimUqVfhUXe1jCRanTK72) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/5feJik71vEqH5bSdktYTjq) | 2:40 | 2022-05-22 | 2022-06-01 |
 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 | 2022-08-25 |  |
 | [Another year like that and we'd all be dead \- Stripped](https://open.spotify.com/track/3opGpYcaarSepS5e9Qq05g) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Another year like that and we'd all be dead \(stripped\)](https://open.spotify.com/album/1Ft7nREIGt0NIX7h7fW6Ef) | 3:37 | 2021-12-10 | 2022-10-18 |
+| [Bagage](https://open.spotify.com/track/2AsHeHGOkCk9rEOz04j6Nq) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e) | 3:01 | 2022-12-09 |  |
 | [Beef Met Mezelf](https://open.spotify.com/track/6XRENEEHLT8cE15VkccJZW) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/5a8T2MTqMj9HVPdTqjW36y) | 3:20 | 2022-11-03 |  |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2021-12-10 | 2022-08-26 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-12-10 |  |

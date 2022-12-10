@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,802 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,819 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 63 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 |
 | 64 | [Coronita](https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV) | [Ignacio Arocena](https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9) | [Coronita](https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms) | 3:43 |
 | 65 | [El Vals](https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q) | [Felix Alvarez](https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA) | [El Vals](https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN) | 3:20 |
-| 66 | [La Guarida](https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i) | [Julian Mourin](https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Mei demayo](https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV), [Juan ortiz](https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB) | [La Guarida](https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV) | 3:10 |
+| 66 | [La Guarida](https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i) | [Julian Mourin](https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw), [Mei demayo](https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV), [Juan ortiz](https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [La Guarida](https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV) | 3:10 |
 | 67 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 |
 | 68 | [X AMOR](https://open.spotify.com/track/7mePOahmzjcf3ollKqNqiW) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/49azHYzQZOev9lrqjyqDTz) | 4:02 |
 | 69 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 |

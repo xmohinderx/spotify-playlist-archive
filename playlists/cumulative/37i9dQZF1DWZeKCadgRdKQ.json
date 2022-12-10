@@ -372,6 +372,24 @@
     },
     {
       "album": {
+        "name": "Are You Up",
+        "url": "https://open.spotify.com/album/2MOLnimdDLWHZQVEnKZkbO"
+      },
+      "artists": [
+        {
+          "name": "Agnes Lundh",
+          "url": "https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152597,
+      "name": "Are You Up",
+      "url": "https://open.spotify.com/track/3xXQCt1vfzNEOndrrNWAZR"
+    },
+    {
+      "album": {
         "name": "Arriving",
         "url": "https://open.spotify.com/album/7CosLPjvMgHwpwVgZiwNbi"
       },
@@ -5195,6 +5213,24 @@
       "duration_ms": 133090,
       "name": "Needless to Say",
       "url": "https://open.spotify.com/track/3JPbOyccVz2HJDNaXfehiX"
+    },
+    {
+      "album": {
+        "name": "Neon White",
+        "url": "https://open.spotify.com/album/63GuNC3lRSc90Ur5Y3VcqT"
+      },
+      "artists": [
+        {
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139072,
+      "name": "Neon White",
+      "url": "https://open.spotify.com/track/7GuN1Fddm0hCfppgIDUArP"
     },
     {
       "album": {

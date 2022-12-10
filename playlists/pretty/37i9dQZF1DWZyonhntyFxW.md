@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى أغاني الراب المصري في مكان واحد 😎<br/>! غلاف: ابو الانوار
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,458 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,745 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 34 | [عطشان وبستنى تغيير](https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير](https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8) | 1:27 |
 | 35 | [خلصانة](https://open.spotify.com/track/0UEVzjzh4cdVdseez14q1G) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj) | [خلصانة](https://open.spotify.com/album/1NfFVrdOU9l6xHvNRG8Zw0) | 3:02 |
 | 36 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 |
-| 37 | [El Rap Ghayarni](https://open.spotify.com/track/0SQ5ckrJfPLlBzfVxJ7qZn) | [Lil Baba](https://open.spotify.com/artist/6jjGeN6FcPTmKjRXpxGjL0), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El Rap Ghayarni](https://open.spotify.com/album/604qvjYynAS8jwYMPVlAgk) | 4:12 |
+| 37 | [El Rap Ghayarni](https://open.spotify.com/track/0SQ5ckrJfPLlBzfVxJ7qZn) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El Rap Ghayarni](https://open.spotify.com/album/604qvjYynAS8jwYMPVlAgk) | 4:12 |
 | 38 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 |
 | 39 | [7een Maysara \(Molowave\)](https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [7een Maysara \(Molowave\)](https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN) | 3:12 |
 | 40 | [Baba](https://open.spotify.com/track/0HjAtdzoK8MsULTU5VwyFT) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:53 |

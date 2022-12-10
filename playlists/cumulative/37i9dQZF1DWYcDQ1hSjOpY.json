@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "A Night Full Of Stars",
+        "url": "https://open.spotify.com/album/46MohKiyZoPYkMhnQKcbfV"
+      },
+      "artists": [
+        {
+          "name": "Soft Voyage",
+          "url": "https://open.spotify.com/artist/4FDnFOfVVVFWDNecPIbaYo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "A Night Full Of Stars",
+      "url": "https://open.spotify.com/track/550zqNehla4IUSDFgMNDYB"
+    },
+    {
+      "album": {
         "name": "Delusion",
         "url": "https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX"
       },

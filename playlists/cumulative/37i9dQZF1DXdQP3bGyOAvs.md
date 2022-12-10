@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-257 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+263 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2022-05-20 |  |
 | [Bermuda](https://open.spotify.com/track/0g41bwAXfDCDbo0h0syFs9) | [Lenny Braam](https://open.spotify.com/artist/2gU6uUfseONHGxhEUmemej) | [Bermuda](https://open.spotify.com/album/6wQiu3oJP4kVoWoBNh3lK0) | 3:48 | 2022-05-20 | 2022-07-01 |
 | [Better Vibes](https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Better Vibes](https://open.spotify.com/album/5K7yAtX3yp0ijNeMjI14BQ) | 3:33 | 2022-05-20 |  |
+| [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 | 2022-12-09 |  |
 | [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 | 2022-05-20 | 2022-09-09 |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2022-05-20 |  |
 | [Blurry Stars](https://open.spotify.com/track/2MvYG2MZjHljTK468rBncA) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blurry Stars](https://open.spotify.com/album/41rRCpIgzmzAFRCdqtWTH1) | 2:40 | 2022-11-25 |  |
@@ -65,6 +66,7 @@
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
 | [Departure](https://open.spotify.com/track/6htOOaacfj5M54jI6CwzRg) | [Gleery](https://open.spotify.com/artist/6LXTSY43XhcV6XnVLANctK) | [Departure](https://open.spotify.com/album/41ZA3sYUeR0RTqAPs3H9bk) | 3:40 | 2022-10-28 |  |
 | [Des Moments](https://open.spotify.com/track/6u7aoEs8qCeiQh80c94d73) | [OYOANNE](https://open.spotify.com/artist/54SxhcvIgW6e7A4R2UKNrL) | [Des Moments](https://open.spotify.com/album/0yCHMROpPtyxWYBgXF7rln) | 2:58 | 2022-05-27 | 2022-06-03 |
+| [Dial In](https://open.spotify.com/track/74UYdNAk3qSD6U4V5DShef) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Call Me](https://open.spotify.com/album/6MD0V6Ap6pdO6trtrG8Vhg) | 2:59 | 2022-12-09 |  |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2022-05-20 | 2022-09-09 |
 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 | 2022-05-20 |  |
 | [Dress Code](https://open.spotify.com/track/4FAplJVLA4DZ021mNlQooP) | [Gridlocks](https://open.spotify.com/artist/0UdtexVQoBH5XHUwGEkCZO) | [Dress Code](https://open.spotify.com/album/7tIzQ9i65nq4YsQCZznkHg) | 2:18 | 2022-10-14 |  |
@@ -79,6 +81,7 @@
 | [Feel Di Pulse](https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG) | [Cascaix](https://open.spotify.com/artist/7cVHoN5a6NjZ2LC8v0sFvJ) | [Feel Di Pulse](https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr) | 2:07 | 2022-05-20 |  |
 | [Feelings](https://open.spotify.com/track/6BfSu2jmPD8qk4tl3Wre3u) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Feelings](https://open.spotify.com/album/4XhTYWqq6hs3uWBdYDXdyw) | 2:31 | 2022-05-20 | 2022-06-24 |
 | [Feet in Sand](https://open.spotify.com/track/6YbkG0VobN5rBaN9QW14Ih) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Feet in Sand](https://open.spotify.com/album/4YCnbj7uIHHXFmljXzkLCP) | 2:54 | 2022-09-02 |  |
+| [Feign Life](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a) | 2:52 | 2022-12-09 |  |
 | [Feuilles](https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Feuilles](https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN) | 2:33 | 2022-05-20 |  |
 | [Five Ponds](https://open.spotify.com/track/2t2CbcfZxqtXybZktLGmtk) | [Vacant Van](https://open.spotify.com/artist/7lg84TeldpA0Dqev3YMBZL) | [Five Ponds](https://open.spotify.com/album/7Kgnc78hmFgqYEY1eCbuRq) | 3:07 | 2022-05-20 |  |
 | [Fives](https://open.spotify.com/track/13UEDh7Imgd0BTOY0n4wnr) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Fives](https://open.spotify.com/album/0lr9HrEbGPxh0JSllsGsMM) | 1:58 | 2022-08-19 |  |
@@ -113,6 +116,7 @@
 | [Horizon](https://open.spotify.com/track/3Lawg0VthZy12cadJXYDeP) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Horizon](https://open.spotify.com/album/2jXHPzB2gDsEEXomOJPdkg) | 2:37 | 2022-05-20 | 2022-07-01 |
 | [Horizon Island](https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su) | [Zulu Wow](https://open.spotify.com/artist/39OA3fyzp8hPnuAG4W4Lhg) | [Horizon Island](https://open.spotify.com/album/0o2XprxKqcMod4DMKLR6DG) | 3:36 | 2022-05-20 |  |
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2022-05-20 | 2022-07-01 |
+| [I Can’t Even](https://open.spotify.com/track/1hZDvLGzGTvbBRP8CqU0rD) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [I Can’t Even](https://open.spotify.com/album/2vqmwm05G6x3QOKwZRCaJh) | 2:51 | 2022-12-09 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-05-20 |  |
 | [Ibiza](https://open.spotify.com/track/2FMQyu4tjvLOAmdCucxrwP) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7), [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [Ibiza](https://open.spotify.com/album/4i18ta3YiO4XES2hu8N4Wv) | 3:10 | 2022-05-20 | 2022-06-24 |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2022-05-20 | 2022-07-01 |
@@ -235,6 +239,7 @@
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-05-20 |  |
 | [Surface](https://open.spotify.com/track/3cYoFTvBceHnBJrepK9zoC) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:49 | 2022-05-20 |  |
 | [sweaty palms](https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [sweaty palms](https://open.spotify.com/album/00gsJW5JdlirXTyipA6XkX) | 2:40 | 2022-06-24 | 2022-09-09 |
+| [Techo Con Sol](https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Techo Con Sol / Caprice](https://open.spotify.com/album/1cWXNpUajWvpJaWLpMavr1) | 3:08 | 2022-12-09 |  |
 | [Tell Me It's Not Over](https://open.spotify.com/track/4Ul7JjcgyD8BmIZkloRlKu) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Tell Me It's Not Over](https://open.spotify.com/album/6lzQfNbnGiljpubcYSFdhQ) | 3:05 | 2022-09-16 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-05-20 | 2022-06-03 |
 | [The Heavens](https://open.spotify.com/track/2BQPwEDYM8KLUaKncKQiZA) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [The Heavens](https://open.spotify.com/album/4SfOQIO0DjTwSYAzMGlyC1) | 3:36 | 2022-05-20 | 2022-08-05 |
@@ -258,6 +263,7 @@
 | [vibing out](https://open.spotify.com/track/4DUkt7qqbKcVjWLuRUY2QF) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [vibing out](https://open.spotify.com/album/2s1jVVP4h8moCR68wfKqAg) | 3:12 | 2022-09-02 |  |
 | [Vice Versa](https://open.spotify.com/track/47dhXoqYUeOuk7QsTE4YKb) | [Vintage Vanity](https://open.spotify.com/artist/6SBEoQGRoWffIQOkxDJLmM) | [Vice Versa](https://open.spotify.com/album/21tozXtoTgDWVZFEbJsGFt) | 2:32 | 2022-05-20 | 2022-09-17 |
 | [Vista Del Mar](https://open.spotify.com/track/30WPOz4hvOElMMayVMnPyo) | [Mano Manana](https://open.spotify.com/artist/3g70CxwtUMFpp9T8GdhNTG) | [Vista Del Mar](https://open.spotify.com/album/2uXLOxgkD7kJq4gBnHt8nX) | 3:18 | 2022-05-20 |  |
+| [Watered Down](https://open.spotify.com/track/62PE7zL1Gv5XiztojLgCWa) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Watered Down](https://open.spotify.com/album/4EhFuKANOiQToevZGLiu0U) | 2:56 | 2022-12-09 |  |
 | [Wave Machine](https://open.spotify.com/track/2BaPjgVI7EidIAo6fajVr3) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [Wave Machine](https://open.spotify.com/album/3Gkho3YVfoF6t2sE9yWGic) | 2:41 | 2022-05-20 | 2022-09-02 |
 | [We Go Away](https://open.spotify.com/track/17o75NcuAZ7BkajsD9fUp4) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [We Go Away](https://open.spotify.com/album/3GnzsuiimsoskGd7ewgeC8) | 2:04 | 2022-09-02 |  |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2022-05-20 |  |

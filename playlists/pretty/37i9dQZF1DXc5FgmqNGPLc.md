@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,163 likes - 95 songs - 14 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,173 likes - 95 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ov Sulfur
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Jesus Piece
 
-282 songs - 18 hr 3 min - not published yet
+287 songs - 18 hr 22 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,9 +19,12 @@
 | [Acid Black Mass](https://open.spotify.com/track/03kl2tU3JM4MOqpyYjm3xF) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Acid Black Mass](https://open.spotify.com/album/5KUi9nDTrL8nLH3xoE413z) | 4:23 | 2022-03-11 |  |
 | [Acres Of Love](https://open.spotify.com/track/6B43mtMINuEDxR0bLdgB0B) | [Bastions](https://open.spotify.com/artist/28I7fJRc6dm6a4Cq7kNSS6) | [Acres Of Love](https://open.spotify.com/album/6ucVxV2U0gR91H5z7M80HH) | 3:39 | 2022-05-06 |  |
 | [All I've Lost](https://open.spotify.com/track/5NCBRQvPOhILMg7ARKTkt3) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Ashes Lie Still](https://open.spotify.com/album/2ChfG1mtw2bhvNY1tO2hzE) | 5:03 | 2022-11-04 |  |
+| [An Offering to the Night](https://open.spotify.com/track/0EVyJFYojg61MfOHChMEhk) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [An Offering to the Night](https://open.spotify.com/album/7FbcDuhf1XenyNKutT6lZP) | 2:13 | 2022-12-09 |  |
 | [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 | 2022-11-04 |  |
 | [And How They Wept for Eternity](https://open.spotify.com/track/1gP2jBo31MGT9DySTFM4Lb) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [And How They Wept for Eternity](https://open.spotify.com/album/6jSttvdT0rvDv2SH6EftQQ) | 3:54 | 2022-08-19 |  |
 | [Artificial Divinity](https://open.spotify.com/track/4MMer3ITnpDMkIDgtmDsgf) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Artificial Divinity](https://open.spotify.com/album/4WW2bLhuHj6t8EFJEBTWwR) | 3:43 | 2022-10-28 |  |
+| [Attitude](https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Attitude](https://open.spotify.com/album/7cp19grH5E1gFFSEQ0hjM2) | 0:51 | 2022-12-09 |  |
+| [Axe of Kindness](https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Axe Of Kindness](https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6) | 4:08 | 2022-12-09 |  |
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ypHme2lqJbZQjk3LOAqPD) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [BATTERY NOT INCLUDED](https://open.spotify.com/album/1eDCjMOm70DpKkzw2mxfhx) | 2:53 | 2022-01-21 |  |
 | [Behind Closed Doors](https://open.spotify.com/track/40bblUc6CcCwM8jaZ9r9Rf) | [Wormrot](https://open.spotify.com/artist/3vMnvW7u5207ATyxTQIxNz) | [Behind Closed Doors](https://open.spotify.com/album/57hOF9F8e7ww6Q5PJyWes6) | 1:27 | 2022-03-18 |  |
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-15 |  |
@@ -80,6 +83,7 @@
 | [Dying of Everything](https://open.spotify.com/track/7GgPZBrYvDLWUZV0ePStAE) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Dying of Everything](https://open.spotify.com/album/3oNJTBva2E8MhEPz4NHTPC) | 4:43 | 2022-12-02 |  |
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 |  |
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 |  |
+| [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 |  |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2022-08-05 |  |
 | [Evolving](https://open.spotify.com/track/71GOYiaA8DUE8gflwvKxMT) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K), [Shaolin G](https://open.spotify.com/artist/646EtCZzz835whXJClaWtJ) | [Oni](https://open.spotify.com/album/4aYSMBE7Y3UDLCoxmVw0qH) | 2:56 | 2022-09-30 |  |
 | [Exile](https://open.spotify.com/track/1oRdiP3GvlgYWfUa7n2M9h) | [No/Más](https://open.spotify.com/artist/2MdtQasDIeUoPKbes49HCK) | [Exile](https://open.spotify.com/album/0U9JvGl6Z0A9wSVXCv4ETj) | 1:22 | 2022-03-25 |  |
@@ -119,6 +123,7 @@
 | [Hellfire](https://open.spotify.com/track/1MjbvBUJannZpWRTqyCiwC) | [Haunted Shores](https://open.spotify.com/artist/6Zebs0nwJt4EUs36wgFisx) | [Hellfire](https://open.spotify.com/album/5joI436sP5dtjw8k5Z83iK) | 4:21 | 2022-01-14 |  |
 | [Hide](https://open.spotify.com/track/6C2odc2qG42ZbCyNZNxGKi) | [Druids](https://open.spotify.com/artist/6oQRvz9JHOHWtryh47KdOH) | [Hide](https://open.spotify.com/album/2KgDvPXVoyzQZDbMe1BH9S) | 6:07 | 2022-05-06 |  |
 | [High Plains Drifter](https://open.spotify.com/track/4Eya9E3OOY9QCec2ssaG6T) | [Kirk Hammett](https://open.spotify.com/artist/2ePzbA0F0TD96Na0MEB2Cf) | [High Plains Drifter](https://open.spotify.com/album/26ZZ3Pr3U6OCzveywxauf2) | 4:45 | 2022-04-15 |  |
+| [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 |  |
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-07-29 |  |
 | [Human Condition Above Human Opinion](https://open.spotify.com/track/1cmk1UlPbRIyrIThQudaLa) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Human Condition Above Human Opinion](https://open.spotify.com/album/7s4krYYgyLUIl6m4lxWI3t) | 2:39 | 2022-05-06 |  |
 | [I Don't Wanna Talk About It](https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I) | [Candy Apple](https://open.spotify.com/artist/3EYZaeK8iJPw5PWdNyeFgy) | [I Don't Wanna Talk About It](https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm) | 2:33 | 2022-09-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,143 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,250 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 72 | [Sigo Fresh \- Remix](https://open.spotify.com/track/0OMftKSWh56NBTbatl2ZIv) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sigo Fresh \(Remix\)](https://open.spotify.com/album/2wqXRIXMzKipo603C9C2ft) | 4:34 |
 | 73 | [Blanco o Negro \- Remix](https://open.spotify.com/track/6Bt7uEWabZzgdN0g6UQurK) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [John Jay](https://open.spotify.com/artist/3hHNp8Z01f4h9xtEoM4y3q), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy) | [Blanco o Negro \(Remix\)](https://open.spotify.com/album/1XYbgWmEbABolhk1D4Eygr) | 6:14 |
 | 74 | [Como Soy II](https://open.spotify.com/track/6WZecLipzXhhw9cDAZub9O) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Como Soy II](https://open.spotify.com/album/3C7cfo9Ycj8NjBUv3DHk2f) | 5:41 |
-| 75 | [El Oso del Dinero](https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 2:37 |
+| 75 | [El Oso del Dinero](https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 2:37 |
 | 76 | [Costear \- Remix](https://open.spotify.com/track/512HrKUa80id5XGLw0cuXP) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Eq](https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh) | [Costear \(Remix\)](https://open.spotify.com/album/4s0aVy2iYuYsKMc4AOqQGY) | 3:44 |
 | 77 | [Contamos & Guerreamos](https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Contamos & Guerreamos](https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe) | 4:48 |
 | 78 | [Tyson](https://open.spotify.com/track/7sS5P7HJpRI6dslzJ55z6C) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Tyson](https://open.spotify.com/album/7bQIXLkfIzUnpEqfDElNA0) | 2:41 |

@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: GAUPA
+> Heavy new bands you need to have an eye on\. Cover: Zulu
 
-122 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+123 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Empty Vessels](https://open.spotify.com/track/0uAFXFjrVi3Bd1LDDMl4vI) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Empty Vessels](https://open.spotify.com/album/1Lz5DqGT3XU3Zlyp80T4pJ) | 2:40 | 2022-07-29 | 2022-08-27 |
 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 | 2022-11-18 |  |
 | [Extending Obscurity](https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK) | [The Spirit](https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah) | [Extending Obscurity](https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0) | 3:54 | 2022-07-29 |  |
+| [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 | 2022-12-09 |  |
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-07-29 | 2022-09-03 |
 | [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 | 2022-11-18 |  |
 | [Felt Like Home](https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Felt Like Home](https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE) | 3:30 | 2022-10-28 |  |

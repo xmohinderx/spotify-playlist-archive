@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Mafro
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,747 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,803 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 16 | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1ZZvjjvaGhVOIf4Y7zzxPU) | 2:59 |
 | 17 | [Superstar](https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Micky Modelle](https://open.spotify.com/artist/3zcI1GFwUNAZj9NxlKOfYb), [Simone Denny](https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs) | [Belters Only](https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y) | 3:42 |
 | 18 | [Like You Do](https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Like You Do](https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx) | 2:32 |
-| 19 | [Takes Me to You](https://open.spotify.com/track/7z5fqVuCMLTqQyI3R6jmOW) | [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Takes Me to You](https://open.spotify.com/album/1LSqyxsEsVsJcx7wvt9b1x) | 5:04 |
+| 19 | [Takes Me To You](https://open.spotify.com/track/7z5fqVuCMLTqQyI3R6jmOW) | [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Takes Me To You](https://open.spotify.com/album/1LSqyxsEsVsJcx7wvt9b1x) | 5:04 |
 | 20 | [Lucid Love](https://open.spotify.com/track/4lxezjHzTpF81nMNixy1OS) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Lucid Love](https://open.spotify.com/album/4fyUu9Mo0l6bRztTTe0ouz) | 3:08 |
 | 21 | [Sky](https://open.spotify.com/track/4okLKBoptdikEhZWfmPJne) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky](https://open.spotify.com/album/1HyPOtFbKB9W9gswq6wQwN) | 3:02 |
 | 22 | [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 |

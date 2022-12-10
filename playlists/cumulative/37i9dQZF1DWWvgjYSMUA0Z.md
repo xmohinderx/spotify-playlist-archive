@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-128 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+131 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 | 2022-07-08 |  |
 | [Bansuri](https://open.spotify.com/track/4Cy9EEXAjmzjIa2hBYJa7R) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Bansuri](https://open.spotify.com/album/1os3PzBysPuwHUOAJIQlHs) | 2:50 | 2021-12-22 |  |
 | [Birth](https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Birth](https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM) | 2:55 | 2022-05-05 |  |
+| [Breathe Deep](https://open.spotify.com/track/1IbaKAjgt3jCUgeb3MxKiM) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Breathe Deep](https://open.spotify.com/album/6TQhNqh95efIgkLWcBn0kf) | 3:14 | 2022-12-09 |  |
 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 | 2021-12-22 | 2022-10-22 |
 | [Celestial Visions](https://open.spotify.com/track/3A9nqhgcN0F7S1AHfeBLxp) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Celestial Visions](https://open.spotify.com/album/5CW2QFsfzbf5YVkAjbrM3u) | 2:27 | 2022-04-21 |  |
 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 | 2022-03-09 |  |
@@ -37,6 +38,7 @@
 | [Dynasty](https://open.spotify.com/track/5Ie3qzaZXpR7MLeCN5k2ph) | [Reflowed](https://open.spotify.com/artist/2kYcrynI6pCgHgYdFE4oMK) | [Dynasty](https://open.spotify.com/album/1UnntuIvY26T6Wj7F82W4C) | 3:16 | 2022-07-08 |  |
 | [Emotional Healing](https://open.spotify.com/track/73r7Bj4SU8ZLdjMbtDlkjy) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Emotional Healing](https://open.spotify.com/album/4oigpI299VEBlzpSkSzHN8) | 2:31 | 2022-10-14 |  |
 | [Emotional Music \(Chakra Balancing\)](https://open.spotify.com/track/4nOyZYW1lFwMeiwF23sB3O) | [Reiki Music](https://open.spotify.com/artist/1MKdS4gCWclRAcVydpTv9T) | [Reiki Music \- Vital Energy Nature Zen Music for Reiki, Qi Gong, Tai Chi, Yoga and Mindfulness Meditation](https://open.spotify.com/album/5JEA9dSY3SccUqniOKsqjz) | 6:42 | 2021-12-22 | 2022-09-15 |
+| [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 | 2022-12-09 |  |
 | [Five Bowls of Tibetan](https://open.spotify.com/track/4yhqoMdd45giViFd7UVT1d) | [Five Bowls of Tibetan](https://open.spotify.com/artist/2ep4utLbfFM6R7fWqPwAeo) | [Himalayan Shimmer](https://open.spotify.com/album/05bVIBjzo0rOl1aQBF7WRR) | 3:23 | 2021-12-22 |  |
 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-01-06 | 2022-01-21 |
 | [Fly Among Clouds](https://open.spotify.com/track/6Kf6iSevn3QqANd6SHHHOk) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:18 | 2021-12-22 |  |
@@ -50,6 +52,7 @@
 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 | 2021-12-22 |  |
 | [Illumination of the Heart](https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 9:41 | 2021-12-22 | 2022-06-25 |
 | [In jouw armen](https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In jouw armen](https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm) | 3:10 | 2021-12-22 |  |
+| [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 | 2022-12-09 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2021-12-22 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-02-04 |  |
 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-11 |  |

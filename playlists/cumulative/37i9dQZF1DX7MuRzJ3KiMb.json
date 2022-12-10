@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Sensaciones",
+        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68733,
+      "name": "86.400",
+      "url": "https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN"
+    },
+    {
+      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -196,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Autom\u00e1tico",
+        "url": "https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI"
+      },
+      "artists": [
+        {
+          "name": "Juan Solo",
+          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186826,
+      "name": "Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl"
+    },
+    {
+      "album": {
         "name": "H\u00e1blate de M\u00ed",
         "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
@@ -287,7 +323,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 192396,
       "name": "Caf\u00e9 Helado",
       "url": "https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9"
@@ -507,10 +543,50 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 196384,
       "name": "Contigo Me Quedo",
       "url": "https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Usado",
+        "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Isabel Aladro",
+          "url": "https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232241,
+      "name": "Coraz\u00f3n Usado",
+      "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
+    },
+    {
+      "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
       "album": {
@@ -685,6 +761,24 @@
       "duration_ms": 214865,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
+    },
+    {
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
       "album": {
@@ -931,7 +1025,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 181625,
       "name": "Lalal\u00e1",
       "url": "https://open.spotify.com/track/63KP70pPlQ7TMSwkdIP0jC"
@@ -967,7 +1061,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 200146,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj"
@@ -1007,7 +1101,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 219610,
       "name": "Mientras Duermes",
       "url": "https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O"
@@ -1254,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "Permanente",
+        "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235044,
+      "name": "Permanente",
+      "url": "https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl"
+    },
+    {
+      "album": {
         "name": "Plat\u00edcame de Ti",
         "url": "https://open.spotify.com/album/3uukbcpnSepDgOHTZLAuQN"
       },
@@ -1301,7 +1413,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 180000,
       "name": "Postre",
       "url": "https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi"
@@ -1940,6 +2052,28 @@
     },
     {
       "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "album": {
         "name": "\u00c1tame",
         "url": "https://open.spotify.com/album/0dDvgoijFTIRu3gPR4XTpn"
       },
@@ -1951,7 +2085,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 190915,
       "name": "\u00c1tame",
       "url": "https://open.spotify.com/track/0oLIHr9UiL68al3E8MeT2u"

@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176727,
       "name": "Antes de Perderte",
       "url": "https://open.spotify.com/track/2LgxW2t2H6lAf7tJuOnxxj"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2561,7 +2561,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
@@ -9541,6 +9541,32 @@
       "duration_ms": 165634,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
+    },
+    {
+      "album": {
+        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
     },
     {
       "album": {

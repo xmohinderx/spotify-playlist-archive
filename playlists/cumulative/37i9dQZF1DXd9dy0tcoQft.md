@@ -4,7 +4,7 @@
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-138 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
+139 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Seven Days of Rain](https://open.spotify.com/track/5P5r3OPbXUMZDMhHuOunv3) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [In Gold EP](https://open.spotify.com/album/49FBsPdTnhNXCeDnetUdmx) | 3:54 | 2021-12-16 | 2022-07-28 |
 | [sing about love](https://open.spotify.com/track/5B3vp0n7EJch6ExLlyfLdl) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [sing about love](https://open.spotify.com/album/0ZH61KMwJcevDmzFkxVXoz) | 3:34 | 2021-12-22 | 2022-01-13 |
 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 | 2021-12-16 |  |
-| [Sky has open doors](https://open.spotify.com/track/5EqtcGaNE7rE6mjVZYarjB) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/3V7X498o84HlP4NK9vhoeY) | 3:39 | 2022-12-09 |  |
+| [Sky has open doors](https://open.spotify.com/track/5EqtcGaNE7rE6mjVZYarjB) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/3V7X498o84HlP4NK9vhoeY) | 3:39 | 2022-12-09 | 2022-12-10 |
+| [Sky has open doors](https://open.spotify.com/track/73KIzrxQOsJAgMj6dBDQ5d) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/0l4lzZ83jqOdYjVxSXLglU) | 3:39 | 2022-12-10 |  |
 | [Sleeptalking](https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 2:47 | 2021-12-16 |  |
 | [Slow Cooker](https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:22 | 2021-12-16 |  |
 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 | 2021-12-16 |  |

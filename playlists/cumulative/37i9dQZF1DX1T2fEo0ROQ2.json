@@ -908,6 +908,24 @@
     },
     {
       "album": {
+        "name": "By Night",
+        "url": "https://open.spotify.com/album/0XD64OAteO7YJRXdMfnuKb"
+      },
+      "artists": [
+        {
+          "name": "Hain Sona",
+          "url": "https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164845,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/3GUcRSX4iicaUG2K2g4bBH"
+    },
+    {
+      "album": {
         "name": "Caelum",
         "url": "https://open.spotify.com/album/62ccvdP66pR3MYVc4UxjeF"
       },
@@ -2165,6 +2183,24 @@
       "duration_ms": 213889,
       "name": "Fjords",
       "url": "https://open.spotify.com/track/0un2LnKNOVlm3SOyqM2gTM"
+    },
+    {
+      "album": {
+        "name": "Illusive",
+        "url": "https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71"
+      },
+      "artists": [
+        {
+          "name": "Maximilian Zapdo",
+          "url": "https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181181,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/6veeVefkYHSLtRTsxsOXCw)
+54 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/6veeVefkYHSLtRTsxsOXCw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,11 @@
 | [Lost](https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 5:15 | 2022-06-09 |  |
 | [Lost \-Game size\-](https://open.spotify.com/track/7g42Ofn6XWXD61OM8Vqwk0) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 4:01 | 2022-06-13 |  |
 | [Lotus](https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Null](https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC) | 5:32 | 2022-06-09 |  |
+| [Numb](https://open.spotify.com/track/1Hane5qDm7pjoe5F96HtnZ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive\(Special Edition\)](https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ) | 4:13 | 2022-12-09 |  |
 | [Rea\(s\)oN \-Acoustic Live ver.\-](https://open.spotify.com/track/5Fa7xFiV4wiqI6od5Tge6O) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 5:09 | 2022-06-09 |  |
 | [Rea\(s\)oN \-Acoustic Live ver.\-](https://open.spotify.com/track/66SJdEgge2tTZQj6vWGP8s) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 5:09 | 2022-08-17 | 2022-09-29 |
 | [Scar/let](https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:17 | 2022-06-09 |  |
+| [Simoom](https://open.spotify.com/track/05MXmdbsQsZbyBpuFr5f3P) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive\(Special Edition\)](https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ) | 5:20 | 2022-12-09 |  |
 | [Someday](https://open.spotify.com/track/6wI3Tt9Nwk3VPiL2FlqYxV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Someday](https://open.spotify.com/album/5Dfj0lFPagb6MG3cUV8lH3) | 5:18 | 2022-06-09 |  |
 | [Someday \-Instrumental\-](https://open.spotify.com/track/5Q5ImMxs1liLdfsZ8tm4C8) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:19 | 2022-06-09 | 2022-11-10 |
 | [SWEET HURT](https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [SWEET HURT](https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm) | 4:37 | 2022-06-09 |  |
@@ -47,6 +49,7 @@
 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ライフ・イズ・ビューティフォー](https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d) | 4:26 | 2022-06-09 | 2022-09-02 |
 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 | 2022-09-01 |  |
 | [ライフ・イズ・ビューティフォー \-Instrumental\-](https://open.spotify.com/track/4h2bkYwwW83WbPVFixtzE4) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:27 | 2022-06-09 |  |
+| [一番星](https://open.spotify.com/track/0rFlCZTNJO8p9A7Jg7PYn3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive\(Special Edition\)](https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ) | 5:19 | 2022-12-09 |  |
 | [怪物の詩](https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:22 | 2022-06-09 |  |
 | [決意の朝に](https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Null](https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC) | 5:11 | 2022-06-09 |  |
 | [猫失格](https://open.spotify.com/track/6BK3WZy3MR5GmH4zOk2O8F) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?\(Special Edition\)](https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9) | 5:55 | 2022-07-28 |  |

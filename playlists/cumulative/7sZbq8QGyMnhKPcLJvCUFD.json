@@ -64,6 +64,28 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu"
+    },
+    {
+      "album": {
         "name": "Alone EP",
         "url": "https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8"
       },
@@ -3003,6 +3025,72 @@
       "duration_ms": 187500,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/4IpHprcfDRMRjV1Vm2rr29"
+    },
+    {
+      "album": {
+        "name": "When I\u2019m With You - Remixes",
+        "url": "https://open.spotify.com/album/18Iio2vivHJXPkK6AjgHM3"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "EMIDEX",
+          "url": "https://open.spotify.com/artist/7394eHssATloNg9MDOPTnJ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "When I'm With You - EMIDEX Remix",
+      "url": "https://open.spotify.com/track/5bFtowNLiwn67wZUDhF8Cl"
+    },
+    {
+      "album": {
+        "name": "When I\u2019m With You - Remixes",
+        "url": "https://open.spotify.com/album/18Iio2vivHJXPkK6AjgHM3"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "NCKD",
+          "url": "https://open.spotify.com/artist/3OadzdD3LvpCfIRqgUCB4P"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "When I'm With You - NCKD Remix",
+      "url": "https://open.spotify.com/track/7Gx8d9XPQMLgTVx1vFtHAy"
+    },
+    {
+      "album": {
+        "name": "When I\u2019m With You - Remixes",
+        "url": "https://open.spotify.com/album/18Iio2vivHJXPkK6AjgHM3"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "T-Rice",
+          "url": "https://open.spotify.com/artist/2zw4hJvsdFtEk6i2FLa1Uw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182614,
+      "name": "When I'm With You - T-Rice Remix",
+      "url": "https://open.spotify.com/track/199yqPnwlybLMjMNY5Hjxy"
     },
     {
       "album": {

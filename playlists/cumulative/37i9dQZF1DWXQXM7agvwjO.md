@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Agatha Pricilla, Mondo Gascaro \(Indonesia\)
 
-516 songs - 1 day 6 hr 54 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+517 songs - 1 day 6 hr 56 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [cntrl:](https://open.spotify.com/track/1TAbrJpDjryYqi0CktMyho) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [cntrl:](https://open.spotify.com/album/1fHutJ5XpLudEcSzleTZmy) | 3:04 | 2022-07-07 | 2022-08-12 |
 | [Coeur Kamikaze 心與海](https://open.spotify.com/track/1xut6DzmmqwYixQ5xRskZ1) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw), [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [Coeur Kamikaze 心與海](https://open.spotify.com/album/1Wnwt7wHqrZ5nHI9Xa6QyZ) | 3:31 | 2022-03-24 | 2022-04-02 |
 | [Coffee or tea](https://open.spotify.com/track/05dIejxjljs2szxWX3PKLV) | [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [Coffee or tea](https://open.spotify.com/album/5cYa0ENtyWPMnfCGEBXVje) | 2:32 | 2022-08-25 | 2022-10-07 |
+| [COLOURS](https://open.spotify.com/track/3U6DHqP0KCGMSmVFn61YJy) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [COLOURS](https://open.spotify.com/album/4Kh88t8Dm5bwkdnfwjhBVn) | 1:56 | 2022-12-09 |  |
 | [Come Away](https://open.spotify.com/track/7newW6xmjNb1K9hWMp1DV5) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Come Away](https://open.spotify.com/album/2NZ6MllzTEfcd6ht85dYkQ) | 3:40 | 2022-08-04 | 2022-09-23 |
 | [Comfortable](https://open.spotify.com/track/529FTIdolSVHl0GYgJMBvb) | [Sangstaa](https://open.spotify.com/artist/6y1pFGcmfWgcrziPzbUQfc) | [Comfortable](https://open.spotify.com/album/1cimizQXDhVdqHYnnlEr8u) | 2:01 | 2022-09-15 | 2022-11-25 |
 | [Coming Back](https://open.spotify.com/track/6GrOZYmO4cbVHGz5IGWjd7) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Coming Back](https://open.spotify.com/album/60RRYz2U7iQkuYRvIoAXsn) | 3:29 | 2022-10-13 | 2022-11-25 |
@@ -123,7 +124,7 @@
 | [Different Shade of Blue](https://open.spotify.com/track/4TfTHd6vzdJwETRmfKK7pB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2qFwbnJz52vHxJUQCcJdAv) | 2:50 | 2022-03-24 | 2022-06-03 |
 | [Dimensio](https://open.spotify.com/track/44aFC9Q6JUO8txxJeunsz3) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Dimensio](https://open.spotify.com/album/4xgJN8UO0lrJkUjfgoShBg) | 3:22 | 2022-10-28 |  |
 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 | 2022-11-24 |  |
-| [DOMO \(dancing on my own\)](https://open.spotify.com/track/2xLqIPEPpG5VbpC3eQnHLM) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [DOMO \(dancing on my own\)](https://open.spotify.com/album/7uWOzh0qX7ny9zALiRGNb2) | 3:10 | 2022-11-10 |  |
+| [DOMO \(dancing on my own\)](https://open.spotify.com/track/2xLqIPEPpG5VbpC3eQnHLM) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [DOMO \(dancing on my own\)](https://open.spotify.com/album/7uWOzh0qX7ny9zALiRGNb2) | 3:10 | 2022-11-10 | 2022-12-10 |
 | [Don't Come](https://open.spotify.com/track/2lYsgmWK7enfkf7KLeTBMN) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh) | [Don't Come](https://open.spotify.com/album/4ePd1unSqLM9LCxJT1jMzJ) | 2:28 | 2022-03-24 | 2022-05-07 |
 | [Don't Forget Me](https://open.spotify.com/track/4HlpXrTRR7uyWzCRTjkAtv) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:17 | 2022-05-19 | 2022-07-22 |
 | [Don't Walk Away](https://open.spotify.com/track/4XVGObb52c3QRb5IAGnK07) | [Dega Putra](https://open.spotify.com/artist/1i8OmUxiySaMGH66K7qgcj) | [Don't Walk Away](https://open.spotify.com/album/4MPAJmWFLR31coJ8UoW18E) | 3:59 | 2022-08-04 | 2022-08-19 |

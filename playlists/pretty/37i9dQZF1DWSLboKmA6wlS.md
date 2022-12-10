@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: 4JUNE\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,961 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,964 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 12 | [ใบแดง](https://open.spotify.com/track/6xIYvzTeADz9f51vuQeijT) | [Wolftone](https://open.spotify.com/artist/1W8Vsuj1kPixmXxDUmPz5Z) | [ใบแดง](https://open.spotify.com/album/6c4lK1QREmoqNa9dnDcZmA) | 3:42 |
 | 13 | [Metaverse feat\. ตังเกอาม่า](https://open.spotify.com/track/313qOIeXsysRB1xtTQiLLF) | [JKbua \(จระเข้บัว\)](https://open.spotify.com/artist/4vCnBJ72Q7vfpYH3UGrkkU), [ตังเกอาม่า](https://open.spotify.com/artist/3N96BE6i0aYpnJp3WIqUuy) | [Metaverse](https://open.spotify.com/album/0UL9F0lfAYivxw7VpSyAD9) | 3:50 |
 | 14 | [คืนนี้ \(2NITE\)](https://open.spotify.com/track/7A4UGFwWtqH8xBvzpRzvQd) | [James Anthony](https://open.spotify.com/artist/73sFeeMVKAJsncS1dNcgek), [FoRcE](https://open.spotify.com/artist/21knMpD4LJJYqBqDkWG2pU) | [คืนนี้ \(2NITE\)](https://open.spotify.com/album/3ztz7kWLujJSzb8tWTsSCu) | 2:58 |
-| 15 | [I'm Not Okay](https://open.spotify.com/track/1t9uGRd8Zq4qmT2Bky8cd2) | [The KYLE](https://open.spotify.com/artist/0IQ0dKIOfKs1h7nIDcKBuW) | [I'm Not Okay](https://open.spotify.com/album/5IQFNDgXSWhTfFNFGxVGoM) | 2:57 |
+| 15 | [I'm \(not\) okay](https://open.spotify.com/track/1t9uGRd8Zq4qmT2Bky8cd2) | [The KYLE](https://open.spotify.com/artist/0IQ0dKIOfKs1h7nIDcKBuW) | [I'm \(not\) okay](https://open.spotify.com/album/5IQFNDgXSWhTfFNFGxVGoM) | 2:57 |
 | 16 | [ฉันโกหก](https://open.spotify.com/track/7vOhr4S75hqQf3xmiHLsKG) | [FOOL STEP](https://open.spotify.com/artist/2YvQp7JVYyy5Hxk1QLXnLV) | [ฉันโกหก](https://open.spotify.com/album/6UVN6wVDFbh1m2LLeBtDk1) | 4:27 |
 | 17 | [ไม่ใช่เธอแต่เป็นฉัน](https://open.spotify.com/track/3Yq1v6faWmFVtLocAYW3GQ) | [Drinks](https://open.spotify.com/artist/3Cbq6sTYOkHuM3Q4Jg2UFW) | [ไม่ใช่เธอแต่เป็นฉัน](https://open.spotify.com/album/7pnnMlLmudXSbLZg4aa3AP) | 3:42 |
 | 18 | [สนุกมั้ง Feat\. Hunsick](https://open.spotify.com/track/6BFVnaou94csWtlCJwkjgL) | [MARSDAY](https://open.spotify.com/artist/60bENyxfaImSaYj0lbneB8) | [สนุกมั้ง Feat\. Hunsick](https://open.spotify.com/album/5e99Y8pcy98SMEzSGpExum) | 4:32 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 29 | [เอเลี่ยน \(Alien\)](https://open.spotify.com/track/1LPk0BWiRl0wORZaSLesAB) | [Someone Said](https://open.spotify.com/artist/52KAt5grngxEOJt7Afurj7) | [เอเลี่ยน \(Alien\)](https://open.spotify.com/album/0ACbBTEMW02P8R79OSyzJa) | 4:42 |
 | 30 | [จดหมายลา](https://open.spotify.com/track/0jhor4mod9sOBKUjSf9UbU) | [Fields](https://open.spotify.com/artist/4GxX7BUiAWCXraFHQ1j5rZ) | [จดหมายลา](https://open.spotify.com/album/1CJFf4x6QaHzwXjYQlxiTz) | 6:41 |
 | 31 | [รับรักที \(Say Yes\)](https://open.spotify.com/track/53yviWwlIJIEPUdArJnk5G) | [BOWPRAT](https://open.spotify.com/artist/40Yyk6kXQ8WtJ3RFp7qDaB) | [รับรักที \(Say Yes\)](https://open.spotify.com/album/4Axr0kZYMIdXwMqkoLFQw6) | 3:55 |
-| 32 | [เช้านี้ตื่นมาคิดถึงเธออีกแล้ว \(Koki's song\)](https://open.spotify.com/track/02FOkx9rdT9u8Qgkom6yA0) | [A Little Bit High](https://open.spotify.com/artist/74m7Gc5TJuJ7IBAHjxDqzt) | [เช้านี้ตื่นมาคิดถึงเธออีกแล้ว \(Koki's song\)](https://open.spotify.com/album/4oyeAaAe18UtCbuIgJNPkg) | 3:47 |
+| 32 | [เช้านี้ตื่นมาคิดถึงเธออีกแล้ว \(Koki's song\)](https://open.spotify.com/track/02FOkx9rdT9u8Qgkom6yA0) | [A Little Bit High](https://open.spotify.com/artist/74m7Gc5TJuJ7IBAHjxDqzt) | [เช้านี้ตื่นมาคิดถึงเธออีกแล้ว \(Koki's song\)](https://open.spotify.com/album/4oyeAaAe18UtCbuIgJNPkg) | 3:02 |
 | 33 | [เก็บ \(ทุกเรื่องราว\)](https://open.spotify.com/track/6x5BISLNd78GPfbZ2oVYKU) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [เก็บ \(ทุกเรื่องราว\)](https://open.spotify.com/album/3kXCfnPkx41Lim1W5BcMf6) | 4:16 |
 | 34 | [ศูนย์คูณอะไรก็ได้ศูนย์](https://open.spotify.com/track/4DE4fRvrmz9OirN65YLT1R) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ศูนย์คูณอะไรก็ได้ศูนย์](https://open.spotify.com/album/1RfjCeIZn3C66mR8Lanxzb) | 3:10 |
 | 35 | [ใจป๋ม \- You cut my heart cuz you don't care my hair](https://open.spotify.com/track/0SwPGg24r6JbBIMJuJI66s) | [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [ใจป๋ม \(You cut my heart cuz you don't care my hair\)](https://open.spotify.com/album/3JouJ5dqQEbzJH7pQ4Iffj) | 3:38 |

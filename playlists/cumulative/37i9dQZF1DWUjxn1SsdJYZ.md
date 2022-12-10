@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Lisi
 
-333 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+335 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,9 +53,11 @@
 | [Boss'd Up](https://open.spotify.com/track/6uTGIbXT34fcVPG7jXe3gh) | [Masei](https://open.spotify.com/artist/43Au01yCyTw5Q6vtG88vVV) | [Boss'd Up](https://open.spotify.com/album/60nEwfrLekVL0HSO3qohvK) | 3:07 | 2022-04-28 | 2022-08-26 |
 | [BREAK BREAD](https://open.spotify.com/track/6FBfzWMxc7Qg82tlGmKLVf) | [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [BREAK BREAD](https://open.spotify.com/album/2rmxflAFtctJiaKgHWToWh) | 2:46 | 2022-03-21 | 2022-03-25 |
 | [Breaks & Caddy's \(Street Guide Part 02\)](https://open.spotify.com/track/5ncbPkxARzOgLcKN1TCSrt) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [CG](https://open.spotify.com/artist/7emez5lGlXnCUAkL2qgt4z) | [Breaks & Caddy's \(Street Guide Part 02\)](https://open.spotify.com/album/5rN50UH1U1QISo7s3uMCTD) | 3:11 | 2022-03-21 | 2022-05-13 |
+| [Broken Man](https://open.spotify.com/track/7IFNaTtkbdvpehI09jfEGY) | [Chill Bne](https://open.spotify.com/artist/4BLQGMIFpY7oMCAJ1OD9fs) | [Broken Man](https://open.spotify.com/album/0gJMvZGgM1ZDY2cbojyeV3) | 2:45 | 2022-12-08 |  |
 | [Built Different](https://open.spotify.com/track/5TxkoXuhrEbBNXwlOdcnDL) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [Built Different](https://open.spotify.com/album/4zD0ah3tBAWIfFeISs0VeX) | 2:57 | 2022-03-21 | 2022-03-25 |
 | [Bulletproof \(feat\. AMUthaMC\)](https://open.spotify.com/track/3E85CNFqTMDkxzzIZlaKEr) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy), [AMUthaMC](https://open.spotify.com/artist/4IdDa7k5yOYE7PBlCKKxI0) | [Bulletproof \(feat\. AMUthaMC\)](https://open.spotify.com/album/52H9wQfhik8VeLeiJZTsOx) | 3:02 | 2022-09-22 |  |
 | [Bullrush](https://open.spotify.com/track/0rGeB8xJXsgsaG8iLIp3qL) | [Tonnez](https://open.spotify.com/artist/0vR6lA4SUboNm6cluJf8wi) | [Bullrush](https://open.spotify.com/album/4yPkoscLmUAOQjci8uA7X2) | 2:12 | 2022-03-21 | 2022-03-25 |
+| [CALL ME](https://open.spotify.com/track/0drn9Co5YWDkEf56WFqr4v) | [Tmk](https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP), [YXAN](https://open.spotify.com/artist/1vFU3dBPfEHrZOx9GAm3z9) | [CALL ME](https://open.spotify.com/album/4yksBGzn1xdbq1yGYqZLNS) | 2:44 | 2022-12-08 |  |
 | [Can't Be Free](https://open.spotify.com/track/6OdQd8ycNW85vTZDcjpQDv) | [Delawou](https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt) | [Can't Be Free](https://open.spotify.com/album/1DTZCG8pD8cpDRzwAfitAA) | 2:38 | 2022-11-10 |  |
 | [Can't Fake It](https://open.spotify.com/track/40VBxyQp3ZIYPiWwOJ4HJ3) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Can't Fake It](https://open.spotify.com/album/6TPoUp0iBcxdFlXahUllXY) | 2:10 | 2022-09-22 |  |
 | [CAP](https://open.spotify.com/track/3a1HcF4HuxICocwxOinRmG) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [CAP](https://open.spotify.com/album/4Quv2pJfaLNE36O6BSzbmk) | 2:55 | 2022-04-07 | 2022-07-29 |

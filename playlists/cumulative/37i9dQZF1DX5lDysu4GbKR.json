@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "I Told You I Would",
+        "url": "https://open.spotify.com/album/2lIpGHB6SBjKsShyLRrZhM"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208537,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/5zkU3MXBvHqMAfiqSuEYQX"
+    },
+    {
+      "album": {
         "name": "Anything For You (The Duet)",
         "url": "https://open.spotify.com/album/0SehtJ2CGMhcBrEZTE5HLH"
       },

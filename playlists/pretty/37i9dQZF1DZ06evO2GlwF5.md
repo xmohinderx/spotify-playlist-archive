@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,867 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,873 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 | 33 | [モアザンワーズ](https://open.spotify.com/track/58uHwdDL4KmEjHuuTKqMyS) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:04 |
 | 34 | [cloud 9](https://open.spotify.com/track/2qGC7Kxul7KDS8Mi8u59B6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 5:00 |
 | 35 | [Hidden Notes](https://open.spotify.com/track/6gfY8im5MigHx4Okp0YzRU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 4:39 |
-| 36 | [指輪 \(Single Ver.\)](https://open.spotify.com/track/4LC4d4EHBSbWrFjdAQLG08) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「劇場用アニメーション エスカフローネ」主題歌 指輪](https://open.spotify.com/album/5WCmfHEXY07CkH1QORjNX7) | 3:43 |
+| 36 | [レプリカ](https://open.spotify.com/track/0XBq9Gk2ikiyDWJOuwNiP3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [レプリカ](https://open.spotify.com/album/4De7ETw90nNYeBADeq3EGN) | 4:00 |
 | 37 | [やさしさに包まれたなら](https://open.spotify.com/track/5Hu070bWBz5I4QDLo267N1) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 3:51 |
 | 38 | [Million Clouds](https://open.spotify.com/track/3AXxeu6r2EvXgndlh7aKRf) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:58 |
 | 39 | [オールドファッション](https://open.spotify.com/track/1Rd0hhKMDF2CqjgIcxYfP7) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 4:51 |
-| 40 | [レプリカ](https://open.spotify.com/track/0XBq9Gk2ikiyDWJOuwNiP3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [レプリカ](https://open.spotify.com/album/4De7ETw90nNYeBADeq3EGN) | 4:00 |
+| 40 | [指輪 \(Single Ver.\)](https://open.spotify.com/track/4LC4d4EHBSbWrFjdAQLG08) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「劇場用アニメーション エスカフローネ」主題歌 指輪](https://open.spotify.com/album/5WCmfHEXY07CkH1QORjNX7) | 3:43 |
 | 41 | [マメシバ](https://open.spotify.com/track/6k4dbuGMvdA6OqS4ndLXII) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 6:07 |
 | 42 | [Tell me what the rain knows](https://open.spotify.com/track/19WWtnNcvDhVrNrLH5je1Z) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 1:42 |
 | 43 | [スピカ](https://open.spotify.com/track/5pgmW3oMLmZpYwlhgvITlH) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:11 |
-| 44 | [いつか旅に出る日](https://open.spotify.com/track/1DOvdpZ24AWVbL5NqgOzSN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [躍動→独白 <MAAYA盤>](https://open.spotify.com/album/2oQ7En4QVs7Gbh2H16FYI1) | 5:04 |
-| 45 | [これから](https://open.spotify.com/track/5LDIB7WhwNvV4emxxEfq7g) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:16 |
+| 44 | [これから](https://open.spotify.com/track/5LDIB7WhwNvV4emxxEfq7g) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:16 |
+| 45 | [いつか旅に出る日](https://open.spotify.com/track/1DOvdpZ24AWVbL5NqgOzSN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [躍動→独白 <MAAYA盤>](https://open.spotify.com/album/2oQ7En4QVs7Gbh2H16FYI1) | 5:04 |
 | 46 | [DOWN TOWN](https://open.spotify.com/track/3ji08HySZKJUAPYTOeeBpC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 3:55 |
 | 47 | [紅茶](https://open.spotify.com/track/670Osl1XXLz8Qc3TcUhD4N) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 5:31 |
 | 48 | [birds](https://open.spotify.com/track/4LJiorJdPtMw2zXjfceIfD) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 5:31 |
 | 49 | [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 |
 | 50 | [荒川小景](https://open.spotify.com/track/0bCYCxhnmWCFA8WcoCOvqz) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [SUPERFINE](https://open.spotify.com/album/6cMizcqPNkknWPgJNeBi9u) | 6:10 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAyNjc3MjFkMGQwNjAxNzAxYThjNzgyN2YxNTFiYjRlOQ==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDAyODllYzg0MjJjOWRkNWIzMDlmZTM4Y2QzMTNmMTNkOA==`

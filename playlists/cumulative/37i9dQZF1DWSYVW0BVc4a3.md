@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Boris Brejcha
 
-268 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+269 songs - 20 hr 31 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Tulum](https://open.spotify.com/track/2EBNZDuUE3FFcbLADOhOTC) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/1pFpQxlLrzhPTTV071GvTL) | 3:45 | 2022-08-18 | 2022-09-24 |
 | [Turn Off](https://open.spotify.com/track/0yZr5rcFiwyhx9xKo6b7bv) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Time Is Now](https://open.spotify.com/album/1mEZ8fADCdPqekkLzhG128) | 3:33 | 2022-09-29 | 2022-10-07 |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-08-18 |  |
+| [Turn On The Lights again.\. \(feat\. Future\) \- Solomun Remix](https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Turn On The Lights again.\. \(feat\. Future\) \[Solomun Remix\]](https://open.spotify.com/album/5uJJDoI0Kr5mmJKrPsStug) | 5:57 | 2022-12-08 |  |
 | [Unconventional](https://open.spotify.com/track/1JlWt0i5IvccZPa5VslXaS) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Unconventional Ride](https://open.spotify.com/album/4H2UcxgnKoeE78H5j6RWNq) | 6:39 | 2022-11-24 | 2022-12-09 |
 | [Understand](https://open.spotify.com/track/1YP4xk77mKyo7HLDKf7YTC) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 3:43 | 2022-09-08 | 2022-09-24 |
 | [Understand \(Feat\. Brendan Yates\)](https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Understand](https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS) | 3:43 | 2022-08-18 | 2022-09-02 |

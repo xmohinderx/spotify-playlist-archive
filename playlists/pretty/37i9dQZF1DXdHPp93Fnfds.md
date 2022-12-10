@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,094 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,105 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 79 | [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 |
 | 80 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMDkxZGJjNjc2ZWVmYzU5OTU1MTc1YzkzOTI0NWJiMjZl`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMGIyMThjYWIwOGM0NzViNDY5YjdiMmQ3NTQ2N2ZkNjNm`

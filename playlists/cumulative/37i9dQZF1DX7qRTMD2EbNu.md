@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX?si=J4P0DDhDTUGu1u4E719xoA"> M.anifest </a>
 
-113 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/1DNOYlQCXHEP1xefjAcAjP)
+114 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/1DNOYlQCXHEP1xefjAcAjP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aso\)den](https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Aso\)den](https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK) | 3:15 | 2022-11-04 |  |
 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 | 2022-06-24 |  |
 | [B.B.B.B](https://open.spotify.com/track/55NYmEvxkb7ipIGieXPsNv) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Papa Atey](https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB) | [B.B.B.B](https://open.spotify.com/album/3lMF0eeWGOMzdt7vE0uKok) | 3:01 | 2022-11-15 | 2022-12-09 |
-| [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-30 |  |
+| [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-30 | 2022-12-10 |
 | [Balance](https://open.spotify.com/track/27mYifEdhLkO5QyHf9JDnt) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Joey B](https://open.spotify.com/artist/59rDOkRxRZgmhAGLCJIKcs), [Nshonamuzik](https://open.spotify.com/artist/0zDpGURU8mb72FtaiBRvzt) | [Balance](https://open.spotify.com/album/19gg9ixf4D6gMikR6hAhnx) | 2:48 | 2022-06-24 |  |
 | [Bang](https://open.spotify.com/track/6tihOaexrFJpNs1WfhN7Dg) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT) | [Acheampong Boys](https://open.spotify.com/album/0XdOVWE2y2A5XOGpTdr6pZ) | 2:46 | 2022-06-24 |  |
 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 | 2022-06-24 |  |
@@ -113,6 +113,7 @@
 | [Too Bad](https://open.spotify.com/track/4s0yqd5PD3uBljnGeazhWD) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [Madina to the Universe: The E.P.Ilogue](https://open.spotify.com/album/4nuTUPxGggwi4UnYn8tliK) | 3:39 | 2022-12-02 |  |
 | [Trapgod Ataankpa](https://open.spotify.com/track/76N7cNr8yKt4TZgOxcTiPz) | [Dee Moneey](https://open.spotify.com/artist/3D4i4dD4jITTnZAM2SYzWt), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Omanhene](https://open.spotify.com/album/36AHBAtZ3f76CLy53icql9) | 3:13 | 2022-07-07 |  |
 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 | 2022-06-24 |  |
+| [We Dey](https://open.spotify.com/track/5KryeTvG0C02vF9cpgZrYA) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [We Dey](https://open.spotify.com/album/3idMIRqDQBaPKXTAGZUn4a) | 2:32 | 2022-12-09 |  |
 | [Win](https://open.spotify.com/track/6MXFJ3e7WUvuUsFgpSXvCY) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Win](https://open.spotify.com/album/2od5gvTOvH1SR7en3ns93x) | 4:12 | 2022-06-24 |  |
 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 | 2022-06-24 |  |
 | [Wtf](https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Wtf](https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ) | 3:23 | 2022-11-18 |  |

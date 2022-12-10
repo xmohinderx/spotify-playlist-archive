@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,349 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,360 likes - 68 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 61 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
 | 62 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 | 63 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
-| 64 | [Wuk](https://open.spotify.com/track/6e7h5Gr9HMPQCq9w4po8kP) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU) | [Jollof Rice Riddim](https://open.spotify.com/album/5Cz7kcXJYIsMlEAAQ3nCww) | 3:01 |
-| 65 | [Tombstone](https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7) | 3:50 |
-| 66 | [Work](https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:02 |
-| 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
-| 68 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
+| 64 | [Tombstone](https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7) | 3:50 |
+| 65 | [Work](https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:02 |
+| 66 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
+| 67 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
+| 68 | [Soak Me Good](https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The Jakson Bay Project](https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl) | 3:19 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMGJkMzFkNjU4ZWJkM2RlMThjYjM5MTg2M2JlY2E5Mzc0`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDI0NzU0ZjhhNWJjMTM5MDNjZWQ4ZmY4MDgwNWU3NTAz`

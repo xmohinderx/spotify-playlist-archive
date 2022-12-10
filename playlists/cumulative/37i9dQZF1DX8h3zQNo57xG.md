@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-104 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
+105 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Delta Crossing 58.6Hz \- 62.3Hz](https://open.spotify.com/track/2EIXvo3H0SPDZtFiSfFaaX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Delta Crossing 58.6Hz \- 62.3Hz](https://open.spotify.com/album/3ebC33TqEfXecgoziyc9tM) | 3:46 | 2022-07-27 |  |
 | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/track/5BG09azTJhFK50nEx60YuT) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/album/7F30kdRKhpV392urnfBjrf) | 3:04 | 2022-07-27 |  |
 | [Delta Dream \(96Hz \- 99Hz\)](https://open.spotify.com/track/0SZxVJIE8Oz96g8njMMUg7) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 4:00 | 2021-12-22 |  |
+| [Delta Equinox 3 Hz](https://open.spotify.com/track/1kFCJ9w9EWje4YHKGfSu62) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 2:39 | 2022-12-09 |  |
 | [Delta Flow 108Hz \- 111Hz](https://open.spotify.com/track/4b6B97mdO3KjViKcgrlMQw) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:50 | 2021-12-22 |  |
 | [Delta Flow 93Hz \- 96Hz](https://open.spotify.com/track/2nehZ56ki7zOcpZ0MkTCZT) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:15 | 2021-12-22 |  |
 | [Delta Moon 2 Hz](https://open.spotify.com/track/77rhlG3KXXNvvaYEZczWwa) | [The Inner Circle](https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB) | [Binaural Sphere](https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5) | 2:58 | 2021-12-22 |  |
@@ -81,7 +82,7 @@
 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 | 2021-12-22 |  |
 | [Magica \(3 Hz Delta Binaural Beat Version\)](https://open.spotify.com/track/5kEVAtbYLgb7Ymen4ljPgk) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Magica \(Binaural Beat Versions\)](https://open.spotify.com/album/67tFryPsJTFWT7YuOLlSNk) | 3:00 | 2021-12-22 |  |
 | [Maximum Focus Delta \(1.7Hz\)](https://open.spotify.com/track/29Hn90Qbo0E3lwf97pJOHg) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 | 2022-05-05 |  |
-| [Meditative Delta \(L\-98Hz R\-99.7Hz\)](https://open.spotify.com/track/53B0QMB3fQVFxt93wVjHuk) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 4:52 | 2021-12-22 |  |
+| [Meditative Delta \(L\-98Hz R\-99.7Hz\)](https://open.spotify.com/track/53B0QMB3fQVFxt93wVjHuk) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 4:52 | 2021-12-22 | 2022-12-10 |
 | [Miramare Delta Sinus 81\-83 Hz](https://open.spotify.com/track/1hOi2RvvEOiCWTassf1Kuv) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Miramare Delta](https://open.spotify.com/album/1y4EyBDQ2kfF81c6XRnKED) | 2:52 | 2022-08-22 |  |
 | [nite delta pattern](https://open.spotify.com/track/3VqF8tiKkVVVnhhmYmSif8) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [dream drifting \(binaural sleep\)](https://open.spotify.com/album/0I8Lj3JDpx8hEAYLzM5ac9) | 3:09 | 2021-12-22 |  |
 | [Ocean Wings \- Delta Sinus 156Hz \- 159Hz](https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [Binaural Ocean](https://open.spotify.com/album/4FqaMcjDOWjiA8n5ggwFGK) | 4:30 | 2021-12-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKaZNQ3qx4Z.md) - [plain]
 
 > Los grandes éxitos de Shakira y Alejandro Sanz en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,300 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,390 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKaZNQ3qx4Z.md) - [plain]
 | 23 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
 | 24 | [Aquello que me diste](https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:45 |
 | 25 | [Tutu \- Remix](https://open.spotify.com/track/302I7g0l3jmAbzFu9WBCmu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu \(Remix\)](https://open.spotify.com/album/1SgMcZHkKbhSIp820lMy8F) | 2:44 |
-| 26 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 |
+| 26 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:22 |
 | 27 | [A la primera persona](https://open.spotify.com/track/6mXHxE2BEafOgdWoFvc6mF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva](https://open.spotify.com/album/15ekeDURPa31t2v89AI8ef) | 5:01 |
 | 28 | [¿Lo ves?](https://open.spotify.com/track/67bchtUEFENDaWbmYnKg6Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva](https://open.spotify.com/album/15ekeDURPa31t2v89AI8ef) | 3:49 |
 | 29 | [Beautiful Liar](https://open.spotify.com/track/2P5cIXejqLpHDQeCHAbbBG) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Beautiful Liar](https://open.spotify.com/album/26vwjM6FkX2nEx9I0FKmih) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKaZNQ3qx4Z.md) - [plain]
 | 49 | [Pero Tú](https://open.spotify.com/track/37V0AO2Eoo9idsk99tL2Qy) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sirope](https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc) | 4:42 |
 | 50 | [Deja Que Te Bese](https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deja Que Te Bese](https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4) | 4:04 |
 
-Snapshot ID: `MTY2MTkyOTgyNiwwMDAwMDAwMDJlYzE1NDA1ZWNiNzNlNDE1YzUxOTVkY2IwYjgyMzhl`
+Snapshot ID: `MTY2MTkyOTgyNiwwMDAwMDAwMDU0NjhiZGQ1MDBmMTMyNzZjOTNiOTlkNDhmZDY2NGQ5`

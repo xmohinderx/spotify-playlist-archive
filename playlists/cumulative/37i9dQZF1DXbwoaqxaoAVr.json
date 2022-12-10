@@ -1557,10 +1557,32 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 252812,
       "name": "Magic Potion",
       "url": "https://open.spotify.com/track/3wE1mg5XLt1HR4BC3Dm6Tg"
+    },
+    {
+      "album": {
+        "name": "The Feels & Groove EP",
+        "url": "https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM"
+      },
+      "artists": [
+        {
+          "name": "Lomez Brown",
+          "url": "https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD"
+        },
+        {
+          "name": "Lion Rezz",
+          "url": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252865,
+      "name": "Magic Potion",
+      "url": "https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC"
     },
     {
       "album": {

@@ -2249,7 +2249,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 112613,
       "name": "Come Through (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/3RoCi49XvcidDK7OqGw7fb"
@@ -5341,6 +5341,24 @@
     {
       "album": {
         "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "album": {
+        "name": "In My Head",
         "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
       },
       "artists": [
@@ -5369,7 +5387,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 183790,
       "name": "In The UK",
       "url": "https://open.spotify.com/track/7kWXW1tYyE2cOR11TPkKT7"
@@ -11058,6 +11076,28 @@
     },
     {
       "album": {
+        "name": "Take Shots (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281985,
+      "name": "Take Shots (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/2fWqcCOeR6lyuWmdzpoFYT"
       },
@@ -12146,6 +12186,32 @@
     },
     {
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
         "name": "Evil Genius",
         "url": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
       },
@@ -13221,7 +13287,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 198620,
       "name": "Your Heart",
       "url": "https://open.spotify.com/track/2DTpP3caqX3QdJIEoS83mD"

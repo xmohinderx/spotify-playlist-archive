@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,686 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,750 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly](https://open.spotify.com/artist/12E1nswgTW7QPMYWs0oXrE) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
+| 1 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
 | 2 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 |
 | 3 | [Home Soon](https://open.spotify.com/track/0plIIWDys4UBGmura01RpY) | [yuzu blur](https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R) | [Home Soon](https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k) | 2:24 |
 | 4 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |

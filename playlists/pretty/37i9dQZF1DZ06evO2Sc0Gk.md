@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,749 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,758 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Abracadabra](https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Abracadabra](https://open.spotify.com/album/5XasIPDB4ageL0kjrEukzE) | 3:15 |
 | 50 | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/album/5vZve4QjlsMH4YGVRAT9GO) | 3:06 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAxNzU0MTMzNjNhNWMyOTk4NWExMjAzZDBkZDA1Zjc2ZQ==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBhYTE0NThlZmRiOWRmZjRlZTIzOTlkZDZiM2NlMzBmNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,221 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,236 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 12 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 |
 | 13 | [Turn Your Back With Anti\-Flag](https://open.spotify.com/track/4hnR3vkREdoAIk5AMIp1E8) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg), [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Turn Your Back With Anti\-Flag](https://open.spotify.com/album/7td1jC31dkN3AEfY2dosxZ) | 3:24 |
 | 14 | [1 Trillion Dollar$ \- Dirty Version](https://open.spotify.com/track/1dIYsviqWVfAOmkvZm8WQ2) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 2:30 |
-| 15 | [Brandenburg Gate](https://open.spotify.com/track/34dVpPh6DpkCJ58sAQqYhp) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 3:30 |
-| 16 | [Die for the Government](https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:39 |
+| 15 | [Die for the Government](https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:39 |
+| 16 | [Brandenburg Gate](https://open.spotify.com/track/34dVpPh6DpkCJ58sAQqYhp) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 3:30 |
 | 17 | [Angry, Young and Poor](https://open.spotify.com/track/1PySNm0y4MSIfPhQ8iMHbH) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 2:42 |
 | 18 | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/track/7M0dXjcXs8JgdMSkHtoLZi) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Ashrita Kumar](https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua) | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/album/5qGVr4SEf2QP6eEed7C3C5) | 2:56 |
-| 19 | [Fabled World](https://open.spotify.com/track/6aJQVrRpRyXSEN4ExRZ1RK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 3:14 |
-| 20 | [Drink Drank Punk](https://open.spotify.com/track/2b9H8ocxdhOXoV6HeRvJNg) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:41 |
+| 19 | [Drink Drank Punk](https://open.spotify.com/track/2b9H8ocxdhOXoV6HeRvJNg) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:41 |
+| 20 | [Fabled World](https://open.spotify.com/track/6aJQVrRpRyXSEN4ExRZ1RK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 3:14 |
 | 21 | [Christian Nationalist](https://open.spotify.com/track/3eLYXY21jpoIUfeUitUvuU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:44 |
 | 22 | [Racists](https://open.spotify.com/track/0JkYtPkStJkOyMbSaVEFB1) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 3:20 |
 | 23 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 33 | [You Make Me Sick](https://open.spotify.com/track/4ymvRa2W35pidqnOX7Ruiy) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 3:01 |
 | 34 | [No Allegiance To A Flag](https://open.spotify.com/track/798wYM5enzA8WSIIpLdtlw) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Division](https://open.spotify.com/album/3thDALJX9mvXyJVNSqHwd7) | 2:01 |
 | 35 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
-| 36 | [F\*\*k Police Brutality](https://open.spotify.com/track/7znoroIV2dSMcjpv7ZxnLh) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:20 |
-| 37 | [Bring out Your Dead](https://open.spotify.com/track/1QD2adVcChL5WjGmsWhoJ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 2:14 |
-| 38 | [Whistleblower](https://open.spotify.com/track/38XwnC082qy2o9K437Wgbo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike \(10 Year Anniversary\)](https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE) | 2:39 |
+| 36 | [Whistleblower](https://open.spotify.com/track/38XwnC082qy2o9K437Wgbo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike \(10 Year Anniversary\)](https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE) | 2:39 |
+| 37 | [F\*\*k Police Brutality](https://open.spotify.com/track/7znoroIV2dSMcjpv7ZxnLh) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:20 |
+| 38 | [Bring out Your Dead](https://open.spotify.com/track/1QD2adVcChL5WjGmsWhoJ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 2:14 |
 | 39 | [Tearing Everyone Down](https://open.spotify.com/track/4Y8ZO4vKghbTlKFi5Fx547) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:55 |
 | 40 | [Casualty](https://open.spotify.com/track/2WfHDSeiNLw0sJQZxM7t1o) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:34 |
 | 41 | [Rank\-n\-File](https://open.spotify.com/track/1lcSbWCkd56TB7NPedWPDs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 49 | [Throw It Away](https://open.spotify.com/track/5G9WBRnU2CVOfRtykUk8XQ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:49 |
 | 50 | [Sky Is Falling](https://open.spotify.com/track/3tC1mUUoPAuerNvMB0t07T) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 4:14 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA0MGE0YzUyYmNiNzA3YWE1MTcyYjBhZTllZDU1MWM5MQ==`
+Snapshot ID: `Mjc4NDM0NzQsMDAwMDAwMDA4YmQ1Y2ZkMjllZjZhN2JiMTYyYWUxN2JhNzA5NmU4Mw==`

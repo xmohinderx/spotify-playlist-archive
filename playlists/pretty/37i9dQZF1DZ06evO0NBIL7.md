@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,464 likes - 23 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,465 likes - 23 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 22 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 |
 | 23 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDBkZjM1ZjBlZWFmNWYxZjNhYWRlMmRhMzdlNDdlMjA5NA==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDA4MTc1Yjg1YzFmMWZhZDc5MDFlYzY1ZDVkY2Y1MWZhNQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,032 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,050 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 38 | [Con Un Puño De Cannabis](https://open.spotify.com/track/38StyWZFxOVmZyciFwExOi) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:48 |
 | 39 | [Botas Ariat](https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Botas Ariat](https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF) | 3:03 |
 | 40 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
-| 41 | [Zumbando Por Cali](https://open.spotify.com/track/0lVa6LbJNXui0L4zzxu8n6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:13 |
-| 42 | [Gerardo V1](https://open.spotify.com/track/3iFeFrtR3ubraz7cbKwzWX) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:34 |
+| 41 | [Gerardo V1](https://open.spotify.com/track/3iFeFrtR3ubraz7cbKwzWX) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:34 |
+| 42 | [Zumbando Por Cali](https://open.spotify.com/track/0lVa6LbJNXui0L4zzxu8n6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:13 |
 | 43 | [Barrio Xolo](https://open.spotify.com/track/5yJPahX4wJlrRPH1agjvtH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Barrio Xolo](https://open.spotify.com/album/2WdXJMn7Y4jlMM5tXPzt7j) | 3:06 |
 | 44 | [La Casita De Madera](https://open.spotify.com/track/24VN5sgRu9hvIElo0lRzHx) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:27 |
-| 45 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
-| 46 | [La Noche Anterior](https://open.spotify.com/track/0eDNOhglSxYP2r4jelyE1a) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Noche Anterior](https://open.spotify.com/album/1fz4sp1j66qf159oNik9zv) | 3:33 |
+| 45 | [La Noche Anterior](https://open.spotify.com/track/0eDNOhglSxYP2r4jelyE1a) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Noche Anterior](https://open.spotify.com/album/1fz4sp1j66qf159oNik9zv) | 3:33 |
+| 46 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
 | 47 | [Galil Rameado](https://open.spotify.com/track/7mTQYSdS2N4Fb9T2ieH7dl) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Galil Rameado](https://open.spotify.com/album/1QLEQpE84nhDO17QuAmyzT) | 3:16 |
 | 48 | [El Intercambio](https://open.spotify.com/track/0frsTsRmNDlPMy2Sjpowqu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 4:00 |
 | 49 | [10 Iniciales NC](https://open.spotify.com/track/0Y0qqu5lwjtQFzDfYgODls) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 4:06 |
 | 50 | [El Oso](https://open.spotify.com/track/3XkmnmWXsNw790uaFBexqb) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Oso](https://open.spotify.com/album/3uh2JvWLCJ9qEbrYdhyNhf) | 4:47 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDA1YTQ2ZTNmZjVhZTg2NzQ1NDA5OGE2NjVjMjk5MmUyYg==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDA2ZTYxODZmNDdkNTE2NDlkMTFhZmQ5NjFjOGMxMzBiOA==`

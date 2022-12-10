@@ -1,13 +1,49 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Nakkia Gold",
-  "num_followers": 2288988,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Jamilah Barry",
+  "num_followers": 2289258,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI1NTA5NSwwMDAwMDAwMGNkMWYwNTg4YmMzYjg3YzkyNzAxNjUxNmZkMGQ3MDk0",
+  "snapshot_id": "MTY3MDYwNjA3OSwwMDAwMDAwMDhhZTcyNWY2MDM2YWM4Mzk5MzEzMjM5NzAwOTI4YzQ0",
   "tracks": [
+    {
+      "added_at": "2022-12-09 10:05:13",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2022-12-09 10:05:13",
+      "album": {
+        "name": "If The Love Goes - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/39QsjJesAI2ufMadu1NRzu"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        },
+        {
+          "name": "P2J",
+          "url": "https://open.spotify.com/artist/7owWHiQB5FQHFiBYXxbphY"
+        }
+      ],
+      "duration_ms": 223963,
+      "name": "If The Love Goes - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6fcFACL3GGEynUlyvmbqRt"
+    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -149,40 +185,36 @@
       "url": "https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn"
     },
     {
-      "added_at": "2022-07-22 04:02:14",
+      "added_at": "2022-12-09 10:05:13",
       "album": {
-        "name": "BEFORE WE GO (DEEPER)",
-        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 210379,
-      "name": "CALI LOVE (feat. Ambr\u00e9)",
-      "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
-      "added_at": "2022-09-30 17:00:17",
+      "added_at": "2022-12-09 17:14:39",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/02J88YmFnbuXmGUpRwpqDW"
+        "name": "Candydrip (Deluxe)",
+        "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
       },
       "artists": [
         {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/3MPh6fCxLilH9ZJ1sTLBlN"
+      "duration_ms": 284893,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -219,6 +251,42 @@
       "duration_ms": 183354,
       "name": "All For You",
       "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
+    },
+    {
+      "added_at": "2022-07-22 04:02:14",
+      "album": {
+        "name": "BEFORE WE GO (DEEPER)",
+        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 210379,
+      "name": "CALI LOVE (feat. Ambr\u00e9)",
+      "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
+    },
+    {
+      "added_at": "2022-09-30 17:00:17",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/02J88YmFnbuXmGUpRwpqDW"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/3MPh6fCxLilH9ZJ1sTLBlN"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -397,6 +465,22 @@
       "url": "https://open.spotify.com/track/4aZtYr0cAYmSJgtQUurlXS"
     },
     {
+      "added_at": "2022-12-09 10:05:13",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Yamz",
@@ -511,6 +595,22 @@
       "duration_ms": 312341,
       "name": "Soul Caliber",
       "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
+    },
+    {
+      "added_at": "2022-12-09 10:05:13",
+      "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/2JTJ2I5P2l6DrF7oHiP3zk"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        }
+      ],
+      "duration_ms": 235514,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/56ReCzcMty0YgfutYrQsDO"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -849,6 +949,22 @@
       "url": "https://open.spotify.com/track/6bv2d3OlKcRS9T4StknEEX"
     },
     {
+      "added_at": "2022-12-09 10:05:13",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/0SPDSrdhVhGXUVc1f40BUl"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Good Time (Acoustic)",
+      "url": "https://open.spotify.com/track/4GbqDjHzgNy4laOzTvuhG7"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "guessnobodyknows",
@@ -863,22 +979,6 @@
       "duration_ms": 144500,
       "name": "warmer on a wednesday",
       "url": "https://open.spotify.com/track/0QSjznhRo9urUmGuJ8SAAN"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "ALL OF YOU / BEST I GO",
-        "url": "https://open.spotify.com/album/5pJ3X5ArCwqYj6ZTzfGx7I"
-      },
-      "artists": [
-        {
-          "name": "C.S. Armstrong",
-          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
-        }
-      ],
-      "duration_ms": 312005,
-      "name": "ALL OF YOU / BEST I GO",
-      "url": "https://open.spotify.com/track/4A19HDJFwEUC5kKXGR7HmA"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1135,26 +1235,6 @@
       "duration_ms": 211330,
       "name": "Great Escape",
       "url": "https://open.spotify.com/track/6UgmAPwgZkHE2KWQMb9xQp"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "HOW TO MAKE LOVE",
-        "url": "https://open.spotify.com/album/7DmTz8IJFvLvs59Pvr0EPR"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        },
-        {
-          "name": "Naja",
-          "url": "https://open.spotify.com/artist/11oXgFCwu3o6prxhmaRBJ7"
-        }
-      ],
-      "duration_ms": 281765,
-      "name": "My Pleasure",
-      "url": "https://open.spotify.com/track/6Myc3yPWhYiskfhAOqQG8n"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1657,30 +1737,6 @@
       "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
     },
     {
-      "added_at": "2022-08-26 04:04:31",
-      "album": {
-        "name": "Only Gold",
-        "url": "https://open.spotify.com/album/5wwnwOqtsULKtkFkUZwVvH"
-      },
-      "artists": [
-        {
-          "name": "Nakeyo",
-          "url": "https://open.spotify.com/artist/4LV0wxYWrzqjNntWbTIqv2"
-        },
-        {
-          "name": "Bertholet",
-          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
-        },
-        {
-          "name": "Patchwork",
-          "url": "https://open.spotify.com/artist/6jMR1IBDbQrnDgyodlBj9B"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Only Gold",
-      "url": "https://open.spotify.com/track/0hB6frMZMoJEUJIfcMYa5Y"
-    },
-    {
       "added_at": "2022-08-19 04:15:53",
       "album": {
         "name": "Coastin'",
@@ -1771,22 +1827,6 @@
       "duration_ms": 197260,
       "name": "Life Is Good (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir"
-    },
-    {
-      "added_at": "2022-07-22 04:02:14",
-      "album": {
-        "name": "BEFORE WE GO (DEEPER)",
-        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
-      },
-      "artists": [
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        }
-      ],
-      "duration_ms": 242860,
-      "name": "EXCHANGE",
-      "url": "https://open.spotify.com/track/4efqAh7pv3Kw9N9IWHvHh4"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -1939,26 +1979,6 @@
       "duration_ms": 173120,
       "name": "Storm (feat. Terrace Martin)",
       "url": "https://open.spotify.com/track/03w1xyyv1DBtkhpzrNHFMQ"
-    },
-    {
-      "added_at": "2022-09-30 17:00:17",
-      "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/6ysPJXcTmoFKU3SUmbghZE"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 208208,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -2155,22 +2175,6 @@
       "duration_ms": 225933,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/5fbiUB75zbrp6EY44IalDK"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "BMHWDY",
-      "url": "https://open.spotify.com/track/7xlEcaR9vhZzNwC2TReE0l"
     }
   ],
   "unique_name": "Chilled R&B",

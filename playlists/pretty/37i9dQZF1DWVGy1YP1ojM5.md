@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Sensual silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,947 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,453 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 48 | [Rm\. 143](https://open.spotify.com/track/1r6xn6CtRDNJsoXxsnNZNt) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [California](https://open.spotify.com/album/2YCVNs5oQgquuv8BfAtVvA) | 2:24 |
 | 49 | [THINGS & SUCH](https://open.spotify.com/track/2ld2cRCzXcJU3q8dNdOENY) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 3:57 |
 | 50 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 |
+| 51 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/2yb5Ao7Yk2nl9YFnNwKi5F) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME) | 3:03 |
+| 52 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 |
+| 53 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 |
+| 54 | [ANOTHER DAY](https://open.spotify.com/track/4IetOj2X2isUcLf7iAMfKa) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/4QTfWxMZjLRhQ9zxomi4t4) | 2:32 |
+| 55 | [Pretty](https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/6zzEQ9WSwPleia1tlnNZpe) | 2:46 |
+| 56 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 |
+| 57 | [Don’t Make Me Wait](https://open.spotify.com/track/31UPS6TZYhhNFnTlie5gpB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:52 |
+| 58 | [Push It](https://open.spotify.com/track/6p5zh0HCAeE5WkWAxSxjeg) | [TWENTY88](https://open.spotify.com/artist/6g8AmloI8egfrr3dm3SnUL) | [TWENTY88](https://open.spotify.com/album/4gqnsOwnA490OYq58VfJV3) | 2:34 |
+| 59 | [SCORPIO MOON \- A COLORS SHOW](https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [SCORPIO MOON \- A COLORS SHOW](https://open.spotify.com/album/1rqrKsQxo2QEjN4IwW0bbc) | 2:55 |
+| 60 | [Screwin \(with Omarion\)](https://open.spotify.com/track/3QR92iEfcnqgVFsOr2pCGz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 5:33 |
+| 61 | [Get Me](https://open.spotify.com/track/6zGPytJiZmFuyVq7RTNO9G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Get Me](https://open.spotify.com/album/0GzsdiiItPCABfhuFIKiZi) | 3:05 |
+| 62 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
+| 63 | [FALLING](https://open.spotify.com/track/3cF6uekOdMpiyBauNJAqFJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PREJECTION](https://open.spotify.com/album/2QecXFCdxhwwee5vHbRGLX) | 2:14 |
+| 64 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
+| 65 | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 |
+| 66 | [Crazy Down](https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 3:04 |
+| 67 | [A Night Off \(feat\. Lloyd\)](https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:13 |
+| 68 | [Say It Again](https://open.spotify.com/track/5yamjs92dcayRVlNuY116G) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:52 |
+| 69 | [BAD bad](https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:49 |
+| 70 | [IT'S YOURS](https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:30 |
+| 71 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 |
+| 72 | [Face Down](https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Face Down](https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN) | 2:48 |
+| 73 | [Nowhere](https://open.spotify.com/track/6yAnK8YECaJVnFRydwcG5s) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET) | [Nowhere](https://open.spotify.com/album/0z2WCYayeU6t4gYMnaHcVZ) | 3:00 |
+| 74 | [Come On](https://open.spotify.com/track/4o3BlVXqXEQaP5h1Ds0xfy) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 2:34 |
+| 75 | [Speechless](https://open.spotify.com/track/3V5I90jseccXcK4MGC1gqr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 6:00 |
 
-Snapshot ID: `MTY2OTk3Nzg1MSwwMDAwMDAwMDFmOWY2ZTg3MWNiNTZkOWU1YzNjNGRiZGZlMGI1NjFh`
+Snapshot ID: `MTY3MDU3OTU2MiwwMDAwMDAwMDdjNmI2N2VlZmMwYmMwZDBmMmRkZWNkOGNhMmI5MTQy`

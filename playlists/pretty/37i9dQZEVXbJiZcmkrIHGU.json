@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Germany.",
-  "num_followers": 2131888,
+  "num_followers": 2131924,
   "original_name": "Top 50 - Germany",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIzODMxODM5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIzOTA4MjM4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Zukunft Pink (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
+      "album": {
+        "name": "Merry Christmas Everyone",
+        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
+      },
+      "artists": [
+        {
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
+    },
+    {
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -85,23 +101,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
-      "album": {
-        "name": "Merry Christmas Everyone",
-        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
-      },
-      "artists": [
-        {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Merry Christmas Everyone",
-      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
-    },
-    {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -197,23 +197,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
-      "album": {
-        "name": "Fieber / Glatteis",
-        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 202709,
-      "name": "Glatteis",
-      "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
-    },
-    {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -229,7 +213,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -245,7 +229,23 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
+      "album": {
+        "name": "Fieber / Glatteis",
+        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 202709,
+      "name": "Glatteis",
+      "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
+    },
+    {
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
@@ -277,7 +277,23 @@
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
+      "album": {
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Escapism. (Sped Up)",
         "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -313,23 +329,23 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+        "name": "My Name Is Jos\u00e9 Feliciano",
+        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+      "duration_ms": 182306,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Sterne (feat. Bozza)",
         "url": "https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1"
@@ -349,23 +365,7 @@
       "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
-      "album": {
-        "name": "Wildberry Lillet",
-        "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Wildberry Lillet",
-      "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
-    },
-    {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -381,55 +381,23 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "My Name Is Jos\u00e9 Feliciano",
-        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
+        "name": "Wildberry Lillet",
+        "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+      "duration_ms": 132000,
+      "name": "Wildberry Lillet",
+      "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2022-12-08 16:23:59",
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Ready To Fly",
         "url": "https://open.spotify.com/album/2cI7OSBaPrcOm9ppZipeJ3"
@@ -445,7 +413,39 @@
       "url": "https://open.spotify.com/track/0SvD6EdetxVtXei2JhkV4B"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2022-12-09 13:37:18",
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Weisses Herz",
         "url": "https://open.spotify.com/album/3TGzhEgQ0A1ijA6bnyrsJH"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/5xX2LYdXyx0Boa61rZOjq5"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Liebst du mich",
         "url": "https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd"
@@ -541,27 +541,23 @@
       "url": "https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "Nur Dich",
-        "url": "https://open.spotify.com/album/3F3rcasqctTETwECH5VSAa"
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
       "artists": [
         {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        },
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Nur Dich",
-      "url": "https://open.spotify.com/track/5f0jN8csP6MQ5kY9XPkd5M"
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
@@ -581,63 +577,23 @@
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+        "name": "BIELEFELD",
+        "url": "https://open.spotify.com/album/6ysRaaGCT2wG16jga7XjyT"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+      "duration_ms": 135424,
+      "name": "BIELEFELD",
+      "url": "https://open.spotify.com/track/1ukq3qBP7zOokVa3nEc9bR"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
-    },
-    {
-      "added_at": "2022-12-08 16:23:59",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
-    },
-    {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "In Liebe, Ion",
         "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
@@ -661,27 +617,83 @@
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
+      "album": {
+        "name": "The Hardest Love",
+        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
+    },
+    {
+      "added_at": "2022-12-09 13:37:18",
+      "album": {
+        "name": "Nur Dich",
+        "url": "https://open.spotify.com/album/3F3rcasqctTETwECH5VSAa"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Nur Dich",
+      "url": "https://open.spotify.com/track/5f0jN8csP6MQ5kY9XPkd5M"
+    },
+    {
+      "added_at": "2022-12-09 13:37:18",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+    },
+    {
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
@@ -701,55 +713,27 @@
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "The Hardest Love",
-        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
-    },
-    {
-      "added_at": "2022-12-08 16:23:59",
-      "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
-      },
-      "artists": [
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
         {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
-      "album": {
-        "name": "McCartney II (Special Edition)",
-        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
-      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
-    },
-    {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Winterkinder ...auf der Suche nach Weihnachten",
         "url": "https://open.spotify.com/album/7h4CEzgecVSP9JwpFepdx6"
@@ -765,23 +749,23 @@
       "url": "https://open.spotify.com/track/7gcKoI9KokClK9ZUjNFgZa"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "BIELEFELD",
-        "url": "https://open.spotify.com/album/6ysRaaGCT2wG16jga7XjyT"
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
       "artists": [
         {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 135424,
-      "name": "BIELEFELD",
-      "url": "https://open.spotify.com/track/1ukq3qBP7zOokVa3nEc9bR"
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "= (Christmas Edition)",
         "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
@@ -801,51 +785,39 @@
       "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 207306,
-      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "Nachts wach",
-        "url": "https://open.spotify.com/album/3CEl3aUyWEJE3Dr6MoOU42"
+        "name": "F\u00fcr den Himmel durch die H\u00f6lle",
+        "url": "https://open.spotify.com/album/5925gOqT0wsG2ZQmdOJXZW"
       },
       "artists": [
         {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Nachts wach",
-      "url": "https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA"
+      "duration_ms": 192506,
+      "name": "Nur f\u00fcr Dich",
+      "url": "https://open.spotify.com/track/7y2CanQNBGTd7EVJy80hLC"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "The Works (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9"
@@ -861,7 +833,7 @@
       "url": "https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
@@ -881,20 +853,48 @@
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
-      "added_at": "2022-12-08 16:23:59",
+      "added_at": "2022-12-09 13:37:18",
       "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+        "name": "Nachts wach",
+        "url": "https://open.spotify.com/album/3CEl3aUyWEJE3Dr6MoOU42"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
         }
       ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+      "duration_ms": 178973,
+      "name": "Nachts wach",
+      "url": "https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA"
+    },
+    {
+      "added_at": "2022-12-09 13:37:18",
+      "album": {
+        "name": "F\u00fcr den Himmel durch die H\u00f6lle",
+        "url": "https://open.spotify.com/album/5925gOqT0wsG2ZQmdOJXZW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 145013,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/1DTVCRW8QPPteXXhBlohM2"
     }
   ],
   "unique_name": "Top 50 - Germany",

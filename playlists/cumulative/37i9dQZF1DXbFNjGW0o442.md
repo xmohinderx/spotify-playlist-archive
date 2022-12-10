@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Marion Raw.
 
-221 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
+222 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Beepolar](https://open.spotify.com/track/1c3zOt71eu0X7VK0gdTLDZ) | [María Rosa Yorio](https://open.spotify.com/artist/2GrKE2j3FFdSw8eAtrZqmq) | [Beepolar](https://open.spotify.com/album/7JZFUuT2erC1rHv6DV3ApA) | 3:46 | 2022-01-20 | 2022-07-29 |
 | [Binario](https://open.spotify.com/track/5jXbK5R4O34yVQcA1K3dT9) | [Vale Cini](https://open.spotify.com/artist/7rQ7RP2RmLJh2EYATNDtZ1) | [Binario](https://open.spotify.com/album/72kJCAW25d4XGohTiwL5G9) | 4:12 | 2022-01-20 | 2022-07-26 |
 | [Binario](https://open.spotify.com/track/74jUxEgPy6Hu1mWF0WSe4X) | [Vale Cini](https://open.spotify.com/artist/7rQ7RP2RmLJh2EYATNDtZ1) | [La Bestia Melancólica](https://open.spotify.com/album/6L40FqZzA9MEIu4REZeHb1) | 4:12 | 2022-01-20 | 2022-07-24 |
+| [Bolero Falaz](https://open.spotify.com/track/50qbVfHyBNEHImuPvgFEqM) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Dopelganga](https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl) | 4:05 | 2022-12-09 |  |
 | [Camping](https://open.spotify.com/track/6gWPba7W9RrpZn6r6Y90Yg) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Camping](https://open.spotify.com/album/1vXA2w1smHlu6TRNzQfNUu) | 3:07 | 2022-01-20 | 2022-07-29 |
 | [Cancion Del Pinar](https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo) | [Silvina Garre](https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3) | [La Mañana Siguiente](https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg) | 3:41 | 2022-01-20 |  |
 | [Carapazón](https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:25 | 2022-01-20 |  |
@@ -197,7 +198,7 @@
 | [Somos aire](https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o trato](https://open.spotify.com/album/4U65heHTb2hRm7xjo6z4W7) | 3:31 | 2022-10-14 |  |
 | [Somos Aire](https://open.spotify.com/track/6dOEjWBwsklaPLzNjSltu4) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o Trato \(Capítulo I\)](https://open.spotify.com/album/1TCp9KH1KiLydlh3cXPnfJ) | 3:31 | 2022-07-15 | 2022-11-13 |
 | [Sorojchi](https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:50 | 2022-01-20 |  |
-| [Sorojchi \- En Vivo en La Ballena Azul](https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera en Vivo en La Ballena Azul](https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv) | 4:58 | 2022-09-23 |  |
+| [Sorojchi \- En Vivo en La Ballena Azul](https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera en Vivo en La Ballena Azul](https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv) | 4:58 | 2022-09-23 | 2022-12-10 |
 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 | 2022-01-20 |  |
 | [Sugar Beat](https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Friends And Lovers](https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf) | 4:12 | 2022-01-20 |  |
 | [Sólo por Hoy](https://open.spotify.com/track/2UMa4VWvyVFFL9tkj97V8B) | [Noe Terceros](https://open.spotify.com/artist/5oTyACsGm1q37MoTfXSDA4) | [Umbral](https://open.spotify.com/album/6leuMDWQtzDmrxgiIyuADB) | 2:39 | 2022-01-20 | 2022-07-28 |

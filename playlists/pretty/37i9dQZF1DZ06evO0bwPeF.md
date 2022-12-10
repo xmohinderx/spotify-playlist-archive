@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,779 likes - 46 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,781 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 23 | [Blacktop](https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:19 |
 | 24 | [Broadcast Emotion](https://open.spotify.com/track/1lfPYmFzLJzkrAo8J8bBtz) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 2:44 |
 | 25 | [Unwound](https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 4:12 |
-| 26 | [No Nicky No](https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 2:17 |
+| 26 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 |
 | 27 | [Bad Mood](https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:13 |
-| 28 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 |
+| 28 | [No Nicky No](https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 2:17 |
 | 29 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 |
-| 30 | [Miserable](https://open.spotify.com/track/0Odz0mm44aEHbMGHu2uZdS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:24 |
+| 30 | [Monochrome](https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:50 |
 | 31 | [Repetition](https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:59 |
-| 32 | [Monochrome](https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:50 |
+| 32 | [Miserable](https://open.spotify.com/track/0Odz0mm44aEHbMGHu2uZdS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:24 |
 | 33 | [Enemies](https://open.spotify.com/track/7BFKbXUdIyz10tE7d3eR3e) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 5:00 |
 | 34 | [Red Scare](https://open.spotify.com/track/5khIBhLlizgeyCrMtaaEFl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 3:19 |
 | 35 | [FBLA](https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:39 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 45 | [Seeing Eye Dog](https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:03 |
 | 46 | [Bury Me](https://open.spotify.com/track/7JF5gAGflcwUyGwuejhBmk) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 4:31 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBjMGY1MzY4ODIyM2U5MjQxYzViODA5YjJjZWVkNDM1NQ==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA4M2ZkOGY5YWM4MGY0NDNjMjEyMGE3NzAyNjZmODRjZQ==`

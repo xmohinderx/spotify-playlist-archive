@@ -3482,6 +3482,24 @@
     },
     {
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/20ibgT1ftTBJ8i8NLs2NRc"
+      },
+      "artists": [
+        {
+          "name": "Kajavela",
+          "url": "https://open.spotify.com/artist/3zZOZe9sN2dQnmYXSfhlXp"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154703,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/30WWfaOwc8c0s2mrstl5HE"
+    },
+    {
+      "album": {
         "name": "Standing with You",
         "url": "https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk"
       },
@@ -3731,6 +3749,24 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "album": {
+        "name": "Techo Con Sol / Caprice",
+        "url": "https://open.spotify.com/album/1cWXNpUajWvpJaWLpMavr1"
+      },
+      "artists": [
+        {
+          "name": "Phello",
+          "url": "https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188237,
+      "name": "Techo Con Sol",
+      "url": "https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS"
     },
     {
       "album": {

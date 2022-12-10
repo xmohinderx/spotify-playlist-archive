@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Metallica along with the biggest Rock songs you need to hear today!",
+  "description": "Paramore along with the biggest Rock songs you need to hear today!",
   "name": "Rock This",
   "published_playlist_ids": [
     "6Fsj2Im6Dv5sgOMEKd4oVV"
@@ -409,6 +409,24 @@
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+    },
+    {
+      "album": {
+        "name": "blindfolded",
+        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "blindfolded",
+      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
     },
     {
       "album": {
@@ -1974,6 +1992,24 @@
     },
     {
       "album": {
+        "name": "Leader of the Pack",
+        "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Leader of the Pack",
+      "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
+    },
+    {
+      "album": {
         "name": "Let You Down (feat. Charlotte Sands)",
         "url": "https://open.spotify.com/album/6FDZMfAhiOT1vgZ21iupjV"
       },
@@ -2749,7 +2785,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 193976,
       "name": "Permanent Rebellion",
       "url": "https://open.spotify.com/track/0cSFnroC6jtahfxpBngw9d"
@@ -3061,7 +3097,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 211119,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv"
@@ -3281,6 +3317,24 @@
       "duration_ms": 205205,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
+    },
+    {
+      "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129119,
+      "name": "SICK OF IT*",
+      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
     },
     {
       "album": {
@@ -3918,6 +3972,24 @@
     },
     {
       "album": {
+        "name": "The News",
+        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
+    },
+    {
+      "album": {
         "name": "The Writing On The Wall",
         "url": "https://open.spotify.com/album/1YnwDXwv54rOtLwzzGVZ9N"
       },
@@ -4001,7 +4073,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,891 likes - 51 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,903 likes - 51 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 26 | [Above Chiangmai \- Remastered 2004](https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 2:55 |
 | 27 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 |
 | 28 | [Lost In The Humming Air \- 2005 Digital Remaster](https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:21 |
-| 29 | [Inclusion](https://open.spotify.com/track/3rLe832ZEZfpBmkgXGSrtX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:55 |
+| 29 | [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 |
 | 30 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
-| 31 | [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 |
-| 32 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
+| 31 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
+| 32 | [Inclusion](https://open.spotify.com/track/3rLe832ZEZfpBmkgXGSrtX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:55 |
 | 33 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 |
 | 34 | [EPICA EXTENSION](https://open.spotify.com/track/09hBZZsubpheGh5pVriiQY) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [EPICA EXTENSION](https://open.spotify.com/album/6xGS4skTi0ZUyzyqIUDocs) | 4:29 |
-| 35 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
-| 36 | [1/2 \- Remastered 2004](https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 12:07 |
+| 35 | [1/2 \- Remastered 2004](https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 12:07 |
+| 36 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
 | 37 | [Icarus or Blériot](https://open.spotify.com/track/0PUIbaTAf0iMmoHCdNiQve) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:23 |
 | 38 | [I'll Come Running \- 2004 Digital Remaster](https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:49 |
 | 39 | [Spring Frost](https://open.spotify.com/track/0H2bToqKlvyx0K7dbPSlOb) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 50 | [Mit Simaen](https://open.spotify.com/track/6x3bTSmI3kLMMXA8uh7Jyr) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 1:32 |
 | 51 | [Golden Hours \- 2004 Digital Remaster](https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 4:00 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAwZTIyODkwNGQzOGRhYTk0NWFjNDk2MzQ3ZTFiNWM5NA==`
+Snapshot ID: `Mjc4NDM0NzgsMDAwMDAwMDBlZjUxNjY1YTViMTRiN2VkOTMwMzc1NGMzMjY3NGJiYQ==`

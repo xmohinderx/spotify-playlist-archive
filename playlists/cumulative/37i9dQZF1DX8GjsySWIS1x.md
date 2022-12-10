@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-764 songs - 1 day 18 hr 29 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+765 songs - 1 day 18 hr 31 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [Paint It, Black](https://open.spotify.com/track/1Vkk2yuOnFWjNWELQl81AN) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Selections from the HBO® Series\)](https://open.spotify.com/album/5UaeboVyWPWEdFB1TUEIc0) | 5:44 | 2019-09-29\* | 2021-03-14 |
 | [Palm Trees](https://open.spotify.com/track/7JEzvkKvp7McI192wWnd8L) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [We Loved Her Dearly](https://open.spotify.com/album/7InCoxx0uOLDvfkPKWsjhW) | 4:29 | 2021-03-16 | 2021-10-22 |
 | [Party Freaks \(feat\. Anna Yvette\)](https://open.spotify.com/track/3vSaO9kPmgBvdxrEQ1TBv4) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Rocket League x Monstercat Vol\. 2](https://open.spotify.com/album/7ignramjANJpFbUZuXHHso) | 3:33 | 2021-03-14 | 2021-05-26 |
+| [Party People](https://open.spotify.com/track/76PQc7doSlZ2ytD7M21Apo) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [The Vibe Trillionaires](https://open.spotify.com/artist/2ChPvjFuvqOs9ezyG24HEV) | [Party People](https://open.spotify.com/album/6xtnCpTxexx1KtyGDRl4j0) | 2:42 | 2022-12-09 |  |
 | [Patience](https://open.spotify.com/track/5VhHNAh8kZCBbIrVQudkIv) | [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Patience](https://open.spotify.com/album/67Z2NQvpbliA1BC0T9wDB0) | 2:24 | 2021-04-13 | 2022-02-24 |
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2021-10-19 | 2022-04-20 |
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2021-05-24 | 2022-02-08 |

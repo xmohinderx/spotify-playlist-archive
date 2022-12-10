@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in R&B, right now. Cover: Burna Boy",
+  "description": "What's happening in R&B, right now. Cover: SZA \ud83d\udd2a ",
   "name": "R&B Right Now",
   "published_playlist_ids": [
     "1MI0QV708eM6TBitmgfhKB"
@@ -349,6 +349,24 @@
       "duration_ms": 152175,
       "name": "Another",
       "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
+    },
+    {
+      "album": {
+        "name": "Candydrip (Deluxe)",
+        "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "Apply Pressure",
+      "url": "https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9"
     },
     {
       "album": {
@@ -735,7 +753,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 213333,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176850,
       "name": "Every Good Girl",
       "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 193173,
       "name": "Guess",
       "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
@@ -3354,6 +3372,28 @@
     },
     {
       "album": {
+        "name": "Keep Calling",
+        "url": "https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Keep Calling",
+      "url": "https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU"
+    },
+    {
+      "album": {
         "name": "Keep Me Around",
         "url": "https://open.spotify.com/album/3MPbBDFqY66cvdC68ddmpx"
       },
@@ -3452,6 +3492,28 @@
     },
     {
       "album": {
+        "name": "KU LO SA (with Camila Cabello)",
+        "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "KU LO SA (with Camila Cabello)",
+      "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -3463,7 +3525,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
@@ -3855,7 +3917,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 198573,
       "name": "Liquor (with Ari Lennox)",
       "url": "https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh"
@@ -4005,6 +4067,24 @@
       "duration_ms": 221534,
       "name": "Love In The Way",
       "url": "https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "album": {
@@ -4187,7 +4267,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 156314,
       "name": "Many Men - Spotify Singles",
       "url": "https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R"
@@ -4897,7 +4977,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
@@ -5851,7 +5931,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 220438,
       "name": "Safe",
       "url": "https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe"
@@ -5971,10 +6051,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 181830,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
     },
     {
       "album": {
@@ -6055,6 +6153,24 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "album": {
@@ -6223,6 +6339,24 @@
       "duration_ms": 260519,
       "name": "Stars Align (with Drake)",
       "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
+    },
+    {
+      "album": {
+        "name": "Still That",
+        "url": "https://open.spotify.com/album/5CAr9TEi5ZQU3wHG0cNepK"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Still That",
+      "url": "https://open.spotify.com/track/65nbHEcHwyXhThCzK60xl9"
     },
     {
       "album": {
@@ -6441,6 +6575,24 @@
       "duration_ms": 155298,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
+    },
+    {
+      "album": {
+        "name": "Sweet Yamz",
+        "url": "https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105194,
+      "name": "Sweet Yamz",
+      "url": "https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI"
     },
     {
       "album": {
@@ -7467,7 +7619,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 150461,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7HLjZNXC0BhteqncIigRX1"

@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "Amor Sem Pausa",
+        "url": "https://open.spotify.com/album/4oZxaLG86xQCLLAAspN2Io"
+      },
+      "artists": [
+        {
+          "name": "Luiza Possi",
+          "url": "https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Amor Sem Pausa",
+      "url": "https://open.spotify.com/track/78zJu5FmCBkPGhbHnmAL1t"
+    },
+    {
+      "album": {
         "name": "ANACONDA *o* ~~~",
         "url": "https://open.spotify.com/album/3lGLYMe25ojYNWqfTpwyk2"
       },
@@ -85,6 +107,24 @@
       "duration_ms": 183100,
       "name": "ANACONDA *o* ~~~",
       "url": "https://open.spotify.com/track/1Z3Y8hQXKVaD0RY72CRt5E"
+    },
+    {
+      "album": {
+        "name": "ANESTESIA",
+        "url": "https://open.spotify.com/album/2jHqfa5pVSOI0giNVlDB0c"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142658,
+      "name": "ANESTESIA",
+      "url": "https://open.spotify.com/track/1soqtHYm1K8oChNDEmpZrP"
     },
     {
       "album": {
@@ -239,7 +279,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 155874,
       "name": "Atura o Baile (The World Is Yours To Take) - Funk Remix / Budweiser Anthem Of The FIFA World Cup 2022",
       "url": "https://open.spotify.com/track/1QjVcycdvef8b4azmcEdfe"

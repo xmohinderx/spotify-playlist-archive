@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Nakkia Gold",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Jamilah Barry",
   "name": "Chilled R&B",
   "published_playlist_ids": [
     "0z3nbjkWeZZbRZSs8bbW9u"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 312005,
       "name": "ALL OF YOU / BEST I GO",
       "url": "https://open.spotify.com/track/4A19HDJFwEUC5kKXGR7HmA"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 186666,
       "name": "BMHWDY",
       "url": "https://open.spotify.com/track/7xlEcaR9vhZzNwC2TReE0l"
@@ -2655,7 +2655,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 242860,
       "name": "EXCHANGE",
       "url": "https://open.spotify.com/track/4efqAh7pv3Kw9N9IWHvHh4"
@@ -3576,6 +3576,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY"
+    },
+    {
+      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -3683,6 +3701,24 @@
       "duration_ms": 187960,
       "name": "Good Morning Text",
       "url": "https://open.spotify.com/track/4zaAWbOc210ialliuBkkK1"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/0SPDSrdhVhGXUVc1f40BUl"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Good Time (Acoustic)",
+      "url": "https://open.spotify.com/track/4GbqDjHzgNy4laOzTvuhG7"
     },
     {
       "album": {
@@ -4246,6 +4282,28 @@
     },
     {
       "album": {
+        "name": "If The Love Goes - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/39QsjJesAI2ufMadu1NRzu"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        },
+        {
+          "name": "P2J",
+          "url": "https://open.spotify.com/artist/7owWHiQB5FQHFiBYXxbphY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223963,
+      "name": "If The Love Goes - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6fcFACL3GGEynUlyvmbqRt"
+    },
+    {
+      "album": {
         "name": "Imported (with 6LACK)",
         "url": "https://open.spotify.com/album/29vt4BpW3GYX7hHCbFkhfg"
       },
@@ -4465,6 +4523,24 @@
       "duration_ms": 185410,
       "name": "ISLY",
       "url": "https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL"
+    },
+    {
+      "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/2JTJ2I5P2l6DrF7oHiP3zk"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235514,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/56ReCzcMty0YgfutYrQsDO"
     },
     {
       "album": {
@@ -5166,6 +5242,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
+      "album": {
         "name": "Love Letterz",
         "url": "https://open.spotify.com/album/2rJYtSD3t1FOgLcOKcNptT"
       },
@@ -5376,6 +5470,24 @@
     },
     {
       "album": {
+        "name": "Candydrip (Deluxe)",
+        "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284893,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
+    },
+    {
+      "album": {
         "name": "Land Of Nothing Real",
         "url": "https://open.spotify.com/album/5RtnCCLZrqAV83rjf1rpUF"
       },
@@ -5449,7 +5561,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 208208,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf"
@@ -5811,7 +5923,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 281765,
       "name": "My Pleasure",
       "url": "https://open.spotify.com/track/6Myc3yPWhYiskfhAOqQG8n"
@@ -6309,7 +6421,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 240000,
       "name": "Only Gold",
       "url": "https://open.spotify.com/track/0hB6frMZMoJEUJIfcMYa5Y"
@@ -7941,6 +8053,24 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "album": {

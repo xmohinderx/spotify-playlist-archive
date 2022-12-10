@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-397 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+398 songs - 23 hr 37 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Claromecó](https://open.spotify.com/track/1Sv6fjRxFq9Vx93D0FxPD5) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Vapor Americano](https://open.spotify.com/album/0hSAgVRDqV2lz0njQgUjOj) | 2:19 | 2022-07-01 | 2022-07-14 |
 | [Claromecó](https://open.spotify.com/track/4nhd6jQVWquaKEYWyQaQQy) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Claromecó](https://open.spotify.com/album/7nq2LaAFsFDwY9974wcLiG) | 2:19 | 2022-06-03 | 2022-07-02 |
 | [Clases de Yoga](https://open.spotify.com/track/0wGG4ftGlg0QavPQzEYSFo) | [Los Nuevos Creyentes](https://open.spotify.com/artist/5ppNJsPcJKIqaUib1wq3Tc) | [Planta Musical](https://open.spotify.com/album/2gJKZfvQOnEMqeUIInrwuk) | 3:57 | 2022-07-01 | 2022-07-23 |
-| [Confín Dorado](https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Si No Hubiera Mañana](https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4) | 3:48 | 2022-10-28 |  |
+| [Confín Dorado](https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Si No Hubiera Mañana](https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4) | 3:48 | 2022-10-28 | 2022-12-10 |
 | [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 | 2022-07-01 | 2022-11-21 |
 | [Corriendo](https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Corriendo](https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb) | 2:39 | 2022-12-02 |  |
 | [Corta el Pasto](https://open.spotify.com/track/6Q4pQccsF4MxLRJvOKMLgn) | [Juan Desordenado](https://open.spotify.com/artist/2KAzBjzTRRbCgP5gvssbqB) | [Corta el Pasto](https://open.spotify.com/album/5jMETPlnode6bJwSL9Xz9e) | 3:39 | 2022-07-15 | 2022-07-24 |
@@ -155,6 +155,7 @@
 | [Fortalecido](https://open.spotify.com/track/3sq9PDYOoEU37aQRzqtycs) | [Los Monos de la China](https://open.spotify.com/artist/0c1o1fAr8LhpZ8r0reNajD) | [Fortalecido](https://open.spotify.com/album/3anfHh0hIxjOdhZQWa8P3j) | 4:09 | 2022-07-01 | 2022-07-13 |
 | [Fotos y Videos](https://open.spotify.com/track/4FqqOPeMZDiHXkDWakgjN5) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Fotos y Videos](https://open.spotify.com/album/0SlIh51qhhnp3FcqYqCLCL) | 2:56 | 2022-06-03 | 2022-07-29 |
 | [Frutillas con Crema](https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Frutillas con Crema](https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1) | 2:42 | 2022-11-11 |  |
+| [Fuera de Lugar](https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh) | 3:23 | 2022-12-09 |  |
 | [Fugitivo](https://open.spotify.com/track/1yu5P0Y8Usmf9K6Jj6PJ6e) | [Killer Burritos](https://open.spotify.com/artist/44HbZgVV4ohYTXfuQIf4Kn) | [Fugitivo](https://open.spotify.com/album/0WhoE9qZgIMwWHsiZFQrDq) | 3:09 | 2022-07-01 | 2022-07-26 |
 | [Fumar de día](https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 2:58 | 2022-06-03 |  |
 | [Funeral de la planta](https://open.spotify.com/track/73GWGyo979e4uK0HLTYfJa) | [Isla De Encanta](https://open.spotify.com/artist/1svCUR9EYGxi1WJyojzSeu), [Pedro Dalton](https://open.spotify.com/artist/0sqVUoBycukC8qHLfWFFwI), [Pau O'Bianchi](https://open.spotify.com/artist/5IrM3Od3zegOvSvaonotxU) | [Vol.2](https://open.spotify.com/album/0oDPMeUqQHLdWyp9nLq9jQ) | 3:54 | 2022-07-01 | 2022-07-26 |

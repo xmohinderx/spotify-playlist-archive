@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-129 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
+130 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Impetu](https://open.spotify.com/track/1q05Sv46RtdjOhLME49EKW) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Impetu](https://open.spotify.com/album/5YxPMp28WpuaUx05fzK4F1) | 5:16 | 2021-04-09 | 2022-07-27 |
 | [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 | 2021-01-27 |  |
 | [Inner Babylon](https://open.spotify.com/track/3OQ3kWHotovS0RE3ZMgeNY) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/55Xi3WIyXMIUYPRRVboNQK) | 5:20 | 2021-01-27 | 2022-05-05 |
-| [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 | 2021-01-27 |  |
+| [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 | 2021-01-27 | 2022-12-10 |
 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 | 2021-01-27 |  |
 | [Just Call Me Nige](https://open.spotify.com/track/1acyO8D2JMAxZtxUohyFZy) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Mehliana: Taming the Dragon](https://open.spotify.com/album/7veyvtvK49ca1UMEEmZ00q) | 5:41 | 2021-01-27 | 2022-07-26 |
 | [Kid](https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t) | 7:21 | 2021-01-27 | 2022-11-06 |
@@ -98,6 +98,7 @@
 | [Scorpion](https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ) | [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Scorpion](https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv) | 3:38 | 2022-06-03 | 2022-10-03 |
 | [Seven](https://open.spotify.com/track/6nz7H9YLI6TYGo3riLJBaR) | [Alberto Rigoni](https://open.spotify.com/artist/5YPN5P1LS2tcQZAPEpo0ZM), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR), [Bryan Beller](https://open.spotify.com/artist/2LPwVhvrjOXEvgfLOpHJQ1) | [Grains of Sand](https://open.spotify.com/album/0xSWVE4Rtvo9Se1UanwNLz) | 4:19 | 2022-09-16 | 2022-10-22 |
 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 | 2021-09-03 |  |
+| [Sinopsis](https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Sinopsis](https://open.spotify.com/album/2DOhAf4SNJeVCQgohwiJld) | 2:12 | 2022-12-09 |  |
 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 | 2021-01-27 |  |
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2021-09-03 | 2022-07-23 |
 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 | 2021-01-27 |  |

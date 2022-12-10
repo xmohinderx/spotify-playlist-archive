@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "98",
+        "url": "https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206941,
+      "name": "98",
+      "url": "https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ"
+    },
+    {
+      "album": {
         "name": "La Cantera",
         "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
       },
@@ -121,7 +139,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 165458,
       "name": "Alej\u00e9monos",
       "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 153500,
       "name": "Cohen's Cumbia",
       "url": "https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG"
@@ -779,6 +797,28 @@
       "duration_ms": 117606,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+    },
+    {
+      "album": {
+        "name": "DARK CLOUDS",
+        "url": "https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        },
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188755,
+      "name": "DARK CLOUDS",
+      "url": "https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4"
     },
     {
       "album": {
@@ -1023,6 +1063,24 @@
       "duration_ms": 168774,
       "name": "El Juego",
       "url": "https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP"
+    },
+    {
+      "album": {
+        "name": "RIO HOTEL",
+        "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ"
     },
     {
       "album": {
@@ -1671,6 +1729,28 @@
       "duration_ms": 163200,
       "name": "LA MOLINA",
       "url": "https://open.spotify.com/track/5KUoS5Kqhnvk39feoFxD3v"
+    },
+    {
+      "album": {
+        "name": "LA RUTA NATURAL",
+        "url": "https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197179,
+      "name": "LA RUTA NATURAL",
+      "url": "https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt"
     },
     {
       "album": {
@@ -2646,6 +2726,24 @@
     },
     {
       "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "album": {
         "name": "Pensar en Ti",
         "url": "https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF"
       },
@@ -2889,7 +2987,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176320,
       "name": "Repetici\u00f3n",
       "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
@@ -3179,7 +3277,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 199052,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71"
@@ -3493,7 +3591,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 253134,
       "name": "Verbenas",
       "url": "https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: TiaCorine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,854 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,210 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 4 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 5 | [Bop Bop](https://open.spotify.com/track/1891EswrvOu3kHIcROshhe) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Bop Bop](https://open.spotify.com/album/3YkTJig3cTGSp9JHM3tHWW) | 2:17 |
 | 6 | [OOGA BOOGA!](https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [OOGA BOOGA!](https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt) | 2:19 |
-| 7 | [Ice Cream Truck](https://open.spotify.com/track/0aTB8UmGUXwyriKxoBQsUq) | [$ugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB) | [KING OF DRILL](https://open.spotify.com/album/0DHKlZcAKN55YN53EveJSQ) | 1:46 |
+| 7 | [Ice Cream Truck](https://open.spotify.com/track/2df3JPm3fulE2yYYUaOxFZ) | [SugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB), [MOVE LOOK](https://open.spotify.com/artist/7lFBIKbHTSCgAj2CLzDuQ1) | [KING OF DRILL](https://open.spotify.com/album/4Y9DAhfaqRw3aW55W0WrYM) | 1:46 |
 | 8 | [Top](https://open.spotify.com/track/55Q46o5adtSobImSKrrlqW) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:56 |
 | 9 | [Notti Bop](https://open.spotify.com/track/0IEpFiWXbmfpiiUHPlPkYC) | [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Notti Bop](https://open.spotify.com/album/7vkQS7TYsnbF0AopUZ7tjI) | 3:45 |
 | 10 | [Shut It](https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Homesick](https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [BAGGY](https://open.spotify.com/track/5WCqx3pgABaG7EQgAXStSN) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [BAGGY](https://open.spotify.com/album/3T0PqUn2K6bykeuxoR2Wo3) | 1:43 |
 | 100 | [Bag](https://open.spotify.com/track/0CyqjmmaRh3TL3ebR7vLhc) | [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Bag](https://open.spotify.com/album/2l9HFZ8woqwKc9vX6hsprZ) | 1:43 |
 
-Snapshot ID: `MTY3MDAyMTQ1NiwwMDAwMDAwMGJlNzlmMTZlMDYyZTM1YWJiZmY2ZGY0NjllNjgzYjk1`
+Snapshot ID: `MTY3MDAyMTQ1NiwwMDAwMDAwMDQ4MWY1OTNmYWJiZjU2Njc5ODY5YmUwZDA4YjBhYWNm`

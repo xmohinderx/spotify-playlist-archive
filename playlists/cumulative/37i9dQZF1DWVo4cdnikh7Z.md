@@ -2,9 +2,9 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : Varisu
+> New Music from Kollywood.<br/>Cover : Thunivu
 
-391 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+392 songs - 1 day 0 hr 28 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Chellamey \- From "Poikkal Kuthirai"](https://open.spotify.com/track/47ipdCuDMiIcSuV21YW6df) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Chellamey \(From "Poikkal Kuthirai"\)](https://open.spotify.com/album/7tm4AxSXl7Eo7ERh4SEegI) | 4:02 | 2022-07-04 | 2022-07-15 |
 | [Chellamey \- From "Poikkal Kuthirai"](https://open.spotify.com/track/5hAuHGTReizi2XhoAkQX80) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Chellamey \(From "Poikkal Kuthirai"\)](https://open.spotify.com/album/4xUw9Wdnhin8pF6ssYnpgx) | 3:46 | 2022-08-01 | 2022-08-15 |
 | [Cheranaadu](https://open.spotify.com/track/2jAGtM4p7cAvCO98nDW43Y) | [Simon K\. King](https://open.spotify.com/artist/1IlhogUcs6tZ7vd9iOVxUF), [Ramya Nambessan](https://open.spotify.com/artist/2jLNoI1JBkPjnIa0qCWLVa) | [Paper Rocket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lwB5hBZ2xVKPPxeDC3kVT) | 3:45 | 2022-07-19 | 2022-07-27 |
+| [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 3:42 | 2022-12-09 |  |
 | [Chinna Maamiye](https://open.spotify.com/track/1oLJIeFTazH63VenzlRR2C) | [Nithi Kanagaratnam](https://open.spotify.com/artist/4EO7knyiy9ZAKJLHGVDShr), [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [Gargi \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2XETbDv6zAdtX4Bj0XNGzC) | 2:39 | 2022-07-15 | 2022-07-22 |
 | [Chinna Paiyan](https://open.spotify.com/track/1s9tOQi4m09oUYrFe4NHq7) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chinna Paiyan](https://open.spotify.com/album/2qM9ehonwr9k0gp3P9pd1N) | 3:22 | 2022-08-15 | 2022-09-16 |
 | [Chinna Ponnu](https://open.spotify.com/track/3eJbi3PhkOcy4Izv6ioqt0) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Vikrant Rona \(TAMIL\)](https://open.spotify.com/album/4clQks1A41Mjgq1vX00aza) | 3:30 | 2022-08-01 | 2022-08-08 |

@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: charlieonnafriday",
-  "num_followers": 177320,
+  "num_followers": 177387,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwMDQwMCwwMDAwMDAwMDIwOGViNTM2ZDJhMzJhMmUzYWI5MDczMDQ3ZDA0YmZk",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDljZTE0YjI5ZjVkYjBlYzY4YWU2ZjQxN2UzMmQ4NzJj",
   "tracks": [
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "villains",
+        "url": "https://open.spotify.com/album/11VKtnnjZ81tDFAoB5u412"
+      },
+      "artists": [
+        {
+          "name": "PmBata",
+          "url": "https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw"
+        }
+      ],
+      "duration_ms": 153926,
+      "name": "villains",
+      "url": "https://open.spotify.com/track/0eaWFvBi1kPbhKgvOx0Adz"
+    },
     {
       "added_at": "2022-11-29 19:33:08",
       "album": {
@@ -25,22 +41,6 @@
       "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
     },
     {
-      "added_at": "2022-12-02 17:00:00",
-      "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "I Need That",
-      "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "TV",
@@ -55,6 +55,22 @@
       "duration_ms": 159546,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -109,36 +125,36 @@
       "url": "https://open.spotify.com/track/3S653c6Jwl9aSy4DosDm8j"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
-    },
-    {
       "added_at": "2022-12-02 17:00:00",
       "album": {
-        "name": "No Longer Lovers",
-        "url": "https://open.spotify.com/album/3Ygl1aeSmUHSDaxH8KLYLK"
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU"
       },
       "artists": [
         {
-          "name": "Coobie",
-          "url": "https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH"
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
         }
       ],
-      "duration_ms": 139315,
-      "name": "No Longer Lovers",
-      "url": "https://open.spotify.com/track/6DykI3K2Ib9BC1E9JgaSoE"
+      "duration_ms": 150706,
+      "name": "I Need That",
+      "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "lame ass",
+        "url": "https://open.spotify.com/album/0kr9yyqkAmBrla1OEgfvaz"
+      },
+      "artists": [
+        {
+          "name": "gianni & kyle",
+          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+        }
+      ],
+      "duration_ms": 119946,
+      "name": "lame ass",
+      "url": "https://open.spotify.com/track/3A4yOd5WdPDW8o7YihEKA7"
     },
     {
       "added_at": "2022-11-21 16:32:21",
@@ -171,6 +187,22 @@
       "duration_ms": 163732,
       "name": "League",
       "url": "https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8"
+    },
+    {
+      "added_at": "2022-10-11 14:20:44",
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 150005,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3"
     },
     {
       "added_at": "2022-11-25 06:40:00",
@@ -207,6 +239,22 @@
     {
       "added_at": "2022-12-02 17:00:00",
       "album": {
+        "name": "No Longer Lovers",
+        "url": "https://open.spotify.com/album/3Ygl1aeSmUHSDaxH8KLYLK"
+      },
+      "artists": [
+        {
+          "name": "Coobie",
+          "url": "https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH"
+        }
+      ],
+      "duration_ms": 139315,
+      "name": "No Longer Lovers",
+      "url": "https://open.spotify.com/track/6DykI3K2Ib9BC1E9JgaSoE"
+    },
+    {
+      "added_at": "2022-12-02 17:00:00",
+      "album": {
         "name": "Tokyo Drift",
         "url": "https://open.spotify.com/album/1TgRgw9PAFAYqWw8PH9298"
       },
@@ -219,6 +267,22 @@
       "duration_ms": 141651,
       "name": "Tokyo Drift",
       "url": "https://open.spotify.com/track/6X2S7ZNj1z8EoUa14uzdJF"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Call You Drunk",
+        "url": "https://open.spotify.com/album/3m2MxYOk7sCKq87MpQi7yT"
+      },
+      "artists": [
+        {
+          "name": "Lupo",
+          "url": "https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk"
+        }
+      ],
+      "duration_ms": 133282,
+      "name": "Call You Drunk",
+      "url": "https://open.spotify.com/track/2Zy4IqUZ0FK4NpKU9Mth30"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -251,22 +315,6 @@
       "duration_ms": 131586,
       "name": "3, 2, 1",
       "url": "https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV"
-    },
-    {
-      "added_at": "2022-10-11 14:20:44",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg"
-      },
-      "artists": [
-        {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
-        }
-      ],
-      "duration_ms": 150005,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3"
     },
     {
       "added_at": "2022-10-21 14:01:05",

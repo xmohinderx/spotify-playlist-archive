@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,515 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,563 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Cara de Cera](https://open.spotify.com/track/4x6U7KCXOANAVWOgpsR5kc) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cara de Cera](https://open.spotify.com/album/136COz2f0drOth942dh9nc) | 3:28 |
 | 100 | [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMDhkMmU4YTk4MzdhOWY5MmJlNDFhODM4OTkwYmIzMTkz`
+Snapshot ID: `MTY3MDU5ODAyMCwwMDAwMDAwMGY1ZjFhOTk0ODExMzEyZmIyNzM0N2IwZDZiMTU1N2Fl`

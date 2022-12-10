@@ -2848,6 +2848,24 @@
     },
     {
       "album": {
+        "name": "L\u00e9gende Vivante",
+        "url": "https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo",
+          "url": "https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164120,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/6hfkqvPACVG4l4qtY7xDgG"
+    },
+    {
+      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
       },
@@ -6743,7 +6761,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 215613,
       "name": "In De Regen",
       "url": "https://open.spotify.com/track/2RUzYz3EqkJxpPQPehdxha"
@@ -6827,7 +6845,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -8358,24 +8376,6 @@
     },
     {
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "date_added": "2022-11-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196520,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
-    },
-    {
-      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -8391,6 +8391,24 @@
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
     },
     {
       "album": {
@@ -13589,6 +13607,32 @@
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
       "album": {

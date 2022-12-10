@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,766 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,871 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 70 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 
-Snapshot ID: `MTY3MDAwMzI2NCwwMDAwMDAwMDAzZDVjODQ1OGFkMDA1ZjdhYzVlZjg0ZGZhZGY2YTIx`
+Snapshot ID: `MTY3MDU1NDk4MCwwMDAwMDAwMGI5YWIxMTMxMmM0ZWQ4Y2ZkYTNiZDQ5NDRhNDg0YjI4`

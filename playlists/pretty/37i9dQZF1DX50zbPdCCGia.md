@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,378 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,604 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

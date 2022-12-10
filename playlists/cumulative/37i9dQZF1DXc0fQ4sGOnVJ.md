@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-129 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+130 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bad Beer](https://open.spotify.com/track/0XHSON9IsT1AfiDrjbYxzi) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Keys To The Country](https://open.spotify.com/album/42iTDTqmKABTGUfrOKk5YZ) | 3:11 | 2021-11-05 |  |
 | [Beverly Hills](https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Beverly Hills](https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp) | 2:18 | 2021-09-10 |  |
 | [Boom In The Boondocks](https://open.spotify.com/track/2eVjwdtfFveTtDcYjJd2EB) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Boom In The Boondocks](https://open.spotify.com/album/3NMusnSQQq78QjwpD9fmEr) | 3:02 | 2021-05-21 |  |
+| [Boondocks](https://open.spotify.com/track/7zNow8jwff91QBjGfUexpo) | [Tre Brock](https://open.spotify.com/artist/2jBk09UvUtyOZGMOwyZA5T), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Boondocks](https://open.spotify.com/album/3qxlU28Y4DlH3IVzq3CVbR) | 2:47 | 2022-12-09 |  |
 | [BOSS HOGG](https://open.spotify.com/track/2lErv44OSwPKKFTRFkOnBO) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [BOSS HOGG](https://open.spotify.com/album/2bruwkxxKI8ZS1CNNQBokd) | 2:57 | 2021-10-22 |  |
 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 | 2021-05-21 |  |
 | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG) | 3:05 | 2022-01-21 |  |

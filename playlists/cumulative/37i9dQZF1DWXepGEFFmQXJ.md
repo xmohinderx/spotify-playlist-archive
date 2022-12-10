@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: The Wolfe Brothers
 
-267 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+268 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bring On The Summertime](https://open.spotify.com/track/1BKS7mgVCQLZqq2lt7lRp8) | [Jamie Lindsay](https://open.spotify.com/artist/5nv1HL0xYpBabkjOJ8Q7nn) | [Bring On The Summertime](https://open.spotify.com/album/6hSKi63TAZDp3pxbTYv7kq) | 4:01 | 2022-07-28 | 2022-09-24 |
 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 | 2022-07-07 |  |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2021-12-30 | 2022-04-01 |
+| [Buy You a Drink](https://open.spotify.com/track/7jV8yxLZRSptgZcnDhBk6p) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci), [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c), [Southbound xo](https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB) | [Buy You a Drink](https://open.spotify.com/album/1vDqaBpfHMJDluz91XspPR) | 3:19 | 2022-12-08 |  |
 | [Car Trouble](https://open.spotify.com/track/5fVtbkqaCmEW4ilvrgP3xF) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ), [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Car Trouble](https://open.spotify.com/album/6quccN4IpdGATlsFGDZW47) | 2:56 | 2022-10-27 |  |
 | [Carefree](https://open.spotify.com/track/6gskDkFXQj5kuUvJohNhM6) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [Carefree](https://open.spotify.com/album/5ivgsUoOAhJXWwnEcezbKi) | 3:20 | 2022-07-28 |  |
 | [Changing Tunes](https://open.spotify.com/track/3YtsnLnLa42IZYXb2r1mCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Changing Tunes](https://open.spotify.com/album/7FxR6plvB489tqhcyRIS2a) | 3:10 | 2022-08-05 |  |

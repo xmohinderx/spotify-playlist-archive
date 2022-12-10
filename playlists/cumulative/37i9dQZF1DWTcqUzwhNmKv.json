@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Metallica on top of the biggest Metal playlist!",
+  "description": "A Day To Remember on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -561,6 +561,24 @@
       "duration_ms": 196979,
       "name": "Body Bag",
       "url": "https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S"
+    },
+    {
+      "album": {
+        "name": "Boltcutter",
+        "url": "https://open.spotify.com/album/6OP2USRvGKWn7YUrwa8zur"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Boltcutter",
+      "url": "https://open.spotify.com/track/094hTvgTyLna5FsFulp3DH"
     },
     {
       "album": {
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 218661,
       "name": "Divine Attack - Shingeki -",
       "url": "https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ"
@@ -1683,6 +1701,24 @@
       "duration_ms": 191460,
       "name": "Erase My Mind",
       "url": "https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258986,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I"
     },
     {
       "album": {
@@ -2351,7 +2387,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 271943,
       "name": "Heads Off",
       "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
@@ -3665,7 +3701,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 188111,
       "name": "Party in My Head",
       "url": "https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh"
@@ -4254,6 +4290,24 @@
     },
     {
       "album": {
+        "name": "Show Me Your God",
+        "url": "https://open.spotify.com/album/6NNVcyPL17qA1ehI4ZgLnm"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217127,
+      "name": "Show Me Your God",
+      "url": "https://open.spotify.com/track/0qE46rBnn5oz96RaAfnZHv"
+    },
+    {
+      "album": {
         "name": "Sickle and Peace",
         "url": "https://open.spotify.com/album/2ppckPJjNgNhIjxJ2hIcrZ"
       },
@@ -4770,6 +4824,24 @@
     },
     {
       "album": {
+        "name": "Pain Remains",
+        "url": "https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370493,
+      "name": "Sun//Eater",
+      "url": "https://open.spotify.com/track/1PZ1po0vZzESv0AJCURC72"
+    },
+    {
+      "album": {
         "name": "Sunset over the Empire",
         "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
       },
@@ -4943,7 +5015,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 231666,
       "name": "The Body",
       "url": "https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3"

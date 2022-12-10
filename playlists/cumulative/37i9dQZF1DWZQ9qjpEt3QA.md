@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-91 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
+92 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Summer, Anyway \(Monthly Project 2020 June Yoon Jong Shin\)](https://open.spotify.com/track/5dhBFsbrOcZhLbJFImgvsd) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Summer, Anyway \(Monthly Project 2020 June Yoon Jong Shin\)](https://open.spotify.com/album/2z6kAL1yr6a2OiHBJ9CDWQ) | 5:43 | 2022-05-26 | 2022-07-29 |
 | [Summum Bonum](https://open.spotify.com/track/09bEFRkwyd648AXubqQxir) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [CASSA NOVA](https://open.spotify.com/album/6ElKO6Gwlw0xV4Nt6tBvoH) | 4:41 | 2022-05-26 | 2022-07-29 |
 | [Summum Bonum](https://open.spotify.com/track/1i0GPOOiWudGbWlApdADbp) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Cassa Nova](https://open.spotify.com/album/7qDgQiJVHJwOiFtYCBYIxn) | 4:41 | 2022-05-26 |  |
-| [Sungguh Terlalu](https://open.spotify.com/track/2ooOtbd0mJ27xhwwGCnnkb) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sungguh Terlalu](https://open.spotify.com/album/1TDcayS0iX7Ky7O0a6qvEs) | 4:17 | 2022-05-26 |  |
+| [Sungguh Terlalu](https://open.spotify.com/track/2ooOtbd0mJ27xhwwGCnnkb) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sungguh Terlalu](https://open.spotify.com/album/1TDcayS0iX7Ky7O0a6qvEs) | 4:17 | 2022-05-26 | 2022-12-10 |
+| [Sungguh Terlalu](https://open.spotify.com/track/7wQDwTshgxYJyXmdVR9ncE) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [A Tiny Bit of Gold In The Dark Ocean](https://open.spotify.com/album/2ye0rT388zwLfuvv4RdRM0) | 4:17 | 2022-12-08 |  |
 | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/track/1HQcB17Uevy4vdHlsuqCqe) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Châu Bùi](https://open.spotify.com/artist/6mKDR6IdsyqRp38x1uigAR) | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/album/2greZVau20V2fjDYKe7PcK) | 3:22 | 2022-05-26 |  |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-30 |  |
 | [Terbanglah Lepas](https://open.spotify.com/track/0mLvVZ14uhcPI7dbOJ69Un) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf), [Parlemen Pop](https://open.spotify.com/artist/4GPfmTXPBtz1eIdrdNOB3e) | [Lagu Baru Dari Masa Lalu, Vol\. 1](https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi) | 4:53 | 2022-05-26 |  |

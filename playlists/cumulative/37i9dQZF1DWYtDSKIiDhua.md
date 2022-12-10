@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: SZA
 
-263 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
+264 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [next door \(feat\. ASTN\)](https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [next door \(feat\. ASTN\)](https://open.spotify.com/album/74hbTOydyddGuDuVfGGrdv) | 3:28 | 2022-09-22 |  |
 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 | 2022-09-15 |  |
 | [No Conditions](https://open.spotify.com/track/5GHqCNDXs23kv0RY4g4uMH) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [No Conditions](https://open.spotify.com/album/7EAJhtaEET3DFZKHaLMQK9) | 3:42 | 2022-06-08 | 2022-07-01 |
+| [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 |  |
 | [Not an Ordinary Fairytale \(feat\. MUREI\)](https://open.spotify.com/track/3h9NRcDVEGLk8EUk2MLh7p) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV), [MUREI](https://open.spotify.com/artist/2FfWFPeKRozWLFsJzR9CDf) | [Not an Ordinary Fairytale \(feat\. MUREI\)](https://open.spotify.com/album/4KzdsnXW3hIeOsLQypcd1o) | 3:35 | 2022-09-22 | 2022-12-09 |
 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 | 2022-06-08 | 2022-09-23 |
 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2022-09-22 |  |
@@ -214,7 +215,7 @@
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-06-08 | 2022-08-26 |
 | [slow mo](https://open.spotify.com/track/1bY35fcWF9bgKlsGH9KN99) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [slow mo](https://open.spotify.com/album/6Ewz44oazyppjk3cb8StcE) | 2:47 | 2022-06-08 | 2022-06-17 |
 | [Someone New](https://open.spotify.com/track/1BdTKxO6wHmz3GyOu5nb7k) | [Alex Ungku](https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N) | [Someone New](https://open.spotify.com/album/3J6Ycud7BUfoOWkG6voBfZ) | 3:23 | 2022-07-28 | 2022-10-21 |
-| [SOS](https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:57 | 2022-12-08 |  |
+| [SOS](https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:57 | 2022-12-08 | 2022-12-10 |
 | [Sound of Smoke](https://open.spotify.com/track/43mJXEFmQWghATB2OrJkTu) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Sound of Smoke](https://open.spotify.com/album/25IaHNxGHV3bc3620r634Q) | 2:54 | 2022-11-03 |  |
 | [Spanish Restaurant \(Prod\. Liquor well\)](https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i), [Liquor well](https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx) | [Spanish Restaurant](https://open.spotify.com/album/5YC4Nrh2IZ8BFx1jjS5Ly9) | 2:48 | 2022-07-14 | 2022-07-22 |
 | [Stand Up \(From the Original Motion Picture "Till"\)](https://open.spotify.com/track/6RfyQbkKctEp5rwAhrJCEM) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Stand Up \(From the Original Motion Picture "Till"\)](https://open.spotify.com/album/5SjhlbPZIgLILg9k6BJsPs) | 3:44 | 2022-10-07 |  |

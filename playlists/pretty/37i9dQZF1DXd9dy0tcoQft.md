@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,757 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,758 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sky has open doors](https://open.spotify.com/track/5EqtcGaNE7rE6mjVZYarjB) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/3V7X498o84HlP4NK9vhoeY) | 3:39 |
+| 1 | [Sky has open doors](https://open.spotify.com/track/73KIzrxQOsJAgMj6dBDQ5d) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/0l4lzZ83jqOdYjVxSXLglU) | 3:39 |
 | 2 | [In the Air](https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh) | 4:12 |
 | 3 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 4 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 64 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Rearview Paradise](https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg) | 4:17 |
 | 65 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDM1N2E2ODMwZWQxZjE5NjFjZTNlNTBlNDQwNzMzN2Mz`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGFmM2FlYjFmMmEzNDAzZWYyNGI3ZmM1ZDM1MTRjOTZj`

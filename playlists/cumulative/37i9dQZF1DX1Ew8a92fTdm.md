@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-166 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
+171 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Auntie Elsie](https://open.spotify.com/track/4ALRNmKLlBtWR3estJPqYB) | [Annie Carr](https://open.spotify.com/artist/6EBgGvgb0VVGC7rOlBziTR) | [Auntie Elsie](https://open.spotify.com/album/5GeRufrHnQSPQQ4SdBhss5) | 1:00 | 2022-04-22 |  |
 | [Baby Bear](https://open.spotify.com/track/5UpHz8cxbWTNIwu0zbxSqk) | [Mette Enoksen](https://open.spotify.com/artist/3UjM6XtripEYdUAzSBCKmf) | [Baby Bear](https://open.spotify.com/album/3FSBkPEBTJ9XKV8MBSBJok) | 1:25 | 2022-02-10 |  |
 | [Baby Dreams](https://open.spotify.com/track/2OCSQoa1w5dp3Qx14pD7VQ) | [Hillary Nic](https://open.spotify.com/artist/63ALojLOh3rjtkUEBUFITk) | [Baby Dreams](https://open.spotify.com/album/71xPRfWxOhGhZoRhErRbjr) | 0:58 | 2022-02-10 | 2022-04-23 |
+| [Baby Swan Dreams](https://open.spotify.com/track/4iR3wPEbv4hY91LfCaZb8U) | [Luna Ull](https://open.spotify.com/artist/3WCRwq0tALrJmzA0N09HaV) | [Baby Swan Dreams](https://open.spotify.com/album/7E6IbMz51uTaQlnUa59fvc) | 1:45 | 2022-12-09 |  |
 | [Baby Waltz](https://open.spotify.com/track/5iYqthNAUpzgCFZrogSr79) | [Lullaby Hill](https://open.spotify.com/artist/5ffOn1wNgnjN6W1hJWTYzR) | [Baby Waltz](https://open.spotify.com/album/3lHX0ykuoph6qtYCS1nmrW) | 1:44 | 2022-02-10 |  |
 | [Babysteps](https://open.spotify.com/track/2zqHqxPQhECCWTwuCNzNHK) | [Teodora Mills](https://open.spotify.com/artist/5UhCZHhiDEfKoh45KAskwT) | [Babysteps](https://open.spotify.com/album/0q2LDg44aoY0G8DwjY9nxJ) | 0:56 | 2022-02-10 | 2022-04-23 |
 | [Backyard Daydream](https://open.spotify.com/track/0S2aU6wJL4OMjtjA4WnSMP) | [Bella Hirsch](https://open.spotify.com/artist/4WsZDHQEE9c0ime7beb2IA) | [Backyard Daydream Lullabies](https://open.spotify.com/album/4Xel7rj2F7dggSAInsMnOg) | 2:11 | 2022-02-10 |  |
@@ -89,6 +90,7 @@
 | [Joyful Dreams](https://open.spotify.com/track/34vSdcmFgbjKihXgDumzZ2) | [Sarah Deville](https://open.spotify.com/artist/1MD5iwjDr1S6N8y0U81y2l) | [Joyful Dreams](https://open.spotify.com/album/48BRkijGa9KDMkWltUiuTp) | 1:19 | 2022-02-10 |  |
 | [Klättermusens Vaggvisa](https://open.spotify.com/track/6H0ne2RkpMwJjiGN0jvRS6) | [Mika Nordlind](https://open.spotify.com/artist/6hnc50bJnPjV4YHbpz4ooq) | [Speldosans Vaggvisor 2](https://open.spotify.com/album/6v7RcI1Xqao7xI8xOyIieM) | 1:18 | 2022-02-10 |  |
 | [Life is but a dream](https://open.spotify.com/track/6XLzwDwQzsX7gmKD6zZdie) | [Dagmar Park](https://open.spotify.com/artist/1FYboM4559UFLCS9IVXxio) | [Life is but a dream](https://open.spotify.com/album/0nnjifaoqsyGVLxbUWK7ey) | 1:20 | 2022-02-10 |  |
+| [Litet bo jag sätta vill](https://open.spotify.com/track/5qEoofV0UUskhni4I1vfn1) | [Beatrice Björkman](https://open.spotify.com/artist/2SdRSEuy0pwKedI6cZyTPI) | [Litet bo jag sätta vill](https://open.spotify.com/album/4E9junRVt6IwKCr8IRH78c) | 1:23 | 2022-12-09 |  |
 | [Little Bo Peep](https://open.spotify.com/track/2up0LGm75ZneCdHr8ngfKa) | [Jackie Leon](https://open.spotify.com/artist/0lnm8ajEZUtfdBN07KPn5b) | [Tommy Thumb](https://open.spotify.com/album/3xy4asbR8bGz43QEiwCYes) | 1:42 | 2022-02-10 |  |
 | [Little Dreamers](https://open.spotify.com/track/4alV2d3zSYVDSBOHGTGaaW) | [Amy Chesney](https://open.spotify.com/artist/5yJ7GLInAPoiOY6MCEbMyi) | [Little Dreamers](https://open.spotify.com/album/6oV11mfEZwRux1ESS3ZCz4) | 1:41 | 2022-02-10 |  |
 | [London Bridge](https://open.spotify.com/track/2mZs2T1Db29O7RL82hul2u) | [Kilian Skoog](https://open.spotify.com/artist/2TWJuWpcdDRbLwOBOEe3OK) | [London Bridge](https://open.spotify.com/album/32phA7pyDzvVPFqzPGNOuJ) | 1:21 | 2022-07-29 |  |
@@ -124,8 +126,10 @@
 | [Shine Bright Little Star](https://open.spotify.com/track/67FfMaZW9QJ8Wl02hhemAt) | [Joy Farrow](https://open.spotify.com/artist/1bvPJO79WaiXgQjkQBGwRR) | [Shine Bright Little Star](https://open.spotify.com/album/4JBajV6LFaLCdcc82Muimq) | 0:52 | 2022-02-10 | 2022-04-23 |
 | [Sisters](https://open.spotify.com/track/327ydynonFKIBVoW9e5wXO) | [Cosy Pillows](https://open.spotify.com/artist/08x9OqSYuvqdN6K60DHIj7) | [Sisters](https://open.spotify.com/album/0nvdJRcQBlwoMwiOmLXEqU) | 1:04 | 2022-02-10 |  |
 | [Sleep Little Princess \- Musicbox version](https://open.spotify.com/track/0DGr857pbEqJV5708v0usR) | [Pansiri](https://open.spotify.com/artist/0dAfcFu3Thby5lOqBumKYZ) | [Sleep Little Princess \- Musicbox version](https://open.spotify.com/album/2xuQhHO0yaIgR8W9b6hA1a) | 2:15 | 2022-02-10 |  |
+| [Sleep My Little Baby](https://open.spotify.com/track/55PaJkISKYtpjOvtyAgPDf) | [Elliot Gordon](https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a) | [Sleep My Little Baby](https://open.spotify.com/album/38Fi5exTFOB5TCLtweu2DW) | 1:48 | 2022-12-09 |  |
 | [Sleep Tight](https://open.spotify.com/track/3WYzdiuE5IViSiYn0eTfaU) | [Phil Counts](https://open.spotify.com/artist/14PVLP8iHxZewSvnlLQg9b) | [Sleep Tight](https://open.spotify.com/album/2wyRwPa4bcxLlhMwRSpTwg) | 1:49 | 2022-09-22 |  |
 | [Sleeping On Cloud 9](https://open.spotify.com/track/1q1mOWrsNhTPvaCVq2jwjW) | [Torben Overgaard](https://open.spotify.com/artist/2wrZRfjoJ5N3f1WyYjbKXL) | [Sleeping On Cloud 9](https://open.spotify.com/album/1mr5gy4ZZ8uTL4t64v74bd) | 1:28 | 2022-07-01 |  |
+| [Sleeping Otters](https://open.spotify.com/track/5LH9wtbdbuFtNVfo6eag1x) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Sleeping Otters](https://open.spotify.com/album/0rBu8CY7PCFkdeLajMjwX8) | 1:35 | 2022-12-09 |  |
 | [Slumberland Song](https://open.spotify.com/track/6ZytMjWT6QTqwRh0qHcILq) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Slumberland Song](https://open.spotify.com/album/1B5CmudUyJWVORuPQdbYV6) | 1:36 | 2022-02-10 |  |
 | [Softly We Sleep](https://open.spotify.com/track/2Zzcdaz8hykNepVxzusTVJ) | [Ginny Love](https://open.spotify.com/artist/3M01IyD333mOOvDW4dA0eJ) | [Sleep Lullabies](https://open.spotify.com/album/3ThrtKNQFGuxyJbaxu5O4C) | 1:48 | 2022-02-10 |  |
 | [Somewhere over the rainbow](https://open.spotify.com/track/7xR4hSnxdNczhdckGAeqPE) | [Royce Prichard](https://open.spotify.com/artist/4iajyddKaNIX6a1LKwpovL) | [Somewhere over the rainbow](https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1) | 1:48 | 2022-02-10 |  |
@@ -163,6 +167,7 @@
 | [Tuck You In](https://open.spotify.com/track/7BAOAgb7oHDU7c2px6Jr2w) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [Tuck You In](https://open.spotify.com/album/5qONknLa05F4T926ZHio4k) | 1:32 | 2022-05-17 |  |
 | [Twinkle twinkle little star](https://open.spotify.com/track/0GpjHdTg8HUBqqjjbuyRZx) | [Sabelia Robles](https://open.spotify.com/artist/6rq2TupUat1Bqgh9KSmc1e) | [Twinkle twinkle little star](https://open.spotify.com/album/38kjDndrsXh2BuxXhvuOlo) | 0:54 | 2022-02-10 | 2022-04-23 |
 | [Until I Found You](https://open.spotify.com/track/7lElQ1zwjKaEfINWBT4ATx) | [Nanny Pim](https://open.spotify.com/artist/35xpkDRoznKCO6bAK4X2tH) | [Until I Found You](https://open.spotify.com/album/2amJKlDL51npWq2CzPjBMO) | 1:07 | 2022-11-25 |  |
+| [Videvisan](https://open.spotify.com/track/21bIVZk8cGOCCoEfgnqVEm) | [Kerstin Kempe](https://open.spotify.com/artist/1QvAHSuu023cDHMSIhsslX) | [Videvisan](https://open.spotify.com/album/1zn9Dh2o6gdmi0iH0Atva4) | 1:22 | 2022-12-09 |  |
 | [Vise plăcute](https://open.spotify.com/track/1tGse4X0Fm3re8mOvK7QnE) | [Angelica Dobrescu](https://open.spotify.com/artist/0FUDusfHLQxPRdHoPHfdbN) | [Vise plăcute](https://open.spotify.com/album/5yMIuPzL9sITiG42iLom9y) | 1:24 | 2022-02-10 |  |
 | [Whale Buddies](https://open.spotify.com/track/1hni0iKgaFR2Avwf3DLJAQ) | [Jennifer Michaels](https://open.spotify.com/artist/0Gs7RooFUAxL9vusMPJHiy) | [The Sea Whispers](https://open.spotify.com/album/05pfStquA3Mvfddb9h5ffF) | 1:47 | 2022-02-10 |  |
 | [What a Wonderful World](https://open.spotify.com/track/5UVzIlTT74VXzhQFzeyiVw) | [Jarvis Jones](https://open.spotify.com/artist/6Xaavc7P6S9vPVR4WQ8EQw) | [Classics on Music Box](https://open.spotify.com/album/58bmcL0R1A0b0MTY34sZS2) | 2:33 | 2022-02-10 |  |

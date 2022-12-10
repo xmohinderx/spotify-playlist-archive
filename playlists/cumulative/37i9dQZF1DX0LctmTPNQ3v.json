@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/1DbZpAbmGi5WL9dkPiELx8"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189566,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/3R8St06LJzL7SoneXQy7tL"
+    },
+    {
+      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/4wVgm80aNC8S8XwxpDakws"
       },
@@ -1289,10 +1307,6 @@
       },
       "artists": [
         {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        },
-        {
           "name": "Eva Under Fire",
           "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
         },
@@ -1365,6 +1379,24 @@
       "duration_ms": 119013,
       "name": "Rockin' Around the Christmas Tree",
       "url": "https://open.spotify.com/track/0XW1jrD07qo7Dy27LKjtYW"
+    },
+    {
+      "album": {
+        "name": "Rockin' Around the Christmas Tree",
+        "url": "https://open.spotify.com/album/6DhsdnWLeBx8U309wLTIH1"
+      },
+      "artists": [
+        {
+          "name": "ONI INC.",
+          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130517,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/1NcwwGQmTgIaUimgUMN6hk"
     },
     {
       "album": {

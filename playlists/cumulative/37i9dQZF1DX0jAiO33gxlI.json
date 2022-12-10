@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Hungria Hip Hop",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Yago Oproprio",
   "name": "Presen\u00e7a Hip Hop",
   "published_playlist_ids": [
     "07w2QUeYfgvUJ366SKbIpZ"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
@@ -3390,6 +3390,24 @@
     },
     {
       "album": {
+        "name": "Me Diz Se Vem",
+        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177612,
+      "name": "Me Diz Se Vem",
+      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
+    },
+    {
+      "album": {
         "name": "Menor Sagaz",
         "url": "https://open.spotify.com/album/71Q84aztwb3NWIRD4EVB3n"
       },
@@ -3973,7 +3991,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 133899,
       "name": "Nocaute - Ao Vivo",
       "url": "https://open.spotify.com/track/26PiqGUErAtdNkCwE9ARg4"
@@ -6429,6 +6447,28 @@
       "duration_ms": 175813,
       "name": "To Voando",
       "url": "https://open.spotify.com/track/6dNRYCyf0zhhkzwi8fIDsK"
+    },
+    {
+      "album": {
+        "name": "Tocaia",
+        "url": "https://open.spotify.com/album/1H86cfv3CQSqeqrg3QmjBq"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Tocaia",
+      "url": "https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2"
     },
     {
       "album": {

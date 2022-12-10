@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Tornillo en portada.",
+  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Ghetto Kids & Santa Fe Klan en portada.",
   "name": "El Barrio MP3",
   "published_playlist_ids": [
     "2tqsxTYWGTldl03rJgOBmK"
@@ -190,6 +190,24 @@
     },
     {
       "album": {
+        "name": "Ando al Ciego",
+        "url": "https://open.spotify.com/album/3oy9PTZQ1DXASStLGYrTK7"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215665,
+      "name": "Ando al Ciego",
+      "url": "https://open.spotify.com/track/0o905squ3VdFpVn5Zlq8hn"
+    },
+    {
+      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -231,7 +249,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 228631,
       "name": "Ando Perdido",
       "url": "https://open.spotify.com/track/3uyzJFObinPRz0YiMpBQtH"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 240440,
       "name": "Artista Y Malandro",
       "url": "https://open.spotify.com/track/0NGHuBUQx9bC86zuhiY58M"
@@ -461,7 +479,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 154760,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
@@ -585,6 +603,28 @@
       "duration_ms": 225152,
       "name": "Como Jordan",
       "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Con La Brisa",
+      "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
     },
     {
       "album": {
@@ -945,6 +985,24 @@
       "duration_ms": 206161,
       "name": "El Black",
       "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
+    },
+    {
+      "album": {
+        "name": "El Boom",
+        "url": "https://open.spotify.com/album/1yKupzUivdMwcsplXhaLDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261070,
+      "name": "El Boom",
+      "url": "https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o"
     },
     {
       "album": {
@@ -1335,7 +1393,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
@@ -1471,6 +1529,24 @@
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "album": {
+        "name": "JURE VENGANZA",
+        "url": "https://open.spotify.com/album/01hQzuRutKQ10AmhqyWHAl"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "JURE VENGANZA",
+      "url": "https://open.spotify.com/track/4t2fkh1jfaEuZz9t3o05bG"
     },
     {
       "album": {
@@ -1761,7 +1837,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 220973,
       "name": "Lo M\u00edo No Tiene Cura",
       "url": "https://open.spotify.com/track/18Q3lULIvXX0n0zOkeUv9X"
@@ -1835,6 +1911,28 @@
       "duration_ms": 163000,
       "name": "Los Mire Con Talento",
       "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
+    },
+    {
+      "album": {
+        "name": "Malas Rachas (En Vivo)",
+        "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256754,
+      "name": "Malas Rachas (En Vivo)",
+      "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
     },
     {
       "album": {
@@ -2139,7 +2237,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 194823,
       "name": "M\u00fasica Mexa",
       "url": "https://open.spotify.com/track/4yOi3U3ItUcRckpjjuVPEJ"
@@ -2161,6 +2259,28 @@
       "duration_ms": 176480,
       "name": "Ni\u00f1o De Oro",
       "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
+    },
+    {
+      "album": {
+        "name": "No Hay Pedo Hay Peda",
+        "url": "https://open.spotify.com/album/1LCAjw1LW3nWqJmgPR8JqT"
+      },
+      "artists": [
+        {
+          "name": "El Enfermo",
+          "url": "https://open.spotify.com/artist/3derxbyWBTqAU8H8DPzn0q"
+        },
+        {
+          "name": "El Ezequiel",
+          "url": "https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "No Hay Pedo Hay Peda",
+      "url": "https://open.spotify.com/track/76ZtbyTDsdwMkIjvz1Z2sX"
     },
     {
       "album": {
@@ -2517,7 +2637,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
@@ -2860,6 +2980,28 @@
     },
     {
       "album": {
+        "name": "Sin Censura",
+        "url": "https://open.spotify.com/album/5ZD8xjHeIxf6EJg3Xp1FkY"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Sin Censura",
+      "url": "https://open.spotify.com/track/1lAqzEHhPQdTPOIPfYOfjc"
+    },
+    {
+      "album": {
         "name": "Soy El Rat\u00f3n",
         "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
       },
@@ -3142,6 +3284,24 @@
     },
     {
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167568,
+      "name": "Tolin Infante",
+      "url": "https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg"
+    },
+    {
+      "album": {
         "name": "Toma 4",
         "url": "https://open.spotify.com/album/7Il1eXMjz7OJExifvW8Vgt"
       },
@@ -3205,7 +3365,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 264000,
       "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
       "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"

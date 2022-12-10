@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,531 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,579 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 12 | [La Escuelita](https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:05 |
 | 13 | [Recuérdenme Así](https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:59 |
 | 14 | [Mientras Tú Jugabas](https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:10 |
-| 15 | [Si Te Vas A Ir](https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si Te Vas A Ir](https://open.spotify.com/album/7aLmI4s5RkG708JchOa2qH) | 3:17 |
-| 16 | [Tacones Rojos \- Versión Banda](https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tacones Rojos \(Versión Banda\)](https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh) | 3:11 |
+| 15 | [Quisiera Saber](https://open.spotify.com/track/3K4HDf1v1l3g0QvMbBPyWW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Quisiera Saber](https://open.spotify.com/album/1YLA1QkbnzgXWkD5TkCDs7) | 3:19 |
+| 16 | [Si Te Vas A Ir](https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si Te Vas A Ir](https://open.spotify.com/album/7aLmI4s5RkG708JchOa2qH) | 3:17 |
 | 17 | [No Llega El Olvido](https://open.spotify.com/track/4xKmCXrvnvrRa7XoBIwUoZ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:31 |
-| 18 | [Quisiera Saber](https://open.spotify.com/track/3K4HDf1v1l3g0QvMbBPyWW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Quisiera Saber](https://open.spotify.com/album/1YLA1QkbnzgXWkD5TkCDs7) | 3:19 |
+| 18 | [Tacones Rojos \- Versión Banda](https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tacones Rojos \(Versión Banda\)](https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh) | 3:11 |
 | 19 | [Hasta Que Salga El Sol](https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:23 |
 | 20 | [Te Darán Ganas De Verme](https://open.spotify.com/track/3gizL2fAU59XhtjbZpbme7) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:55 |
 | 21 | [Me Está Tirando El Rollo](https://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:37 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 37 | [Que A Toda Madre \(Que A Todo Dar\)](https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:12 |
 | 38 | [Ponle Que Sí](https://open.spotify.com/track/2MViucn04mANEpbKRh5p4D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 4:07 |
 | 39 | [Llorando En Un Carro Del Año](https://open.spotify.com/track/4OfIidHHKBPT32ZJpN8m6T) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Llorando En Un Carro Del Año](https://open.spotify.com/album/18XHmgKEQKh4EwxqHDAJNM) | 2:28 |
-| 40 | [Morras De Acción](https://open.spotify.com/track/6Kbf0AabdaT73J54MwKswQ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:27 |
+| 40 | [Es Bonito](https://open.spotify.com/track/37yaX9Lb6lelIodevWgR9T) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vengo A Decirte](https://open.spotify.com/album/0CnvKmPlj5MYRyWySTAODw) | 2:58 |
 | 41 | [Voy A Pistear](https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:21 |
 | 42 | [Cuando Me Importabas](https://open.spotify.com/track/2SbrBJ7ueAZ4iGYHTf21HU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 3:22 |
-| 43 | [Es Bonito](https://open.spotify.com/track/37yaX9Lb6lelIodevWgR9T) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vengo A Decirte](https://open.spotify.com/album/0CnvKmPlj5MYRyWySTAODw) | 2:58 |
+| 43 | [Morras De Acción](https://open.spotify.com/track/6Kbf0AabdaT73J54MwKswQ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:27 |
 | 44 | [Una Peda Con El Viejo](https://open.spotify.com/track/21hGjxRr4AKTmHsh84ayOw) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Una Peda Con El Viejo](https://open.spotify.com/album/06veMmIctzxEgh8oubKTUX) | 2:30 |
 | 45 | [Para Qué Me Las Diste](https://open.spotify.com/track/7AyxD2OecOyvIlByUY0Kvz) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Para Qué Me Las Diste](https://open.spotify.com/album/5wgOVJ9KTVFbhau9ppTj80) | 3:34 |
 | 46 | [Te Acostumbré A Mis Besos](https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [La Peda](https://open.spotify.com/track/56zRgQeUeM1xRwEHtGStTy) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:26 |
 | 50 | [Amores Fingidos](https://open.spotify.com/track/4J3miVgH4SeSdYf1SN8lB1) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si No Existieras...Pero Existimos](https://open.spotify.com/album/19TgMyTRUaYXQ4dSj84cgn) | 2:35 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDBmM2M0YTRkODQ1ZDFiOTQwYzliMTJjZWM0MjAwY2IzYg==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDAyYTk3N2Q5NWRlMWQ4MTc0YTg4YTNmNGFiNjI1NTU5Yw==`

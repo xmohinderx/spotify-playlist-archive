@@ -4,7 +4,7 @@
 
 > Let it all go and lift yourself up with inspiring ambient music.
 
-141 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+143 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Eternity and Beyond](https://open.spotify.com/track/0D8bO0kfpOsdxZ8fLLp38A) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Eternity and Beyond](https://open.spotify.com/album/5eyxjz1D0sA4KPH7wrOa05) | 4:11 | 2021-12-23 |  |
 | [Ethereal Ease](https://open.spotify.com/track/1Frq45fT42aD8tOdxzH6gn) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Ethereal Ease](https://open.spotify.com/album/5wp6m5rlnmPYBALjPvMnG1) | 3:53 | 2022-08-12 |  |
 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 | 2022-02-18 |  |
+| [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 |  |
 | [Far And Away](https://open.spotify.com/track/44DKn5hqvnO4912GLZqHYI) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:04 | 2021-12-23 |  |
 | [Fiction](https://open.spotify.com/track/2cQJCXUhGKilLJT7OE40w0) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/5DdCboBXyuP9VJDaiJ3Y61) | 3:31 | 2022-07-22 |  |
 | [Fiction](https://open.spotify.com/track/7N3pnzacUb4TpSEgRSlgw5) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/1MLutcc8zOKfnxA00EoVwC) | 3:31 | 2021-12-23 | 2022-07-29 |
@@ -127,7 +128,7 @@
 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 | 2021-12-23 |  |
 | [Symmetry](https://open.spotify.com/track/7s1zPhZgciTy2ruEy3JUmb) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:00 | 2021-12-23 |  |
 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 | 2022-08-15 |  |
-| [Tamashi Journey](https://open.spotify.com/track/3bB0KwVk8ZZi4qzGoWhJ3h) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Tamashi Journey](https://open.spotify.com/album/7oTeFssIU9rzERwXP3sBv7) | 3:05 | 2021-12-23 |  |
+| [Tamashi Journey](https://open.spotify.com/track/3bB0KwVk8ZZi4qzGoWhJ3h) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Tamashi Journey](https://open.spotify.com/album/7oTeFssIU9rzERwXP3sBv7) | 3:05 | 2021-12-23 | 2022-12-10 |
 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 | 2021-12-23 |  |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2021-12-23 |  |
 | [The Shore](https://open.spotify.com/track/7BCmEyju8nsLtkC7EZS5sR) | [Calil](https://open.spotify.com/artist/708dyjyJRoOhRAlx9GQUhC) | [Driftwood](https://open.spotify.com/album/5v6PA4NSCm2wXNNbler8Zg) | 2:52 | 2021-12-23 |  |
@@ -143,6 +144,7 @@
 | [Waits Dreaming](https://open.spotify.com/track/365CgMIdzM2P2t3sgTmwJt) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/5ZRUr2HqVBVKeRfoN8rKQz) | 5:18 | 2021-12-23 | 2022-07-29 |
 | [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 | 2021-12-23 | 2022-05-26 |
 | [Where Peaceful Waters Flow](https://open.spotify.com/track/06k0KNOgWngBL962uONmeV) | [Dani Hadad](https://open.spotify.com/artist/4dplzww3ZxsFV5sNlOcYmn) | [Peace](https://open.spotify.com/album/1ScFHV7vGlCdruwg6vUUKs) | 3:27 | 2021-12-23 |  |
+| [Winter Night Mist](https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Winter Night Mist](https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s) | 3:13 | 2022-12-09 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-05-19 |  |
 | [Èlégie](https://open.spotify.com/track/3t9fspjbbFmd2BeogUaF7l) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Èlégie](https://open.spotify.com/album/1IUC9DadpSmHaUG2SlLuqm) | 3:40 | 2021-12-23 |  |
 | [Élégie](https://open.spotify.com/track/2IwBmaLhtr1M5NvsRFZCIq) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Élégie](https://open.spotify.com/album/3xaVD5acHQvMl1qkyKQ3Of) | 3:29 | 2022-02-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,438 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,756 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 41 | [Dejate De Cosas](https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dejate De Cosas \(En Vivo\)](https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD) | 2:05 |
 | 42 | [El Primito \(En Vivo\)](https://open.spotify.com/track/5IWf4feNMKgijlJugOLYkJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Primito \(En Vivo\)](https://open.spotify.com/album/7sGozLOnXBrjgjocsW14ih) | 3:05 |
 | 43 | [Equipo RR](https://open.spotify.com/track/14C4FsfMkXf4dmqKF2apqG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:56 |
-| 44 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
-| 45 | [Tropa del Infierno](https://open.spotify.com/track/414oo6t5s8XI1paph23B3D) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 3:05 |
+| 44 | [Tropa del Infierno](https://open.spotify.com/track/414oo6t5s8XI1paph23B3D) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 3:05 |
+| 45 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
 | 46 | [El De La S](https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:22 |
 | 47 | [Por Clave 9\-1](https://open.spotify.com/track/0TnUV2vPKYf0TSgKuchTXU) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:17 |
-| 48 | [Yo Fui El Choki](https://open.spotify.com/track/1k7BcLftj6rmgBDRuK3bpc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 3:22 |
-| 49 | [El Apache](https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:48 |
+| 48 | [El Apache](https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:48 |
+| 49 | [Yo Fui El Choki](https://open.spotify.com/track/1k7BcLftj6rmgBDRuK3bpc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 3:22 |
 | 50 | [El 8](https://open.spotify.com/track/3MlwQd4W9ySCi505CK5N26) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El 8](https://open.spotify.com/album/7qfb8kvm6smyCu5HXefnME) | 2:45 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDA5NDI5MzU5ZWIxNjNlZjM5MWE2MmJhODU1OWFhN2Y5OA==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDBlNTY2ZjI2ZmM5N2VkZDU4NDNlMGMyNzA5ZjY4Zjc2ZQ==`

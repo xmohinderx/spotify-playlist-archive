@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Ella Langley
 
-969 songs - 2 day 3 hr 51 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+972 songs - 2 day 4 hr 2 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Is It Just Me](https://open.spotify.com/track/3qyevYGwXVlxldR22rg0Df) | [Ethan Willis](https://open.spotify.com/artist/22FcmRulcOqjPIZbHksyUo) | [Is It Just Me](https://open.spotify.com/album/6FVqr8vVlYFv3EeyngpSTd) | 3:08 | 2022-02-25 | 2022-05-07 |
 | [It Only Takes One](https://open.spotify.com/track/0iVLvmbHAXTKBOoD4ZuVgd) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [It Only Takes One](https://open.spotify.com/album/0CWYQOypJsplWjMvGr8AwA) | 3:02 | 2022-08-05 | 2022-10-29 |
 | [It's About Time](https://open.spotify.com/track/14xZNwIc6TP3IR8ZKaqhnh) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Welcome to Prairieville](https://open.spotify.com/album/77lZUyDWJpUGZpWoKvo5gT) | 3:47 | 2022-02-25 | 2022-04-09 |
+| [it's been a year](https://open.spotify.com/track/2untQJbPOaB1BjyZKIVuZv) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [it's been a year](https://open.spotify.com/album/0wsETlKs4fptjLrGDKY2U4) | 3:36 | 2022-12-09 |  |
 | [J.O.Y.](https://open.spotify.com/track/3Iu8wf5lZGnAj5QBMRyu2B) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [J.O.Y.](https://open.spotify.com/album/4HK0mnxBqWZsImD3We8rEj) | 2:23 | 2022-04-01 | 2022-05-28 |
 | [Jesus and Joan Jett](https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Jesus and Joan Jett](https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl) | 3:01 | 2022-02-11 | 2022-03-18 |
 | [John Wayne](https://open.spotify.com/track/3ZOlkxeXqpVem2gqiO2O6R) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp) | [Spray Painted Line](https://open.spotify.com/album/7hrp7eYQWeY7FSSa4625WF) | 3:04 | 2022-06-10 | 2022-09-24 |
@@ -555,11 +556,13 @@
 | [Missing One](https://open.spotify.com/track/6boItJTxu8c9PdSbVqbAUF) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Bet You're from a Small Town](https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo) | 3:22 | 2022-01-28 | 2022-02-19 |
 | [Missing You](https://open.spotify.com/track/0NN89T8ZrNPTCVAYexHqlR) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Missing You](https://open.spotify.com/album/56SRgnt6qGni9StUZSyxup) | 2:42 | 2022-07-08 | 2022-10-15 |
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-03-18 | 2022-04-29 |
+| [Moment](https://open.spotify.com/track/59GZjTxsvzzClmqHnONcMk) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Moment](https://open.spotify.com/album/1SzUEjyhgu2BA2BcRiE4hl) | 3:09 | 2022-12-09 |  |
 | [Momentum](https://open.spotify.com/track/2Km7p52eJt51AsLoizZsXz) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Momentum](https://open.spotify.com/album/1UVUIMDHj2I0Lt5Mumd6eh) | 3:21 | 2022-05-06 | 2022-06-18 |
 | [More Me](https://open.spotify.com/track/05ZbkONztKDhdE4tC4OJqB) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [More Me](https://open.spotify.com/album/4P9iA68PjGj5qZjZQZ2sDx) | 2:22 | 2022-05-20 | 2022-06-04 |
 | [More Than Malibu](https://open.spotify.com/track/055Cd3mcHF4RPUoUdwPdva) | [Frank Legeay](https://open.spotify.com/artist/3UGllLBllWl2L26fEFe7l0), [Alec MacGillivray](https://open.spotify.com/artist/2l8ebyddrr4VeZVza2o1mM) | [More Than Malibu](https://open.spotify.com/album/7qWPtOu5GSzNE3iWkWGGYz) | 3:40 | 2022-01-28 | 2022-03-12 |
 | [Morning In New Orleans](https://open.spotify.com/track/4kST2f9vJjqqOQgxy8M0C3) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Morning In New Orleans](https://open.spotify.com/album/4JPvwNsY6mKDd7S2nNS1mS) | 4:21 | 2022-06-10 | 2022-07-29 |
 | [Morning In New Orleans](https://open.spotify.com/track/58ecPv0XoQ0nO0Fh9ZEp8N) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Morning In New Orleans](https://open.spotify.com/album/69LkhTSf0Dk2Opaafcp6AF) | 4:21 | 2022-07-22 | 2022-10-01 |
+| [Motel On the Moon](https://open.spotify.com/track/1s6081YVpuKRS4cZp5zyne) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Motel On the Moon](https://open.spotify.com/album/6Pbmoox4o7GVCyQDkgOWaX) | 3:58 | 2022-12-09 |  |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 | 2022-11-05 |
 | [Ms\. Fire](https://open.spotify.com/track/3iVmCauTAulRmUKIuh821l) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Ms\. Fire](https://open.spotify.com/album/03wuG8bYc2k2YR0r27vMzp) | 3:27 | 2021-12-31 | 2022-02-26 |
 | [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 | 2022-01-14 | 2022-02-12 |
@@ -694,7 +697,7 @@
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-07 | 2022-01-29 |
 | [Run Outta Somedays](https://open.spotify.com/track/7HslPMzF2fNFrdfEHQVh9n) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Run Outta Somedays](https://open.spotify.com/album/6ui7M9120cvOsCFTJrCz65) | 2:44 | 2022-02-11 | 2022-04-09 |
 | [Run with You](https://open.spotify.com/track/7zdJMnSuErpYnNgpHD2noL) | [Nolan Sotillo](https://open.spotify.com/artist/4NcwaEQYKWvOiZF8XhyxBQ) | [Run with You](https://open.spotify.com/album/4TbQZVsmwfiMEGx1GEaPLb) | 3:31 | 2021-12-31 | 2022-02-12 |
-| [running back](https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [running back / dirt on ‘em](https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt) | 3:07 | 2022-11-18 |  |
+| [running back](https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [running back / dirt on ‘em](https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt) | 3:07 | 2022-11-18 | 2022-12-10 |
 | [Sad](https://open.spotify.com/track/2h9TXJfGr4rKRm5SPs4DEs) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Sad](https://open.spotify.com/album/5ZMzBphtzLY90oPXAm5chP) | 3:15 | 2022-06-10 | 2022-09-17 |
 | [Same Beer Different Problem](https://open.spotify.com/track/2bLa8N2vtooX5Sc0r1NmzO) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Same Beer Different Problem](https://open.spotify.com/album/699sP9cMgoC77MayudRDkk) | 3:00 | 2022-04-29 | 2022-05-20 |
 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 | 2022-01-14 | 2022-03-26 |

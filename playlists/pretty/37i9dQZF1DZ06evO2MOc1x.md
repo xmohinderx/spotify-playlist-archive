@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,548 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,562 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 17 | [Thing Called Love](https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 |
 | 18 | [Home \- 2008 Remaster](https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:28 |
 | 19 | [Hell To Pay](https://open.spotify.com/track/5oBFPW3PpybYWSsvEuuGnv) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [A Fool To Care](https://open.spotify.com/album/4LzBJVxW5Pr77G7d4CrRbX) | 6:15 |
-| 20 | [Any Day Woman \- 2008 Remaster](https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:23 |
-| 21 | [Right Down The Line](https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 5:27 |
+| 20 | [Right Down The Line](https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 5:27 |
+| 21 | [Any Day Woman \- 2008 Remaster](https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:23 |
 | 22 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
 | 23 | [Not The Only One](https://open.spotify.com/track/13p06XYJaV05Q65hSU87jW) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:03 |
 | 24 | [Have A Heart](https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:49 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 34 | [Livin' for the Ones](https://open.spotify.com/track/37X2K4YYwEudXUnLA7xLrd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:04 |
 | 35 | [Good Man, Good Woman](https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:33 |
 | 36 | [Two Lives \- 2008 Remaster](https://open.spotify.com/track/5WDhUWoBMq0f03Nxl1yYpt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:49 |
-| 37 | [Too Long at the Fair \- 2008 Remaster](https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 2:58 |
+| 37 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
 | 38 | [Something's Got a Hold of My Heart](https://open.spotify.com/track/4cKrYwhGunX19sdbFZueAc) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 4:52 |
 | 39 | [Papa Come Quick \(Jody And Chico\)](https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 2:43 |
 | 40 | [Need You Tonight](https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 3:19 |
-| 41 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
+| 41 | [Too Long at the Fair \- 2008 Remaster](https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 2:58 |
 | 42 | [When We Say Goodnight](https://open.spotify.com/track/73dOXyOiMMVeO1JyrK2eik) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:00 |
 | 43 | [Can't Find My Way Home](https://open.spotify.com/track/7nIykpm45vKrsuW0KCEQ6i) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Gerald's Evil Game The Complete Fantasy Playlist](https://open.spotify.com/album/58iea9RDlr1v2yM7yh1788) | 3:07 |
 | 44 | [Love Letter](https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 49 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
 | 50 | [Kisses Sweeter than Wine](https://open.spotify.com/track/4cOOdma7wXLkuFomD0dyiC) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/64rpqujJSzvu5vn4xDT5k9) | 4:43 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBhZGUzY2UyNGEyNzUwZWE5YjU3Y2M0ZWM3N2RjNTIzMQ==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA2YTlkMGEyYmExODdjYWJkZjA0NTZmMDE1YjQ5Yzc1Yw==`

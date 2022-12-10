@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-274 songs - 18 hr 13 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
+276 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 | 2022-07-22 |  |
 | [Cuando Me Enamoro](https://open.spotify.com/track/7IUFDlflcQjHNxg8H0us34) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Sin Limites](https://open.spotify.com/album/35G5JSWM0oAFzTfXJK9Hti) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Cuando te conocí \(En Vivo\)](https://open.spotify.com/track/0jRxyj5xjSrFx2vfeefNnU) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Cuando Te Conocí \(en vivo\)](https://open.spotify.com/album/6D5BktudJt2JZfbRW08C4Y) | 3:02 | 2022-01-07 | 2022-07-09 |
-| [Cuarte Party](https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Cuarte Party](https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA) | 9:32 | 2021-12-24 |  |
+| [Cuarte Party](https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Cuarte Party](https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA) | 9:32 | 2021-12-24 | 2022-12-10 |
 | [Cuarte Party 2](https://open.spotify.com/track/20zrnW7QYFyc6ZtSpK6os2) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Cuarte Party 2](https://open.spotify.com/album/4YrGjcyKpiCAi85CZJ59sa) | 6:32 | 2021-12-24 | 2022-07-15 |
 | [Cuentale](https://open.spotify.com/track/5rwkGQ7koZIMFtHhOMEepL) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Fondo Blanco](https://open.spotify.com/album/1CxkaDggt0DPddN9DFLQB9) | 4:06 | 2021-12-24 | 2022-07-23 |
 | [Cuento Breve](https://open.spotify.com/track/06tzhAN6FRlL4HbR1X0ODE) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Cuento Breve](https://open.spotify.com/album/5mrJl1caIWSIpwLHXzeSX7) | 3:20 | 2022-02-11 | 2022-04-29 |
@@ -150,7 +150,7 @@
 | [Miel](https://open.spotify.com/track/7AZ7RDXiwt3TaNyNf54txQ) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Miel](https://open.spotify.com/album/1obdLtb9OxXlu5hZoruFJh) | 2:37 | 2022-04-29 | 2022-07-15 |
 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 | 2022-06-17 |  |
 | [Mientes / Un Dia Sin Ti](https://open.spotify.com/track/3dPreolNY6PUrSrOiWPhpg) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Karavana Quartetera](https://open.spotify.com/artist/6fJEIea2BOriiJ2G6W0rAB) | [Mientes / Un Dia Sin Ti](https://open.spotify.com/album/1QnUdLsiso5W7sl1Wo9hoO) | 4:14 | 2022-04-15 | 2022-06-18 |
-| [Mil Demonios \- En Vivo](https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Hoy Y Siempre \(En Vivo\)](https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI) | 3:29 | 2022-01-07 |  |
+| [Mil Demonios \- En Vivo](https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Hoy Y Siempre \(En Vivo\)](https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI) | 3:29 | 2022-01-07 | 2022-12-10 |
 | [Mira](https://open.spotify.com/track/3w292R2aL3DCGnyeOiaLed) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Mira](https://open.spotify.com/album/5mwAE79BFC6eTViMVWW60k) | 3:48 | 2022-05-20 | 2022-07-29 |
 | [Monotonia](https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Monotonia](https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR) | 2:22 | 2022-10-28 |  |
 | [Mujer malvada](https://open.spotify.com/track/121yzW3a3gcgOfiJ0SXX8p) | [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [100% Cuarteto Cordobes](https://open.spotify.com/album/3hc1GY13mjjZFgMYUAH0TW) | 4:00 | 2022-03-25 | 2022-04-21 |
@@ -205,6 +205,7 @@
 | [Quien Se Tomó Todo el Vino](https://open.spotify.com/track/0KZLWOKEM38ZYSV78Z6na1) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [El Bailarín](https://open.spotify.com/album/7pZrZlBBwfs5SrK6pmMyNP) | 5:09 | 2022-01-14 | 2022-05-07 |
 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 | 2021-12-24 |  |
 | [Quiero](https://open.spotify.com/track/4ZVTz5LdINDFrBoUnDy8VK) | [Diego Olmos](https://open.spotify.com/artist/0HhAQGZNZAvnu9RZQOTetx) | [Quiero](https://open.spotify.com/album/7uPZWrXpKKSwyPvK9peRyh) | 2:47 | 2022-08-26 | 2022-09-10 |
+| [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 | 2022-12-10 |  |
 | [Qué Se Siente](https://open.spotify.com/track/3M3VU3RPJmrjgIt4X3UsU3) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Qué Se Siente](https://open.spotify.com/album/3MdKZToIbpXYiQbzrvCBpG) | 4:00 | 2022-03-11 | 2022-06-21 |
 | [Ramito de violetas](https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 5:31 | 2021-12-24 |  |
 | [Recreo](https://open.spotify.com/track/6eZqovhe0LPyiphM1fU0uk) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Recreo](https://open.spotify.com/album/0FJ42fAcG3EDDqWWyRigI9) | 3:19 | 2021-12-24 | 2022-07-28 |
@@ -273,6 +274,7 @@
 | [Vuela](https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [La Fiesta Es De Primera](https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu) | 5:19 | 2021-12-24 |  |
 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 | 2021-12-24 | 2022-07-29 |
 | [Ya lo sabía](https://open.spotify.com/track/5hqxuK3VJuESk7V1TPt7UT) | [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Ya lo sabía](https://open.spotify.com/album/3bBKKJriXCCiBr0eDDBGR8) | 3:19 | 2021-12-24 | 2022-07-09 |
+| [Ya No Llora \- En Vivo](https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ya No Llora \(En Vivo\)](https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S) | 2:58 | 2022-12-10 |  |
 | [Ya No Quiero](https://open.spotify.com/track/5ZRjSlIgKzTtjaLgyVZ1jY) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Ya No Quiero](https://open.spotify.com/album/03xaq8TIlNDwh16ksZUSTV) | 4:06 | 2021-12-24 | 2022-07-28 |
 | [Ya No Te Quiero](https://open.spotify.com/track/3zTllWHBEwo5iVg93X6yJp) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Ya No Te Quiero](https://open.spotify.com/album/5VsZqx1ZG8mBny9Bs49zwv) | 4:59 | 2022-05-13 | 2022-07-28 |
 | [Ya no volverá](https://open.spotify.com/track/2CjunqLdUix6YPoXcm68bT) | [Diego Olmos](https://open.spotify.com/artist/0HhAQGZNZAvnu9RZQOTetx) | [Siempre en mi Vivirás](https://open.spotify.com/album/2sT3U5A85atGvCVZdOkXG6) | 4:02 | 2021-12-24 | 2022-07-25 |

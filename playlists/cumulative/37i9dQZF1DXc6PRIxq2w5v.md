@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: Thiagão
+> Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-135 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+136 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Verdade Liberta](https://open.spotify.com/track/6u2zDBpRjRbxt9uEScDL6K) | [Lucas Dias](https://open.spotify.com/artist/5USBdQSHskaPcny3qnL92S) | [A Verdade Liberta](https://open.spotify.com/album/4fEAswHgT41nIulijzo9WD) | 3:06 | 2022-03-22 | 2022-08-20 |
 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 | 2022-03-22 |  |
 | [Aff](https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:26 | 2022-09-19 |  |
-| [Ainda Não É o Fim](https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ainda Não É o Fim](https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7) | 2:41 | 2022-03-22 |  |
+| [Ainda Não É o Fim](https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ainda Não É o Fim](https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7) | 2:41 | 2022-03-22 | 2022-12-10 |
 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 | 2022-03-22 |  |
 | [ALMA e CORAÇÃO](https://open.spotify.com/track/6p2HlTzZqNnT5MUG0nDatb) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [ALMA e CORAÇÃO](https://open.spotify.com/album/5PMFsnpPROcW7rR3orYPoX) | 2:54 | 2022-10-28 | 2022-12-06 |
 | [Alto](https://open.spotify.com/track/6eFeusECAHuopsDZPeaVte) | [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7), [Curioso Beats](https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u) | [Alto](https://open.spotify.com/album/2u6pu9HyxZP9gxKXIZgIco) | 2:45 | 2022-06-24 |  |
@@ -90,6 +90,7 @@
 | [Metas e Versos \(feat\. Brunno Ramos\)](https://open.spotify.com/track/1Doa0Lxwyy3t5VXTVZFR9F) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Zack Vox](https://open.spotify.com/artist/0y7p9FFFrFIHUfSgaeF9hR), [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Metas e Versos \(feat\. Brunno Ramos\)](https://open.spotify.com/album/1lvWIINLaBBYpz419bFlF0) | 3:23 | 2022-03-22 |  |
 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 | 2022-03-22 |  |
 | [Montanha](https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Montanha](https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK) | 3:13 | 2022-03-22 |  |
+| [MORADIA](https://open.spotify.com/track/5BU7c2aD5wDoUg0vhY6zdn) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [borbabeatz](https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM) | [COLAPSO](https://open.spotify.com/album/3GbiPp0Xbi3yQNzC8WTENZ) | 2:08 | 2022-12-09 |  |
 | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/track/65WuhK6Xk2g6uvnLzxvthQ) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw) | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/album/2blQM5I7JF1xHtjQeyI7ID) | 3:45 | 2022-03-22 | 2022-08-20 |
 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 | 2022-10-21 |  |
 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 | 2022-03-22 |  |

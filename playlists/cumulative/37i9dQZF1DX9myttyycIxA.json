@@ -470,6 +470,28 @@
     },
     {
       "album": {
+        "name": "And Then Some",
+        "url": "https://open.spotify.com/album/4ajvbD7Ot0vGnb1UhwEaaa"
+      },
+      "artists": [
+        {
+          "name": "Pheeno",
+          "url": "https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD"
+        },
+        {
+          "name": "CHOO CHOO",
+          "url": "https://open.spotify.com/artist/5RwjJEdvi5Z6GpYHo15LA7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148392,
+      "name": "And Then Some",
+      "url": "https://open.spotify.com/track/4yaYAiUOKMJejDQW7N9VpX"
+    },
+    {
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/3gJQkqLEaJshEGIm3VK3Ea"
       },
@@ -1431,7 +1453,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 185109,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ"
@@ -1759,7 +1781,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 173133,
       "name": "Break!",
       "url": "https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI"
@@ -2773,6 +2795,24 @@
       "duration_ms": 391304,
       "name": "Contingency Song",
       "url": "https://open.spotify.com/track/1P9hAqqF31tXHr58dwv860"
+    },
+    {
+      "album": {
+        "name": "Control Theory",
+        "url": "https://open.spotify.com/album/0pTqApEaeKpZkskygWIXdf"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119172,
+      "name": "Control Theory",
+      "url": "https://open.spotify.com/track/5Kre0cCwtaS43DCuq7VOd3"
     },
     {
       "album": {
@@ -5094,6 +5134,24 @@
     },
     {
       "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/0FiV1vpjD4WdC4RD8V6N1p"
+      },
+      "artists": [
+        {
+          "name": "Billy Changer",
+          "url": "https://open.spotify.com/artist/0kGUJJ5ppQF2jtZabzrbVt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142011,
+      "name": "Good to Hear from You Johnny",
+      "url": "https://open.spotify.com/track/5w1hXrnVh9NU7w5NuhMnfh"
+    },
+    {
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -6252,6 +6310,24 @@
     },
     {
       "album": {
+        "name": "I Love You Too Always",
+        "url": "https://open.spotify.com/album/2gOBlC8onyvxyCMRrQ4zrH"
+      },
+      "artists": [
+        {
+          "name": "Dyne Side",
+          "url": "https://open.spotify.com/artist/4n6ycdTUrxvE0umZTB67IB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "I Love You Too Always",
+      "url": "https://open.spotify.com/track/1SXrSdHGaZkzt3HlmgPNUX"
+    },
+    {
+      "album": {
         "name": "I Miss That",
         "url": "https://open.spotify.com/album/4MuCtbcpIOpHNGiD8Vd23o"
       },
@@ -6908,6 +6984,24 @@
     },
     {
       "album": {
+        "name": "Judy Gnarland",
+        "url": "https://open.spotify.com/album/6KmgHZ5aSYu1gS807MYQ3K"
+      },
+      "artists": [
+        {
+          "name": "Stevie Zita",
+          "url": "https://open.spotify.com/artist/799k56wbyqhZaDazBF8bNY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "Judy Gnarland",
+      "url": "https://open.spotify.com/track/1Wy3EOJ8GrXC1XuYfdNJBk"
+    },
+    {
+      "album": {
         "name": "Around Again / Junior Day League",
         "url": "https://open.spotify.com/album/5ly8lNB38yHxAoGFvS7mTc"
       },
@@ -7363,6 +7457,24 @@
       "duration_ms": 164516,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5NsvTj8pKHyVIN3bDrqhzQ"
+    },
+    {
+      "album": {
+        "name": "Let Down",
+        "url": "https://open.spotify.com/album/3aPAIfhcyvm44m97fepHU5"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207153,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/48AdYz5KuKxC9ZO9gKiIqZ"
     },
     {
       "album": {
@@ -9530,6 +9642,24 @@
     },
     {
       "album": {
+        "name": "reach u",
+        "url": "https://open.spotify.com/album/0PPAvDTaRrsKWiyyaLtYMN"
+      },
+      "artists": [
+        {
+          "name": "Wilby",
+          "url": "https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145382,
+      "name": "reach u",
+      "url": "https://open.spotify.com/track/2lSikh7bjie1raXT9US4iW"
+    },
+    {
+      "album": {
         "name": "Real Pain",
         "url": "https://open.spotify.com/album/18FnwNR5eZ5RF1jRFnM7IB"
       },
@@ -10006,6 +10136,24 @@
     },
     {
       "album": {
+        "name": "Separate",
+        "url": "https://open.spotify.com/album/46yB7lebTWqoQv3tO09JVT"
+      },
+      "artists": [
+        {
+          "name": "Animal House",
+          "url": "https://open.spotify.com/artist/00w16W0gQFQuBJv6EpxjqK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326683,
+      "name": "Separate",
+      "url": "https://open.spotify.com/track/7xDXYH1X9IQ7dz3eHfF3n4"
+    },
+    {
+      "album": {
         "name": "Sepsis",
         "url": "https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs"
       },
@@ -10147,6 +10295,24 @@
       "duration_ms": 159480,
       "name": "Shining Armor",
       "url": "https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG"
+    },
+    {
+      "album": {
+        "name": "drama",
+        "url": "https://open.spotify.com/album/5UG9KN0cHdMNLvLQI3OxLd"
+      },
+      "artists": [
+        {
+          "name": "Surf Rock Is Dead",
+          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223686,
+      "name": "show me the world",
+      "url": "https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig"
     },
     {
       "album": {
@@ -12030,6 +12196,24 @@
     },
     {
       "album": {
+        "name": "Tightrope",
+        "url": "https://open.spotify.com/album/5dOHA7hURlAbccdgpxmhP7"
+      },
+      "artists": [
+        {
+          "name": "Improvement Movement",
+          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/7aJxfa4BHhXR9mfexEbLEc"
+    },
+    {
+      "album": {
         "name": "Good Old",
         "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
@@ -12309,7 +12493,7 @@
           "url": "https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq"
         }
       ],
-      "date_added": "2022-12-08",
+      "date_added": "2022-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185817,

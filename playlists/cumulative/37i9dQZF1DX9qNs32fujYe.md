@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Metallica
 
-679 songs - 2 day 2 hr 36 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+680 songs - 2 day 2 hr 40 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,7 +597,8 @@
 | [The Toxic Waltz](https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Fabulous Disaster](https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy) | 4:50 | 2022-08-19 |  |
 | [The Undertaker](https://open.spotify.com/track/3uBjEUnGmq3JOhCEjFzHw8) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [The Undertaker](https://open.spotify.com/album/2Ik9ocKBxRseYSLsd6FAId) | 5:38 | 2021-12-17 | 2022-07-29 |
 | [The Unkillable Soldier](https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Unkillable Soldier](https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte) | 4:11 | 2022-02-11 | 2022-05-28 |
-| [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 | 2022-05-20 |  |
+| [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 | 2022-05-20 | 2022-12-10 |
+| [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF) | 3:54 | 2022-12-09 |  |
 | [The World Is Burning](https://open.spotify.com/track/62d3zAqzjE3p0yMBdXgTjc) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [The World Is Burning](https://open.spotify.com/album/73MEQygFKwruE4aIxmA3Lf) | 4:12 | 2021-12-17 | 2022-06-19 |
 | [The Writing On The Wall](https://open.spotify.com/track/20sXcaJkWP0DdzA58Colw3) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 6:13 | 2022-07-13 | 2022-07-29 |
 | [The Writing On The Wall](https://open.spotify.com/track/6lIhdsIjY6iFPq6qZW2LIP) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 6:13 | 2022-07-13 | 2022-11-17 |

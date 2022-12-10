@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-231 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+236 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Hérésie](https://open.spotify.com/track/5VRdPjbS4siDIpsphBFEgj) | [Tyle](https://open.spotify.com/artist/4Y8yE7Nw0XFke24ihi61H1) | [Hérésie](https://open.spotify.com/album/6whZ3bodKeIW9oOI1dpiju) | 4:13 | 2022-06-17 |  |
 | [Hügel des Nordens](https://open.spotify.com/track/5VHzu2yKW2AKQoC3KJPkXL) | [Dolorès Lucy](https://open.spotify.com/artist/6rJhGZNdNEzzZYkDw7IORf) | [Hügel des Nordens](https://open.spotify.com/album/0hKDxub1dBGEwqhwJmo5yi) | 2:06 | 2022-06-17 |  |
 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 | 2022-06-17 | 2022-09-09 |
+| [Il Tramonto](https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Il Tramonto](https://open.spotify.com/album/2Qx4P5RKFaxEnakbDE531a) | 2:28 | 2022-12-09 |  |
 | [im Kaisertal](https://open.spotify.com/track/6eV6NSKgbrtlmJf7FiSAUm) | [Edgar Rossiter](https://open.spotify.com/artist/4yNmJJaUNfBcrEpwHfLdDO) | [Regenfarben](https://open.spotify.com/album/6BASRJtcxapIEPQvjbEZFQ) | 3:37 | 2022-06-17 |  |
 | [In Madeira](https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8) | [Emil Dahl](https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6) | [In Madeira](https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr) | 1:45 | 2022-06-17 |  |
 | [In weiter Ferne](https://open.spotify.com/track/5NQ39FelcVKRWkGZHKUWVe) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 3:28 | 2022-06-17 | 2022-09-09 |
@@ -132,6 +133,7 @@
 | [Mino Madrid](https://open.spotify.com/track/039lCWzjPxX289MSTfim74) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Mino Madrid](https://open.spotify.com/album/2i1BOMeyUaOPrhCYZdHxAU) | 1:48 | 2022-08-05 |  |
 | [Mirage](https://open.spotify.com/track/767vDO0LnaX7lzkK7i0qOG) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [Mirage](https://open.spotify.com/album/4F9QGuVlR08gdhYyJfqdid) | 3:03 | 2022-06-17 |  |
 | [Mises](https://open.spotify.com/track/0xLmO0851Cwyr9aQEjie6v) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Mises](https://open.spotify.com/album/2jMiVD9mNKLi41SWlyspHP) | 2:03 | 2022-06-17 |  |
+| [Moment Of Fire](https://open.spotify.com/track/2RGOruedyWCXpsUGlyDKtf) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Moment Of Fire](https://open.spotify.com/album/6K4zOmK82dnt3b4dos3Uuh) | 2:18 | 2022-12-09 |  |
 | [Moments](https://open.spotify.com/track/17Ic3HG8GiER4PpGvB2hIw) | [Dimash B](https://open.spotify.com/artist/1AoOXH2zm8flhCVLaeZPcs) | [Moments](https://open.spotify.com/album/2aWKPMuPxic24SB2RPRyp9) | 1:54 | 2022-06-17 |  |
 | [Monte de Fuego](https://open.spotify.com/track/7guIP6Tpq7QYQNapYYpC0K) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Monte de Fuego](https://open.spotify.com/album/4xPAVzwGR2Z3b6pMkvQVPI) | 3:15 | 2022-06-17 |  |
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-06-17 |  |
@@ -160,9 +162,11 @@
 | [passing memories](https://open.spotify.com/track/3AGayCmS2tutGPmmCkNY1k) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [passing memories](https://open.spotify.com/album/2Mxaff7EkFAZtFDu3QtkUs) | 1:58 | 2022-09-09 |  |
 | [Path](https://open.spotify.com/track/1Wz9by58bwMopMC2QPN8Z8) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Chris Embers](https://open.spotify.com/artist/78YcYzYQFoC44mT1rL0dsB) | [Path](https://open.spotify.com/album/0DKq6qtvTHmsJPU1OzyAZK) | 2:36 | 2022-06-17 |  |
 | [Pellegrino](https://open.spotify.com/track/0mNMNk8NPcay74AHyFwzfX) | [Marega](https://open.spotify.com/artist/0Q9yTuKnZnnCAdOpAMmTjl) | [Pro Noel](https://open.spotify.com/album/0gPbklN0zJ4cZZbT0LjeAK) | 2:51 | 2022-06-17 |  |
+| [Pillow Hymn](https://open.spotify.com/track/2Etxnz6V6sZTsgaa8W6w7g) | [Laurent Ruaud](https://open.spotify.com/artist/0vCWZOklQJPdWDIMiYwP6z) | [Pillow Hymn](https://open.spotify.com/album/740VMPcRZ0LCxILPwzsPXy) | 1:29 | 2022-12-09 |  |
 | [Plain Sight](https://open.spotify.com/track/1juq7X9kZkBQN7cDo7xHW8) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Plain Sight](https://open.spotify.com/album/5uef4kiFCm6nkNiqO6LoxT) | 2:07 | 2022-06-17 |  |
 | [Poem No\. 5](https://open.spotify.com/track/4LEyo5Sftmy9wDZzueIvay) | [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Poem No\. 5](https://open.spotify.com/album/5m91k8wrHbFwEDlwPNgik2) | 1:33 | 2022-06-17 | 2022-09-03 |
 | [Port Blair](https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Port Blair](https://open.spotify.com/album/1URrRnZNIpkpRRVGcOJszd) | 2:34 | 2022-10-07 |  |
+| [Porte moi](https://open.spotify.com/track/4A6k2vAHalGrOKobg3yxna) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Porte moi](https://open.spotify.com/album/24kciXvVVsVoNmEm1qRv8z) | 2:10 | 2022-12-09 |  |
 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 | 2022-06-17 |  |
 | [Prelude No\. 22](https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Prelude No\. 22](https://open.spotify.com/album/6vz3YMF0T9VYiYqCbGWjNL) | 2:43 | 2022-11-18 |  |
 | [Preludio, Op\. 26](https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D) | [Ernesto García de León](https://open.spotify.com/artist/7khoscfcFr6vJQCBWxXAEn), [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse) | [Preludio, Op\. 26](https://open.spotify.com/album/0qwyKk8uTrRO8Y4DpO4mNp) | 2:54 | 2022-06-17 |  |
@@ -177,6 +181,7 @@
 | [Rome Tivoli](https://open.spotify.com/track/5cjoEk6N6psm1BO9Qdd4ML) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Rome Tivoli](https://open.spotify.com/album/2PqlKRq3A5LJlV7G8NBkom) | 1:51 | 2022-09-09 |  |
 | [Romeo](https://open.spotify.com/track/6p6SkdKACD6Yxv4OTF3RRi) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Romeo](https://open.spotify.com/album/3FY0f4yVshMeNhh9VwYZtl) | 2:57 | 2022-10-07 |  |
 | [Roots](https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Roots](https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD) | 3:13 | 2022-06-17 |  |
+| [Rosales](https://open.spotify.com/track/2LLDiGysmlUcfzuvjruvOM) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Rosales](https://open.spotify.com/album/1b3lqDesHJ4gKr3WawAHrm) | 4:41 | 2022-12-09 |  |
 | [Rosarium](https://open.spotify.com/track/3EGgZKSXFfD9YdbZ2Zvzf9) | [Twan Bracco Gartner](https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C) | [Rosarium](https://open.spotify.com/album/3tHJOtzuJHpngvUnvsHBXL) | 2:25 | 2022-06-17 |  |
 | [Sage](https://open.spotify.com/track/3XsO2i5UGNZfSiyd3sGJ1Y) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Sage](https://open.spotify.com/album/29Yl3TO5JAkkkoiqf8iEOd) | 2:43 | 2022-08-05 |  |
 | [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 | 2022-10-14 |  |

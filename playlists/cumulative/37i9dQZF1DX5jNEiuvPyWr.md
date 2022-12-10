@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : joysad
 
-117 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+118 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [OTREMOND](https://open.spotify.com/track/2nXui3vCCRdX9Egbsn5Irx) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [OTREMOND](https://open.spotify.com/album/3BXqdqLGMeVCEXKVOzir2e) | 3:25 | 2022-10-13 | 2022-11-25 |
 | [Oublié](https://open.spotify.com/track/5u6KWtbJeq8QakE5BJ6f8e) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:07 | 2022-07-21 | 2022-08-26 |
 | [PARADIS](https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [PARADIS](https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2) | 2:58 | 2022-10-27 |  |
+| [Paradis Bleu](https://open.spotify.com/track/6d2q14a2wY6HUeLApYLdoo) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Paradis Bleu](https://open.spotify.com/album/2KDfg8dRxwo3Y6506NqCtZ) | 3:17 | 2022-12-08 |  |
 | [PARADOXE](https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [PARADOXE](https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh) | 3:35 | 2022-07-14 |  |
 | [Perdu](https://open.spotify.com/track/2YPxuRn3QTh4vQ6Qfh2EpG) | [GOYA](https://open.spotify.com/artist/2qq8zPVsSnIZqvmG09oFRr) | [Perdu](https://open.spotify.com/album/0TPzjKqIXdyoxIeSlmXA1y) | 3:32 | 2022-07-14 | 2022-07-22 |
 | [Perdu d'avance](https://open.spotify.com/track/1kXMucU97he5tcBgCR5o4v) | [Ramses](https://open.spotify.com/artist/5v2PdLR4Jcs31CC1GJIA78) | [Perdu d'avance](https://open.spotify.com/album/5gQLcjIumwemTPdbTv79ik) | 2:54 | 2022-09-08 | 2022-11-18 |

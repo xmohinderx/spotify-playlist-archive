@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: K Motionz & Emily Makis",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Skibadee & Gardna",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 216093,
       "name": "Censor (feat. Popcaan & IRAH)",
       "url": "https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC"
@@ -1179,7 +1179,7 @@
           "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
         }
       ],
-      "date_added": "2022-12-03",
+      "date_added": "2022-12-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146632,
@@ -1203,6 +1203,28 @@
       "duration_ms": 157521,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/7ozVjHGiCPXJ8I9ktvWakW"
+    },
+    {
+      "album": {
+        "name": "Clart",
+        "url": "https://open.spotify.com/album/4rF8XTOzNlvz7rovZE9jX4"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126258,
+      "name": "Clart",
+      "url": "https://open.spotify.com/track/3uyEfOe9WtKJztamx4FaUL"
     },
     {
       "album": {
@@ -1617,7 +1639,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 227658,
       "name": "Division",
       "url": "https://open.spotify.com/track/5nhbj6BKDgXoqnqWw8XHp4"
@@ -1883,6 +1905,28 @@
       "duration_ms": 165000,
       "name": "Estate Of Mind",
       "url": "https://open.spotify.com/track/4FyVz5AFtAxIBfrW3usIcQ"
+    },
+    {
+      "album": {
+        "name": "Every Time That I Land (Skibadee Version)",
+        "url": "https://open.spotify.com/album/6vEGi0naSYvX8MWyPJOSJp"
+      },
+      "artists": [
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        },
+        {
+          "name": "Skibadee",
+          "url": "https://open.spotify.com/artist/5gXXODq8Y20txFk5hJxBUa"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199502,
+      "name": "Every Time That I Land - Skibadee Version",
+      "url": "https://open.spotify.com/track/4j8x59izlukiKfPgW4rGHq"
     },
     {
       "album": {
@@ -3636,6 +3680,24 @@
     },
     {
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134305,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
+    },
+    {
+      "album": {
         "name": "Long As You Can",
         "url": "https://open.spotify.com/album/2BR8J8mBaQgoOmHE8TJEE3"
       },
@@ -4713,7 +4775,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 198620,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0yqU5tPByI1uLX5vIB7XO7"

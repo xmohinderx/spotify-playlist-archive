@@ -4,7 +4,7 @@
 
 > canzoni da gridare ❤️‍🩹 yungblud in cover
 
-325 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+326 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [SOTTOTERRA//](https://open.spotify.com/track/5rnHCNcAvweaHKlq3o3a2u) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [SOTTOTERRA//](https://open.spotify.com/album/160CqdV8jR90WFvl0jbMDs) | 2:23 | 2022-09-01 | 2022-10-14 |
 | [Sparami un colpo al cuore](https://open.spotify.com/track/1O7o3tlXWEmNNrjWKQwseI) | [Jeffery Idol](https://open.spotify.com/artist/6tZcPQ0P1rUimZSMRGDaeG) | [Sparami un colpo al cuore](https://open.spotify.com/album/09Iyq77g2P8KK9MiKgu9Yj) | 2:53 | 2022-06-02 | 2022-10-14 |
 | [Specchio Riflesso](https://open.spotify.com/track/63cI08KGEjjV6OqveeTWPS) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Specchio Riflesso](https://open.spotify.com/album/4azjxCDmT7raj2ytymz9bG) | 2:47 | 2022-05-31 | 2022-09-23 |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-30 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-30 | 2022-12-10 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-08 |  |
 | [Stanotte](https://open.spotify.com/track/5TUMkiGR2gyObPiOOdblD5) | [OEL](https://open.spotify.com/artist/6ReRo5S4R7Wu4ZmHYgA7j8), [Luca Vita](https://open.spotify.com/artist/4vWXB1YlW647ptnuwwjaiJ) | [Stanotte](https://open.spotify.com/album/2FtZxurKu7EIEbATUNoZEe) | 2:31 | 2022-05-19 | 2022-05-27 |
 | [STANOTTE](https://open.spotify.com/track/3XfC4Z9zd7zqumicT5ncwZ) | [SCICCHI](https://open.spotify.com/artist/1RZTru4OtYVGVs0EsX3639), [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [OCCHI DIVERSI STESSI LIVIDI](https://open.spotify.com/album/40BvGa3B1yjcGZ5FEySYja) | 2:16 | 2022-09-19 | 2022-10-14 |
 | [Stanotte](https://open.spotify.com/track/1S4ctiUy9JfEbRbMJPJh06) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Stanotte](https://open.spotify.com/album/74k1CMQ214lGInICZ0Mk7K) | 2:17 | 2022-10-06 |  |

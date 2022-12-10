@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,650 likes - 100 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,885 likes - 100 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 99 | [Out of Focus \(feat\. Zoot Woman\) \- Âme Remix](https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 6:24 |
 | 100 | [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 |
 
-Snapshot ID: `MTY3MDQ2MDc4NSwwMDAwMDAwMDJhODMyZjE5NzE1NmNkNDkwZmViY2FkNGY1ZjdmMzRi`
+Snapshot ID: `MTY3MDYxNTAzOCwwMDAwMDAwMDI3M2YwMWU4YmNkNGNlZTdiNzBlY2ZkY2M5MGFhZjM1`

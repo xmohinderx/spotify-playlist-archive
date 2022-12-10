@@ -4,7 +4,7 @@
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-101 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/0tIR1F4TAVMZPY4NE1Ks1b)
+102 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/0tIR1F4TAVMZPY4NE1Ks1b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Eat Every Bean and Pea On Your Plate](https://open.spotify.com/track/35VWkcDXuptVfuMCP8B1xy) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Eat Every Bean and Pea On Your Plate](https://open.spotify.com/album/6TO9Na7oOfWU2oXkYawv7O) | 2:40 | 2021-09-23 |  |
 | [Everybody Wash](https://open.spotify.com/track/6awn1KS0M5mhC4AZEHBdYd) | [Bert & Ernie](https://open.spotify.com/artist/6Loe8q8jlgEarCXh0C4ceE) | [Healthy Habits Collection](https://open.spotify.com/album/4SCR1v8MjdIeCnVej0N2QD) | 1:49 | 2021-09-23 | 2022-07-29 |
 | [Everybody Wash](https://open.spotify.com/track/2wbXooFlbk0HyoPkGFPeq0) | [Bert & Ernie](https://open.spotify.com/artist/6Loe8q8jlgEarCXh0C4ceE), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 1:49 | 2022-07-08 |  |
+| [Feeling Thankful](https://open.spotify.com/track/1NbZ40TzTKFdGLhcVoRG8p) | [Lingokids](https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O) | [Feeling Thankful](https://open.spotify.com/album/2h7S8wRJ1JAOC8GOFKcDd3) | 2:10 | 2022-12-09 |  |
 | [Get Ready!](https://open.spotify.com/track/4SgACaaXujpvB2xwyWWmUx) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mornings](https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh) | 1:41 | 2021-09-23 |  |
 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 | 2021-09-23 |  |
 | [Golden Slumbers II](https://open.spotify.com/track/5jABwS9XsRXRWyXLiQHXfG) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Olivia](https://open.spotify.com/artist/4zah4rU5OUBevujURjnSwK) | [Sesame Street: Sleepytime Bird](https://open.spotify.com/album/3ui1XUEdB8yEsUsErwagLZ) | 2:53 | 2021-09-23 | 2022-07-29 |

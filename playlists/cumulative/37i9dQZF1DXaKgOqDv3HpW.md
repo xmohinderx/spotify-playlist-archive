@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-205 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+206 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Moon Shimmer](https://open.spotify.com/track/7xhxmR9qab96Gou7NsKkPh) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Majestic Dream](https://open.spotify.com/album/6BrhzPox0p0uumdK466Vc9) | 2:32 | 2022-02-18 |  |
 | [Morning Reflection](https://open.spotify.com/track/444EJ06sxk2RAyemHmO5OM) | [Mikael Robbins](https://open.spotify.com/artist/68uqJ5ki8H7F4SHIh4kubp) | [Morning Reflection](https://open.spotify.com/album/5Je7r02QkjH8nLcEkminFc) | 3:49 | 2022-02-18 |  |
 | [Movements of Dimensions](https://open.spotify.com/track/7BQDfK8Emfh80YJuvoGrb4) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [The One We Got](https://open.spotify.com/album/1dAqoThlD7EKzg0Kg03NY3) | 2:40 | 2022-02-18 |  |
-| [My Father's Tears](https://open.spotify.com/track/0pFAWeCiim0NCmwRgbg1Q7) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [My Father's Tears](https://open.spotify.com/album/4YdXelsfVbqox0h7DW4HaG) | 1:40 | 2022-02-18 |  |
+| [My Father's Tears](https://open.spotify.com/track/0pFAWeCiim0NCmwRgbg1Q7) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [My Father's Tears](https://open.spotify.com/album/4YdXelsfVbqox0h7DW4HaG) | 1:40 | 2022-02-18 | 2022-12-10 |
 | [My Road](https://open.spotify.com/track/69rn7QWmrgXcXPSaO2tVFZ) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [My Road](https://open.spotify.com/album/6Iq3praO2HtKnUk6fRvGbf) | 2:58 | 2022-02-18 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2022-02-18 |  |
 | [Nepenthe](https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Nepenthe](https://open.spotify.com/album/7ARp3k61xr4HZrXTQVboW7) | 2:31 | 2022-02-18 |  |
@@ -143,7 +143,7 @@
 | [Otro amanecer](https://open.spotify.com/track/7CbU1onF6ME4SgRvV21d9j) | [Uli Polli](https://open.spotify.com/artist/1cPGcLr27NVdDGSzNWsxbY) | [Otro amanecer](https://open.spotify.com/album/3b4LQ2PMmm2dlCXqJcrEG3) | 3:02 | 2022-02-18 |  |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2022-02-18 |  |
 | [Peace of Mind](https://open.spotify.com/track/0KKg1XFSet2uywfBf6BS6B) | [Mikkel Boyer](https://open.spotify.com/artist/1HhdV78nBxhhXAnJKVDEu8) | [Peace of Mind](https://open.spotify.com/album/58R9PTSSIpYohBQHqXwSFs) | 2:24 | 2022-02-18 |  |
-| [Peaceful Journey](https://open.spotify.com/track/2w2TNG4SXWwRAPiHZoRgnw) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Peaceful Journey](https://open.spotify.com/album/7lxqmEkwnv3BkHhFj9Yqx7) | 2:11 | 2022-02-18 |  |
+| [Peaceful Journey](https://open.spotify.com/track/2w2TNG4SXWwRAPiHZoRgnw) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Peaceful Journey](https://open.spotify.com/album/7lxqmEkwnv3BkHhFj9Yqx7) | 2:11 | 2022-02-18 | 2022-12-10 |
 | [Peaceful Memory](https://open.spotify.com/track/3F8pwlF36S14zSKLfWH6LZ) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Peaceful Memory](https://open.spotify.com/album/0ynJFurIoUTJidkBgSGy1t) | 2:53 | 2022-02-18 |  |
 | [Peaceful Mind](https://open.spotify.com/track/1WibRGaemUausx1GX9VPhv) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Trust](https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk) | 3:20 | 2022-02-18 |  |
 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2022-02-18 |  |
@@ -159,6 +159,7 @@
 | [Ritualer](https://open.spotify.com/track/0WzlQIFD0Qi8QeTbAjshZA) | [Restorative](https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i) | [Ritualer](https://open.spotify.com/album/4C7par0bpvzdvWlrsRRyd0) | 2:22 | 2022-03-21 |  |
 | [Room For Thoughs](https://open.spotify.com/track/6b9mpDYINPE5wKQuRKuza1) | [Inessa Merton](https://open.spotify.com/artist/3lZy0xoBMpN0My5d0xKcxb) | [Room For Thoughs](https://open.spotify.com/album/3BRR6uX7qSjZiWikMe9Fwh) | 2:50 | 2022-02-18 |  |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-21 |  |
+| [Sami Lok](https://open.spotify.com/track/6ad8ExozmvLsI8sOZgUqFe) | [Nama Mantra](https://open.spotify.com/artist/4ou402f5ElV7ZVn39kXvxU) | [Sami Lok](https://open.spotify.com/album/45h8HZSocufB5d9hIzyWJC) | 2:44 | 2022-12-09 |  |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2022-02-18 |  |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2022-02-18 | 2022-10-01 |
 | [Satori \- Without Ambience](https://open.spotify.com/track/2lHPRp0fGmU59ArT2z2t25) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Satori](https://open.spotify.com/album/3C3HvzERaQbTUVh8gz2xK8) | 3:37 | 2022-02-18 | 2022-10-01 |
@@ -191,7 +192,7 @@
 | [The Poet](https://open.spotify.com/track/7D6gPAYZZlgLjd8HeSkJzW) | [Low Moon](https://open.spotify.com/artist/4tMuu3fTr9yyH3I6TQOjHg) | [The Poet](https://open.spotify.com/album/2m6tsgiiI7al4om3eTbLD2) | 3:19 | 2022-02-18 |  |
 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 | 2022-02-18 |  |
 | [Tidal Flow](https://open.spotify.com/track/63yQS5uf762DJHLssPlrNw) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:42 | 2022-02-18 |  |
-| [Towards Calm](https://open.spotify.com/track/4izjPsdgh9xFe2eg7GgAtD) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Resolution](https://open.spotify.com/album/2iMKanYYDayHuy5toA3I8y) | 4:02 | 2022-02-18 |  |
+| [Towards Calm](https://open.spotify.com/track/4izjPsdgh9xFe2eg7GgAtD) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Resolution](https://open.spotify.com/album/2iMKanYYDayHuy5toA3I8y) | 4:02 | 2022-02-18 | 2022-12-10 |
 | [Ulayaw](https://open.spotify.com/track/6mk4Fk0a1ZEQZTBBQBccIm) | [Elise Ryen](https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc) | [Ulayaw](https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd) | 3:08 | 2022-02-18 |  |
 | [Unified](https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Together As One](https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ) | 2:45 | 2022-05-05 |  |
 | [Unknown Distance](https://open.spotify.com/track/1fFIHg6d5sSwqN2LQEFE9Z) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hollow Sunset](https://open.spotify.com/album/0cb5WIpntE0pAqnBvbGL1Y) | 2:35 | 2022-02-18 |  |

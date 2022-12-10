@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,154 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,165 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 49 | [Cut Me Up Jenny](https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:52 |
 | 50 | [Nothing At All](https://open.spotify.com/track/0IKqfoRn3Lp8gGnM8IcrcD) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:59 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDAyY2RlZjRlMTllMzQ2ZjgzZDJlMGVkZGJjY2VlZGUwZg==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA1MDljMjBjYTk3MWE1MTE2NWU3MTcwZDJiNTkwMzI1YQ==`

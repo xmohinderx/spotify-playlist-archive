@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 138506,
       "name": "First Time I Met The Blues - Single Version",
       "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
@@ -544,6 +544,28 @@
     },
     {
       "album": {
+        "name": "The Blues Don't Lie",
+        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "Gunsmoke Blues (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/5fqugbggilsnWCohZhTSdA"
+    },
+    {
+      "album": {
         "name": "Gunsmoke Blues (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
       },
@@ -559,7 +581,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 188973,
       "name": "Gunsmoke Blues (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
@@ -845,7 +867,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 135546,
       "name": "Messin' with the Kid",
       "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
@@ -943,7 +965,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 446080,
       "name": "My Time After Awhile - Live",
       "url": "https://open.spotify.com/track/6GcQV50jII3TVIhkMmk6qI"
@@ -1059,7 +1081,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 180772,
       "name": "Sit and Cry (The Blues)",
       "url": "https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk"
@@ -1359,7 +1381,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 330360,
       "name": "The World Needs Love",
       "url": "https://open.spotify.com/track/5NYYOgId5AKiVlp2GPt1vg"
@@ -1377,7 +1399,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 243800,
       "name": "Thick Like Mississippi Mud",
       "url": "https://open.spotify.com/track/1fgZiaEwBM4kWspi3Ay0kU"

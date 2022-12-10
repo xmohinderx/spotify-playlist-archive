@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through melodic techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,793 likes - 75 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,334 likes - 75 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 74 | [Unconventional](https://open.spotify.com/track/1JlWt0i5IvccZPa5VslXaS) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Unconventional Ride](https://open.spotify.com/album/4H2UcxgnKoeE78H5j6RWNq) | 6:39 |
 | 75 | [Acumulee](https://open.spotify.com/track/3Zros7lzYTaBOZTwV9Ex3u) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Four to the Floor 14](https://open.spotify.com/album/0CwCIOyY2ThLbis0aVnjMm) | 10:48 |
 
-Snapshot ID: `MTY3MDM0NDQzMiwwMDAwMDAwMDJiOTQ3MTk0NTlkMDNmMzdlZjMwZTg1ZWYzMDI5MmVl`
+Snapshot ID: `MTY3MDYxNTM2MywwMDAwMDAwMDE5ODJmODZlMzU3NmNiNTU0MTE4NmU0YTIxMjZiODc3`

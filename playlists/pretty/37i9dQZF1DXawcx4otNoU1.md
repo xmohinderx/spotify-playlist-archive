@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,779 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,987 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Þerney \(One Thing\)](https://open.spotify.com/track/4hq3eYHlkHhcD70jwgZQhE) | [Pascal Pinon](https://open.spotify.com/artist/6vuHXpySAbiBH0BlWpznYZ) | [Twosomeness](https://open.spotify.com/album/44pxsSkBHvNDm2H5LiamIU) | 3:37 |
 | 150 | [Meteor Showers](https://open.spotify.com/track/1YJtGzArwMvryrDMN0sNRB) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Meteor Showers](https://open.spotify.com/album/6WiiRowuPqRSFWizLUHKel) | 3:40 |
 
-Snapshot ID: `MTY2ODc3MjgwMCwwMDAwMDAwMDM2MmJhMjNkNTI4YTI0MmFiYzc0MWE4YjAzOGNiZDYy`
+Snapshot ID: `MTY3MDU2NjYxOCwwMDAwMDAwMDc1MzkxNDJhNmJiOTllZDVhMDAzNmYyZTE3M2I1YWM0`

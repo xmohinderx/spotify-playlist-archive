@@ -4,7 +4,7 @@
 
 > Let these songs soundtrack your busy wedding season.
 
-48 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/0kmAjHvJvbuKLD5ubLOeNo)
+49 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/0kmAjHvJvbuKLD5ubLOeNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Navrai Majhi](https://open.spotify.com/track/73b9wDijCUpicQUzrc47EY) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Neelambari Kirkire](https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU), [Natali Di Luccio](https://open.spotify.com/artist/672316o5Y63QCzOkXIth5w) | [English Vinglish](https://open.spotify.com/album/2uT4K3kAtYkmvzxVDNKc6U) | 4:22 | 2021-10-29 |  |
 | [Pallo Latke](https://open.spotify.com/track/6JNluWWlzWmrW1LKR5X2SN) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL) | [Shaadi Mein Zaroor Aana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Mpodk3gBVn1eSAVlfbci4) | 4:56 | 2021-10-29 |  |
 | [Punjabi Wedding Song](https://open.spotify.com/track/69iDTIABXobqbl8zJOp8dq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:53 | 2021-10-29 |  |
+| [Ra Ra Reddy](https://open.spotify.com/track/3CltdQnB1NJuE5khm0d6r7) | [Tarannum Mallik Jain](https://open.spotify.com/artist/4ZourJRcQTpIL5haRgvyWl) | [Macharla Chunaav Kshetra \(M.C.K\)](https://open.spotify.com/album/0qRXOBFcg6JaeECfILhtvz) | 4:19 | 2022-12-09 |  |
 | [Radha](https://open.spotify.com/track/6f7zyAEUCZuvX4Zty62Z5o) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 5:41 | 2021-10-29 |  |
 | [Rum Whisky \(From "Vicky Donor"\)](https://open.spotify.com/track/2IbvIRyVjgKOOTn3DJuOk9) | [Akshay Verma](https://open.spotify.com/artist/3ccCdve0mLFea7EwmUiY06) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:04 | 2021-10-29 |  |
 | [Saajanji Ghar Aaye](https://open.spotify.com/track/5yDC62x6y5vZc32PzULCeU) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 7:15 | 2021-10-29 |  |

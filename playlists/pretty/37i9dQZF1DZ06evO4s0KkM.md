@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,572 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,617 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 33 | [Fortunate Son](https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 2:38 |
 | 34 | [The Auld Triangle](https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:41 |
 | 35 | [Kiss Me I'm \#!@'faced](https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 5:34 |
-| 36 | [For Boston](https://open.spotify.com/track/7GnGIJAJPwzaU2C7IXnlxp) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 1:33 |
-| 37 | [Caught In A Jar](https://open.spotify.com/track/1qqu8COuWRIDUpMLrYKRou) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 |
+| 36 | [Caught In A Jar](https://open.spotify.com/track/1qqu8COuWRIDUpMLrYKRou) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 |
+| 37 | [For Boston](https://open.spotify.com/track/7GnGIJAJPwzaU2C7IXnlxp) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 1:33 |
 | 38 | [Blood](https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 4:01 |
 | 39 | [Prisoner's Song](https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 2:46 |
 | 40 | [Time To Go](https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Skinhead on the MBTA](https://open.spotify.com/track/5AtphKfJ4zmnEXOlZ2dWbW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 3:49 |
 | 50 | [The Dirty Glass](https://open.spotify.com/track/0GlC0IeWvqlGLVJBuSnDP0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [A Toast to St\. Patrick! \- Irish Drinking Songs](https://open.spotify.com/album/3b2jUk4GM9CcOXEnQ7kIXh) | 3:53 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAwMTNkNzg5YmI1ZTM4ZmJmODRkZGMyMGQ5YzViNTU5Ng==`
+Snapshot ID: `Mjc4NDM0NzgsMDAwMDAwMDBhZWQ0MDQ0NmU3YzBiZTQ1ZWU4M2YyOGIxODY0YWE0ZQ==`

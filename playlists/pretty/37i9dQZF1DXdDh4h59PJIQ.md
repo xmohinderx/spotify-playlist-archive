@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,853 likes - 150 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,288 likes - 150 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

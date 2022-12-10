@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-240 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+241 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Tantra](https://open.spotify.com/track/16oB4C6uTdcJBU5FJYXKpR) | [Catch Your Dream](https://open.spotify.com/artist/3Vj6U9oLAjY6TVcpxl8DFX) | [Tantra](https://open.spotify.com/album/5xrAysMOBsKJRSZ0h2soYY) | 3:27 | 2021-12-17 |  |
 | [Temples of Qufu](https://open.spotify.com/track/33Pu5YVliAyFlf7aB7e8Q9) | [Zhu Lin](https://open.spotify.com/artist/5kVqstdlRUQK3cIHbOsyF0) | [Temples of Qufu](https://open.spotify.com/album/1MlXDeOHaH3Xb5uNUW6vBL) | 2:51 | 2021-12-17 |  |
 | [The Awakening](https://open.spotify.com/track/3smuAxUIVqSgUJMS9BDVqx) | [Andrea Accorsi](https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK) | [The Awakening](https://open.spotify.com/album/5069FBAkMxYSz6KzGsm0Tr) | 2:00 | 2022-10-14 |  |
+| [The Danish Waterfall](https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [The Danish Waterfall](https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu) | 3:00 | 2022-12-09 |  |
 | [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 | 2021-12-17 |  |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2021-12-17 |  |
 | [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-04-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuieNT0Gy18.md) - [plain]
 
 > Una selección de éxitos para ponerle ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,341 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,449 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuieNT0Gy18.md) - [plain]
 | 99 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
 | 100 | [Sé Que Te Duele](https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:48 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMDcwNTU1NDZmMDgwNmZlMDk1NmY4Mjc1YzA1OTQ4ZmRk`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDA3Yzc4MzI4NDBiMGU4YTZlOWM4MmZmNjZmOWExOWEw`

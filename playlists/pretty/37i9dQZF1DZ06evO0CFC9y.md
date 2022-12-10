@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,946 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,962 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Still A Stranger](https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:49 |
 | 50 | [Fall Children](https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:12 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDA0Nzg1NzY4YmU3N2M0NGQ5MmVmZmU2NzgzNDQyMjI5Nw==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA1ZTVmNDZjYWIwOGEwODU0NzE1ZjNhMDIzMjFjZGQ3YQ==`

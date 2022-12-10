@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,127 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,139 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 49 | [Me Está Doliendo Dejarte](https://open.spotify.com/track/5nQKzKV7A0UbLB5v0zaqvd) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Te Sigo Amando](https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4) | 3:00 |
 | 50 | [La Tabla del Uno \- En Vivo](https://open.spotify.com/track/2ca21NmVvhjRTNJOOpdOYL) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 3:26 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA0OGRmMWM4YjAxZWEyODdkZTFkMmEzZDUwMzVjYThlOA==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBmNTBhOTM2NGU2OTg3YmFlOGQ3MjhlZTczZjJmMjY5NQ==`

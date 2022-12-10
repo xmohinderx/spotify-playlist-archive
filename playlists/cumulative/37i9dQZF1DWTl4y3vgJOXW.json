@@ -4495,7 +4495,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 141692,
       "name": "No Flash",
       "url": "https://open.spotify.com/track/3DhQknNJsPtkRj1D7bxjvl"
@@ -6154,6 +6154,28 @@
     },
     {
       "album": {
+        "name": "Slime-U-Out (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/1oXlAZaZNjJRc2wGi0W6Wk"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "Slime-U-Out (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/73q28ToK6IQpMoE9w4c7Qm"
+    },
+    {
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/3X42cq0ppTHylj6NVb6vGw"
       },
@@ -6703,7 +6725,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 252728,
       "name": "The Bigger Picture",
       "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
@@ -7459,7 +7481,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 181929,
       "name": "We Paid (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"

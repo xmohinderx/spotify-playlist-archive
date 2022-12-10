@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Midian Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,507 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,580 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 31 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 |
 | 32 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
 | 33 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
-| 34 | [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 |
+| 34 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 35 | [Amado Por Mim](https://open.spotify.com/track/6OpFBCGJ282fCG15Ewb5Ob) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Canções de Identidade e Filiação](https://open.spotify.com/album/6SQLvKAgKe2gjWET6NZduq) | 9:35 |
 | 36 | [Deus De Perto](https://open.spotify.com/track/4uJTecbkoIyPH4Ka7u9ENk) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Deus De Perto](https://open.spotify.com/album/0Ykpin9W5CRMKF60YqAKuo) | 6:29 |
 | 37 | [Deus dos Bastidores](https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Deus dos Bastidores](https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW) | 5:32 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 71 | [Purificados](https://open.spotify.com/track/0DYqL9ijMsiUZEqMkyTUHL) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Purificados](https://open.spotify.com/album/1FChfjyeKe3iD83te6z5Xs) | 5:39 |
 | 72 | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/6KH0A2ktOEZ5iF82Zhgf9o) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/3xbFeQp4PVjFC4gWAyhpec) | 4:16 |
 | 73 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/7f6CRnVY5VyZldRMaAowuL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Preciso de Ti \(Ao Vivo\)](https://open.spotify.com/album/3D7jhKKajb7AD0ooCz9GdL) | 3:52 |
-| 74 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
+| 74 | [Raridade \(Ao Vivo\)](https://open.spotify.com/track/2j5ZnD3cpAvVpxduF0PmvG) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Raridade \(Ao Vivo\)](https://open.spotify.com/album/15ICKAPYvESqJvrlRkmdpv) | 3:48 |
 | 75 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 
-Snapshot ID: `MTY3MDE5MzMzNiwwMDAwMDAwMGFkMWY2MDQ4N2RkMzY2ODU0MmE0OGRjODI0MTIzZTNm`
+Snapshot ID: `MTY3MDU2NjQ4OCwwMDAwMDAwMDU1NGYzOTMyNWI5MTM3N2YyZjcxYTE2ZTQ4YTU0ODEy`

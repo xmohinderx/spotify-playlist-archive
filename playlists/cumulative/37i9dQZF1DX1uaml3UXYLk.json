@@ -3724,6 +3724,24 @@
     },
     {
       "album": {
+        "name": "I Can\u2019t Even",
+        "url": "https://open.spotify.com/album/2vqmwm05G6x3QOKwZRCaJh"
+      },
+      "artists": [
+        {
+          "name": "Drunk Archer",
+          "url": "https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171842,
+      "name": "I Can\u2019t Even",
+      "url": "https://open.spotify.com/track/1hZDvLGzGTvbBRP8CqU0rD"
+    },
+    {
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA"
       },
@@ -7007,6 +7025,24 @@
       "duration_ms": 144732,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/5uD45F8wERKOjBswG3fSXY"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7"
     },
     {
       "album": {

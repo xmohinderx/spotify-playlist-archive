@@ -4,13 +4,14 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-147 songs - 7 hr 38 min - not published yet
+151 songs - 7 hr 50 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Day at Sea](https://open.spotify.com/track/4cP4euPcXx5SMxp07GLWzn) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [A Day at Sea](https://open.spotify.com/album/3Kpk3f9SpXQ3xKETaRNZR6) | 3:07 | 2022-06-03 |  |
 | [About Me](https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/3c1nWchd1tZcxdaamK3Q7D) | 2:34 | 2022-06-23 |  |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 |  |
+| [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 | 2022-12-09 |  |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 |  |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 |  |
 | [Artificial Love](https://open.spotify.com/track/2f0rA5PoORaLqHd6OghZsC) | [Part Native](https://open.spotify.com/artist/31Fhago9BJoUASlISFmieX), [Oly](https://open.spotify.com/artist/46schiPKx3WhuYpa4XykpL) | [Artificial Love](https://open.spotify.com/album/00otmxypSxSWekoqUJwh1D) | 3:21 | 2022-10-13 |  |
@@ -148,6 +149,9 @@
 | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/track/5dodHFhVwBQjcULGlLFKVG) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Jüri Pootsmann](https://open.spotify.com/artist/7j6Zzcpz7gTNPh69USgO8C) | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/album/4UOWmedz9MLd15yKyDj5ME) | 3:25 | 2022-03-25 |  |
 | [When I'm Gone](https://open.spotify.com/track/6rhZZuD7lVsJTOkqxLepTj) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Ellen Louise](https://open.spotify.com/artist/67yangDHSVlDpDS4U4UWKe) | [When I'm Gone](https://open.spotify.com/album/1BlfvPW5eXF2tyyL6OkDaY) | 3:37 | 2022-06-09 |  |
 | [When I'm With You](https://open.spotify.com/track/4IpHprcfDRMRjV1Vm2rr29) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [When I'm With You](https://open.spotify.com/album/4LxPVPgBo9EGncjqxWkrPW) | 3:07 | 2022-09-16 |  |
+| [When I'm With You \- EMIDEX Remix](https://open.spotify.com/track/5bFtowNLiwn67wZUDhF8Cl) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [EMIDEX](https://open.spotify.com/artist/7394eHssATloNg9MDOPTnJ) | [When I’m With You \- Remixes](https://open.spotify.com/album/18Iio2vivHJXPkK6AjgHM3) | 3:03 | 2022-12-09 |  |
+| [When I'm With You \- NCKD Remix](https://open.spotify.com/track/7Gx8d9XPQMLgTVx1vFtHAy) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [NCKD](https://open.spotify.com/artist/3OadzdD3LvpCfIRqgUCB4P) | [When I’m With You \- Remixes](https://open.spotify.com/album/18Iio2vivHJXPkK6AjgHM3) | 2:48 | 2022-12-09 |  |
+| [When I'm With You \- T\-Rice Remix](https://open.spotify.com/track/199yqPnwlybLMjMNY5Hjxy) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [T\-Rice](https://open.spotify.com/artist/2zw4hJvsdFtEk6i2FLa1Uw) | [When I’m With You \- Remixes](https://open.spotify.com/album/18Iio2vivHJXPkK6AjgHM3) | 3:02 | 2022-12-09 |  |
 | [Wings](https://open.spotify.com/track/18IhZkRfALANBQeaWfOVuk) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [Wings](https://open.spotify.com/album/4rBjac9XBU8UgiZvPMixU2) | 3:56 | 2022-11-09 |  |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-03-10 |  |
 | [Wizkid](https://open.spotify.com/track/2rC9Mwkntrhv1RH4FzZ1MM) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [AVA NOVA](https://open.spotify.com/artist/3F7A0HJo5EKQKQ01Fv1TxW) | [Wizkid](https://open.spotify.com/album/0DfHdC5Ahks277KoV2ycp7) | 2:43 | 2022-11-10 |  |

@@ -3590,6 +3590,24 @@
     },
     {
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/6T315JLO4N7RDtHYMRt2Vx"
+      },
+      "artists": [
+        {
+          "name": "Armando Mago",
+          "url": "https://open.spotify.com/artist/3G03DUCoeCCsWqlZRlvakU"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145396,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/6AOdCocb5K5qoqtgJJZfbv"
+    },
+    {
+      "album": {
         "name": "Sidereus",
         "url": "https://open.spotify.com/album/338OsNe2iBBwVdhpdtCGm3"
       },
@@ -4739,6 +4757,24 @@
       "duration_ms": 202499,
       "name": "Where There Is Hope",
       "url": "https://open.spotify.com/track/1FccNfzWE4sM0h63DrxRl3"
+    },
+    {
+      "album": {
+        "name": "Where Trees Stand Tall",
+        "url": "https://open.spotify.com/album/1Su8cxJRziavqhZt8NKuYv"
+      },
+      "artists": [
+        {
+          "name": "Lesunia",
+          "url": "https://open.spotify.com/artist/3rfxxLcf3jUOQN2ptyhIVj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118233,
+      "name": "Where Trees Stand Tall",
+      "url": "https://open.spotify.com/track/2dfPVbN70gDVrfMHdsfrUC"
     },
     {
       "album": {

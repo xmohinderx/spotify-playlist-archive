@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 557957,
+  "num_followers": 558278,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMDg0NTY4MWM2MDU2YmM4NTQ5NWM0YmI5ZGUwYmNhNGJk",
+  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMDk1NTVmNzFiZjM3NzY1MzhlZDYzMzhmYjcyNTExN2U5",
   "tracks": [
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Imaginaste",
-      "url": "https://open.spotify.com/track/39GnQAiQ81e6jHngiQ2LtN"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -1047,22 +1027,6 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 295038,
-      "name": "Aquel Nap ZzZz",
-      "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1087,6 +1051,22 @@
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 295038,
+      "name": "Aquel Nap ZzZz",
+      "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1159,26 +1139,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 198569,
-      "name": "Madrid (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
       },
@@ -1215,6 +1175,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 198569,
+      "name": "Madrid (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -1239,6 +1219,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "2/Catorce",
         "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
       },
@@ -1255,22 +1251,6 @@
       "duration_ms": 212031,
       "name": "2/Catorce",
       "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1623,22 +1603,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Fing\u00edas",
         "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
@@ -1651,6 +1615,22 @@
       "duration_ms": 225373,
       "name": "Fing\u00edas",
       "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1995,26 +1975,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Sabe",
-        "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 177655,
-      "name": "Sabe",
-      "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
       },
@@ -2071,6 +2031,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Sabe",
+        "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 177655,
+      "name": "Sabe",
+      "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Hasta Abajo",
         "url": "https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1"
       },
@@ -2095,26 +2075,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "EL TREN",
-        "url": "https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 215134,
-      "name": "EL TREN",
-      "url": "https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "OTRO FILI",
         "url": "https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj"
       },
@@ -2135,6 +2095,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "EL TREN",
+        "url": "https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 215134,
+      "name": "EL TREN",
+      "url": "https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "H\u00e1zmelo",
         "url": "https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky"
       },
@@ -2147,6 +2127,30 @@
       "duration_ms": 174952,
       "name": "H\u00e1zmelo",
       "url": "https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "Suave (Remix)",
+        "url": "https://open.spotify.com/album/3L9hvsc3Ga0I1EQVHHPZgh"
+      },
+      "artists": [
+        {
+          "name": "Jey Blessing",
+          "url": "https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Los Fantastikos",
+          "url": "https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Suave - Remix",
+      "url": "https://open.spotify.com/track/6K7V47wFpfam2aeE893rbL"
     }
   ],
   "unique_name": "suave",

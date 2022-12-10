@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,510 likes - 245 songs - 13 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,559 likes - 245 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 93 | [CHEAP WINE](https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [CHEAP WINE](https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI) | 2:16 |
 | 94 | [無所謂](https://open.spotify.com/track/1dPtFcK3m7dTtIBe3AwurO) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [無所謂](https://open.spotify.com/album/5WXptJIuAu3IJ5RuOHRtxQ) | 2:52 |
 | 95 | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/track/3FuZUeJbuejOfpbvuqp8QL) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/album/3fUtcIhaW5dA1hlpn4Wv2M) | 4:05 |
-| 96 | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/track/0dk1HdfPDYPflddHXFKc8h) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 3:31 |
+| 96 | [DREAM YA KUTOKA KWA BLOCK](https://open.spotify.com/track/3DvI7vXyqrZ2KKOV9flgC3) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 3:31 |
 | 97 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 |
 | 98 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 |
 | 99 | [คนคนนึง](https://open.spotify.com/track/1uup0LxqqTU3uHrF7oqWux) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [คนคนนึง](https://open.spotify.com/album/4FnYMzU6ogFuuU5z9g5f5n) | 4:05 |
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 244 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 |
 | 245 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 |
 
-Snapshot ID: `MTY2OTk3ODgwMCwwMDAwMDAwMDUzZmZlM2JjZjkyNTg0NzYwNzVmMDRkMmU5ZThiZTYy`
+Snapshot ID: `MTY2OTk3ODgwMCwwMDAwMDAwMDNkMDY3ODY1ODRiZjRlYmQ5YTRjYzI0ZDM2NWQ3NWI5`

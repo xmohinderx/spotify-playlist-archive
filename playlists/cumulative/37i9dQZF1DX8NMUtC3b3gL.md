@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-258 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+262 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Chazzed](https://open.spotify.com/track/2h8saMMTJWqD01ZKzkLqdi) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Longings](https://open.spotify.com/album/304bggytiHFgGxQr93ftkm) | 2:17 | 2022-05-27 |  |
 | [Check It](https://open.spotify.com/track/6C94TkFvFvfzKfgUZeIW7R) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Fly Footage](https://open.spotify.com/album/7ENKoGVELyvs5Jndq3O9hT) | 2:19 | 2022-08-19 |  |
 | [Chill Balcony](https://open.spotify.com/track/03PhAyp5FFUPMb68QCrAst) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT) | [Chill Balcony](https://open.spotify.com/album/1d2AZ7N81CHVJRx5haZ9Cd) | 2:24 | 2022-10-14 |  |
+| [chrome](https://open.spotify.com/track/409mSIlqx7ZKfWhPzFzRhL) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [chrome](https://open.spotify.com/album/1A2lg20TBi2x4eVUVIBIoi) | 2:22 | 2022-12-09 |  |
 | [City Lights](https://open.spotify.com/track/2hU0KZRPVZ1z7AZga7PXup) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [City Lights](https://open.spotify.com/album/1i3HkR1ygBKfTvBU3dm0s3) | 1:53 | 2022-09-09 |  |
 | [Clarity](https://open.spotify.com/track/1bdGo5PNU1fmSJy8vwkzWv) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Clarity](https://open.spotify.com/album/09tN0ZxxSclFUo7l03zktC) | 2:04 | 2022-05-27 | 2022-07-08 |
 | [Clean Choices](https://open.spotify.com/track/3alz0TE86DIB2JnbbAOEME) | [KNŐDA](https://open.spotify.com/artist/2fDqX2aMSmr0pVuSdK5tWy) | [Clean Choices](https://open.spotify.com/album/71ti5CfDSeCMbrAFRG5hsu) | 3:07 | 2022-08-12 |  |
@@ -70,7 +71,9 @@
 | [duduk](https://open.spotify.com/track/5l2hrRZTPzvxTpiqLYOH4N) | [Jokabi](https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP) | [duduk](https://open.spotify.com/album/1LsXJCniTm4NrKhAGjcjSg) | 2:30 | 2022-08-05 | 2022-09-23 |
 | [dunes](https://open.spotify.com/track/6olrZxU7zlcIPtOhnSx3Qa) | [home grown](https://open.spotify.com/artist/3HItQVgl9wuiGIluHnIfTS) | [dunes](https://open.spotify.com/album/6jBmrVhC902zy5p5dUTiTb) | 1:51 | 2022-05-27 | 2022-08-12 |
 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 1:34 | 2022-05-27 |  |
+| [Easy Cheese](https://open.spotify.com/track/4rnf2QpPSzkxLlbFxxXgK0) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK) | [Easy Cheese](https://open.spotify.com/album/2XLsbqEwMJUGfr2Xgi9PWg) | 5:35 | 2022-12-09 |  |
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-05-27 |  |
+| [Elegua](https://open.spotify.com/track/3JKfpG7unjgUxjOVAVdxa3) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Elegua](https://open.spotify.com/album/6OxA3z3EOvhbEfPMQbM9Ka) | 2:02 | 2022-12-09 |  |
 | [Elevator Jam](https://open.spotify.com/track/05OuE2FeaeCkiz0EAKIqYZ) | [Wall Giant](https://open.spotify.com/artist/2SJLqBkYtTHwb0tYJDxnrf) | [Elevator Jam](https://open.spotify.com/album/0ILqNHJ9j8QNhBa3KomCeH) | 2:48 | 2022-05-27 |  |
 | [Endless Trial](https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Endless Trial](https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI) | 1:48 | 2022-08-12 | 2022-10-29 |
 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 | 2022-05-27 |  |
@@ -128,6 +131,7 @@
 | [Let's Downgrade!](https://open.spotify.com/track/3xIjrwRT9LFeMjKAO9NPGy) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Let's Downgrade!](https://open.spotify.com/album/1L1VolV9sQvMotcKQ9JJC3) | 2:21 | 2022-06-24 |  |
 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 | 2022-05-27 | 2022-11-20 |
 | [Limitless Romance](https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/6M1TTWauVFCg2mIvPDmvXf) | 2:25 | 2022-11-11 |  |
+| [lindo](https://open.spotify.com/track/66NcL7vEfkRz5iTd78h24f) | [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR), [Tau](https://open.spotify.com/artist/2tV1Ys5GAXL47UahBxq8hB) | [lindo](https://open.spotify.com/album/58glJDDiyNwRMHyaXFMwU8) | 2:16 | 2022-12-09 |  |
 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 | 2022-05-27 |  |
 | [Long Way Home](https://open.spotify.com/track/4B0rDSA8jga7wjmKaSIHYj) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2) | [A Walk in Summer](https://open.spotify.com/album/0DxdMoaCtNOXENBnyf4nl1) | 2:56 | 2022-06-24 | 2022-09-03 |
 | [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 | 2022-08-05 |  |

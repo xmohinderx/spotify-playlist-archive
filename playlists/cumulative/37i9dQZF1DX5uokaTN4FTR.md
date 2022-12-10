@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Romy
+> The UK's biggest dance playlist! Cover: Campbell
 
-340 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
+341 songs - 18 hr 42 min - [published](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 | 2022-10-13 |  |
 | [Before You \- goddard\. Remix](https://open.spotify.com/track/4Ow9QWuxBbjB29FnLka9dp) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You \(goddard\. Remix\)](https://open.spotify.com/album/3el1Y1U0U1kOCHCaA4lWGN) | 3:07 | 2022-10-20 |  |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 | 2022-05-06 |
+| [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-09 |  |
 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 | 2022-03-25 | 2022-06-17 |
 | [Better](https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Better](https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel) | 3:33 | 2022-06-09 | 2022-08-26 |
 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 | 2022-07-21 | 2022-11-11 |
@@ -215,7 +216,7 @@
 | [Missing You](https://open.spotify.com/track/0liLrRUJW0oTNwsZh8kPBx) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 3:42 | 2022-07-07 | 2022-10-07 |
 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 | 2022-04-22 | 2022-08-11 |
 | [Monday Kind of Tuesday](https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Monday Kind of Tuesday](https://open.spotify.com/album/3UH4jh4TcxS2Iyk1EAHVgj) | 2:22 | 2022-04-01 | 2022-06-17 |
-| [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 | 2022-08-11 |  |
+| [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 | 2022-08-11 | 2022-12-10 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-11-03\* | 2022-02-04 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-04-15 | 2022-06-17 |
 | [Move Your Body \- Hedex Remix](https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Move Your Body \(Hedex Remix\)](https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo) | 3:20 | 2022-06-16 | 2022-09-02 |

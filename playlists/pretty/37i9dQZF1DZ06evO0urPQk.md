@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 
 > This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,522 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,530 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 10 | [METANOIA](https://open.spotify.com/track/1pu0l2CLyOBzI9SRdqOqTV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [METANOIA](https://open.spotify.com/album/2dTATpcLTVwwestFBVO8v7) | 4:35 |
 | 11 | [Glorious Break](https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SMASHING ANTHEMS](https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK) | 5:16 |
 | 12 | [Vitalization](https://open.spotify.com/track/44HokGU8V1GTc0vdOIXrmL) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 3:46 |
-| 13 | [WILD EYES](https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:10 |
-| 14 | [ヒメムラサキ](https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [WILD EYES](https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv) | 4:59 |
+| 13 | [ヒメムラサキ](https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [WILD EYES](https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv) | 4:59 |
+| 14 | [WILD EYES](https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:10 |
 | 15 | [METANOIA \-Aufwachen Form\-](https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 5:31 |
 | 16 | [禁断のレジスタンス](https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:25 |
 | 17 | [DNA \-Dance 'n' Amuse\-](https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 49 | [STARTING NOW!](https://open.spotify.com/track/3hAyDY3024JUVmiIaBpcz0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 3:28 |
 | 50 | [Take a shot](https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ALIVE&KICKING](https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i) | 4:10 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA5YTJhYWYxYzMxOTU5N2RmMzkwM2EyY2EzMWVjMWI5Mw==`
+Snapshot ID: `Mjc4NDM0NzQsMDAwMDAwMDA4YjhiNDQxYTc5Y2FmYzhiNDRhZWZkZWI4NDE4ODZlYw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > Classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,654 likes - 150 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,169 likes - 150 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

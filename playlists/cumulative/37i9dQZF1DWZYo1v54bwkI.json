@@ -1178,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "Illusive",
+        "url": "https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71"
+      },
+      "artists": [
+        {
+          "name": "Maximilian Zapdo",
+          "url": "https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181181,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886"
+    },
+    {
+      "album": {
         "name": "Stillness of Mind",
         "url": "https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4"
       },
@@ -2421,6 +2439,24 @@
       "duration_ms": 165639,
       "name": "Pure And Calm",
       "url": "https://open.spotify.com/track/663LF9heB9sWluligQWpG8"
+    },
+    {
+      "album": {
+        "name": "Calming Sounds",
+        "url": "https://open.spotify.com/album/3lep8BdhfX3rEnCauSUtLE"
+      },
+      "artists": [
+        {
+          "name": "Eustace Zachary",
+          "url": "https://open.spotify.com/artist/02z2wzPVdsZWkKB0BRfhBM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195717,
+      "name": "Pure Elements",
+      "url": "https://open.spotify.com/track/3VXo1X3728wauOstZ44viK"
     },
     {
       "album": {

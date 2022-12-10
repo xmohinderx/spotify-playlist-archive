@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 154315,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 209718,
       "name": "D\u00e9jate Querer",
       "url": "https://open.spotify.com/track/5MBBsIHpiYiqmMbp7OQJcq"
@@ -1911,7 +1911,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 142083,
       "name": "En La M\u00eda",
       "url": "https://open.spotify.com/track/5QtuiG6Jihrk7qYIoDZWWR"
@@ -2265,7 +2265,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
@@ -3491,7 +3491,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 179081,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/53ZsIwmRCpuHcRg6qK3GPi"
@@ -4567,7 +4567,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 156701,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/3WugePzirGROxAle1gMPXE"
@@ -5671,7 +5671,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 168936,
       "name": "Te Sigo",
       "url": "https://open.spotify.com/track/5JMt2HjEuEsokttuS9U7on"
@@ -6301,6 +6301,24 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "album": {
+        "name": "Verano 2015",
+        "url": "https://open.spotify.com/album/4LJviqH6Iy8rKo2fJF0qXh"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166632,
+      "name": "Verano 2015",
+      "url": "https://open.spotify.com/track/0qznQrLfR6rEMTms35VIQl"
     },
     {
       "album": {

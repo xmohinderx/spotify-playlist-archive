@@ -2,7 +2,7 @@
 
 ### [Party Hits](https://open.spotify.com/playlist/37i9dQZF1DXa2PvUpywmrr)
 
-> A mix of the biggest pop, dance, and hip hop party songs\. Cover: Post Malone
+> A mix of the biggest pop, dance, and hip hop party songs\. Cover: Drake & 21 Savage
 
 326 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/6N39LWNwWRmhfR5bmoeU2O)
 

@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-168 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+173 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,10 @@
 | [Geeker](https://open.spotify.com/track/0XOagxiFUHOYHlz6AthrNB) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Raging in the Pit with My Bros](https://open.spotify.com/album/66uwS7rr9YJdhF5gOIJDMj) | 2:11 | 2022-11-25 |  |
 | [Ghost](https://open.spotify.com/track/0Xb7YTUlcB32tOYazFZ0c7) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Ghost](https://open.spotify.com/album/4X2204B0fGbDQyvrNvIjJD) | 2:36 | 2021-11-11 |  |
 | [Gold Stacks](https://open.spotify.com/track/38qTxMCGROJeJlo6E274p4) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Rizzo8](https://open.spotify.com/artist/0caGWjTQd9dDtOjAjxkzRK) | [Gold Stacks](https://open.spotify.com/album/4pYrbFvIep8pumAx11IAQN) | 2:54 | 2022-05-20 |  |
+| [Golden Barb Wire](https://open.spotify.com/track/7JZFY4O9OpRJfAHuzw9b5B) | [OWN A JET](https://open.spotify.com/artist/1JwkWoUMCVaZ7f9SmXtAYA) | [Golden Barb Wire](https://open.spotify.com/album/5o6OEpVYpToc03ZjEjC1UX) | 2:15 | 2022-12-09 |  |
 | [Half Way](https://open.spotify.com/track/7nVLCGdcpIWaAizdRRvmKG) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/0zb0u64c1aQOSRh7zLxoMT) | 2:56 | 2022-04-22 |  |
 | [Haute](https://open.spotify.com/track/3lvxTsa881E4gc6GHEOKGL) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Haute](https://open.spotify.com/album/0Y5EmDx0BdNzVkZxyGGy5i) | 2:05 | 2022-07-15 |  |
+| [Homemade Punch](https://open.spotify.com/track/6m9L4Fu2D80SuKUfZXkE13) | [Confetti Grenade](https://open.spotify.com/artist/74c5pQ1acFkasOeOsTSt7M) | [Homemade Punch](https://open.spotify.com/album/2LjxFbBzurlXQH8kQzVr0i) | 2:12 | 2022-12-09 |  |
 | [Hometown](https://open.spotify.com/track/7nX4292m7E2yXft3H1aDp5) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Hometown](https://open.spotify.com/album/5YDHV478MEMicxIVbePEdy) | 2:05 | 2021-11-11 |  |
 | [Hovercraft](https://open.spotify.com/track/0KMR1u19KzGTtRxc6N7FCZ) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:30 | 2021-11-11 | 2022-10-14 |
 | [I Wanna Say Something](https://open.spotify.com/track/5fWRBWN2TkGGnYXvZrPjgK) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:07 | 2022-05-13 | 2022-07-15 |
@@ -96,6 +98,7 @@
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2021-11-11 |  |
 | [New Tech](https://open.spotify.com/track/5rpI7Lcq895kc81mxWmqFm) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [New Tech](https://open.spotify.com/album/27WjV1hX9cnIkKjvcF38Hh) | 2:37 | 2022-07-01 |  |
 | [No Hate](https://open.spotify.com/track/5otKKNFJZ9uxT2IAVkC9u9) | [whaTaRWoll Music](https://open.spotify.com/artist/1Z7MTyfennQvKU2hxO5KYO) | [Wrong Game](https://open.spotify.com/album/5MMjKLaASf8ah91ou3IRtV) | 3:41 | 2021-11-11 | 2022-04-22 |
+| [No Mercy](https://open.spotify.com/track/22eZmqMUw5G6pVI8qAnF4d) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Vices](https://open.spotify.com/album/6Vz3vNBiyBIQb1OJ40QRir) | 2:25 | 2022-12-09 |  |
 | [No Switch Up](https://open.spotify.com/track/1v55e29Im1Q4kox18pOE0Y) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [No Switch Up](https://open.spotify.com/album/0gNiizgVjbJ8sgchjiefvI) | 2:35 | 2022-03-29 |  |
 | [Not Enough](https://open.spotify.com/track/4mKUzggb15xw0CxE5mrmMi) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Not Enough](https://open.spotify.com/album/4fR6ne32b1qv0Mzum1UMC7) | 2:56 | 2022-04-22 |  |
 | [Nu World Order](https://open.spotify.com/track/3erqNTHPWsfJVM4ZSsEJ6t) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Nu World Order](https://open.spotify.com/album/2Je8l8GvcHGTwNjcyCrd4w) | 2:48 | 2022-04-22 |  |
@@ -106,6 +109,7 @@
 | [Oopsy](https://open.spotify.com/track/3OUA1bhQpKkLH05dy9POEz) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Soul Waste](https://open.spotify.com/album/4ungK52Ght7QUuKwRc0rlF) | 2:47 | 2021-11-11 |  |
 | [Operation Chaos](https://open.spotify.com/track/0sWKVy4Z3TraqZT3r70TLA) | [4Traks](https://open.spotify.com/artist/5FbfJVwTIC5N1m85sBoil0) | [Operation Chaos](https://open.spotify.com/album/5yBAcO2ny2fw5ayEvAZ9QT) | 2:52 | 2021-11-11 |  |
 | [Orchid](https://open.spotify.com/track/2YCCzhXCvptKWzr2aN5Lbv) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Orchid](https://open.spotify.com/album/376EH4CpgOo1mCyj6z7nsb) | 2:34 | 2021-11-11 |  |
+| [Outside Today](https://open.spotify.com/track/6gDkbD3i1MFRuqLZaqeNUZ) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love Me More](https://open.spotify.com/album/1XkdQ50zuJFGCIBtSasZ3b) | 2:02 | 2022-12-09 |  |
 | [paint](https://open.spotify.com/track/28p37blBJxXtnAtl9ndjC0) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [tile & error](https://open.spotify.com/album/1kMqljBJ3CMhls6972lJ8H) | 2:32 | 2021-11-11 |  |
 | [PAN](https://open.spotify.com/track/2njSLjUu82lnvgSlZftXuF) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Poly](https://open.spotify.com/album/6DOrQ8NGjYVn9FmexHUf4U) | 2:51 | 2021-11-11 |  |
 | [Participation Trophy](https://open.spotify.com/track/4Nb76xnCM8UgKVAj9LqNZ2) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:07 | 2022-04-08 | 2022-05-20 |
@@ -129,6 +133,7 @@
 | [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2021-11-11 | 2022-05-14 |
 | [Silver Lining](https://open.spotify.com/track/49hqLCrBX4CnAkEM0iclaO) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Silver Lining](https://open.spotify.com/album/1rCa089W6ZFhIcpVzw4tCJ) | 2:29 | 2021-11-11 |  |
 | [Skullcrusher](https://open.spotify.com/track/0nQ8G9DzO1qyWPBFLKztYT) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Skullcrusher](https://open.spotify.com/album/4xeEKSgBDFOWFzrqTgJZ6g) | 2:32 | 2022-11-25 |  |
+| [Slabs](https://open.spotify.com/track/6cjTpMjoBZ6sT0IQ9xXpEE) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Slabs](https://open.spotify.com/album/6DCKMVGUuKiOcpNNdaiT0i) | 1:58 | 2022-12-09 |  |
 | [SMOKE BREAK](https://open.spotify.com/track/3CPtS5vGos6uIlYf0Nqc4L) | [NIGHTSHOW](https://open.spotify.com/artist/3eO8RkSNmOmPFIRXP6i1S8) | [SMOKE BREAK](https://open.spotify.com/album/1EjwtUUR8Ju58b9UUQiD4v) | 3:19 | 2021-11-11 | 2022-10-14 |
 | [Snack Bar](https://open.spotify.com/track/3NaAiO0oBCWkRVFtSQ6j0F) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Don’t Be Afraid to Fly](https://open.spotify.com/album/1mEhFmt5gqiD1s0CLw0sKL) | 3:02 | 2021-11-11 | 2022-07-15 |
 | [SNATCHIN CROWNS 王位](https://open.spotify.com/track/5qgNqe7iXFZGprAWuvP1d3) | [Yungmaple](https://open.spotify.com/artist/1QBaZ9xbIrmYmOwBQY3rVQ), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [夢の中 / In My Dreams](https://open.spotify.com/album/20UlD10mkx7O1fobgqQgoO) | 3:19 | 2022-11-25 |  |

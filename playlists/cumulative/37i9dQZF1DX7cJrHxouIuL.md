@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-176 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
+177 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Box of Crayons](https://open.spotify.com/track/2sdwOTN7xaGOTzXR9ExYWR) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 4:40 | 2022-04-15 |  |
 | [Box of Crayons](https://open.spotify.com/track/2NmMUfN5gISa6XH7phfshB) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/4acbURob7h5tgqZOgj1NCT) | 4:40 | 2022-04-15 | 2022-07-29 |
 | [Brand New Day](https://open.spotify.com/track/4cBPErdOZb1skrZDRX2HIS) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 2:42 | 2022-04-15 |  |
+| [Brave Like a Lion](https://open.spotify.com/track/0sBepHNDp8pjGWHlb12gCM) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing for the Earth \- Little Wild Animals](https://open.spotify.com/album/6L8hxqN9Qs3vfnUgB7q2Dp) | 2:46 | 2022-12-09 |  |
 | [Breakfast Club](https://open.spotify.com/track/47TzTejrEjIGj30p9iAaDw) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK) | 3:25 | 2022-04-15 |  |
 | [Breakfast Club \(feat\. Carly Ciarrocchi\)](https://open.spotify.com/track/0USrh6qGiJVR3gzSk0d4H5) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/7slt3qTeXAus3QW1tAqcqW) | 3:25 | 2022-04-15 | 2022-07-29 |
 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/4F3ddWC6h5vgJKNih9v340) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 2:55 | 2022-10-11 | 2022-11-13 |
@@ -176,7 +177,7 @@
 | [What's Your Name?](https://open.spotify.com/track/4Vp4Ncg8449kr0hfU99Mt5) | [Music with Mandy](https://open.spotify.com/artist/2FkQ1kvpxbGnnL3hIW0uJ2) | [What's Your Name?](https://open.spotify.com/album/2dbdrZMcsogArPSFLTooDW) | 2:29 | 2022-04-15 |  |
 | [Wheels On The Bus](https://open.spotify.com/track/3c2UQUnufLzun0uggzYjzE) | [Kyle Andrews](https://open.spotify.com/artist/67tNmCzk9teeC1h8FgmqJA) | [For The Kids Three](https://open.spotify.com/album/1Dr9Qai7RQUBTtqLrJDo2A) | 2:51 | 2022-04-15 |  |
 | [Why Can't Every Day Be Halloween](https://open.spotify.com/track/56RUkfDbvwOaqorswMd6MT) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:44 | 2022-04-15 |  |
-| [Winnie the Pooh](https://open.spotify.com/track/3iY7VgZ1T95LlFro7ccEBV) | [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx), [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Winnie the Pooh](https://open.spotify.com/album/38lqlFkYKpEa3LgDQtqVdo) | 2:32 | 2022-04-15 |  |
+| [Winnie the Pooh](https://open.spotify.com/track/3iY7VgZ1T95LlFro7ccEBV) | [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx), [M\. Ward](https://open.spotify.com/artist/3TIIls1NDLaBkWYO7ty2Qp) | [Winnie the Pooh](https://open.spotify.com/album/38lqlFkYKpEa3LgDQtqVdo) | 2:32 | 2022-04-15 |  |
 | [You Are Magic](https://open.spotify.com/track/5c2pIV0J5Jn7NtYfxYOHN1) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/1iBE3NdOlXJA9NUaAUD685) | 3:44 | 2022-04-15 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/1wNas5NsNP10oQfCMzwRTK) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM), [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Frogs And Birds](https://open.spotify.com/album/1YUT7gYPCXKS5RWsII7X4o) | 1:27 | 2022-04-15 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/4pSnr4nddXDvT7FTqRutUm) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM), [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [You Are My Sunshine](https://open.spotify.com/album/282bBuTXFWAQID7zQ8aX6C) | 1:27 | 2022-04-15 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-170 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+173 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Eclipse](https://open.spotify.com/track/4xOX662co6Ryxqez1fgJbY) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 1:54 | 2022-07-15 |  |
 | [El Antiguo Camino](https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [El Antiguo Camino](https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q) | 2:36 | 2022-10-28 |  |
 | [El Raval](https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [El Raval](https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4) | 3:07 | 2022-07-15 | 2022-07-29 |
+| [El Sabio](https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [El Sabio](https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n) | 2:06 | 2022-12-09 |  |
 | [El Viaje](https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [El Viaje](https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv) | 2:48 | 2022-07-15 | 2022-07-29 |
 | [En el Último Trago](https://open.spotify.com/track/26ZLo3OE6vf6NK56YRn1I4) | [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Nosotros](https://open.spotify.com/album/6SVKwaelrNUm99Fo0992kJ) | 2:57 | 2022-07-15 | 2022-07-29 |
 | [En Mis Brazos](https://open.spotify.com/track/5IRsN77ZPXy0YmY3cvVFuX) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [En Mis Brazos](https://open.spotify.com/album/3wd6e9BvUxKEVZf0LCj56t) | 2:02 | 2022-11-25 |  |
@@ -112,6 +113,7 @@
 | [Mudanças](https://open.spotify.com/track/2DGPgil0GkkDTuLzTtAU6V) | [Ogden Rhone](https://open.spotify.com/artist/0EBhni5PCPCZpF93k9chyo) | [De Nieuwe Kerk](https://open.spotify.com/album/1aezKfZ0mXc76tSl9VSCTt) | 2:56 | 2022-07-15 |  |
 | [Nachtfalke](https://open.spotify.com/track/1KA3f0hBZfwbcoeDidN91k) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 4:21 | 2022-07-15 |  |
 | [Natural State](https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7) | [Mia Cornell](https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB) | [Natural State](https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF) | 2:24 | 2022-07-15 |  |
+| [Objects In The Mirror](https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Objects In The Mirror](https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk) | 2:50 | 2022-12-09 |  |
 | [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-15 |  |
 | [Old Friends](https://open.spotify.com/track/7iJmWc6nPZrov6yzOPgqb9) | [Ronny Davis](https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt) | [Old Friends](https://open.spotify.com/album/4BGT0LqhdGpd8fO1AEUWX0) | 3:10 | 2022-07-15 |  |
 | [Passing Rain](https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Passing Rain](https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM) | 3:02 | 2022-07-15 |  |
@@ -154,6 +156,7 @@
 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 | 2022-10-28 |  |
 | [Te quiero hasta la muerte](https://open.spotify.com/track/38GYfritueLqRIxoK1AVzX) | [Jesus Quintana](https://open.spotify.com/artist/2ABU0wZVTQR6hLNZp8GyHB) | [Te quiero hasta la muerte](https://open.spotify.com/album/582zz5eEBI6wgTIkU3Z5Tw) | 1:54 | 2022-10-28 |  |
 | [The Air Portal](https://open.spotify.com/track/0SAvctlgQPtPS6t3sgelQv) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [The Air Portal](https://open.spotify.com/album/0QhXjZGYdD92PpGsPBwTGl) | 2:37 | 2022-10-07 |  |
+| [The Hidden Valley](https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [The Hidden Valley](https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs) | 2:37 | 2022-12-09 |  |
 | [The Poconos](https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [The Poconos](https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017) | 2:51 | 2022-07-15 |  |
 | [Thing Of Beauty](https://open.spotify.com/track/4ATFCqpqkV8IwC7SXuPZSZ) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Thing Of Beauty](https://open.spotify.com/album/6xq6nBH8XUmiBRhDEBSi7y) | 2:32 | 2022-07-15 | 2022-09-23 |
 | [Through The Clouds](https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Learn to Fly](https://open.spotify.com/album/329j1EFas4BUDJaJLz0k5l) | 3:01 | 2022-07-15 |  |

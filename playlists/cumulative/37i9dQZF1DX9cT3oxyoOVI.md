@@ -4,7 +4,7 @@
 
 > romanticizing indie music in 2022
 
-75 songs - 4 hr 1 min - not published yet
+76 songs - 4 hr 4 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-11-30 |  |
 | [Sick Feeling](https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 2:35 | 2022-11-30 |  |
 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 | 2022-11-30 |  |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-30 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-30 | 2022-12-10 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-30 |  |
 | [Strawberry](https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Strawberry](https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI) | 2:42 | 2022-11-30 |  |
 | [Swimming Pools](https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Swimming Pools](https://open.spotify.com/album/5Zcg17XUGy8YawKHEfBpff) | 2:38 | 2022-11-30 |  |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-11-30 |  |

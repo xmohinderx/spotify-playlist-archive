@@ -37394,6 +37394,24 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/1NVTjDBAJGzgkCgnj9Mkuo"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111535,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/6zaoVw156UmdL8D3xOwggX"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -43690,6 +43708,24 @@
     },
     {
       "album": {
+        "name": "Saint-Clair (Edition de Minuit)",
+        "url": "https://open.spotify.com/album/0QCuoEGD96WokZW5S3KNMi"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283146,
+      "name": "L'heure bleue",
+      "url": "https://open.spotify.com/track/0TaflMlUSbNgyrX8KeBAUQ"
+    },
+    {
+      "album": {
         "name": "L'heure bleue",
         "url": "https://open.spotify.com/album/7vozkHWf2L4SUaLQ7IQq2a"
       },
@@ -43701,7 +43737,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 283146,
       "name": "L'heure bleue",
       "url": "https://open.spotify.com/track/51TBXcVjckRZ81Z0D1m3XT"
@@ -44075,6 +44111,36 @@
       "duration_ms": 180141,
       "name": "La Mia Storia",
       "url": "https://open.spotify.com/track/1PTASwvjsx7c6ejvDEkqJ7"
+    },
+    {
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ"
     },
     {
       "album": {
@@ -58713,10 +58779,32 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202407,
       "name": "OK24",
       "url": "https://open.spotify.com/track/2GPAg6wJ3VRO1FSGOecsdr"
+    },
+    {
+      "album": {
+        "name": "OK24",
+        "url": "https://open.spotify.com/album/7csxIws7fvjAlTnQWGiKHY"
+      },
+      "artists": [
+        {
+          "name": "Evan Klar",
+          "url": "https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2"
+        },
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202407,
+      "name": "OK24",
+      "url": "https://open.spotify.com/track/6HFNns6mdMOCboU9Ns9nzF"
     },
     {
       "album": {
@@ -68659,7 +68747,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173875,
-      "name": "Serendipia - Version 2022",
+      "name": "Serendipia (Nouvelle version)",
       "url": "https://open.spotify.com/track/1paYMMK7oI0OpN8OuCsgqR"
     },
     {

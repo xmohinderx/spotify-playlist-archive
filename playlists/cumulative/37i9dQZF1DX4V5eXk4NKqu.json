@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Best Latin Indie tracks right now. Cover: Kevin Kaarl",
+  "description": "Best Latin Indie tracks right now. Cover: Ambar Lucid",
   "name": "Ultimate Latin Indie",
   "published_playlist_ids": [
     "18mw8A3EJYED9nllSiRieV"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "- es + (menos es m\u00e1s)",
+        "url": "https://open.spotify.com/album/1y0JGvEzLx4z5kW1RbJaJA"
+      },
+      "artists": [
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        },
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179648,
+      "name": "- es + (menos es m\u00e1s)",
+      "url": "https://open.spotify.com/track/3A5qg9rPxX4ANtff8ZLhMX"
+    },
     {
       "album": {
         "name": "Algo Bien",
@@ -23,6 +45,24 @@
       "duration_ms": 180236,
       "name": "2000nunca",
       "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+    },
+    {
+      "album": {
+        "name": "444/Ms. Moon",
+        "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170805,
+      "name": "444",
+      "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
     },
     {
       "album": {
@@ -475,7 +515,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 213186,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao"
@@ -565,7 +605,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 190462,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
@@ -1214,6 +1254,28 @@
     },
     {
       "album": {
+        "name": "Hush (Still Woozy Remix)",
+        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Hush - Still Woozy Remix",
+      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
+    },
+    {
+      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
       },
@@ -1225,7 +1287,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 216844,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
@@ -1768,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "album": {
         "name": "me perdono",
         "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
@@ -1953,7 +2033,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 193149,
       "name": "Nena <3",
       "url": "https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2"
@@ -2007,7 +2087,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 150461,
       "name": "No Te Vayas with Jane",
       "url": "https://open.spotify.com/track/6dkcbaRHCVqSeWG1cmbZC0"
@@ -2231,6 +2311,24 @@
       "duration_ms": 129281,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w"
+    },
+    {
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "album": {

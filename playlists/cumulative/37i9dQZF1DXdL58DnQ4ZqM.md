@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-484 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+489 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Jim Bell](https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Aso EP](https://open.spotify.com/album/76D0AJuesmkBSxCU5e9P0U) | 3:28 | 2022-06-24 |  |
 | [Jupiter And Back](https://open.spotify.com/track/0JvVjFvRmXNpj2QErDjjr7) | [Space Lounge](https://open.spotify.com/artist/1AFrS3YAYSd8LMU2HgWdXx) | [Dreaming](https://open.spotify.com/album/0pLEchfzKxpswPTtQMYecl) | 3:48 | 2022-07-08 | 2022-07-10 |
 | [Jupiter And Back](https://open.spotify.com/track/0wdXAUHb6rmqZ2VAYFDIq4) | [Space Lounge](https://open.spotify.com/artist/1AFrS3YAYSd8LMU2HgWdXx) | [Dreaming](https://open.spotify.com/album/2cmDzCpicqmlcVG7iwuROY) | 3:48 | 2022-07-29 | 2022-08-19 |
+| [Just Woke Up](https://open.spotify.com/track/69lkPSw1B9Tv0pCU5tROKM) | [Lazy Elias](https://open.spotify.com/artist/6hJhvGKRLfcdvnpQD3gxzC), [Uinzagui](https://open.spotify.com/artist/7qARU0sMoDEdpD8zyvmjcx) | [Just Woke Up](https://open.spotify.com/album/6z7a1ixTsQfaLwSiQpX5Im) | 1:53 | 2022-12-09 |  |
 | [Kakau](https://open.spotify.com/track/5arMNfAdDTkzRVNiAS7BIm) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Kakau](https://open.spotify.com/album/1NUrfXS7FNW2vC90xs3IhT) | 2:31 | 2022-06-17 | 2022-07-09 |
 | [Keep On Shining, Keep On Moving \- Ambient Mix](https://open.spotify.com/track/3Tvu1UD14uCvRwBkEnubdl) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Keep On Shining, Keep On Moving](https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl) | 2:59 | 2021-08-10 | 2022-07-29 |
 | [Keep On Shining, Keep On Moving \- Ambient Mix](https://open.spotify.com/track/6FHkAkGM5fQTrDXM9lux3H) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [The Album](https://open.spotify.com/album/0od5afi4jRBrmFpzby2DyO) | 2:59 | 2022-07-29 |  |
@@ -255,6 +256,7 @@
 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2022-09-23 |  |
 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 | 2022-07-22 |  |
 | [Lunar Halo](https://open.spotify.com/track/0ZiBqlxiM4tjMcOFCfTQIF) | [Mimimi](https://open.spotify.com/artist/5RE5W8McrdwFqlv0mG2Jet) | [Lunar Halo](https://open.spotify.com/album/38wCuKWG4YoDkzPJ7z7F0i) | 2:33 | 2022-03-16 | 2022-07-09 |
+| [Lust](https://open.spotify.com/track/7plHet0z5H3suL0neig2an) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Lust](https://open.spotify.com/album/4STXwZAd1SqiaAIc9yG5IT) | 2:29 | 2022-12-09 |  |
 | [L’ Eau](https://open.spotify.com/track/1xGKqS5MWiXY0ZVnjqylH3) | [Deanna Devore](https://open.spotify.com/artist/33ZWQlxgrQJGHCo82XqhWJ), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [JokerB](https://open.spotify.com/artist/2PZenj9yNHY0BN5AUw7s4s) | [A better World](https://open.spotify.com/album/0ZdSFLnuddK3AW40GQoXvB) | 2:44 | 2022-03-16 | 2022-07-09 |
 | [Magnetic](https://open.spotify.com/track/12exH3zKBHGUAob63h2S9i) | [Major Mélanger](https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH) | [Magnetic](https://open.spotify.com/album/7cHRwTQLAEEcRlcMZEYiCu) | 1:29 | 2022-10-14 |  |
 | [Magnetic Metafor](https://open.spotify.com/track/14c38bqDDaPTVwRalxO564) | [Upstairs2](https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA) | [MInd Travel](https://open.spotify.com/album/3Yz4r6OcddUHtyu9bctq8V) | 4:43 | 2022-07-29 |  |
@@ -358,6 +360,7 @@
 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Sangri](https://open.spotify.com/artist/4skJuoz124HZj4oIRJi8s1) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 | 2022-03-16 | 2022-07-09 |
 | [Shore](https://open.spotify.com/track/2fRZj7P8wV34zb5OltBVqE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Shore](https://open.spotify.com/album/1TlRXsdSE49gQPU0yiIspY) | 2:40 | 2022-11-25 |  |
 | [Should Be](https://open.spotify.com/track/684HaX0m4BSBrZ1LAjE2qh) | [Halfspeed](https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Should Be](https://open.spotify.com/album/0x1No3PDtgWABsxonPU3Bj) | 1:10 | 2022-07-29 |  |
+| [Siluetas](https://open.spotify.com/track/1GfpFCLQcumNR6eVSNvYE8) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Siluetas](https://open.spotify.com/album/5iq2S5rBEv6SzbgmRLDTG2) | 2:26 | 2022-12-09 |  |
 | [Sk8teing in Central Park](https://open.spotify.com/track/2P7BIdxkUoT4pBBUKEmgOu) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71) | 1:13 | 2022-11-11 |  |
 | [Sk8teing in Central Park](https://open.spotify.com/track/6wUDIvG1swx9ecmBBvO0ZR) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 1:13 | 2022-07-29 | 2022-11-19 |
 | [Skoda](https://open.spotify.com/track/0OHeMdfS4QJ7fPttj3mZgD) | [Ken Nil](https://open.spotify.com/artist/3dqO7sdgWO3OdzjlWcrf9l) | [Skoda](https://open.spotify.com/album/05OHIkueOd6K2pS0IOav3e) | 1:58 | 2022-10-28 |  |
@@ -369,6 +372,7 @@
 | [Slowing Down Magic](https://open.spotify.com/track/5VoHgAU6WTY4HOe951OpYl) | [NkisOk](https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo) | [Springflower](https://open.spotify.com/album/36GCCVLhVQ4bUlrir0Ofsj) | 4:16 | 2022-07-08 | 2022-07-10 |
 | [Small Changes](https://open.spotify.com/track/3Daf2veJz0Z8kDoqnwiyJw) | [Red Licorice](https://open.spotify.com/artist/6qn4NL1rfrgTQV0zhFYrBS) | [143](https://open.spotify.com/album/4pGdR47gpr4oddp7TeojFp) | 2:35 | 2022-07-15 |  |
 | [smoke & sleep](https://open.spotify.com/track/2CG8eXUcfA5IwAPnD9bKcN) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [smoke & sleep](https://open.spotify.com/album/5a6P31flOyTnuvVMQqNFvs) | 2:12 | 2022-08-12 |  |
+| [smthnjzzyfrthclcts](https://open.spotify.com/track/4kacnRjObcQrLrABPZrt0W) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb) | [smthnjzzyfrthclcts](https://open.spotify.com/album/2G179deb0xzgRTz4pvjon1) | 1:57 | 2022-12-09 |  |
 | [So Sweet](https://open.spotify.com/track/38npxBNsIKBi1Fe0tJAb1I) | [Aqua Club](https://open.spotify.com/artist/62pwBPqHsz8O243t6m0E9B) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/2leWLr9dNRyi1QBUak1QB6) | 3:54 | 2022-07-29 | 2022-09-09 |
 | [So Sweet](https://open.spotify.com/track/49V82zU6qm1e1B3qZANfIc) | [Aqua Club](https://open.spotify.com/artist/62pwBPqHsz8O243t6m0E9B) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/0g8FK5yjAMJoUiZDPi8bYX) | 3:54 | 2021-08-10 | 2022-07-29 |
 | [Solitary Fields](https://open.spotify.com/track/60y63A6yZWNiCtkfu30Wzy) | [Hologram](https://open.spotify.com/artist/2PPhHBy697OJbDKYAxmW6c) | [Day](https://open.spotify.com/album/2cW8bYjHiZ13eGm2BR7BtL) | 4:46 | 2022-07-29 | 2022-11-26 |
@@ -428,6 +432,7 @@
 | [The Light](https://open.spotify.com/track/4DgoAdHom50mXdHCf4C7m5) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Calm Morning \(Vol 1\)](https://open.spotify.com/album/7wp3TBMnrHG1SnbcQCWkFk) | 3:42 | 2022-10-28 | 2022-11-14 |
 | [The Line](https://open.spotify.com/track/5UnOKjyij8JKjVCmmeY5kq) | [John South](https://open.spotify.com/artist/28fqMVnyMpJaJ6XGTTIW4Y) | [Never Let You Go](https://open.spotify.com/album/7C36HoXyZNrXVqPYdKEanD) | 4:35 | 2021-08-10 | 2022-07-29 |
 | [The Line](https://open.spotify.com/track/69DWLBhuZDT7LYF4swKDak) | [John South](https://open.spotify.com/artist/28fqMVnyMpJaJ6XGTTIW4Y) | [Never Let You Go](https://open.spotify.com/album/3zJ2F9Sd4fh9k8U3pXe2T6) | 4:35 | 2022-07-29 | 2022-09-03 |
+| [The Mystery](https://open.spotify.com/track/4QjWkfJH6XD95OGLvQ2C2x) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [The Mystery](https://open.spotify.com/album/68jSCZ3MEiN6Ob8xzy6o8O) | 2:20 | 2022-12-09 |  |
 | [the next beat](https://open.spotify.com/track/23468IdKwDlOao9fWsPVeq) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [the next beat](https://open.spotify.com/album/6Gtz3GuIXjswIFjm3icFyI) | 2:09 | 2022-03-16 | 2022-07-09 |
 | [The Singing Flower](https://open.spotify.com/track/22GA1uwiCLJMkHyXhlP0bQ) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Sleeping Dove](https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8) | [The Singing Flower](https://open.spotify.com/album/5ucJ9GTCmPBMjpgT8TxXJ9) | 2:24 | 2022-11-25 |  |
 | [The Wait](https://open.spotify.com/track/0AD00S6V6nzr1Ih2JGcYO2) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Vol\. 3](https://open.spotify.com/album/2uIrMcvgcJEHcNLSMnEneN) | 3:52 | 2021-08-10 | 2022-07-29 |

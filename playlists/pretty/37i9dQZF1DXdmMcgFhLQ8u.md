@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,740 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,824 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 74 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |
 | 75 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDgzMzFmZTZiZTdmZmY0YjIxNWIzMGU4MzQyNzNkMmEx`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGM2YTNmMjAyODEyZTYyMzk5MTY3NmU0MjJjZDk5ZmRm`

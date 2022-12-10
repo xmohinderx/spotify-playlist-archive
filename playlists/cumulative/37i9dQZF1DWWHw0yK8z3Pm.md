@@ -2,9 +2,9 @@
 
 ### [Renegade Folk](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Singer\-songwriters who colour outside the lines\. Cover: Serena Ryder, William Prince
+> Singer\-songwriters who colour outside the lines\. Cover: Zach Bryan
 
-214 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+216 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Eyes Wide Open](https://open.spotify.com/track/58QBqc9hUARE3l9L7tCgTq) | [Kane Incognito](https://open.spotify.com/artist/58eTGBAXAD7beyO0btw3z8) | [Eyes Wide Open](https://open.spotify.com/album/5qAvZeaA2vZg69oGfxyNCy) | 3:36 | 2022-05-13 | 2022-08-27 |
 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 | 2022-05-13 | 2022-08-06 |
 | [Fade Out](https://open.spotify.com/track/6B49lClM6nxx1ARMKrPsa6) | [Brandon Wolfe Scott](https://open.spotify.com/artist/3u4AhLmR5tHYc7EU9SJOVy) | [Fade Out](https://open.spotify.com/album/1w15goiQV4OE9faiPBuSqS) | 3:28 | 2022-05-13 |  |
-| [Faded Colours](https://open.spotify.com/track/0naEoV74hkLer1puxhpa4r) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:32 | 2022-07-22 |  |
+| [Faded Colours](https://open.spotify.com/track/0naEoV74hkLer1puxhpa4r) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:32 | 2022-07-22 | 2022-12-10 |
 | [Faded Colours](https://open.spotify.com/track/2bWoBPVyrYrE2AfXR28iub) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Faded Colours](https://open.spotify.com/album/3aoCQdRhed8aGD1JaYaWlP) | 3:32 | 2022-05-13 | 2022-07-29 |
 | [Faded Colours](https://open.spotify.com/track/4LK6156G0S7g0bRPG1p6v4) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Cedar](https://open.spotify.com/album/6pdIsLgqpOzCdGxYTv3TbO) | 3:32 | 2022-10-28 | 2022-11-14 |
 | [Fall](https://open.spotify.com/track/0V6Z6nEvYq7IG1ar1zm5gT) | [The Johans](https://open.spotify.com/artist/12TKtByDRm3d7Ul1NEfHyQ) | [Fall](https://open.spotify.com/album/4gHC7esmw5dlHinSIJljAM) | 3:06 | 2022-05-13 | 2022-07-02 |
@@ -110,6 +110,7 @@
 | [Instant Cash for Gold](https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Instant Cash for Gold](https://open.spotify.com/album/6USRdm9O0GBJFyQLKav3JR) | 3:07 | 2022-09-30 |  |
 | [Isn't It A Pity](https://open.spotify.com/track/28yHkfI9MSddss1VIpGrSm) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [All Blue](https://open.spotify.com/album/6by4TrvFhxkZiee23fhhi3) | 3:40 | 2022-10-14 |  |
 | [It's So Hard to Hold On](https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [It's so Hard to Hold On](https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY) | 3:37 | 2022-06-17 | 2022-11-12 |
+| [Iydlmlmg](https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2) | [The Secret Beach](https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3) | [Iydlmlmg](https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1) | 2:57 | 2022-12-09 |  |
 | [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 | 2022-09-10 |
 | [Just A Little While](https://open.spotify.com/track/4o8w2detJfT45mdxIJ6hVb) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Just A Little While](https://open.spotify.com/album/3IOaxvwYaDmoQ36meh2niy) | 2:42 | 2022-05-13 | 2022-06-04 |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2022-05-13 | 2022-06-11 |
@@ -179,7 +180,7 @@
 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 | 2022-06-24 |  |
 | [Shooting at the Moon](https://open.spotify.com/track/6BiT0rQrxNTbglW7jBPd5D) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Shooting at the Moon](https://open.spotify.com/album/1WoVKktys2ml21iQ7nPFum) | 3:19 | 2022-06-03 | 2022-07-09 |
 | [Shreveport to L.A.](https://open.spotify.com/track/71HLRGiyMmw9G3dUeDDDJz) | [Mike Plume](https://open.spotify.com/artist/2bTUu34JOWSVnqOSeFmCcr) | [Shreveport to L.A.](https://open.spotify.com/album/0O6x0qmrGiS0FGYavcaCQH) | 3:59 | 2022-05-13 | 2022-08-13 |
-| [Shrine of Shirl](https://open.spotify.com/track/5pdjxSigGGj1ebWvZ1Josd) | [Mike Bern](https://open.spotify.com/artist/6NkiWoBFvHUxmksmpNOgdA) | [Shrine of Shirl](https://open.spotify.com/album/3eeyMTWLqi0egjXGj9aOCN) | 3:07 | 2022-10-07 |  |
+| [Shrine of Shirl](https://open.spotify.com/track/5pdjxSigGGj1ebWvZ1Josd) | [Mike Bern](https://open.spotify.com/artist/6NkiWoBFvHUxmksmpNOgdA) | [Shrine of Shirl](https://open.spotify.com/album/3eeyMTWLqi0egjXGj9aOCN) | 3:07 | 2022-10-07 | 2022-12-10 |
 | [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-11-11 |  |
 | [Souvenir](https://open.spotify.com/track/0DZM7vZBFKRkXnPpq17siT) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Souvenir B/W Pale Morning](https://open.spotify.com/album/0Gsju9lPWoExFjkRdz0izK) | 3:23 | 2022-05-13 |  |
@@ -214,6 +215,7 @@
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |
 | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/track/2t9ALXxbk3N6jwSgpUqehE) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/album/4T39qyzsn7ZeFcq6SqmPoT) | 3:35 | 2022-07-15 | 2022-10-29 |
 | [What I Had in Mind](https://open.spotify.com/track/5saojvKcj1644C6Fi7BY3j) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [What I Had in Mind](https://open.spotify.com/album/1qi7P89eVlmAzdDd4Wv1Kp) | 3:13 | 2022-09-30 | 2022-11-19 |
+| [When You're Gone](https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [When You're Gone](https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX) | 2:45 | 2022-12-09 |  |
 | [Wide Awake](https://open.spotify.com/track/1j0yLM2bq8IXOmkahkV22Z) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Wide Awake](https://open.spotify.com/album/0CuE6LWfLi55IwDchyGEDp) | 4:15 | 2022-08-12 | 2022-10-15 |
 | [Windows](https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:20 | 2022-05-13 |  |
 | [With You](https://open.spotify.com/track/1WoAQ1TRwi47BqUTt5hLNV) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [With You](https://open.spotify.com/album/1tqgfhub2RpAfGqXBC89EV) | 2:21 | 2022-05-13 | 2022-07-23 |

@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-378 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+386 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Antigua](https://open.spotify.com/track/1JNq5aFGwPOuO2PNru97j9) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Antigua](https://open.spotify.com/album/4Dq22fGSVyIqW4BSQiAKqz) | 2:41 | 2021-11-10 |  |
 | [Anywhere With You](https://open.spotify.com/track/73SKouRCNSHqPTLTBOJKOq) | [Cassette Treasures](https://open.spotify.com/artist/3oF0M86slqb8GWlqB2JXZw) | [Anywhere With You](https://open.spotify.com/album/3hNlPn59m504e5pHgRRrlN) | 2:21 | 2021-11-10 | 2022-07-08 |
 | [Apple trees are always in bloom](https://open.spotify.com/track/2LC4ycXEoKxWVOgiNUkU9P) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Apple trees are always in bloom](https://open.spotify.com/album/1llIxpvPVsCKyejHPXjLR2) | 2:01 | 2022-06-24 |  |
+| [Arctic Breeze](https://open.spotify.com/track/5g91B8gGNBtpceBeLEP2tG) | [Mellow Star](https://open.spotify.com/artist/4BVAeObmdneYygikVQ94gM) | [Arctic Breeze](https://open.spotify.com/album/4OtpZmQxEHLl5YX6zLhlZV) | 2:17 | 2022-12-09 |  |
 | [Atotoztli](https://open.spotify.com/track/48dZLnPkYNhuUZHl36A24f) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Atotoztli](https://open.spotify.com/album/1uHAS3TEeN3yPGB2nxJZSf) | 2:03 | 2022-07-08 |  |
 | [Avalanche](https://open.spotify.com/track/0VMEBEpEWY56jW7ud5aT94) | [Dreams For Two](https://open.spotify.com/artist/5KXdwqIvJf4lofmV84wIQe) | [Avalanche](https://open.spotify.com/album/1Y2H8LXdK9uu2rfk1em2Lg) | 1:44 | 2022-04-15 |  |
 | [Ayewete](https://open.spotify.com/track/2ksbaKOkuO1SYyQIqLIX1M) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 2:20 | 2022-02-10 |  |
@@ -45,6 +46,7 @@
 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 | 2021-11-10 | 2022-07-08 |
 | [Blip\-A\-Thon](https://open.spotify.com/track/40RUbTmKa8OCmtXai1KN2l) | [Jakkalz](https://open.spotify.com/artist/1WoIRFMlTR84QzDZE8kZaG) | [Blip\-A\-Thon](https://open.spotify.com/album/44OHKDhuwWKyvzeQfS9t0f) | 1:41 | 2022-05-27 |  |
 | [Bloomin'](https://open.spotify.com/track/4V84CYLnNvkP3YzhL5cpLx) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Bloomin'](https://open.spotify.com/album/6lgNSOo9OivZS0jLaWeXwB) | 2:16 | 2022-01-21 |  |
+| [Blue Skies](https://open.spotify.com/track/5fwI0Nxl5PFk1EFdpl1Pp5) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Blue Skies](https://open.spotify.com/album/6QlN0zhSD9Ni0urapqE805) | 2:38 | 2022-12-09 |  |
 | [Brainbreeze](https://open.spotify.com/track/5bl0PsxNJRP8zsMyTvvKMJ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:17 | 2021-11-10 |  |
 | [bubble beach](https://open.spotify.com/track/7uwZt4cO0n0d0aI3VaiSGf) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [bubble beach](https://open.spotify.com/album/7ASNeFNx3Eg0kYgUHzNAR1) | 3:13 | 2022-10-07 |  |
 | [Business Class](https://open.spotify.com/track/3BrM1JRNFZaxay6YsaSPv3) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Business Class](https://open.spotify.com/album/39RDYR5qrgDJoYlfX3qIrc) | 2:14 | 2022-10-14 |  |
@@ -81,6 +83,7 @@
 | [Dim Eyes](https://open.spotify.com/track/12c2Ttzw2pzF95V7NcGil6) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Dim Eyes](https://open.spotify.com/album/1GsILIyXFnCifMHBVPUiec) | 3:22 | 2021-11-10 |  |
 | [Ditty](https://open.spotify.com/track/71WxHp7zJA2MEmc2sqDTpI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:45 | 2022-05-10 |  |
 | [Diurnal](https://open.spotify.com/track/59JkOkb5dZeluV2s7vhJRD) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Diurnal Nocturnal EP](https://open.spotify.com/album/2nRoWqbNltEd83DD9a7tWl) | 2:36 | 2021-11-10 | 2022-04-06 |
+| [Don't Fall](https://open.spotify.com/track/0JCNrm6tZAnEdAIWQpVevl) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Rubus](https://open.spotify.com/artist/7jaMbya54ZRcqETDqAPv85) | [Don't Fall](https://open.spotify.com/album/76gmo70ondGPTnx14vHymw) | 2:00 | 2022-12-09 |  |
 | [Dormant](https://open.spotify.com/track/5fOi6gHQnqBNwM37zupVgr) | [Bjänn](https://open.spotify.com/artist/21Q9pfmgNxjRd5q2O6eVQ9) | [Dormant](https://open.spotify.com/album/5r9MCvOcxCziejbRx7aUsq) | 2:28 | 2021-11-10 |  |
 | [Downtown](https://open.spotify.com/track/3k7nl2pz0LR25XRRDeSi6z) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Downtown](https://open.spotify.com/album/4lGrY9glvKimde5O26PJng) | 2:06 | 2021-11-10 | 2022-07-08 |
 | [drift](https://open.spotify.com/track/0vvtzmmvWQRP9VmCoZBHxn) | [lola dreams](https://open.spotify.com/artist/5b2IjxR1EQiDcay0RSzgNY) | [drift](https://open.spotify.com/album/5ywDwMQPjZl3ixzfCZHVaG) | 2:34 | 2021-11-10 | 2022-07-08 |
@@ -151,6 +154,7 @@
 | [Heaven](https://open.spotify.com/track/6X35WKQ3YgELrIj3CT3NOt) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [Heaven](https://open.spotify.com/album/0C6hqHyCFgiH1OEdWWOLyM) | 3:06 | 2022-01-21 |  |
 | [Her Universe](https://open.spotify.com/track/17yHJKIZIOprUbTTD6Et0E) | [Floating Bits](https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs) | [Her Universe](https://open.spotify.com/album/3IJ5PVtarhwisMYO1z33g8) | 1:45 | 2022-10-07 |  |
 | [High Harbor](https://open.spotify.com/track/5W9nhHNbT23Qh0FHXjerp6) | [Foghouse](https://open.spotify.com/artist/5y6OTJwOgLR1dJu2Er9hBB) | [The Great Flood](https://open.spotify.com/album/0gQibi4N8OULtM8112b5sU) | 3:01 | 2021-11-10 | 2022-04-06 |
+| [Himalayas](https://open.spotify.com/track/5wMKNBeln1ZRrUlSKJ8U2i) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Himalayas](https://open.spotify.com/album/4YKIW2JuBsnHDAHLZG2Xn6) | 2:53 | 2022-12-09 |  |
 | [Hopesick](https://open.spotify.com/track/3tjRxbV6oKSawNjDzVngOe) | [GOLDLY](https://open.spotify.com/artist/6XwcbrwFI7iVtqVaAWG6iY), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Hopesick](https://open.spotify.com/album/3tzcLWMDfaPm8KThtQZh8k) | 2:11 | 2022-10-28 |  |
 | [Horizontals](https://open.spotify.com/track/1VCBFdbmTukL4kdG8zYvPl) | [Jens Nirme](https://open.spotify.com/artist/3illAmiJoox5u3D7qhkO6t) | [Horizontals](https://open.spotify.com/album/4z3INh0NcUuFIKfaNNJx2n) | 1:36 | 2021-11-10 | 2022-05-11 |
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2021-11-10 | 2022-04-15 |
@@ -215,6 +219,7 @@
 | [Marcus in Toyland](https://open.spotify.com/track/6QXotvrkA7vnx1qYULqamc) | [Lost In Los Angeles](https://open.spotify.com/artist/7hNdZmdfhLH5qi7Fr0Q7mO) | [Marcus in Toyland](https://open.spotify.com/album/2erTiHvq1ndlXSyJGmxlB5) | 2:46 | 2021-11-10 | 2022-05-20 |
 | [Massachusetts](https://open.spotify.com/track/4aLKDpv19Y6eH21QZPmiUR) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Massachusetts](https://open.spotify.com/album/0dQ8osFOicaP7MFmU0Css2) | 2:12 | 2021-11-10 | 2022-07-08 |
 | [Matterrock](https://open.spotify.com/track/3lFNPRDkohIw232d76kfoU) | [Firewatcher](https://open.spotify.com/artist/6Z9gMZiGWDamJBQnc8boHX) | [Mystics](https://open.spotify.com/album/1reM4LXQrd4yDpOwY1JRhn) | 3:12 | 2021-11-10 |  |
+| [melancoly](https://open.spotify.com/track/5aVFYvqNjL8qnPwComEQYz) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [melancoly](https://open.spotify.com/album/1dkjpbHVKYmfIHfg4uGFM6) | 1:28 | 2022-12-09 |  |
 | [Mellow Apricot](https://open.spotify.com/track/3oaQCIkZDZ63S1XDRMS1M4) | [Mixtus](https://open.spotify.com/artist/2iAb3BfKnswIVev8Z9BpR3) | [Mellow Apricot](https://open.spotify.com/album/0wJERxcVbXD01mgOQgswuy) | 2:07 | 2022-01-21 |  |
 | [Mellow Workday](https://open.spotify.com/track/0ykidTEReV77x9cUYoEUEt) | [Arctic T](https://open.spotify.com/artist/2Rw27XZ3vKwMqr11yhHwDw) | [Mellow Workday](https://open.spotify.com/album/4NyDnXoaMFuenXHEOWZ5LE) | 2:07 | 2021-11-10 | 2022-09-09 |
 | [Melody Of Fall](https://open.spotify.com/track/6PXedKfPxMmRELpK3HKQrn) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Melody Of Fall](https://open.spotify.com/album/0L7FRpwJe0LOop63hbByjt) | 1:47 | 2022-11-25 |  |
@@ -344,6 +349,7 @@
 | [The Yellow Taxi](https://open.spotify.com/track/2t7CtXjvm9a4tVl8rj6O05) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [Left on Read](https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq) | 2:44 | 2022-01-21 |  |
 | [Through The Grains](https://open.spotify.com/track/33wjqtVpWOcvX8uUrOzzyJ) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Shades In The Rain](https://open.spotify.com/album/0FwD9I5GRVWfH4vjBrOCwO) | 2:10 | 2021-11-10 | 2022-09-17 |
 | [Through The Lense](https://open.spotify.com/track/26N4LCZnAAWNsM42U8fAgB) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Through The Lense](https://open.spotify.com/album/1h0hx2D61dW17Cymqzmxoy) | 2:18 | 2021-11-10 | 2022-09-02 |
+| [Thursday](https://open.spotify.com/track/62KumiHcX17c8KBuUQyTpT) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Thursday](https://open.spotify.com/album/1NSlBa0ZIHJGf4X89Z3CJ2) | 2:53 | 2022-12-09 |  |
 | [Thursday Night \- Hypntc Remix](https://open.spotify.com/track/6eXO9dP7PcJLl4Lb01bcIY) | [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T), [Hypntc](https://open.spotify.com/artist/40WuCSBpNDy6QCmhmZrl1E) | [Thursday Night \(Hypntc Remix\)](https://open.spotify.com/album/0wgzXKKVN6CQRU7XRsW6Sx) | 3:20 | 2022-07-01 |  |
 | [Till dig](https://open.spotify.com/track/2qcPi2BKIrArJ0Cnb06kqC) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Ta Paus](https://open.spotify.com/album/4sWUPjRnNBlT7GYfU9aPaU) | 3:35 | 2021-11-10 | 2022-07-08 |
 | [Time](https://open.spotify.com/track/7AlUplIMwg0AFXK4Ypj1KD) | [The Peaceful Beats Project](https://open.spotify.com/artist/2HxsVVdPzarYSgmY3UAtCB) | [Focus Inside](https://open.spotify.com/album/6j0BaPQlbezfWxEcVB7CLB) | 2:57 | 2021-11-10 | 2022-05-20 |
@@ -378,6 +384,7 @@
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2021-11-10 |  |
 | [What Now](https://open.spotify.com/track/3XC4cQ8qffBghftJ7W2QKC) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [What Now](https://open.spotify.com/album/7HorxGWOCHa1pLBH0wE8Iz) | 2:44 | 2022-11-25 |  |
 | [When the lights are out](https://open.spotify.com/track/0dHjcYFbChsnfp1gD1leue) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Night Vibes](https://open.spotify.com/album/2MJHtNfn9mlrogJJ7seBJO) | 2:40 | 2022-08-19 |  |
+| [White Wine Rivers](https://open.spotify.com/track/5a7ErRI6WVxhtOrvIeSSJ6) | [5terre](https://open.spotify.com/artist/35D9iOHhBCHYMscCfbG2vk) | [White Wine Rivers](https://open.spotify.com/album/2LQa78PnACswAEx1p7dpSH) | 2:03 | 2022-12-09 |  |
 | [Why, Rose?](https://open.spotify.com/track/0gSirh7kcMYR6wkFkOyJ6y) | [d33p s3a discovery](https://open.spotify.com/artist/2FBIvMH247jNfSX50f9QSg) | [Why, Rose?](https://open.spotify.com/album/6i4SxcWjGiYJiuiWhFtd9u) | 1:47 | 2021-11-10 | 2022-10-14 |
 | [Window in Time](https://open.spotify.com/track/45M34uxWB4RGb9Nh16luLs) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [Window in Time](https://open.spotify.com/album/59rKbmjCHpwkGniq34qANA) | 3:07 | 2022-10-07 |  |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-11-10 | 2022-04-06 |
@@ -385,6 +392,7 @@
 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-10 |  |
 | [Youth](https://open.spotify.com/track/0w1Bmnum1Fk0Unjy5Ok2ov) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Youth](https://open.spotify.com/album/1qOuL7TsLLRCTDMFXCCnGm) | 2:24 | 2022-09-02 |  |
 | [Zakky](https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 2:35 | 2021-11-10 | 2022-07-08 |
+| [Zodiac Interstellar](https://open.spotify.com/track/2lOa0pC5BbOchxyxWg9EPS) | [Mimimi](https://open.spotify.com/artist/5RE5W8McrdwFqlv0mG2Jet) | [Zodiac Interstellar](https://open.spotify.com/album/0U6GqcJAnfi8qr9KCwVzpJ) | 2:34 | 2022-12-09 |  |
 | [Zoom In](https://open.spotify.com/track/6gq4iQ7lRndjBm0hFgZ4ww) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [Zoom In](https://open.spotify.com/album/0ivkBo26Tr3poeNp7XzYCY) | 3:36 | 2022-06-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

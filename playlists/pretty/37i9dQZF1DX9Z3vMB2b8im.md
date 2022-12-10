@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,264 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291,222 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 6 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
 | 7 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
 | 8 | [Bardennoch](https://open.spotify.com/track/1YQjWqGwJmyscFhUNxsC33) | [VanIves](https://open.spotify.com/artist/6KFpXJms1gsfFAayMjj7Tj) | [Thanks](https://open.spotify.com/album/6nBTYX7rMWqpBBZnuK1Odh) | 3:51 |
-| 9 | [Grey](https://open.spotify.com/track/5uiBxGoDN7ys5iR7jQiiI6) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Grey](https://open.spotify.com/album/0VUfyApXn4pk0hkxiM7nan) | 3:05 |
+| 9 | [Grey](https://open.spotify.com/track/1fn6p2B9xyAMcNDWb1Z5X2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:05 |
 | 10 | [Have I Ever Been](https://open.spotify.com/track/4yRS5wjodEe28wyWcTM5up) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Have I Ever Been](https://open.spotify.com/album/2NB8LDy6LsycfkiFHr8Nwv) | 2:53 |
 | 11 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 12 | [Homesick](https://open.spotify.com/track/7d0kDcSMb4gITAYL5Os52M) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Homesick](https://open.spotify.com/album/5SfwE6ByYqjZLv2SwWLgFf) | 3:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 | 80 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
 
-Snapshot ID: `MTY2OTM4OTkwOSwwMDAwMDAwMDQyODg1ZWE4NWZhNzU1NTdlOTA5ZGIxMWM0N2NhYzBk`
+Snapshot ID: `MTY2OTM4OTkwOSwwMDAwMDAwMDlkYzY5OTVhZThhZDE2Yzg5NjMzOTA3OGIyZmQ5ZGY5`

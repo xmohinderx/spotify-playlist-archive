@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits of the week, worldwide! Cover: Jelly Roll",
+  "description": "Hot Country is proud to support St. Jude this holiday season! Learn more at MusicGives.Org #ThisShirtSavesLives Cover: Dan + Shay",
   "name": "Hot Country",
   "published_playlist_ids": [
     "6kgRyUaLssWEGETpjboDD4"
@@ -6992,6 +6992,24 @@
     },
     {
       "album": {
+        "name": "On A Different Night",
+        "url": "https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189277,
+      "name": "On A Different Night",
+      "url": "https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx"
+    },
+    {
+      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -7439,7 +7457,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 168447,
       "name": "Pickup",
       "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"

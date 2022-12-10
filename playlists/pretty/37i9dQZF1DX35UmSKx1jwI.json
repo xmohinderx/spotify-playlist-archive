@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 77846,
+  "num_followers": 77903,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEyMjU1MiwwMDAwMDAwMDI1ODllMmY0MzUzNDg5MDc4Y2UyNWI1OWI4MjA4NzM2",
+  "snapshot_id": "MTY2OTEyMjU1MiwwMDAwMDAwMGJhNGJmNjc4NjY0NWQzY2MyODA5ZjdiMGI3MjAzMmJk",
   "tracks": [
     {
       "added_at": "2020-09-07 09:31:00",
@@ -973,26 +973,6 @@
       "url": "https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ"
     },
     {
-      "added_at": "2018-09-19 06:34:28",
-      "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
-    },
-    {
       "added_at": "2022-09-13 07:34:12",
       "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
@@ -1175,6 +1155,26 @@
       "duration_ms": 145792,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/5Rse8If81NbzXL1ARjHOTB"
+    },
+    {
+      "added_at": "2020-09-07 09:31:00",
+      "album": {
+        "name": "House Arrest",
+        "url": "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 216441,
+      "name": "House Arrest",
+      "url": "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
     }
   ],
   "unique_name": "Gym Beats",

@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Jahyanai
 
-173 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+174 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Location](https://open.spotify.com/track/4ViOwdjYrRj1dRhid30mvb) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Location](https://open.spotify.com/album/3uQcLuTdxCOxt4dAUj1yqM) | 2:32 | 2022-03-17 | 2022-06-10 |
 | [Location](https://open.spotify.com/track/3DYcM56i1YQ410v8jv54pK) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Location](https://open.spotify.com/album/2vxDwrcRdSzKfBFWuQA5pH) | 2:36 | 2022-07-14 | 2022-10-14 |
 | [Lov'la](https://open.spotify.com/track/0u77jPc44fS40vJPM9eCCZ) | [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D), [Shanel Hill](https://open.spotify.com/artist/7lBnpvzrON0Y8EmW7hjrO4) | [Oasis](https://open.spotify.com/album/2otvEt7cIxwIuCTDEb0qAU) | 3:06 | 2022-01-06 | 2022-05-06 |
-| [MA JOLIE](https://open.spotify.com/track/44poH5uwgwcfhprLBBt9a6) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [Marginal](https://open.spotify.com/artist/3WbS1ppPV9QmsO29NG28fG) | [To be continued](https://open.spotify.com/album/0n6uzzVODatFJWYUP0Sc6i) | 2:48 | 2022-10-06 |  |
+| [MA JOLIE](https://open.spotify.com/track/2klasbfxSuLdv7IcQ2Oj8r) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [Marginal](https://open.spotify.com/artist/3WbS1ppPV9QmsO29NG28fG) | [To be continued](https://open.spotify.com/album/552zZmeV44WUgYPBq64H5i) | 2:48 | 2022-12-08 |  |
+| [MA JOLIE](https://open.spotify.com/track/44poH5uwgwcfhprLBBt9a6) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [Marginal](https://open.spotify.com/artist/3WbS1ppPV9QmsO29NG28fG) | [To be continued](https://open.spotify.com/album/0n6uzzVODatFJWYUP0Sc6i) | 2:48 | 2022-10-06 | 2022-12-10 |
 | [Manslaughter](https://open.spotify.com/track/76XPtMKet4TM5RE9bOejdF) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [KARYO](https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59) | [Manslaughter](https://open.spotify.com/album/0Pw1KzR7hPbh1pce9nTlIW) | 2:01 | 2022-03-17 | 2022-05-06 |
 | [Medusa \- West Indies Remix](https://open.spotify.com/track/4U3vSywHIpTC5G4g7FzPYb) | [H Magnum](https://open.spotify.com/artist/63hFhXYW3r2q8uW2Rf3LUw), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Medusa \(West Indies Remix\)](https://open.spotify.com/album/4iNvouonsS1toGeIg6WNce) | 2:37 | 2021-12-22 | 2022-02-25 |
 | [Mi Bad](https://open.spotify.com/track/7E9LkIbNwOdTtO5VVKEKCe) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Ricky Hype](https://open.spotify.com/artist/3P3VpRsc7DKghhiREMiuVN) | [Mi Bad](https://open.spotify.com/album/1LwTiebowCGjUbVpOsn2rx) | 2:42 | 2021-12-22 | 2022-04-01 |

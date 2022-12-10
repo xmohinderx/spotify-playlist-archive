@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,712 likes - 83 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,771 likes - 83 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

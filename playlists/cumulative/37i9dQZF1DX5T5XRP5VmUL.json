@@ -2515,6 +2515,24 @@
     {
       "album": {
         "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172186,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK"
+    },
+    {
+      "album": {
+        "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj"
       },
       "artists": [
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 170205,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/3E3QIlYJikHymLrScKCynD"
@@ -2915,7 +2933,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 218393,
       "name": "My Best Christmas",
       "url": "https://open.spotify.com/track/6dMFQBqkz2q6QgshdmgOUz"
@@ -3591,6 +3609,36 @@
       "duration_ms": 170343,
       "name": "Sleigh My Name",
       "url": "https://open.spotify.com/track/70bR0gy62cos6Gmfz6PBf2"
+    },
+    {
+      "album": {
+        "name": "Sleigh My Name (Remix)",
+        "url": "https://open.spotify.com/album/2EGGSpoN4WAGyojOzDwg0H"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        },
+        {
+          "name": "Shea Coule\u00e9",
+          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
+        },
+        {
+          "name": "Alaska Thunderfuck",
+          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
+        },
+        {
+          "name": "Lemon",
+          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215828,
+      "name": "Sleigh My Name (Remix)",
+      "url": "https://open.spotify.com/track/1sIhm5NsxNEcuNIm4RVjWD"
     },
     {
       "album": {

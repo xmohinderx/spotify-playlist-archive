@@ -2,9 +2,9 @@
 
 ### [The Newness](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> Our favorite R&B artists on the rise! Cover: Nippa
+> Our favorite R&B artists on the rise! Cover: Rileyy Lanez
 
-486 songs - 1 day 1 hr 14 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+489 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Feelings](https://open.spotify.com/track/1IoUc7el8qPFVFOC5jSfl7) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Feelings](https://open.spotify.com/album/2I0VwAeClbtch0ErYJbsDL) | 3:31 | 2022-08-26 | 2022-09-10 |
 | [Feelings 4 You](https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 4:16 | 2022-08-19 |  |
 | [Feels Good](https://open.spotify.com/track/39p6WaVTnpsqNiGkRmXw9a) | [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU), [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1) | [Somewhere in Mind](https://open.spotify.com/album/5lUwPajCLxdOdSAWNFiPqS) | 2:40 | 2022-01-28 | 2022-03-12 |
+| [Fell Asleep](https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:37 | 2022-12-09 |  |
 | [Figure It Out](https://open.spotify.com/track/7nZDS9vvNuDBE3w1JQNx3c) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Figure It Out](https://open.spotify.com/album/4KM1PhBa0e4oYkn3qQ3xGt) | 2:51 | 2022-03-18 | 2022-04-09 |
 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 | 2022-05-27 | 2022-08-20 |
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-03-25 | 2022-04-29 |
@@ -211,6 +212,7 @@
 | [Hourglass \(with Baby Tate\)](https://open.spotify.com/track/58LdWh8ptJ4JBJ3SwBINjn) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hourglass \(with Baby Tate\)](https://open.spotify.com/album/3NEUcyZnBlfzt2kS4ib7wO) | 2:54 | 2021-12-15 | 2022-03-12 |
 | [Hours](https://open.spotify.com/track/09aLAidfem9LE2TczinPy8) | [Zavier O'Keith](https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR) | [Interlude I: Hours](https://open.spotify.com/album/42aH89r2MIDs9RntnlfPOg) | 3:54 | 2022-04-01 | 2022-05-07 |
 | [Hours Make Ours](https://open.spotify.com/track/4kYVHMrIdqPVl7qUQyc5DL) | [Emmitt Dupree](https://open.spotify.com/artist/79MziQbpN1acq1nd6ixrkd) | [Hours Make Ours](https://open.spotify.com/album/59Ctl8fCrvgd9ogAdIwH30) | 3:33 | 2022-04-15 | 2022-05-14 |
+| [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 | 2022-12-09 |  |
 | [How Would It Feel](https://open.spotify.com/track/274qQbMfFyHuH9lYq5IjE6) | [Lyves](https://open.spotify.com/artist/0q31MBlCXGIFG6gl11Yn0t) | [How Would It Feel](https://open.spotify.com/album/3N4YH1oeJe8k57vWO0L8NX) | 5:10 | 2022-03-18 | 2022-04-09 |
 | [I CAN'T](https://open.spotify.com/track/65b76kM7sMWzoBiUMjsjR8) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE MAKINGS OF ME](https://open.spotify.com/album/3nUqWkMIx1l7XMyRNPTHGE) | 1:45 | 2022-07-22 | 2022-08-20 |
 | [I Do \(feat\. Slimwav\)](https://open.spotify.com/track/7fP5XHTX3hbR3g7TY8WtcW) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Slim Wav](https://open.spotify.com/artist/4POukeJmTgfsZ8h0oCLZoB) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 4:02 | 2022-09-30 |  |
@@ -371,6 +373,7 @@
 | [RED HOT](https://open.spotify.com/track/3grdg1YUd5ypDi9gvchE3n) | [Justin Garner](https://open.spotify.com/artist/3xOsqNaO7F3UNdQjJJif8o) | [RED HOT](https://open.spotify.com/album/7xksRxG6MURC3k7kOJ3Qo7) | 3:04 | 2022-08-05 | 2022-08-27 |
 | [reprise](https://open.spotify.com/track/1gQrLTJ3i09hLEIuK0zeuZ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [reprise](https://open.spotify.com/album/6173hx0cTeTSCoiR4lOKHu) | 4:25 | 2022-05-13 | 2022-07-10 |
 | [restless](https://open.spotify.com/track/4Rgf41ic8OWW0Ah19yQAVC) | [Finding Neo](https://open.spotify.com/artist/1cCSaRtUGbb4ox3zMhqfPh) | [no man is an island](https://open.spotify.com/album/3lVVg98XNvwy64Kz22i1Qq) | 4:08 | 2022-04-15 | 2022-05-21 |
+| [Rich Girl](https://open.spotify.com/track/5BOzvUNdF15sLFeZkxXNuA) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Rich Girl](https://open.spotify.com/album/1wABNR02b7NuEYawiFquby) | 2:42 | 2022-12-09 |  |
 | [Ride](https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Ride](https://open.spotify.com/album/5JdNEDADKC0WVWCa0Gd3GC) | 2:53 | 2022-10-07 |  |
 | [Ride With Me](https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Ride With Me](https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R) | 3:52 | 2022-03-05 | 2022-04-09 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-03-11 | 2022-04-09 |

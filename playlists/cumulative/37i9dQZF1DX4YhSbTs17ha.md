@@ -4,7 +4,7 @@
 
 > Escucha las canciones de pop más exitosas en México\. Lasso en portada.
 
-238 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
+239 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2022-08-26 |  |
 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2022-09-05 |  |
 | [A Veces Bien Y A Veces Mal](https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [A Veces Bien Y A Veces Mal](https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci) | 2:25 | 2022-04-18 |  |
-| [Aeropuerto](https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:57 | 2022-09-09 |  |
+| [Aeropuerto](https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:57 | 2022-09-09 | 2022-12-10 |
 | [AGUA](https://open.spotify.com/track/4e4t1qNN47CzmCxFffzs4U) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:24 | 2022-04-18 | 2022-11-01 |
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-19 | 2022-09-24 |
 | [Alcancía](https://open.spotify.com/track/020womZSqTEXnoDptWI6mL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Alcancía](https://open.spotify.com/album/21FzQPHfPmEK4XLeETdC7o) | 3:18 | 2022-02-04 | 2022-07-05 |
@@ -77,6 +77,7 @@
 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 | 2022-02-04 |  |
 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 | 2022-08-19 | 2022-11-01 |
 | [Entre las Nubes](https://open.spotify.com/track/7JxObO68A9tKaxwKOQZByz) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Entre las Nubes](https://open.spotify.com/album/4SlVC4vaeqOwso6amw6a8S) | 3:17 | 2022-02-04 | 2022-04-19 |
+| [Eres](https://open.spotify.com/track/6o5po5Qd3eiCv5IZpVp8zD) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Corazón Y Flecha](https://open.spotify.com/album/1A5Tg8rJ9427lkrL64mIzy) | 3:48 | 2022-12-09 |  |
 | [Eres Mi Aire](https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO) | 3:45 | 2022-09-09 | 2022-10-02 |
 | [Eres Mi Religión](https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Eres Mi Religión](https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc) | 4:27 | 2022-02-04 | 2022-03-18 |
 | [Esa Parte De Mí](https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte De Mí](https://open.spotify.com/album/3StKKTOhmUMbmrqZbH0tDi) | 3:35 | 2022-04-22 |  |

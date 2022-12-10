@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Churo Díaz y Elías Mendoza
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,395 likes - 65 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,435 likes - 65 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

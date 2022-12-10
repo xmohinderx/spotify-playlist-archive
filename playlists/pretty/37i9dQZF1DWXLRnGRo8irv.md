@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성들의 목소리가 담긴 플레이리스트 EQUAL KOREA의 2022년 탑 트랙을 만나보세요\. \(커버: NMIXX\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,858 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,860 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 19 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 |
 | 20 | [Starlight](https://open.spotify.com/track/5i5WNh302rkoveunUdZwG2) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:19 |
 
-Snapshot ID: `MTY2OTgyNjEyNywwMDAwMDAwMGJlYTIxMWI4NTc4NmQ2OTViODBjOTlmOTMwYTU1OWRm`
+Snapshot ID: `MTY3MDU3NjY2OCwwMDAwMDAwMGRkMzVlNzQyNjNjZWFlYjVmODJjYTg5YzYwNjQyNDJj`

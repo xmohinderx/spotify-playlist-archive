@@ -964,6 +964,24 @@
     },
     {
       "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n"
+      },
+      "artists": [
+        {
+          "name": "Alonso Librado",
+          "url": "https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126496,
+      "name": "El Sabio",
+      "url": "https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt"
+    },
+    {
+      "album": {
         "name": "Elena",
         "url": "https://open.spotify.com/album/1qlDQQh4Syo913ywPxNmQW"
       },
@@ -2915,6 +2933,24 @@
       "duration_ms": 141000,
       "name": "Terrassa",
       "url": "https://open.spotify.com/track/4uR1yeK0D3mRIno6VFWtWU"
+    },
+    {
+      "album": {
+        "name": "The Answers",
+        "url": "https://open.spotify.com/album/0ql2lwrmwxEsQQDdfWbRq7"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "The Answers",
+      "url": "https://open.spotify.com/track/6fyvEapH6yPLGRplGYscPi"
     },
     {
       "album": {

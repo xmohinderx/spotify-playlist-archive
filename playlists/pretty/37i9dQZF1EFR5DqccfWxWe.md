@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 54 | [Bandida](https://open.spotify.com/track/4GengTJ0IhkOctS5g3NOvN) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:05 |
 | 55 | [Irreparable](https://open.spotify.com/track/3RlB1qa1FXbRSw0etTVqoS) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:03 |
 | 56 | [Overtime](https://open.spotify.com/track/4qWXlgz0yFd1cOYphUN7Qx) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:54 |
-| 57 | [Options](https://open.spotify.com/track/0ZYiSiC3epDgToppkYzDse) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:55 |
-| 58 | [Besos en la Frente](https://open.spotify.com/track/6vZUBvdWC0o9t21mt0q5vZ) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:52 |
+| 57 | [Besos en la Frente](https://open.spotify.com/track/6vZUBvdWC0o9t21mt0q5vZ) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:52 |
+| 58 | [Options](https://open.spotify.com/track/0ZYiSiC3epDgToppkYzDse) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:55 |
 | 59 | [Tetris](https://open.spotify.com/track/2ip1DQ9KZnm7oM5ZZ2I6DY) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:26 |
 | 60 | [Ahora o Nunca](https://open.spotify.com/track/4maAZ4ZhPD4izQtL7lFlom) | [Oriana Sabatini](https://open.spotify.com/artist/36ZqMC7zjLgKhxKc1l9g0X) | [Aliados](https://open.spotify.com/album/7xjf7xLTk3tePpkIq0OQJR) | 3:34 |
 | 61 | [Lo Que Yo Diga](https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lo Que Yo Diga](https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4) | 2:32 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 92 | [Diciembre Sin Ti](https://open.spotify.com/track/4RS4SB4CcZybf1kGz993ds) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Diciembre Sin Ti](https://open.spotify.com/album/4Fer79sUn0C5roLh5GaO9i) | 3:27 |
 | 93 | [Blinded](https://open.spotify.com/track/7kkvFOBOJuy5OwbnDMXTVJ) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq) | 3:52 |
 | 94 | [Free Like A Bird](https://open.spotify.com/track/1Z9iPNOlVp6whFtC19PBnW) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:06 |
-| 95 | [Malas Lenguas](https://open.spotify.com/track/4D0KRwHE25Q3HDzD7dORX5) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Intuición](https://open.spotify.com/album/1wFlOd0yqPGfly3SFTw86T) | 2:44 |
-| 96 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
-| 97 | [Sentado](https://open.spotify.com/track/7lD6RFjjaqbaN1qOu4e07g) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [Sentado](https://open.spotify.com/album/37d5zTOOBf6a8AGOQJLdhL) | 3:28 |
-| 98 | [Calma](https://open.spotify.com/track/4j9AeZwJJaqBoAmT1sIBh4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Calma](https://open.spotify.com/album/56WyGihpAfyooVSew8PhNZ) | 2:55 |
+| 95 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
+| 96 | [Malas Lenguas](https://open.spotify.com/track/4D0KRwHE25Q3HDzD7dORX5) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Intuición](https://open.spotify.com/album/1wFlOd0yqPGfly3SFTw86T) | 2:44 |
+| 97 | [Calma](https://open.spotify.com/track/4j9AeZwJJaqBoAmT1sIBh4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Calma](https://open.spotify.com/album/56WyGihpAfyooVSew8PhNZ) | 2:55 |
+| 98 | [Sentado](https://open.spotify.com/track/7lD6RFjjaqbaN1qOu4e07g) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [Sentado](https://open.spotify.com/album/37d5zTOOBf6a8AGOQJLdhL) | 3:28 |
 | 99 | [Taxi Man](https://open.spotify.com/track/3rHpETVQdSHjeCWfzy8cnw) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq) | 4:12 |
 | 100 | [4.9.14](https://open.spotify.com/track/6vJ635INI2eIFpjXT4HmAG) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:34 |
 | 101 | [How I Used To Be](https://open.spotify.com/track/6f19F5WXT49qOlsyJSspSn) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:12 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 116 | [La Misma Voz](https://open.spotify.com/track/1Pnu14ES6CbPKWngtVxVoM) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Joy](https://open.spotify.com/artist/0BmVwpA9NNMJs1M6joiKm9), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [El General Naranjo \(Temas Originales de la Serie de FOX Premium\)](https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q) | 3:11 |
 | 117 | [Elise Was Here](https://open.spotify.com/track/1BiFGKc3j3cJpD0GyUgxmp) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [Elise Was Here](https://open.spotify.com/album/3CWoJapAdbrcu8jb3PTscK) | 3:23 |
 | 118 | [Fantasize \(feat\. Cecile\) \- Vocal Club Mix](https://open.spotify.com/track/1b7mHh72iJHnRtKuth5anA) | [Rob Mello](https://open.spotify.com/artist/2Cf5htut80RUyUxD6QXtFX), [Cecile](https://open.spotify.com/artist/66RCMcPCPiqbG1N3UfokUQ) | [Fantasize \(feat\. Cecile\)](https://open.spotify.com/album/14fkh0mWVPaPCsvL61EuXu) | 7:45 |
-| 119 | [A Plena Luz](https://open.spotify.com/track/0H065bXKlwjfxR3YMnqsl2) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [A Plena Luz](https://open.spotify.com/album/7dBgL2M2CgZaNoAkc4ecPD) | 4:03 |
-| 120 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
+| 119 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
+| 120 | [A Plena Luz](https://open.spotify.com/track/0H065bXKlwjfxR3YMnqsl2) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [A Plena Luz](https://open.spotify.com/album/7dBgL2M2CgZaNoAkc4ecPD) | 4:03 |
 | 121 | [El carnaval](https://open.spotify.com/track/3p449iXDlyrgDpy5ZfcfAL) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:43 |
 | 122 | [Sin Desesperar](https://open.spotify.com/track/36QnGKXSouI4ZSm3bMqBOV) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 4:02 |
 | 123 | [En El Teatro](https://open.spotify.com/track/2h5lbaq6Ge7rcJGrijc4UU) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 1:48 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc4NDI0NjMsMDAwMDAwMDAxZDMwOGZjYjFhMzlkMDg0MDVjYTgyMDJmNDlhNjRkMw==`
+Snapshot ID: `Mjc4NDM5MDMsMDAwMDAwMDAxZmE5ZDc0OGViZmExYWFjNDE5MDcxYzg5MmU1N2FkNQ==`

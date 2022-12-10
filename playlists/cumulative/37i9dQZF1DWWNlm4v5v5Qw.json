@@ -3805,7 +3805,7 @@
     {
       "album": {
         "name": "One Shot",
-        "url": "https://open.spotify.com/album/1k6gsqQXyHoFjGQO2l7xuC"
+        "url": "https://open.spotify.com/album/6KSKRekZKhjkgmkq7vlDkm"
       },
       "artists": [
         {
@@ -3820,6 +3820,28 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 158087,
+      "name": "One Shot",
+      "url": "https://open.spotify.com/track/4QyzA8igZqb7qVz3BxiQXB"
+    },
+    {
+      "album": {
+        "name": "One Shot",
+        "url": "https://open.spotify.com/album/1k6gsqQXyHoFjGQO2l7xuC"
+      },
+      "artists": [
+        {
+          "name": "Anweezy",
+          "url": "https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom"
+        },
+        {
+          "name": "I'm Dru!",
+          "url": "https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
       "duration_ms": 158087,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/4WbeXP51v5f8qvVY0awjkY"

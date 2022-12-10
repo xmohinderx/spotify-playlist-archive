@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,144 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,156 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 49 | [KABANERI OF THE IRON FORTRESS \-Instrumental\-](https://open.spotify.com/track/5WQ2gTSyn4zh5skFTF19t6) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:52 |
 | 50 | [Departures 〜あなたにおくるアイの歌〜 \-BOOM BOOM SATELLITES Remix\-](https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 7:11 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA3ZmYxYjQ4NmQ5MGVlOTU2MTlkM2YzZDY4M2JmZTI1NA==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBmYWNjYzg1MDIwN2FmNzQwNmE2OTBkY2I1YTkzNzViMg==`

@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 164594,
       "name": "Ass For Days",
       "url": "https://open.spotify.com/track/4xsLRqemrXE402nb3GHUVj"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 208932,
       "name": "BILLS PAID (feat. Latto & City Girls)",
       "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
@@ -2284,6 +2284,28 @@
     },
     {
       "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188371,
+      "name": "Damn Homie (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/1KxdG2javZzd9GPdQjrQZS"
+    },
+    {
+      "album": {
         "name": "Dancing Queen / Yasss Queen",
         "url": "https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff"
       },
@@ -2938,6 +2960,32 @@
     },
     {
       "album": {
+        "name": "Finger Food",
+        "url": "https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1"
+      },
+      "artists": [
+        {
+          "name": "Rolling Loud",
+          "url": "https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg"
+        },
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218413,
+      "name": "Finger Food",
+      "url": "https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
       },
@@ -2989,7 +3037,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 135133,
       "name": "Fly Sh!t",
       "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
@@ -3019,6 +3067,24 @@
       "duration_ms": 207933,
       "name": "FOR A NUT (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/7HCX1Ch3mklJyEdpwPZBFW"
+    },
+    {
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
     },
     {
       "album": {
@@ -3221,7 +3287,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 175221,
       "name": "Geeked Up (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS"
@@ -3459,6 +3525,24 @@
       "duration_ms": 170057,
       "name": "Handstand (with Doja Cat feat. Saweetie)",
       "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
+    },
+    {
+      "album": {
+        "name": "Hanging With Wolves",
+        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "Hanging With Wolves",
+      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
     },
     {
       "album": {
@@ -4055,7 +4139,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 166265,
       "name": "It's All on U",
       "url": "https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3"
@@ -4213,6 +4297,28 @@
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "album": {
+        "name": "Keep Calling",
+        "url": "https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Keep Calling",
+      "url": "https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU"
     },
     {
       "album": {
@@ -4848,6 +4954,24 @@
     },
     {
       "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191861,
+      "name": "Money Conversations",
+      "url": "https://open.spotify.com/track/6ZGJxCrdcILAro3kM3wvRA"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -5406,6 +5530,24 @@
     },
     {
       "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150241,
+      "name": "Out th\u00eb way",
+      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
+    },
+    {
+      "album": {
         "name": "Outside (Better Days)",
         "url": "https://open.spotify.com/album/1DJ4bBATfVNTZ3Y0JlX9oi"
       },
@@ -5651,6 +5793,24 @@
       "duration_ms": 139469,
       "name": "Playa (with Gunna)",
       "url": "https://open.spotify.com/track/4KH2xxnlvlE1koTS6OZSD8"
+    },
+    {
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "album": {
@@ -7511,7 +7671,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 234899,
       "name": "Super Freaky Girl (with JT & BIA feat. Katie Got Bandz, Akbar V & Maliibu Mitch) - Queen Mix",
       "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
@@ -7595,7 +7755,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
@@ -8475,7 +8635,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 137799,
       "name": "Very Special",
       "url": "https://open.spotify.com/track/63udrqw7YGYVqTNdBqgyKy"

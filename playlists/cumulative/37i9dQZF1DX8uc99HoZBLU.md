@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-284 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+286 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [april leaves](https://open.spotify.com/track/5dePr02a5xgNXRJ6rh8Ga7) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [april leaves](https://open.spotify.com/album/1yxUtcQMSvd772owmtKw0o) | 2:06 | 2021-08-13 | 2022-04-18 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2022-06-07 | 2022-11-13 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2022-01-18 |  |
+| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2022-12-09 |  |
 | [Bambi](https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:37 | 2021-07-19 | 2022-07-29 |
 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 | 2021-06-08 |  |
 | [Best Friend](https://open.spotify.com/track/4BeIdwrMlsBlVHgJHs9l6J) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:44 | 2021-08-19 | 2022-07-27 |
@@ -140,7 +141,7 @@
 | [Just the Two of Us](https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 7:23 | 2021-10-01 | 2022-11-17 |
 | [Kneepads](https://open.spotify.com/track/4nrMhdklAbLUkHRv1H7YkA) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Welcome to the Witching Hour](https://open.spotify.com/album/2gUR7ulwZBk5lmGHkwlhKX) | 2:35 | 2021-06-08 | 2022-07-29 |
 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 | 2021-09-17 | 2022-04-19 |
-| [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2021-06-08 |  |
+| [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2021-06-08 | 2022-12-10 |
 | [Let's Hold Hands \(feat\. Melanie Faye\)](https://open.spotify.com/track/2Gi5XHbTxLbzwjQQHky749) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Let's Hold Hands \(feat\. Melanie Faye\)](https://open.spotify.com/album/2xzmYeAFAzzru2hFUbgiBg) | 2:59 | 2021-06-08 | 2022-07-29 |
 | [lie to me](https://open.spotify.com/track/4x2e3S53WtvEi8jzl1g0Mt) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [lie to me](https://open.spotify.com/album/1ASYc873YDpvSuTdsSple5) | 3:35 | 2021-08-13 | 2022-04-18 |
 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 | 2021-06-08 |  |
@@ -172,7 +173,7 @@
 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 | 2022-08-19 | 2022-11-27 |
 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 | 2022-07-19 |  |
 | [Mrs Magic](https://open.spotify.com/track/45BBlVHECwB0uNt7BsJ97r) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/1q7N3YyxCng8awmwE3dNn5) | 3:28 | 2021-06-08 | 2022-07-29 |
-| [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2021-06-08 |  |
+| [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2021-06-08 | 2022-12-10 |
 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 | 2021-06-08 | 2022-04-18 |
 | [my new love](https://open.spotify.com/track/23gcQr3NRKzLXsP9H5jFQ1) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:05 | 2021-06-08 | 2022-04-13 |
 | [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 | 2022-09-09 |  |
@@ -261,6 +262,7 @@
 | [Tomorrow](https://open.spotify.com/track/7BKwEybys8ZWeYCMykvUrL) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Tomorrow](https://open.spotify.com/album/77Xaj1yittcrI9g7PWbXxq) | 2:08 | 2021-08-20 | 2022-06-04 |
 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 | 2021-09-17 | 2022-07-28 |
 | [Ultimately](https://open.spotify.com/track/0I0ZackSSk90oGUJtfKnJd) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Autumn's End](https://open.spotify.com/album/2tGYgOBYVwd8N1e5jBmJqY) | 2:22 | 2021-06-08 | 2022-04-21 |
+| [unless you leave](https://open.spotify.com/track/5q0HdkRYhJlVI8Ep3Bfv2i) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [unless you leave](https://open.spotify.com/album/0lPd9kfr60CDR9OS50Eefe) | 3:24 | 2022-12-09 |  |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-19 | 2022-09-09 |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-09-09 |  |
 | [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2022-11-11 |  |

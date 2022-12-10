@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Cris Mj.",
+  "description": "Este Flow tiene otro Flow. Foto: Gianluca.",
   "name": "Reggaet\u00f3n Chileno",
   "published_playlist_ids": [
     "2FMJDC0qJwnjZnSiGHmfDy"
@@ -45,6 +45,24 @@
       "duration_ms": 150496,
       "name": "20 DE 10",
       "url": "https://open.spotify.com/track/5NcqccqI9aj1mp1sVYHxpx"
+    },
+    {
+      "album": {
+        "name": "Minion Mixtape",
+        "url": "https://open.spotify.com/album/0mlzT7AnWFy75UAyqhD2f2"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185946,
+      "name": "2012",
+      "url": "https://open.spotify.com/track/48fZvr6qOW0GwxYV5o6AEN"
     },
     {
       "album": {
@@ -259,7 +277,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 189216,
       "name": "Anti Rana",
       "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
@@ -600,6 +618,36 @@
     },
     {
       "album": {
+        "name": "Minion Mixtape",
+        "url": "https://open.spotify.com/album/0mlzT7AnWFy75UAyqhD2f2"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Fuka",
+          "url": "https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ"
+        },
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300773,
+      "name": "CAI EN TU JUEGO (REMIX)",
+      "url": "https://open.spotify.com/track/2zS7Rzrg5jRSFAHPaSZF0l"
+    },
+    {
+      "album": {
         "name": "Callate Perro",
         "url": "https://open.spotify.com/album/6bSLNCEtz7VzMkUHUXw6oh"
       },
@@ -611,7 +659,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 190406,
       "name": "Callate Perro",
       "url": "https://open.spotify.com/track/2dx4GBIrGZdgOpJW1H5hzg"
@@ -1543,7 +1591,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176842,
       "name": "Experimento 02",
       "url": "https://open.spotify.com/track/6fxj742z5XMyVetyTuuK5G"
@@ -2005,6 +2053,28 @@
       "duration_ms": 436298,
       "name": "Hay Amores Que Matan - Remix",
       "url": "https://open.spotify.com/track/4938heiCnr3uLMh5GxXRVx"
+    },
+    {
+      "album": {
+        "name": "HEY MA",
+        "url": "https://open.spotify.com/album/2DTYgi1rNSd6ZsLO3w4LfB"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "HEY MA",
+      "url": "https://open.spotify.com/track/7B3DIkZwl8UHl5YrnIqCrk"
     },
     {
       "album": {
@@ -2945,7 +3015,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 445517,
       "name": "Minions de 1.60 - Remix",
       "url": "https://open.spotify.com/track/0G73DxiiblUaPBlrpwaHR5"
@@ -3135,6 +3205,50 @@
       "duration_ms": 273408,
       "name": "Muevete",
       "url": "https://open.spotify.com/track/3e0EYgl4lQYB6k4pYqg9Pl"
+    },
+    {
+      "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/0pZhWMSDItIQUt2kRHdpwR"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259591,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/5r7eJOBw5Yqik0efMbC3Eq"
+    },
+    {
+      "album": {
+        "name": "Mu\u00f1eca",
+        "url": "https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182603,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
     },
     {
       "album": {
@@ -3899,6 +4013,28 @@
       "duration_ms": 222876,
       "name": "PERREA KTM",
       "url": "https://open.spotify.com/track/5dqsBNMcoZdZSkdtAKmaQz"
+    },
+    {
+      "album": {
+        "name": "Minion Mixtape",
+        "url": "https://open.spotify.com/album/0mlzT7AnWFy75UAyqhD2f2"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166071,
+      "name": "PERREO CN HARRY",
+      "url": "https://open.spotify.com/track/37kxxIre3zN2IzbooRcXdu"
     },
     {
       "album": {
@@ -4775,7 +4911,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
@@ -5513,7 +5649,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 180000,
       "name": "Waka Waka",
       "url": "https://open.spotify.com/track/4EsOVRSNYAeBLorDkTvBfE"

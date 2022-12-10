@@ -2,7 +2,7 @@
 
 ### [Fresh Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> New songs from some of the latest and greatest Gospel music artists\.  Cover:  Jonathan McReynolds
+> New songs from some of the latest and greatest Gospel music artists\.  Cover:  DOE
 
 232 songs - 20 hr 7 min - [published](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
 

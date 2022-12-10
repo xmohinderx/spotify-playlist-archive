@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,505 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,512 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 4:40 |
 | 50 | [Tan Lejos del Sol](https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 6:28 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA2MTk3YjMwMDE0YzBiZWUwMjNlM2JmODAyODMyZTdlYw==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA2N2U3NTFiMzk3ZDBiZWVmODRjODk1ZDRiNmNkMmIxOQ==`

@@ -792,6 +792,24 @@
     },
     {
       "album": {
+        "name": "Kold Szn",
+        "url": "https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181348,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
+    },
+    {
+      "album": {
         "name": "Subaru Boys : FINAL HEAVEN",
         "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
       },
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 174545,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/6Kh0SVrpJkEWbOGtFKAKFB"
@@ -1825,6 +1843,28 @@
       "duration_ms": 230400,
       "name": "Fine Wine (feat. King Promise & Joeboy)",
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
+    },
+    {
+      "album": {
+        "name": "Fine Wine (ft. Amaarae)",
+        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
+      },
+      "artists": [
+        {
+          "name": "Kelechief",
+          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Fine Wine (ft. Amaarae)",
+      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
     },
     {
       "album": {
@@ -2291,7 +2331,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 174590,
       "name": "How To Kill A Man",
       "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
@@ -2589,7 +2629,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 174587,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby"
@@ -5419,7 +5459,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 153569,
       "name": "Why",
       "url": "https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla"

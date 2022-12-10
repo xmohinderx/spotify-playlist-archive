@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "A Past Life Thing",
+        "url": "https://open.spotify.com/album/7cz5Iq6qdUA5ehO9IkM5xQ"
+      },
+      "artists": [
+        {
+          "name": "Oma Holt",
+          "url": "https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156042,
+      "name": "A Past Life Thing",
+      "url": "https://open.spotify.com/track/0GYdA0QT7dSxBsJK9LvqLi"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/7FOICAmy6YkVum07rk5tNJ"
       },
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 130800,
       "name": "Ashley",
       "url": "https://open.spotify.com/track/0S6RcRs940bTaQjED6YGM8"
@@ -628,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Belladonna",
+        "url": "https://open.spotify.com/album/6SUPW4G8JssJ10qe2nn3KP"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158724,
+      "name": "Belladonna",
+      "url": "https://open.spotify.com/track/2gPEVwlP1aMuUtLKbZXARB"
+    },
+    {
+      "album": {
         "name": "Better Day",
         "url": "https://open.spotify.com/album/76KdJF0ReBY7NlolwLFsPj"
       },
@@ -719,6 +755,24 @@
       "duration_ms": 143891,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/4fNVjILYK5Qcaqh4N7HOye"
+    },
+    {
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/0LfWOzgdT62OdRfTPo5KFA"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149561,
+      "name": "Blank Canvas",
+      "url": "https://open.spotify.com/track/7MrCRqn07YakEQfVkbuw1b"
     },
     {
       "album": {
@@ -859,7 +913,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 168103,
       "name": "Bridge Beyond (Classical Guitar version)",
       "url": "https://open.spotify.com/track/4Fw03ljZwacmLgDjlDaMIr"
@@ -1010,6 +1064,24 @@
     },
     {
       "album": {
+        "name": "Bellagio",
+        "url": "https://open.spotify.com/album/4P47CBWTNYqS4O2IRYgxkQ"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210723,
+      "name": "Causos",
+      "url": "https://open.spotify.com/track/3OSRR6VXC8qNmmZZNb2o9T"
+    },
+    {
+      "album": {
         "name": "Cuerda De Algodon",
         "url": "https://open.spotify.com/album/459rMVytLNW0fjDKzmOVzU"
       },
@@ -1025,6 +1097,24 @@
       "duration_ms": 205320,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/5lofKP3ukP8nV9ea0GDuUF"
+    },
+    {
+      "album": {
+        "name": "Chance Encounter",
+        "url": "https://open.spotify.com/album/0B5jOPJp2DfOIS7hX8VjyB"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Lola",
+          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156104,
+      "name": "Chance Encounter",
+      "url": "https://open.spotify.com/track/1VxxgFevf8qEmCgCtSHYTL"
     },
     {
       "album": {
@@ -1119,7 +1209,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 177133,
       "name": "Chinar Es (Arr. by Jo\u00e3o Kouyoumdjian)",
       "url": "https://open.spotify.com/track/2NIOzaefQJpBxnuMMaI8Om"
@@ -1695,7 +1785,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 138037,
       "name": "Dr\u00f8mmefanger",
       "url": "https://open.spotify.com/track/0T6bYCFzm1OZQYaKgpJw0e"
@@ -1825,6 +1915,24 @@
       "duration_ms": 117358,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/5ymSjtKAJNx0n2cpSz5k6p"
+    },
+    {
+      "album": {
+        "name": "Embedded",
+        "url": "https://open.spotify.com/album/4z2GFR64bN18wH3vI6CxQW"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133060,
+      "name": "Embedded",
+      "url": "https://open.spotify.com/track/03RenC8nzfNTbQNiZcuSig"
     },
     {
       "album": {
@@ -2131,7 +2239,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 121556,
       "name": "Fruits Of Your Love",
       "url": "https://open.spotify.com/track/5tFzaUHt0gfePUY36hyuJK"
@@ -3399,7 +3507,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 141562,
       "name": "Lowlight (Duet)",
       "url": "https://open.spotify.com/track/5GQw0xJFMXme3lsU2zbOC7"
@@ -3493,6 +3601,24 @@
       "duration_ms": 142500,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5PpiRTT6BA1XXDE9lSXmG9"
+    },
+    {
+      "album": {
+        "name": "Mail from Tunis",
+        "url": "https://open.spotify.com/album/2wv0UGbayjZB7JumiUjstP"
+      },
+      "artists": [
+        {
+          "name": "Verona Cassidy",
+          "url": "https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150487,
+      "name": "Mail from Tunis",
+      "url": "https://open.spotify.com/track/5XA4ntX5Fi2HXRRBGmNtvW"
     },
     {
       "album": {
@@ -4177,7 +4303,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 87929,
       "name": "Oceanic",
       "url": "https://open.spotify.com/track/1OUYDyfAVycgQaKATXzqw8"
@@ -4303,7 +4429,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 130560,
       "name": "Oshoshina",
       "url": "https://open.spotify.com/track/1ZUzQ8QlodbTIJdEVCnOlA"
@@ -4861,7 +4987,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 125458,
       "name": "Ritmo De Tus Ojos",
       "url": "https://open.spotify.com/track/7x1lfGAzTCLM40YIIFAExB"
@@ -5779,7 +5905,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 158380,
       "name": "Sweet Ride",
       "url": "https://open.spotify.com/track/5dRPiskVbrnc8fINiwrWy0"
@@ -6409,7 +6535,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 131803,
       "name": "Vos",
       "url": "https://open.spotify.com/track/26jriTDN3zZdpwHiXNyM3Q"
@@ -6557,7 +6683,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 139138,
       "name": "Wandering",
       "url": "https://open.spotify.com/track/6AKceX2otYx1lMCRGGydMb"
@@ -6575,7 +6701,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 147433,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/0kUvYvrYM7xJnnJJFwNW1r"
@@ -6611,7 +6737,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 177373,
       "name": "Welcomed By The Forest",
       "url": "https://open.spotify.com/track/3rJhEXYvo24oB4s2LAsKYv"

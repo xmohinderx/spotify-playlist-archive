@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,512 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,557 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/6yWXKiGLhagm6f9biSM7Bk) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DOS HOJAS SIN RUMBO / ENSÉÑAME A OLVIDAR \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5igh7OUbG6jyg5yXVWnTQk) | 3:27 |
 | 50 | [Atras De La Raya \- \(En Vivo\)](https://open.spotify.com/track/7AZLFXk4B3eA2Rp5nNcr8w) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:39 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDBhNWFhOGMzZWZjNDZlYWZlOTkxYjk4YzFkYmE5NDkxNA==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDAwYmQzZTQzNTI2OTlkOGY1NjI3NDI2Zjk2MjZmZDE3YQ==`

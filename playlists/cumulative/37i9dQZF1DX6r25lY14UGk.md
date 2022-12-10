@@ -4,10 +4,11 @@
 
 > Essential kids songs to add to your family's collection.
 
-119 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
+121 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2022-12-09 |  |
 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 | 2022-04-15 |  |
 | [Aw Rats!](https://open.spotify.com/track/2fwU2mOKq9Dg6AKVCJoPIU) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [The Underground EP](https://open.spotify.com/album/0xCbftwb9n6KgSBqlxLwvC) | 2:07 | 2022-04-15 |  |
 | [Awesome Blossom](https://open.spotify.com/track/73LhvPZug2UePzRWjXriCV) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:39 | 2022-04-15 |  |
@@ -90,6 +91,7 @@
 | [Outside Time \(My Favourite Time of Day\)](https://open.spotify.com/track/62zIyjEJQV9ABAx9fc0ZoU) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Outside Time \(My Favourite Time of Day\)](https://open.spotify.com/album/4iKkWQIATd1PoWFU4xLrjv) | 2:20 | 2022-04-15 |  |
 | [PJs All Day](https://open.spotify.com/track/4HVli0VNf13JmmgkC2p2x6) | [The Oot n' oots](https://open.spotify.com/artist/4r7I9e1YST7G7EY8C2qnoK) | [Ponderosa Bunchgrass and the Golden Rule](https://open.spotify.com/album/4KLLD8QW7MrYVJpMlObyg9) | 2:52 | 2022-04-15 |  |
 | [Rainbow Connection](https://open.spotify.com/track/2cOfeOWB5kAN2xHeD6jFHe) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Rainbow Connection](https://open.spotify.com/album/5xIGxeL9Rl9FmWCbB4AR9y) | 4:12 | 2022-04-15 |  |
+| [Revolting Children](https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt) | [Charlie Hodson\-Prior](https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF), [Meesha Garbett](https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4), [Liberty Greig](https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4), [The Cast of Roald Dahl's Matilda The Musical](https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf) | [Roald Dahl's Matilda The Musical \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo) | 2:54 | 2022-12-09 |  |
 | [Seize the Day](https://open.spotify.com/track/1Z50yf31NWbFy1WYChOTTf) | [Jazzy Ash](https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ), [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj) | [Good Foot](https://open.spotify.com/album/5MW5jSzYtbdDxAdjbYmOin) | 2:39 | 2022-04-15 |  |
 | [Shine Like the Sun](https://open.spotify.com/track/0LBjanRgtV3Fwb2Q7YxyK3) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Shine Like the Sun](https://open.spotify.com/album/6qUpKJPe0VicRiU7JRAz8I) | 2:34 | 2022-04-15 |  |
 | [Simple Things](https://open.spotify.com/track/0vc6baER4BkEumhyJbIMxd) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/2D8ZsWo3AN7YzzmUYVbAA3) | 2:36 | 2022-04-15 |  |

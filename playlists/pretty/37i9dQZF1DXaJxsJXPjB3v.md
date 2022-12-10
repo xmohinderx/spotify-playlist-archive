@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit memories and make new ones with the best Kwaito songs ever released\. Cover: Spikiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,837 likes - 58 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,878 likes - 58 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

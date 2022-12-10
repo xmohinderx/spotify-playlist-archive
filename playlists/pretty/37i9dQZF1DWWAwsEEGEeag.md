@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,923 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,928 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 63 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 |
 | 64 | [Jeanne\-Mance](https://open.spotify.com/track/0kE9iw4bjbli8ViwVboNc5) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Summer Pack!](https://open.spotify.com/album/05Y8cMVteSJRy1kLNRXQGy) | 3:02 |
 | 65 | [C'EST BEAU](https://open.spotify.com/track/1wMFt4BeA4ItpowAsOzO8S) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:50 |
-| 66 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [MC Azas](https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 |
+| 66 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Mc Azas](https://open.spotify.com/artist/17N0ZLk7LwYBXT2DsG73KN) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 |
 | 67 | [Od'e](https://open.spotify.com/track/6BWGXZi3hVmSOpAeDIexfi) | [Amarula Café Club](https://open.spotify.com/artist/5ESiClFEihXPGrgq9t36Gd) | [Od'e](https://open.spotify.com/album/1CDTfbRnxNry1wFOrpDxhT) | 2:48 |
 | 68 | [Wake Up, Get Down](https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Wake Up, Get Down](https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6) | 4:19 |
 | 69 | [Jean\-Talon](https://open.spotify.com/track/4iyjztJtT9o5N6ka7grAdq) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ), [Liamliamliam](https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw) | [Jean\-Talon](https://open.spotify.com/album/7EOTPOGsZYkBpKmqSTwYfE) | 2:55 |

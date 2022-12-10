@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-298 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+299 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Old Fashioned](https://open.spotify.com/track/3iI7E4AxiTf0Pmb7oWSjR0) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:19 | 2020-10-17 |  |
 | [Old Love \(Bonus\)](https://open.spotify.com/track/6saFywPB1ofkLwuy95UQXc) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stay Tuned!](https://open.spotify.com/album/2W5iEk6ZM6Gqf0uYtZEaFA) | 3:25 | 2020-10-17 | 2022-06-03 |
 | [Old Time's Sake](https://open.spotify.com/track/3IQSmhYf1nst6Gp5BbW3xE) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Beginning of Things](https://open.spotify.com/album/24XNUmmNY44uGmG4aY001K) | 3:22 | 2020-10-17 | 2022-04-21 |
-| [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 | 2022-03-11 |  |
+| [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 | 2022-03-11 | 2022-12-10 |
 | [One Day](https://open.spotify.com/track/60npAyGdzYq1MzCoSkNfXo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 8:25 | 2021-09-07 | 2022-07-29 |
 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2022-12-02 |  |
 | [Only Love](https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 2:47 | 2022-10-14 |  |
@@ -296,6 +296,7 @@
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 |  |
 | [Weep](https://open.spotify.com/track/3N5Ez4Xd5SIRBUh3eZ4C7s) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Weep](https://open.spotify.com/album/67dYNNKs495f9JWcHjzzIf) | 4:55 | 2020-10-17 | 2022-04-21 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 |  |
+| [what should i do about me?](https://open.spotify.com/track/5x4ybZew53LDl0SFDDALMn) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [the blue album](https://open.spotify.com/album/5GcYZxshVMWixtXvjsYi3T) | 2:55 | 2022-12-09 |  |
 | [What We Found](https://open.spotify.com/track/60npzcMuSF3IgdQoAHIFfx) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG) | [What We Found](https://open.spotify.com/album/3DmN6DaelY8XtdGFQzuBzp) | 3:10 | 2021-02-19 | 2022-07-18 |
 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 | 2022-09-17 |
 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2021-07-16 | 2022-11-13 |

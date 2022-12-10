@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 152562,
+  "num_followers": 153279,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDZjYmM0YzQzNDhlOWNkZDYxODZlYWExMzdlZTk2OGUz",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGIxY2MwNjM0MzNiNzA3MTVkZWY4MjczZjdmZWU0ODA5",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -843,6 +843,26 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Litmas",
         "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
       },
@@ -889,26 +909,6 @@
       "url": "https://open.spotify.com/track/0TmMJK8wPVDdP8HcQhbnSm"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        },
-        {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
-        }
-      ],
-      "duration_ms": 242563,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Home For The Holidays",
@@ -927,6 +927,26 @@
       "duration_ms": 140140,
       "name": "Santa Baby (with Summer Walker)",
       "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "duration_ms": 242563,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -985,22 +1005,6 @@
       "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Never Knew Christmas",
-        "url": "https://open.spotify.com/album/7fHXKZOrH1InFpQIfMl9x6"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 334546,
-      "name": "Never Knew Christmas",
-      "url": "https://open.spotify.com/track/1hLjtQAN3z46sAlihVXemn"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
@@ -1015,6 +1019,22 @@
       "duration_ms": 237666,
       "name": "In Love at Christmas",
       "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Never Knew Christmas",
+        "url": "https://open.spotify.com/album/7fHXKZOrH1InFpQIfMl9x6"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 334546,
+      "name": "Never Knew Christmas",
+      "url": "https://open.spotify.com/track/1hLjtQAN3z46sAlihVXemn"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1315,22 +1335,6 @@
       "duration_ms": 308640,
       "name": "O Come",
       "url": "https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Still Home For The Holidays",
-        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 275902,
-      "name": "Chimney [from Still Home For The Holidays (An R&B Christmas Album)]",
-      "url": "https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP"
     }
   ],
   "unique_name": "R&B Christmas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,966 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,107 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 12 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 |
 | 13 | [Pillaa Raa](https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:55 |
 | 14 | [Ninnila](https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Tholi Prema](https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb) | 3:54 |
-| 15 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahathi Swara Sagar](https://open.spotify.com/artist/1XjPpEBw4dLao4gNgoKhmz) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 |
+| 15 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 |
 | 16 | [Naa Madhi \(From "Thiru"\)](https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Srinivasa Mouli](https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naa Madhi \(From "Thiru"\)](https://open.spotify.com/album/0ceS6UwDJIFvogBfDdv7V3) | 2:54 |
 | 17 | [Inkem Inkem Inkem Kaavaale](https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:26 |
 | 18 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 |

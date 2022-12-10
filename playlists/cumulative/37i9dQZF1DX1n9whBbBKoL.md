@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-180 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+182 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Close At Heart](https://open.spotify.com/track/6HTFfsnSvXpraVQrrYDN3U) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Close At Heart](https://open.spotify.com/album/1nVDq2epSzOWeDyu82uoen) | 3:35 | 2021-11-10 |  |
 | [Closure 432 hz](https://open.spotify.com/track/5W2G3rrqupygc1iP3RGLg3) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 3:53 | 2022-10-07 |  |
 | [Cloud Study](https://open.spotify.com/track/3rAchCb8ZxPuKJVXxQX6ui) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Cloud Study](https://open.spotify.com/album/3Q1VDydFHxITwok0hVfSZT) | 3:10 | 2021-11-10 |  |
+| [Cloudbed](https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Cloudbed](https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL) | 2:43 | 2022-12-09 |  |
 | [Convergence](https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Convergence](https://open.spotify.com/album/1095m41z6UPcurOL35ybPa) | 3:14 | 2022-08-12 |  |
 | [Cosmic Colours](https://open.spotify.com/track/66QCksfh4IAU0ElpZ7yMXu) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Cosmic Colours](https://open.spotify.com/album/4p1JQDTfGIvf4cIwiM4GX8) | 2:51 | 2021-11-10 |  |
 | [Crevice](https://open.spotify.com/track/5DH1vidFEjKOWjpwEoI8CS) | [Juhani Ahonen](https://open.spotify.com/artist/4ZZFTeqpq5hugMfAdDh4oZ) | [Crevice](https://open.spotify.com/album/2W1qEH10UNw2IXkXLmRdTb) | 2:39 | 2021-11-10 |  |
@@ -73,6 +74,7 @@
 | [eternity](https://open.spotify.com/track/6Pbh8GSnDNHM7Uexwbp9Ky) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:53 | 2022-10-07 |  |
 | [eternity](https://open.spotify.com/track/78sv6AmYs4TZpSOjWKAQzr) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [eternity](https://open.spotify.com/album/3PUHobRYFiCDRjrJCnXZNO) | 2:53 | 2021-11-10 | 2022-07-29 |
 | [Eudaemonia](https://open.spotify.com/track/3ZxQ9iLS9QWcnoyg0tbSME) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Eudaemonia](https://open.spotify.com/album/0E08nTyn985xgztmBEy8V4) | 2:58 | 2021-11-10 |  |
+| [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 |  |
 | [Fair Game](https://open.spotify.com/track/0q1cjVlW64TLWVsn7m8rKy) | [Phlieng](https://open.spotify.com/artist/42CYfnqvxyFOZwgXPNEyIB) | [Fair Game](https://open.spotify.com/album/2HxC0AIJtD05UpH8WUoaOT) | 3:46 | 2021-11-10 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-01-21 |  |
 | [Far Beyond](https://open.spotify.com/track/4kjyV1vtB6ldg0DnX6DnH4) | [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Far Beyond](https://open.spotify.com/album/5H0dON6aSS7BEUsfxRxQZD) | 3:32 | 2021-11-10 |  |

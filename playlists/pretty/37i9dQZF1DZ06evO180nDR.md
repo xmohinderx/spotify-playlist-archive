@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,390 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,402 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 17 | [Dichos Y Grandes](https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dichos Y Grandes](https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf) | 3:18 |
 | 18 | [Miguel Ángel](https://open.spotify.com/track/3GwaJCRZYlQWDASiqQt8O1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Miguel Ángel](https://open.spotify.com/album/0XiTVbx22tB1hJMZiH0QX6) | 2:44 |
 | 19 | [Luz De Día](https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 4:15 |
-| 20 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:38 |
-| 21 | [El Corrido CP\-3 AKA El Corrido Del Talibán](https://open.spotify.com/track/1WTnFa5oFYInFV4aX3sHpv) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:32 |
+| 20 | [El Corrido CP\-3 AKA El Corrido Del Talibán](https://open.spotify.com/track/1WTnFa5oFYInFV4aX3sHpv) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:32 |
+| 21 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:38 |
 | 22 | [El Barba Cerrada](https://open.spotify.com/track/3yPy39fL0VgdCflXgbJZjc) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 2:23 |
 | 23 | [Tal Vez](https://open.spotify.com/track/04zj4lyENfdiH3Snca3SoM) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:38 |
 | 24 | [El Elotero](https://open.spotify.com/track/09BwZJMN17PDjpxBnijjyt) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sera El Sereno](https://open.spotify.com/album/0eDXG5ZGSYinyo2f91s48L) | 2:23 |
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 32 | [Lino Rodarte](https://open.spotify.com/track/6X76twkIP8C6Vc7UtBWFBf) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 4:12 |
 | 33 | [Me Gusta Lo Bueno](https://open.spotify.com/track/12TqOAQIhqchko6cjE91Mh) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Gusta Lo Bueno](https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI) | 2:36 |
 | 34 | [Dueña De Mi Vida](https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:11 |
-| 35 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
+| 35 | [El Perro Negro](https://open.spotify.com/track/1rP90VhA9IlyqfJGOHuRX1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:35 |
 | 36 | [Por El Ruido De La Cinta](https://open.spotify.com/track/65jYeBXlXAbre1TP6XORAy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:48 |
 | 37 | [Enséñame A Olvidar](https://open.spotify.com/track/7J2YIWWQlNCz1MLXpdPUwV) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Gusta Lo Bueno](https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI) | 3:21 |
-| 38 | [El Perro Negro](https://open.spotify.com/track/1rP90VhA9IlyqfJGOHuRX1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:35 |
+| 38 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
 | 39 | [El Perdedor](https://open.spotify.com/track/2rtYAvcfMLss6hzOYObwyp) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:31 |
 | 40 | [Juanito El Comandante](https://open.spotify.com/track/4gkFnMZqkMYv68qZz9tWrJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 3:36 |
-| 41 | [Tus Bellos Pechos](https://open.spotify.com/track/5YdYw9nugSQSFsTVrHTWAN) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:11 |
-| 42 | [Corrido De Alfredo Beltrán](https://open.spotify.com/track/5LS2EZZyM9whD8b8Bl5elA) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos](https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0) | 3:49 |
+| 41 | [Corrido De Alfredo Beltrán](https://open.spotify.com/track/5LS2EZZyM9whD8b8Bl5elA) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos](https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0) | 3:49 |
+| 42 | [Tus Bellos Pechos](https://open.spotify.com/track/5YdYw9nugSQSFsTVrHTWAN) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:11 |
 | 43 | [El Fin De Nuestro Amor](https://open.spotify.com/track/5IsKvVrgXiO6QEbETwik9X) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:41 |
 | 44 | [Cargadores Enteipados](https://open.spotify.com/track/6XB6Liz9fd7W1zCpy3f2le) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Gusta Lo Bueno](https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI) | 3:17 |
 | 45 | [Valentín De La Sierra](https://open.spotify.com/track/2xu5deA14965VAfplcEtQ3) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 49 | [Yo Te Quise Amar](https://open.spotify.com/track/5hSEPgls5rYRCQCb0ooiVP) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Una Copa Más](https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI) | 3:06 |
 | 50 | [Ella Me Dijo Que No](https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 2:43 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAzODIzZjllZTU5NGNmMzM3YjU0ZTczMDBjMDRkYjIxMw==`
+Snapshot ID: `Mjc4NDM0NzgsMDAwMDAwMDAwYWE1ZDMzNTc4ZGQ2NGVlYzJiN2YxZWRkNjFmMWI4Yg==`

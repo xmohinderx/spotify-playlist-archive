@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: Ashe
+> Featuring that new vintage\. Cover: WILSN
 
-272 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
+273 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 | 2021-12-03 |  |
 | [California Wine](https://open.spotify.com/track/51Lwyrou0WmEbw868fCgIO) | [Quinn Devlin & The Bridge Street Kings](https://open.spotify.com/artist/0QCy04wEhExkkQ1AzueEYb) | [California Wine](https://open.spotify.com/album/2ZAjVYVW1Yey2pe3ehYcSd) | 3:07 | 2021-12-03 | 2022-07-29 |
 | [Can't Help Falling in Love \- Mark Ronson Remix](https://open.spotify.com/track/0R9NUyenJWcZUG6QGyndw9) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ALr56Pyvr5rAsDISSVLR6) | 3:44 | 2022-07-01 | 2022-07-16 |
-| [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 | 2022-08-12 |  |
+| [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 | 2022-08-12 | 2022-12-10 |
 | [Church \(feat\. EARTHGANG\)](https://open.spotify.com/track/6SzbbQUOx85hxpqsesoMfx) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Church \(feat\. EARTHGANG\)](https://open.spotify.com/album/7JDhbFzdmdTO3KoBfERYvK) | 3:48 | 2021-12-03 | 2022-10-01 |
 | [Circles](https://open.spotify.com/track/588huYraFuGGksWiCPpuGQ) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Circles](https://open.spotify.com/album/04VlKTXs6Pj31ds3gXDDkg) | 2:47 | 2021-12-03 | 2022-07-29 |
 | [Colors](https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2021-12-03 |  |
@@ -115,6 +115,7 @@
 | [How Did You Leave?](https://open.spotify.com/track/4NlABb46zLMHcaZHnSGyNG) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [How Did You Leave?](https://open.spotify.com/album/5KsRwJmgwywUD2O1GeZdms) | 3:20 | 2022-10-07 | 2022-10-29 |
 | [Humxn Race](https://open.spotify.com/track/7eDwyrabtmW4j65sYJxoLj) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Humxn Race](https://open.spotify.com/album/1W1yRJYrMmoITgIclpsyZm) | 4:23 | 2021-12-03 | 2022-07-01 |
 | [hurt](https://open.spotify.com/track/2ULMkcWFhgiyuTQgdALlqC) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:46 | 2022-07-15 | 2022-08-13 |
+| [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 | 2022-12-09 |  |
 | [Hypotheticals \- Edit](https://open.spotify.com/track/1x05ZRPr2FprwUP7MjWefh) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:10 | 2021-12-03 |  |
 | [Hypotheticals \- Edit](https://open.spotify.com/track/2qP9lVJb52SRLVOLxm3lzN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Hypotheticals](https://open.spotify.com/album/7ez1oWCcQAg6iXFJnjUpSP) | 3:10 | 2021-12-03 | 2022-07-29 |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-12-03 |  |

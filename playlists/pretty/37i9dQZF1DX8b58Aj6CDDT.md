@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 623 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
@@ -2147,7 +2147,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 125911,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/4tLaORnfkafV07U8O8dEeL"
@@ -3603,7 +3603,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 289541,
       "name": "grace",
       "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
@@ -3889,6 +3889,28 @@
       "duration_ms": 162560,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
     },
     {
       "album": {
@@ -4245,6 +4267,24 @@
       "duration_ms": 160239,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150706,
+      "name": "I Need That",
+      "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
     },
     {
       "album": {
@@ -4879,6 +4919,28 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "KU LO SA (with Camila Cabello)",
+        "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "KU LO SA (with Camila Cabello)",
+      "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
     },
     {
       "album": {
@@ -8434,6 +8496,24 @@
     },
     {
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD"
       },
@@ -9207,7 +9287,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 232122,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"

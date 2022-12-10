@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-302 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+303 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [One Call Away](https://open.spotify.com/track/7MbW4OnmwSpAvBBnKxXBR1) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7) | [One Call Away](https://open.spotify.com/album/7K2wZcw7Xonx3eGgcWHu63) | 2:29 | 2022-07-09 | 2022-09-24 |
 | [One In A Million](https://open.spotify.com/track/2UdWZt2fxKf0UCakVzGYpG) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [One In A Million](https://open.spotify.com/album/4GfWSqLG2egaWii11rMC0b) | 3:26 | 2022-02-18 | 2022-04-02 |
 | [One Man Woman](https://open.spotify.com/track/5kPvNnodG7lDpM5K0iyI5Y) | [Godiva](https://open.spotify.com/artist/6IGFNGtI94N8h6oHp9Tk3j) | [One Man Woman](https://open.spotify.com/album/7wj0WCgCgJJV9aDhduzIvn) | 2:40 | 2022-04-15 | 2022-05-21 |
-| [One Shot](https://open.spotify.com/track/4WbeXP51v5f8qvVY0awjkY) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [I'm Dru!](https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp) | [One Shot](https://open.spotify.com/album/1k6gsqQXyHoFjGQO2l7xuC) | 2:38 | 2022-09-23 |  |
+| [One Shot](https://open.spotify.com/track/4QyzA8igZqb7qVz3BxiQXB) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [I'm Dru!](https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp) | [One Shot](https://open.spotify.com/album/6KSKRekZKhjkgmkq7vlDkm) | 2:38 | 2022-09-23 |  |
+| [One Shot](https://open.spotify.com/track/4WbeXP51v5f8qvVY0awjkY) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [I'm Dru!](https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp) | [One Shot](https://open.spotify.com/album/1k6gsqQXyHoFjGQO2l7xuC) | 2:38 | 2022-09-23 | 2022-12-10 |
 | [One Two \(feat\. YungManny\)](https://open.spotify.com/track/0YLKjMNe2YtC5pzCyRoypZ) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3), [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [One Two \(feat\. YungManny\)](https://open.spotify.com/album/5wRaQ7AhuwZhIwXOm1znT9) | 3:45 | 2022-04-22 | 2022-08-13 |
 | [One Way](https://open.spotify.com/track/52PelT5dGIh78ePzFXrLwG) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [One Way](https://open.spotify.com/album/7ubSbdpfkZOIJ1G7p7uKUO) | 1:59 | 2022-10-07 |  |
 | [Out My Body](https://open.spotify.com/track/3sjX3mGo9JuBqX5I4lLaK6) | [OTR CHAZ](https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx) | [Out My Body](https://open.spotify.com/album/1KhsHDhhRRlXFJUNWTrEpN) | 1:36 | 2022-02-25 | 2022-05-21 |

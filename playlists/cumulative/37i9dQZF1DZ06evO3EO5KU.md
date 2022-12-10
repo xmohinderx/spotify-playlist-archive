@@ -4,7 +4,7 @@
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/0kWQhRaxTfkDYQmd5SDHHK)
+73 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/0kWQhRaxTfkDYQmd5SDHHK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [El Güero Colorado](https://open.spotify.com/track/0QBOB9Cf0XZ9mzvq2ZdDJa) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:39 | 2022-12-03 |  |
 | [El Güero Colorado](https://open.spotify.com/track/3qXNBRZfzJbSLJRHmg6Tt6) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK) | 3:39 | 2022-06-01 | 2022-12-04 |
 | [El Hombre Tranquilo](https://open.spotify.com/track/3Jb1F5CRVKqNBpzrjDTBHA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:07 | 2022-06-01 |  |
-| [El Karma](https://open.spotify.com/track/5fjNbyD1WPSvsV14nlON4O) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [5 Años Despues](https://open.spotify.com/album/0TAcAAyHawoEQy8UoxOoi9) | 3:30 | 2022-06-01 |  |
+| [El Karma](https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2) | 3:30 | 2022-12-09 |  |
+| [El Karma](https://open.spotify.com/track/5fjNbyD1WPSvsV14nlON4O) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [5 Años Despues](https://open.spotify.com/album/0TAcAAyHawoEQy8UoxOoi9) | 3:30 | 2022-06-01 | 2022-12-10 |
 | [El Mago De La Sierra](https://open.spotify.com/track/2qswq3CUicWehvXi7MUzee) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Mago De La Sierra](https://open.spotify.com/album/0RGlldh6E8O3TnD8sOixFp) | 4:15 | 2022-08-21 |  |
 | [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 | 2022-06-01 |  |
 | [El Rey De Corazones](https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:47 | 2022-06-01 |  |

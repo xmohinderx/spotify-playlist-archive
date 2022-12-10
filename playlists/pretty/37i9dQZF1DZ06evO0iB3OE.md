@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,865 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,877 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 37 | [Como en la Revolución](https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:09 |
 | 38 | [De Huarache y Sombrero / Huarache De Tres Piquetes](https://open.spotify.com/track/5NrcpNz06ZxDwjKFv13Ja5) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Daniel Ortiz](https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8) | [Al Millon Y Medio Y Pasaditooo](https://open.spotify.com/album/6zM6WwCnlkpiLnLVJI9ksS) | 2:42 |
 | 39 | [Gilberto Palomares](https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:42 |
-| 40 | [El Corrido de los Sanchez](https://open.spotify.com/track/5fplumrllP0zveqPg01xDM) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Jerarquia de Corridos con Power Sinaloense! \(Edited Version\)](https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA) | 2:43 |
+| 40 | [Yo Perdi \- En Vivo](https://open.spotify.com/track/2qtZ6TVydnXxjB9aTtgwF3) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [En el Rancho en Vivo y A todo Color](https://open.spotify.com/album/5WGYEIArZrDYvb7bv6EUIh) | 3:06 |
 | 41 | [Que No Se Apague la Lumbre](https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 3:06 |
-| 42 | [Yo Perdi \- En Vivo](https://open.spotify.com/track/2qtZ6TVydnXxjB9aTtgwF3) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [En el Rancho en Vivo y A todo Color](https://open.spotify.com/album/5WGYEIArZrDYvb7bv6EUIh) | 3:06 |
+| 42 | [El Corrido de los Sanchez](https://open.spotify.com/track/5fplumrllP0zveqPg01xDM) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Jerarquia de Corridos con Power Sinaloense! \(Edited Version\)](https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA) | 2:43 |
 | 43 | [Tiro de Gracia](https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:32 |
 | 44 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 |
 | 45 | [Gente del Macho](https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [El Ingeniero](https://open.spotify.com/track/1WBlUy4TmAtgPuxEYUlkqN) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Jerarquia de Corridos con Power Sinaloense! \(Edited Version\)](https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA) | 2:53 |
 | 50 | [El HR \- En Vivo Desde Culiacan](https://open.spotify.com/track/4prEQWESWt6hWYuBLiQG52) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [En Vivo Desde Culiacan](https://open.spotify.com/album/3vO5QnF68MTUPEIZAswBHF) | 3:06 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDAwMTM4MzIzMjM4ZTNkOWJkYTk0OWQyZDUzZTVkZGZiZQ==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDAwNjI2NTAyOTJjNjM4NzA3YjMzZDU5ZmE1M2Q2NGJjNw==`

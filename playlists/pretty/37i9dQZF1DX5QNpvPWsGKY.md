@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,244 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,402 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

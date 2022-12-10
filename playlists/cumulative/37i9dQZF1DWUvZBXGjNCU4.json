@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Sky Full of Stars",
+        "url": "https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156008,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH"
+    },
+    {
+      "album": {
         "name": "abcdefu (Guitar)",
         "url": "https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF"
       },
@@ -77,6 +95,24 @@
       "duration_ms": 149631,
       "name": "Alahazy Basin",
       "url": "https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR"
+    },
+    {
+      "album": {
+        "name": "Altri Tempi",
+        "url": "https://open.spotify.com/album/3QGyNeWDbPOGX6oSXtDCWG"
+      },
+      "artists": [
+        {
+          "name": "Atos Arces",
+          "url": "https://open.spotify.com/artist/4ljlcKJnAdk2UlhQR638pG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252136,
+      "name": "Altri Tempi",
+      "url": "https://open.spotify.com/track/2bdS2ijhi2tuwOlkHFF0lm"
     },
     {
       "album": {
@@ -693,6 +729,24 @@
       "duration_ms": 185000,
       "name": "Distances",
       "url": "https://open.spotify.com/track/63iYBQAZDyqQYwf91qG6ZX"
+    },
+    {
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/2M1tz2hu4LvjsZfiam9AUV"
+      },
+      "artists": [
+        {
+          "name": "Don Steale",
+          "url": "https://open.spotify.com/artist/2HwPnlL403PomZYlx8SHQs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/2MCRPbiKo2AmcBduhTrUqI"
     },
     {
       "album": {

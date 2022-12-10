@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Chance Pe\u00f1a",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Ray LaMontagne",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ"
@@ -730,6 +730,28 @@
     },
     {
       "album": {
+        "name": "Better Part of Me",
+        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Better Part of Me",
+      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
+    },
+    {
+      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -785,6 +807,28 @@
       "duration_ms": 201746,
       "name": "Blind Missiles",
       "url": "https://open.spotify.com/track/4iIoVlUgVqWmnJ85HoOD7J"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
     },
     {
       "album": {
@@ -915,6 +959,24 @@
       "duration_ms": 221786,
       "name": "Buffet Days",
       "url": "https://open.spotify.com/track/1Y7XrntbqWMMR2Rm6HLnG4"
+    },
+    {
+      "album": {
+        "name": "Burn, Burn, Burn",
+        "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268856,
+      "name": "Burn, Burn, Burn",
+      "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
     },
     {
       "album": {
@@ -2371,7 +2433,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 190613,
       "name": "Hung the Moon",
       "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
@@ -4327,7 +4389,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 211940,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX"

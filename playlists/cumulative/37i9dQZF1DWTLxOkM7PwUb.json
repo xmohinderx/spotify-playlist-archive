@@ -1591,7 +1591,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 269720,
       "name": "JetLag",
       "url": "https://open.spotify.com/track/3Gily4qMvAOytQ07gpHDVD"
@@ -1723,6 +1723,24 @@
       "duration_ms": 184701,
       "name": "LADO A LADO",
       "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
+    },
+    {
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243957,
+      "name": "Las Jordan",
+      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
     },
     {
       "album": {
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 255080,
       "name": "Mi Llamada",
       "url": "https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE"
@@ -3489,7 +3507,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 181800,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp"

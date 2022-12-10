@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,366 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,559 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 50 | [No Future](https://open.spotify.com/track/5Uwm4pdpaaW3yari6ymMTT) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:45 |
 | 51 | [Apple Shampoo](https://open.spotify.com/track/46MoFdSoufjnzJ2NWuhRA0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:52 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDA5MWMxNTg4MTM4MjdmNDlhNDQyZDcxNjE0ZWM4M2ZiNg==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDBjYjM2OGQ5NjljZGVmMWNiYmFjZjY0NzdiZGI4NzYyZg==`

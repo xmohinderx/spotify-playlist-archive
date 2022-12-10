@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "For Real Tho",
+        "url": "https://open.spotify.com/album/0DXvVv0k7XqxIfmYyEUTrm"
+      },
+      "artists": [
+        {
+          "name": "Toby Tranter",
+          "url": "https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184541,
+      "name": "50 Rounds",
+      "url": "https://open.spotify.com/track/3hfGAbtOV4ans11A6c8wdi"
+    },
+    {
+      "album": {
         "name": "Above And Under",
         "url": "https://open.spotify.com/album/6MhDonImkRWQrCvpYb3EHa"
       },

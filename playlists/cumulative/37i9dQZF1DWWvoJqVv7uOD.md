@@ -2,9 +2,9 @@
 
 ### [Everyday Favorites ](https://open.spotify.com/playlist/37i9dQZF1DWWvoJqVv7uOD)
 
-> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Dermot Kennedy
+> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Lewis Capaldi
 
-328 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
+330 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,9 +250,10 @@
 | [One Life](https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life](https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8) | 3:25 | 2022-05-13 |  |
 | [One More Night](https://open.spotify.com/track/4oiQcTx1JgW7DrVJfi7N2I) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [What Tomorrow Brings](https://open.spotify.com/album/1w64Qy4uueDC8hItAkBV8Z) | 3:04 | 2022-11-04 | 2022-11-26 |
 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2022-12-02 |  |
-| [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2022-02-04 |  |
+| [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2022-02-04 | 2022-12-10 |
 | [Perfect](https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Perfect](https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh) | 2:48 | 2022-02-04 | 2022-03-30 |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-02 |  |
+| [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2022-12-09 |  |
 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 | 2022-02-18 | 2022-03-05 |
 | [Regret Not Loving You](https://open.spotify.com/track/524MUS7LyH3OszVS2A5VLC) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Regret Not Loving You](https://open.spotify.com/album/3aAZRE2w56WOntO4VuDDw7) | 2:47 | 2022-07-08 | 2022-08-13 |
 | [Remind Me](https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Remind Me](https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1) | 3:02 | 2022-06-10 | 2022-07-30 |
@@ -305,7 +306,7 @@
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-16 | 2022-06-04 |
 | [The Good Parts](https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [The Good Parts](https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj) | 3:18 | 2022-11-18 |  |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 | 2022-05-28 |
-| [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-14 |  |
+| [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-14 | 2022-12-10 |
 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 | 2022-08-12 | 2022-10-29 |
 | [The Middle](https://open.spotify.com/track/1aarcQCiFEjv4GD8XJeVo7) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [The Middle](https://open.spotify.com/album/26lcZENiflARFCYeXwRQTq) | 3:18 | 2022-10-28 |  |
 | [The Plan](https://open.spotify.com/track/2ZifRK22Toszq5qHW2s864) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/3ak5dFCP9hgqrHttkH4d7o) | 2:47 | 2022-11-04 | 2022-12-03 |
@@ -335,6 +336,7 @@
 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 | 2022-04-01 | 2022-06-11 |
 | [you were there for me](https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [you were there for me](https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV) | 3:15 | 2022-08-24 |  |
 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 | 2022-02-04 | 2022-07-16 |
+| [You're Not Alone](https://open.spotify.com/track/63f61B8JBXiBE3O10tONIj) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [You're Not Alone](https://open.spotify.com/album/64DjedL9UoVQ23FnlqFZLl) | 3:19 | 2022-12-09 |  |
 | [‘Til I Die](https://open.spotify.com/track/7qfufTseGuqDipFrkejLUo) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [‘Til I Die](https://open.spotify.com/album/0MzZGgg1NELpLyU5RxzX2R) | 3:17 | 2022-05-20 | 2022-06-11 |
 
 \*This playlist was first scraped on 2022-02-06. Prior content cannot be recovered.

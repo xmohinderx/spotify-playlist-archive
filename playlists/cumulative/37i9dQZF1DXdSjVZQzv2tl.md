@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Israel & Rodolffo, Ana Castela
+> O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
 
-105 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+106 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,13 +87,14 @@
 | [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 | 2021-12-31 |  |
 | [O Ex da Sua Vida](https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 2](https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh) | 2:59 | 2021-12-31 | 2022-01-08 |
 | [Pactos \- Ao Vivo](https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Pactos \(Ao Vivo\)](https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS) | 3:03 | 2022-11-08 |  |
+| [Perdoou Nada \- Ao Vivo](https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Perdoou Nada \(Ao Vivo\)](https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ) | 2:43 | 2022-12-09 |  |
 | [Perfeito Pra Ficar Sozinho \- Ao Vivo](https://open.spotify.com/track/4cxQWmXmmbFoWvV8qipQTe) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Perfeito Pra Ficar Sozinho \(Ao Vivo\)](https://open.spotify.com/album/0hSTkDethURIn0Bqp009ja) | 2:50 | 2022-08-12 |  |
 | [PERIGO NOTURNO \- Ao Vivo](https://open.spotify.com/track/4IX43MpJlpxzRMLb9QayrJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY ALAMEDA BRUNA SANTANA \(Ao Vivo\)](https://open.spotify.com/album/49CJLfc1GJNjhMb7C7l9Ve) | 3:21 | 2022-07-08 | 2022-08-13 |
 | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/track/0MKd4uZd8Ag8qyReZBTarP) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/album/60SAVsrvuAcIBAyqNxPOLP) | 3:05 | 2022-06-03 |  |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2021-12-31 | 2022-09-24 |
 | [Problemão \- Ao Vivo](https://open.spotify.com/track/2XP7Is6c69WaPgX2Kr65l7) | [Hugo & Vitor](https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Respeita Minha Dupla \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/0U4phq4JCvqNLVYwiHgzG6) | 2:17 | 2022-10-28 |  |
 | [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:55 | 2022-01-07 | 2022-08-06 |
-| [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 | 2021-12-31 |  |
+| [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 | 2021-12-31 | 2022-12-10 |
 | [Sorte \- Ao Vivo](https://open.spotify.com/track/2SwE42tEBphHOejzZ9rKRa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Sorte \(Ao Vivo\)](https://open.spotify.com/album/1KOI7qxsWY35YPZALo2oTA) | 3:06 | 2021-12-31 | 2022-05-20 |
 | [Só Não Divulga](https://open.spotify.com/track/3HquWF2pZmWYu3WAEP9Heb) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Só Não Divulga](https://open.spotify.com/album/007jctHYAC50QpRyU3Cnj2) | 2:40 | 2021-12-31 | 2022-03-18 |
 | [Te Amo Demais](https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol.1](https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB) | 3:25 | 2022-07-22 |  |

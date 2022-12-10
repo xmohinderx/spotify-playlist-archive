@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,889 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 47 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 |
 | 48 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
 | 49 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
-| 50 | [I Didn't Know](https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:46 |
+| 50 | [Jefferies Rock](https://open.spotify.com/track/7nunGSSMVd4wx8GnKAckXr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/1affb9CK5rnqn1ntuxd5dB) | 2:31 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA0ZTVjZTc4NjAyOGE0ZmU4YmIzZmE0NWIwNzE0NmE5Nw==`
+Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDA5NzhkODkwYmJiYTJmZTllMTY0NjU1MzA2ZGFkMTQzYw==`

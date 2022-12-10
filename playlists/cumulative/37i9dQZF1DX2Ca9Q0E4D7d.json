@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Binaural Equinox",
+        "url": "https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186801,
+      "name": "Beta Equinox 18 Hz",
+      "url": "https://open.spotify.com/track/2MRpSUhmDSTorFsNY9mXAr"
+    },
+    {
+      "album": {
         "name": "Beta Binaural Flow",
         "url": "https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE"
       },
@@ -1089,6 +1107,24 @@
       "duration_ms": 124830,
       "name": "Yoga: Beta Sinus 100 Hz",
       "url": "https://open.spotify.com/track/2fkZSejqcDkdc2rWi8vARt"
+    },
+    {
+      "album": {
+        "name": "Zone in Beta 73.1 Hz - 89.6 Hz",
+        "url": "https://open.spotify.com/album/0nR9BiFll648hqwDkT0WVt"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Zone in Beta 73.1 Hz - 89.6 Hz",
+      "url": "https://open.spotify.com/track/1q0glRZ97xYFh3Vu43hb9y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2Ca9Q0E4D7d"

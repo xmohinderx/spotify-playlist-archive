@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-183 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
+184 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Mistletoe](https://open.spotify.com/track/6WGIfirwgkwkyfKpr70utH) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Mistletoe](https://open.spotify.com/album/2DZ94ju5IjhT0LjNZ3ZnHP) | 3:10 | 2021-12-12 |  |
 | [Mistletoe \- Recorded at Electric Lady Studios NYC.](https://open.spotify.com/track/7vW6JovXotgbToBedYaznx) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Mistletoe \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/album/3RztE1FplfDqTSZu9oE9Ps) | 3:04 | 2021-12-12 | 2022-11-11 |
 | [Naughty List \(with Dixie\)](https://open.spotify.com/track/2Y0ktCGrGoGcQFXsGztvhi) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Naughty List \(with Dixie\)](https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM) | 2:34 | 2021-12-12 |  |
+| [Naughty With You \(This Christmas\)](https://open.spotify.com/track/2iefNdjhqC50RdhjyyNAy3) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Naughty With You \(This Christmas\)](https://open.spotify.com/album/0qcrSaxBWO8A5zjgn5WFXx) | 2:56 | 2022-12-09 |  |
 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 | 2022-11-18 |  |
 | [North Star \(Single From “Music From Zoey’s Extraordinary Christmas”\)](https://open.spotify.com/track/5rZGLms9i9cKgx3udMVQep) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [North Star \(Single from "Music from Zoey's Extraordinary Christmas"\)](https://open.spotify.com/album/1vOqSsMFFo72MxM6UksoDt) | 3:42 | 2021-12-12 |  |
 | [Not Just On Christmas](https://open.spotify.com/track/6JJ4W13A4Q5yeK4g6OROmg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:02 | 2021-12-12 |  |

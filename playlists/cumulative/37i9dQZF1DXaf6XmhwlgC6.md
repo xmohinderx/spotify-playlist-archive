@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-124 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+125 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [cape](https://open.spotify.com/track/0nQcoFAJSCbM9SVztsWvMG) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb), [Michi Oskah](https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j) | [cape](https://open.spotify.com/album/3lQAHh6wD34MlWVKuPgO1A) | 1:51 | 2022-11-22 |  |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-03-30 |  |
 | [city limits](https://open.spotify.com/track/65VQ9IRzhXz2siw9H2okBF) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [city limits](https://open.spotify.com/album/7H4edaVn1YUAZHyuhvAjP7) | 3:03 | 2022-12-02 |  |
+| [Color](https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Color](https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e) | 2:50 | 2022-12-09 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
 | [Dreaming While Awake](https://open.spotify.com/track/1KVq03Ocupx3tRE18yZa5Q) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Dreaming While Awake](https://open.spotify.com/album/4UWDiNomdDxYTdE6exlgO5) | 2:50 | 2022-11-11 |  |
 | [Drops](https://open.spotify.com/track/1R8Nr8bahMl4LcE91nSUB8) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Drops](https://open.spotify.com/album/7ptUhLa9kHS0pKuG04CPXN) | 4:34 | 2022-03-30 |  |

@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-414 songs - 1 day 7 hr 34 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+415 songs - 1 day 7 hr 39 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [NASDAQ](https://open.spotify.com/track/6QTPOefo84L0naOFmEYurX) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/0nBnyyGbsT81K2qT4GuSgG) | 3:17 | 2022-02-17 |  |
 | [Natural Charge](https://open.spotify.com/track/3HxOGz0yCfDS8RCWqZbTNj) | [Loefah](https://open.spotify.com/artist/1ICQEDALtLouPV8yEaJXVb) | [Natural Charge / Crack Bong Rmx](https://open.spotify.com/album/2lr9scpJPuoQs9XFbIMZQI) | 4:30 | 2022-02-17 | 2022-04-29 |
 | [Neurological](https://open.spotify.com/track/6O0t3Pm3HcVbuR6SokUXby) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Vibrations](https://open.spotify.com/album/34E1kgCm1PZ6y0jdyGVXtc) | 4:34 | 2022-02-17 |  |
-| [Night Flight](https://open.spotify.com/track/46lWKeYyIQN7F3OnZqjFMb) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Night Flight](https://open.spotify.com/album/2BkHRyI4EYoEQUcOKCNbGT) | 4:22 | 2022-02-17 |  |
+| [Night Flight](https://open.spotify.com/track/46lWKeYyIQN7F3OnZqjFMb) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Night Flight](https://open.spotify.com/album/2BkHRyI4EYoEQUcOKCNbGT) | 4:22 | 2022-02-17 | 2022-12-10 |
 | [Noid](https://open.spotify.com/track/4nGups0fUicg4Khw30jXSx) | [Noer the Boy](https://open.spotify.com/artist/4PD6K1K2nNk6xIpFhtoSMT) | [Noid](https://open.spotify.com/album/6NBCoOBu1Wm9PfDGNS7mVu) | 3:41 | 2022-02-17 | 2022-09-11 |
 | [Norman](https://open.spotify.com/track/536U728aadWGV86KDvQs0m) | [p0gman](https://open.spotify.com/artist/3cw7SynPNBpGg16PRXJI2I) | [Norman](https://open.spotify.com/album/2EamMa2jk8G9CstjDqn8Aa) | 3:15 | 2022-02-17 | 2022-10-20 |
 | [Nostromo](https://open.spotify.com/track/1iuqxIMSa51b3XIt8PXyxn) | [Zygos](https://open.spotify.com/artist/7555FTON3X5sDFo7SD2W4o) | [Erf](https://open.spotify.com/album/58gNWJByyRMwUJ8a0gR244) | 3:39 | 2022-02-17 | 2022-07-29 |
@@ -271,6 +271,7 @@
 | [Power](https://open.spotify.com/track/66FmJZ2ZnFE0fdVhy3Ebrv) | [Vibe Emissions](https://open.spotify.com/artist/26C2HIRqDYjWa84z0WZVI4) | [Dreams EP](https://open.spotify.com/album/1AWRWV09vu1ZcQD7ysnWqV) | 4:44 | 2022-02-17 | 2022-07-29 |
 | [Power Outage](https://open.spotify.com/track/3QDbikKnqM9346QbhOsE9G) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Weightless Compilation](https://open.spotify.com/album/6ORc9yPQI3YmbX9a4Hkmpk) | 4:10 | 2022-02-17 | 2022-07-29 |
 | [Power Outage](https://open.spotify.com/track/7IxQnOdr8vxk0tWS9aPwK9) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Weightless Compilation](https://open.spotify.com/album/4MHIeAvGxasLDdQFWyusqD) | 4:10 | 2022-07-08 |  |
+| [Power Shift](https://open.spotify.com/track/0OfKxTJYCewcdDiDU1p8lJ) | [LSN](https://open.spotify.com/artist/3dwMTZKWkKexD1CeBzLJAt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Power Shift](https://open.spotify.com/album/3nZWSpItsAvxUjbVe8kmHm) | 4:36 | 2022-12-09 |  |
 | [Probes](https://open.spotify.com/track/2Vqo5y7SvufrlLKcsNkYH8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [Tron3x](https://open.spotify.com/artist/4VkxUCarTjtPbHOBujBwlx) | [Failed Connections](https://open.spotify.com/album/5NgBfkQHTSUMuRxjg8ZGwC) | 3:30 | 2022-07-01 |  |
 | [Profound](https://open.spotify.com/track/3m92wis6TZWW6XeGyneEur) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Kaleidoscope, Vol\. 2](https://open.spotify.com/album/7jLrpzLUbTLDMWG2r4xhSY) | 5:04 | 2022-02-17 | 2022-07-30 |
 | [Psycho Sushi](https://open.spotify.com/track/5QtuIc4VSjUp2nniV903bZ) | [Eva808](https://open.spotify.com/artist/6BgBdBrs55ObAN04jkmn0Q) | [Psycho Sushi](https://open.spotify.com/album/4RjrGw3HvUfW6fefKoHJfS) | 4:23 | 2022-02-17 | 2022-04-09 |

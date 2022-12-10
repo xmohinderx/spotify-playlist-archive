@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Peer Kusiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,574 likes - 78 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,700 likes - 78 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 6 | [Through My Skin](https://open.spotify.com/track/00Je3Ur2xmGEhZd08FtQLQ) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Triation, Vol\. V](https://open.spotify.com/album/4WdjFSOirv2bXUXWBFxe4N) | 5:30 |
 | 7 | [Close Your Eyes](https://open.spotify.com/track/4YzrFIhdJ7KMrYvg9tabzM) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 3:24 |
 | 8 | [Isolation](https://open.spotify.com/track/6W18YHU3LxtC7IAesuotdC) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Isolation](https://open.spotify.com/album/0GWtoMVbrohocQ4JoN7hMk) | 6:28 |
-| 9 | [Reflections \(Sam Shure Remix\)](https://open.spotify.com/track/0zZ087uE09xoSJAPjRgVQR) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Reflections \(Sam Shure Remix\)](https://open.spotify.com/album/0bUuxiXsMUGs1ilCVR66e6) | 6:04 |
+| 9 | [Reflections \- Sam Shure Remix](https://open.spotify.com/track/1KYtiR7ZOdwXz1v0gGSR8X) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Reflections \(Sam Shure Remix\)](https://open.spotify.com/album/1RqBdAPDoC1GvILO1c1p7P) | 6:04 |
 | 10 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
 | 11 | [Find You Again](https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity \(Deluxe Edition\)](https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv) | 5:29 |
 | 12 | [Shifted](https://open.spotify.com/track/5HjXOF9KJRWGaahTPm1PMP) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Shifted](https://open.spotify.com/album/01RQg8SwW3swwCKzdZs83O) | 6:32 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [Hollow](https://open.spotify.com/track/6vOXXLWbCQGLrVdnHYHWce) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/5AT27ohVd42E695quyMiB1) | 4:36 |
 | 78 | [Think Different \- radio edit](https://open.spotify.com/track/3rlhCg7pdIqknDoBBqGOhG) | [Damiano von Erckert](https://open.spotify.com/artist/28Y1hMhuru402KjzFJDegi) | [The Past The Future](https://open.spotify.com/album/4co1RRxw6oCpyiwjCHVQsV) | 4:00 |
 
-Snapshot ID: `MTY3MDU0NDYwNCwwMDAwMDAwMDdjOWIwNDE1MWZlZDkxNTYzYzk4ZWQ0Mjg3NDFhMjFm`
+Snapshot ID: `MTY3MDU0NDYwNCwwMDAwMDAwMDgwYmY1NWIxOWY2MTFmNjVkNDY3ZGJhMDExY2M2MTg0`

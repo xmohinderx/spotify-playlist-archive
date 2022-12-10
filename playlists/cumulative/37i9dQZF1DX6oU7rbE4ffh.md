@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-130 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
+132 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-25 |  |
 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 | 2022-11-22 |  |
 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 | 2022-05-25 |  |
+| [Escapism](https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [Escapism](https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH) | 3:18 | 2022-12-09 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-05-25 |  |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-05-25 |  |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
@@ -69,6 +70,7 @@
 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 | 2022-05-25 | 2022-09-07 |
 | [I Believe](https://open.spotify.com/track/0vK8tdh9HbtUcAm9g4CVDD) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:00 | 2022-05-25 | 2022-08-06 |
 | [Imagination](https://open.spotify.com/track/1wqc4mp6CKNGnDV3rOTb9M) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Imagination](https://open.spotify.com/album/4RbMri9MGtYClHNBOdDNVm) | 2:54 | 2022-05-25 |  |
+| [Independencia](https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Independencia](https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6) | 3:26 | 2022-12-09 |  |
 | [Indirectly](https://open.spotify.com/track/68bxCGlDAMm5ZfxCcH8LKO) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Indirectly](https://open.spotify.com/album/0wcE5AoDhShhJMdftUd2oh) | 2:56 | 2022-05-25 |  |
 | [infinity](https://open.spotify.com/track/4fiWZuhwD3FN7FDOphDDSH) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [inner focus \(meditation\)](https://open.spotify.com/album/6swg69yRNzeFcSez1QXQ1N) | 2:55 | 2022-05-25 | 2022-10-13 |
 | [infinity](https://open.spotify.com/track/6EMvtm8uRwnPU6nvTgMHV7) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [inner focus \(meditation\)](https://open.spotify.com/album/17UAPjFDSI5stoNdmqvLAn) | 2:55 | 2022-10-07 |  |

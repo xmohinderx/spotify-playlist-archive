@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm"
+    },
+    {
+      "album": {
         "name": "Un Brote De Adoracion 2",
         "url": "https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo"
       },
@@ -2089,24 +2107,6 @@
       "duration_ms": 230093,
       "name": "No Basta",
       "url": "https://open.spotify.com/track/2jP3Vq1WzlOTwCejhokGuN"
-    },
-    {
-      "album": {
-        "name": "Irreversible",
-        "url": "https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "date_added": "2020-11-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 260363,
-      "name": "No Crezcas Mas",
-      "url": "https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm"
     },
     {
       "album": {

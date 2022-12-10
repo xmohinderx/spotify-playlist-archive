@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: HARDY
 
-203 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+204 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Better Off](https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Better Off](https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6) | 3:18 | 2021-11-01 |  |
 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 | 2021-11-01 |  |
 | [Black Leather Jackets](https://open.spotify.com/track/2qTOszFOraCetAWrbXM0qv) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Small Town Lyric: Side A](https://open.spotify.com/album/7ccVlIa5w26mZrg6d8pB5k) | 2:54 | 2021-11-01 | 2022-07-10 |
-| [Black Magic Lady](https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Black Magic Lady](https://open.spotify.com/album/4TEphoROa5MStn7cVNEGMc) | 4:47 | 2022-04-08 |  |
+| [Black Magic Lady](https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Black Magic Lady](https://open.spotify.com/album/4TEphoROa5MStn7cVNEGMc) | 4:47 | 2022-04-08 | 2022-12-10 |
 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 | 2021-11-01 |  |
 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 | 2022-02-18 |  |
 | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Jason Hook](https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ) | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv) | 3:27 | 2021-11-01 |  |
@@ -193,6 +193,7 @@
 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 | 2021-11-01 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2021-11-01 |  |
 | [Washington Street \- Classen Sessions](https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Washington Street \(Classen Sessions\)](https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs) | 3:44 | 2022-03-04 | 2022-07-25 |
+| [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2022-12-09 |  |
 | [Welcome to the South](https://open.spotify.com/track/3fgVZPySJ6fbCIm4r2PitX) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Welcome to the South](https://open.spotify.com/album/5JFFYGoY1O0LjR5NDod3XA) | 3:08 | 2021-11-01 | 2022-09-03 |
 | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk) | [Robert Counts](https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ) | 3:28 | 2021-11-01 |  |
 | [What Else Is New](https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions Unplugged](https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5) | 2:50 | 2021-11-01 | 2022-10-30 |

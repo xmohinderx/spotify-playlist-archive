@@ -3468,6 +3468,44 @@
     },
     {
       "album": {
+        "name": "club2020",
+        "url": "https://open.spotify.com/album/3crPBUNMNvAYOUHniufHto"
+      },
+      "artists": [
+        {
+          "name": "club2020",
+          "url": "https://open.spotify.com/artist/1DjrwkyosB44sfSdm6fT6O"
+        },
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "CatchUp",
+          "url": "https://open.spotify.com/artist/14M41VoNuxxvBXaigqZ9D9"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124687,
+      "name": "club2020",
+      "url": "https://open.spotify.com/track/0zmxM4MXfisJRTQcPa1wbv"
+    },
+    {
+      "album": {
         "name": "Irenka",
         "url": "https://open.spotify.com/album/3RBWb4HlzXRG0pD0eHdnwF"
       },
@@ -5139,7 +5177,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 251788,
       "name": "Eldorado",
       "url": "https://open.spotify.com/track/3YqafSKCCazkxZUdO23iWf"
@@ -7075,7 +7113,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 162935,
       "name": "Jakie To Uczucie?",
       "url": "https://open.spotify.com/track/1SDoIIjDCFjJuglM7qbIqf"
@@ -11073,6 +11111,28 @@
       "duration_ms": 214138,
       "name": "NA KRA\u0143CU \u015aWIATA",
       "url": "https://open.spotify.com/track/0kUovjkI9T6kALiYC7V8ZS"
+    },
+    {
+      "album": {
+        "name": "na okr\u0105g\u0142o",
+        "url": "https://open.spotify.com/album/27zm8Roybp6es20WcH2uRd"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "na okr\u0105g\u0142o",
+      "url": "https://open.spotify.com/track/4JmaOG7bfj1uNv8jEUg0Ce"
     },
     {
       "album": {

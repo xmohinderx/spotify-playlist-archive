@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,057 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,136 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 99 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 |
 | 100 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 |
 
-Snapshot ID: `MTY2OTkxMjE1MCwwMDAwMDAwMDE5ZGVhZWUxZmVlZTBiM2M4YWUzMDAxZWMwZTNkYWIy`
+Snapshot ID: `MTY3MDYxMDM3NSwwMDAwMDAwMDgxMzJhYjFiNzM4YjQyNzExMmE3ZDNkNmFlMWZiNjJj`

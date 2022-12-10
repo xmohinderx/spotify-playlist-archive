@@ -4,12 +4,13 @@
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Giovani Cidreira, Linn da Quebrada
 
-80 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/5WRCap7Po4seHkP0oCl5pD)
+81 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/5WRCap7Po4seHkP0oCl5pD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 | 2022-04-29 |  |
 | [Agora Vai!](https://open.spotify.com/track/1xQZMFLNckpSQzwleLBKyL) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Agora Vai!](https://open.spotify.com/album/6l4qzArQvDKnzRLmFkrHE2) | 4:26 | 2022-11-25 |  |
+| [Alasca](https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Alasca](https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD) | 4:36 | 2022-12-09 |  |
 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 | 2022-12-02 |  |
 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 | 2022-04-29 |  |
 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 | 2022-07-22 | 2022-10-08 |
@@ -18,7 +19,7 @@
 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 | 2022-07-22 |  |
 | [Bang Bang](https://open.spotify.com/track/1gjKagIlUT6u2giC5NJTyF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Bang Bang](https://open.spotify.com/album/65gaJhM7QYfPtjO2lg4B9V) | 2:54 | 2022-04-29 | 2022-07-29 |
 | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx) | 2:29 | 2022-04-29 |  |
-| [BICHO SOLTO!!!](https://open.spotify.com/track/2WRe2rOyy3SuKVyL7btTAB) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o) | [BICHO SOLTO!!!](https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2) | 2:38 | 2022-07-22 |  |
+| [BICHO SOLTO!!!](https://open.spotify.com/track/2WRe2rOyy3SuKVyL7btTAB) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o) | [BICHO SOLTO!!!](https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2) | 2:38 | 2022-07-22 | 2022-12-10 |
 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 | 2022-04-29 |  |
 | [BOTA](https://open.spotify.com/track/52LzOfNNcxLjXfSBYfUwl4) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [BOTA](https://open.spotify.com/album/0k83d2uJt6cGPUMkipkNNw) | 2:35 | 2022-04-29 | 2022-06-25 |
 | [Brazindia](https://open.spotify.com/track/1WientaXF0b6Q8mPN9dvrU) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8) | [Brazindia](https://open.spotify.com/album/4Lb1jAAYAPSy5hoexNgJoQ) | 2:38 | 2022-09-23 |  |

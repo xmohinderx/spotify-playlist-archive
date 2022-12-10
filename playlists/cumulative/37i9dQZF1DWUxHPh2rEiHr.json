@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Black Panther",
+  "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Oxlade, Camila Cabello ",
   "name": "Global X",
   "published_playlist_ids": [
     "6qZ86PrcY4XIZq7R01HhHo"
@@ -43,8 +43,8 @@
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Sofia Reyes",
+          "url": "https://open.spotify.com/artist/0LdGzhvflp0SgBGf9K4Vkf"
         },
         {
           "name": "Jason Derulo",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 169043,
       "name": "Bad Boy (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 154644,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/55B4vsTxKHCjDhx7Qx96iB"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
@@ -2125,7 +2125,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -2684,6 +2684,28 @@
     },
     {
       "album": {
+        "name": "KU LO SA (with Camila Cabello)",
+        "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "KU LO SA (with Camila Cabello)",
+      "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -2857,6 +2879,24 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151988,
+      "name": "LA NENA DE ARGENTINA",
+      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
     },
     {
       "album": {
@@ -3061,7 +3101,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 224444,
       "name": "Lil Mama",
       "url": "https://open.spotify.com/track/0TdQ54hT5S5racTQAwdW3U"
@@ -4464,6 +4504,24 @@
     },
     {
       "album": {
+        "name": "OL\u00c8",
+        "url": "https://open.spotify.com/album/5aQWW05Xu1jDxEc8cb0WqL"
+      },
+      "artists": [
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "OL\u00c8",
+      "url": "https://open.spotify.com/track/5tqpBgfKdVBkQNs98J9GA6"
+    },
+    {
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ"
       },
@@ -4809,7 +4867,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 169560,
       "name": "Por Deporte",
       "url": "https://open.spotify.com/track/7EyGZtJuOckQfMDJL1PPrH"
@@ -4883,6 +4941,28 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "album": {
+        "name": "Ronisia (Version Deluxe)",
+        "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "Probl\u00e8me",
+      "url": "https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28"
     },
     {
       "album": {
@@ -4973,7 +5053,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 151324,
       "name": "Punto G",
       "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
@@ -5876,6 +5956,24 @@
     },
     {
       "album": {
+        "name": "COLOR DOLOR",
+        "url": "https://open.spotify.com/album/4nMAfUGgaqkobhuh5AtynY"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200362,
+      "name": "SOLA",
+      "url": "https://open.spotify.com/track/7kh5GeEHZLVkTDFjZNvgpA"
+    },
+    {
+      "album": {
         "name": "Solo Para M\u00ed",
         "url": "https://open.spotify.com/album/1m3eEviQMPKiyWc105PI1M"
       },
@@ -6073,6 +6171,32 @@
       "duration_ms": 161929,
       "name": "Sweet Dreams & Dynamite",
       "url": "https://open.spotify.com/track/6S8pntCfgqcPa5vhybICfv"
+    },
+    {
+      "album": {
+        "name": "S\u00edntomas de Soltera",
+        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241908,
+      "name": "S\u00edntomas de Soltera",
+      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
     },
     {
       "album": {
@@ -6323,7 +6447,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
@@ -7003,6 +7127,24 @@
       "duration_ms": 213502,
       "name": "YOU (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/70gSJrLzbMOURbFnMzG85g"
+    },
+    {
+      "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV"
     },
     {
       "album": {

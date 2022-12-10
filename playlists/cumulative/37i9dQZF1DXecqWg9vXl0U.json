@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 262500,
       "name": "aunque quisiera, no podr\u00eda",
       "url": "https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 193274,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 227620,
       "name": "Como Nadie",
       "url": "https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys"
@@ -692,6 +692,28 @@
     },
     {
       "album": {
+        "name": "DE REVERSA",
+        "url": "https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184669,
+      "name": "DE REVERSA",
+      "url": "https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW"
+    },
+    {
+      "album": {
         "name": "Error 404",
         "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
       },
@@ -757,7 +779,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 207266,
       "name": "Dulce Amargo",
       "url": "https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK"
@@ -815,6 +837,24 @@
       "duration_ms": 235066,
       "name": "D\u00ed Que No",
       "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
+    },
+    {
+      "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
       "album": {
@@ -1447,6 +1487,24 @@
     {
       "album": {
         "name": "Invierno",
+        "url": "https://open.spotify.com/album/5XcK4a55eoM6dRLq9QVAuK"
+      },
+      "artists": [
+        {
+          "name": "Billy Miamor",
+          "url": "https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163546,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/1Z8BiEwROkeaBtPDJXFGYy"
+    },
+    {
+      "album": {
+        "name": "Invierno",
         "url": "https://open.spotify.com/album/4l0iug24BEXMXEy4xci7VR"
       },
       "artists": [
@@ -2022,6 +2080,32 @@
     },
     {
       "album": {
+        "name": "Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
+    },
+    {
+      "album": {
         "name": "nadie",
         "url": "https://open.spotify.com/album/3v6e4R5lG30IFu6ap79JgO"
       },
@@ -2145,7 +2229,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 96735,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky"
@@ -2271,7 +2355,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 114042,
       "name": "Nunca Te Dejar\u00e9 Ir",
       "url": "https://open.spotify.com/track/5Enzcachkod8O3ykRHUZLw"
@@ -2669,6 +2753,24 @@
       "duration_ms": 172942,
       "name": "roncola",
       "url": "https://open.spotify.com/track/36KSajo0NyH3eGgbS4AuJ7"
+    },
+    {
+      "album": {
+        "name": "San Jos\u00e9",
+        "url": "https://open.spotify.com/album/2so16qqtYnhLLYYVwXROHO"
+      },
+      "artists": [
+        {
+          "name": "Flores",
+          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237969,
+      "name": "San Jos\u00e9",
+      "url": "https://open.spotify.com/track/7pE3LLrZuzDati9VDf1XGQ"
     },
     {
       "album": {
@@ -3169,6 +3271,28 @@
       "duration_ms": 239988,
       "name": "Un d\u00eda es un d\u00eda",
       "url": "https://open.spotify.com/track/62bvM6Glmk6Ek6Gf34GWwn"
+    },
+    {
+      "album": {
+        "name": "Un Impulso",
+        "url": "https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib"
+      },
+      "artists": [
+        {
+          "name": "iiis",
+          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
+        },
+        {
+          "name": "Florencia Quinteros",
+          "url": "https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233387,
+      "name": "Un Impulso",
+      "url": "https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw"
     },
     {
       "album": {

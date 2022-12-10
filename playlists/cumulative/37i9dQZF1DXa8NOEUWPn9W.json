@@ -834,6 +834,24 @@
     },
     {
       "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
@@ -1162,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
+      },
+      "artists": [
+        {
+          "name": "Loco & Jam",
+          "url": "https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
+    },
+    {
+      "album": {
         "name": "Bring A Friend",
         "url": "https://open.spotify.com/album/1ftcMSE9C1ce2wH1O0AUFV"
       },
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 148538,
       "name": "BUBBLEGUM",
       "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
@@ -1767,6 +1803,32 @@
       "duration_ms": 373333,
       "name": "Conspiracy",
       "url": "https://open.spotify.com/track/6onf7sfOexU1s9F8733kJy"
+    },
+    {
+      "album": {
+        "name": "Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Remix)",
+        "url": "https://open.spotify.com/album/6kOLMQtok9ETuuNCN6LByQ"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221202,
+      "name": "Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix",
+      "url": "https://open.spotify.com/track/7lhNCZG9JWxhoJSGkJa2AS"
     },
     {
       "album": {
@@ -2488,6 +2550,24 @@
     },
     {
       "album": {
+        "name": "Essa Mina",
+        "url": "https://open.spotify.com/album/2Jm2d9xJna8Yd1gcKqeWc7"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370946,
+      "name": "Essa Mina",
+      "url": "https://open.spotify.com/track/3s4vo3MRq4u5ogEQYtydfT"
+    },
+    {
+      "album": {
         "name": "Everyone",
         "url": "https://open.spotify.com/album/5r0RFbLJaZ1u7PLuL6Dk8C"
       },
@@ -2791,7 +2871,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 214036,
       "name": "For The Same Man - Nic Fanciulli Remix",
       "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
@@ -4263,7 +4343,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 189506,
       "name": "Let Me Love U",
       "url": "https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb"
@@ -5502,6 +5582,36 @@
     },
     {
       "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "album": {
         "name": "Nightjar (feat. SHELLS)",
         "url": "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
       },
@@ -6555,7 +6665,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 217749,
       "name": "Rizzla",
       "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
@@ -6705,7 +6815,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 153600,
       "name": "Sextacy",
       "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
@@ -7363,7 +7473,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 180952,
       "name": "Talkin' Drums",
       "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
@@ -7720,6 +7830,24 @@
     },
     {
       "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204761,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo"
+    },
+    {
+      "album": {
         "name": "The Sequel",
         "url": "https://open.spotify.com/album/2tvps9wX8kLJebdFgvFVST"
       },
@@ -7830,6 +7958,28 @@
     },
     {
       "album": {
+        "name": "This Is The Sound",
+        "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192401,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
+    },
+    {
+      "album": {
         "name": "Thrill Seeker",
         "url": "https://open.spotify.com/album/2YXD268qGFmtDytTR7SAfB"
       },
@@ -7901,7 +8051,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"

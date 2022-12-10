@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs - cover featuring INZO.",
-  "num_followers": 2032794,
+  "num_followers": 2032886,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI3NzksNGE1ZWQwNDAyNWUxYTJhYjk2MDY4N2NkOTIwNTdlYmQ3NDgxODUxZg==",
+  "snapshot_id": "MTI3ODYsODk1NjE5ZjU1MGZkNDg0YzlhNDAwNDYzN2NkMmMzMjIzNjBjY2VlZQ==",
   "tracks": [
     {
       "added_at": "2022-12-02 14:06:40",
@@ -1225,6 +1225,26 @@
       "url": "https://open.spotify.com/track/1ER0IImVOV3g6qJAC2F9GE"
     },
     {
+      "added_at": "2022-12-09 16:27:27",
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/2SuXUgAWLnSF89bHq7cLJN"
+      },
+      "artists": [
+        {
+          "name": "Biometrix",
+          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
+        },
+        {
+          "name": "Hex & Solstice",
+          "url": "https://open.spotify.com/artist/09IVjJm54cApXuwVwmG04B"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/3inG72xPY9bCmAn1cBihMZ"
+    },
+    {
       "added_at": "2022-11-28 23:40:10",
       "album": {
         "name": "Reach",
@@ -1927,22 +1947,6 @@
     {
       "added_at": "2022-11-28 23:40:10",
       "album": {
-        "name": "D E A T H METAL RAGE",
-        "url": "https://open.spotify.com/album/1DI6dxxuE5EaKX1hqG5HVv"
-      },
-      "artists": [
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "D E A T H Metal Rage",
-      "url": "https://open.spotify.com/track/54UnnwazTfj2nI5O98kzTx"
-    },
-    {
-      "added_at": "2022-11-28 23:40:10",
-      "album": {
         "name": "Dime A Dozen",
         "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
       },
@@ -1975,30 +1979,6 @@
       "duration_ms": 274285,
       "name": "It's Not Too Late",
       "url": "https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR"
-    },
-    {
-      "added_at": "2022-11-28 23:40:10",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/70pPhEPFbPp31jXsSxPiOj"
-      },
-      "artists": [
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        },
-        {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
-        },
-        {
-          "name": "Tyler Graves",
-          "url": "https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq"
-        }
-      ],
-      "duration_ms": 262425,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/21PELgAI135nZmhjEi9MxG"
     },
     {
       "added_at": "2022-11-28 23:40:10",
@@ -2351,30 +2331,6 @@
     {
       "added_at": "2022-11-28 23:40:10",
       "album": {
-        "name": "Time (NESADES + onumi Remix)",
-        "url": "https://open.spotify.com/album/3sPuLRDrlXbuBJkgWysFkR"
-      },
-      "artists": [
-        {
-          "name": "4RUNNR",
-          "url": "https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx"
-        },
-        {
-          "name": "NESADES",
-          "url": "https://open.spotify.com/artist/6GUhtOa05fQptD8GcnFw1q"
-        },
-        {
-          "name": "onumi",
-          "url": "https://open.spotify.com/artist/34yA07sOWHmruBJksNc0EY"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Time - NESADES + onumi Remix",
-      "url": "https://open.spotify.com/track/6wfNUVSqcEGOH44rjvM3Qt"
-    },
-    {
-      "added_at": "2022-11-28 23:40:10",
-      "album": {
         "name": "The Blueprint",
         "url": "https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ"
       },
@@ -2395,50 +2351,6 @@
       "duration_ms": 163977,
       "name": "Gametime",
       "url": "https://open.spotify.com/track/2primSwE1mzJTP6Mm6oKQ4"
-    },
-    {
-      "added_at": "2022-11-28 23:40:10",
-      "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "Osias",
-          "url": "https://open.spotify.com/artist/7j1BTr4Qn3umJ2xK15ZFtn"
-        },
-        {
-          "name": "Ivoryghost",
-          "url": "https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 210824,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/6CgyavIuuXYEmoFppku4X0"
-    },
-    {
-      "added_at": "2022-11-28 23:40:10",
-      "album": {
-        "name": "Time (Pala Chrome Remix)",
-        "url": "https://open.spotify.com/album/0tnRgNZXc8qAExA898YSqc"
-      },
-      "artists": [
-        {
-          "name": "4RUNNR",
-          "url": "https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx"
-        },
-        {
-          "name": "Pala Chrome",
-          "url": "https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh"
-        }
-      ],
-      "duration_ms": 239015,
-      "name": "Time - Pala Chrome Remix",
-      "url": "https://open.spotify.com/track/5xrdLwQK6QmV3XsnsCVvOP"
     },
     {
       "added_at": "2022-11-28 23:40:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,046 likes - 43 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,050 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 42 | [Last Call](https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:03 |
 | 43 | [You Were The Cancer](https://open.spotify.com/track/5T3aOfEHkhipnFkPqBADjj) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 5:49 |
 
-Snapshot ID: `Mjc4NDIwNjQsMDAwMDAwMDBlYjRjYWQwYWMwMjI2MDNhM2NjN2U2ZDM2ZTAxNzk3OA==`
+Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA2OTQ0OGE2ODVhZGVhYmRhYjAxOTE0OTgxNzUzN2UxZg==`

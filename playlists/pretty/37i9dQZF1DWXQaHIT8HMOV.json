@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1099,
+  "num_followers": 1105,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzQ1MCwwMDAwMDAwMDVkNTJhMjA0NGU4MDZjODgxN2UzYmFkNDg4ZmUyYmMz",
+  "snapshot_id": "MTY3MDU4NzIxMywwMDAwMDAwMGQ4ZjVjZjk2NmY1YTAxMDA2OTQ1ZmZmMDU4YzdlZTky",
   "tracks": [
     {
       "added_at": "2022-11-25 11:45:40",
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
-      "added_at": "2022-12-09 01:07:16",
+      "added_at": "2022-12-02 05:04:10",
       "album": {
         "name": "Love Marijuana",
         "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
+      "added_at": "2022-12-10 01:04:36",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+    },
+    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "Second of All",
@@ -377,22 +393,6 @@
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     },
     {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
-      },
-      "artists": [
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        }
-      ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "I Do",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+    },
+    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
         "name": "BESTIE",
@@ -427,22 +443,6 @@
       "duration_ms": 173949,
       "name": "BESTIE",
       "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Omu",
         "url": "https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 174705,
       "name": "Omu",
       "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -865,27 +881,7 @@
       "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Star Gal",
-        "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 206471,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
-    },
-    {
-      "added_at": "2022-12-09 01:07:16",
+      "added_at": "2022-12-02 05:04:10",
       "album": {
         "name": "The Opening Act",
         "url": "https://open.spotify.com/album/4J6STymks5es1DRudc1qT5"

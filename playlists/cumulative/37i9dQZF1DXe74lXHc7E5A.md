@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Darkovibes
 
-128 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/7hMCvjkaTpfWbLIl5i39jB)
+129 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/7hMCvjkaTpfWbLIl5i39jB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT) | 3:16 | 2022-07-27 |  |
 | [NO SECRET \(feat\. Drake\)](https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 0:47 | 2022-08-26 |  |
 | [Nyash \(Current & Savings\)](https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Nyash \(Current & Savings\)](https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B) | 3:34 | 2022-10-13 |  |
+| [OMW \(Feeling Great\)](https://open.spotify.com/track/5rqqWCei81XF0x5x3L1b9a) | [Tim Grey](https://open.spotify.com/artist/1vxBfMX5C2kQPrWu7fhTt2) | [Brown Roofs](https://open.spotify.com/album/28hYCynTL2UeGSXBpXmZzz) | 3:01 | 2022-12-08 |  |
 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 | 2022-07-27 | 2022-09-20 |
 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 | 2022-07-27 | 2022-10-08 |
 | [PARTY \(feat\. Quavo & Takeoff\)](https://open.spotify.com/track/3kT6P4hFj0IVr45TjKOLRp) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:31 | 2022-08-26 | 2022-09-24 |

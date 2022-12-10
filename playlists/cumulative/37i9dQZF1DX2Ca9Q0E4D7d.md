@@ -4,7 +4,7 @@
 
 > Beta frequencies for increased concentration.
 
-60 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/5ut6icI7FhIjnPBgG0hnSt)
+62 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/5ut6icI7FhIjnPBgG0hnSt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Beta Atmos](https://open.spotify.com/track/6o5yj52orwKaBw66O4t311) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 2:24 | 2022-09-06 |  |
 | [Beta Brainwave State](https://open.spotify.com/track/7zDu2bXHrl9ZMbTTBuvdyl) | [Noise Shapers](https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY) | [BINAURAL BEATS AND BRAIN WAVES](https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH) | 3:40 | 2022-09-06 |  |
 | [Beta Drift 22 Hz](https://open.spotify.com/track/2XbdiWmGMsofgPwC7fo5Lx) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Drift](https://open.spotify.com/album/7s28ywx1Jtag67oWdFS4Gw) | 2:54 | 2022-11-23 |  |
+| [Beta Equinox 18 Hz](https://open.spotify.com/track/2MRpSUhmDSTorFsNY9mXAr) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 3:06 | 2022-12-09 |  |
 | [Beta Escapes 103 hz \- 101 hz](https://open.spotify.com/track/2EEZjBet51P9GrEGJWIAME) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 3:21 | 2022-10-04 |  |
 | [Beta Focus](https://open.spotify.com/track/4ckDde7PeNPjU5kBAp2mYt) | [Ambient Chronicity](https://open.spotify.com/artist/4JTLdCWEDemwSJPOyNT0h8) | [BINAURAL BEATS AND BRAIN WAVES](https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH) | 3:30 | 2022-09-06 |  |
 | [Beta Focus \(93.1Hz \- 117.6Hz\)](https://open.spotify.com/track/6mv8zFO8Mx3l2HIz3mT29U) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Beta Focus](https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd) | 3:57 | 2022-09-06 |  |
@@ -68,5 +69,6 @@
 | [Time Travelling \(Beta Waves\)](https://open.spotify.com/track/5smQD23QwbJST01uYJdMAM) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Reaching For The Stars](https://open.spotify.com/album/0CJNJFCAwOG2ifjOYsJth6) | 3:12 | 2022-09-06 |  |
 | [Total Focus \(Beta Sinus\)](https://open.spotify.com/track/55jSrZSZf4ooJxPwgFR2Hs) | [Mind Medicine](https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5) | [Mind Medicine](https://open.spotify.com/album/0nEnQBAZdghQsCNZbKNm2B) | 3:33 | 2022-09-06 |  |
 | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/track/2fkZSejqcDkdc2rWi8vARt) | [Merpell](https://open.spotify.com/artist/4VY6NUpEqaG1ouNyNgR2VN) | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/album/4MJvd53JhkCRT9g8IS54Q2) | 2:04 | 2022-09-06 |  |
+| [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/track/1q0glRZ97xYFh3Vu43hb9y) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/album/0nR9BiFll648hqwDkT0WVt) | 2:57 | 2022-12-09 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

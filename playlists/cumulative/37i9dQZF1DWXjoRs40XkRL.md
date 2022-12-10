@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-122 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
+123 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 | 2022-12-01 |  |
 | [Rasiya](https://open.spotify.com/track/3HFJPw9sU2Ks2290Rlt3tU) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [World Music By Indian Maestros](https://open.spotify.com/album/4PBgCpCGwiiLE8xZrOdXH2) | 5:38 | 2022-05-17 | 2022-07-29 |
 | [Rasiya](https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:38 | 2022-07-12 |  |
-| [Ret Bhari](https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9) | [Iman Chakraborty](https://open.spotify.com/artist/7gjiYwM6O5sNuYBaCdpCXA) | [Ret Bhari](https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy) | 4:38 | 2022-05-17 |  |
+| [Raske Bhare](https://open.spotify.com/track/6X0Hd6LY1qRcQB6zLlOnS4) | [Ivy Banerjee](https://open.spotify.com/artist/5s0Lihq2sOZmt9A39boaqC), [Anindita Ganguli](https://open.spotify.com/artist/71dORDZecKOG3BAexq2mgt) | [Raske Bhare](https://open.spotify.com/album/5Vyru5YcUnyFVX9wyopz1m) | 4:35 | 2022-12-09 |  |
+| [Ret Bhari](https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9) | [Iman Chakraborty](https://open.spotify.com/artist/7gjiYwM6O5sNuYBaCdpCXA) | [Ret Bhari](https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy) | 4:38 | 2022-05-17 | 2022-12-10 |
 | [Saanware](https://open.spotify.com/track/2RLpjKjWsT52aZ6VejuI1A) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Aditi Paul](https://open.spotify.com/artist/0Es0q6Ck6CyyDjrWBqWkRc) | [Saanware](https://open.spotify.com/album/0hToTtwlTo3fbYCd1aE95L) | 3:48 | 2022-05-17 |  |
 | [Sagariya](https://open.spotify.com/track/092NFcCnJaSbcZQd76IGSf) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Sagariya](https://open.spotify.com/album/1hDVhG2pylmO3ef4y15jD0) | 6:52 | 2022-05-17 |  |
 | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/track/3JMz4MfpBq6OOv5kfltzgL) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/album/5rrQPgEyjaB3CN527qAs9r) | 4:28 | 2022-05-17 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "Our favorite R&B artists on the rise! Cover: Nippa",
-  "num_followers": 26357,
+  "description": "Our favorite R&B artists on the rise! Cover: Rileyy Lanez",
+  "num_followers": 26416,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI3ODgxNSwwMDAwMDAwMGI4NmM4ODIwMWVlMThiYjA5OTRlYTVjNWY4YThlNTJh",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGY1MTNiOTlmYzZhYThiMDUwMTc4NmRjYjRhNDYwZDIw",
   "tracks": [
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Not Mine",
+        "url": "https://open.spotify.com/album/2UOCKgxyChxxG7Xfm4RkjE"
+      },
+      "artists": [
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 134786,
+      "name": "Not Mine",
+      "url": "https://open.spotify.com/track/3nTJgNAH9A2oRA9IprpTl1"
+    },
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Not Mine",
-        "url": "https://open.spotify.com/album/2UOCKgxyChxxG7Xfm4RkjE"
-      },
-      "artists": [
-        {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
-        }
-      ],
-      "duration_ms": 134786,
-      "name": "Not Mine",
-      "url": "https://open.spotify.com/track/3nTJgNAH9A2oRA9IprpTl1"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Cold Toronto",
+        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Fell Asleep",
+      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "SATIN",
@@ -139,6 +155,22 @@
       "duration_ms": 214138,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "How Many",
+        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Destiny",
+          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
+        }
+      ],
+      "duration_ms": 198888,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -195,6 +227,22 @@
       "duration_ms": 216000,
       "name": "Past",
       "url": "https://open.spotify.com/track/5FOLC5vQdAS4CmUi1lKIZ1"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/1wABNR02b7NuEYawiFquby"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "duration_ms": 162772,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/5BOzvUNdF15sLFeZkxXNuA"
     },
     {
       "added_at": "2022-12-02 05:00:00",

@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-146 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+148 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2022-05-10 |  |
 | [outbreak](https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [outbreak](https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI) | 2:43 | 2022-04-05 |  |
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2021-11-11 | 2022-04-15 |
+| [Party By The Pool](https://open.spotify.com/track/2OcKWD2WtqoQCRiutFaTYX) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Party By The Pool](https://open.spotify.com/album/4PUusWkV41BTstVaot3t4k) | 2:56 | 2022-12-09 |  |
 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 | 2021-11-11 |  |
 | [Pink Skies](https://open.spotify.com/track/4MXVuIpQgFNBPABhYu2VFG) | [Dylan City](https://open.spotify.com/artist/1d07rq5p4ysXE3PaGJP8Bn) | [Pink Skies](https://open.spotify.com/album/4fZ80kzntY4IOkBtsNKR1t) | 2:19 | 2021-11-11 | 2022-05-20 |
 | [Play Day](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Play Day](https://open.spotify.com/album/0UKqrWV652dKSlLiF641a9) | 4:02 | 2021-11-11 |  |
@@ -114,6 +115,7 @@
 | [Postcard Paradise](https://open.spotify.com/track/6OtM2h9IyexZg5nc5YBf5p) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Postcard Paradise](https://open.spotify.com/album/0JJmknG7C5fdWAKWxPPQPu) | 2:24 | 2021-11-11 |  |
 | [Pull Me Closer](https://open.spotify.com/track/7wuX42wC2VlCMtazUOJkX8) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Pull Me Closer](https://open.spotify.com/album/52NRFkqvG68E13DZ6QSUfb) | 3:06 | 2021-11-11 |  |
 | [Pura Vida](https://open.spotify.com/track/4lMqdKJtrBGRLkif2MMjXe) | [TRE](https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK), [Julia Thomsen](https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE) | [Pura Vida](https://open.spotify.com/album/2e6h8LOHJXlvZhYh5g0umK) | 3:10 | 2022-09-02 |  |
+| [Renaissance](https://open.spotify.com/track/0Ehgq0I49NC6FwpArofFdk) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Renaissance](https://open.spotify.com/album/2guusLpexyacviaKX9hMvv) | 4:00 | 2022-12-09 |  |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2021-11-11 |  |
 | [Rhodes Night](https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT) | [Dimitri G](https://open.spotify.com/artist/0c5iXSRogLrwZrZeU4gF6k) | [Rhodes Night](https://open.spotify.com/album/4sMeFxBYKqgEKIfePb9Y0q) | 3:46 | 2021-11-11 |  |
 | [Rich In Mind](https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Rich In Mind](https://open.spotify.com/album/1gWYZW7bfXIEL1OY9cdTkH) | 2:55 | 2021-11-11 | 2022-05-11 |

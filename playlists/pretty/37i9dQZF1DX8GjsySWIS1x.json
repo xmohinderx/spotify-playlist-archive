@@ -1,13 +1,33 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 992850,
+  "num_followers": 992993,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUxNzg2OCwwMDAwMDAwMGY3NmRjNjRiM2E2YTY5NmM0MWQzY2Y2MTk1NDlhMDAx",
+  "snapshot_id": "MTY3MDU2MjU0MCwwMDAwMDAwMDllZDk1M2NjYWRhYzQ4OTVkMTIzNWU3ZDQ0MTA5NDk1",
   "tracks": [
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/6xtnCpTxexx1KtyGDRl4j0"
+      },
+      "artists": [
+        {
+          "name": "NVDES",
+          "url": "https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy"
+        },
+        {
+          "name": "The Vibe Trillionaires",
+          "url": "https://open.spotify.com/artist/2ChPvjFuvqOs9ezyG24HEV"
+        }
+      ],
+      "duration_ms": 162394,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/76PQc7doSlZ2ytD7M21Apo"
+    },
     {
       "added_at": "2022-12-08 16:44:28",
       "album": {

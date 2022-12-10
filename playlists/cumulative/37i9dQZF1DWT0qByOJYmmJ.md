@@ -4,7 +4,7 @@
 
 > Tristeza independiente para aquellos días de bajón.
 
-170 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/68BoYlWo5lHOskfBYhYm3g)
+171 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/68BoYlWo5lHOskfBYhYm3g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Anhelos](https://open.spotify.com/track/1F51u77jFLv9pu8vzpsrxI) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Anhelos](https://open.spotify.com/album/1XDxJgWumrFQr4xybNPlDn) | 3:42 | 2022-05-27 | 2022-07-28 |
 | [Anhelos](https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Anhelos](https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy) | 3:42 | 2022-07-11 |  |
 | [Arena Blanca](https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Páramo Místico](https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL) | 3:23 | 2022-06-24 | 2022-07-12 |
+| [Arena Roja](https://open.spotify.com/track/4sr03bWQ1ECbV6mKnvV9zZ) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Páramo Místico](https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL) | 3:58 | 2022-12-09 |  |
 | [Aroma a Nostalgia](https://open.spotify.com/track/2tBLzQLwaCIAUUG3PPWPdA) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma a Nostalgia](https://open.spotify.com/album/0aFc2irUha46ey5dF7tXKy) | 4:01 | 2022-05-27 | 2022-07-12 |
 | [Aroma A Nostalgia](https://open.spotify.com/track/1IpEM8ttceXEWqQ83ay9Da) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia](https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL) | 4:38 | 2022-05-27 |  |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-05-27 |  |
@@ -92,7 +93,7 @@
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-24 |  |
 | [Lo Que Solíamos Ser](https://open.spotify.com/track/0c1oQLkMMahLuFvXGrUZHP) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [Lo Que Solíamos Ser](https://open.spotify.com/album/63mnX0i7TXaoderNVMGVUj) | 3:03 | 2022-05-27 | 2022-07-29 |
 | [Lo Que Solíamos Ser](https://open.spotify.com/track/7pmyyC7HUNMtEqT3w6QWTn) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [Lo Que Solíamos Ser](https://open.spotify.com/album/01SMFYAJJVNSFNZXJj2c9s) | 3:03 | 2022-09-09 |  |
-| [Los días grises](https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Los días grises](https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8) | 2:19 | 2022-09-09 |  |
+| [Los días grises](https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Los días grises](https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8) | 2:19 | 2022-09-09 | 2022-12-10 |
 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 | 2022-05-27 |  |
 | [Lágrimas De Miel](https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Lágrimas De Miel](https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh) | 3:48 | 2022-05-27 |  |
 | [Lágrimas y Lluvia](https://open.spotify.com/track/1C0Na3mjjb5gX3VRjXDgHf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Lágrimas y Lluvia](https://open.spotify.com/album/6g3KpaqhOLhPQ1jWvjm7zc) | 3:36 | 2022-05-27 | 2022-07-28 |

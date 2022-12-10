@@ -164,6 +164,28 @@
     },
     {
       "album": {
+        "name": "Agachadita",
+        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195024,
+      "name": "Agachadita",
+      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
+    },
+    {
+      "album": {
         "name": "El Predilecto",
         "url": "https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy"
       },
@@ -175,7 +197,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 186780,
       "name": "Agarra La Onda",
       "url": "https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD"
@@ -573,7 +595,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 167706,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ"
@@ -620,6 +642,32 @@
     },
     {
       "album": {
+        "name": "Como Si Fuera M\u00edo",
+        "url": "https://open.spotify.com/album/19ylEpi8corAcwNTDhOvGd"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        },
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229348,
+      "name": "Como Si Fuera M\u00edo",
+      "url": "https://open.spotify.com/track/6wJkC7Jo8mNTb5gxMUZ66Z"
+    },
+    {
+      "album": {
         "name": "Gran Encuentro (20 \u00c9xitos Originales)",
         "url": "https://open.spotify.com/album/0h5HCJTFJd9Cy6EYqLcwfK"
       },
@@ -653,6 +701,24 @@
       "duration_ms": 192560,
       "name": "Con Ese Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+    },
+    {
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "album": {
@@ -909,7 +975,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 178986,
       "name": "El Callado",
       "url": "https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3"
@@ -1350,6 +1416,24 @@
     },
     {
       "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204013,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
+    },
+    {
+      "album": {
         "name": "Gato de Madrugada",
         "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
       },
@@ -1655,7 +1739,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 215882,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk"
@@ -1865,7 +1949,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 219222,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
@@ -2237,7 +2321,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 213221,
       "name": "M\u00e1s Muerto Que Vivo",
       "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
@@ -2331,7 +2415,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 244253,
       "name": "Ni Con Labios Prestados",
       "url": "https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA"
@@ -2595,7 +2679,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 204160,
       "name": "Nunca Dudes En Llamarme",
       "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
@@ -2966,6 +3050,28 @@
     },
     {
       "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
         "name": "Hoy Que Te Pierdo",
         "url": "https://open.spotify.com/album/1RJP2Ii5p9SEUeDUF56tGQ"
       },
@@ -3321,7 +3427,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 161690,
       "name": "Soy de Sinaloa",
       "url": "https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K"
@@ -3483,7 +3589,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 203440,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM"
@@ -3728,6 +3834,42 @@
     },
     {
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De",
+        "url": "https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Oro",
+          "url": "https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212140,
+      "name": "Vete a Buscar Aquel",
+      "url": "https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm"
+    },
+    {
+      "album": {
         "name": "Somos Arrieros",
         "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
@@ -3793,7 +3935,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 178378,
       "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
       "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"

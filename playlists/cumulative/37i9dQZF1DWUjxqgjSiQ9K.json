@@ -1666,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "Darme",
+        "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222595,
+      "name": "Darme",
+      "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
+    },
+    {
+      "album": {
         "name": "Da\u00f1ar El Jangueo (Remix)",
         "url": "https://open.spotify.com/album/6Zs8pHYSaQt64xXXQmJ3ZF"
       },
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 188444,
       "name": "El Es Fiel",
       "url": "https://open.spotify.com/track/15MSm4FwuNGjdqb6t6ppWJ"
@@ -4292,6 +4310,36 @@
     },
     {
       "album": {
+        "name": "No Es Raro (Remix)",
+        "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        },
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        },
+        {
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+        },
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315276,
+      "name": "No Es Raro - Remix",
+      "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
+    },
+    {
+      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
       },
@@ -5881,7 +5929,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 198813,
       "name": "Tamos de Fiesta",
       "url": "https://open.spotify.com/track/0ft6Igxvsf1HYVFHDp1aX1"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-517 songs - 1 day 6 hr 10 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+518 songs - 1 day 6 hr 14 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/17UUTchNWTLOFsLUJnpIv8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/1EMY6N5Ciaa5xHQPsyIJ8P) | 3:36 | 2021-03-27\* | 2021-04-14 |
 | [บานปลาย \(best wishes\)](https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [บานปลาย \(best wishes\)](https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA) | 4:49 | 2021-11-24 |  |
 | [ปล่อยให้เวลา](https://open.spotify.com/track/7AcomvHhlYUB0m9tIX4aC8) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ปล่อยให้เวลา](https://open.spotify.com/album/5hN6ebTHczsMaw9t0ijTXG) | 2:51 | 2022-09-29 |  |
+| [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\) \- Sad flower](https://open.spotify.com/track/7BUHKcrvmr9WIAgEBkwukl) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\) \[Sad flower\]](https://open.spotify.com/album/3h5McsoCWje5uRcj8psVEH) | 4:30 | 2022-12-09 |  |
 | [ฝนตกไหม](https://open.spotify.com/track/2pB3TJsSleiRiL0NP6rtCw) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:21 | 2021-03-27\* | 2021-08-08 |
 | [ฝันถึงแฟนเก่า](https://open.spotify.com/track/3kJG9AsDp8CPiqeIXtvHTM) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:01 | 2021-03-27\* | 2021-04-17 |
 | [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2021-07-01 | 2021-08-21 |
@@ -498,7 +499,7 @@
 | [แค่ฝันไป](https://open.spotify.com/track/1JU4ZiABEUdYEONLwmbLQd) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [WILLISHMARA \(วิลิศมาหรา\)](https://open.spotify.com/album/7nNAJmV2ohLa1DZsqsC9Jw) | 4:44 | 2021-04-02 | 2021-04-20 |
 | [แค่ฝันไป](https://open.spotify.com/track/6odrQWsbCEeOZ8gptITc2i) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [แค่ฝันไป](https://open.spotify.com/album/6gW5lIWIAgJEv0gl8mwPVV) | 4:44 | 2021-03-27\* | 2021-04-02 |
 | [แค่มีเธอไปเดินเตะคลื่นทะเลด้วยกัน](https://open.spotify.com/track/4vLs8BDqK1JtpJdrgrriX6) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [แค่มีเธอไปเดินเตะคลื่นทะเลด้วยกัน](https://open.spotify.com/album/63NVvlLlMqR1vfycvmEfpm) | 3:53 | 2022-05-14 | 2022-10-18 |
-| [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 | 2022-05-30 |  |
+| [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 | 2022-05-30 | 2022-12-10 |
 | [แปลไม่ออก \- Ost\. แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/3ADD6eZhJPHrRKAQ2MWBD5) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [แปลไม่ออก \(Ost\. แปลรักฉันด้วยใจเธอ\)](https://open.spotify.com/album/6MYoCHe5eeOEJKuJIzQbDv) | 4:18 | 2021-03-27\* | 2021-06-27 |
 | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo), [Juné](https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x) | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T) | 4:21 | 2022-01-27 | 2022-02-23 |
 | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/track/6GDI4Y8fOsptYwSW2iIUbe) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo), [Juné](https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x) | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/album/6Vhm8CSoT99fiJSbhLSwEj) | 4:21 | 2021-03-27\* | 2022-01-28 |

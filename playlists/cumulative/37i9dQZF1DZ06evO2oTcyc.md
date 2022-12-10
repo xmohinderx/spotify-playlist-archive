@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 1 min - not published yet
+59 songs - 3 hr 5 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer) | 2:58 | 2022-10-28 |  |
 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 | 2022-10-28 |  |
 | [Senseless](https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/1Kb6HgD9hML4dsu2meKGqJ) | 2:23 | 2022-10-28 |  |
-| [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 | 2022-10-28 |  |
+| [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 | 2022-10-28 | 2022-12-10 |
 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 | 2022-10-28 |  |
 | [Skrt](https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Skrt](https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS) | 3:44 | 2022-10-28 |  |
 | [Slay Like Santa](https://open.spotify.com/track/3Kj9pwFxtYXEQR4ZsZg3NU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:13 | 2022-10-30 |  |
@@ -64,6 +64,7 @@
 | [Usain Boo](https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:06 | 2022-10-28 |  |
 | [Wake Up in the Sky](https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Wake Up in the Sky](https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB) | 3:24 | 2022-10-28 |  |
 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 | 2022-10-28 |  |
+| [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/3J8uSfhmDeIgWrzxUAd8rm) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Water / Drowning](https://open.spotify.com/album/2VOATVRdEQXaOHpjQkFE0L) | 3:26 | 2022-12-09 |  |
 | [Z Look Jamaican](https://open.spotify.com/track/2Lw5B2B1KsssGf5NbjDeyj) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:36 | 2022-10-28 | 2022-11-01 |
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2022-10-28 |  |
 

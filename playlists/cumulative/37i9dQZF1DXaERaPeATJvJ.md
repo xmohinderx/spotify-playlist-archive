@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Penggalan lagu lama dari kancah musik independen\. Cover: Goodnight Electric
+> Penggalan lagu lama dari kancah musik independen\. Cover: Koil
 
-100 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+101 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Jatuh Cinta Itu Biasa Saja](https://open.spotify.com/track/0IrujRv0WMILH3wlFKndh6) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Efek Rumah Kaca](https://open.spotify.com/album/5PENwZWWNzHhPfYcvvv2Kf) | 5:14 | 2021-11-25 |  |
 | [Kabut](https://open.spotify.com/track/7Id4XS3OoIh7XpMf7mwBya) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Love Among the Ruins](https://open.spotify.com/album/0284ZoFuKRZAHPAVwKtOGo) | 3:26 | 2022-09-16 |  |
 | [Kelopak Angsa \- Remastered](https://open.spotify.com/track/0YyNk502FhwF3KjTbyAMsb) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Kelopak Angsa \(Remastered\)](https://open.spotify.com/album/4LLtGY51tbEFAxAT82dAjb) | 4:11 | 2021-11-25 |  |
+| [Kenyataan Dalam Dunia Fantasi](https://open.spotify.com/track/2zvwxYin8bajogul1xrJR5) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Blacklight](https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15) | 4:05 | 2022-12-09 |  |
 | [Kisah Dari Selatan Jakarta](https://open.spotify.com/track/20qm0yBgr7ylY91vKp7SpY) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Together Whatever Sessions \(Live Version\)](https://open.spotify.com/album/0eXX7sZMrUItp9FT6FTWdl) | 4:15 | 2021-11-25 |  |
 | [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/track/2MuNPjvtdsIIX46Felbx82) | [Baby Eats Crackers](https://open.spotify.com/artist/5ToCo2V5mapXG8lnr9mV3e) | [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/album/0MBi0mMMAW1YoPWyLAtNGl) | 3:16 | 2022-08-04 |  |
 | [Kita Akan Bertemu di Sana](https://open.spotify.com/track/67WXgb9g8eZARad1QRMMpQ) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Cerah Berawan](https://open.spotify.com/album/3mXgaM6h0ZysTtrEahbhUF) | 4:43 | 2022-08-04 |  |

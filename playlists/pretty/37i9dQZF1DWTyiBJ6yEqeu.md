@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 
 > Press play, press start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,844,181 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,846,710 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 | 99 | [By the Sword](https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [By the Sword](https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa) | 2:05 |
 | 100 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
 
-Snapshot ID: `MTY3MDQ0NTA0OSwwMDAwMDAwMDZmYjQxZmM5ZGYwN2NlYzMxM2IxZDE4YTMyMzFkZGRi`
+Snapshot ID: `MTY3MDU2MjU0MCwwMDAwMDAwMGZlOWJjODVhMTBkZTUyNjI5YmY5NWJlNTMwYTU5Mzg5`

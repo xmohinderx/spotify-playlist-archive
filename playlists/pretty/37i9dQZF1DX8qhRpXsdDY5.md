@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: Conexión Divina
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,942 likes - 98 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,125 likes - 98 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

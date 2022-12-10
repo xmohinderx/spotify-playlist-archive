@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,492 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,489 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 55 | [Mode](https://open.spotify.com/track/6dK76c8NXJpVoXnz0FHYRk) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Mode](https://open.spotify.com/album/0GgHQw9BfH8GpsXyeyZBeM) | 1:52 |
 | 56 | [Rollin](https://open.spotify.com/track/2BOyUTTWm1eV8sS3ofVV1s) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Rollin](https://open.spotify.com/album/5Z4rsgy3qszNpfK4nfe3Do) | 2:57 |
 | 57 | [What's The Move](https://open.spotify.com/track/1mOGMaI2QcWWchFRmSjjqa) | [Don Altae](https://open.spotify.com/artist/37Y2mDVbUlztt1I5e6K9Bz) | [What's The Move](https://open.spotify.com/album/6vAuH6D9T8Jz6Rl0ikf6Dt) | 2:49 |
-| 58 | [One Shot](https://open.spotify.com/track/4WbeXP51v5f8qvVY0awjkY) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [I'm Dru!](https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp) | [One Shot](https://open.spotify.com/album/1k6gsqQXyHoFjGQO2l7xuC) | 2:38 |
+| 58 | [One Shot](https://open.spotify.com/track/4QyzA8igZqb7qVz3BxiQXB) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [I'm Dru!](https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp) | [One Shot](https://open.spotify.com/album/6KSKRekZKhjkgmkq7vlDkm) | 2:38 |
 | 59 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
 | 60 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 |
 | 61 | [What More](https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 2:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 69 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 70 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MTY3MDAxODgyMiwwMDAwMDAwMDUyMDQ2MDRlYTMwNGFjNjYzMGYyOWM0MjY4MWQwNjdl`
+Snapshot ID: `MTY3MDAxODgyMiwwMDAwMDAwMDFhYjI3ODQ0ZDVhNDZmYjM2YzJhMjQ5MGRhMjE1NzY5`

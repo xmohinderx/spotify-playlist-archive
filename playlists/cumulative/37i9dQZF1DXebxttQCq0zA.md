@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-295 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+296 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 | 2022-05-25 |  |
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2022-05-25 | 2022-09-28 |
 | [Cloud Puff](https://open.spotify.com/track/3AbxPftquBRGJPtKnenpPl) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Cloud Puff](https://open.spotify.com/album/3s9XpZafAAY3DCCPaIsL8X) | 2:45 | 2022-05-25 | 2022-09-28 |
-| [Comfortable Night](https://open.spotify.com/track/0WUTtM2dCgaV3DcKR1TUo0) | [Mr Pillow](https://open.spotify.com/artist/3LtL0LR8HOlRULZKHf9obA) | [Comfortable Night](https://open.spotify.com/album/3SBn1GyaNYMUUqIqWTlbjO) | 3:46 | 2022-05-25 |  |
+| [Comfortable Night](https://open.spotify.com/track/0WUTtM2dCgaV3DcKR1TUo0) | [Mr Pillow](https://open.spotify.com/artist/3LtL0LR8HOlRULZKHf9obA) | [Comfortable Night](https://open.spotify.com/album/3SBn1GyaNYMUUqIqWTlbjO) | 3:46 | 2022-05-25 | 2022-12-10 |
 | [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 | 2022-05-25 | 2022-09-03 |
 | [Cosmogyral](https://open.spotify.com/track/4WT82kpk9JXBnyN564LZS4) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Cosmogyral](https://open.spotify.com/album/0ZgO9uGL5SY607snj6pG5f) | 3:19 | 2022-05-25 | 2022-09-28 |
@@ -92,6 +92,7 @@
 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 | 2022-05-25 | 2022-09-28 |
 | [Envision](https://open.spotify.com/track/4WDiuLIXEaVph0nG3B0zJE) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:39 | 2022-05-25 | 2022-09-28 |
 | [Equilibrium](https://open.spotify.com/track/0aRSGdv7ImXsxk91fTqEf5) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Equilibrium](https://open.spotify.com/album/3Tr4GGB3iahsp5CVYtubVj) | 3:03 | 2022-05-25 | 2022-09-28 |
+| [Escapism](https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [Escapism](https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH) | 3:18 | 2022-12-09 |  |
 | [Evening's peace](https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Evening's peace](https://open.spotify.com/album/6ejJZyYDesDEeTmnKbwj41) | 3:25 | 2022-05-25 | 2022-09-28 |
 | [Evolving](https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR) | [Sidney Ashenhurst](https://open.spotify.com/artist/6pnBX8wymywCxqY7FiXEsN) | [Evolving](https://open.spotify.com/album/2g0MPVqI9fbAVrn64n3YmI) | 2:03 | 2022-05-25 |  |
 | [Fading Out](https://open.spotify.com/track/1GG2rqEQi9OyH1pA8A7qGl) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Integrating](https://open.spotify.com/album/2tPY3IAMnGDBKJevNL4iRi) | 4:07 | 2022-05-25 |  |

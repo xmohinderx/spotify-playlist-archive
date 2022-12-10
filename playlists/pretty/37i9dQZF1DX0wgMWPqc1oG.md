@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,024 likes - 75 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,069 likes - 75 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 74 | [Idle While \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/2SmyY2bDv75ogpDUqXEvL8) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Dialogue](https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2) | 6:37 |
 | 75 | [Right Now](https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 9:29 |
 
-Snapshot ID: `MTY1MTA3MTE0OCwwMDAwMDAwMGM5YTc2ZTkyNTk0MmM0N2EyNTdhMTBjZjA3MWVkMjBj`
+Snapshot ID: `MTY3MDU3MzAzMSwwMDAwMDAwMGNjZGU5ZjUxNjA0MDhhMDdlYjA1ODBhZGNkYzNhMzIx`

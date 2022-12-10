@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Jelly Roll
+> Hot Country is proud to support St\. Jude this holiday season! Learn more at MusicGives.Org \#ThisShirtSavesLives Cover: Dan + Shay
 
-574 songs - 1 day 6 hr 57 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
+575 songs - 1 day 7 hr 1 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Now You Know](https://open.spotify.com/track/0zvFpizoPkjXNuii0mYjb7) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Now You Know](https://open.spotify.com/album/6PgUqzVsJMcgSjHs9usz1R) | 2:55 | 2019-09-06 | 2019-11-09 |
 | [Off Road](https://open.spotify.com/track/5Flk5ig2Lt0FrdM8UQfVeu) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Off Road](https://open.spotify.com/album/1eIN0vpmHWQ2TEZspYu7mH) | 3:04 | 2021-03-27 | 2021-07-24 |
 | [Old School](https://open.spotify.com/track/0QlVTCl7DKwI4pxuHgJtLo) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Old School](https://open.spotify.com/album/04del8uubDhGl0xMyWUfQu) | 3:13 | 2021-10-16 | 2021-12-11 |
+| [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2022-12-09 |  |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2020-05-24 | 2020-06-12 |
 | [On Me \(feat\. Ava Max\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/4ejNoyrhgjrioqJbgTNPu3) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [On Me \(feat\. Ava Max\)](https://open.spotify.com/album/1JdG7LmkxfnnmFGKwnzoMd) | 2:44 | 2020-05-30 | 2020-10-06 |
 | [On My Way to You](https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:33 | 2019-05-26\* | 2019-06-22 |
@@ -402,7 +403,7 @@
 | [Party Mode](https://open.spotify.com/track/7ivOkXLuP1182ZtzA54Vbw) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz) | 3:31 | 2022-02-11 | 2022-07-29 |
 | [Paying For It](https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Paying For It](https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX) | 3:11 | 2021-10-23 | 2021-12-24 |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-01-21 |  |
-| [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-02-11 |  |
+| [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-02-11 | 2022-12-10 |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 | 2022-08-20 |
 | [Prayed For You](https://open.spotify.com/track/1cmnChE57SpRJR2oFNcTpv) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Matt Stell](https://open.spotify.com/album/0j9HPvF8qRcifU23KR5w85) | 3:30 | 2019-07-13 | 2019-11-05 |
 | [Prayed For You](https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:30 | 2019-11-02 | 2020-02-08 |

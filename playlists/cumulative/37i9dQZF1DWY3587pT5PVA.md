@@ -2,7 +2,7 @@
 
 ### [Netflix Theater Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWY3587pT5PVA)
 
-> Your favorite songs from Netflix movie musicals all in one playlist.
+> Your favorite songs from Netflix movie musicals all in one playlist\. Cover: Matilda the Musical
 
 47 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/1ZDaUf6YIkjsIdmZKcFPrx)
 

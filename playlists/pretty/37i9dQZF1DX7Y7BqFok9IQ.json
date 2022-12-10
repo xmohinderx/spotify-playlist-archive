@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 137566,
+  "num_followers": 137610,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDE3OWI2ZDJhZTQ1NGViOGY1MmI0NzMxYjVjODhlZGZk",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDQxMjE5ZmEyZmEzOTVjMjk0NzBkMDBjMGQ5OWFjZmY2",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -25,36 +25,36 @@
       "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Ballad of a Thin Man",
-        "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 393586,
-      "name": "Ballad of a Thin Man",
-      "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm"
       },
       "artists": [
         {
-          "name": "Chris Leamy",
-          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
         }
       ],
-      "duration_ms": 165954,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
+      "duration_ms": 181680,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -71,22 +71,6 @@
       "duration_ms": 225309,
       "name": "Painted Horse",
       "url": "https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -119,6 +103,22 @@
       "duration_ms": 253746,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        }
+      ],
+      "duration_ms": 146178,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
-      },
-      "artists": [
-        {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
-        }
-      ],
-      "duration_ms": 146178,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s"
-    },
-    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "See Where The Night Goes",
@@ -233,22 +217,6 @@
       "url": "https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Low Down Rolling Stone",
-      "url": "https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Fear Of The Dawn",
@@ -263,6 +231,22 @@
       "duration_ms": 214842,
       "name": "What's the Trick?",
       "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Low Down Rolling Stone",
+      "url": "https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -299,22 +283,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "WAYS",
-        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 181218,
-      "name": "Any Way the Wind Blows",
-      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "Nowhere Everywhere",
         "url": "https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 168440,
       "name": "Sailing Down",
       "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "WAYS",
+        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 181218,
+      "name": "Any Way the Wind Blows",
+      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -393,22 +377,6 @@
       "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Good for Sumthin'",
@@ -429,20 +397,20 @@
       "url": "https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa"
     },
     {
-      "added_at": "2021-04-30 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -459,6 +427,22 @@
       "duration_ms": 284786,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
+    },
+    {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -539,6 +523,22 @@
       "duration_ms": 328093,
       "name": "The Waltz",
       "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Ballad of a Thin Man",
+        "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 393586,
+      "name": "Ballad of a Thin Man",
+      "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
     },
     {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+      },
+      "artists": [
+        {
+          "name": "Chris Leamy",
+          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+        }
+      ],
+      "duration_ms": 165954,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
+    },
+    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "El Dorado",
@@ -803,22 +819,6 @@
       "duration_ms": 270753,
       "name": "Scarborough Street Fight",
       "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Gotta Be Movin\u2019",
-      "url": "https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9"
     }
   ],
   "unique_name": "Modern Blues Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb?si=7SVwzfWaQWCfsWXhLIAhGA">Die Heuwels Fantasties</a> and <a href="https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=d\_RHYk3xSB2ndluBYnJrIw">Appel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,478 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,515 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 234955,
       "name": "Cloaked",
       "url": "https://open.spotify.com/track/2GIEbKn7RURChEwZooy7TU"
@@ -2771,6 +2771,24 @@
       "duration_ms": 246000,
       "name": "Ephemeral",
       "url": "https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3"
+    },
+    {
+      "album": {
+        "name": "Equus",
+        "url": "https://open.spotify.com/album/6u0sO15h0hLRfNJmbmqJD1"
+      },
+      "artists": [
+        {
+          "name": "Ne Obliviscaris",
+          "url": "https://open.spotify.com/artist/5kbidtcpyRRMdAQUnI1BG4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 749067,
+      "name": "Equus",
+      "url": "https://open.spotify.com/track/7w3AcH1IPIjZqjgixLgiEO"
     },
     {
       "album": {
@@ -6948,6 +6966,24 @@
     },
     {
       "album": {
+        "name": "Different Kinds of Losses",
+        "url": "https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni"
+      },
+      "artists": [
+        {
+          "name": "Rioghan",
+          "url": "https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364895,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/6suhC134iU9dsegUGIngx6"
+    },
+    {
+      "album": {
         "name": "Remanence",
         "url": "https://open.spotify.com/album/7mxcGyauyqgMX4YHzFP8nn"
       },
@@ -9423,7 +9459,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 228413,
       "name": "Titan",
       "url": "https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd"

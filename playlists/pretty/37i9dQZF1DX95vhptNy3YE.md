@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,324 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,509 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 7 | [Ai Preto](https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Ai Preto](https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ) | 2:11 |
 | 8 | [Luxo No Morro](https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [A Jolly Child](https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 2:20 |
 | 9 | [Peças De Griffe](https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 3:26 |
-| 10 | [Hino dos Mlks](https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Hino dos Mlks](https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt) | 3:29 |
+| 10 | [Hino dos Mlks](https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Hino dos Mlks](https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt) | 3:29 |
 | 11 | [BRAZIL](https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [BRAZIL](https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd) | 2:04 |
 | 12 | [Maldita](https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:07 |
 | 13 | [Visão de Onça \- Spotify Singles](https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Visão de Onça \- Spotify Singles](https://open.spotify.com/album/068AREijgAvQQuZkiAfap3) | 2:21 |

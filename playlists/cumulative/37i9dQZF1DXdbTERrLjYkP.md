@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: SkyeChristy
 
-351 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+353 songs - 18 hr 52 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2022-01-14 | 2022-03-12 |
 | [Funeral](https://open.spotify.com/track/4BvRbNPdT7ORpX8h70FrFo) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Funeral](https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq) | 3:31 | 2022-08-26 |  |
 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 | 2022-11-10 |
+| [getting older](https://open.spotify.com/track/3e9Z0TBZPg21jOHnufb2jL) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [getting older](https://open.spotify.com/album/0c6wCWOriEOPRWKQQkjI01) | 2:46 | 2022-12-09 |  |
 | [Getting Older](https://open.spotify.com/track/3ug0z5meuf80xze4Pq7KUf) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Getting Older](https://open.spotify.com/album/0QlI1E0LgBtZNHeCGt0WSI) | 2:45 | 2022-04-01 | 2022-10-01 |
 | [Getting Used To](https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Getting Used To](https://open.spotify.com/album/5wnt2FQ51s2p5jnqHIXNOg) | 2:51 | 2022-04-29 | 2022-08-06 |
 | [girl like me](https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [girl like me](https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED) | 2:58 | 2022-02-11 | 2022-04-02 |
@@ -209,6 +210,7 @@
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2022-01-14 | 2022-02-26 |
 | [Megan’s Song](https://open.spotify.com/track/71eVKx9MDUBpGChmV98Hiu) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Megan’s Song](https://open.spotify.com/album/6ZP7zOFmqA5NyjKLd2mhR2) | 3:10 | 2022-08-19 |  |
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-01-14 | 2022-05-07 |
+| [Mess](https://open.spotify.com/track/1502aGzxNUgwcv2r1rG91S) | [Alaina Ray](https://open.spotify.com/artist/2hcq1PIq9XzXVmrab7mfXr) | [Mess](https://open.spotify.com/album/0WtLqYqc87OEDZ7kFJXjJu) | 2:15 | 2022-12-09 |  |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-04-29 |
 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 | 2022-08-12 | 2022-11-12 |
 | [mood ring](https://open.spotify.com/track/5sHctjVx9Z4Qj5gyB8q7kT) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [mood ring](https://open.spotify.com/album/7iTcqrJVu8e8myv9OIV1KM) | 2:54 | 2022-03-11 | 2022-07-16 |
@@ -273,7 +275,7 @@
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-14 | 2022-04-02 |
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2022-09-09 | 2022-11-12 |
 | [Sleepy](https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:08 | 2022-09-09 |  |
-| [Small Talk](https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 3:08 | 2022-08-12 |  |
+| [Small Talk](https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 3:08 | 2022-08-12 | 2022-12-10 |
 | [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-07-01 | 2022-08-31 |
 | [Small Things](https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Small Things](https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z) | 2:57 | 2022-03-18 | 2022-06-04 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2022-07-23 |
@@ -355,7 +357,7 @@
 | [You Just Didn't Like Me That Much](https://open.spotify.com/track/08uFpUUmJVfmF2tdUBejfg) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [You Just Didn't Like Me That Much](https://open.spotify.com/album/4nkYKsTD0UIctyKKAvLwgp) | 2:36 | 2022-10-28 |  |
 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-22 | 2022-08-13 |
 | [you ruined phoebe bridgers](https://open.spotify.com/track/1wbqhfq7CIN9Q5FL8CL90r) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [i \(don't\) know you](https://open.spotify.com/album/3Vyl6gXOqLsiaao9xxUpn7) | 2:46 | 2022-01-14 | 2022-03-12 |
-| [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-10-07 |  |
+| [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-10-07 | 2022-12-10 |
 | [You'll Be Fine](https://open.spotify.com/track/06XZWfafzxL4DgcRsqCYBZ) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [You'll Be Fine](https://open.spotify.com/album/39FcPlEZ6XEqGyYuyM5mtJ) | 2:41 | 2022-01-14 | 2022-03-12 |
 | [Younger Self](https://open.spotify.com/track/6URJ4SjwwDw8XOFwYN6rY5) | [Nancy Daines](https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR) | [Younger Self](https://open.spotify.com/album/6AkBIRxlFJ7lW4gcjl3aNe) | 3:23 | 2022-05-27 | 2022-11-05 |
 | [Your World](https://open.spotify.com/track/55tJrxAsKjmkFK1PMSY5Uh) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Only Emotion](https://open.spotify.com/album/6UxOg4nG9oarhtHFQghmbC) | 3:25 | 2022-02-09 | 2022-03-05 |

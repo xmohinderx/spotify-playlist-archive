@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-135 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+136 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Chutoro](https://open.spotify.com/track/2THxskift0F2b5wCjjLpzw) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Chutoro EP](https://open.spotify.com/album/2KmUmTZICpnb2pvJI1DiOb) | 5:50 | 2022-09-15 |  |
 | [Clap & Stomp](https://open.spotify.com/track/5Cs8GSuYsD7gSq0lbL5hqC) | [Javonntte](https://open.spotify.com/artist/2qBuzbYgrjGhnf79c60kxi) | [Return of the Private Party](https://open.spotify.com/album/55SMgIcyCEkwCEv2ahugt7) | 5:37 | 2022-09-15 |  |
 | [Closer](https://open.spotify.com/track/5A8rwVPuBWN1oUw7lD4jzP) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 7:04 | 2022-09-15 |  |
+| [CODA](https://open.spotify.com/track/1hrRNhEG0ES4OC5rBCU1F8) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS) | [CODA](https://open.spotify.com/album/6umHyT3BNbM0no1jnd98Fh) | 6:13 | 2022-12-09 |  |
 | [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 | 2022-11-10 |  |
 | [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 | 2022-11-28 |  |
 | [Dem Good Ol' Days \- extended mix](https://open.spotify.com/track/5jXdOuboeHKtWYNBmJIkxy) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 6:47 | 2022-12-05 |  |

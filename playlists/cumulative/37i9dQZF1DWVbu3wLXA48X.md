@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Caroline Polachek
 
-681 songs - 1 day 16 hr 29 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+682 songs - 1 day 16 hr 33 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Sera](https://open.spotify.com/track/5fJyD0EG6uBxcExhUlYZZq) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [Sera](https://open.spotify.com/album/1ZTFntttDauVPZGMS2iiTH) | 3:03 | 2022-12-05 |  |
 | [Settle Down](https://open.spotify.com/track/0LACZ5yc1B7U7CIrVcJ6Fe) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [It's 2016 Somewhere](https://open.spotify.com/album/6suTADibkHRNH8K4Up3xec) | 2:58 | 2022-04-14 | 2022-05-21 |
 | [Shangri\-La Is Calling](https://open.spotify.com/track/3mC9UEuISVfgymoY1YDTNn) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 4:34 | 2022-07-08 | 2022-07-30 |
+| [Should've Drowned](https://open.spotify.com/track/68WkQbTM7Fs1Wj0hPT7iZV) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Should've Drowned](https://open.spotify.com/album/7eOnY5aNvOMhXBJNGCwlwC) | 3:36 | 2022-12-08 |  |
 | [Sicily](https://open.spotify.com/track/5evK27NsYgIldEmR1CCjUA) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 3:29 | 2022-01-28 | 2022-04-01 |
 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 | 2022-04-14 | 2022-05-06 |
 | [Sideways](https://open.spotify.com/track/3kF46KXHxqWvvgJWtZRmyx) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Sideways](https://open.spotify.com/album/6gDsJNf8oR4h87uZBl6cEr) | 2:51 | 2022-03-18 | 2022-06-18 |

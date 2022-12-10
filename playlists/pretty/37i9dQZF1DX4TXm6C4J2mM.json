@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156819,
+  "num_followers": 156807,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGRlMTY3ODM3ODRmYjNiNGY3OTJiNWQzZDRjN2E2NGVl",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDFjM2M2NzcyOGI1MDkwZWE4MTlhY2M3ZGJiOTMzZWZl",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Ones You Miss",
-        "url": "https://open.spotify.com/album/6attcIq1peIGvUC29hoaFA"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 133669,
-      "name": "Ones You Miss",
-      "url": "https://open.spotify.com/track/31rl8e7IEpHtt3mkjOU4FW"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
       },
@@ -1987,26 +1971,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Next to Neon",
-          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Party To Survive",
         "url": "https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH"
       },
@@ -2107,6 +2071,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Next to Neon",
+          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
         "url": "https://open.spotify.com/album/79asdi3oW71KmnjzoKQL7z"
       },
@@ -2131,6 +2115,26 @@
       "duration_ms": 226451,
       "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
       "url": "https://open.spotify.com/track/0mfTTKtgwz9QvGz5i1IG5r"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "We Don\u2019t Talk Enough",
+        "url": "https://open.spotify.com/album/1E9Q39TqWoZnYF08dHuzIR"
+      },
+      "artists": [
+        {
+          "name": "Vigiland",
+          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
+        },
+        {
+          "name": "mha",
+          "url": "https://open.spotify.com/artist/60k9ZPN87OMsrz3h5lUGuL"
+        }
+      ],
+      "duration_ms": 180895,
+      "name": "We Don\u2019t Talk Enough",
+      "url": "https://open.spotify.com/track/62yfWgcfq5sYDcDkxfYZvV"
     }
   ],
   "unique_name": "Tr\u00e4ning",

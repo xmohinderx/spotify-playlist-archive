@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,256 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,366 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 2 | [New Guru](https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [New Guru](https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF) | 3:24 |
 | 3 | [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 |
 | 4 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
-| 5 | [Sky has open doors](https://open.spotify.com/track/5EqtcGaNE7rE6mjVZYarjB) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/3V7X498o84HlP4NK9vhoeY) | 3:39 |
+| 5 | [Sky has open doors](https://open.spotify.com/track/73KIzrxQOsJAgMj6dBDQ5d) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Sky has open doors](https://open.spotify.com/album/0l4lzZ83jqOdYjVxSXLglU) | 3:39 |
 | 6 | [This Will Be Our Year](https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [This Will Be Our Year](https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT) | 2:37 |
 | 7 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 8 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [You Are Everything](https://open.spotify.com/track/1HL9e5uqnQg1qxJH2BisfJ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Stan Taylor](https://open.spotify.com/artist/0FLx5Ts7ydf1NuSsy334eU) | [You Are Everything](https://open.spotify.com/album/6LMTOf2XuRWmkm9O8Bvch8) | 2:59 |
 | 100 | [What Kind of Woman](https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [What Kind of Woman](https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG) | 3:34 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDRkMzEzZGY1Y2E3ZjYxNjI2MDRmMDk0MjE2MDFiZDlh`
+Snapshot ID: `MTY3MDU2ODM1MywwMDAwMDAwMDZlMTA0NGE5ZjhjMmMwYTFiZTlhZjM3NGYzNThlZTY1`

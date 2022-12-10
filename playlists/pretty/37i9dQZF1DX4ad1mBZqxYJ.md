@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,865 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,970 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 52 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
 | 53 | [El Doctor](https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:55 |
 | 54 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
-| 55 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 |
+| 55 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 |
 | 56 | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Abhir Hathi](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [EL IMA](https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2) | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb) | 6:53 |
 | 57 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
 | 58 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 |

@@ -967,7 +967,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 149560,
       "name": "Big boy",
       "url": "https://open.spotify.com/track/3evB6yurMLTf8UnKV3QrXX"
@@ -2354,6 +2354,32 @@
     },
     {
       "album": {
+        "name": "Mauvais Ange",
+        "url": "https://open.spotify.com/album/1dUgspOSlYWQT0WSJBdvYU"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282106,
+      "name": "EV2",
+      "url": "https://open.spotify.com/track/2RUJJtbGdliDKtsQpw6zDW"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/6ISTSCjQij4VteTbrlpTQ9"
       },
@@ -2689,6 +2715,28 @@
       "duration_ms": 154977,
       "name": "Funambule",
       "url": "https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn"
+    },
+    {
+      "album": {
+        "name": "Un jour de plus au paradis",
+        "url": "https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181613,
+      "name": "Future Ex",
+      "url": "https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO"
     },
     {
       "album": {
@@ -3623,7 +3671,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 194434,
       "name": "Le pass\u00e9 nous le dira",
       "url": "https://open.spotify.com/track/5PSa5UlautRrllU20C9jY4"
@@ -3699,7 +3747,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 170721,
       "name": "Like That",
       "url": "https://open.spotify.com/track/1Kw5YOwgBijPXOsNazPGm7"
@@ -6105,7 +6153,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 196821,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/7jEXxhZQ57fVKiYErtaTqV"
@@ -6127,6 +6175,42 @@
       "duration_ms": 172534,
       "name": "VISA",
       "url": "https://open.spotify.com/track/17KVmrxWh2gvFSrrC1yRBW"
+    },
+    {
+      "album": {
+        "name": "Temps-t\u00f4t",
+        "url": "https://open.spotify.com/album/7BqKxMQVXELSYioMF4aDmE"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163972,
+      "name": "Viser haut",
+      "url": "https://open.spotify.com/track/3WqvryjPUMyWD3gG4sc97X"
+    },
+    {
+      "album": {
+        "name": "Vitamix",
+        "url": "https://open.spotify.com/album/1WKZ26ChixsM6wWkqQLiO7"
+      },
+      "artists": [
+        {
+          "name": "YUYU",
+          "url": "https://open.spotify.com/artist/7AKP5OQLpIiuPLGQ7d4Seh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173988,
+      "name": "Vitamix",
+      "url": "https://open.spotify.com/track/1FKG7W0cVenRDl9Nx1m0jE"
     },
     {
       "album": {

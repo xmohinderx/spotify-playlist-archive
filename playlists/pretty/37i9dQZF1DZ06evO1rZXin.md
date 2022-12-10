@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,358 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,363 likes - 48 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 12 | [Palo Bonito](https://open.spotify.com/track/7yldON0oRBFYzW4H1cz7au) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:40 |
 | 13 | [El Huerfnito](https://open.spotify.com/track/4pOFtfV3QirO4aSdnrmtXh) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 2:44 |
 | 14 | [Muévelo](https://open.spotify.com/track/3N4fXn95JzMo9slLuZWArp) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:14 |
-| 15 | [Adorable Mentirosa](https://open.spotify.com/track/5pdyC8dxuOxAIIZ0T8w0uP) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:42 |
-| 16 | [El De La Quebradita](https://open.spotify.com/track/0gepkxfyt2butMir2ZRdGl) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:37 |
+| 15 | [El De La Quebradita](https://open.spotify.com/track/0gepkxfyt2butMir2ZRdGl) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:37 |
+| 16 | [Adorable Mentirosa](https://open.spotify.com/track/5pdyC8dxuOxAIIZ0T8w0uP) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:42 |
 | 17 | [El Farolito](https://open.spotify.com/track/6tgo5wDSNaVuqbCboIrCRb) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:04 |
 | 18 | [Oh, Solitario](https://open.spotify.com/track/2Xq6Sp3rBPCh4xlNflkzsF) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:01 |
 | 19 | [El Toro Moro](https://open.spotify.com/track/3dK0G4fedpTO1yJ7z4WiZk) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 |
@@ -41,20 +41,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 31 | [Corrido De Nayarit](https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 |
 | 32 | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ) | 2:51 |
 | 33 | [Me Esta Esperando María](https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:48 |
-| 34 | [Camarón Pelao](https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:57 |
-| 35 | [Hueso No Ma](https://open.spotify.com/track/3Sa8pP7ntuNmr4hkFYzJUP) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:24 |
-| 36 | [Aunque Te Enamores](https://open.spotify.com/track/3hYcxOVvz56QOyqFSYkLOu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:59 |
+| 34 | [Hueso No Ma](https://open.spotify.com/track/3Sa8pP7ntuNmr4hkFYzJUP) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:24 |
+| 35 | [Camarón Pelao](https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:57 |
+| 36 | [No Tengo Dinero](https://open.spotify.com/track/4hgqP8VpweSME8P2m90XkM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:02 |
 | 37 | [El Botecito](https://open.spotify.com/track/1Tmtcb57PhTfpsxEPCREXT) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:43 |
-| 38 | [Busca Amor](https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:37 |
-| 39 | [Amar Y Vivir](https://open.spotify.com/track/7j7y45409vTBOFgGATgr21) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 2:29 |
-| 40 | [No Tengo Dinero](https://open.spotify.com/track/4hgqP8VpweSME8P2m90XkM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:02 |
+| 38 | [Amar Y Vivir](https://open.spotify.com/track/7j7y45409vTBOFgGATgr21) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 2:29 |
+| 39 | [Busca Amor](https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:37 |
+| 40 | [Aunque Te Enamores](https://open.spotify.com/track/3hYcxOVvz56QOyqFSYkLOu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:59 |
 | 41 | [Dicembre Del 63](https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 3:15 |
-| 42 | [Baila](https://open.spotify.com/track/1MiPQr7yIqBOskWia7ZMIs) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:58 |
-| 43 | [Sangre Mexicana](https://open.spotify.com/track/21AQG7xtw9UdHTH8Yy6pGN) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:07 |
+| 42 | [Sangre Mexicana](https://open.spotify.com/track/21AQG7xtw9UdHTH8Yy6pGN) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:07 |
+| 43 | [Baila](https://open.spotify.com/track/1MiPQr7yIqBOskWia7ZMIs) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:58 |
 | 44 | [Siempre En Mi Mente](https://open.spotify.com/track/0G1YgtrjrXQ5GHN8FeJP3r) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:17 |
 | 45 | [El Jaripeo](https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:53 |
 | 46 | [Recuerdos](https://open.spotify.com/track/6IqFKEgroCXz9dBWXz3qUe) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [De Tuba Y Acordeon](https://open.spotify.com/album/2L5CrSYs1TPtMi6SebSk0P) | 2:53 |
 | 47 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 |
 | 48 | [Así lo Quiso Él](https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:13 |
 
-Snapshot ID: `Mjc4NDIwNTcsMDAwMDAwMDA2ODJlYWFmZWI1ODk2NDllODRjYTMxNWQwM2QyYjkzMQ==`
+Snapshot ID: `Mjc4NDM0NzQsMDAwMDAwMDA0MjRkYWJkODg3NjZhN2M1NjU2NWZmZDkxNzA2NzUxZQ==`

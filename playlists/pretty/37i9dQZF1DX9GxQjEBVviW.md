@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,260 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,321 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 17 | [Heart And Soul](https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:17 |
 | 18 | [The Book of Love](https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Who Wrote The Book Of Love? \[Digital Version\]](https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV) | 2:18 |
 | 19 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
-| 20 | [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 |
+| 20 | [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 |
 | 21 | [Sincerely](https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [The Best Of Bobby Lester And The Moonglows](https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8) | 3:09 |
 | 22 | [Charlie Brown \- 2007 Remaster Stereo Single Version; Remastered](https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:21 |
 | 23 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 |
