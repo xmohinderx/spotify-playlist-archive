@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,667 likes - 56 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,799 likes - 56 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 |
-| 2 | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 3:42 |
+| 2 | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 3:42 |
 | 3 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 |
 | 4 | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/track/4rGLwg8ej2ar25UJ5Rw7xz) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/album/52wMl2ktm9T0EnixrpPwBz) | 3:32 |
 | 5 | [Private Party \(From "Don"\)](https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Private Party \(From "Don"\)](https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2) | 3:36 |

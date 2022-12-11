@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,296 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,339 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Space Oddity](https://open.spotify.com/track/0bcEINLq5Giisn7fbgtl3N) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days \(Deluxe Edition\) In The Canyon Haze](https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q) | 5:00 |
 | 50 | [Heaven](https://open.spotify.com/track/6nddAZdwg0qKNTce8WzzgQ) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [XOBC](https://open.spotify.com/album/2dUNitZMCbMgbBjlal2xBp) | 3:29 |
 
-Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDA3Mjc5OTUzMzQzYmVjNjVhYjc0NGQzOTQyNGMzMzEwNA==`
+Snapshot ID: `Mjc4NDQ5MDIsMDAwMDAwMDBjNGQ1MDA3ZTlmNTY2YmVhYjQzODliMzBjNDI5YmQ5NQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,321 likes - 105 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,445 likes - 105 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 69 | [Fortaleza](https://open.spotify.com/track/0P6b8SxzKeB0XFkueJIA5m) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/2eOJm4JAIkQQ5k6Y7f0Zdq) | 4:53 |
 | 70 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
 | 71 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 |
-| 72 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 |
+| 72 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
 | 73 | [Don't Forget About Me](https://open.spotify.com/track/4gVZhkcsZcwQ4mU1gEeXEO) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [XIII](https://open.spotify.com/album/6gAsOoMZVH5HwQWFBnIWcm) | 4:28 |
 | 74 | [Get Low](https://open.spotify.com/track/1CYiC5bLfwoHsvSpisiOto) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/5VECsj7IRVQjIAwMC8LAUa) | 4:10 |
 | 75 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 104 | [Tapestry](https://open.spotify.com/track/1GkkMgDas91jmc6614MkGf) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Tapestry](https://open.spotify.com/album/3FQVZyz9XxFKcyIpxcZtWF) | 3:49 |
 | 105 | [M](https://open.spotify.com/track/7kcMm8WE6jc5mVt2EATrV2) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 2:46 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDUwMzIyNTRiZjkxY2NmMzUzMzI5ODVjNGEzYmZiMWMz`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGYxYzJiNDg1MTllMDZmOWU2ZjVjYzllMWZhMjM0YjJl`

@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-275 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+276 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Go Out Fighting](https://open.spotify.com/track/66tg5bmqB6NzCs5QhACkdQ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Go Out Fighting](https://open.spotify.com/album/24zRUsESY62pYsatp99SkM) | 3:27 | 2021-07-30 | 2022-09-26 |
 | [Go Tell a Bird](https://open.spotify.com/track/2soMAWI1jlM8O1YUF4e1LB) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:52 | 2021-07-30 |  |
 | [Goat](https://open.spotify.com/track/0I74VCDu3RbCMuyToTUtzl) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/5DuLQc0FCBPVfEec1Go2ey) | 3:48 | 2021-07-30 | 2022-02-26 |
-| [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-07-30 |  |
+| [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-07-30 | 2022-12-11 |
+| [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 | 2022-02-25 |  |
 | [Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/track/2Vvn4emJ5FlBNmbdhu2FAZ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [You've Got a Woman / Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/album/2hUdUW7zIF4nt3lltXuBDk) | 1:49 | 2021-07-30 | 2022-07-29 |
 | [Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/track/3SGLrn5arZurgQifNAV7Sm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [You've Got a Woman / Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/album/1AnS0syANUM5Qpv6hLxd22) | 1:49 | 2022-02-25 |  |
 | [Heathering](https://open.spotify.com/track/5JsIWFdKcgUD02KrGRIcnL) | [Your Friend](https://open.spotify.com/artist/0shSyn6H4T9cdmM3j0tTnA) | [Heathering](https://open.spotify.com/album/65Rq4tTsFWSKIBKYuriH8u) | 4:22 | 2021-07-30 | 2022-07-29 |

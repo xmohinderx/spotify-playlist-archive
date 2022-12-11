@@ -4,7 +4,7 @@
 
 > Indie Dance and Alt Hip\-Hop for cooling under the sunny sun sun.
 
-210 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
+211 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\)](https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:27 | 2021-10-26 |  |
 | [All My Dogs](https://open.spotify.com/track/72l2v2PLx6dh0xgAfpu57S) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/5ZkmPYypvQicKYGCoOdkzx) | 2:52 | 2022-07-28 | 2022-09-10 |
 | [All My Dogs](https://open.spotify.com/track/48U1hydvN4WPGnYvwZ0lqK) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e) | 2:52 | 2021-10-26 | 2022-07-29 |
+| [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-09-09 |  |
 | [Are You Feeling Sad?](https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 2:38 | 2021-10-26 |  |
 | [be cool](https://open.spotify.com/track/6AzPHXMvAtBmzISu4NhOIm) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [be cool](https://open.spotify.com/album/3aDhMq947HZuufg7tsJCPo) | 2:23 | 2021-10-26 | 2022-07-29 |
 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 | 2022-07-28 |  |
@@ -58,7 +59,7 @@
 | [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 | 2022-03-29 |  |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2021-10-26 | 2022-07-29 |
 | [Electric U](https://open.spotify.com/track/4efHJDBcmhJYs8n9hJcVC8) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/6VR3JKdOuR1tuMFQl7NgRv) | 2:51 | 2022-03-29 | 2022-10-14 |
-| [Electric U](https://open.spotify.com/track/4yEw9bcmDHgIgqe8BCyDWy) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/6P3BHKJIAhYqpTc7UXKQ2I) | 2:51 | 2022-07-28 |  |
+| [Electric U](https://open.spotify.com/track/4yEw9bcmDHgIgqe8BCyDWy) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/6P3BHKJIAhYqpTc7UXKQ2I) | 2:51 | 2022-07-28 | 2022-12-11 |
 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2022-03-29 |  |
 | [FACE](https://open.spotify.com/track/5bknBRjKJZ643DAN2w8Yoy) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION](https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm) | 4:19 | 2021-10-26 | 2022-07-29 |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2021-10-26 | 2022-02-15 |

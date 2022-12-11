@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 615197,
+  "num_followers": 616427,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjU0MCwwMDAwMDAwMGRlYzYwZGI4YzM0MTFlYjU0YzM5YTY1NmQwMjI1OGYz",
+  "snapshot_id": "MTY3MDU2MjU0MCwwMDAwMDAwMGFjMTk2NWJiZDBmOTg3M2ZmNTE4YzYxMDQ0MjVjMzAy",
   "tracks": [
     {
       "added_at": "2022-10-07 04:56:00",
@@ -427,22 +427,6 @@
       "duration_ms": 127547,
       "name": "AVOID ME - Slowed + Reverb",
       "url": "https://open.spotify.com/track/6D5ahExQvVjiA2PnNtcPCb"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
-        "name": "Vision (Slowed)",
-        "url": "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
-      },
-      "artists": [
-        {
-          "name": "Hucci",
-          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
-        }
-      ],
-      "duration_ms": 299572,
-      "name": "Vision - Slowed",
-      "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
     },
     {
       "added_at": "2022-10-07 04:56:00",
@@ -873,7 +857,7 @@
       "url": "https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb"
     },
     {
-      "added_at": "2022-12-10 01:11:04",
+      "added_at": "2022-12-11 01:17:37",
       "album": {
         "name": "Possibility",
         "url": "https://open.spotify.com/album/38pk7xhWyZNvTODl9fdSVP"
@@ -947,6 +931,26 @@
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
+        "name": "Wet (She Got That\u2026) [Slowed & Reverbed]",
+        "url": "https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "DJ Slow Verb",
+          "url": "https://open.spotify.com/artist/2PAzPJOeGQrKmqDHH4Te5s"
+        }
+      ],
+      "duration_ms": 229260,
+      "name": "Wet (She Got That\u2026) - Slowed & Reverbed",
+      "url": "https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1"
     }
   ],
   "unique_name": "slowed and reverbed",

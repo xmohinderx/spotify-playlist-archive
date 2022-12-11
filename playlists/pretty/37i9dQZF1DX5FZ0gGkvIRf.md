@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Kickass Metal Presents..\. The Best Metal Songs of 2022\. Cover: Ghost<br/>\#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,198 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,794 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 74 | [Tight Rope XX](https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 3:37 |
 | 75 | [Hurricane](https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Hurricane](https://open.spotify.com/album/65z7MiMcyvptnddVK2LZeC) | 3:00 |
 | 76 | [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 |
-| 77 | [Believe](https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Believe](https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9) | 4:36 |
+| 77 | [Believe](https://open.spotify.com/track/6NdcU1BYB4jxXBn88OTeAH) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Best Of Me](https://open.spotify.com/album/0hCgFa5oQgotbahA3C4gzb) | 4:36 |
 | 78 | [Broken Cog](https://open.spotify.com/track/6AkUaYmKQMW7EhzqPqYB5n) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/6EgEo5csYA7HqasanrvwWk) | 5:35 |
 | 79 | [The Deathless Sun](https://open.spotify.com/track/0A4Xb4Io50uHnHZ1V8x2KC) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Opvs Contra Natvram](https://open.spotify.com/album/4HJqsD4Aw2HHa24liDoxFe) | 4:43 |
 | 80 | [Dystopia \(feat\. Christoph Wieczorek of Annisokay\)](https://open.spotify.com/track/0Jp9QFyBjNaqP5e4WjR0BG) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Dystopia](https://open.spotify.com/album/2PGnrN0ACDEByVDGj1wNHL) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 99 | [Without Me](https://open.spotify.com/track/2g8vTn8mz96VWCSc9RCucZ) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5) | 3:44 |
 | 100 | [Blessings Upon The Throne Of Tyranny \- Remixed & Remastered](https://open.spotify.com/track/1kZN785OeP13ZUkFYdBGC8) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia \(Remixed & Remastered\)](https://open.spotify.com/album/5MqN56Ebc9XAkrHqK6aH8X) | 5:22 |
 
-Snapshot ID: `MTY2OTgyMTEyOCwwMDAwMDAwMDIyYjM5Y2YwYmRjZDZjZTY5ZmRiYjVjZjFiM2JmNTk4`
+Snapshot ID: `MTY2OTgyMTEyOCwwMDAwMDAwMGE5MDUwMjhkYjI0Mzg0MTAxN2JhMTk1NTAyMTVhMzU5`

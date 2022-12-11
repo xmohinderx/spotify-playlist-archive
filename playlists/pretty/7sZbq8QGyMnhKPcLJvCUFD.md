@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 746,046 likes - 151 songs - 7 hr 50 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 746,102 likes - 151 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

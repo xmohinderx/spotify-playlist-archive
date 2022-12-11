@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 
 > A collection of R&amp;B jams and viral trends featuring Summer Walker, Kaash Paige &amp; FLO Updated weekly! Cover: Ari Lennox
 
-[Digster](https://open.spotify.com/user/digster.fm) - 8,073 likes - 59 songs - 3 hr 25 min
+[Digster](https://open.spotify.com/user/digster.fm) - 8,074 likes - 59 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

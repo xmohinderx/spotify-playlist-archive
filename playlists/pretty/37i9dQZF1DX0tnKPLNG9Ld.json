@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 42199,
+  "num_followers": 42306,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQxODU1OCwwMDAwMDAwMDg0NWMzNWYwYjJjYjEzMjhiNzZkOTg2Zjg3ZjIwMjRj",
+  "snapshot_id": "MTY3MDQxODU1OCwwMDAwMDAwMDgwODcwMWY1M2E4NDJkYjE0MTdlZGNiYjYwZGRjMGRk",
   "tracks": [
     {
       "added_at": "2022-12-01 14:02:22",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2022-12-01 14:02:22",
       "album": {
-        "name": "Es wird scho glei dumpa",
-        "url": "https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z"
-      },
-      "artists": [
-        {
-          "name": "Jazzrausch Bigband",
-          "url": "https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw"
-        },
-        {
-          "name": "Julian Hesse",
-          "url": "https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Es wird scho glei dumpa",
-      "url": "https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe"
-    },
-    {
-      "added_at": "2022-12-01 14:02:22",
-      "album": {
         "name": "April In Paris (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
       },
@@ -1703,6 +1683,22 @@
       "duration_ms": 283293,
       "name": "Didn't You",
       "url": "https://open.spotify.com/track/1ST1NsO69sL7rUZKdrLeQz"
+    },
+    {
+      "added_at": "2022-12-01 14:02:22",
+      "album": {
+        "name": "The Velvet Fog: The Very Best of Mel Torme",
+        "url": "https://open.spotify.com/album/549hYDbssg8k0sGhLraZZh"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/6e76kKD4R4HbbTGl3SD0kr"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Lulu's Back In Town",
+      "url": "https://open.spotify.com/track/5lGjIW8egrayi9G3CpnUZK"
     }
   ],
   "unique_name": "Sunny Day Jazz",

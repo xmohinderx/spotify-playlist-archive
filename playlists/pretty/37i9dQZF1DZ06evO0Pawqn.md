@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,658 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,663 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 |
 | 50 | [Mujer de Cabaret](https://open.spotify.com/track/4VVUDVHPWN4xH3scjU465w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Relampagueando](https://open.spotify.com/album/5HLgQtnZbcqiT59ktqtWae) | 2:48 |
 
-Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBjNGUzNDM0ZDJkNzkzODEwYzg0N2ZhYTE3ZDc3Mjg1NA==`
+Snapshot ID: `Mjc4NDQ5MDIsMDAwMDAwMDBhZjcxMjBjMjJmY2ZmYjNkZWExMTExZTg2MzQzMDMwNg==`

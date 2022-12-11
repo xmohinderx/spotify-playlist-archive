@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-177 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
+178 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Robot Dance](https://open.spotify.com/track/2WDZMUZ1KI9Qf5sfV0Vw0d) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:25 | 2022-04-15 |  |
 | [Robot Tea Party](https://open.spotify.com/track/1JY3NZtz8mqqVIeiPkvzQq) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [The Full Circle](https://open.spotify.com/album/60ghiOTP0JVoCg8lvnd9P3) | 2:36 | 2022-04-15 |  |
 | [Rock, Paper, Scissors](https://open.spotify.com/track/0BQi2ZHehN8L02CMB9pWlg) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [Songs with My Daughters](https://open.spotify.com/album/4MyybH1mOTmaADrhjWXDgb) | 1:38 | 2022-04-15 |  |
-| [Row, Row, Row Your Boat](https://open.spotify.com/track/0EQExac8KePwocPf07mXeb) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Presents](https://open.spotify.com/album/64WvAofHslf6rOxPy586gl) | 2:15 | 2022-04-15 |  |
+| [Row, Row, Row Your Boat](https://open.spotify.com/track/0EQExac8KePwocPf07mXeb) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Presents](https://open.spotify.com/album/64WvAofHslf6rOxPy586gl) | 2:15 | 2022-04-15 | 2022-12-11 |
+| [Row, Row, Row Your Boat](https://open.spotify.com/track/2doLzXwvOnsuQv2KLu8auC) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Presents](https://open.spotify.com/album/0RrOAMN38yYifcLCYVT1gG) | 2:15 | 2022-12-09 |  |
 | [Roy G\. Biv](https://open.spotify.com/track/0UG9o1jtxAPt2aZXvWefBS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:07 | 2022-04-15 |  |
 | [Sewer Party](https://open.spotify.com/track/0ZY16JRxJ0d3LCOHs4y6vn) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [The Underground EP](https://open.spotify.com/album/0xCbftwb9n6KgSBqlxLwvC) | 2:40 | 2022-04-15 |  |
 | [Siete Elefantes](https://open.spotify.com/track/07DWrgi2zft5Hr0hIAoD3n) | [Mister G](https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd) | [Los Animales](https://open.spotify.com/album/1kRTiH3YkPVElKncafk9LA) | 1:48 | 2022-04-15 |  |

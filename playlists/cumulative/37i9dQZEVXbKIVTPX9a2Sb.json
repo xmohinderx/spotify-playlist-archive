@@ -524,6 +524,32 @@
     },
     {
       "album": {
+        "name": "Ali Bomaye (feat. Calin & Luca Brassi10x)",
+        "url": "https://open.spotify.com/album/4FM5zFB8fH4bBKCd7SSwIe"
+      },
+      "artists": [
+        {
+          "name": "KOJO",
+          "url": "https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133138,
+      "name": "Ali Bomaye (feat. Calin & Luca Brassi10x)",
+      "url": "https://open.spotify.com/track/24IU97webXVzDUnkVjkcfF"
+    },
+    {
+      "album": {
         "name": "alibababigbass",
         "url": "https://open.spotify.com/album/5MwmzRrXO2cnVX8IvTdQvM"
       },
@@ -833,7 +859,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3083,7 +3109,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 245945,
       "name": "Chaos, Teraz",
       "url": "https://open.spotify.com/track/7EYvq3EPihxmzPyrK5piNp"
@@ -3101,7 +3127,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 95851,
       "name": "Chaos, Vtedy (Interlude)",
       "url": "https://open.spotify.com/track/6vRfPAP5djhrMybMKdXMnp"
@@ -4967,7 +4993,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -5087,7 +5113,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 242230,
       "name": "Echo",
       "url": "https://open.spotify.com/track/18lCOR94OKbcBOmXcnhjjc"
@@ -5235,7 +5261,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
@@ -5537,7 +5563,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -6609,7 +6635,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -8953,7 +8979,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 267533,
       "name": "Ka\u017ed\u00fd de\u0148 bud\u00fa vraj Vianoce",
       "url": "https://open.spotify.com/track/6dlkr04x93THYt2Cklv91b"
@@ -14077,7 +14103,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 274181,
       "name": "Pl\u00e1n",
       "url": "https://open.spotify.com/track/3Pe7JXyoueAlIgfqKd48dg"
@@ -14539,7 +14565,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 186502,
       "name": "Pri\u0161li A Zmizli",
       "url": "https://open.spotify.com/track/4JFJZoDgEpkiex77duZw5n"
@@ -16371,7 +16397,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -16917,7 +16943,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 208793,
       "name": "Spr\u00e1vny \u010cas",
       "url": "https://open.spotify.com/track/3pUz7PyY25sznLD9kpSGEt"

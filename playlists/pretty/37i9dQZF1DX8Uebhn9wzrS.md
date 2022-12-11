@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,605 likes - 500 songs - 18 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,764 likes - 500 songs - 18 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 78 | [Take it Slow](https://open.spotify.com/track/4DdZhkt6enwJvYjSSJuyHQ) | [Yugi](https://open.spotify.com/artist/5gKSmbeqGuqoj0uPIDoTbJ), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [Take it Slow](https://open.spotify.com/album/6aN6hYuiTqj6zT7W8RarRo) | 2:11 |
 | 79 | [Outkast](https://open.spotify.com/track/2vfuEz0z5ansqI1gQ69xsD) | [Vybe Village](https://open.spotify.com/artist/6WlHbfsgF448dcHWx2bP0P) | [Lofi Guy V](https://open.spotify.com/album/1EgZy7m1oSIow7YlydDGSn) | 2:15 |
 | 80 | [Family Affair](https://open.spotify.com/track/3ytYZSrlHRJ2uGviCpeoKu) | [eiji](https://open.spotify.com/artist/1wzqhHInXSYezJHke90Jeo) | [Family Affair](https://open.spotify.com/album/6cDF4iRiBUZP9RLyoEs4n3) | 1:27 |
-| 81 | [Riding Memories](https://open.spotify.com/track/1vZOqPtNXvRRGrT6Xf03Bl) | [The Fox](https://open.spotify.com/artist/6T8X5Dh4G7RaLINqzqlkV3) | [Riding Memories](https://open.spotify.com/album/4I0kP2eWYnjJj0La4hA7Pv) | 1:44 |
+| 81 | [Riding Memories](https://open.spotify.com/track/5yMXbf5XHzHbWfj5QbG4sK) | [The Fox](https://open.spotify.com/artist/6T8X5Dh4G7RaLINqzqlkV3) | [Riding Memories](https://open.spotify.com/album/66kTbLPdfD08GTjFJ6q8nm) | 1:44 |
 | 82 | [Wayfaring](https://open.spotify.com/track/3ynWRmI6SdEgOkbgGlBugn) | [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [Wayfaring](https://open.spotify.com/album/0YLWE89Jnt4ieSkMlDo737) | 2:03 |
 | 83 | [Rainy Day](https://open.spotify.com/track/6mbalHByVjWkquAsv2Cjq0) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [Sella Vie](https://open.spotify.com/artist/1KQ9sumkPMkY6j1W8ocSvZ), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Rainy Day](https://open.spotify.com/album/4VixZK2usHrdrMsGRWukCO) | 2:16 |
 | 84 | [Everitt Hill](https://open.spotify.com/track/02ymGD3CqlWedeWWiZOU2x) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p), [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Everitt Hill](https://open.spotify.com/album/1qKdzqutz1GscA9QI6Ve19) | 2:10 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 499 | [Meadow](https://open.spotify.com/track/7Fqob7QxvquyjU27F0v3DL) | [fickle fool](https://open.spotify.com/artist/2FTGZQUnPiR0EqCJb3PEBK) | [Meadow](https://open.spotify.com/album/7dijB1jb8GJaT8C4rkgz81) | 1:58 |
 | 500 | [Lo\-fi Radio](https://open.spotify.com/track/65iNa3MLS7bQugeJIaxUUX) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Lo\-fi Radio](https://open.spotify.com/album/26xbX5jZTUU7QsrEN8U16C) | 1:24 |
 
-Snapshot ID: `MTY3MDU0NDA2MCwwMDAwMDAwMGRiZmExZGMxYjA3ZmExZmQwZWZkNjZlMjEzMTMzNTRh`
+Snapshot ID: `MTY3MDU0NDA2MCwwMDAwMDAwMGQ5M2UzMzM3OTQxODg1ZjhjZjFiOWViYzU3NjY2N2Zh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,259 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,364 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 32 | [Satori by the Sea](https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Satori by the Sea](https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh) | 3:07 |
 | 33 | [Mists Inhabit This Place](https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Mists Inhabit This Place](https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv) | 3:50 |
 | 34 | [Les métamorphoses du vide \- Ensemb7e Version](https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK) | [Chapelier Fou](https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd) | [Ensemb7e](https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU) | 3:10 |
-| 35 | [Pro Gre Tra Gre](https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [XA4](https://open.spotify.com/artist/5epNEZk4o1xmCKCH7WhmiC) | [Glass Gateway](https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl) | 5:15 |
+| 35 | [Etude No.12 \(XA4 Remix\)](https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [XA4](https://open.spotify.com/artist/5epNEZk4o1xmCKCH7WhmiC) | [Glass Gateway](https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl) | 5:52 |
 | 36 | [De Luce et Umbra](https://open.spotify.com/track/3xQFcCnjsWMIVJo66jC0U2) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [The Dirac Quartet](https://open.spotify.com/artist/3Gq4ugaB8UBepNfoMEV3NL) | [Orphée](https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN) | 2:28 |
 | 37 | [Pattern of Water](https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Round](https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB) | 2:43 |
 | 38 | [Circle 26 \- Tom Ashbrook Rework](https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Circle 26 \(Tom Ashbrook Rework\)](https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349) | 3:40 |

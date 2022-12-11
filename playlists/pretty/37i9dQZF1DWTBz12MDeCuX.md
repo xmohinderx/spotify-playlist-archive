@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 102 Boyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,058 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,215 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 3 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 |
 | 4 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 |
 | 5 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 |
-| 6 | [Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [Asterio](https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght), [Sick & Tired](https://open.spotify.com/artist/2kg0dvxtCnkrfP7vf39w4D) | [Nur ein Wort](https://open.spotify.com/album/2qS9UJHDrxUTJHrAHXCQRH) | 2:17 |
+| 6 | [Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [Sick & Tired](https://open.spotify.com/artist/2kg0dvxtCnkrfP7vf39w4D), [Asterio](https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght) | [Nur ein Wort](https://open.spotify.com/album/2qS9UJHDrxUTJHrAHXCQRH) | 2:17 |
 | 7 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 |
-| 8 | [we are the people tekkno](https://open.spotify.com/track/3gINWpBZCz4kBNF4sWTWqw) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/1fhroOApt0VfVEP7NCYOsn) | 3:50 |
+| 8 | [we are the people tekkno](https://open.spotify.com/track/4irFsXHJKcQs3szSD2GDlo) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/6YJvCTm0tziFeOreNxlJMq) | 3:50 |
 | 9 | [Tour de Berlin](https://open.spotify.com/track/28eqTE31oIjrlSMK4y1VwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Tour de Berlin](https://open.spotify.com/album/7kOiXbB7O03HTlsu0qsBod) | 2:31 |
 | 10 | [Weihnachtslied 2022](https://open.spotify.com/track/6DBkV77Ti1Vrq2oemw79ZJ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2022](https://open.spotify.com/album/4GiyJLCszEkMQgZ68HnjD1) | 2:37 |
 | 11 | [Elendig](https://open.spotify.com/track/4ebcqsgTzKOP0DQLkDF3MG) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [Elendig](https://open.spotify.com/album/5hGBNX1x3YCbFxoaxbQEYE) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 100 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMGVhNDdmZGQyOGJhNGY3NDM5NDUyNjBmZjM1OWQ0NDI1`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDE2MDE1OWZlNWZkNWZhZWI5MTk1ZjJhNjE3MmY0OGJj`

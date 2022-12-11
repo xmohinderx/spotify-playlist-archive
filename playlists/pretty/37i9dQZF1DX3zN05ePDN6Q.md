@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional e muito boom bap na área\. Foto: Uterço
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,427 likes - 76 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,446 likes - 76 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 61 | [Boombap](https://open.spotify.com/track/6LM2B5QzMIewJLdqXnh2Vq) | [Neo Mc](https://open.spotify.com/artist/6FUy68mNerpBmix9JLdH58) | [Boombap](https://open.spotify.com/album/3Dj6pQbYLbD5Vdmira6GS1) | 3:32 |
 | 62 | [No Memo Vale](https://open.spotify.com/track/2WPuB06wrQmdZm4XvzfsEv) | [Mattenie](https://open.spotify.com/artist/2rt3vGnvygduTkGkRaj60k), [Raul Ronde](https://open.spotify.com/artist/5AEw5kTPvoAaITGk99I6jJ), [DJ Dablyo](https://open.spotify.com/artist/7EmMk7ykhK0kVHqWRAah7z) | [No Memo Vale](https://open.spotify.com/album/7haDPxmTeQVbFLb0YfV9C8) | 2:34 |
 | 63 | [Rap Sujo](https://open.spotify.com/track/1ARG0pacP6H4PCvABCBlDl) | [Roleta Russa](https://open.spotify.com/artist/0KlPZLvYBM4xr1k0jVmmyN), [Agua Viva](https://open.spotify.com/artist/6zxNUzdYpAuwGpZOnaAhDA), [LM Jovem Rude](https://open.spotify.com/artist/6kZ82FbhretlD8TJKgkEa5) | [Rap Sujo](https://open.spotify.com/album/39lHGlUk8NOZPxFjXr49zd) | 2:42 |
-| 64 | [Trânsito da Cidade](https://open.spotify.com/track/5ho4sWitLTdIktXtHVV1Ei) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/6qJ9myq1bIRtr1Sdawtrfb) | 2:40 |
+| 64 | [Trânsito da Cidade](https://open.spotify.com/track/50mIUQoOsK3JRmvqyHMnkC) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr) | 2:40 |
 | 65 | [Novo Horizonte](https://open.spotify.com/track/7sgIpOH0aLG6G1ujmanrJz) | [Plelis](https://open.spotify.com/artist/4Lp1Fgg1odaf6q0SKzVF3M), [Pinheiro](https://open.spotify.com/artist/73dYJ9igJgdsx2SHxc09RX), [Cali $](https://open.spotify.com/artist/2dvEiG68IHo3HpbTDYNWJb) | [Novo Horizonte](https://open.spotify.com/album/77ONKPCS5X2RGA0mzTi6ZS) | 3:05 |
 | 66 | [O Balanço Do Efeito Dunning\-Kruger](https://open.spotify.com/track/7j0dEbHnE35BaVC7y5RnlT) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [O Balanço Do Efeito Dunning\-Kruger](https://open.spotify.com/album/1bBOQwVqfxleBP5K1c9DRb) | 3:25 |
 | 67 | [Corre](https://open.spotify.com/track/7iSF0kqPkq5xwGPzURo3NH) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [4miga](https://open.spotify.com/artist/0aBgjLo1FJpxSiLiJGTJNq), [Sello Supply](https://open.spotify.com/artist/1ckv2S1JsgNcA6kls2zYEh) | [Corre](https://open.spotify.com/album/6zaT7Fan2DTDnnThuQZ9KX) | 3:27 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 75 | [Uma Dose de Boombap](https://open.spotify.com/track/4ldgX0SM921NprB232n7zW) | [Ton NV](https://open.spotify.com/artist/1tYimuAsK1o1xHDXemZbWp) | [Uma Dose de Boombap](https://open.spotify.com/album/0KFd6lTTdKNJccZ2QeUlPv) | 3:58 |
 | 76 | [Louco Tá O Mundo Não Eu](https://open.spotify.com/track/1WIDnIkQ2Ymb2pAlzVC2ms) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [MESTRE XIM](https://open.spotify.com/artist/6RDLj3RVJyyNWd4aTNNebd) | [Louco Tá O Mundo Não Eu](https://open.spotify.com/album/2rHy0XC2fakSxtObWwTJEa) | 2:59 |
 
-Snapshot ID: `MTY3MDU1NDk4MCwwMDAwMDAwMDI5YWZiZmQ5MmQyODUwMTRjMmE5ZTVjYzgzZmQxMzk1`
+Snapshot ID: `MTY3MDU1NDk4MCwwMDAwMDAwMDczNTFjYmQ4ODNlNTdiZDU1YWM5MTA0N2Q4MzIwYjUw`

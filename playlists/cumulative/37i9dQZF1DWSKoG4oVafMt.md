@@ -2,9 +2,9 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Jass Manak
+> The very best of Punjabi romance featuring Ammy Virk & Tania
 
-659 songs - 1 day 11 hr 49 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+660 songs - 1 day 11 hr 52 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Chandigarh Shehar](https://open.spotify.com/track/5ucWVRFoIeMQWaZAIQrizf) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Chandigarh Shehar](https://open.spotify.com/album/1rXQeaAZ16j5qwPQJwJzzq) | 2:47 | 2022-11-07 |  |
 | [Chandni Raat](https://open.spotify.com/track/578rtgpyZraj98LvEt7xJ1) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Chandni Raat](https://open.spotify.com/album/1cITau9wOAmBXUThCfhMvt) | 2:42 | 2022-11-23 |  |
 | [Changa na lage](https://open.spotify.com/track/5booVo7Su2BgAeVq6eCOMZ) | [Nikk](https://open.spotify.com/artist/6z9kS2dZQbqNV69wfrCZAR) | [Changa na lage](https://open.spotify.com/album/1SRU1k6hekc4KECdPq9Zps) | 2:59 | 2022-08-01 | 2022-08-18 |
+| [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/track/4ZlAM2VoFpv0VyZjv34A4o) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Chann Sitare \(From "Oye Makhna"\) \- Single](https://open.spotify.com/album/78eSecjSVDN0T0KDylfVMf) | 3:07 | 2022-12-10 |  |
 | [Chann Ve](https://open.spotify.com/track/4kRAwnOs2edirDxN6kMd9G) | [Amar Sehmbi](https://open.spotify.com/artist/39qok0BZ6YbUgGWRH4UEEY) | [Chann Ve](https://open.spotify.com/album/57mOXc3ukwIaKzddLAwXnC) | 3:14 | 2022-12-01 |  |
 | [Cheen Meen](https://open.spotify.com/track/4KoJEd1038csBExw6n39UH) | [Mani Singh](https://open.spotify.com/artist/1qAmt00nD6coJWljU0je1n), [Isha Sharma](https://open.spotify.com/artist/1rRlivUi0R6P0eoXr1UquS) | [Cheen Meen](https://open.spotify.com/album/6ALlXv8l0vHVkHKkmWJNwO) | 2:37 | 2022-02-04 | 2022-03-11 |
 | [Cheer](https://open.spotify.com/track/5fYImUzPeRhtgcNVjumIVS) | [Davinder Dhillon](https://open.spotify.com/artist/76gJAlgNxPb4NpMY87qxrn), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Cheer](https://open.spotify.com/album/2j81LvsRNm1tFi2t24EOgC) | 2:45 | 2022-07-21 | 2022-08-18 |
@@ -231,7 +232,7 @@
 | [ISHQ E PREET](https://open.spotify.com/track/7LHDuxNAVFt7bzxFV5DsUN) | [Muskaan](https://open.spotify.com/artist/26we5UYR3hTABksEFyPg3D), [PARAKH JEET](https://open.spotify.com/artist/3kpI1PU37q14n0ZV7Zhxmq) | [ISHQ E PREET](https://open.spotify.com/album/1eHzzukafLjkNmeQbTyrMp) | 4:07 | 2022-04-15 | 2022-05-11 |
 | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/track/2KFXNEN7blIIIdxK3zOnmx) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/album/2g0KwnXjVtxGs92xhKeZar) | 1:06 | 2022-05-27 | 2022-07-06 |
 | [Jaan Ke Bhuleke](https://open.spotify.com/track/2gkE9EEgIII1jNPMV6lqHz) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhuleke](https://open.spotify.com/album/53Pfuz9zVNwkNabvZWMYU4) | 4:55 | 2022-12-08 | 2022-12-10 |
-| [Jaan Ke Bhuleke](https://open.spotify.com/track/3iB4cghiQu56GfqpW8ZSdM) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhuleke \- Single](https://open.spotify.com/album/4RdL06Z9pMJN6ghGlNDLxr) | 4:55 | 2022-12-09 |  |
+| [Jaan Ke Bhulekhe](https://open.spotify.com/track/3iB4cghiQu56GfqpW8ZSdM) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhulekhe \- Single](https://open.spotify.com/album/4RdL06Z9pMJN6ghGlNDLxr) | 4:55 | 2022-12-09 |  |
 | [Jaan Te Bani 2](https://open.spotify.com/track/54EZSryDgRSvx3altQXVya) | [Balraj](https://open.spotify.com/artist/198wHm8PoJ6EEKCkOI5kbi), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Jaan Te Bani 2](https://open.spotify.com/album/54ops4MY7c1kfeXZTChFcs) | 4:58 | 2022-03-01 | 2022-03-11 |
 | [Jaane Meriye](https://open.spotify.com/track/43f1GdmdYDCsEYK0PpgAy9) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Jaane Meriye](https://open.spotify.com/album/09Lzc4GnZG8krNwgT6HpYo) | 3:53 | 2022-11-22 |  |
 | [Jaane Meriye](https://open.spotify.com/track/4Q9ZQwcObLhWeApFYvTvMo) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Jaane Meriye](https://open.spotify.com/album/50KN4dXK3fwcTfvAGUyO7Z) | 2:36 | 2022-03-31 | 2022-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,318 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,367 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 13 | [É Sal](https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:37 |
 | 14 | [Caçando Tesouro](https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Caçando Tesouro](https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA) | 3:44 |
 | 15 | [30 Dias](https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [MIDNIGHT CALLS](https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc) | 4:11 |
-| 16 | [Gigante](https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Gigante](https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC) | 2:27 |
+| 16 | [Gigante](https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Cita](https://open.spotify.com/artist/6obvDPjkopkQ6s9PNYdole) | [Gigante](https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC) | 2:27 |
 | 17 | [Glockada](https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Glockada](https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF) | 2:01 |
 | 18 | [A Cunhada](https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [A Cunhada](https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf) | 2:47 |
 | 19 | [Manha](https://open.spotify.com/track/3ow7zYRhbIO7f4yyHI4ZaD) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448 likes - 477 songs - 1 day 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461 likes - 478 songs - 1 day 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -315,15 +315,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 305 | [Sick City](https://open.spotify.com/track/1CMOQ9HhIJGDGcKyf295zg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:23 |
 | 306 | [Holy Moly](https://open.spotify.com/track/6L8XA0NcRcgsJBXKxXXGwe) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 2:08 |
 | 307 | [Look Ma, No Hands](https://open.spotify.com/track/07p0uEk2UznuI56V5Xly3B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:22 |
-| 308 | [Boogie Pilgrim](https://open.spotify.com/track/5iQruOIwPqK1gptITfOXQv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 6:05 |
-| 309 | [Foreign Fields](https://open.spotify.com/track/02WdMVW1qkcKiAJwuH8o9h) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:33 |
+| 308 | [Foreign Fields](https://open.spotify.com/track/02WdMVW1qkcKiAJwuH8o9h) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:33 |
+| 309 | [Boogie Pilgrim](https://open.spotify.com/track/5iQruOIwPqK1gptITfOXQv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 6:05 |
 | 310 | [Snow Queen](https://open.spotify.com/track/4PbPHqGLHmzP0tbnnE7x4e) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 5:55 |
-| 311 | [Ballad Of The Boy In The Red Shoes](https://open.spotify.com/track/56Jp9FRrfp3MlGAjizURPY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:51 |
-| 312 | [The Rumour](https://open.spotify.com/track/7oYUlz8VIzGyvKXQkExD1P) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [The Rumour](https://open.spotify.com/album/0u7QKOGir1VdlDab8BErIB) | 3:58 |
+| 311 | [The Rumour](https://open.spotify.com/track/7oYUlz8VIzGyvKXQkExD1P) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [The Rumour](https://open.spotify.com/album/0u7QKOGir1VdlDab8BErIB) | 3:58 |
+| 312 | [Ballad Of The Boy In The Red Shoes](https://open.spotify.com/track/56Jp9FRrfp3MlGAjizURPY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:51 |
 | 313 | [Just Like Noah's Ark](https://open.spotify.com/track/4ebWknUfhc3lY4BtarK1z0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:33 |
 | 314 | [Emily](https://open.spotify.com/track/2eIfNoVHmo3LGI5IZB5Nv2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:58 |
-| 315 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 |
-| 316 | [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/5x0OWY20E0u3yoEVa9lyfK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:06 |
+| 315 | [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/5x0OWY20E0u3yoEVa9lyfK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:06 |
+| 316 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 |
 | 317 | [Wrap Her Up](https://open.spotify.com/track/0sIiAyckK90a6KOKhIeGwM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 6:21 |
 | 318 | [Dixie Lily](https://open.spotify.com/track/1E4S5we2XMOq0kFvuAW7dT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 2:55 |
 | 319 | [Freaks In Love](https://open.spotify.com/track/5bZbZQRl6rO5pw65cRc5nQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:31 |
@@ -482,8 +482,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 472 | [I Can't Go On Living Without You \- Arranged Band Version](https://open.spotify.com/track/0ptYmaU474xyGZ5Fr8hCP6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:57 |
 | 473 | [Rope Around A Fool](https://open.spotify.com/track/6JC9HV0RxMWleQHqsXxq0K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:48 |
 | 474 | [I Fall Apart](https://open.spotify.com/track/52fhpYycO8jg8ZEysm936D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:02 |
-| 475 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
-| 476 | [Dandelions](https://open.spotify.com/track/088m4EqzTTqyd3aSsIsMpu) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:24 |
-| 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
+| 475 | [Don't Trust That Woman](https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:59 |
+| 476 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
+| 477 | [Dandelions](https://open.spotify.com/track/088m4EqzTTqyd3aSsIsMpu) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:24 |
+| 478 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc4NDM5MjMsMDAwMDAwMDBkOWNjOTc5M2NlOTUwOGUwNmJiNzM0MmZjNzYxYzQ4ZQ==`
+Snapshot ID: `Mjc4NDUzNjMsMDAwMDAwMDBmMmQ4MjdhMTY3NDFhODkzODUwYzk4MjdkMzY3OTYxNg==`

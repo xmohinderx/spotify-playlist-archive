@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,519 likes - 1,202 songs - 3 day 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,580 likes - 1,202 songs - 3 day 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 55 | [Ma Be Ham Nemiresim](https://open.spotify.com/track/0i27GYpTwao1Yyqn8pv3z3) | [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [Nimeh Gomshodeh Man](https://open.spotify.com/album/2mOkX0Ykj4hC36QfmUB9TC) | 5:36 |
 | 56 | [Nadusilma \- Instrumental](https://open.spotify.com/track/6ajUEn3yDD2pt2he3HifXH) | [Ahmed Abdul\-Malik](https://open.spotify.com/artist/5xdQf8ZY4CFEtt0LKztj32) | [Jazz Sounds Of Africa](https://open.spotify.com/album/5drVJYINHwNT1RTKC5NfdH) | 3:55 |
 | 57 | [Te Estoy Amando Locamente](https://open.spotify.com/track/5QfmCmdL4qnzqMz5Z0gvzV) | [Las Grecas](https://open.spotify.com/artist/5sWCGfIxmNiMAl6n8kdbkb) | [Te Estoy Amando Locamente](https://open.spotify.com/album/2NpRaaZ6Hi7Y5GqWeLwGqH) | 3:11 |
-| 58 | [Two To Make A Pair](https://open.spotify.com/track/65m387FcWzn3fyhEfQsKJl) | [The Strangers](https://open.spotify.com/artist/2oLxY6xDK1KUcldltFmMup) | [Forge Your Own Chains: Heavy Psychedelic Ballads And Dirges 1968\-1974](https://open.spotify.com/album/1TQtU1pMPnhKv3Nz23TGMI) | 2:47 |
+| 58 | [Two To Make A Pair](https://open.spotify.com/track/65m387FcWzn3fyhEfQsKJl) | [The Strangers](https://open.spotify.com/artist/2oLxY6xDK1KUcldltFmMup) | [Forge Your Own Chains: Heavy Psychedelic Ballads and Dirges 1968\-1974](https://open.spotify.com/album/1TQtU1pMPnhKv3Nz23TGMI) | 2:47 |
 | 59 | [Palengue Palengue](https://open.spotify.com/track/0h1wnEV4VioEaoUyndMUc6) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 4:10 |
 | 60 | [Matar Al Sabah](https://open.spotify.com/track/0uOinAKIEo8AFfK1DcVnYd) | [Ferkat Al Ard](https://open.spotify.com/artist/1Rf1hYrWaOiHIL2u8VJxfW) | [Oghneya \(Habibi Funk 019\)](https://open.spotify.com/album/0NlApM2IuVJ87FZjc0nJMm) | 4:25 |
 | 61 | [Argos Farfish](https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 4:38 |
@@ -276,7 +276,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 266 | [Matar Naem](https://open.spotify.com/track/2L2dNmghNALXW3XLeuY4fg) | [Ferkat Al Ard](https://open.spotify.com/artist/1Rf1hYrWaOiHIL2u8VJxfW) | [Oghneya \(Habibi Funk 019\)](https://open.spotify.com/album/0NlApM2IuVJ87FZjc0nJMm) | 4:44 |
 | 267 | [Little Woman by My Side](https://open.spotify.com/track/2aFpI0lZa5dSWY00lib5gz) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 0:41 |
 | 268 | [Bo Terra Cabo Verde](https://open.spotify.com/track/4JnlDW4Y1rSlmhofxkmBs0) | [Cabo Verde Band](https://open.spotify.com/artist/7lvDu4dHRrvRaT3PG94fvC) | [Radio Verde \(Compiled by Arp Frique & Americo Brito\)](https://open.spotify.com/album/1rNRvenOKQOzgjXme9O6s9) | 3:12 |
-| 269 | [Mellow \- Version](https://open.spotify.com/track/34ZTSa0gUHEqSbDuoqfhqf) | [Karl Hector](https://open.spotify.com/artist/4iAX0hXhpXUTHhnskcMQqS), [The Malcouns](https://open.spotify.com/artist/1axHFh7kwFpWPbP2lbXQU4) | [Sahara Swing](https://open.spotify.com/album/5rPCTfEFtfWvzsAKy9ckYX) | 3:24 |
+| 269 | [Mellow \(Version\)](https://open.spotify.com/track/34ZTSa0gUHEqSbDuoqfhqf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Sahara Swing](https://open.spotify.com/album/5rPCTfEFtfWvzsAKy9ckYX) | 3:24 |
 | 270 | [Calypso Blues](https://open.spotify.com/track/6s0t55KTpnYhhfgsjZr480) | [Zilla Mays](https://open.spotify.com/artist/5A4Z1PUOEu63H9i1RHYN9h) | [Rhythm 'n Boogaloo](https://open.spotify.com/album/55Ln8bi2mtPsf2AbCTtMJy) | 2:51 |
 | 271 | [Perfidia](https://open.spotify.com/track/7F5Pq0d87La1JC8glad8NB) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh) | [Perfidia](https://open.spotify.com/album/3fOth54qHyuLsANCJhPiGp) | 2:40 |
 | 272 | [Get My Dub Together](https://open.spotify.com/track/6w2hoPfAtPJSt4N9XM7Ymb) | [Linval Thompson](https://open.spotify.com/artist/7IURtrIM8SBTlCI9qrAuUQ) | [Dub Story](https://open.spotify.com/album/5JKtmte2tPAt93qlrYWjqY) | 4:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,562 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,581 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 49 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
 | 50 | [Kisses Sweeter than Wine](https://open.spotify.com/track/4cOOdma7wXLkuFomD0dyiC) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/64rpqujJSzvu5vn4xDT5k9) | 4:43 |
 
-Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA2YTlkMGEyYmExODdjYWJkZjA0NTZmMDE1YjQ5Yzc1Yw==`
+Snapshot ID: `Mjc4NDQ5MDEsMDAwMDAwMDAwZDM1Mzc3ZDI4YTQ4OWE5ZjUxYWRkNzgxNTg3OWViNQ==`

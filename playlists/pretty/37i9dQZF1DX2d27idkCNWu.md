@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,527 likes - 90 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,560 likes - 90 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 77 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic EP](https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy) | 3:53 |
 | 78 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 |
 | 79 | [bad guy \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66wi6NRfwsula1n68bJEod) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 2:47 |
-| 80 | [Dance All Over Me \- Acoustic](https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Dance All Over Me \(Acoustic\)](https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME) | 3:34 |
-| 81 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 |
+| 80 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 |
+| 81 | [Mantra](https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Mantra](https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR) | 2:48 |
 | 82 | [I'm Yours](https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Verão Acústico](https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE) | 4:02 |
-| 83 | [Mantra](https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Mantra](https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR) | 2:48 |
-| 84 | [Entrelace](https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Entrelace](https://open.spotify.com/album/3SIqwZQQFhhxTHbUHhnxqF) | 3:49 |
-| 85 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 |
-| 86 | [What A Shame \- Acoustic](https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [What A Shame](https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX) | 2:11 |
-| 87 | [Daisies \- Acoustic](https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies \(Acoustic\)](https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK) | 3:05 |
-| 88 | [Two Commas](https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Two Commas](https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt) | 3:34 |
-| 89 | [Tell Me You Love Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7) | 4:07 |
-| 90 | [Blame It On Me \- Acoustic](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 |
+| 83 | [Entrelace](https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Entrelace](https://open.spotify.com/album/3SIqwZQQFhhxTHbUHhnxqF) | 3:49 |
+| 84 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 |
+| 85 | [What A Shame \- Acoustic](https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [What A Shame](https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX) | 2:11 |
+| 86 | [Daisies \- Acoustic](https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies \(Acoustic\)](https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK) | 3:05 |
+| 87 | [Two Commas](https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Two Commas](https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt) | 3:34 |
+| 88 | [Tell Me You Love Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7) | 4:07 |
+| 89 | [Blame It On Me \- Acoustic](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 |
+| 90 | [parte \- Ao Vivo](https://open.spotify.com/track/3SEAfqyL6t7SWr5duH9xBA) | [tiago arrais](https://open.spotify.com/artist/4PoxuHhPXZVXfVdrKH2jfV), [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [parte \(Ao Vivo\)](https://open.spotify.com/album/1pPAmDPJbFoEhjkI49T210) | 3:58 |
 
-Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDcxYTNiNzQ3OGNlOTYwNzZhYWI0ZGQ1MGVlMGQyOTZj`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDlhMDY1OGU2MzE4ZTQ5ZTg4YjU2ZWUzYjU4ZjQxZTIw`

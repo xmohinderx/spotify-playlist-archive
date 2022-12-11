@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-308 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+310 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [Morning on Bang Tao](https://open.spotify.com/track/64TYdNOOAG63RnrsbwFyrv) | [Dre Dilla](https://open.spotify.com/artist/3iEZGJz6uRmSbCbtxR4Zde) | [Morning on Bang Tao](https://open.spotify.com/album/032KxKFbWD7yFq1BpnKN3a) | 3:27 | 2022-12-09 |  |
 | [Morning Vibes](https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/7qVtOLDgRzWmoI1bMW9SXl) | 2:35 | 2022-11-11 | 2022-11-26 |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2021-11-11 | 2022-11-20 |
-| [Motion Blur](https://open.spotify.com/track/41z8AHFPjaRu6PSaj3mTKL) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Divergenz](https://open.spotify.com/album/6cQNpcfHxABrVsXkLOMTag) | 2:01 | 2022-11-25 |  |
+| [Motion Blur](https://open.spotify.com/track/41z8AHFPjaRu6PSaj3mTKL) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Divergenz](https://open.spotify.com/album/6cQNpcfHxABrVsXkLOMTag) | 2:01 | 2022-11-25 | 2022-12-11 |
+| [Motion Blur](https://open.spotify.com/track/6iYdBrHjTSmmDgPZO4EXfU) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Divergenz](https://open.spotify.com/album/4p61zb20E3SOhgS1M3IkZi) | 2:01 | 2022-12-09 |  |
 | [mtv cribs](https://open.spotify.com/track/7xquksomVzxsHXvgCw6OYs) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [mtv cribs](https://open.spotify.com/album/2tzSHLpARzLa3kXWbpBFFb) | 1:38 | 2022-04-15 | 2022-12-10 |
 | [My Love \- Instrumental](https://open.spotify.com/track/474Of6PUt0haIv7EcMiY49) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape \(Instrumentals\)](https://open.spotify.com/album/4DnBy4kgFErWfGn8mDUBr0) | 3:48 | 2022-10-28 |  |
 | [My Soul](https://open.spotify.com/track/7gqSHdGVonjieyd54VlJ9i) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90) | [My Soul](https://open.spotify.com/album/3Bk12ozkZtrazgap2EkotO) | 1:47 | 2022-10-28 |  |
@@ -234,7 +235,8 @@
 | [Return to my roots](https://open.spotify.com/track/3qHxHvt1cQ6SrrK76Ty0Gy) | [Mr\. Donsai](https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Return to my roots](https://open.spotify.com/album/6x4mKSCAqfqATVQH1ZFN60) | 1:40 | 2022-09-23 |  |
 | [Rites of Summer \- All Love](https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Rites of Summer \(All Love\)](https://open.spotify.com/album/1DYT6iXMPKG6B6JZD0imU5) | 1:32 | 2022-05-13 | 2022-05-20 |
 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 | 2022-08-19 |  |
-| [Résidus De Vin Rouge](https://open.spotify.com/track/1AMPaKJUArIkQXcVTymrI6) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Résidus De Vin Rouge](https://open.spotify.com/album/4OTByvJuNcccaWqiqoJrYv) | 2:42 | 2022-11-25 |  |
+| [Résidus De Vin Rouge](https://open.spotify.com/track/1AMPaKJUArIkQXcVTymrI6) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Résidus De Vin Rouge](https://open.spotify.com/album/4OTByvJuNcccaWqiqoJrYv) | 2:42 | 2022-11-25 | 2022-12-11 |
+| [Résidus De Vin Rouge](https://open.spotify.com/track/599XMJ7iIpVTprquprJ9lW) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Résidus De Vin Rouge](https://open.spotify.com/album/1jsD6ZftTKfhuwQcEQic1Y) | 2:42 | 2022-12-09 |  |
 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 | 2021-11-11 |  |
 | [Sedate \- Boom Bap Instrumental](https://open.spotify.com/track/1XpZ171vlP0tPiFs2AUlOe) | [Bob Lee](https://open.spotify.com/artist/6OGBVZmZ9qKwv0T2CzlczF) | [Sedate \(Boom Bap Instrumental\)](https://open.spotify.com/album/4kJwBCZGus9fsFt4hU2nCl) | 3:47 | 2022-05-13 | 2022-05-20 |
 | [seed](https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU) | 2:00 | 2022-11-11 | 2022-12-05 |

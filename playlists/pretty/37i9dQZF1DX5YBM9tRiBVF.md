@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume! Cover: <a href="spotify:artist:5Oc4knEQaid8K7AFqO5lHu">Selah Sue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,323 likes - 57 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,364 likes - 57 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

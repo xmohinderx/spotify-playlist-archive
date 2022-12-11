@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Sido
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,059 likes - 93 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,068 likes - 93 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 23 | [Don't Play Games](https://open.spotify.com/track/6tDudlNZloZt8YBPGp6ye1) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [SELAH](https://open.spotify.com/artist/0RJ2o969ES08J9cMAhzPiD) | [Don't Play Games](https://open.spotify.com/album/1d3qwleeiqihnR9nDTxlms) | 2:43 |
 | 24 | [Coco 2.0](https://open.spotify.com/track/2xdUcwkx9lENOslKOiz1eM) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Coco 2.0](https://open.spotify.com/album/1jKGlsEOAuusyYyvosy2c8) | 1:51 |
 | 25 | [CC](https://open.spotify.com/track/5VoYiLDlnaoMbvkR6ZLsEV) | [Jamal](https://open.spotify.com/artist/1tYOWKifYJqpVJ3nnHR3FC) | [CC](https://open.spotify.com/album/1FRpA1hEzlYiaa7Kcza1Xl) | 2:46 |
-| 26 | [Serendipia \(Nouvelle version\)](https://open.spotify.com/track/1paYMMK7oI0OpN8OuCsgqR) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Isa \(Nouvelle édition\)](https://open.spotify.com/album/5VXsO0AdwwtazdWJfEP1Ag) | 2:53 |
+| 26 | [Serendipia](https://open.spotify.com/track/1paYMMK7oI0OpN8OuCsgqR) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Isa \(Nouvelle édition\)](https://open.spotify.com/album/5VXsO0AdwwtazdWJfEP1Ag) | 2:53 |
 | 27 | [1, 2 Cent](https://open.spotify.com/track/7G4o8dvZKmfZHzA1ZbgEUA) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [1, 2 Cent](https://open.spotify.com/album/5whfFiIPynh466Fb43P1vj) | 2:23 |
 | 28 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 |
 | 29 | [Zwischen den Wolken \(feat\. Karen & Tarek K.I.Z\)](https://open.spotify.com/track/2VSsJgvIyjG32tT7hLPmIq) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Karen](https://open.spotify.com/artist/4sCAyOtOmFdleJ6fXsIsfb), [Tarek K.I.Z](https://open.spotify.com/artist/0HXAyc6kXXdnrE8wdVwS5E) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:40 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 86 | [Skin Care](https://open.spotify.com/track/0xL2E5H2ND3lI63rAsUGBb) | [Search Yiu](https://open.spotify.com/artist/0jl1GB62whNLQlOh2cZjL7) | [Nevada Tapes](https://open.spotify.com/album/2tJvy3nSH5iuT43sTlWDiQ) | 2:07 |
 | 87 | [Violence Forever?](https://open.spotify.com/track/0bFOsNsyf7PozWCyRfuMpz) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorwhat? The Best Of Razorlight](https://open.spotify.com/album/5ukcsAk1XLdl0dRIKE6D8L) | 4:05 |
 | 88 | [Before We Say Goodbye](https://open.spotify.com/track/475efsh9xVCYlQoPTxTmUj) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Before We Say Goodbye](https://open.spotify.com/album/20qYglno7wKSBQIm3nXGej) | 2:52 |
-| 89 | [Yummy](https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Yummy](https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4) | 2:52 |
+| 89 | [Yummy](https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Yummy](https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4) | 2:49 |
 | 90 | [Rote Jacke](https://open.spotify.com/track/2uJaRwsz8krpjuyUovgIEa) | [Pannakotta](https://open.spotify.com/artist/0KZvih5KsKy0qUMUDAEPfD) | [Rote Jacke](https://open.spotify.com/album/2MNrhmdgbsQ4EQz4bUWS7V) | 4:11 |
 | 91 | [Homo Digitalis](https://open.spotify.com/track/12IwKQbXaPAkXF9DxBTn0C) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [Riccardo Simonetti](https://open.spotify.com/artist/2P7r6huuw60LxK6V035HbU) | [Homo Digitalis](https://open.spotify.com/album/7rlTXuekboUVFlAGudTHjm) | 3:53 |
 | 92 | [QUEEN](https://open.spotify.com/track/5hr39FQi0R8NHeg8pSmFCQ) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [QUEEN](https://open.spotify.com/album/4dF2UXtndUYmrezTiZhmp6) | 2:47 |

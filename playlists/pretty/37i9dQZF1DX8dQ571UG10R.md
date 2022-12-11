@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,707 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,739 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 22 | [Tipo Madara](https://open.spotify.com/track/5X4H4ZCxjwHFuj5CMtgJ6s) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Madara](https://open.spotify.com/album/7drkyFzSw3TI0sg7JPlynu) | 3:18 |
 | 23 | [Tipo Tobirama](https://open.spotify.com/track/4dmCXfDP4alC1JfQM3XB2h) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobirama](https://open.spotify.com/album/1dAqa80c24lQQyj0sdObb7) | 2:40 |
 | 24 | [Pique Minato](https://open.spotify.com/track/1hOuDUJ8pqh5gwGiZpl2xG) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Minato](https://open.spotify.com/album/5ri4PGz7cj1R9GTf5lHpr2) | 2:58 |
-| 25 | [Os Titãs Primordiais](https://open.spotify.com/track/5NHs07BtDcca8fOB8v9wNF) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4wD4408RcHK6fkx4UVUyi6) | 7:26 |
+| 25 | [Os Titãs Primordiais](https://open.spotify.com/track/3aZ0jBsXRFbiXIFDLZR6wa) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4k3S6NHWgwhVv16HAG2190) | 7:26 |
 | 26 | [Punição Divina](https://open.spotify.com/track/5zYv54TK6OKcEfM74HWkkY) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Punição Divina](https://open.spotify.com/album/05fzl1PzT4xtsxJok87zfV) | 4:01 |
 | 27 | [Tipo Levi](https://open.spotify.com/track/1cyyZkX9dUt8ilAfc96jg8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Levi](https://open.spotify.com/album/2pu2qYzGmssUHGlj1fTOiL) | 3:29 |
 | 28 | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/track/1w20E6WZTvi5HsKua0NG7M) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/album/6ydM4MMf11n5nlX4AApjVl) | 3:03 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 48 | [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 |
 | 49 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MTY1MzYyMDU4MCwwMDAwMDAwMGM1ZTMwZGNhNjFmOGVkMzdjZmNlZjNmNzU1MzY5NGY4`
+Snapshot ID: `MTY1MzYyMDU4MCwwMDAwMDAwMDI4MTgzOGY5ZTBmMWVkNWVmNTQ0MDJmYWIwMTBjNzll`

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,871 songs - 4 day 12 hr 1 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,873 songs - 4 day 12 hr 9 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Cold Water](https://open.spotify.com/track/6wEvUPXuKmJBaviL4M0V8e) | [Arctik7](https://open.spotify.com/artist/18UgMQWIVVLtOHuPP4LX8o), [Sonya McGaffey](https://open.spotify.com/artist/4E7giyaVsni5DhzimIFglU) | [Cold Water](https://open.spotify.com/album/72ZbEjY6208Qv1H5jPaZtL) | 3:01 | 2021-01-04 | 2021-03-01 |
 | [Collide](https://open.spotify.com/track/19BTgOK2yjqUvUabVhDR78) | [MILLE](https://open.spotify.com/artist/06AAtBE3ddOMJPBu1MZQWf) | [Collide](https://open.spotify.com/album/0zxtxSBjkEw1VIjD2O5MDg) | 3:19 | 2021-01-15 | 2021-01-30 |
 | [Collide](https://open.spotify.com/track/1YrnHIzYa10VbL7ntVkesa) | [SUMif](https://open.spotify.com/artist/3o0KTphy4FM2GAJE3CxBmO) | [Collide](https://open.spotify.com/album/6OvAJQOrgytJrfaFOXcvLS) | 3:15 | 2020-02-27 | 2020-04-20 |
-| [Come Jesus Come](https://open.spotify.com/track/72aFaoWMcBGR7UopMR92ra) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Come Jesus Come](https://open.spotify.com/album/5aAwnlcci0dIlIuMxroAGR) | 3:32 | 2022-11-22 |  |
+| [Come Jesus Come](https://open.spotify.com/track/72aFaoWMcBGR7UopMR92ra) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Come Jesus Come](https://open.spotify.com/album/5aAwnlcci0dIlIuMxroAGR) | 3:32 | 2022-11-22 | 2022-12-11 |
 | [Come on Down](https://open.spotify.com/track/5VPQhnJrUqYW2RpT8DnzPD) | [Barry and the Fountains](https://open.spotify.com/artist/61hGCc3LoReqvm3EkT9jkt) | [Come on Down](https://open.spotify.com/album/4mTzoTQnG71Rwjxa42Ubl5) | 4:50 | 2020-07-07 | 2020-07-28 |
 | [Come Thrill Me](https://open.spotify.com/track/0iVcaaYltolb2y58szVPN1) | [EJO](https://open.spotify.com/artist/2woz4DZOUXejFMbvWTsUHR) | [Come Thrill Me](https://open.spotify.com/album/3sChc2mfA2KvdaESMOzvaM) | 2:09 | 2022-10-28 | 2022-11-19 |
 | [Come Thru](https://open.spotify.com/track/6oQs7LgpbdWYGw4wIT2Ozr) | [Sam Free](https://open.spotify.com/artist/30bRlMs9shQgb59Dfu8fqH) | [Come Thru](https://open.spotify.com/album/6hXefyN52d5ijKaD8R0JCg) | 2:26 | 2021-02-12 | 2021-02-27 |
@@ -408,7 +408,8 @@
 | [Day and night](https://open.spotify.com/track/1uEJHsM0wGiUly97qeFVsj) | [Ryah](https://open.spotify.com/artist/0sfVCoKlhqfCs81x7Fe5QO) | [Day and night](https://open.spotify.com/album/3s0igJxh4aFH2GHZYiXTdU) | 3:26 | 2022-09-23 | 2022-10-09 |
 | [Daydream](https://open.spotify.com/track/5m8ZMsyD67NSqY1J9TAKGz) | [Charles Copley](https://open.spotify.com/artist/5ikM5zOolF4fLTKqazeHtY) | [Daydream](https://open.spotify.com/album/0s6u2fKzxgxotHyFnBcoun) | 3:40 | 2021-04-03 | 2021-04-18 |
 | [Daydream](https://open.spotify.com/track/1HZAkD9kvJZcNgEyg5rYFC) | [Kimkoro](https://open.spotify.com/artist/4qV9LBiOUTdRIC3CsTQZm0) | [Daydream](https://open.spotify.com/album/4PmJ15tq33h6xurJkmkmna) | 3:06 | 2022-08-12 | 2022-08-28 |
-| [Days Like This](https://open.spotify.com/track/1gjm48WYxtfGugWzVlxdjY) | [Dusty Flavor](https://open.spotify.com/artist/0ZeApzBDi9axH1rBEfMTNU) | [Days Like This](https://open.spotify.com/album/4snjEVJsTZccMIqleHSHS0) | 2:40 | 2022-12-09 |  |
+| [Days Like This](https://open.spotify.com/track/1gjm48WYxtfGugWzVlxdjY) | [Dusty Flavor](https://open.spotify.com/artist/0ZeApzBDi9axH1rBEfMTNU) | [Days Like This](https://open.spotify.com/album/4snjEVJsTZccMIqleHSHS0) | 2:40 | 2022-12-09 | 2022-12-11 |
+| [Days Like This \(On Repeat\) \- Remix](https://open.spotify.com/track/1DqdbCxDOAB0A9P11RxtFy) | [Dusty Flavor](https://open.spotify.com/artist/0ZeApzBDi9axH1rBEfMTNU) | [Days Like This \(On Repeat\) \[Remix\]](https://open.spotify.com/album/1EjyhsfoxLrvIzFG1V9Wet) | 2:31 | 2022-12-10 |  |
 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2020-09-21 | 2020-10-08 |
 | [Dear Greta](https://open.spotify.com/track/2xU52hvXKXBiZscIbjfgG6) | [The Fall Line](https://open.spotify.com/artist/6agKrgUACfM2YJ0ahGBvfT) | [Dear Greta](https://open.spotify.com/album/22nIgQNZjCFSj7rrqUwAAK) | 2:46 | 2020-03-06 | 2020-04-04 |
 | [Dear Heart](https://open.spotify.com/track/1V6AqfZw31TAjywJ57Fv6m) | [Fergus](https://open.spotify.com/artist/1ftEZp05l2lczXUxg27fyK) | [Dear Heart](https://open.spotify.com/album/6NZjWhMGSYljTGJi4iXmO3) | 3:29 | 2022-04-22 | 2022-05-08 |
@@ -525,7 +526,7 @@
 | [Fall for Me](https://open.spotify.com/track/7pGeXfwEr71q3239wcbZsd) | [AMIRAH](https://open.spotify.com/artist/7cSBZKUjWpNB9BGIWcRHj4) | [Fall for Me](https://open.spotify.com/album/2CH7UJ2bzKvs77jZhXBTN1) | 3:36 | 2022-08-19 | 2022-09-04 |
 | [Fall For You](https://open.spotify.com/track/4MvhccCet1YVUQg8sYX6qc) | [James Pyle](https://open.spotify.com/artist/0idxUTRWQcCNOO10nNO6uc) | [Fall For You](https://open.spotify.com/album/5P9aQhbp9bMcQ6gJjSmWaJ) | 3:49 | 2021-05-11 | 2021-06-03 |
 | [Fall For You](https://open.spotify.com/track/3koa4RpZbZetFdZZW7WAVl) | [Sophie Ann](https://open.spotify.com/artist/6Jjr2156zVfKimFYobk7Q2) | [Fall For You](https://open.spotify.com/album/60q4mkofIgQ04HCRN9slc6) | 2:58 | 2021-06-26 | 2021-07-11 |
-| [Fall In Lust](https://open.spotify.com/track/77Z5652NjZ8magT7y6lVt1) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Fall In Lust](https://open.spotify.com/album/7FUGotEsF6T8YvHbnMSJHe) | 2:58 | 2022-11-18 |  |
+| [Fall In Lust](https://open.spotify.com/track/77Z5652NjZ8magT7y6lVt1) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Fall In Lust](https://open.spotify.com/album/7FUGotEsF6T8YvHbnMSJHe) | 2:58 | 2022-11-18 | 2022-12-11 |
 | [Fall, Fall, Fall](https://open.spotify.com/track/1X5cqLYl0eBrcNaLY8y9J0) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Fall, Fall, Fall](https://open.spotify.com/album/2UP2OjmTEVOQKQ5zOqXejr) | 4:52 | 2021-12-04 | 2021-12-20 |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-07-05 | 2022-07-27 |
 | [Falling by the Wayside](https://open.spotify.com/track/16q1Vnv42GoabfjYbYTaoL) | [Paul Mac Innes](https://open.spotify.com/artist/5TSiuFOzFcUE3caItvpilz) | [Falling by the Wayside](https://open.spotify.com/album/0OySeBvf7gQ9nmVB35Hc9j) | 3:51 | 2022-08-19 | 2022-09-04 |
@@ -626,6 +627,7 @@
 | [G.O.T.U](https://open.spotify.com/track/2lP97dwkvjIgiadmKESXc7) | [NiTE](https://open.spotify.com/artist/5eFmGVpLCExDmZ8JawLvgI) | [G.O.T.U](https://open.spotify.com/album/6CIwpRdhfHtmasrBMjMr0b) | 2:37 | 2020-11-27 | 2020-12-12 |
 | [Gah Dam](https://open.spotify.com/track/4JNUF2iJ9eculCbALVkaVK) | [boldmovepilot](https://open.spotify.com/artist/6Zm6irrPHsQu05ljQrvskJ) | [Gah Dam](https://open.spotify.com/album/2Z9RmexYC43VAl6nOxBgWL) | 3:43 | 2021-09-18 | 2021-10-04 |
 | [Galaxy](https://open.spotify.com/track/3OeOgrwuCqNkrpWsFxDcL5) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk), [Eluzai](https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4) | [Galaxy](https://open.spotify.com/album/1M6CiP9dTyIJ43Mkg4hoZR) | 2:49 | 2020-08-12 | 2021-03-14 |
+| [Game Is On](https://open.spotify.com/track/1jQpoZAhmWIQ5zXbBYVc1I) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Game Is On](https://open.spotify.com/album/6d3lJxR3EMd9opfL0rv99k) | 5:17 | 2022-12-10 |  |
 | [Game We Play](https://open.spotify.com/track/5To2GjlLj106cVJlXCoKjW) | [Sarah Tolle](https://open.spotify.com/artist/3vGD9oHaS2S8t6LehpCVQX) | [Game We Play](https://open.spotify.com/album/5ZOpfZD0bq8euNZmzhlFXC) | 3:32 | 2022-06-10 | 2022-06-26 |
 | [Garbage](https://open.spotify.com/track/04EmYOB99jJ52m45HRmq9h) | [Christopher Paul](https://open.spotify.com/artist/7ieFGttaEqvHGZVpwgVVWd) | [Garbage](https://open.spotify.com/album/5zciH50dlD5H946F1WVERZ) | 3:44 | 2019-10-17 | 2019-10-24 |
 | [GasLight](https://open.spotify.com/track/2XrVHTtfwMUhEywJg2tLyM) | [Villaboyscottie](https://open.spotify.com/artist/22vLwzKq6QkWH73t1dgSFP) | [GasLight](https://open.spotify.com/album/5G5kB19zCm2671L0FNXMUt) | 2:03 | 2022-08-26 | 2022-09-11 |

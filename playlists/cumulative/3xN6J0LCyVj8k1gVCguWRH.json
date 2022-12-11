@@ -6243,7 +6243,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 212509,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/72aFaoWMcBGR7UopMR92ra"
@@ -7647,10 +7647,28 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 160213,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1gjm48WYxtfGugWzVlxdjY"
+    },
+    {
+      "album": {
+        "name": "Days Like This (On Repeat) [Remix]",
+        "url": "https://open.spotify.com/album/1EjyhsfoxLrvIzFG1V9Wet"
+      },
+      "artists": [
+        {
+          "name": "Dusty Flavor",
+          "url": "https://open.spotify.com/artist/0ZeApzBDi9axH1rBEfMTNU"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151139,
+      "name": "Days Like This (On Repeat) - Remix",
+      "url": "https://open.spotify.com/track/1DqdbCxDOAB0A9P11RxtFy"
     },
     {
       "album": {
@@ -9877,7 +9895,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 178000,
       "name": "Fall In Lust",
       "url": "https://open.spotify.com/track/77Z5652NjZ8magT7y6lVt1"
@@ -11797,6 +11815,24 @@
       "duration_ms": 169411,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/3OeOgrwuCqNkrpWsFxDcL5"
+    },
+    {
+      "album": {
+        "name": "Game Is On",
+        "url": "https://open.spotify.com/album/6d3lJxR3EMd9opfL0rv99k"
+      },
+      "artists": [
+        {
+          "name": "Cabela and Schmitt",
+          "url": "https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317209,
+      "name": "Game Is On",
+      "url": "https://open.spotify.com/track/1jQpoZAhmWIQ5zXbBYVc1I"
     },
     {
       "album": {

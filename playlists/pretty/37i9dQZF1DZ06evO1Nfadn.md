@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,892 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,903 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Juan Colorado](https://open.spotify.com/track/5O56ZFb2wudJMlk6278gyB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa' Que Veas Lo Que Se Siente](https://open.spotify.com/album/3qphrl3j2zNiNrPcqcrF8x) | 2:29 |
 | 50 | [Madrecita Querida](https://open.spotify.com/track/4un4Y5oRumyvaUZHcXXvXd) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 2:40 |
 
-Snapshot ID: `Mjc4NDM0NzksMDAwMDAwMDBkMDlmYjk2ZDM2ZjM0NWE2ZDhiZmQ2NmZmMmZjOGFkOQ==`
+Snapshot ID: `Mjc4NDQ5MDIsMDAwMDAwMDAxN2IyNTQ4YjBjYzExZGU0MjBmMTY3ZTIwMTU3OTE5NQ==`

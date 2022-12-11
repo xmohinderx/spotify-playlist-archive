@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Time to headbang around the Christmas tree! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,732 likes - 67 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,671 likes - 67 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

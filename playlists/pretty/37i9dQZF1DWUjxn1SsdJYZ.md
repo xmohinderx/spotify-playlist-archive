@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Lisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,968 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,994 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 9 | [Dabke \- Dimatik Remix](https://open.spotify.com/track/0AEHBVNjgdLuQTYlQNQSdm) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Dabke \(Dimatik Remix\)](https://open.spotify.com/album/5I9TvxUpqpZzsDVHBCs9tf) | 3:58 |
 | 10 | [CALL ME](https://open.spotify.com/track/0drn9Co5YWDkEf56WFqr4v) | [Tmk](https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP), [YXAN](https://open.spotify.com/artist/1vFU3dBPfEHrZOx9GAm3z9) | [CALL ME](https://open.spotify.com/album/4yksBGzn1xdbq1yGYqZLNS) | 2:44 |
 | 11 | [MY TURN](https://open.spotify.com/track/67ymPK8GDCy5G0gtkNr7Tl) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [MY TURN](https://open.spotify.com/album/1NhU3nH2zA2sLFUlUMlBoh) | 2:45 |
-| 12 | [Foreign Currency](https://open.spotify.com/track/43O8FGGnUBZshQPX6aGiHu) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5) | [Foreign Currency](https://open.spotify.com/album/52hNNTZJpG7luWeLbRSlA6) | 2:45 |
+| 12 | [Foreign Currency](https://open.spotify.com/track/43O8FGGnUBZshQPX6aGiHu) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5), [Stallyon](https://open.spotify.com/artist/2JXnb8ofTQZKOBsqqv8elj) | [Foreign Currency](https://open.spotify.com/album/52hNNTZJpG7luWeLbRSlA6) | 2:45 |
 | 13 | [NOKIA 6OY](https://open.spotify.com/track/3x4GBlCBALBmOU3oOdejFR) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [NOKIA 6OY](https://open.spotify.com/album/79SUwO4Kw6JCXMItpqxI27) | 3:30 |
 | 14 | [Shut The Gates](https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Shut The Gates](https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf) | 3:30 |
 | 15 | [EN VIVO](https://open.spotify.com/track/3AlUIOQCz0L3ziLaqnC7UN) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [EN VIVO](https://open.spotify.com/album/2r9WWv5OcoVMdgJDYBPBQh) | 2:05 |

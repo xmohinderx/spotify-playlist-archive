@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 69 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,883 likes - 69 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

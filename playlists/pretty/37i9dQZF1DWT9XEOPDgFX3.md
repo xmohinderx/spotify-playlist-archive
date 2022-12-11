@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Field Medic
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,178 likes - 125 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,249 likes - 125 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [stained glass](https://open.spotify.com/track/0QxUwYYcLvt1560lZP5il6) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [stained glass](https://open.spotify.com/album/7LW5Bo8L7FlRHCNhMmTcGX) | 4:12 |
+| 1 | [stained glass](https://open.spotify.com/track/68zzdY0R3TIjFJm1nEQO1f) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [grow your hair long if you’re wanting to see something that you can change](https://open.spotify.com/album/5YCEWH1mVK86feTnIOBtHQ) | 4:12 |
 | 2 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
 | 3 | [The Last One](https://open.spotify.com/track/5ihoKh6U2qCQ3lRXaGi3lh) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 3:50 |
 | 4 | [Weather Alive](https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Weather Alive](https://open.spotify.com/album/1GlvLDvrCrUNFeNEQoyimx) | 7:04 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [Friends](https://open.spotify.com/track/32irCtqVudXga5frCUDFVH) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Friends](https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD) | 3:02 |
 | 125 | [Pareidolia](https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 4:07 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDgzNmZmNDRlN2ExNGQxOGY5NTdlMTA4OGVhY2VkNDBh`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDUyMzg4YjhjMmQzZTU4NWE2MGU5MzE5MmU5Y2QyYzFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,199 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,306 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 96 | [Sometimes I'm Happy](https://open.spotify.com/track/1aNyLvKxlaRcHq8qswscdo) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Jazz Abroad](https://open.spotify.com/album/1DWLdf4OEK96kgNNozY1i0) | 5:51 |
 | 97 | [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 |
 | 98 | [Destination Moon \- 1997 Remaster](https://open.spotify.com/track/0pkIyrSYE0BRpw4nNsBlmq) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah '62](https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu) | 2:35 |
-| 99 | [Es wird scho glei dumpa](https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe) | [Jazzrausch Bigband](https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw), [Julian Hesse](https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U) | [Es wird scho glei dumpa](https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z) | 3:13 |
-| 100 | [Didn't You](https://open.spotify.com/track/1ST1NsO69sL7rUZKdrLeQz) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 4:43 |
+| 99 | [Didn't You](https://open.spotify.com/track/1ST1NsO69sL7rUZKdrLeQz) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 4:43 |
+| 100 | [Lulu's Back In Town](https://open.spotify.com/track/5lGjIW8egrayi9G3CpnUZK) | [Mel Tormé](https://open.spotify.com/artist/6e76kKD4R4HbbTGl3SD0kr) | [The Velvet Fog: The Very Best of Mel Torme](https://open.spotify.com/album/549hYDbssg8k0sGhLraZZh) | 3:07 |
 
-Snapshot ID: `MTY3MDQxODU1OCwwMDAwMDAwMDg0NWMzNWYwYjJjYjEzMjhiNzZkOTg2Zjg3ZjIwMjRj`
+Snapshot ID: `MTY3MDQxODU1OCwwMDAwMDAwMDgwODcwMWY1M2E4NDJkYjE0MTdlZGNiYjYwZGRjMGRk`

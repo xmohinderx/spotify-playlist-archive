@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,263 likes - 161 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,868 likes - 161 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

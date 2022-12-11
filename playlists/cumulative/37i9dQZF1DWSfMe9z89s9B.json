@@ -4751,7 +4751,7 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "date_added": "2022-12-10",
+      "date_added": "2022-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244026,
@@ -10111,7 +10111,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 231202,
       "name": "Scared",
       "url": "https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp"
@@ -11695,6 +11695,24 @@
       "duration_ms": 162069,
       "name": "That\u2019s How It Goes (feat. 6LACK)",
       "url": "https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL"
+    },
+    {
+      "album": {
+        "name": "ULTRAMARINE",
+        "url": "https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114001,
+      "name": "The Bloom",
+      "url": "https://open.spotify.com/track/6fdzX7Qy7LN5uaJ0ukH6p5"
     },
     {
       "album": {

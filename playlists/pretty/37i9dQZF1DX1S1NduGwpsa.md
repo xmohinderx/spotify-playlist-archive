@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : André Manoukian
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,247 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,292 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 18 | [Lookin' Up](https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Lookin' Up](https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk) | 3:02 |
 | 19 | [The Only Thing Missing Is You](https://open.spotify.com/track/6ZJE1w4rnFmr5QvkhoblIh) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [The Only Thing Missing Is You](https://open.spotify.com/album/7e3oiSXfu7UJcW18gZLrwB) | 4:48 |
 | 20 | [Choriniño](https://open.spotify.com/track/6HYVqx9ECuY6cvBcVE9US4) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV) | [A Trip in Marseille](https://open.spotify.com/album/3DCkvGgOPltvOrgYLFifCA) | 4:08 |
-| 21 | [Moonlight \- Live at The Pool](https://open.spotify.com/track/6gGTm4ceRg1eE604KhJnXX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Live at The Pool](https://open.spotify.com/album/6M29Sszq5nhmXypZ90scA6) | 3:55 |
+| 21 | [Moonlight \- Live at The Pool](https://open.spotify.com/track/0AI8ybSIh5HGcxtKPlePNr) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Live at The Pool](https://open.spotify.com/album/2OwMy6Pz2NyAyp5UtXS3N9) | 3:55 |
 | 22 | [Convergency](https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Convergency](https://open.spotify.com/album/36SPfNjozWymvftbq0oMYF) | 4:54 |
 | 23 | [Merry Christmas Baby](https://open.spotify.com/track/6sKbk9yFs7U7uvUNfBrNrf) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Merry Christmas Baby](https://open.spotify.com/album/76xL4ZtUJ91iY0ogL8qV5T) | 3:02 |
 | 24 | [Buzzing Bee](https://open.spotify.com/track/6avafXggIzFap9c21A63iZ) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Buzzing Bee](https://open.spotify.com/album/6ihVmKIaIiiJVKdhRDs6dV) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Yéné](https://open.spotify.com/track/3w1A8Rd2PYlG8EKm6M4Wbk) | [Julia Sarr](https://open.spotify.com/artist/63bcYokTSsAHALwg2Q63gh) | [Yéné](https://open.spotify.com/album/4OXhyeHzfweng5kALtgrNW) | 3:02 |
 | 50 | [Missing Arrow](https://open.spotify.com/track/0YnIdW5G68sN1TrXnAw6g5) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Jazz Contenders](https://open.spotify.com/album/3mXgDyvdLx9UMolgzxemJZ) | 6:32 |
 
-Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMDg5NDZmNzZhMGNjMDgwOWFlMWNhOTNmMWQyMGU5MmVk`
+Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMDQ5NzIyNzkyOTc5OTU1Yzc5NDhlNzkxMTVlMzFmZjQ3`

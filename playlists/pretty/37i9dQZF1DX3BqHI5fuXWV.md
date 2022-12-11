@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 
 > The best tracks from the great Miles Davis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,595 likes - 75 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,629 likes - 75 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 23 | [Nefertiti](https://open.spotify.com/track/6AanQLrt4GtYXutqNiiQJG) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 7:50 |
 | 24 | [Petits Machins \(Little Stuff\)](https://open.spotify.com/track/4ab96AVzqHKjsICyFFEBHi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Filles De Kilimanjaro](https://open.spotify.com/album/7pFyY6SvB0XlUKp8srk8Az) | 8:04 |
 | 25 | [So Near, So Far](https://open.spotify.com/track/0CpyNb2RlzO7345kFiwXzg) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:56 |
-| 26 | [Summer Night \- 2022 Remaster](https://open.spotify.com/track/3eN0rzXMRYXmXtBkFOXYdI) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Quiet Nights \(G010000910821H\)](https://open.spotify.com/album/37sPrSzrALZYsuH8i6zX1M) | 6:06 |
+| 26 | [Summer Night](https://open.spotify.com/track/3eN0rzXMRYXmXtBkFOXYdI) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Quiet Nights \(2022 Remaster\)](https://open.spotify.com/album/37sPrSzrALZYsuH8i6zX1M) | 6:06 |
 | 27 | [Water Babies](https://open.spotify.com/track/6XC0a2dZUjDLGJhG1AilVT) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Water Babies](https://open.spotify.com/album/20kXtVP3GMVWmnbttQGRPB) | 5:06 |
 | 28 | [The Man With the Horn](https://open.spotify.com/track/47ULAV7jxxH7xf4qFrIe11) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Man With The Horn \(2022 Remaster\)](https://open.spotify.com/album/1fRSDRiFk922cV3bgFCdtz) | 6:32 |
 | 29 | [Madness](https://open.spotify.com/track/4AhnRSiNKpHLTPJh7n9l3Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 7:31 |

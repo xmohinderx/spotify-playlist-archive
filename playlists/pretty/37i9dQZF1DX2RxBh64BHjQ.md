@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3OoC54nEM3Xl7Kn5hsDdpg">Finesse2tymes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,707,321 likes - 101 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,707,791 likes - 101 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

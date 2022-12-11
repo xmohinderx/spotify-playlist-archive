@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Photo : André Manoukian
 
-183 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
+184 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Minor Steps](https://open.spotify.com/track/4Fp9AjTum16YyfrIj7KTPR) | [Sixun](https://open.spotify.com/artist/40sdgj5EVgaQEFFp1PPeFa) | [Unixsity](https://open.spotify.com/album/6KePYHM3ulBUqQiWYcnw0D) | 4:54 | 2022-11-10 |  |
 | [Missing Arrow](https://open.spotify.com/track/0YnIdW5G68sN1TrXnAw6g5) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Jazz Contenders](https://open.spotify.com/album/3mXgDyvdLx9UMolgzxemJZ) | 6:32 | 2022-09-08 |  |
 | [Montsouris](https://open.spotify.com/track/2B3maaxBgIUZVGscNP3Mlq) | [Wajdi Riahi](https://open.spotify.com/artist/4KNhFrO2B7kgoeS1taeGVS), [Basile Rahola](https://open.spotify.com/artist/4OQVQ2Pa4AvFwGKvRzMIND), [Pierre Hurty](https://open.spotify.com/artist/2ag6TetFMxAK2kBxKUkfTQ) | [Montsouris](https://open.spotify.com/album/48120Oy65ceVY3KMJsuRzW) | 9:17 | 2022-04-14 | 2022-05-20 |
-| [Moonlight \- Live at The Pool](https://open.spotify.com/track/6gGTm4ceRg1eE604KhJnXX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Live at The Pool](https://open.spotify.com/album/6M29Sszq5nhmXypZ90scA6) | 3:55 | 2022-11-10 |  |
+| [Moonlight \- Live at The Pool](https://open.spotify.com/track/0AI8ybSIh5HGcxtKPlePNr) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Live at The Pool](https://open.spotify.com/album/2OwMy6Pz2NyAyp5UtXS3N9) | 3:55 | 2022-12-08 |  |
+| [Moonlight \- Live at The Pool](https://open.spotify.com/track/6gGTm4ceRg1eE604KhJnXX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Live at The Pool](https://open.spotify.com/album/6M29Sszq5nhmXypZ90scA6) | 3:55 | 2022-11-10 | 2022-12-11 |
 | [Nah Neh Nah \- Version piano \- voix](https://open.spotify.com/track/5afmdUnP6YV1OSYHE0L6ca) | [Vaya Con Dios](https://open.spotify.com/artist/0ODWsmNXtn928qhhEn87C8) | [What's a Woman ? \(Parce que \- La Collection\)](https://open.spotify.com/album/5kOHgAflrDLzNFzoRMME9W) | 2:37 | 2022-10-27 |  |
 | [Niggun](https://open.spotify.com/track/3NVhdxU8IWtnnLIs3HhTKR) | [Omer Klein](https://open.spotify.com/artist/0YGq6lWfXYjeUjM7oZkEho), [Haggai Cohen Milo](https://open.spotify.com/artist/2fI1YlX1x0WkepdSlvLVve), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Niggun](https://open.spotify.com/album/2O6WfKYNY33szSFsARg6ia) | 7:43 | 2022-12-08 |  |
 | [Not Time Yet](https://open.spotify.com/track/3uLk6WdVQnniPupmUkEBsW) | [Etienne Mbappe](https://open.spotify.com/artist/6PUayclLDBItmvqg63Ii9f), [Nec +](https://open.spotify.com/artist/0SBEIIMjlchzFyXhOFNgwg) | [Time Will Tell](https://open.spotify.com/album/1CARvS0Aw6kcWA9fwFx7tS) | 4:06 | 2022-04-14 | 2022-05-20 |

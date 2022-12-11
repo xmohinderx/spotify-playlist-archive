@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Martin Garrix & JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,790 likes - 79 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,266 likes - 79 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 8 | [When You Know](https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [When You Know](https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc) | 2:58 |
 | 9 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 |
 | 10 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 |
-| 11 | [Yummy](https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Yummy](https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4) | 2:52 |
+| 11 | [Yummy](https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Yummy](https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4) | 2:49 |
 | 12 | [Wings \(I Won't Let You Down\)](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Wings \(I Won't Let You Down\)](https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS) | 2:51 |
 | 13 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 |
 | 14 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |

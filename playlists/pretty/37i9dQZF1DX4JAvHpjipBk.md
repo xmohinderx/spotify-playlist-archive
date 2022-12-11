@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from SZA, Lana Del Rey, Paramore, Polo G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,011,217 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,012,240 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 65 | [NEED A FAVOR](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NEED A FAVOR](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 |
 | 66 | [Otra Vez](https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Otra Vez](https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw) | 3:41 |
 | 67 | [50s](https://open.spotify.com/track/3xGMOMy5PeVOoIl8zjzxRN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s](https://open.spotify.com/album/5NB0lhneowD68OlfY44Ed0) | 2:39 |
-| 68 | [Yummy](https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Yummy](https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4) | 2:52 |
+| 68 | [Yummy](https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Yummy](https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4) | 2:49 |
 | 69 | [Need Me Right](https://open.spotify.com/track/6bGTVNNA07wWwyPFPa7PyD) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Need Me Right](https://open.spotify.com/album/6lkMuhT1CneIWN1wCnOGLM) | 2:24 |
 | 70 | [You Get Me \(A Final Word\)](https://open.spotify.com/track/7pggyXFvSZYb7Sv3kKtiZy) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [You Get Me \(A Final Word\)](https://open.spotify.com/album/0kUAc906p6guqq3pPguC3t) | 3:33 |
 | 71 | [SERENITY](https://open.spotify.com/track/013NaZeORX70apTvS9QW7K) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [SHELLS](https://open.spotify.com/album/5uf5Lw6nR3McOPXYOqHU41) | 4:52 |

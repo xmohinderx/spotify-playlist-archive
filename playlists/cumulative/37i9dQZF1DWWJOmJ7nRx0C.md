@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Skillet
 
-584 songs - 1 day 11 hr 6 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+586 songs - 1 day 11 hr 14 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Enemy](https://open.spotify.com/track/7uaiPrc6DpJpLXcvVSW32M) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Enemy](https://open.spotify.com/album/4AZCeQb0Lo4JAkLr5jVA4C) | 3:40 | 2021-08-27 | 2022-04-09 |
 | [Epiphany](https://open.spotify.com/track/4YczLxtXC35D5KniPzAzPJ) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Epiphany](https://open.spotify.com/album/0sx8XZPtCUYbFC29IimV3b) | 4:28 | 2022-02-11 | 2022-09-17 |
 | [Everybody Sins \- Radio Edit](https://open.spotify.com/track/6snsd00vziTFb3ywRWJIlE) | [Andrew W.K.](https://open.spotify.com/artist/4YJR4xviDKHoelt9WKHlBa) | [Everybody Sins \(Radio Edit\)](https://open.spotify.com/album/601HCwdmUsxk80ptKE92G9) | 4:17 | 2021-07-16 | 2022-01-22 |
+| [Everything but Faith](https://open.spotify.com/track/4ADgspuZLhlsiAijC9oDAR) | [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Colorblind EP](https://open.spotify.com/album/29M640Q87avBIyyLC1rWlT) | 3:42 | 2022-12-10 |  |
 | [Evil World Machine \- Extended](https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Evil World Machine \(Extended\)](https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI) | 6:10 | 2022-11-18 |  |
 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 | 2022-04-22 | 2022-10-29 |
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-20 |  |
@@ -193,6 +194,7 @@
 | [Fire It Up](https://open.spotify.com/track/1iFbbuxwxIKdXVaTU1737K) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:19 | 2022-07-22 | 2022-08-20 |
 | [Fire It Up](https://open.spotify.com/track/2NtTPFydPxZnZ3p6wlkYdq) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Fire It Up](https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF) | 3:19 | 2022-05-20 | 2022-07-29 |
 | [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 | 2022-11-11 |  |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-10 |  |
 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 | 2022-02-04 | 2022-06-11 |
 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 | 2021-12-03 | 2022-04-16 |
 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 | 2022-04-29 | 2022-07-09 |

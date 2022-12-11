@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-628 songs - 1 day 13 hr 11 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+630 songs - 1 day 13 hr 17 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/album/6mgn507pXtwFXRcEGcg4bA) | 3:42 | 2021-03-27\* | 2022-12-10 |
 | [Bài Này Chill Phết](https://open.spotify.com/track/2AiZm17zqkV7llT3SHz4Nu) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/5V9sf4PHbbTbrAG11xUzRQ) | 4:36 | 2021-03-27\* | 2021-05-29 |
 | [Bên Trên Tầng Lầu](https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ) | [Bên Trên Tầng Lầu](https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG) | 3:04 | 2022-07-08 |  |
-| [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/6uxuJ8Fr1AAfSPJUF9N1yr) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:38 | 2022-09-10 |  |
+| [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/6uxuJ8Fr1AAfSPJUF9N1yr) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:38 | 2022-09-10 | 2022-12-11 |
 | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/album/5eZM5D8F9yNZvsE4uC2l1s) | 4:38 | 2021-03-27\* | 2022-09-11 |
 | [Bước Qua Nhau](https://open.spotify.com/track/38rjRVqEHSlDRrDWDvjkqW) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:17 | 2022-09-10 |  |
 | [Bước Qua Nhau](https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Nhau](https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU) | 4:17 | 2021-11-13 | 2022-09-11 |
@@ -545,9 +545,11 @@
 | [Thiêu Thân](https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Sofia](https://open.spotify.com/artist/0129dJuvb9Hn0TJnTLIDnT), [Chau Dang Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thiêu Thân](https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9) | 3:18 | 2022-06-19 | 2022-07-28 |
 | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/track/6Fbsn9471Xd0vVsMWwhePh) | [Ha Anh Tuan](https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG) | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/album/2abWPWzlhV9ROpN6EggZPR) | 5:00 | 2021-04-04 | 2021-11-04 |
 | [Tháng Năm](https://open.spotify.com/track/0SmQ0UWeiHKQtxUej4Rem6) | [Soobin Hoang Son](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [The Playah](https://open.spotify.com/album/5xduxfrnEQpYdH54ilWMAN) | 3:45 | 2021-05-29 | 2021-10-31 |
-| [Thích Em Hơi Nhiều](https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Thích Em Hơi Nhiều](https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg) | 2:51 | 2021-06-23 |  |
+| [Thích Em Hơi Nhiều](https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Thích Em Hơi Nhiều](https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg) | 2:51 | 2021-06-23 | 2022-12-11 |
+| [Thích Em Hơi Nhiều](https://open.spotify.com/track/6H6nbn9RX0zDHFDrkAbLzw) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Chiều Hôm Ấy Anh Thấy Màu Đỏ](https://open.spotify.com/album/2dgm5O4Mi6BDSRiJ0VtqaC) | 2:51 | 2022-12-10 |  |
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2021-03-27\* | 2021-05-08 |
 | [Thói Quen \(25 Mét Vuông\) \[feat\. Gducky\]](https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY) | [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Thói Quen \(25 mét vuông\) \[feat\. Gducky\]](https://open.spotify.com/album/4SklM9raXlTECzXLjwTAlR) | 4:39 | 2021-11-26 | 2022-01-24 |
+| [Thấy Chưa](https://open.spotify.com/track/4r7hIDwLsasMfj6nk2Wrib) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Gieo](https://open.spotify.com/album/1ZnJrvDY8ih3ppPWR2Tc2a) | 3:52 | 2022-12-10 |  |
 | [Thấy Chưa](https://open.spotify.com/track/4CjJf5bzvv5ZuLf2FJqlWY) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Thấy Chưa](https://open.spotify.com/album/3QTBFsCemkGKAHoYrqbhUZ) | 3:54 | 2022-09-02 | 2022-09-09 |
 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 | 2021-07-16 |  |
 | [TIKI TAKA](https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Re:T\-ARA](https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU) | 3:16 | 2021-11-17 | 2021-11-20 |

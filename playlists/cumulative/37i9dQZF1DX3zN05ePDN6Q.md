@@ -4,7 +4,7 @@
 
 > Tem rap nacional e muito boom bap na área\. Foto: Uterço
 
-232 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
+233 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Tem Dias Que](https://open.spotify.com/track/4puE88rxsk6E2jmc1p9toN) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 5:19 | 2022-11-11 |  |
 | [Trajadx De Fé](https://open.spotify.com/track/5Z2T7gQOkNbU2aLuNakksa) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Eaedaddy](https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV) | [Alone](https://open.spotify.com/album/51ysxwMH0PQRS180bFxiMx) | 2:08 | 2022-03-18 | 2022-04-09 |
 | [Trânsito da Cidade](https://open.spotify.com/track/4pQgLONw1HQMxJ6apIyJK1) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Trânsito da Cidade](https://open.spotify.com/album/0ar4UsexhJOYDjoSJmusy7) | 2:40 | 2022-03-25 | 2022-07-29 |
-| [Trânsito da Cidade](https://open.spotify.com/track/5ho4sWitLTdIktXtHVV1Ei) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/6qJ9myq1bIRtr1Sdawtrfb) | 2:40 | 2022-07-22 |  |
+| [Trânsito da Cidade](https://open.spotify.com/track/50mIUQoOsK3JRmvqyHMnkC) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr) | 2:40 | 2022-12-09 |  |
+| [Trânsito da Cidade](https://open.spotify.com/track/5ho4sWitLTdIktXtHVV1Ei) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/6qJ9myq1bIRtr1Sdawtrfb) | 2:40 | 2022-07-22 | 2022-12-11 |
 | [Ubc](https://open.spotify.com/track/0g7HV8vyFH4csGSZGECNbZ) | [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [Moskitto](https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM), [Dr.Pre](https://open.spotify.com/artist/2VTspr2nCoSWbaQ2ewloGe), [Escobar Gaviria](https://open.spotify.com/artist/40YcPKCssgBCtKd1H24QZa), [Nathyzika](https://open.spotify.com/artist/5xaJ71NckHvzDzzNG5PGnU), [Nomade](https://open.spotify.com/artist/7xsnbzLJxZPS1v8uZaVsmh) | [Ubc](https://open.spotify.com/album/7aqnShQEFuHiPbkSiTGu33) | 5:41 | 2022-10-07 |  |
 | [Uh Damn](https://open.spotify.com/track/4WHBGJn6UDWq4B5WXpy8vE) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ), [Pedro Senna](https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu) | [Coisas Que Eu Só Falaria Brincando](https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE) | 3:04 | 2022-03-18 | 2022-04-16 |
 | [Um Fardo \(Speedup\)](https://open.spotify.com/track/4M6qPVMKH6G5OkG3iGqNnV) | [luqeta](https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ) | [Luq Speed Vision 2](https://open.spotify.com/album/66XyaMC5pKkxrIyvnHQbJg) | 1:07 | 2022-06-24 | 2022-07-02 |

@@ -1292,6 +1292,28 @@
     },
     {
       "album": {
+        "name": "Glass Gateway",
+        "url": "https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "XA4",
+          "url": "https://open.spotify.com/artist/5epNEZk4o1xmCKCH7WhmiC"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352181,
+      "name": "Etude No.12 (XA4 Remix)",
+      "url": "https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo"
+    },
+    {
+      "album": {
         "name": "Entanglement",
         "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
       },
@@ -3629,28 +3651,6 @@
       "duration_ms": 307228,
       "name": "Prayers",
       "url": "https://open.spotify.com/track/2vmjrsYw0g3fpoJkuIzh05"
-    },
-    {
-      "album": {
-        "name": "Glass Gateway",
-        "url": "https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "XA4",
-          "url": "https://open.spotify.com/artist/5epNEZk4o1xmCKCH7WhmiC"
-        }
-      ],
-      "date_added": "2022-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 315514,
-      "name": "Pro Gre Tra Gre",
-      "url": "https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo"
     },
     {
       "album": {

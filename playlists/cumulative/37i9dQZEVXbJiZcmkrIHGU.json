@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140252,
+      "name": "3 Monde",
+      "url": "https://open.spotify.com/track/21DO45JIwZIAsgxDtst1zC"
+    },
+    {
+      "album": {
         "name": "3 Tage am Meer",
         "url": "https://open.spotify.com/album/5TOXyNzX3TA44g9xizRrNQ"
       },
@@ -1990,6 +2008,24 @@
     },
     {
       "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166032,
+      "name": "Atmen",
+      "url": "https://open.spotify.com/track/1G2XjCiIxUMvARi86Xituw"
+    },
+    {
+      "album": {
         "name": "Audi Bande",
         "url": "https://open.spotify.com/album/2XlI3FjkhoVCHQYG1LgE6Z"
       },
@@ -3353,7 +3389,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 135424,
       "name": "BIELEFELD",
       "url": "https://open.spotify.com/track/1ukq3qBP7zOokVa3nEc9bR"
@@ -4570,6 +4606,24 @@
     },
     {
       "album": {
+        "name": "Buzz Down",
+        "url": "https://open.spotify.com/album/6UXiwMwG846ghIK9nJm29R"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161867,
+      "name": "Buzz Down",
+      "url": "https://open.spotify.com/track/7Je6BkJF9PnQ3lefOw1RrT"
+    },
+    {
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
       },
@@ -4643,7 +4697,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
@@ -5155,6 +5209,36 @@
       "duration_ms": 166095,
       "name": "COACHELLA",
       "url": "https://open.spotify.com/track/3gyRaifTaAoQrwtYiQu9ur"
+    },
+    {
+      "album": {
+        "name": "Coco 2.0",
+        "url": "https://open.spotify.com/album/1jKGlsEOAuusyYyvosy2c8"
+      },
+      "artists": [
+        {
+          "name": "Jala Brat",
+          "url": "https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Buba Corelli",
+          "url": "https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111143,
+      "name": "Coco 2.0",
+      "url": "https://open.spotify.com/track/2xdUcwkx9lENOslKOiz1eM"
     },
     {
       "album": {
@@ -7277,7 +7361,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
@@ -9137,7 +9221,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 145013,
       "name": "Follow",
       "url": "https://open.spotify.com/track/1DTVCRW8QPPteXXhBlohM2"
@@ -9781,6 +9865,28 @@
       "duration_ms": 158294,
       "name": "Ganxta im CD Regal",
       "url": "https://open.spotify.com/track/7mmPRDxLVerjUcnBndTzAW"
+    },
+    {
+      "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Estikay",
+          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165390,
+      "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
+      "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
     },
     {
       "album": {
@@ -11809,7 +11915,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -12787,7 +12893,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 172906,
       "name": "In der Weihnachtsb\u00e4ckerei",
       "url": "https://open.spotify.com/track/7gcKoI9KokClK9ZUjNFgZa"
@@ -14022,6 +14128,32 @@
     },
     {
       "album": {
+        "name": "Keinen gesehen",
+        "url": "https://open.spotify.com/album/4bouZurTAie8AHrpeWuROI"
+      },
+      "artists": [
+        {
+          "name": "Milonair",
+          "url": "https://open.spotify.com/artist/6AZfDB8isLU2sHkSm3sRhX"
+        },
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199946,
+      "name": "Keinen gesehen",
+      "url": "https://open.spotify.com/track/0U9sYUACqtsLwkjwKM1IsX"
+    },
+    {
+      "album": {
         "name": "Sampler 5",
         "url": "https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG"
       },
@@ -14709,6 +14841,28 @@
       "duration_ms": 241800,
       "name": "K\u00f6lsche Jung - Party Edit",
       "url": "https://open.spotify.com/track/3DQ4U7YOBorXDyaGraMBE7"
+    },
+    {
+      "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/6bp3WvyOFynXop1YtZX9IL"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        },
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "K\u00f6nnten diese W\u00e4nde reden (feat. Loredana)",
+      "url": "https://open.spotify.com/track/1bXjz0Nk1j7UKU0K6bn8Av"
     },
     {
       "album": {
@@ -15499,10 +15653,28 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 177123,
       "name": "Liebst du mich",
       "url": "https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY"
+    },
+    {
+      "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177123,
+      "name": "Liebst du mich",
+      "url": "https://open.spotify.com/track/2e8Y9puNglsJIEQbZIHA0t"
     },
     {
       "album": {
@@ -16946,6 +17118,28 @@
     },
     {
       "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195745,
+      "name": "Medizin (feat. Jamule)",
+      "url": "https://open.spotify.com/track/62KwUuB16yd6stRtZVVTz0"
+    },
+    {
+      "album": {
         "name": "Mehr als nur ein Fan",
         "url": "https://open.spotify.com/album/0mySe83USeA2xiPEw0JN8i"
       },
@@ -17533,7 +17727,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -18813,7 +19007,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 178973,
       "name": "Nachts wach",
       "url": "https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA"
@@ -19689,7 +19883,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 192000,
       "name": "Nur Dich",
       "url": "https://open.spotify.com/track/5f0jN8csP6MQ5kY9XPkd5M"
@@ -19743,7 +19937,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 192506,
       "name": "Nur f\u00fcr Dich",
       "url": "https://open.spotify.com/track/7y2CanQNBGTd7EVJy80hLC"
@@ -21277,7 +21471,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 142400,
       "name": "Powerade",
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
@@ -21914,6 +22108,28 @@
     },
     {
       "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/6bp3WvyOFynXop1YtZX9IL"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146358,
+      "name": "Rede mit mir (feat. Luciano)",
+      "url": "https://open.spotify.com/track/57uSoeDMpTFn6Mu6ucXKmW"
+    },
+    {
+      "album": {
         "name": "Redlight",
         "url": "https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e"
       },
@@ -22317,6 +22533,24 @@
       "duration_ms": 182106,
       "name": "Roid Rage",
       "url": "https://open.spotify.com/track/1NuypJsLPLx3sRGtq0U5rR"
+    },
+    {
+      "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159012,
+      "name": "Rollender Stein",
+      "url": "https://open.spotify.com/track/0o0UqqXf1SmFt3Vf6YV1k9"
     },
     {
       "album": {
@@ -23506,6 +23740,32 @@
     },
     {
       "album": {
+        "name": "SEVILLA (feat. Nimo & Summer Cem) [Remix]",
+        "url": "https://open.spotify.com/album/6qMGMekxHWzNvafQWYFBwO"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138331,
+      "name": "SEVILLA (feat. Nimo & Summer Cem) - Remix",
+      "url": "https://open.spotify.com/track/1Iit6nngiymUoQ7M2Ru9mM"
+    },
+    {
+      "album": {
         "name": "Shank on Me",
         "url": "https://open.spotify.com/album/4hxa4wTpOtkTMxoS0f1kyY"
       },
@@ -24647,7 +24907,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 236056,
       "name": "Sterne (feat. Bozza)",
       "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
@@ -25117,7 +25377,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -27417,6 +27677,24 @@
       "duration_ms": 183193,
       "name": "Versager",
       "url": "https://open.spotify.com/track/3iZuI8q4aTMACYxEoq0TaV"
+    },
+    {
+      "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183207,
+      "name": "Versager",
+      "url": "https://open.spotify.com/track/72egAK43077aLvJBfnbwEp"
     },
     {
       "album": {
@@ -29821,6 +30099,32 @@
       "duration_ms": 230829,
       "name": "Zukunft Pink (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
+    },
+    {
+      "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Karen",
+          "url": "https://open.spotify.com/artist/4sCAyOtOmFdleJ6fXsIsfb"
+        },
+        {
+          "name": "Tarek K.I.Z",
+          "url": "https://open.spotify.com/artist/0HXAyc6kXXdnrE8wdVwS5E"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160817,
+      "name": "Zwischen den Wolken (feat. Karen & Tarek K.I.Z)",
+      "url": "https://open.spotify.com/track/2VSsJgvIyjG32tT7hLPmIq"
     },
     {
       "album": {

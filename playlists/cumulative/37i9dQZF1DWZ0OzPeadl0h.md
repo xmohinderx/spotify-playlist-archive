@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-176 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+177 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 |  |
 | [Going Home](https://open.spotify.com/track/1vlt1z8Ez6SueIfCE2pm9A) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence](https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) | 4:50 | 2021-10-22 |  |
 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 | 2021-10-22 |  |
-| [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-10-22 |  |
+| [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-10-22 | 2022-12-11 |
+| [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 | 2021-10-22 |  |
 | [Grace](https://open.spotify.com/track/0KTE4DDmnAJZBxrkEaqlem) | [Kitt Philippa](https://open.spotify.com/artist/7vdR3mj5oI4T6PbnhWcxcX) | [You](https://open.spotify.com/album/0f5hAHIxaTxfUay3GOoNJs) | 2:58 | 2021-10-22 | 2022-11-14 |
 | [Grace](https://open.spotify.com/track/2LeM1rT4s2MuLQ4qPNMuub) | [Kitt Philippa](https://open.spotify.com/artist/7vdR3mj5oI4T6PbnhWcxcX) | [Human](https://open.spotify.com/album/6PKj0a16vjtJAaL0Au78eQ) | 2:58 | 2021-10-22 |  |
 | [Grace](https://open.spotify.com/track/4wtfiQUdHZSgi6fpy7Teqn) | [Kitt Philippa](https://open.spotify.com/artist/7vdR3mj5oI4T6PbnhWcxcX) | [Human](https://open.spotify.com/album/7ipnHJKBQdgjutJ3RnyABL) | 2:58 | 2021-10-22 | 2022-07-29 |

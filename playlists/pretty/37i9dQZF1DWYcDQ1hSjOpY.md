@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,694,874 likes - 336 songs - 16 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,695,602 likes - 336 songs - 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 37 | [Joie](https://open.spotify.com/track/1VmHLEPjlDmL3zCWQcygGC) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Joie](https://open.spotify.com/album/5VPBHff5jua2ebI7UIWquX) | 2:54 |
 | 38 | [Changes](https://open.spotify.com/track/5wlC59ql7RSgBjZAL9lOYc) | [Vinícius Énnae](https://open.spotify.com/artist/3kj0g7ata90ABzu9sHr5XD) | [Changes](https://open.spotify.com/album/3CV53NBLvCuGuGUN75RupY) | 3:06 |
 | 39 | [Heart On The Tree](https://open.spotify.com/track/3cGW4cNhCTp8FzftakSFVy) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 3:04 |
-| 40 | [Hamn](https://open.spotify.com/track/2KDxOFB8pVo6AdyOqAAK0d) | [Juliús Reis](https://open.spotify.com/artist/4gGuCmlhgQXVqu56mIYGes) | [Imprints](https://open.spotify.com/album/4Vr5W9t7IVcVP56YKdst9R) | 2:47 |
+| 40 | [Hamn](https://open.spotify.com/track/2KDxOFB8pVo6AdyOqAAK0d) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Imprints](https://open.spotify.com/album/4Vr5W9t7IVcVP56YKdst9R) | 2:47 |
 | 41 | [Soft Blend](https://open.spotify.com/track/62bbizSic7MEEfMFDJniE5) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Complex](https://open.spotify.com/album/0BhbkpkVvEbIF3zG8SEC16) | 2:11 |
 | 42 | [conscience explode](https://open.spotify.com/track/4SmdbOMZ4xlznR2lAb9mSd) | [Cicely Temple](https://open.spotify.com/artist/11rO7gnDUCwYoV0qZPNIHN) | [conscience explode](https://open.spotify.com/album/15N33b7y9XILgYH1JvsShv) | 2:50 |
 | 43 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 |

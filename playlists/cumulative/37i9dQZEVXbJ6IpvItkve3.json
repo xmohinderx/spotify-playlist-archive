@@ -2179,7 +2179,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -5117,7 +5117,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -7134,6 +7134,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d7\u05d6\u05d9\u05e7 \u05de\u05e2\u05de\u05d3",
+        "url": "https://open.spotify.com/album/2Nt6ImaS4uwBpG9bNBYoKi"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Klepter",
+          "url": "https://open.spotify.com/artist/5RgilsTbpogtECkhDgcOZh"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274040,
+      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/7JCBzQnhvHe13GF5rtRdEu"
+    },
+    {
+      "album": {
         "name": "\u05d3\u05e4\u05d5\u05e7 \u05e2\u05dd \u05ea\u05e2\u05d5\u05d3\u05d5\u05ea",
         "url": "https://open.spotify.com/album/5buFMh63algYBOJLbcxeyG"
       },
@@ -7149,6 +7167,24 @@
       "duration_ms": 188244,
       "name": "\u05d3\u05e4\u05d5\u05e7 \u05e2\u05dd \u05ea\u05e2\u05d5\u05d3\u05d5\u05ea",
       "url": "https://open.spotify.com/track/2Xl1BmPcZakzag2gIRs06i"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05e6\u05d7\u05e7",
+        "url": "https://open.spotify.com/album/0dl2TPbvZpVrl5SLazIx8q"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Klepter",
+          "url": "https://open.spotify.com/artist/5RgilsTbpogtECkhDgcOZh"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176746,
+      "name": "\u05d4\u05d0\u05d4\u05d1\u05d4 \u05e9\u05dc\u05d9 \u05d4\u05d9\u05d0 \u05dc\u05d0 \u05d4\u05d0\u05d4\u05d1\u05d4 \u05e9\u05dc\u05d5",
+      "url": "https://open.spotify.com/track/4dUsH8qTQM792u7K2Jac4Z"
     },
     {
       "album": {
@@ -7181,7 +7217,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 213333,
       "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
       "url": "https://open.spotify.com/track/26ffnwQVV4votOweWSwpeN"
@@ -8448,6 +8484,28 @@
     },
     {
       "album": {
+        "name": "\u05d9\u05e6\u05d7\u05e7, \u05dc\u05d1\u05d3, \u05de\u05d7\u05d6\u05d9\u05e7 \u05de\u05e2\u05de\u05d3 - \u05d0\u05d5\u05e1\u05e3",
+        "url": "https://open.spotify.com/album/37xgSs35rC7QczEFl8O9c7"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Klepter",
+          "url": "https://open.spotify.com/artist/5RgilsTbpogtECkhDgcOZh"
+        },
+        {
+          "name": "Tuned Tone",
+          "url": "https://open.spotify.com/artist/63IbjwUfWUh3rpOzO6ItHD"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222146,
+      "name": "\u05dc\u05d5\u05e7\u05d7 \u05ea'\u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/3uu3QjQnjWTAw1m9fFM5ca"
+    },
+    {
+      "album": {
         "name": "\u05e1\u05d8\u05d8\u05d5\u05e1",
         "url": "https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6"
       },
@@ -8603,7 +8661,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 158589,
       "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C"
@@ -8784,6 +8842,28 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d3\u05d1\u05e8\u05d9\u05dd \u05d1\u05e9\u05e7\u05d8 (\u05de\u05ea\u05d5\u05da \u05d7\u05d6\u05e8\u05d5\u05ea \u05dc\u05de\u05d5\u05e4\u05e2 NEXT)",
+        "url": "https://open.spotify.com/album/7M011HPciFztEdlXkJNzZ3"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Idan Raichel",
+          "url": "https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260073,
+      "name": "\u05de\u05d3\u05d1\u05e8\u05d9\u05dd \u05d1\u05e9\u05e7\u05d8 (\u05de\u05ea\u05d5\u05da \u05d7\u05d6\u05e8\u05d5\u05ea \u05dc\u05de\u05d5\u05e4\u05e2 NEXT)",
+      "url": "https://open.spotify.com/track/6tldCcfbfXkLApFllqab7S"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
         "url": "https://open.spotify.com/album/0Q13028sIQEmreai21rM4N"
       },
@@ -8813,7 +8893,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 204520,
       "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
       "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
@@ -8903,7 +8983,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 139875,
       "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
       "url": "https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG"
@@ -10338,6 +10418,24 @@
     },
     {
       "album": {
+        "name": "\u05e6\u05dc\u05d9\u05dc \u05de\u05db\u05d5\u05d5\u05df",
+        "url": "https://open.spotify.com/album/7Cv88GLXI7C2VM5nvh4LtN"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Klepter",
+          "url": "https://open.spotify.com/artist/5RgilsTbpogtECkhDgcOZh"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254826,
+      "name": "\u05e6\u05dc\u05d9\u05dc \u05de\u05db\u05d5\u05d5\u05df",
+      "url": "https://open.spotify.com/track/1T7TSRc6saBgcJmoalNVAu"
+    },
+    {
+      "album": {
         "name": "\u05e7\u05b7\u05e7\u05d8\u05d5\u05bc\u05e1",
         "url": "https://open.spotify.com/album/3HFOto3KuEor5MTBx1pYeg"
       },
@@ -11145,7 +11243,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 173500,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05e9\u05dc\u05da",
       "url": "https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB"

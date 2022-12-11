@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,369 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,386 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 32 | [karma](https://open.spotify.com/track/5SCBS0esfqeL54ZCw6Revb) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [karma](https://open.spotify.com/album/5tuUCB6Pgaf8BbS7rPquSJ) | 2:48 |
 | 33 | [Iced Coffee](https://open.spotify.com/track/0zH2HR19fqhvxCBzBPi6H2) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Iced Coffee](https://open.spotify.com/album/4eWF5c0nAas9soMtcpP3sj) | 2:35 |
 | 34 | [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 |
-| 35 | [Go Go Gadget Feat\. Marc E\. Bassy](https://open.spotify.com/track/5MJn7PREQVxQV0zzDEAUw3) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/3bnUQXYTmyk3b3JerLWmza) | 2:29 |
+| 35 | [Go Go Gadget](https://open.spotify.com/track/0LpqhIXxMm4VGXbybsNyBG) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/4xgOwzb89ZUFQ7U5lYGbcV) | 2:29 |
 | 36 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 |
 | 37 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 |
 | 38 | [dirty white chucks](https://open.spotify.com/track/1OPfgyxxTSpIBuIUORr6x9) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dirty white chucks](https://open.spotify.com/album/6CUvOeg6Sn0Lnhh6yiYwHN) | 2:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 69 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 |
 | 70 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDMzOTQ0OTBkYmU4YWJjZjcwMzk3MWEzYjMzNDY3ZjI4`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGI3ODJhMWFhMzU5ZGFiY2MwMTg4MzIzYmUwNGIyNDll`

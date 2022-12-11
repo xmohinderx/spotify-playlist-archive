@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,031 songs - 1 day 14 hr 59 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+1,032 songs - 1 day 15 hr 2 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,8 @@
 | [Lush](https://open.spotify.com/track/4WGxxS01HiqVidWgPF1W9t) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Lush](https://open.spotify.com/album/6xiwg1vxHD1r9Zp6sKZp4V) | 2:29 | 2022-09-16 |  |
 | [Luxem](https://open.spotify.com/track/7G6K6wus8NPuemQimVk0RZ) | [GM Nanashi](https://open.spotify.com/artist/3UGhltIiwrExCxs5CjJQFh) | [Luxem](https://open.spotify.com/album/3mv6InwNLFS6SFRA9tRMWV) | 3:13 | 2022-09-16 | 2022-09-23 |
 | [Madrid Rooftops](https://open.spotify.com/track/23YCK4La8rdnMaCJsKmASn) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Madrid Rooftops](https://open.spotify.com/album/7xc78kT0G37voamAL8lvxE) | 1:42 | 2022-08-19 |  |
-| [magic carpet](https://open.spotify.com/track/6dwDDqVN2XgPnirvrYGEW4) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [magic carpet](https://open.spotify.com/album/1RmYNGVXwvRrXIvFvP9K7R) | 2:36 | 2022-11-25 |  |
+| [magic carpet](https://open.spotify.com/track/6dwDDqVN2XgPnirvrYGEW4) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [magic carpet](https://open.spotify.com/album/1RmYNGVXwvRrXIvFvP9K7R) | 2:36 | 2022-11-25 | 2022-12-11 |
+| [magic carpet](https://open.spotify.com/track/6m7GJPzOoXkruUw4aIZSxC) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [magic carpet](https://open.spotify.com/album/7BLc4eJB3AwCkkdafmeQUV) | 2:36 | 2022-12-09 |  |
 | [magic hands](https://open.spotify.com/track/3V7GFUmncAqH8ypxsJUben) | [lokeyz](https://open.spotify.com/artist/5ssZUfuLKV5hyvux8k0VvJ) | [magic hands](https://open.spotify.com/album/6lVENqVP8tppoJO9BYIYPo) | 1:46 | 2022-01-27 | 2022-09-09 |
 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 | 2022-03-18 |  |
 | [Magical Dreams](https://open.spotify.com/track/1IJ6kStfmEO702IvVLNQcN) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Magical Dreams](https://open.spotify.com/album/6NxXFjCTLS3PbzGucGOAM5) | 1:39 | 2022-09-09 |  |

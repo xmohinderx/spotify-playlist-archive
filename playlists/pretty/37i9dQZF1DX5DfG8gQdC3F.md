@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from SZA \(pictured\), Lana Del Rey, A Boogie Wit da Hoodie, Alexander Stewart, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,683 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,770 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 62 | [Cœur blanc](https://open.spotify.com/track/5BwdbhIcQPWM7Vpo9ggAsx) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:56 |
 | 63 | [Otherside](https://open.spotify.com/track/0ycOWae1LGnbEuk4KHybI2) | [Constance](https://open.spotify.com/artist/6TkolBM4MZMH9ed7Vln8Tq) | [Otherside](https://open.spotify.com/album/4vetJonA4VUDluoOAKg61Y) | 3:50 |
 | 64 | [NWA](https://open.spotify.com/track/5aMQd5qYidZ7Y5y98vGwuo) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [NWA](https://open.spotify.com/album/3oLQ2x8g3dVJGWKkPXsvgv) | 2:19 |
-| 65 | [Yummy](https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Yummy](https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4) | 2:52 |
+| 65 | [Yummy](https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Yummy](https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4) | 2:49 |
 | 66 | [Fam Without Blood](https://open.spotify.com/track/1J4VJFAnnb55HrCfglZmF0) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Fam Without Blood](https://open.spotify.com/album/0BAZrp2yemAgUY2RiKQt3k) | 3:01 |
 | 67 | [Deep Sin](https://open.spotify.com/track/5wTNRd42CYTzIvQSRT7svE) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Deep Sin](https://open.spotify.com/album/0uFfJQZGgfmDzkkV1ePEu4) | 3:32 |
 | 68 | [Losing Ground](https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Tishmal](https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu) | [Losing Ground](https://open.spotify.com/album/2CLaKRjhzUhuIu8tLysXZq) | 4:33 |

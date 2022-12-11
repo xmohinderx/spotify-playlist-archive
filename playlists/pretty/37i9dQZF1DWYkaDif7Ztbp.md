@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH?si=nTMdrkJ2Sc\-Ks8DXEB30kQ"> Vigro Deep</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,007 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,865 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

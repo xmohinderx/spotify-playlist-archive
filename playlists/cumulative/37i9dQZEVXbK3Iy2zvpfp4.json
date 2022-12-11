@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -8391,7 +8391,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "Shut up My Moms Calling - (Sped Up)",
       "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
@@ -9651,7 +9651,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
@@ -10139,10 +10139,28 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 230900,
       "name": "we are the people tekkno",
       "url": "https://open.spotify.com/track/3gINWpBZCz4kBNF4sWTWqw"
+    },
+    {
+      "album": {
+        "name": "we are the people tekkno",
+        "url": "https://open.spotify.com/album/6YJvCTm0tziFeOreNxlJMq"
+      },
+      "artists": [
+        {
+          "name": "TEKKNO",
+          "url": "https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230900,
+      "name": "we are the people tekkno",
+      "url": "https://open.spotify.com/track/4irFsXHJKcQs3szSD2GDlo"
     },
     {
       "album": {
@@ -10737,7 +10755,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 148148,
       "name": "\u0422\u044b \u0438 \u042f",
       "url": "https://open.spotify.com/track/75C98tVaHUtjYZTIcy9U7U"

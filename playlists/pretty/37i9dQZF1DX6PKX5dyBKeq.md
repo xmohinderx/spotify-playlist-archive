@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > Are you a day 1 fan of your favourite rapper? Prove it!\. Rap UK Day 1 Club has just launched\. <a href='https://day1club\-uk.byspotify.com/'>Check it out.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,620 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,881 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 16 | [With Me Or Not?](https://open.spotify.com/track/5aG65oocwEoMRK01TyjVrS) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [With Me Or Not?](https://open.spotify.com/album/6arLuDdVw1BUjbBr98BSva) | 2:33 |
 | 17 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 |
 | 18 | [Drift](https://open.spotify.com/track/0UPRakQPnFH6xM1IJ03NHN) | [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe), [Tim & Barry](https://open.spotify.com/artist/7MdhgOG14jdWpchQuE14Ce), [Lil Sykes](https://open.spotify.com/artist/5g5NVl2cgscKSaIr1IdjZL) | [NO TOSS GIVEN](https://open.spotify.com/album/5tqhYZEWC7HK9SE6A68HRp) | 3:28 |
-| 19 | [One of a Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One of a Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 |
+| 19 | [One Of A Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One Of A Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 |
 | 20 | [Extra Sleeve](https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [The Last Whip II](https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ) | 3:35 |
 | 21 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 |
 | 22 | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |

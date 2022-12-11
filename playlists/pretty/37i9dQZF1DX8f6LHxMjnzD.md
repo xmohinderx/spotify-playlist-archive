@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: RM
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,268 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,399 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 24 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 |
 | 25 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 |
 | 26 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 |
-| 27 | [One of a Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One of a Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 |
+| 27 | [One Of A Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One Of A Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 |
 | 28 | [Wishlist](https://open.spotify.com/track/4WCOxwqS5NqmcGCO0FngNb) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Wishlist](https://open.spotify.com/album/4bJoRazDOrMpA58mF7n5HT) | 2:22 |
 | 29 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 |
 | 30 | [shade of blue \(feat\. Rxseboy, Tia Tia & Shalfi\)](https://open.spotify.com/track/11JLypXfGVfs314vav1JAB) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS), [Shalfi](https://open.spotify.com/artist/6HJqFsXnlWehSwPu6s4BAO) | [surrounded by hounds and serpents](https://open.spotify.com/album/5iFPxq21dVb6E7RFjBSYvG) | 2:28 |

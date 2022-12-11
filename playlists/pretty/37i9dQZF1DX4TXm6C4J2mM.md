@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 
 > Den perfekta mixade spellistan för träningspasset.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,807 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,801 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

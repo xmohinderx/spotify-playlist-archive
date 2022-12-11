@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-108 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+109 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Garden](https://open.spotify.com/track/38uqIeoKKlFxm2aH6SL73v) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/2owTqqcIqHbuOiOiv8Alji) | 3:12 | 2022-03-17 |  |
 | [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 3:12 | 2022-03-17 | 2022-10-14 |
 | [Go Ali Go](https://open.spotify.com/track/21pbWipcWfNFjwdgJyDKe0) | [Alicia Raye](https://open.spotify.com/artist/5JcE1g6GbiFOLEdxpM5nmZ) | [Go Ali Go](https://open.spotify.com/album/0fE6v0x1iZ7IiUDmuyUYRc) | 2:35 | 2022-03-17 |  |
-| [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-10-26 |  |
+| [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-10-26 | 2022-12-11 |
+| [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 | 2022-03-17 |  |
 | [Got Me](https://open.spotify.com/track/3mghKdqAomZMZKShUppmae) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Got Me](https://open.spotify.com/album/7s073AT8XNarGOBLruWghZ) | 3:26 | 2021-10-26 | 2022-03-17 |
 | [Green Lights](https://open.spotify.com/track/6uMKj7sKjHkq6XorfAe3f1) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There EP](https://open.spotify.com/album/1ujdCeZ7tE7MP3xnQX3ZuP) | 3:49 | 2021-10-26 | 2022-03-17 |
 | [Haunted](https://open.spotify.com/track/3Srd38wfxJNDIt0Tdf99IB) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Haunted](https://open.spotify.com/album/2ES6I1Sdy9a71eKqipZogB) | 3:35 | 2022-03-17 |  |

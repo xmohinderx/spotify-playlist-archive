@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Matheus Fernandes com Xamã e Papatinho, NATTAN, Lana Del Rey e mais!
 
-4,274 songs - 9 day 4 hr 32 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+4,274 songs - 9 day 4 hr 31 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2337,7 +2337,7 @@
 | [MIMADA](https://open.spotify.com/track/1rDPo42RoGTQR5TYDFhrKP) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [MIMADA](https://open.spotify.com/album/544PEkNZtbO36sHUEUdfSu) | 2:20 | 2022-09-23 | 2022-10-01 |
 | [Mimimi](https://open.spotify.com/track/1aYDclF2YzvaX5FBzS2oKe) | [Thiago & Graciano](https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Mimimi](https://open.spotify.com/album/2rg1g12Gexy23oERwjHxtB) | 2:29 | 2022-03-18 | 2022-03-26 |
 | [Mina Sensação](https://open.spotify.com/track/0Q88YwEhAAOli0lAWxbD14) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM), [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Mina Sensação](https://open.spotify.com/album/1I7TUGpPCQApsoCtygSw6F) | 2:10 | 2022-09-30 | 2022-10-08 |
-| [Minha Condição \- Ao Vivo](https://open.spotify.com/track/4m9nJYQrcgtRMQl1tI4Byw) | [Thiago Aquino](https://open.spotify.com/artist/7yPoxj2lXWy7J4ixQHVubk), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Minha Condição \(Ao Vivo\)](https://open.spotify.com/album/2AZm7TqUKZJwluwniKQo1I) | 3:29 | 2022-12-09 |  |
+| [Minha Condição \- Ao Vivo](https://open.spotify.com/track/4m9nJYQrcgtRMQl1tI4Byw) | [Thiago Aquino](https://open.spotify.com/artist/7yPoxj2lXWy7J4ixQHVubk), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Minha Condição \(Ao Vivo\)](https://open.spotify.com/album/2AZm7TqUKZJwluwniKQo1I) | 3:25 | 2022-12-09 |  |
 | [Minha Cópia Atual \- Ao Vivo](https://open.spotify.com/track/4HpRywZJgzkXXYLKJ0mLiY) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 6\)](https://open.spotify.com/album/5Z5Y76DPTwvgg02i4gS6OT) | 3:03 | 2022-04-01 | 2022-04-09 |
 | [Minha Ex Me Odeia](https://open.spotify.com/track/7i3QcmtAlcyLIfpXgo7BAm) | [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR), [MC Belga ST](https://open.spotify.com/artist/6vSSGJblDBRsfGL5RfsUVm) | [Minha Ex Me Odeia](https://open.spotify.com/album/2lzUQbcWoWllrmu0eb95x6) | 3:45 | 2022-02-25 | 2022-03-05 |
 | [Minha Glock](https://open.spotify.com/track/4Lf1HXYM8guW14GlSnGqy7) | [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp), [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [Mc Vh Diniz](https://open.spotify.com/artist/5jJWDuZUhCy7cP7BH6Thf0), [Mc Gebe](https://open.spotify.com/artist/633d3XXJxSlkxnQfDpYwPW) | [Minha Glock](https://open.spotify.com/album/13ay3g39ay8ClgZFkPKrJd) | 2:58 | 2022-07-01 | 2022-07-09 |

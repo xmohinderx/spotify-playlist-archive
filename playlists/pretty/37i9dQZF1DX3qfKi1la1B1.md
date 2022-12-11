@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,247 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,277 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 6 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/2CwCFiP0e7pMifbg8LwYkr) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/0G4dt3QAptKXnpru2yEioj) | 3:17 |
 | 7 | [Sea Lions](https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pink Balloon / Sea Lions](https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0) | 5:19 |
 | 8 | [Real Good \- Kan Sano Remix](https://open.spotify.com/track/0i8cpVrAhgU8AVUbbksw8o) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Real Good \(Kan Sano Remix\)](https://open.spotify.com/album/0EWaHIvuG9d95xvmPTy2rR) | 3:08 |
-| 9 | [River](https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [River \(Live in Studio\)](https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk) | 4:03 |
+| 9 | [River \- Live in Studio](https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [River \(Live in Studio\)](https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk) | 4:03 |
 | 10 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
 | 11 | [LMKWYGH](https://open.spotify.com/track/2wiIWQzSZ06GbgkABk4pT6) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 6:15 |
 | 12 | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc) | 4:17 |

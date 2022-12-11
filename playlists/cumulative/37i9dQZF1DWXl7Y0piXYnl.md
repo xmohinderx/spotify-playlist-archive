@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-95 songs - 7 hr 3 min - not published yet
+96 songs - 7 hr 8 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 | 2022-11-24 |  |
 | [Delirio](https://open.spotify.com/track/6s3dcu8YI2WXvNIbxNvhsI) | [Bitter Babe](https://open.spotify.com/artist/59wTkFdKKx7y6z4PFfRGhW), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Delirio](https://open.spotify.com/album/5omKkUB5uhvSiiiyQQJiKM) | 4:27 | 2022-11-24 |  |
 | [Digital Them](https://open.spotify.com/track/6pbMw79R8vAMYvOrAuCuJ9) | [E\-Saggila](https://open.spotify.com/artist/2TGknI5Y6WbbxgvzVodku6) | [Blaze](https://open.spotify.com/album/5imr4nLw9J2Pbt0G4eXZYD) | 4:35 | 2022-10-27 |  |
-| [Dis One](https://open.spotify.com/track/223Xljr12WlVSruqPtxsdW) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Golden Monkey EP](https://open.spotify.com/album/6DI4NaHB9hdEtreyolaezI) | 5:29 | 2022-11-24 |  |
+| [Dis One](https://open.spotify.com/track/223Xljr12WlVSruqPtxsdW) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Golden Monkey EP](https://open.spotify.com/album/6DI4NaHB9hdEtreyolaezI) | 5:29 | 2022-11-24 | 2022-12-11 |
+| [Dis One](https://open.spotify.com/track/33VmiG89aDELtm0R7zTTJy) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Golden Monkey \- EP](https://open.spotify.com/album/05qhU8ch8mi4MpCV5NcGuN) | 5:29 | 2022-11-24 |  |
 | [DOLO 20](https://open.spotify.com/track/6HDGvWWRuVroFCyhuIp5b3) | [Dolo Percussion](https://open.spotify.com/artist/5FqcBM8zqtOBgofGNm2Ij9) | [DOLO 5](https://open.spotify.com/album/3Fxr8l876K9G5PKslxDEy5) | 4:22 | 2022-10-27 |  |
 | [DOOM HYPE](https://open.spotify.com/track/5imLtAtvD8FnYFqDh60QxQ) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 4:06 | 2022-10-27 |  |
 | [DOOM HYPE](https://open.spotify.com/track/653qG3PC58QJmSIY8J1leL) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 4:06 | 2022-10-27 | 2022-11-20 |

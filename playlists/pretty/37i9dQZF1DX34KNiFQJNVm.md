@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus Fernandes com Xamã e Papatinho, NATTAN, Lana Del Rey e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,801,747 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,802,082 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 27 | [Braba do Rolê \- Ao Vivo](https://open.spotify.com/track/234g2z9CT5Sv5BFnVWsTam) | [Gabriel Gadelha](https://open.spotify.com/artist/7rn7EcrpdAvTnVqFlOXaBS), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Braba do Rolê](https://open.spotify.com/album/6Wamk0woT8KEQluqxiVPSk) | 2:31 |
 | 28 | [Ta Baratinho Não \(No 12\) \- Ao Vivo](https://open.spotify.com/track/2osKviuJDAeNJVUYPVGfbF) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Ta Baratinho Não \(No 12\) \[Ao Vivo\]](https://open.spotify.com/album/3unIKkLJxf6SJmSfuE0KH8) | 2:51 |
 | 29 | [Coração Sóbrio \- Ao Vivo](https://open.spotify.com/track/5w7TofoEAWjOoUpMjvYYNl) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 3:02 |
-| 30 | [Minha Condição \- Ao Vivo](https://open.spotify.com/track/4m9nJYQrcgtRMQl1tI4Byw) | [Thiago Aquino](https://open.spotify.com/artist/7yPoxj2lXWy7J4ixQHVubk), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Minha Condição \(Ao Vivo\)](https://open.spotify.com/album/2AZm7TqUKZJwluwniKQo1I) | 3:29 |
+| 30 | [Minha Condição \- Ao Vivo](https://open.spotify.com/track/4m9nJYQrcgtRMQl1tI4Byw) | [Thiago Aquino](https://open.spotify.com/artist/7yPoxj2lXWy7J4ixQHVubk), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Minha Condição \(Ao Vivo\)](https://open.spotify.com/album/2AZm7TqUKZJwluwniKQo1I) | 3:25 |
 | 31 | [Campo De Visão \- Ao Vivo](https://open.spotify.com/track/2W9n09duC1WwMeiABZ7Ilr) | [Vinny Santa Fé](https://open.spotify.com/artist/19A5pgqDMOLR3hHZ1Piv8d) | [Casa Do Santa \(Ao Vivo\)](https://open.spotify.com/album/2saMZGbxZ3pi4f8Y2xFKgq) | 4:03 |
 | 32 | [Saudade Dos Seus Olhos](https://open.spotify.com/track/3VOoxF5I7G4EajTaQ7GMSp) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Dudu Nobre](https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD) | [Saudade Dos Seus Olhos](https://open.spotify.com/album/2NEUSpWCeC2e7EOgLP0qRL) | 3:40 |
 | 33 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 |

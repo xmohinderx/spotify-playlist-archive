@@ -4,14 +4,15 @@
 
 > Kickass Metal Presents..\. The Best Metal Songs of 2022\. Cover: Ghost<br/>\#SpotifyWrapped
 
-100 songs - 6 hr 28 min - not published yet
+101 songs - 6 hr 33 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AfterLife](https://open.spotify.com/track/40gGeC397vLmz4eETZDSrG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:03 | 2022-11-30 |  |
 | [Bad Idea](https://open.spotify.com/track/39JFZqlhh6y23lXowen3CE) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:12 | 2022-11-30 |  |
 | [Bad Things](https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:48 | 2022-11-30 |  |
-| [Believe](https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Believe](https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9) | 4:36 | 2022-11-30 |  |
+| [Believe](https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Believe](https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9) | 4:36 | 2022-11-30 | 2022-12-11 |
+| [Believe](https://open.spotify.com/track/6NdcU1BYB4jxXBn88OTeAH) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Best Of Me](https://open.spotify.com/album/0hCgFa5oQgotbahA3C4gzb) | 4:36 | 2022-11-30 |  |
 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 | 2022-11-30 |  |
 | [Black Thunder](https://open.spotify.com/track/33gupGx5kg9IuxxmblkRew) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Rumble Of Thunder](https://open.spotify.com/album/5gqOvY9dUDP8JQygMUYPTn) | 4:15 | 2022-11-30 |  |
 | [Blessings Upon The Throne Of Tyranny \- Remixed & Remastered](https://open.spotify.com/track/1kZN785OeP13ZUkFYdBGC8) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia \(Remixed & Remastered\)](https://open.spotify.com/album/5MqN56Ebc9XAkrHqK6aH8X) | 5:22 | 2022-11-30 |  |

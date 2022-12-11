@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,692 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,732 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 26 | [To Be Alone](https://open.spotify.com/track/2rMRJx6otE8fMl5hXQn91g) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:36 |
 | 27 | [Revvin' My Cj7 \- Juniper Version](https://open.spotify.com/track/7hxIicKl9uy1IRHhthOCnt) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [The Juniper Songbook](https://open.spotify.com/album/6HmJiODv0iTye63TG2g4h0) | 3:20 |
 | 28 | [Won't Let Go](https://open.spotify.com/track/7J2PKevNeTneR2gPdc5EBg) | [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Won't Let Go](https://open.spotify.com/album/4s2LOOskqLO04nW8j4FLW4) | 2:22 |
-| 29 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 |
+| 29 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:23 |
 | 30 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 |
 | 31 | [Breathe](https://open.spotify.com/track/0x1TV5GIh3Bb1uOHGM8CPV) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/4xWtA8LqGtCavhLcd6dSqt) | 2:17 |
 | 32 | [The One You Need](https://open.spotify.com/track/6ZfWLg7DPFHjIAYrvIP4LZ) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK) | 2:17 |
 | 100 | [Run on Ahead](https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Run on Ahead](https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8) | 4:41 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDZlOTNmYmFmNzJjMWUzOTg3ZTU0MTk1NGIzNjdmM2Zl`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDUzMjViZmJhYWY2ZDg2ZjA4NzJhNDJiZjEyY2I3ZjVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,471 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,487 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

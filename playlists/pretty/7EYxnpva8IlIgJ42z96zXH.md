@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,534 likes - 60 songs - 3 hr 21 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,527 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 6 | [Find a Little Love, Love](https://open.spotify.com/track/4DwKtRyGPOnlFBuW8IdgMk) | [ABG](https://open.spotify.com/artist/6wG0OC1um2nNfcat45D2GT), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Find a Little Love, Love](https://open.spotify.com/album/7yf5nFCnlZOUrTNjy9NJRU) | 3:16 |
 | 7 | [Break My Heart](https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Break My Heart](https://open.spotify.com/album/60I1UREM36C6JxSVPJT1nz) | 2:59 |
 | 8 | [Cranky Boy \(feat\. Mickey Kojak\) \- Mickey Kojak Remix](https://open.spotify.com/track/1U5Xq0T8YynbPza134RYsC) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje), [Mickey Kojak](https://open.spotify.com/artist/5poMDCBflvu2tgtA0CRF17) | [Cranky Boy \(Remixes\)](https://open.spotify.com/album/22RYHkcJM7hCVRvdywIm4f) | 4:35 |
-| 9 | [hace ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 |
+| 9 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 |
 | 10 | [A Thousand Golden People](https://open.spotify.com/track/36Oc2jTc0DcCoWXQRur7lA) | [Adult Art Club](https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl) | [A Thousand Golden People](https://open.spotify.com/album/3cBfuYo2EekRF6a5NAb6Rv) | 3:08 |
 | 11 | [It Was You](https://open.spotify.com/track/0mj133z9qx9G0r41qIai9U) | [ZOLLY](https://open.spotify.com/artist/0R3pc6Lw83AAoBRBnOALxL), [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [It Was You](https://open.spotify.com/album/1Rj8NnCRP0ZbWh1JLJV498) | 4:31 |
 | 12 | [Behind These Hazel Eyes](https://open.spotify.com/track/1snwbIFzhiPvpodAbvNJpi) | [Bounce Projectz](https://open.spotify.com/artist/3nQthw8h6ExuXWB7E6c3PQ) | [Behind These Hazel Eyes](https://open.spotify.com/album/38t6RciouD0GiLWdGz30bq) | 3:17 |

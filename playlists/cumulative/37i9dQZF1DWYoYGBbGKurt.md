@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-1,265 songs - 2 day 0 hr 41 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+1,266 songs - 2 day 0 hr 44 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,8 @@
 | [Inside Your Mind](https://open.spotify.com/track/2nN9CoveYsHheIytXpojJx) | [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Inside Your Mind](https://open.spotify.com/album/3Q8DmfwOF4W4veG00b5Yue) | 2:21 | 2022-11-11 |  |
 | [intentions](https://open.spotify.com/track/7an4nPcSCnHX3BZBPJsMON) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [intentions](https://open.spotify.com/album/4k2f1pwo3sQrePxO8LSP3v) | 2:18 | 2021-12-07 | 2022-09-10 |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2021-12-07 |  |
-| [invisible](https://open.spotify.com/track/03d83T4D00BmAHrfLYP31x) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3cH66gdtJbU2hvF04ZS6cN) | 3:06 | 2022-12-09 |  |
+| [invisible](https://open.spotify.com/track/03d83T4D00BmAHrfLYP31x) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3cH66gdtJbU2hvF04ZS6cN) | 3:06 | 2022-12-09 | 2022-12-11 |
+| [invisible](https://open.spotify.com/track/2tVqVeui93tpUnyw1AuWsI) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [invisible](https://open.spotify.com/album/3BLrcNKCSk0fE5zx5ethjb) | 3:06 | 2022-12-09 |  |
 | [Island Broadcast](https://open.spotify.com/track/0i4Uf0eDOCZjrczVPutsDA) | [Helynt](https://open.spotify.com/artist/6wM3tYsLm3LMfEKIkl5SmY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Our New Horizons](https://open.spotify.com/album/7KCzNyefvJazaJrZEoTg1P) | 2:25 | 2022-04-15 | 2022-07-15 |
 | [It Feels Right](https://open.spotify.com/track/1nRWpQ6hdE7lgGOJg5rnSt) | [Taste Of Purple](https://open.spotify.com/artist/29ulLEQloQJrmKG4HHBmBa) | [Hip Hope](https://open.spotify.com/album/5obALIk6zsK0gYEiM0YwkU) | 1:42 | 2022-04-15 |  |
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2021-12-07 | 2022-09-23 |

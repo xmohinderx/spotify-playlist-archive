@@ -4,14 +4,15 @@
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 44 min - not published yet
+59 songs - 2 hr 46 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Addiction \(feat\. Lil Wayne & Saweetie\)](https://open.spotify.com/track/6iIQFnknhqitV3qJXICseF) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [K.R.I.T\. IZ HERE](https://open.spotify.com/album/1KvZT4NZm69EkOym8rLqW1) | 2:49 | 2022-10-28 |  |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 | 2022-10-28 |  |
 | [B\*tch From Da Souf \(Remix\)](https://open.spotify.com/track/2zUbimuKNWDMCwbqNauLWV) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [B\*tch From Da Souf \(Remix\)](https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy) | 3:44 | 2022-10-28 |  |
-| [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 | 2022-10-28 |  |
+| [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-12-10 |  |
+| [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 | 2022-10-28 | 2022-12-11 |
 | [Back Seat](https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 3:03 | 2022-10-28 |  |
 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 | 2022-10-28 |  |
 | [Baila Conmigo](https://open.spotify.com/track/2sJHeAvFZ58o3Z6CB56EdU) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Baila Conmigo](https://open.spotify.com/album/3pcIJIuMpyw7L2fxGETbzk) | 2:35 | 2022-10-28 | 2022-11-21 |

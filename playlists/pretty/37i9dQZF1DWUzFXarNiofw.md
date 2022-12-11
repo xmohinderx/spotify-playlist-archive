@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Lucky Daye
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,754 likes - 115 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,208 likes - 115 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 30 | [Dinner Table](https://open.spotify.com/track/5BI42WLndbA5yLiCllZAzW) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Maybe I’m Best Alone](https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt) | 1:58 |
 | 31 | [Screamin'](https://open.spotify.com/track/3xhN99234Mw8VmDLbgefpK) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Screamin'](https://open.spotify.com/album/6oFhyfcgeUYXuTW1xh5ZvM) | 3:25 |
 | 32 | [Till You Gone](https://open.spotify.com/track/5scanKf4LlPjAxepTNNMX9) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [Till You Gone](https://open.spotify.com/album/5ELQiagyY7brk2vdQKWIKz) | 2:59 |
-| 33 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/2uD2svsrGQsyfgGIYDld6U) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 |
+| 33 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 |
 | 34 | [Would You](https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J) | [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Would You](https://open.spotify.com/album/1Xrb0PD8vHAnH3T6c0m2e1) | 3:12 |
 | 35 | [Heal For Once](https://open.spotify.com/track/7szpte7noi2QMjCxQ3Ds37) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Heal For Once](https://open.spotify.com/album/4dqMqxvdnIPqlIcngFA09u) | 3:31 |
 | 36 | [Call the Bluff](https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [Call the Bluff](https://open.spotify.com/album/0bF7alIKHRjRFun26Bs8uv) | 2:59 |

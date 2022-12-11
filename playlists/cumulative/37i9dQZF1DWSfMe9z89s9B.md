@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Casper Sage
 
-691 songs - 1 day 13 hr 20 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+692 songs - 1 day 13 hr 21 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Gold \(feat\. Sampa the Great & 18YOMAN\)](https://open.spotify.com/track/4qMjKHonb3kzSgPEDFnYiH) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [18YOMAN](https://open.spotify.com/artist/1kkusjDKjb6nnVqRkc27sO) | [Gold \(feat\. Sampa the Great & 18YOMAN\)](https://open.spotify.com/album/1i5sOU9cquAvVK2ODcOX4S) | 3:12 | 2021-06-25 | 2022-01-23 |
 | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub) | 3:55 | 2021-04-02 | 2022-04-10 |
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-03-19 | 2022-04-26 |
-| [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 | 2022-12-10 |  |
+| [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 | 2022-12-09 |  |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-03-19 | 2022-07-16 |
 | [Good Life](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 | 2022-04-01 | 2022-07-29 |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-06-04 | 2022-07-27 |
@@ -528,7 +528,7 @@
 | [Same Size Shoe](https://open.spotify.com/track/0dedT0AfVJO8ebgLee0prY) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Same Size Shoe](https://open.spotify.com/album/6DxjcIJ9NR4LPZpyDqGVvw) | 3:30 | 2021-03-19 | 2022-01-06 |
 | [Satellites](https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 4:25 | 2022-07-15 |  |
 | [Save My Number](https://open.spotify.com/track/2NCcyscxO8FRjfycY1xCa2) | [Lance Skiiiwalker](https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Tales From The Telescope Chapter 2: Internal Shine](https://open.spotify.com/album/08MjfVgkdqINsqCeY67xaG) | 2:39 | 2022-07-15 | 2022-07-29 |
-| [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 |  |
+| [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 | 2022-12-11 |
 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 | 2021-03-19 | 2022-08-06 |
 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 | 2022-09-30 |  |
 | [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 | 2022-10-07 |  |
@@ -611,6 +611,7 @@
 | [Tennis Courts](https://open.spotify.com/track/7FSHUkLuZipISCAvdgxEc2) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Tennis Courts](https://open.spotify.com/album/7tKJHyWwrh0KIkTRo2KMOW) | 3:00 | 2022-04-01 | 2022-08-09 |
 | [Terracotta](https://open.spotify.com/track/0ACJFbxNaMKlGrCCuWHLLn) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Siamese](https://open.spotify.com/album/3g1yzxidCjV1HVC7Gic1q1) | 4:04 | 2022-04-01 | 2022-04-14 |
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2022-04-01 | 2022-04-13 |
+| [The Bloom](https://open.spotify.com/track/6fdzX7Qy7LN5uaJ0ukH6p5) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [ULTRAMARINE](https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW) | 1:54 | 2022-12-10 |  |
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-03-19 | 2022-07-30 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-11-05 |  |
 | [The Greatest Smile](https://open.spotify.com/track/2IpRdVSZln1OqYEyajRccA) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Today & Tomorrow](https://open.spotify.com/album/7A6aNtppf2VKZE9xTnvm7z) | 4:40 | 2022-11-11 | 2022-11-19 |

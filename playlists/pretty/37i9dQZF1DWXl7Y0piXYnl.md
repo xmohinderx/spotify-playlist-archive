@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,782 likes - 70 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,806 likes - 70 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dis One](https://open.spotify.com/track/223Xljr12WlVSruqPtxsdW) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Golden Monkey EP](https://open.spotify.com/album/6DI4NaHB9hdEtreyolaezI) | 5:29 |
+| 1 | [Dis One](https://open.spotify.com/track/33VmiG89aDELtm0R7zTTJy) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Golden Monkey \- EP](https://open.spotify.com/album/05qhU8ch8mi4MpCV5NcGuN) | 5:29 |
 | 2 | [Living with Elvis](https://open.spotify.com/track/7MpULkHDYWlmNpogc6RHmp) | [Soda Plains](https://open.spotify.com/artist/5HhWwA2scJlT05BYYtZk9w) | [Living with Elvis](https://open.spotify.com/album/3l0UiGPKsX8bqf136NtFeZ) | 4:53 |
 | 3 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 |
 | 4 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Vidsutni](https://open.spotify.com/track/08mYpNREJeflSGbZ3MYxXB) | [Katarina Gryvul](https://open.spotify.com/artist/60g5BHTwPOOmWMuyRc245e) | [Tysha](https://open.spotify.com/album/4Gm3ffKcdtdlTIImLFaVVX) | 4:03 |
 | 70 | [The Wolf, The Sheep & The Door](https://open.spotify.com/track/6tKC4JNF0dhp9m2zRJRhLp) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [Skimskitta](https://open.spotify.com/album/5kACGQbTuUZZyNHl87iK4p) | 6:08 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDYyNjE3ZmJjODM2YmUzOTg4MTk4YjZmNDkwZDFjNTky`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGQ0ODg0MzZjZjYzOGQ0NjU2MDY0MTE4NzJiNDM5ODNl`

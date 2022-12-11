@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:7gW0r5CkdEUMm42w9XpyZO">Laufey</a> shares her jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,082 likes - 30 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,187 likes - 30 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

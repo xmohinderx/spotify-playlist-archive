@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,244 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,340 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 82 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 |
 | 83 | [Wake Up Pts\. 1 & 2](https://open.spotify.com/track/5XkMROoPgSETi2VNlfjkqy) | [Pure Essence](https://open.spotify.com/artist/4xCpzpNTRGwmvXvfttdhLn) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 6:08 |
 | 84 | [Free Your Mind](https://open.spotify.com/track/0NnskZoHyK1fgK4wy3DQ7E) | [Record Player](https://open.spotify.com/artist/4UfgH6qo2MpDAkkrTWcULS) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 3:50 |
-| 85 | [We Need Peace And Love](https://open.spotify.com/track/2Ci4Nr1IydpEq9j3u7gOB3) | [The L.A\. Carnival](https://open.spotify.com/artist/2x7xrFl3TkJL3OBaz5ULT0) | [Would Like To Pose A Question](https://open.spotify.com/album/7ufsMArJeoaEYtfyBNB0cL) | 4:03 |
+| 85 | [We Need Peace And Love](https://open.spotify.com/track/2Ci4Nr1IydpEq9j3u7gOB3) | [L.A\. Carnival](https://open.spotify.com/artist/1dz6wxFknhBzp8fZNP6Wlb) | [Would Like To Pose A Question](https://open.spotify.com/album/7ufsMArJeoaEYtfyBNB0cL) | 4:03 |
 | 86 | [Moment of Truth](https://open.spotify.com/track/6awk6CZQT29sMARUrszTc7) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Earth, Wind & Fire](https://open.spotify.com/album/2hzWzBtuhlpa9qGwtoAtzB) | 3:12 |
 | 87 | [If It Ain't Funky](https://open.spotify.com/track/5xLqifhKZLv724YpWls2kJ) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [Bustin' Loose](https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub) | 6:04 |
 | 88 | [You and Me](https://open.spotify.com/track/3qmPESdkRVY6qWrIQpuBQM) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e), [Jimmy Douglas](https://open.spotify.com/artist/2kLF5OqO9KpxWZl9bPy8hj) | [Slave](https://open.spotify.com/album/6FD0UvvoVyO4KF0KhqFdM1) | 6:41 |

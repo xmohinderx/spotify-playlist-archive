@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Varisu
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,877 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,969 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 |
-| 2 | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 3:42 |
+| 2 | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 3:42 |
 | 3 | [Ennai Vittu](https://open.spotify.com/track/4FOCZFqxIS1Xc5JWla5VNj) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 4:04 |
 | 4 | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 |
 | 5 | [Mallipoo](https://open.spotify.com/track/3i7qScF9Oyp31O9bAutJez) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Vendhu Thanindhathu Kaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4) | 4:05 |

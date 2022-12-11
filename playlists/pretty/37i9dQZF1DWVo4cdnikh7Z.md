@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Thunivu
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,136 likes - 82 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,657 likes - 82 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 3:42 |
+| 1 | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 3:42 |
 | 2 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 |
 | 3 | [Vaa Vaathi](https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p) | 3:45 |
 | 4 | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 |

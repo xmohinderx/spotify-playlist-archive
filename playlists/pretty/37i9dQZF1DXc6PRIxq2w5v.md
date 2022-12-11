@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,095 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,156 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MORADIA](https://open.spotify.com/track/5BU7c2aD5wDoUg0vhY6zdn) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [borbabeatz](https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM) | [COLAPSO](https://open.spotify.com/album/3GbiPp0Xbi3yQNzC8WTENZ) | 2:08 |
+| 1 | [MORADIA](https://open.spotify.com/track/5BU7c2aD5wDoUg0vhY6zdn) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [borbabeatz](https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM) | [COLAPSO](https://open.spotify.com/album/3GbiPp0Xbi3yQNzC8WTENZ) | 3:02 |
 | 2 | [Carta pra Deus](https://open.spotify.com/track/6OeBK3dJroqoXOHZLitRpW) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Carta pra Deus](https://open.spotify.com/album/02VhIWlMpu9QwldivpcXWn) | 3:04 |
 | 3 | [Terra Prometida](https://open.spotify.com/track/2HNTWEJx0FtU6UQfT01VR1) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Zack Vox](https://open.spotify.com/artist/0y7p9FFFrFIHUfSgaeF9hR), [Marcin](https://open.spotify.com/artist/7aqyet29QYmprf0i3n9kqU), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Terra Prometida](https://open.spotify.com/album/3JQ0qcFa7gDWy2MULfJ1RY) | 3:13 |
 | 4 | [Prazer Jesus](https://open.spotify.com/track/2x5SsYLKlvQdlq7ozUdfJn) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Prazer Jesus](https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt) | 2:38 |

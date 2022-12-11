@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Kat & Alex
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,513 likes - 92 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,525 likes - 92 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 78 | [I Can't Even Drink Straight](https://open.spotify.com/track/07hSFiKCVTEOxjRn5agBkS) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [I Can't Even Drink Straight](https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD) | 3:26 |
 | 79 | [Anybody Else \- Latin Remix](https://open.spotify.com/track/0HvfTzdXOpyoUtayGyvLyn) | [Mira Goto](https://open.spotify.com/artist/4QsATL0ozR4un64TltaF7o), [Pamela Velez](https://open.spotify.com/artist/3nxx6KxCTRLcdlW4vFRy4U), [Nia Skyfer](https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN) | [Anybody Else \(Latin Remix\)](https://open.spotify.com/album/4XidZG19fylj92RfMH3fl0) | 2:00 |
 | 80 | [Made Me Cry](https://open.spotify.com/track/4BHiDQEOsguauSBmNyQZPv) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Made Me Cry](https://open.spotify.com/album/5X1C3UxSZamJ2Kc6iMILq4) | 3:24 |
-| 81 | [Ring of Fire](https://open.spotify.com/track/0s62CMcYQzqro7kFKCVIAd) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [Country from another country](https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W) | 3:42 |
+| 81 | [Ring of Fire](https://open.spotify.com/track/0s62CMcYQzqro7kFKCVIAd) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [Country from another Country](https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W) | 3:42 |
 | 82 | [If I Don't](https://open.spotify.com/track/0u340rUGhfVFoq9TMcslmD) | [Hayley Orrantia](https://open.spotify.com/artist/6Ba7gb6RPgcbbWCQY7N8Dx) | [If I Don't](https://open.spotify.com/album/4bN4XhEzN22vgDdXvGIVE5) | 3:47 |
 | 83 | [Achy Breaky Heart 25 \(Spanglish\) \[feat\. Jencarlos Canela\]](https://open.spotify.com/track/6AJJN8totfQ19PPft5qJqt) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Set the Record Straight](https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE) | 3:14 |
 | 84 | [OBVIOUS \- Español](https://open.spotify.com/track/5i6oUSLYzolwKWXWeus5gV) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:51 |

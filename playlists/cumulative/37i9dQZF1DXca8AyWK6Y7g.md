@@ -4,7 +4,7 @@
 
 > it's the holiday remix with Miss Sabrina Carpenter
 
-1,433 songs - 3 day 1 hr 23 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,434 songs - 3 day 1 hr 26 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,7 +594,7 @@
 | [hours](https://open.spotify.com/track/50fOAzCbELUmkFWgbrdW7C) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [hours](https://open.spotify.com/album/5VHlWqRmzCGaFgw6yokx6L) | 3:01 | 2020-08-11 | 2021-11-10 |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-02-18 |  |
 | [House With A View](https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [House With A View](https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM) | 2:24 | 2022-07-15 | 2022-10-27 |
-| [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 |  |
+| [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 | 2022-12-11 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 | 2022-10-29 |
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-10-08 |
 | [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-10-28 |  |
@@ -1372,6 +1372,7 @@
 | [Warhol](https://open.spotify.com/track/3P707u2l8c3jQkHUaXYE1L) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 2:35 | 2022-10-28 | 2022-12-08 |
 | [Warpaint](https://open.spotify.com/track/6E4POizZfmNFRp7840aY8w) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Warpaint](https://open.spotify.com/album/3xUR1JT0b2uC1SZ54flBll) | 3:33 | 2019-05-26\* | 2019-08-13 |
 | [Warrior](https://open.spotify.com/track/4dVuxaj9278T0Md4UUtkUY) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Warrior](https://open.spotify.com/album/78WXTSAKPrfWKTRkqykyFd) | 3:24 | 2019-05-26\* | 2020-02-20 |
+| [Was It A Dream?](https://open.spotify.com/track/6guvZdV8yLurQSr90uIavl) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Was It A Dream?](https://open.spotify.com/album/1JtOCuaJC96Vf15eB1DsU5) | 2:57 | 2022-12-10 |  |
 | [Waste of Time \- Live at Lucy's Meat Market](https://open.spotify.com/track/0EFTlb4ydQZoN4pBc93wde) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Waste of Time \(Live at Lucy's Meat Market\)](https://open.spotify.com/album/1glvLbDNMojANDXgQwA2qD) | 3:24 | 2019-09-06 | 2020-03-20 |
 | [Water](https://open.spotify.com/track/0bHLNUoBzK83c61N9W4ohF) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Water](https://open.spotify.com/album/7dXb3iaFdn3SPGnklRM3mj) | 2:55 | 2019-05-26\* | 2020-04-18 |
 | [Waves \- RAC Mix](https://open.spotify.com/track/0wR2v8X5ZZKj3SDydUyWaf) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Waves](https://open.spotify.com/album/2W1fgxoyudIzurIx6y9hQZ) | 3:28 | 2019-09-27 | 2021-05-14 |

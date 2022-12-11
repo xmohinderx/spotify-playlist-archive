@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/0ulNF6RkSGdPCKS5FTmAzk)
+96 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/0ulNF6RkSGdPCKS5FTmAzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Me Lo Contaron Ayer](https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:34 | 2022-06-01 |  |
 | [Me Muero por Ella \(Bachata\) Feat\. La Original Banda el Limón de Salvador Lizárraga](https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:54 | 2022-09-05 |  |
 | [Me Pongo en Tu Lugar](https://open.spotify.com/track/6tanSQtzUgIZ8L7us6vLvz) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl) | 3:06 | 2022-06-01 | 2022-07-14 |
-| [Me Pongo en Tu Lugar \(En Vivo\)](https://open.spotify.com/track/1unucSoKiY6rNR3IM8oZHP) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Pongo en Tu Lugar \(En Vivo\)](https://open.spotify.com/album/2DTPGxkk5O9bSArdXM4lpI) | 3:12 | 2022-10-15 |  |
+| [Me Pongo En Tu Lugar](https://open.spotify.com/track/6xSumymUkikvGOrzXIUgVW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ) | 3:06 | 2022-12-10 |  |
+| [Me Pongo en Tu Lugar \(En Vivo\)](https://open.spotify.com/track/1unucSoKiY6rNR3IM8oZHP) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Pongo en Tu Lugar \(En Vivo\)](https://open.spotify.com/album/2DTPGxkk5O9bSArdXM4lpI) | 3:12 | 2022-10-15 | 2022-12-11 |
 | [Me Sigue Doliendo](https://open.spotify.com/track/5Mqqd14WL7mmJMLESWYNtX) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Sigue Doliendo](https://open.spotify.com/album/1AB47h7dTdCTlO0i2GtiGi) | 3:47 | 2022-06-01 | 2022-11-03 |
 | [Mis 3 Animales](https://open.spotify.com/track/7C1XFjfirE8r7piaEagMVv) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mis 3 Animales](https://open.spotify.com/album/3eE9FObDq5KK0QzSKAf2Bt) | 2:53 | 2022-10-12 |  |
 | [Negrita Eae](https://open.spotify.com/track/4GhYLLUuRKMgK8oSApgAO4) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Puro Mazatlán](https://open.spotify.com/album/4VjgcKHDIzC7mgXvWdEu46) | 2:59 | 2022-06-21 | 2022-10-13 |

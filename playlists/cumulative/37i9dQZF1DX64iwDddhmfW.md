@@ -4,7 +4,7 @@
 
 > Doorbells and sleigh bells and schnitzel with noodles
 
-79 songs - 4 hr 55 min - not published yet
+80 songs - 4 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 | 2022-10-25 |  |
 | [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 | 2022-10-25 |  |
 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 | 2022-10-25 |  |
-| [Boyfriends](https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Boyfriends](https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh) | 2:54 | 2022-12-02 |  |
+| [Boyfriends](https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Boyfriends](https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh) | 2:54 | 2022-12-02 | 2022-12-11 |
 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2022-10-25 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 | 2022-10-25 |  |
 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 | 2022-10-25 |  |
@@ -58,6 +58,7 @@
 | [Night Changes \- Live Acoustic Session](https://open.spotify.com/track/7aee6sIrFxp6ohSIq3TmHd) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Acoustic \- EP](https://open.spotify.com/album/5VX4SyOXpLW7d0jBGW6AP2) | 3:41 | 2022-10-25 |  |
 | [Palace](https://open.spotify.com/track/05P1cSZbLBYeXerDxxYT7k) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Holly & The Ivy](https://open.spotify.com/album/74RfZ8GZ7kwNPDJYU3kBVW) | 3:07 | 2022-11-09 | 2022-11-13 |
 | [Palace](https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:07 | 2022-10-25 |  |
+| [Pennies From Heaven \- Remastered](https://open.spotify.com/track/4YFczV2yFMNhIuRFiGVdtZ) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Capitol Collectors Series](https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG) | 2:20 | 2022-12-10 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-10-25 |  |
 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2022-10-25 |  |
 | [R.E.M](https://open.spotify.com/track/1xWH8zYtDeS9mW1JJG23VZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 4:05 | 2022-10-25 |  |

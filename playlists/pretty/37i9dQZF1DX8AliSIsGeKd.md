@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Peer Kusiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,700 likes - 78 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,807 likes - 78 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 |
 | 2 | [Feelings](https://open.spotify.com/track/0ddrOIUHXNKrF6rG9Hp1ra) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn), [Jason Johnson \(DE\)](https://open.spotify.com/artist/5sCukU3sm3DGmPwAgEZVDc) | [Feelings](https://open.spotify.com/album/7lrgVKfa8oVkOTAAfgkU3e) | 7:01 |
-| 3 | [hace ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 |
+| 3 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 |
 | 4 | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 |
 | 5 | [Sitting In This Cage](https://open.spotify.com/track/0CVcDGYGXOY8qBhRZ4vVlf) | [Hozho](https://open.spotify.com/artist/4SxTtbkEKXwyhltXD7tnYQ), [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o) | [Sitting In This Cage](https://open.spotify.com/album/5OOs9lxDiia8B2a7x2ezS8) | 7:56 |
 | 6 | [Through My Skin](https://open.spotify.com/track/00Je3Ur2xmGEhZd08FtQLQ) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Triation, Vol\. V](https://open.spotify.com/album/4WdjFSOirv2bXUXWBFxe4N) | 5:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,316 likes - 60 songs - 3 hr 1 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,318 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 59 | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Twin Palms](https://open.spotify.com/artist/3vLMWHCUvKGdN901ti7ylE) | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/album/6JWPlOkQqI3zBheWVemmJP) | 3:09 |
 | 60 | [Da Homies](https://open.spotify.com/track/47xNlfeg2FAIENeBC79kye) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Da Homies](https://open.spotify.com/album/3NJWsGiRPEyCOLKq1jB5Ac) | 3:35 |
 
-Snapshot ID: `NjAxOSwyMDlmOTM2OTA5MjUwOWY0N2Y1MWMxMTRhNzk1MjYwZTQyZDIxZDVi`
+Snapshot ID: `NjAyMSw1MzQ4ZDI5MTQxNzczMWI2ZGVkYzk1MzFhM2VlNzlkZjEyOTdhYTEz`

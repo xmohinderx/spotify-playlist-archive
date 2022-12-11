@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: THE BOYZ\(더 보이즈\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,879 likes - 649 songs - 1 day 13 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,944 likes - 649 songs - 1 day 13 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -374,7 +374,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 364 | [Beautiful Memories](https://open.spotify.com/track/3DGaReA44WenM9FaGaSc8V) | [Ashatree](https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up) | [Beautiful Memories](https://open.spotify.com/album/1AZCEOJIxQqENR722dAXDc) | 3:34 |
 | 365 | [Only You](https://open.spotify.com/track/4aXGaTCoZ0fk9iVu8JtU93) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Only You](https://open.spotify.com/album/7FkRG9fSO3Gc2DcFzvkmmj) | 3:44 |
 | 366 | [Fire](https://open.spotify.com/track/6j8w6uHSRrD8h59KBYQnQ0) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [Police Station Next To Fire Station \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/0gjEWePtjDnoFfrz3wiaVa) | 3:16 |
-| 367 | [사막](https://open.spotify.com/track/4rblmyTPugV99I22XygkDo) | [규리](https://open.spotify.com/artist/7l8H42qlKI2Nd0w80J49iu) | [제33회 유재하 음악경연대회](https://open.spotify.com/album/1vunP8zBJ1WNSyPHk17AE2) | 3:23 |
+| 367 | [사막](https://open.spotify.com/track/4rblmyTPugV99I22XygkDo) | [Kyuri](https://open.spotify.com/artist/7l8H42qlKI2Nd0w80J49iu) | [제33회 유재하 음악경연대회](https://open.spotify.com/album/1vunP8zBJ1WNSyPHk17AE2) | 3:23 |
 | 368 | [Heartbeat](https://open.spotify.com/track/0SzDtelgjoa7EMcWobPRDd) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL 2 JIJI](https://open.spotify.com/album/2B7TS3hLzfrsrwOO2ypOi8) | 3:06 |
 | 369 | [아지랑이 \(Art\. JFLAMINGO\)](https://open.spotify.com/track/7DaOiYUd5Umfw6fW1WiP7z) | [Anonymous Artists \(어나니머스 아티스트\)](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. JFLAMINGO](https://open.spotify.com/album/4vYkQz96LqrVJoeQGjGj44) | 3:24 |
 | 370 | [Dawn](https://open.spotify.com/track/2iJMxVCeMCZJOzl9lDZDhV) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Dawn](https://open.spotify.com/album/2KGyh3UPXaeJGdiG2TQSYJ) | 4:14 |

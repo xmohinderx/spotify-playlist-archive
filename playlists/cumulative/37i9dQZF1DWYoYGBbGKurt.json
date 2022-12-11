@@ -11037,10 +11037,32 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 186500,
       "name": "invisible",
       "url": "https://open.spotify.com/track/03d83T4D00BmAHrfLYP31x"
+    },
+    {
+      "album": {
+        "name": "invisible",
+        "url": "https://open.spotify.com/album/3BLrcNKCSk0fE5zx5ethjb"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        },
+        {
+          "name": "Lucid Green",
+          "url": "https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "invisible",
+      "url": "https://open.spotify.com/track/2tVqVeui93tpUnyw1AuWsI"
     },
     {
       "album": {

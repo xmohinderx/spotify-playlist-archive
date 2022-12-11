@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-136 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+136 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Metas e Versos \(feat\. Brunno Ramos\)](https://open.spotify.com/track/1Doa0Lxwyy3t5VXTVZFR9F) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Zack Vox](https://open.spotify.com/artist/0y7p9FFFrFIHUfSgaeF9hR), [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Metas e Versos \(feat\. Brunno Ramos\)](https://open.spotify.com/album/1lvWIINLaBBYpz419bFlF0) | 3:23 | 2022-03-22 |  |
 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 | 2022-03-22 |  |
 | [Montanha](https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Montanha](https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK) | 3:13 | 2022-03-22 |  |
-| [MORADIA](https://open.spotify.com/track/5BU7c2aD5wDoUg0vhY6zdn) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [borbabeatz](https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM) | [COLAPSO](https://open.spotify.com/album/3GbiPp0Xbi3yQNzC8WTENZ) | 2:08 | 2022-12-09 |  |
+| [MORADIA](https://open.spotify.com/track/5BU7c2aD5wDoUg0vhY6zdn) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [borbabeatz](https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM) | [COLAPSO](https://open.spotify.com/album/3GbiPp0Xbi3yQNzC8WTENZ) | 3:02 | 2022-12-09 |  |
 | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/track/65WuhK6Xk2g6uvnLzxvthQ) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw) | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/album/2blQM5I7JF1xHtjQeyI7ID) | 3:45 | 2022-03-22 | 2022-08-20 |
 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 | 2022-10-21 |  |
 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 | 2022-03-22 |  |

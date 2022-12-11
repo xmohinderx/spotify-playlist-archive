@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,840 likes - 500 songs - 18 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,128 likes - 500 songs - 18 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 150 | [Given Moment](https://open.spotify.com/track/6hpOK6d4UWB7aOQcUEQ6Jv) | [Zibi & Bibi](https://open.spotify.com/artist/1Pkve0Wq80BendrhjGGYmo) | [Given Moment](https://open.spotify.com/album/1faduVStlrl15AtFIGEkiR) | 2:29 |
 | 151 | [No Wonder](https://open.spotify.com/track/2C94rpZSU8ea13n6j7EBSd) | [remember property](https://open.spotify.com/artist/25E5zGd4262arDCKSv3S1f) | [No Wonder](https://open.spotify.com/album/2lmRLKTDX9SZvvFbTkP0du) | 2:17 |
 | 152 | [When The Clock Strikes Midnight](https://open.spotify.com/track/20IlfWaLERVt1mBTK1Vav6) | [Thomas Tempest](https://open.spotify.com/artist/4zpQwRAlCIdPEA6DYiPxQ4) | [When The Clock Strikes Midnight](https://open.spotify.com/album/5NEawZ5DctjPONqDiymRWK) | 2:28 |
-| 153 | [magic carpet](https://open.spotify.com/track/6dwDDqVN2XgPnirvrYGEW4) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [magic carpet](https://open.spotify.com/album/1RmYNGVXwvRrXIvFvP9K7R) | 2:36 |
+| 153 | [magic carpet](https://open.spotify.com/track/6m7GJPzOoXkruUw4aIZSxC) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [magic carpet](https://open.spotify.com/album/7BLc4eJB3AwCkkdafmeQUV) | 2:36 |
 | 154 | [goodbye](https://open.spotify.com/track/61QjLbt7ZdeGguZNjKL9ty) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [goodbye](https://open.spotify.com/album/02bYztomWxqVUnEZi1Cphu) | 1:36 |
 | 155 | [Things I Should Have Said \- Emmavie Remix Instrumental](https://open.spotify.com/track/0VcpC5axCOrxCC9pmlEPGs) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Things I Should Have Said \(Emmavie Remix\)](https://open.spotify.com/album/6CZ0DpfxuIewEssPbF45LS) | 4:10 |
 | 156 | [Miss You](https://open.spotify.com/track/6WERtu6VY7lGjaOQC0QPuK) | [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [Miss You](https://open.spotify.com/album/559NLRKUBmF7ciusQ5m9HD) | 1:49 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Happy 35](https://open.spotify.com/track/5GJGmY77aFrnD12H125nMS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Happy 35](https://open.spotify.com/album/3KIu2RcUaixIF4SzNU9TSD) | 2:35 |
 | 500 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 |
 
-Snapshot ID: `MTY3MDU4Nzg3MywwMDAwMDAwMGM2NzIzYjY0NDYzODNlMzNiODE3Njg4MGIyMjgwMWE2`
+Snapshot ID: `MTY3MDU4Nzg3MywwMDAwMDAwMGYzMTE5ODM1NjY1ZWQ4ZTJjOWY4MDY0MTVkYTNlMGEw`

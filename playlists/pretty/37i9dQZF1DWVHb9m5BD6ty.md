@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,937 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,939 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 42 | [Shining](https://open.spotify.com/track/0KW1G9rKXlALday2nNAjNd) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/0mWrV1xXwbYAXuOkC7KK9Y) | 3:09 |
 | 43 | [Wasting Time](https://open.spotify.com/track/56ebQiBJZnXsSZ8iTfCdqU) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Wasting Time](https://open.spotify.com/album/2iObfuLdk1Y0myNdPXl23U) | 3:02 |
 | 44 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
-| 45 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 |
+| 45 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
 | 46 | [Talk Of The Town](https://open.spotify.com/track/549CKBALykqVi1XVPw9Fe6) | [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk Of The Town](https://open.spotify.com/album/2k4VLHICVK1SspHBWFhxeo) | 3:06 |
 | 47 | [Love Tonight](https://open.spotify.com/track/1aHXAZNGyetcsmDlPqBazn) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP), [C Cane](https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG) | [Love Tonight](https://open.spotify.com/album/5Lbxv2mUeOd8Ve8SOGMiX0) | 3:14 |
 | 48 | [K78 Bop \(feat\. Nadz20\)](https://open.spotify.com/track/0FcUEpeqkcT38SNLK70Jpp) | [Femz20](https://open.spotify.com/artist/3v3Pi3YRfCFklCJmXCWC8n), [Nadz20](https://open.spotify.com/artist/35App72eBUQ6IPQnuLI6Pc) | [K78 Bop \(feat\. Nadz20\)](https://open.spotify.com/album/2Ufc8HeqYxsLbyn9fpdGmO) | 3:35 |
 | 49 | [Tiger Woods](https://open.spotify.com/track/3TP4es7Z8PL11XHNExj0aB) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Tiger Woods](https://open.spotify.com/album/3kWPB2Q3oYywGaqW018mCB) | 3:51 |
 | 50 | [061](https://open.spotify.com/track/07zGUsX4t6zF4VQfa9hHDi) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [061](https://open.spotify.com/album/5W3aa9ngdHTngZTE6f5hzw) | 3:14 |
 
-Snapshot ID: `MTY0NzQ3NTIwMCwwMDAwMDAwMGVjZGNhNWY4MmMwZjQ0MWRmZDZhY2I3MjRiMTRkMzli`
+Snapshot ID: `MTY0NzQ3NTIwMCwwMDAwMDAwMGQ4ZmE4N2IyMzA3YTBlYzYyMmFkYjgzMDllZDA1NTE3`

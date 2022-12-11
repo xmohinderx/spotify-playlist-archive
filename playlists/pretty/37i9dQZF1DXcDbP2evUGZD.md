@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2022</a>! Meet them first at the MU:CON 2022 official playlist\. \(뮤콘 2022 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,050 likes - 114 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,051 likes - 114 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 50 | [Arcade](https://open.spotify.com/track/6kOD1O3e5ffbL2KXjYZ8aq) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [Arcade](https://open.spotify.com/album/6pCv1wTcIyLp4IrXFm2G4Q) | 6:03 |
 | 51 | [Feed](https://open.spotify.com/track/1a9h5EvYxY6NQNr4aaSXoT) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [SURFACE](https://open.spotify.com/album/11zBjw0fW6jHj8dv8cnOpX) | 3:26 |
 | 52 | [혼](https://open.spotify.com/track/63fnEF2CXivwsI11SDzx3u) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [틈](https://open.spotify.com/album/1yX7JNKgiXKbbrKVQ1Y1ks) | 6:39 |
-| 53 | [Return 귀환](https://open.spotify.com/track/1Cc0qT3PT4uUaq5yDY5SOG) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Return 귀환](https://open.spotify.com/album/1uCKVS95jFfKuR1vUAvoxr) | 3:27 |
-| 54 | [Breath 숨](https://open.spotify.com/track/08XpmEE4Qrfw14PsMuXXcG) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony 화](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 3:15 |
-| 55 | [kk](https://open.spotify.com/track/7HYtRBGVkaka9OAvifc7g2) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony 화](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 2:51 |
+| 53 | [Return](https://open.spotify.com/track/1Cc0qT3PT4uUaq5yDY5SOG) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Return](https://open.spotify.com/album/1uCKVS95jFfKuR1vUAvoxr) | 3:27 |
+| 54 | [Breath](https://open.spotify.com/track/08XpmEE4Qrfw14PsMuXXcG) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 3:15 |
+| 55 | [kk](https://open.spotify.com/track/7HYtRBGVkaka9OAvifc7g2) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 2:51 |
 | 56 | [Stop!](https://open.spotify.com/track/7ippQrSRNFiYg401KoYEb7) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Stop!](https://open.spotify.com/album/3VU7dwSP5Fx5pN6kGsTFOI) | 2:55 |
 | 57 | [Butterfly](https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
 | 58 | [Foolish](https://open.spotify.com/track/6sjr0RGxsvJfn1olYrUBU2) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Discovery](https://open.spotify.com/album/1SP1YJnXmb53GB5rk6p6B6) | 3:05 |

@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-167 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/4R8F66wNxVjPIlXGl9Pnll)
+169 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/4R8F66wNxVjPIlXGl9Pnll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Love Has Come](https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Love Has Come](https://open.spotify.com/album/4lZ1sKFGdyp3Uu5Ux3uSyC) | 4:34 | 2022-11-26 |  |
 | [MANGER OF MY HEART](https://open.spotify.com/track/0Vga9TGN4Xt6JDWSUNlhM7) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [MANGER OF MY HEART](https://open.spotify.com/album/7FCAJR4cTdqMG7hoTKNbsl) | 4:09 | 2022-11-26 |  |
 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:05 | 2022-11-26 |  |
+| [Mary Did You Know? \- Radio Version](https://open.spotify.com/track/3msuA22zBie3qiCG7BVf9L) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Mary Did You Know? \(Radio Version\)](https://open.spotify.com/album/0I7r8bytAaTnRtjukX0MJ5) | 2:54 | 2022-12-11 |  |
 | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP) | 4:47 | 2022-11-26 |  |
 | [Mercy In A Manger](https://open.spotify.com/track/68PkFLi9OXi6JLF9rID2Wn) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Mercy In A Manger](https://open.spotify.com/album/1P8k4am7eNKqNQAA0EBXjD) | 3:34 | 2022-11-26 |  |
 | [Mothers And Shepherds](https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k) | [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG), [The Aeolians of Oakwood University](https://open.spotify.com/artist/3k0f1Oq9w18Pd7VFpVbxik) | [Mothers And Shepherds](https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj) | 3:54 | 2022-11-26 |  |
@@ -107,6 +108,7 @@
 | [Noel \- Live](https://open.spotify.com/track/5eMK2CHhWtufXfNrA6FgpG) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:17 | 2022-11-26 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/7F2Y9vPmOd4RQq8ZJgbFMk) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [O Come All Ye Faithful](https://open.spotify.com/album/5thPoXoJSR4ooEcyXT8yGf) | 3:24 | 2022-11-26 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/3PFcVGs3EfcUyoWsNIKf6w) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [O Come All Ye Faithful](https://open.spotify.com/album/7pAmb07Wl3TAYUREaimnwA) | 3:19 | 2022-11-26 |  |
+| [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP) | 4:39 | 2022-12-11 |  |
 | [O Come All Ye Faithful \- Live](https://open.spotify.com/track/08r6V6XZhUDOg4uiPXQHVL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [O Come All Ye Faithful \(Live\)](https://open.spotify.com/album/4XIV8Lc2D3xKO8Vp3JB4i2) | 4:18 | 2022-11-26 |  |
 | [O Come All Ye Faithful \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [O Come All Ye Faithful \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha) | 3:44 | 2020-12-21 |  |
 | [O Come Let Us Adore Him](https://open.spotify.com/track/1hLl0Y2I0EXT0umZha8IzW) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Crown Him With Glory](https://open.spotify.com/album/0x4u4yhQLIEDre5G497LPd) | 5:07 | 2022-11-26 |  |

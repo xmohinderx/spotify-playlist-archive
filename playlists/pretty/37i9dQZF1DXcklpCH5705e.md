@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 做嘢做到攰，開電視煲吓劇嘆返吓先！聽埋電影同劇集歌，陪你抖返晚。cover: 周興哲
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,272 likes - 49 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,275 likes - 49 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 43 | [盡力呼吸 \(ViuTV 身後事務所主題曲\)](https://open.spotify.com/track/1KoK7b4MeItuE19jbNpsaT) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [盡力呼吸 \(ViuTV 身後事務所主題曲\)](https://open.spotify.com/album/4OwQFCRUeZROVQ2XjRILfg) | 3:56 |
 | 44 | [Your voice](https://open.spotify.com/track/7kj58uQ74KECs0R80VuMFz) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Voice4 \(Original Drama Sound Track, Pt\. 2\)](https://open.spotify.com/album/4gHX61RLuaLZnritQzl72P) | 3:44 |
 | 45 | [Good Bye](https://open.spotify.com/track/4zcInwwZ1CeaMYxXNvpUKa) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Penthouse3 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0fUXrcrlOrGxVQGWuI4pUi) | 3:41 |
-| 46 | [คั่นกู \- เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/track/2ZGgIXaoierTsnkrDzuBzY) | [BRIGHT](https://open.spotify.com/artist/5J3ggBNL8R47w75jWWreUb) | [เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/album/2KhI6iPy0XxzzRvXQnmwsb) | 4:03 |
+| 46 | [คั่นกู \- เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/track/2ZGgIXaoierTsnkrDzuBzY) | [BRIGHT](https://open.spotify.com/artist/3cMH3y4ld4vqZE6uena0Tm) | [เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/album/2KhI6iPy0XxzzRvXQnmwsb) | 4:03 |
 | 47 | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/track/0Q3KCpiyisGcVyEh4I5LBT) | [黃劍文](https://open.spotify.com/artist/7ttdhAuwRlmHaRDUU4WRk2) | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/album/2GQFBMygsXGKDE6ZVyhLNb) | 4:07 |
 | 48 | [Such a Day](https://open.spotify.com/track/1DbJOwTIMlllzjNBv2Sp5X) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Monthly magazine home, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1FH1quQUVZy4rH3vX9kMWW) | 4:26 |
 | 49 | [兜轉 \- 《HIStory4\-近距離愛上你》LINE TV片頭曲](https://open.spotify.com/track/3H6nBaQ2UJsUrK78NbYrD9) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [兜轉 \(《HIStory4\-近距離愛上你》LINE TV片頭曲\)](https://open.spotify.com/album/5M2ahDoiH4lD742rCmC1pL) | 4:00 |

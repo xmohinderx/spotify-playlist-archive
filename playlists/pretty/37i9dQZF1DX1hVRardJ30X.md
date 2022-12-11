@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Paloma Mami, Pailita & El Jordan 23
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,398 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,700 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 21 | [KI\-KI \(feat\. ENNY\)](https://open.spotify.com/track/6zYO7DqTsLaeklsXt0uQ4E) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [KI\-KI \(feat\. ENNY\)](https://open.spotify.com/album/4lNJxQyBSoRpaa2woVPONz) | 2:20 |
 | 22 | [Como Tú](https://open.spotify.com/track/39D1XXTruO2OyjH3pf1mMy) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Como Tú](https://open.spotify.com/album/67DGrksO0zKsTvb3ZNN4RV) | 3:53 |
 | 23 | [Mala Mala](https://open.spotify.com/track/3L7xk3OegOjSmBSJ6P0W7g) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Mala Mala](https://open.spotify.com/album/1frlcT5Y4gcNgIW2v1ZXyL) | 2:32 |
-| 24 | [Wele](https://open.spotify.com/track/0FjMlNVNdUEpXnzB38Yl1j) | [Jarfaiter](https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Wele](https://open.spotify.com/album/2Sljyo4mnhr1EN33wmEWn3) | 3:20 |
+| 24 | [Wele](https://open.spotify.com/track/0FjMlNVNdUEpXnzB38Yl1j) | [Jarfaiter](https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Wele](https://open.spotify.com/album/2Sljyo4mnhr1EN33wmEWn3) | 3:21 |
 | 25 | [Tu Cariñito \- Remix](https://open.spotify.com/track/2ItYH6PFZIaGzrYwfrwRs6) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Puerto Rican Power](https://open.spotify.com/artist/647LMgtK1gAuBB9PrsSDTF) | [Tu Cariñito \(Remix\)](https://open.spotify.com/album/0F4p4BBvFoh4tkqHvQCyYZ) | 3:01 |
 | 26 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 |
 | 27 | [Verano 2015](https://open.spotify.com/track/0qznQrLfR6rEMTms35VIQl) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Verano 2015](https://open.spotify.com/album/4LJviqH6Iy8rKo2fJF0qXh) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Hay nhất từ Fresh Finds Vietnam 2022\. Ảnh bìa: Winno
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,449 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,463 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 35 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
 | 36 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 |
 | 37 | [Chẳng Ra Làm Sao](https://open.spotify.com/track/5FwU9GvLChlh6hGBO52gsq) | [Min Min](https://open.spotify.com/artist/64N4D9T873bPsmeiK5Q97J) | [Chẳng Ra Làm Sao](https://open.spotify.com/album/5nmxRlIRyjJyLLN4u4z7f0) | 3:46 |
-| 38 | [Precious \- Cukak Remix](https://open.spotify.com/track/1fufWqg4DhnNSQjc5O5Sgf) | [Cukak](https://open.spotify.com/artist/3swW6OR2g7qTY3626sqVW4), [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Precious \(Cukak Remix\)](https://open.spotify.com/album/3PApvjsvLIFfHK5ezFF6OF) | 3:05 |
+| 38 | [Precious \- Cukak Remix](https://open.spotify.com/track/3LXgtPzLjoniEX4qvsOZ7i) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Precious \(Cukak Remix\)](https://open.spotify.com/album/4aJFVEWiAZXjn3csBJwdAf) | 3:05 |
 | 39 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
 | 40 | [về nhà ăn cơm](https://open.spotify.com/track/0p5IsaYs1NORTYm9sGdoVE) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Phanh nèe](https://open.spotify.com/artist/7Gw2yW6mWrj0IEDhW9WOQE) | [về nhà ăn cơm](https://open.spotify.com/album/6G0NSG8Qhh94UlJypARzFx) | 4:20 |
 | 41 | [Nụ Cười Em Là Nắng](https://open.spotify.com/track/0DYcI5r05t1alSODvgpQAT) | [Green](https://open.spotify.com/artist/2mYrvZz0fllkkUnZishGE4) | [Nụ Cười Em Là Nắng](https://open.spotify.com/album/5vTeB1SggEz4ALE1EtnqHc) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Ngọt Như Cherry \(feat\. Hằng Bơ\)](https://open.spotify.com/track/6ThTWv8l257SaiRULWjIdC) | [Ahn](https://open.spotify.com/artist/3KMl4axmm1nAW7ASB8vXFT), [Hằng Bơ](https://open.spotify.com/artist/5CyYSwHf4gGYqos834MWme) | [Ngọt Như Cherry](https://open.spotify.com/album/3xd47RGKaWQm1pEaoaDIt0) | 3:52 |
 | 100 | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/track/0yJ6z2SkZj3to9AfOXyUeS) | [Fong](https://open.spotify.com/artist/5Y9b5Ez8MKbGOdRGF9exkq), [Zxdiac](https://open.spotify.com/artist/2JdXVtDSwx0INNNd4pyZYI) | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/album/5Vt6QOKttJbwHIYvBlkvff) | 3:31 |
 
-Snapshot ID: `MTY2OTg2Njg3NiwwMDAwMDAwMDdhNmYxMTAzNDQzMzhiMjA0ZDAwNDUzMzhkNDE5ZTVl`
+Snapshot ID: `MTY2OTg2Njg3NiwwMDAwMDAwMGZlY2UyYjkxYWQ3MDQyNjVkMTUyMTQ0NWQxNDIxMzdk`

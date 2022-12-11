@@ -1325,6 +1325,28 @@
     {
       "album": {
         "name": "Unbreakup",
+        "url": "https://open.spotify.com/album/2dI9QoBHep9dPf00ubgsjN"
+      },
+      "artists": [
+        {
+          "name": "Cadence",
+          "url": "https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224030,
+      "name": "Unbreakup",
+      "url": "https://open.spotify.com/track/2md4QjCglKIHsB95VM8pWi"
+    },
+    {
+      "album": {
+        "name": "Unbreakup",
         "url": "https://open.spotify.com/album/0Bk4pwzuIDK25RQhxf3qMZ"
       },
       "artists": [
@@ -1339,7 +1361,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 224030,
       "name": "Unbreakup",
       "url": "https://open.spotify.com/track/6NODj3b3U76GKaBRE07Mee"

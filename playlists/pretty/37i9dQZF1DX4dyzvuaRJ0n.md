@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Anyma & Camelphat
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,947,028 likes - 93 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,947,248 likes - 93 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 
 > Have some chill house with your coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,786 likes - 93 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,804 likes - 93 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

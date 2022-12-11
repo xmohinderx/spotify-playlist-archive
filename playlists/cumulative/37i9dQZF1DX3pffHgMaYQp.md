@@ -4,17 +4,19 @@
 
 > música para insubordinados\. Las Decapitadas en portada.
 
-62 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/7FbH27wWWIzTyGHnxAk9gv)
+64 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/7FbH27wWWIzTyGHnxAk9gv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Donde Voy \(Revamp\)](https://open.spotify.com/track/10n2LsN2yaV3yKFO8MPYWf) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/1AVZ6ej2XcpHtlTqTy91qt) | 5:14 | 2022-03-25 |  |
+| [A Donde Voy \(Revamp\)](https://open.spotify.com/track/10n2LsN2yaV3yKFO8MPYWf) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/1AVZ6ej2XcpHtlTqTy91qt) | 5:14 | 2022-03-25 | 2022-12-11 |
+| [A Donde Voy \(Revamp\)](https://open.spotify.com/track/3VBBNAhTE6v7nkYEQ1JbFW) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB) | 5:14 | 2022-03-25 |  |
 | [Aguas Locas](https://open.spotify.com/track/4rMqG3Xj6kk9kXnxDoZ0yw) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Aguas Locas](https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn) | 2:08 | 2022-03-25 |  |
 | [Algo Bien](https://open.spotify.com/track/7ny19tle78dtsBq4JXTNjt) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Algo Bien](https://open.spotify.com/album/4JbqoyE0SeNc6FNi64WEe8) | 3:14 | 2022-03-25 |  |
 | [Amigos \- En Vivo \- Mazunte 3016](https://open.spotify.com/track/3MjFHWF85f099edPlGN4Mm) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Amigos \(En Vivo \- Mazunte 3016\)](https://open.spotify.com/album/1JLlqbasqPbugK1n2U7DRA) | 3:04 | 2022-03-25 |  |
 | [Año de Mierda](https://open.spotify.com/track/52Gh9CvRUV2BdFo7ywL8IC) | [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/1OHKTDWW6BOpRKuKX8ehVB) | 2:51 | 2022-03-25 | 2022-07-29 |
 | [Año de Mierda](https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4), [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc) | 2:51 | 2022-03-25 |  |
-| [Barrio de Tepito](https://open.spotify.com/track/6iSpy9OSSGcnIdZ8jdtKVo) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:07 | 2022-03-25 |  |
+| [Barrio de Tepito](https://open.spotify.com/track/3lANKbxL65aPuEKl9pt5UK) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Martín Delgado Presenta: La Otra Música X Airelibre​.​fm](https://open.spotify.com/album/1YkOyENGJqZXF92mBE5ThN) | 4:07 | 2022-03-25 |  |
+| [Barrio de Tepito](https://open.spotify.com/track/6iSpy9OSSGcnIdZ8jdtKVo) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:07 | 2022-03-25 | 2022-12-11 |
 | [Caballerango](https://open.spotify.com/track/3zFQzGdQPduroZfdl6hgQm) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Como Es](https://open.spotify.com/album/41tg5Kh7UmdBZepCrXLvrt) | 4:25 | 2022-03-25 |  |
 | [Clarita \- En Vivo](https://open.spotify.com/track/0xXy1xcDSbAtiF8PJg8LKJ) | [La Muerte De...](https://open.spotify.com/artist/0HRghElI5OBUiatdsMNQAM) | [Clarita \(En Vivo\)](https://open.spotify.com/album/2tlfU2R8OXoR1WHXKnFqCC) | 5:26 | 2022-03-25 |  |
 | [Cochina Crop Top](https://open.spotify.com/track/4ScLWxzOMebsJ7TktbkePd) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Cochina Crop Top](https://open.spotify.com/album/1uVM0NzQXuTejFe1JKfvKq) | 2:31 | 2022-03-25 |  |

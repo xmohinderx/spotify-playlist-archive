@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > música para insubordinados\. Las Decapitadas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,280 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,283 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 43 | [No Lo Tomes a Mal \- No Me Toques, Ando Chido](https://open.spotify.com/track/5msSzMdmacwuVhribYz5nG) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [No Lo Tomes a Mal \(No Me Toques, Ando Chido\)](https://open.spotify.com/album/2zVGlxmvIeDr4Ob8qItIQn) | 3:31 |
 | 44 | [Morir de Amor </3](https://open.spotify.com/track/6kRVdk5YVE7TH5yWDeCTcO) | [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [Morir de Amor </3](https://open.spotify.com/album/65ClgMHw387ScepCOtkoDN) | 2:42 |
 | 45 | [Extrarradio](https://open.spotify.com/track/39KrdTbxCVcTcXNPaEhMWS) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Extrarradio](https://open.spotify.com/album/2vIVKy10eQXCwBu7B61ZvM) | 4:53 |
-| 46 | [A Donde Voy \(Revamp\)](https://open.spotify.com/track/10n2LsN2yaV3yKFO8MPYWf) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/1AVZ6ej2XcpHtlTqTy91qt) | 5:14 |
+| 46 | [A Donde Voy \(Revamp\)](https://open.spotify.com/track/3VBBNAhTE6v7nkYEQ1JbFW) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB) | 5:14 |
 | 47 | [Caballerango](https://open.spotify.com/track/3zFQzGdQPduroZfdl6hgQm) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Como Es](https://open.spotify.com/album/41tg5Kh7UmdBZepCrXLvrt) | 4:25 |
 | 48 | [Todo el mundo miente](https://open.spotify.com/track/5ScYhM18hLZ9ZlDYyGuVUy) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Lo Que Te Pide el Cuerpo](https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m) | 3:27 |
 | 49 | [Por Que](https://open.spotify.com/track/7mi455N9KTLTKfxEjXwgAw) | [Mujeres Podridas](https://open.spotify.com/artist/2zy61vaLJYK5I9zcoZWOEt) | [Muerte en Paraíso](https://open.spotify.com/album/0x2HFQ4eCRCCYmXvzg6uOE) | 1:58 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 55 | [México Querétaro](https://open.spotify.com/track/0RwfQdF2pt8tfRyLxDpSs7) | [ACTY](https://open.spotify.com/artist/1w7oXNijoleZ4GIo7nij8b) | [México Querétaro](https://open.spotify.com/album/5vHR8RyrWgWdKkfXPhd6Rs) | 6:21 |
 | 56 | [Año de Mierda](https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4), [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc) | 2:51 |
 | 57 | [Hoy No](https://open.spotify.com/track/7z9mN39lIQgPKkGliAQYCt) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Maleza](https://open.spotify.com/album/6HJm0w7q1ockTAIpw53YY7) | 2:07 |
-| 58 | [Barrio de Tepito](https://open.spotify.com/track/6iSpy9OSSGcnIdZ8jdtKVo) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:07 |
+| 58 | [Barrio de Tepito](https://open.spotify.com/track/3lANKbxL65aPuEKl9pt5UK) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Martín Delgado Presenta: La Otra Música X Airelibre​.​fm](https://open.spotify.com/album/1YkOyENGJqZXF92mBE5ThN) | 4:07 |
 | 59 | [Dron](https://open.spotify.com/track/4OVH5QRHEtL2j4bo0ATrjM) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 4:33 |
 | 60 | [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 |
 
-Snapshot ID: `MTY1MTA4NzA5NCwwMDAwMDAwMDFjY2FkZjA5ZTBiODM4MThlYmE3MTI4NGFhNmIxN2Q4`
+Snapshot ID: `MTY1MTA4NzA5NCwwMDAwMDAwMDhjNTM3MDkwZjRhY2E5YzQ2ZWRhZGZiYmEwODg0NmJh`

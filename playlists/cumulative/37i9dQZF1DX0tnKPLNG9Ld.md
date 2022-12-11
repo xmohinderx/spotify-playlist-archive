@@ -4,7 +4,7 @@
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-149 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
+150 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Doralice](https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:44 | 2022-09-01 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/1DQJd9IyanAqaQ04DItMt6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ) | 3:14 | 2021-12-20 | 2022-07-29 |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 | 2022-06-29 |  |
-| [Es wird scho glei dumpa](https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe) | [Jazzrausch Bigband](https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw), [Julian Hesse](https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U) | [Es wird scho glei dumpa](https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z) | 3:13 | 2022-10-27 |  |
+| [Es wird scho glei dumpa](https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe) | [Jazzrausch Bigband](https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw), [Julian Hesse](https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U) | [Es wird scho glei dumpa](https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z) | 3:13 | 2022-10-27 | 2022-12-11 |
 | [Farmer's Market](https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU) | [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy) | [Improvisations for the Human Voice](https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd) | 2:46 | 2022-08-11 | 2022-11-14 |
 | [Farmer's Market](https://open.spotify.com/track/138uFIGqcqv5e3b0jge5qb) | [King Pleasure](https://open.spotify.com/artist/1zmrmtMHh44pQ9WrBVEe80), [Annie Ros](https://open.spotify.com/artist/4Ny6FUunJrpsXpSVkVyvIh) | [King Pleasure Sings / Annie Ross Sings](https://open.spotify.com/album/2289iMuFPDNKaMayWeSiGM) | 2:43 | 2022-01-28 | 2022-07-29 |
 | [Feeling Good](https://open.spotify.com/track/1AM8QdDFZMq6SrrqUnuQ9P) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:57 | 2022-01-07 | 2022-04-21 |
@@ -104,6 +104,7 @@
 | [Lullaby of Birdland](https://open.spotify.com/track/1gcGuB0A9uOQxVu0SxeDA3) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Songs Of New York](https://open.spotify.com/album/6ykejiQYyCdqWg8Leun77R) | 2:29 | 2022-06-02 | 2022-07-29 |
 | [Lullaby of Birdland](https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Jazz Voices](https://open.spotify.com/album/635hnlkrA2VznGlaSHv4eT) | 2:29 | 2022-08-11 |  |
 | [Lullaby of Broadway \(with Harry James & His Orchestra\)](https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:51 | 2022-01-28 |  |
+| [Lulu's Back In Town](https://open.spotify.com/track/5lGjIW8egrayi9G3CpnUZK) | [Mel Tormé](https://open.spotify.com/artist/6e76kKD4R4HbbTGl3SD0kr) | [The Velvet Fog: The Very Best of Mel Torme](https://open.spotify.com/album/549hYDbssg8k0sGhLraZZh) | 3:07 | 2022-12-01 |  |
 | [Lulu's Back In Town](https://open.spotify.com/track/6YMbGEs68Nc9B17N5gmGXP) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [The Velvet Fog: The Very Best of Mel Torme](https://open.spotify.com/album/6M33HTGznZaqauVf3XTRWU) | 3:07 | 2022-06-29 | 2022-11-13 |
 | [Lulu's Back in Town \- 2012 Remastered Version](https://open.spotify.com/track/4ONhNhDkeO9QGUe9MOK0kL) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Dek\-tette](https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr) | [Sing for Your Supper](https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT) | 3:05 | 2022-01-28 | 2022-07-29 |
 | [Make Someone Happy \- From "Do Re Mi"](https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Broadway, Right Now!](https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw) | 2:12 | 2022-01-28 |  |

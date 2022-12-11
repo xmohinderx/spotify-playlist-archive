@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,119 likes - 234 songs - 13 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,118 likes - 234 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 218 | [Simulation](https://open.spotify.com/track/1nWVz4QTSIMYcdkUvllivw) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Modern Warfare \(EPs 1\-3\)](https://open.spotify.com/album/3xJIXGonvx4OfwZ8Rsbmzt) | 5:39 |
 | 219 | [Melody Of Us](https://open.spotify.com/track/7zZyFYpFPn0PZvKqVgm6YT) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal: Halcyon Deluxe Edition](https://open.spotify.com/album/0hcLDyv4BKi3IlRXusqxzT) | 3:47 |
 | 220 | [Right Now](https://open.spotify.com/track/74gFi6GtPqh6oiKAKnGorG) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Get Some Courage, Vol\. 2](https://open.spotify.com/album/4Fj8JNq3FAyYVrulSd5EvR) | 3:08 |
-| 221 | [qandeel baloch](https://open.spotify.com/track/2XgqX1xMB5tFqWlLTvFQJi) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 2:54 |
-| 222 | [Stronger Stuff](https://open.spotify.com/track/0Tqb9tHAdN6RI26zIqP4V6) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 4:34 |
+| 221 | [Stronger Stuff](https://open.spotify.com/track/0Tqb9tHAdN6RI26zIqP4V6) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 4:34 |
+| 222 | [qandeel baloch](https://open.spotify.com/track/2XgqX1xMB5tFqWlLTvFQJi) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 2:54 |
 | 223 | [Muscle](https://open.spotify.com/track/7AhlVNoD2zOA6nzUsHYExb) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:00 |
 | 224 | [My Work Is Done](https://open.spotify.com/track/5gymlK2U1SmNwTp4dpwAmt) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:26 |
 | 225 | [Bridges](https://open.spotify.com/track/0Q4g6gvhXIA0bYrglXXyuU) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:33 |
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 233 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
 | 234 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Mjc4NDM5MDUsMDAwMDAwMDAwZGZkYzQxMjMxMTM2OWJlYWE5MmY1NGYxMTI2ZGM4Yw==`
+Snapshot ID: `Mjc4NDUzNDUsMDAwMDAwMDA5MTcwOGUwOThiYmFjNTU4YWNmNmQ5MGI5OTBjYWQ1Zg==`

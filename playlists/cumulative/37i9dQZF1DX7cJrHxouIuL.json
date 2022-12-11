@@ -2419,10 +2419,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 135172,
       "name": "Row, Row, Row Your Boat",
       "url": "https://open.spotify.com/track/0EQExac8KePwocPf07mXeb"
+    },
+    {
+      "album": {
+        "name": "Presents",
+        "url": "https://open.spotify.com/album/0RrOAMN38yYifcLCYVT1gG"
+      },
+      "artists": [
+        {
+          "name": "Tanlines",
+          "url": "https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "Row, Row, Row Your Boat",
+      "url": "https://open.spotify.com/track/2doLzXwvOnsuQv2KLu8auC"
     },
     {
       "album": {

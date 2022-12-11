@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-880 songs - 1 day 21 hr 15 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+881 songs - 1 day 21 hr 18 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,7 +773,7 @@
 | [The Batman](https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 6:47 | 2022-03-09 | 2022-03-21 |
 | [The Batman](https://open.spotify.com/track/4j4rlgZJTod9nzA3eFmZEP) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Q44I0u2ktOayQLYUnOGNI) | 6:47 | 2022-03-08 | 2022-03-10 |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 4:34 | 2022-11-08 | 2022-11-12 |
-| [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/track/5aKcJDDiDTzrmVi6putOnq) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/album/6dr49Z0zo5oA4mUbgkyYWm) | 1:52 | 2022-11-25 |  |
+| [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/track/5aKcJDDiDTzrmVi6putOnq) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/album/6dr49Z0zo5oA4mUbgkyYWm) | 1:52 | 2022-11-25 | 2022-12-11 |
 | [The Other Woman](https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 3:01 | 2022-04-21 | 2022-04-25 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-03-01 | 2022-04-03 |
 | [The Rumbling \(TV Size\)](https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling \(TV Size\)](https://open.spotify.com/album/3Ri7zFBo3zWabQvOVN1DXu) | 1:30 | 2022-02-01 | 2022-02-23 |
@@ -817,6 +817,7 @@
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-18 | 2022-11-11 |
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-09-19 | 2022-10-03 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-13 | 2022-08-01 |
+| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-12-10 |  |
 | [Uptown Funk Remix RJ](https://open.spotify.com/track/30oKgF1npDvpJCtXXum3zz) | [Pl Torvic](https://open.spotify.com/artist/3yRV4hDjNiufljS6Ty5h2b), [Dj Yuri da Escócia](https://open.spotify.com/artist/20DSu892VLXlQar4hHofVy) | [Uptown Funk Remix RJ](https://open.spotify.com/album/1wEtVTCziAOIu1Qr3OcvfE) | 2:12 | 2022-02-22 | 2022-03-04 |
 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 | 2022-11-11 | 2022-11-18 |
 | [Vai dar PT](https://open.spotify.com/track/4Ti7WdCbPoxBBURxuY6sT9) | [MC Rahell](https://open.spotify.com/artist/3A1pTNTVgpjpO39ORulNs2) | [Vai dar PT](https://open.spotify.com/album/5meX0ewl7cSOu4hwzXC5Ez) | 2:45 | 2022-10-03 | 2022-11-08 |

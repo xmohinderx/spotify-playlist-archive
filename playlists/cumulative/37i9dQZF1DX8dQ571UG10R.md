@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-59 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/1SeslTG31uOJ42v4hiisvs)
+60 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/1SeslTG31uOJ42v4hiisvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 | 2022-02-22 |  |
 | [Madara: A Lenda Reencarnada](https://open.spotify.com/track/70EKfzmUOGLZCbl2s9qJ8F) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Madara: A Lenda Reencarnada](https://open.spotify.com/album/3a9dHWUNuQIK3zrslZsmnE) | 3:30 | 2022-02-22 |  |
 | [Maldição do Ódio](https://open.spotify.com/track/0zMvUqDRnUxJVE7VBiCCFE) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/2QAbWL5uhxEJmv28GJEkzr) | [Maldição do Ódio](https://open.spotify.com/album/1Yk3IYnEjuGb8zSmkbK7No) | 4:55 | 2022-02-22 |  |
-| [Os Titãs Primordiais](https://open.spotify.com/track/5NHs07BtDcca8fOB8v9wNF) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4wD4408RcHK6fkx4UVUyi6) | 7:26 | 2022-02-22 |  |
+| [Os Titãs Primordiais](https://open.spotify.com/track/3aZ0jBsXRFbiXIFDLZR6wa) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4k3S6NHWgwhVv16HAG2190) | 7:26 | 2022-05-27 |  |
+| [Os Titãs Primordiais](https://open.spotify.com/track/5NHs07BtDcca8fOB8v9wNF) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4wD4408RcHK6fkx4UVUyi6) | 7:26 | 2022-02-22 | 2022-12-11 |
 | [Outro Planeta](https://open.spotify.com/track/4N6yQOXdqzkadCofN9z1GV) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Outro Planeta](https://open.spotify.com/album/1jede7bKc66D4u2xgkSrJJ) | 3:55 | 2022-02-22 | 2022-05-28 |
 | [Pai da Humanidade \(Adão\)](https://open.spotify.com/track/389oniwXlh3UjZNsXARb9B) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Pai da Humanidade \(Adão\)](https://open.spotify.com/album/6V7KPJGqmpgWKarpIogA7r) | 3:37 | 2022-02-22 |  |
 | [Pique Minato](https://open.spotify.com/track/1hOuDUJ8pqh5gwGiZpl2xG) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Minato](https://open.spotify.com/album/5ri4PGz7cj1R9GTf5lHpr2) | 2:58 | 2022-02-22 |  |

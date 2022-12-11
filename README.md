@@ -3306,6 +3306,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Road Trip Songs](/playlists/pretty/68q3IjJ17gHA7r9NdijiUU.md)
 - [Road Trip To Tokyo](/playlists/pretty/37i9dQZF1DWV8IND7NkP2W.md)
 - [Road to Palomino](/playlists/pretty/37i9dQZF1DX0ltG5GWVFIX.md)
+- [Road to Passion 2023](/playlists/pretty/37i9dQZF1DX29zlP8CHXWW.md)
 - [Roadrunner Records: Slaylist](/playlists/pretty/79vrB5Ei5Gk7BctdZesJJA.md)
 - [Robo\-Funk](/playlists/pretty/37i9dQZF1DWUcRrhkfhG22.md)
 - [Rocanlovers](/playlists/pretty/37i9dQZF1DX7yaR5d7FkNX.md)

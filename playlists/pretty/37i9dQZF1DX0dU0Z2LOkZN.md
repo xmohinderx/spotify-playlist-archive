@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,127 likes - 200 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,245 likes - 200 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 74 | [Stars Above](https://open.spotify.com/track/5WtaGZevzqVOIoqpC80kT3) | [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Stars Above](https://open.spotify.com/album/73QcuppG1Gfqp0pEmy2o6O) | 3:03 |
 | 75 | [Spray Colors](https://open.spotify.com/track/5B2dAco4S0I8TAQuIW8p3L) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Spray Colors](https://open.spotify.com/album/3Uj1MaF7Fbm3vrnpg8M4ll) | 2:07 |
 | 76 | [Winning Streak](https://open.spotify.com/track/35pK1tKZTKiV5rBrWhJda1) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Winning Streak](https://open.spotify.com/album/5RB6khKXxt3nLn9ZDGksyV) | 2:11 |
-| 77 | [Motion Blur](https://open.spotify.com/track/41z8AHFPjaRu6PSaj3mTKL) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Divergenz](https://open.spotify.com/album/6cQNpcfHxABrVsXkLOMTag) | 2:01 |
+| 77 | [Motion Blur](https://open.spotify.com/track/6iYdBrHjTSmmDgPZO4EXfU) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Divergenz](https://open.spotify.com/album/4p61zb20E3SOhgS1M3IkZi) | 2:01 |
 | 78 | [Blue in Beat](https://open.spotify.com/track/13e9XXZyk48sapCt1dOc7F) | [Modern Station](https://open.spotify.com/artist/6Ad14T1O6qOJNr5U4IVKcP), [gb](https://open.spotify.com/artist/6E6X72HwmT5KHhi4Os8iV9), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Blue in Beat](https://open.spotify.com/album/09VnonQgbKNcUsTsisjhhf) | 1:41 |
-| 79 | [Résidus De Vin Rouge](https://open.spotify.com/track/1AMPaKJUArIkQXcVTymrI6) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Résidus De Vin Rouge](https://open.spotify.com/album/4OTByvJuNcccaWqiqoJrYv) | 2:42 |
+| 79 | [Résidus De Vin Rouge](https://open.spotify.com/track/599XMJ7iIpVTprquprJ9lW) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Résidus De Vin Rouge](https://open.spotify.com/album/1jsD6ZftTKfhuwQcEQic1Y) | 2:42 |
 | 80 | [Love Gone](https://open.spotify.com/track/13YF85tcO7tABHpidBnpgG) | [Reflejitos](https://open.spotify.com/artist/6Wa63VdHO4nX4IgCAXrd3W) | [Love Gone](https://open.spotify.com/album/7iUGacygA2lhtNlGVBtSMb) | 2:34 |
 | 81 | [Trying](https://open.spotify.com/track/3B7LH6PsoSR0ugLZYAFUOm) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Trying](https://open.spotify.com/album/5frkVKVHWYsKq6HBlGh0un) | 2:34 |
 | 82 | [Wood](https://open.spotify.com/track/53cubSUB0K8iC0jzdnAuvP) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Wood](https://open.spotify.com/album/3fy00lFlifuP1PjxvqxpVF) | 2:21 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 199 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 |
 | 200 | [money planet](https://open.spotify.com/track/5t13y5FjGJtfhbQzgitlgD) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/1r95Feyxpoia1LvkPy5Tvc) | 1:44 |
 
-Snapshot ID: `MTY3MDU5MDgyMSwwMDAwMDAwMDQzYTQwMGUwOGQ1YzYxYTFiN2EyOGM2MzQ4YTViZjNj`
+Snapshot ID: `MTY3MDU5MDgyMSwwMDAwMDAwMDI5YjlhOTdjNWE3MzVmN2QyZDA1NjJmNjA4NjA3ODMw`

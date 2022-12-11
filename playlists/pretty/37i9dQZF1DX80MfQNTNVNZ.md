@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,217 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,289 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 13 | [Holy Hell](https://open.spotify.com/track/5y6BaL3VQ2hQt5sMN1Qmzj) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Holy Hell](https://open.spotify.com/album/1Fq57wNgriijiYFTTCwU6c) | 3:12 |
 | 14 | [MONSOON](https://open.spotify.com/track/5tJKPKs5A6PrcLWJ08AkOM) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [MONSOON](https://open.spotify.com/album/7zgRCzPlTBk2txptR4CEnO) | 2:56 |
 | 15 | [World's End \(feat\. Julia Wu, 5lack\)](https://open.spotify.com/track/30n0Z8l9uTkKCQemxDzTnJ) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [World's End \(feat\. Julia Wu, 5lack\)](https://open.spotify.com/album/4TdMgCC9A81JzD2BTfsczk) | 5:06 |
-| 16 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/2uD2svsrGQsyfgGIYDld6U) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 |
+| 16 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 |
 | 17 | [\(Why You So\) Green With Envy](https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs) | [\(Why You So\) Green With Envy](https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE) | 4:52 |
 | 18 | [NEXT 2 U](https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [NEXT 2 U](https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn) | 2:49 |
 | 19 | [Found Our Way](https://open.spotify.com/track/5gxp6faiQPafYh77V4BZC4) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 2:46 |

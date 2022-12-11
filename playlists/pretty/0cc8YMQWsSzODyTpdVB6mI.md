@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 44,627 likes - 50 songs - 2 hr 55 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 44,644 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 7 | [Moonlight](https://open.spotify.com/track/3xg2H9VTF8uW046sq1Grto) | [Karl Meyer](https://open.spotify.com/artist/2f9bz0POgpM78PM6Mbarjo) | [Moonlight](https://open.spotify.com/album/53QtBB62XZEkvGVoazcE4f) | 3:08 |
 | 8 | [It's About Time](https://open.spotify.com/track/0plbSDugi1FZzzX0A5CmSB) | [Sky Adler](https://open.spotify.com/artist/7tBYbT4opzICINZB2JNCYX) | [It's About Time](https://open.spotify.com/album/4cOi1XyWHJ28c7GbqQF9wQ) | 4:03 |
 | 9 | [Lava In The Sky \- Club Edit](https://open.spotify.com/track/2LHBPXrnwl2A1uwWkR9eZF) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/5xhJnDqJLk1CJtdvuSOXBu) | 4:13 |
-| 10 | [MY MIND](https://open.spotify.com/track/7Kgcz89XMfj4WHtm5nd3mJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_III](https://open.spotify.com/album/1rapZi3fPJc3RLRQdxocM7) | 2:55 |
+| 10 | [MY MIND](https://open.spotify.com/track/7Kgcz89XMfj4WHtm5nd3mJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES FOR NIGHTCLUBS III](https://open.spotify.com/album/1rapZi3fPJc3RLRQdxocM7) | 2:55 |
 | 11 | [Why Do?](https://open.spotify.com/track/1HutpfzBYz0KdSo4TUiaRx) | [We Are Neurotic](https://open.spotify.com/artist/6Md8JmF20ZQgz6g54LqdIA) | [Why Do?](https://open.spotify.com/album/0kXuLvPHLYV2OsvqWcdPxh) | 5:48 |
 | 12 | [Inside Times](https://open.spotify.com/track/5yiXsIhgEhouvwNsNc6XIE) | [Josh Dives](https://open.spotify.com/artist/0D5RZwiNLoTfvvV1JoySmS) | [Inside Times](https://open.spotify.com/album/5KMl2yl1vBZmheg5NtLqKN) | 3:46 |
 | 13 | [Besserwisser](https://open.spotify.com/track/0TP6kkEvdHXoRWAhW8Urva) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [Besserwisser](https://open.spotify.com/album/4Dh6k3ofE42IeCCpPQhB5K) | 3:35 |

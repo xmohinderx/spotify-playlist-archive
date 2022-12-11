@@ -4,7 +4,7 @@
 
 > make it pop! cover: The 1975
 
-501 songs - 1 day 1 hr 29 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+502 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-25 | 2022-04-29 |
 | [Girls Like You](https://open.spotify.com/track/1h9cnXG82LBUy9l1FnYPCA) | [The Attire](https://open.spotify.com/artist/5DPoUW5HGgfsoAelpybURt) | [Songs About Girls Like You](https://open.spotify.com/album/6onQxxLCtldrdnQUkhAzHE) | 2:43 | 2022-03-18 | 2022-06-11 |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-12 | 2022-10-29 |
-| [Go Go Gadget Feat\. Marc E\. Bassy](https://open.spotify.com/track/5MJn7PREQVxQV0zzDEAUw3) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/3bnUQXYTmyk3b3JerLWmza) | 2:29 | 2022-10-28 |  |
+| [Go Go Gadget](https://open.spotify.com/track/0LpqhIXxMm4VGXbybsNyBG) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/4xgOwzb89ZUFQ7U5lYGbcV) | 2:29 | 2022-10-28 |  |
+| [Go Go Gadget Feat\. Marc E\. Bassy](https://open.spotify.com/track/5MJn7PREQVxQV0zzDEAUw3) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/3bnUQXYTmyk3b3JerLWmza) | 2:29 | 2022-10-28 | 2022-12-11 |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-29 | 2022-01-08 |
 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 | 2021-10-29 | 2021-12-25 |
 | [Good Advice](https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Good Advice](https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI) | 2:23 | 2022-04-08 | 2022-07-30 |

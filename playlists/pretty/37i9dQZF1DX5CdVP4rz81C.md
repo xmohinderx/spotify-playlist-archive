@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: CIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,800 likes - 87 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,116 likes - 87 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 51 | [Two Places at Once](https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once \(Part I\)](https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v) | 3:19 |
 | 52 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
 | 53 | [perfect](https://open.spotify.com/track/1O2P4wYlTnQ44osWR5KABJ) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [perfect](https://open.spotify.com/album/0ua5B7cz95gaRzhasuBurK) | 3:03 |
-| 54 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
+| 54 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
 | 55 | [runaway](https://open.spotify.com/track/2U0JzwKXlSz0T1wpKh7SLD) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [runaway](https://open.spotify.com/album/6L6nIaGW8ig24obaNmqGYp) | 3:03 |
 | 56 | [When All The Love Is Gone](https://open.spotify.com/track/5dfPvmSrPuhS8j7SKwCOC3) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [When All The Love Is Gone](https://open.spotify.com/album/50tEgzs9IIHisH2Rd7gKhK) | 2:49 |
 | 57 | [Priority](https://open.spotify.com/track/3YS2XHzhnFyAEmfQbLIjaM) | [Ellye Lennon](https://open.spotify.com/artist/77rboyrzZ7IKcJWX1raGGM) | [Priority](https://open.spotify.com/album/7lEsXKTCD1OspayrdWKfgQ) | 3:46 |

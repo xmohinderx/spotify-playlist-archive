@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,382 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,400 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 |
 | 2 | [Everything BoZ](https://open.spotify.com/track/1WnKJJKMtnmPdvFGOxcRVZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [!](https://open.spotify.com/album/11vLnrFGWQRbonR6wFuCf8) | 3:25 |
 | 3 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
-| 4 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
-| 5 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
+| 4 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
+| 5 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
 | 6 | [Woman Of The Year \(with Stefflon Don, Chlöe & Coi Leray\)](https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:26 |
 | 7 | [No More Parties](https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [No More Parties](https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP) | 2:20 |
 | 8 | [2055](https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 1:59 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 42 | [Clingy \(with NAV\)](https://open.spotify.com/track/5kvW17aKJGgLBsoSmuOdxM) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:26 |
 | 43 | [Options \(with Coi Leray & Wale\) \- Remix](https://open.spotify.com/track/1O110m9QKRYpE14dfqHzg5) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Options \(with Coi Leray & Wale\) \[Remix\]](https://open.spotify.com/album/3aU4rpw0vnlJF8wqzAlhcI) | 3:13 |
 | 44 | [Okay Yeah!](https://open.spotify.com/track/2MyBXnGc9dK06pceZaNIul) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Okay Yeah!](https://open.spotify.com/album/5hOKJshWZ2bLaVg0qdnVaA) | 1:40 |
-| 45 | [Good Day](https://open.spotify.com/track/3kSjbNmDdq6rgyELhRDUCk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Good Day](https://open.spotify.com/album/3ZbZ9tT5ezKW5I9QpD5pO3) | 2:00 |
-| 46 | [Do Better](https://open.spotify.com/track/0EH29Rmc5ub2b759ArNxlW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Do Better](https://open.spotify.com/album/6kD8b41MqeJzWIRJxVHDxL) | 2:28 |
+| 45 | [Do Better](https://open.spotify.com/track/0EH29Rmc5ub2b759ArNxlW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Do Better](https://open.spotify.com/album/6kD8b41MqeJzWIRJxVHDxL) | 2:28 |
+| 46 | [Good Day](https://open.spotify.com/track/3kSjbNmDdq6rgyELhRDUCk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Good Day](https://open.spotify.com/album/3ZbZ9tT5ezKW5I9QpD5pO3) | 2:00 |
 | 47 | [Boss Bitch \(feat\. Coi Leray\)](https://open.spotify.com/track/2UtlqGUjgniHzwawSJhvdh) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Boss Bitch \(feat\. Coi Leray\)](https://open.spotify.com/album/7wdF4AvgD0sDdslF9l5FgP) | 2:31 |
 | 48 | [Add It](https://open.spotify.com/track/0xIYGzbDYQLLAHmDtPWaY3) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Add It](https://open.spotify.com/album/6cdiwNAHltVS3FKRWXsism) | 1:40 |
 | 49 | [Huddy](https://open.spotify.com/track/5AJfj6wlGtaWlhd71RAxTG) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [EC2](https://open.spotify.com/album/7x4F4nXWjtsM1mCKY8ljJb) | 4:24 |
 | 50 | [American Deli \(feat\. Coi Leray\)](https://open.spotify.com/track/2GwOIEVXMZPGEJjSBF7lcp) | [Chavo](https://open.spotify.com/artist/6nlHpSAfPX5rJCuRKF2997), [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Chavo's World 2](https://open.spotify.com/album/0xntyinSE3IRByoQDvTve7) | 3:13 |
 
-Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDA4OWVhMjkxMGMyOGVhNmViZmZjMjU2MzU4MzI5NGRmMg==`
+Snapshot ID: `Mjc4NDQ5MDIsMDAwMDAwMDA2NjAwNGZiODMwOTBmYWYxMTdkNjM4NzJhY2UzZjVlNQ==`

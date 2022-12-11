@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-298 songs - 1 day 3 hr 55 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
+299 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Electronic Track 15](https://open.spotify.com/track/3CAmwEqxHr7vXX30VfrJ6B) | [Cecil Leuter](https://open.spotify.com/artist/700j6BXXlji6HaEhmN2YjX) | [Luke Vibert's Nuggets](https://open.spotify.com/album/0DCe05QuXwQB5d42nynTc6) | 1:31 | 2021-07-30 |  |
 | [En Letargo](https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [En Letargo](https://open.spotify.com/album/36bBecUrinX68SW69nmx1S) | 4:01 | 2021-11-05 |  |
 | [Equilibrio](https://open.spotify.com/track/7jkbwPOYDsXxtOLfj6YWG5) | [Unidad y Armonía](https://open.spotify.com/artist/05qFHgf1VfCSmZUgC5aLX9) | [Uno de Estos Días](https://open.spotify.com/album/4bkFmSdZeSN3ZgP8ouFBhU) | 4:52 | 2021-07-30 |  |
-| [Estratagema](https://open.spotify.com/track/0hqCVbE0yN4Ta5o8wJSbOY) | [Strange Color](https://open.spotify.com/artist/31AXponRbJJncqwRJy8CEX) | [Estratagema](https://open.spotify.com/album/1uusJlOWHPGktNiwcNhUEG) | 6:39 | 2021-07-30 |  |
+| [Estratagema](https://open.spotify.com/track/0hqCVbE0yN4Ta5o8wJSbOY) | [Strange Color](https://open.spotify.com/artist/31AXponRbJJncqwRJy8CEX) | [Estratagema](https://open.spotify.com/album/1uusJlOWHPGktNiwcNhUEG) | 6:39 | 2021-07-30 | 2022-12-11 |
+| [Estratagema](https://open.spotify.com/track/1vwL6QcEuKvFZssCdWLn9G) | [Strange Color](https://open.spotify.com/artist/31AXponRbJJncqwRJy8CEX) | [Al Borde de un Tiempo Perdido](https://open.spotify.com/album/5j0kMwZ8YPtjEx481NE8mf) | 6:39 | 2021-07-30 |  |
 | [Faithless](https://open.spotify.com/track/2wnQVsQos9IkaZ6Y4TINTZ) | [Operators](https://open.spotify.com/artist/4kU5nN9B7hXLqUg7sMiQKw) | [Faithless](https://open.spotify.com/album/7DFsCxtiR86KnkeVwIztCl) | 6:33 | 2021-07-30 | 2022-11-14 |
 | [Faithless](https://open.spotify.com/track/2zc9eAQpVwNeZCU1Z3qwcY) | [Operators](https://open.spotify.com/artist/4kU5nN9B7hXLqUg7sMiQKw) | [Faithless](https://open.spotify.com/album/10cyiwqaMjR4R9ZDUoFzYi) | 6:33 | 2021-07-30 | 2022-07-29 |
 | [Faithless](https://open.spotify.com/track/3Jdvy13itjxVS0J8p7gzfA) | [Operators](https://open.spotify.com/artist/4kU5nN9B7hXLqUg7sMiQKw) | [Radiant Dawn](https://open.spotify.com/album/1lvuiRfYHNrjgPXAGIaKR8) | 6:33 | 2021-07-30 |  |

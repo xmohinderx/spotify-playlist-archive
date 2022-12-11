@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\.  Cover: <a href="https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ">Pheelz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,206 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,356 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 91 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 |
 | 92 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM) | 2:47 |
 | 93 | [The Recipe](https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 |
-| 94 | [juju](https://open.spotify.com/track/1Ji8uyxpJ8HwW94wlEY9ip) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Rusalka](https://open.spotify.com/artist/6Xk0SRUhTv4ILc6lcKeWfV), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [next chapter](https://open.spotify.com/album/3XPXxSPsjCYee7WSYqX133) | 2:42 |
+| 94 | [juju](https://open.spotify.com/track/1Ji8uyxpJ8HwW94wlEY9ip) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Utterfly](https://open.spotify.com/artist/6TItkexev1yU2PowoyyZts), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [next chapter](https://open.spotify.com/album/3XPXxSPsjCYee7WSYqX133) | 2:42 |
 | 95 | [4AM](https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf) | [4AM](https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO) | 3:45 |
 | 96 | [Nirvana](https://open.spotify.com/track/0ZEFUsb2AVGup8SV3y3yXl) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Nirvana](https://open.spotify.com/album/2Rn7vIl03xF1ZFdB2VhtOk) | 3:18 |
 | 97 | [Say Cheese](https://open.spotify.com/track/601WxmzITFziMCk3iuNps7) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Blue](https://open.spotify.com/album/3dHnvFaf3fJFPqCOjzWURD) | 2:25 |

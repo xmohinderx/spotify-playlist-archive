@@ -8,6 +8,42 @@
   "tracks": [
     {
       "album": {
+        "name": "12 Bande",
+        "url": "https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u"
+      },
+      "artists": [
+        {
+          "name": "Varinder Brar",
+          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204507,
+      "name": "12 Bande",
+      "url": "https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y"
+    },
+    {
+      "album": {
+        "name": "2 Kamm",
+        "url": "https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0"
+      },
+      "artists": [
+        {
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146062,
+      "name": "2 Kamm",
+      "url": "https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0"
+    },
+    {
+      "album": {
         "name": "2 Raflaan (feat. Gurlej Akhtar)",
         "url": "https://open.spotify.com/album/7GU2LBCmdNCMJzLTxuPAiR"
       },
@@ -153,7 +189,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 191868,
       "name": "Akhiyaan",
       "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
@@ -179,7 +215,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 201600,
       "name": "All Aces",
       "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
@@ -292,6 +328,24 @@
     },
     {
       "album": {
+        "name": "Bewafa",
+        "url": "https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan",
+          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ"
+    },
+    {
+      "album": {
         "name": "Above All",
         "url": "https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG"
       },
@@ -391,6 +445,32 @@
       "duration_ms": 175890,
       "name": "Black Effect",
       "url": "https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/36x75E36kXJhu2Mvc11h7y"
+      },
+      "artists": [
+        {
+          "name": "Gurbax",
+          "url": "https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG"
+        },
+        {
+          "name": "Burrah",
+          "url": "https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS"
+        },
+        {
+          "name": "MC Altaf",
+          "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/1mFP5PZWD1TUX1NWVx5EaW"
     },
     {
       "album": {
@@ -1521,7 +1601,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 232253,
       "name": "Jhanjran",
       "url": "https://open.spotify.com/track/3Q8JtzzQIL7DdiDg33DicB"
@@ -1864,6 +1944,28 @@
     },
     {
       "album": {
+        "name": "Mehrma",
+        "url": "https://open.spotify.com/album/5AfAcHsIHhHJOYZPvvyFHS"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        },
+        {
+          "name": "DJ LYAN",
+          "url": "https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216867,
+      "name": "Mehrma",
+      "url": "https://open.spotify.com/track/56L6jhPtECVZTn0GmPolKm"
+    },
+    {
+      "album": {
         "name": "A for Arjan",
         "url": "https://open.spotify.com/album/1QWzDrem3DVrc3nBForpg4"
       },
@@ -1897,7 +1999,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 273251,
       "name": "Mitti De Tibbe",
       "url": "https://open.spotify.com/track/1VVqsCfNCti67jzUKNjSKw"
@@ -2311,7 +2413,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 196133,
       "name": "Phulkari",
       "url": "https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO"
@@ -2333,6 +2435,24 @@
       "duration_ms": 162346,
       "name": "Plug Talk",
       "url": "https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z"
+    },
+    {
+      "album": {
+        "name": "Putt Sardara De",
+        "url": "https://open.spotify.com/album/3Nil2VHLzpRrQ1HtInBsYi"
+      },
+      "artists": [
+        {
+          "name": "Davvy",
+          "url": "https://open.spotify.com/artist/1vGOnQzBvNbdaaYBYzsU3z"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133642,
+      "name": "Putt Sardara De",
+      "url": "https://open.spotify.com/track/4E0ytkzNm1H6HCtMhroi8c"
     },
     {
       "album": {
@@ -2541,7 +2661,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 165082,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/0NWWEG9qTxDKNARVQf6eDS"
@@ -2661,7 +2781,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 200769,
       "name": "Sira E Hou",
       "url": "https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ"
@@ -2679,7 +2799,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 218666,
       "name": "So High",
       "url": "https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,979 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,986 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 22 | [Wah Fu Dance \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/4owkTdzI6xtBFRbnZQWFiK) | [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [So Calypso !](https://open.spotify.com/album/0Cr6LMHp2MfIaAB9wcsbzX) | 4:09 |
 | 23 | [Sedjedo](https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:56 |
 | 24 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oremi](https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC) | 3:49 |
-| 25 | [Crosseyed and Painless](https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:28 |
-| 26 | [Blewu](https://open.spotify.com/track/5KV7qHIhx8nmuOiqvqti0Z) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Notes for the Future](https://open.spotify.com/album/3nxa5sJ1kyGqmSUDNW5VM5) | 2:51 |
+| 25 | [Blewu](https://open.spotify.com/track/5KV7qHIhx8nmuOiqvqti0Z) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Notes for the Future](https://open.spotify.com/album/3nxa5sJ1kyGqmSUDNW5VM5) | 2:51 |
+| 26 | [Crosseyed and Painless](https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:28 |
 | 27 | [We Are One](https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [The Lion King 2: Simba's Pride](https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy) | 4:10 |
 | 28 | [Flying High](https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:53 |
 | 29 | [Djin Djin](https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:18 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 43 | [Ahan](https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 4:04 |
 | 44 | [Bahia](https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:32 |
 | 45 | [Wombo Lombo](https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 4:15 |
-| 46 | [Lady](https://open.spotify.com/track/6kixQpOqh28TiGN0Xm70U9) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Akua Naru](https://open.spotify.com/artist/2xxyuUOZJxayJDF6SxLG2K) | [Lady](https://open.spotify.com/album/1hssP3abybgapegXIY6NjW) | 5:15 |
-| 47 | [Wanyinyin](https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [MHD](https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE) | 3:25 |
+| 46 | [Wanyinyin](https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [MHD](https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE) | 3:25 |
+| 47 | [Lady](https://open.spotify.com/track/6kixQpOqh28TiGN0Xm70U9) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Akua Naru](https://open.spotify.com/artist/2xxyuUOZJxayJDF6SxLG2K) | [Lady](https://open.spotify.com/album/1hssP3abybgapegXIY6NjW) | 5:15 |
 | 48 | [Le monde comme un bébé](https://open.spotify.com/track/33xaQMAJxMJx61qIZA3zm4) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Oyaya !](https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8) | 2:42 |
 | 49 | [Iwoya \(feat\. Dave Matthews\)](https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:46 |
 | 50 | [Eyin](https://open.spotify.com/track/6P0qBYmfNVbvydDYgdKS0j) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 3:58 |
 
-Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBjYmM0YmMxNWU0MTFmYjI0ZGVhYWQ0ZWZkYjdmOThlMg==`
+Snapshot ID: `Mjc4NDQ5MDEsMDAwMDAwMDAzM2NhNTE3N2Q1MjcwMGRiMmI2NTk1NTY2MTVkOGI5ZQ==`

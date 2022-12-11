@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from A Boogie Wit da Hoodie ft\. Kodak Black, YG ft\. Lil Wayne, and Polo G is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,999 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,017 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 19 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 |
 | 20 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 21 | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ) | 1:36 |
-| 22 | [One of a Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One of a Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 |
+| 22 | [One Of A Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One Of A Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 |
 | 23 | [Casper](https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 3:17 |
 | 24 | [Don't Look Up](https://open.spotify.com/track/2hEzbMdKzJTcMSvUwXL153) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [ALPHA PLACE \(Deluxe\)](https://open.spotify.com/album/43990rLi4Lh9PkJBJ2m2TC) | 1:57 |
 | 25 | [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 |

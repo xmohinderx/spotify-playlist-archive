@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 148402,
       "name": "Beyo\u011flu",
       "url": "https://open.spotify.com/track/1qFiddLkQ7saFavoVIBpsF"
@@ -2213,7 +2213,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 231369,
       "name": "Bu Saatten Sonra",
       "url": "https://open.spotify.com/track/53QUjrQ8BygCTBXfIs1Beu"
@@ -2673,6 +2673,24 @@
       "duration_ms": 96240,
       "name": "Dawn FM",
       "url": "https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE"
+    },
+    {
+      "album": {
+        "name": "Dayanamam",
+        "url": "https://open.spotify.com/album/3tV1CUeVadMIGv7idVrBtv"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157521,
+      "name": "Dayanamam",
+      "url": "https://open.spotify.com/track/4V7xs605t9EWS81GSbP1il"
     },
     {
       "album": {
@@ -5288,6 +5306,24 @@
     },
     {
       "album": {
+        "name": "\u0130NATLA",
+        "url": "https://open.spotify.com/album/0pcQvIDHmRlWxi7JUg2vxr"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129354,
+      "name": "\u0130NATLA",
+      "url": "https://open.spotify.com/track/5d1eOk5l7IRRLcvupApHi1"
+    },
+    {
+      "album": {
         "name": "Y\u0131llar Affetmez",
         "url": "https://open.spotify.com/album/3MEwxwYMEHjElfE7AEnpfd"
       },
@@ -7457,7 +7493,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 178700,
       "name": "NKB\u0130",
       "url": "https://open.spotify.com/track/52KeXv6Ha1ndWru3WzdNkQ"
@@ -7875,7 +7911,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "PAPARAZZI",
       "url": "https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof"

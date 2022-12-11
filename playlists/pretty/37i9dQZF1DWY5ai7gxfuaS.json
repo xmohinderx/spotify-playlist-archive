@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Bring Me The Horizon",
-  "num_followers": 200155,
+  "num_followers": 200493,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTczNiwwMDAwMDAwMGRmZmNhYmYyM2FmM2ZjNzRlYjQwYmNhZTU0YmQyNWRm",
+  "snapshot_id": "MTY2ODczNTczNiwwMDAwMDAwMDE1Y2Q5OTdiZjQwNzdmNjUzOTk4ZTE1NjE3OGNhN2Yy",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 276764,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "I Spit On Your Grave",
         "url": "https://open.spotify.com/album/7MqqZttKOfY4VvN77e6Mv4"
       },
@@ -387,26 +371,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "FAIRY PHONK",
-        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        },
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "KILL ALL PREDATORS",
-      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Cheaper Than Therapy",
         "url": "https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb"
       },
@@ -423,6 +387,26 @@
       "duration_ms": 288002,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "FAIRY PHONK",
+        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        },
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "KILL ALL PREDATORS",
+      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1343,6 +1327,22 @@
       "duration_ms": 257199,
       "name": "Embers\u00f3lyom - Kal\u00e1ka",
       "url": "https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "AN ITERATION",
+        "url": "https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "duration_ms": 173154,
+      "name": "AN ITERATION",
+      "url": "https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6"
     }
   ],
   "unique_name": "Alternative Metal",

@@ -10217,10 +10217,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 156655,
       "name": "magic carpet",
       "url": "https://open.spotify.com/track/6dwDDqVN2XgPnirvrYGEW4"
+    },
+    {
+      "album": {
+        "name": "magic carpet",
+        "url": "https://open.spotify.com/album/7BLc4eJB3AwCkkdafmeQUV"
+      },
+      "artists": [
+        {
+          "name": "LYFE",
+          "url": "https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156655,
+      "name": "magic carpet",
+      "url": "https://open.spotify.com/track/6m7GJPzOoXkruUw4aIZSxC"
     },
     {
       "album": {

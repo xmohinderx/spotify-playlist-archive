@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Yotto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,005,932 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,065 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 30 | [KILO](https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO](https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y) | 5:10 |
 | 31 | [Voices](https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Voices](https://open.spotify.com/album/52gQRKXJIoJbQoA49NzSiL) | 3:03 |
 | 32 | [TRIBAL SPACEMAN](https://open.spotify.com/track/58e8LmPXhPlenHfYoaQnBu) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TRIBAL SPACEMAN](https://open.spotify.com/album/5XvNl4yk4g2rfN0dNYTM7x) | 3:56 |
-| 33 | [hace ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 |
+| 33 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 |
 | 34 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 |
 | 35 | [Missing Channel \- Original Mix](https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 6:32 |
 | 36 | [Is Mine](https://open.spotify.com/track/2OVKwL3wYbbaKjGTCKS0Cc) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [Is Mine](https://open.spotify.com/album/1KSDLMWVPRjKQgxafjrdJR) | 5:44 |

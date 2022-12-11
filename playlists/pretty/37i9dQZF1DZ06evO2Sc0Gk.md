@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,758 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,765 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 40 | [The Don](https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Don](https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z) | 2:48 |
 | 41 | [Short Skirt](https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 2:48 |
 | 42 | [E Be Mad](https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Something Else](https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu) | 2:54 |
-| 43 | [Keys to the City \(Ogede\)](https://open.spotify.com/track/6J7sw67vUDQxoGnlaB1thc) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
-| 44 | [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 |
+| 43 | [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 |
+| 44 | [Keys to the City \(Ogede\)](https://open.spotify.com/track/6J7sw67vUDQxoGnlaB1thc) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
 | 45 | [Come Online \(feat\. King Promise & Diquenza\) \- Remix](https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV) | [Come Online \(feat\. King Promise & Diquenza\) \[Remix\]](https://open.spotify.com/album/274GoQpEkHY1xUELkKPEnr) | 2:36 |
 | 46 | [Breakup Riddim](https://open.spotify.com/track/6eQJlOBTVunZYc0DvVj1H0) | [DJ Aroma](https://open.spotify.com/artist/6JAmITwWmfcxmfTMRw1Qtq), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Nhlanhla Nciza](https://open.spotify.com/artist/5RWkCVS7J5JkzumQrh7uBd) | [Breakup Riddim](https://open.spotify.com/album/4jgEls0nOqJJdC2WepmEdf) | 3:24 |
-| 47 | [Surrender](https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:42 |
-| 48 | [I No Go Give Up On You](https://open.spotify.com/track/5gj2HpTTav81pD714RdU1O) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN) | [I No Go Give Up On You](https://open.spotify.com/album/4UZuNQHxYYKSr3c336LsvY) | 2:40 |
+| 47 | [I No Go Give Up On You](https://open.spotify.com/track/5gj2HpTTav81pD714RdU1O) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN) | [I No Go Give Up On You](https://open.spotify.com/album/4UZuNQHxYYKSr3c336LsvY) | 2:40 |
+| 48 | [Surrender](https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:42 |
 | 49 | [Abracadabra](https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Abracadabra](https://open.spotify.com/album/5XasIPDB4ageL0kjrEukzE) | 3:15 |
 | 50 | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/album/5vZve4QjlsMH4YGVRAT9GO) | 3:06 |
 
-Snapshot ID: `Mjc4NDM0NzUsMDAwMDAwMDBhYTE0NThlZmRiOWRmZjRlZTIzOTlkZDZiM2NlMzBmNA==`
+Snapshot ID: `Mjc4NDQ5MDIsMDAwMDAwMDBjN2Y3NzY0MTYyNzk3OWRhMWVmNmQ5NmFjZjBjZDg5Mw==`

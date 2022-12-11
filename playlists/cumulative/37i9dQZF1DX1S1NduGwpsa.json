@@ -2151,6 +2151,24 @@
     {
       "album": {
         "name": "Live at The Pool",
+        "url": "https://open.spotify.com/album/2OwMy6Pz2NyAyp5UtXS3N9"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235004,
+      "name": "Moonlight - Live at The Pool",
+      "url": "https://open.spotify.com/track/0AI8ybSIh5HGcxtKPlePNr"
+    },
+    {
+      "album": {
+        "name": "Live at The Pool",
         "url": "https://open.spotify.com/album/6M29Sszq5nhmXypZ90scA6"
       },
       "artists": [
@@ -2161,7 +2179,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 235004,
       "name": "Moonlight - Live at The Pool",
       "url": "https://open.spotify.com/track/6gGTm4ceRg1eE604KhJnXX"

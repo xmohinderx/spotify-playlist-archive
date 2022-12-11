@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 
 > Top Bollywood songs from 2000s till 2010
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,243 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,771 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with G Jones & ISOxo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,809 likes - 147 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,870 likes - 147 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

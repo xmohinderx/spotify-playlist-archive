@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: tripleS
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,506 likes - 72 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,547 likes - 72 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

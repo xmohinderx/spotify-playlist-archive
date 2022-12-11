@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-528 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+529 songs - 1 day 8 hr 19 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 | 2021-12-10 | 2022-05-30 |
 | [小城夏天](https://open.spotify.com/track/4QZMBVrBLAvBryj8ZJIIY2) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [小城夏天](https://open.spotify.com/album/2gBtz9cBcRTBvsux9pv9KF) | 2:53 | 2022-08-08 |  |
 | [少年](https://open.spotify.com/track/56XaEf9Mo2Njaxa9TIn5LR) | [梦然](https://open.spotify.com/artist/6taSlFSqCqAEUHOliFyHt7) | [少年](https://open.spotify.com/album/5bXN7segGUJUfO1DvQ4QN2) | 3:56 | 2021-03-27\* | 2021-07-29 |
-| [就忘了吧](https://open.spotify.com/track/0l6w3GsvjJWdZHs3eXTjuL) | [1K](https://open.spotify.com/artist/1zd6jcOk4VE6ey8WbCewFc) | [就忘了吧](https://open.spotify.com/album/2i3Y97GZZj6pH1DTYyyrRt) | 3:23 | 2022-05-08 |  |
+| [就忘了吧](https://open.spotify.com/track/0l6w3GsvjJWdZHs3eXTjuL) | [1K](https://open.spotify.com/artist/1zd6jcOk4VE6ey8WbCewFc) | [就忘了吧](https://open.spotify.com/album/2i3Y97GZZj6pH1DTYyyrRt) | 3:23 | 2022-05-08 | 2022-12-11 |
 | [尽管如此,还是](https://open.spotify.com/track/743uT4l3ZXwkIyKcIaVpUL) | [阿肆](https://open.spotify.com/artist/357csbZcykP50H4eQ4Dq7E), [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [成为了这样的大人,并不可耻](https://open.spotify.com/album/2HpyYJxrWTUyp7Q2NqNPu7) | 4:39 | 2021-11-13 | 2021-11-14 |
 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 | 2022-07-01 | 2022-07-12 |
 | [山山 \(Original Version\) ft.高仰辰 Tipsy Kao](https://open.spotify.com/track/2sk6oHrR90KgmGU0848UnA) | [大淵 MUTA](https://open.spotify.com/artist/4pWDJ1CIEJGf6AzU1HIDgM), [高仰辰 Tipsy Kao](https://open.spotify.com/artist/3Z6L2EVQVQvet1oSZcBVno) | [山山 \(Original Version\) ft\. Tipsy](https://open.spotify.com/album/4VFLLs91AJWmp2D74GNqGO) | 2:41 | 2021-04-30 | 2021-05-06 |
@@ -501,6 +501,7 @@
 | [行走的魚](https://open.spotify.com/track/1hM4pPeGTcH3yJImQPFrXt) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [行走的魚](https://open.spotify.com/album/5jdjB6M5n2JbbjUPYCEtlD) | 4:05 | 2022-09-21 | 2022-10-13 |
 | [裹著心的光](https://open.spotify.com/track/4qasQt2JsuBK8ZwERwuAZO) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [裹著心的光](https://open.spotify.com/album/5Ahq8CVYewyMVVjIcHgqUO) | 4:33 | 2021-06-18 | 2021-07-01 |
 | [親吻了再摸索](https://open.spotify.com/track/2tOHD9CrjGn4dkguAA3HDM) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [親吻了再摸索](https://open.spotify.com/album/0d0zy5vk4q8tNHsOXmFjk3) | 3:41 | 2021-10-16 | 2021-10-23 |
+| [親愛的對象 \- 《關於我和鬼變成家人的那件事》電影主題曲](https://open.spotify.com/track/70ywpHtaToCmnULRT9Vu4p) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \(《關於我和鬼變成家人的那件事》電影主題曲\)](https://open.spotify.com/album/6ohthacCclaqEnO1xfEUu6) | 4:54 | 2022-12-10 |  |
 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 | 2022-08-31 |  |
 | [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2022-07-15 | 2022-08-24 |
 | [說好不哭](https://open.spotify.com/track/56wVfJKtnwlSZtC4NVgIrf) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [說好不哭](https://open.spotify.com/album/1aNkIWX1Uz0mSUK3OAFygO) | 3:42 | 2021-03-27\* | 2021-07-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,323 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,492 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 23 | [Mystik](https://open.spotify.com/track/5BLRxxzmsarOfxmEjyLCL3) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/5k4PBOleT4GGZy8DCnyYYw) | 4:11 |
 | 24 | [Back to My Ways](https://open.spotify.com/track/4y35wvOfqaQHviNM8lR0tE) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Back to My Ways](https://open.spotify.com/album/5PEra2sBfLlX46QY6CFcYS) | 5:47 |
 | 25 | [Cavalier](https://open.spotify.com/track/5EZtdixblbGqUjqHYRJUHN) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Jeorge II](https://open.spotify.com/artist/5fM9asFPJ7skVt3GHrryM0) | [Chrysalis](https://open.spotify.com/album/7oTitPtEOTbcfza5F95RJQ) | 3:51 |
-| 26 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 |
+| 26 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
 | 27 | [A Trick of the Light](https://open.spotify.com/track/2nBsRu0nPWCmfXvLaf9u8L) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [A Trick of the Light](https://open.spotify.com/album/3qAqTaAeKYyccquZlEqRwV) | 4:08 |
 | 28 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 29 | [Olympians \- Acoustic](https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 4:57 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 159 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 160 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDQ3MjUxMDY1YTZhNDUxNjQ4MDFlMjM5MzdiY2JkNGFk`
+Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMGJkNzRhZTk1ODQzMWI4OWM4MmM4ZDZkNzg4ZjAwMTAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > Somehow heartbreak feels good in a place like this\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,301,244 likes - 150 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,577 likes - 150 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
