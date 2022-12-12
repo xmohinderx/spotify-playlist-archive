@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=OU5FKH36SwOa\-SIJy8IJ5Q">Kelvin Momo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,703 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,235 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 42 | [Tamati 2.0](https://open.spotify.com/track/3nsGoLGfcstF2zCaG03Ahd) | [Snow Deep](https://open.spotify.com/artist/31wydQx3Jc53Ql9whp9yP1), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [DJ THE MXO](https://open.spotify.com/artist/3PE9L43fjymtOSiKNe7zJw) | [Tamati 2.0](https://open.spotify.com/album/3VvWxfxZWZcCPf6xxCbHOx) | 4:33 |
 | 43 | [JIKELEZA](https://open.spotify.com/track/4wTos9APx8cxxB05juS3Ax) | [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [FAKE LOVE](https://open.spotify.com/artist/6q1scEOnZSOfbc4tvhgOgC), [Sv Muziq](https://open.spotify.com/artist/5oNrk8mUMvuJ1cbkd7UDJK) | [JIKELEZA](https://open.spotify.com/album/49sJyZ8xbOp6UCfE19X79p) | 5:48 |
 | 44 | [Khusela \(feat\. Msaki\)](https://open.spotify.com/track/1ULFJZX54HXXjSTMx63dk0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 8:21 |
-| 45 | [Langa Elihle](https://open.spotify.com/track/5XuAJ9dyuLKt7BRMxhqxEQ) | [TpZee](https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ), [King JS](https://open.spotify.com/artist/4D1BjSnqJpmb96OzDFxX4z) | [Langa Elihle \(Tpzee01\)](https://open.spotify.com/album/5xq1asll3chTkXF5ggDGEf) | 6:43 |
+| 45 | [Langa Elihle](https://open.spotify.com/track/5XuAJ9dyuLKt7BRMxhqxEQ) | [TpZee](https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ), [King JS](https://open.spotify.com/artist/4D1BjSnqJpmb96OzDFxX4z) | [Langa Elihle](https://open.spotify.com/album/5xq1asll3chTkXF5ggDGEf) | 6:43 |
 | 46 | [Mama](https://open.spotify.com/track/7DQMBUK4oX9gV1qIzpoRz6) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Mama](https://open.spotify.com/album/2lc6GfPXhRMVrJsBKq1WjU) | 7:30 |
 | 47 | [Ecstasy \(feat\. Da Muziqal Chef & Okashii\)](https://open.spotify.com/track/0JMHBMbVdiKn2J6wAoKzNY) | [Spumante](https://open.spotify.com/artist/7e91LHOm22NlOu4O9n0RvH), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Okashii](https://open.spotify.com/artist/0GHkCL1VgYAZtg84L72RIJ) | [SEASON TEN](https://open.spotify.com/album/5LBImc8rg2B9bwdMwdp34E) | 5:44 |
 | 48 | [Sheik Money](https://open.spotify.com/track/2KhvyHI9cjxaaq1MHhkL1V) | [FLUXX](https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf), [TheBoyTapes](https://open.spotify.com/artist/6ul6rON4n7muiiM9rMnBP8), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [Sheik Money](https://open.spotify.com/album/1wiIdXJbKCBBHK6i3ce3Zh) | 6:10 |

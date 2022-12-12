@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 376476,
+  "num_followers": 376884,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk5OTgyMSwwMDAwMDAwMGZkYTY5NDhlMzQzNjY5ZDhmMzgwOWIyMjdkZDAzMGZm",
+  "snapshot_id": "MTY2Nzk5OTgyMSwwMDAwMDAwMGY2MDBmMjUzMTY3NGQ2MjYzZmI2YjM4NTY3NDc1NDYw",
   "tracks": [
     {
       "added_at": "2022-11-09 13:17:01",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-11-09 13:17:01",
       "album": {
-        "name": "Quando Amanhecer",
-        "url": "https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR"
-      },
-      "artists": [
-        {
-          "name": "Lado de C\u00e1",
-          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Quando Amanhecer",
-      "url": "https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw"
-    },
-    {
-      "added_at": "2022-11-09 13:17:01",
-      "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
+    },
+    {
+      "added_at": "2022-11-09 13:17:01",
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 221624,
+      "name": "Duas da Tarde",
+      "url": "https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

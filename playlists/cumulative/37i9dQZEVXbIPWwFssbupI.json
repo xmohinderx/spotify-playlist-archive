@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2557,7 +2557,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -3133,7 +3133,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 241160,
       "name": "C'est pas la mairie",
       "url": "https://open.spotify.com/track/5nBrRMKHC53PPyXykYVVPk"
@@ -3473,7 +3473,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 175373,
       "name": "Camouflage",
       "url": "https://open.spotify.com/track/5bPlXdESTlD0Wgp4m3khHO"
@@ -5825,7 +5825,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
@@ -6309,7 +6309,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 177306,
       "name": "Eh \u00e7a va Guy",
       "url": "https://open.spotify.com/track/5bXv7jlAxaHsZJ5fshf5Xe"
@@ -7477,7 +7477,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 181466,
       "name": "Forbidden",
       "url": "https://open.spotify.com/track/5lxIW1YijMLio4srCKxch2"
@@ -8253,7 +8253,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 218586,
       "name": "Grazie la zone",
       "url": "https://open.spotify.com/track/5DQQfgrqgRpkUO6HXtx1jK"
@@ -8743,7 +8743,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 238773,
       "name": "H\u00e9ros",
       "url": "https://open.spotify.com/track/33AXuuLcrOwybbiZ6hcCQy"
@@ -8809,6 +8809,24 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "album": {
+        "name": "I'm So Excited",
+        "url": "https://open.spotify.com/album/093iA3ZvTkpHNfWtiDKhiz"
+      },
+      "artists": [
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175047,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/5uiQynC3Gq7tR7U41BONTF"
     },
     {
       "album": {
@@ -10947,7 +10965,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -11359,7 +11377,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 203880,
       "name": "Le Rrrin",
       "url": "https://open.spotify.com/track/6c98tCXNxq1xq8Gxe7XQhZ"
@@ -15405,7 +15423,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 143525,
       "name": "Pas b\u00eate",
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
@@ -15859,7 +15877,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 208946,
       "name": "Pistolet 45",
       "url": "https://open.spotify.com/track/28sz0xiDFDcEXHdVjnv1ZJ"
@@ -16165,6 +16183,24 @@
       "duration_ms": 227893,
       "name": "Portes Suicide",
       "url": "https://open.spotify.com/track/6ZcKyt3c0bnJjn4igDFrzf"
+    },
+    {
+      "album": {
+        "name": "Montagnes Russes",
+        "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
+      },
+      "artists": [
+        {
+          "name": "Lujipeka",
+          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159173,
+      "name": "Poup\u00e9e Russe",
+      "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
     },
     {
       "album": {
@@ -18571,7 +18607,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"

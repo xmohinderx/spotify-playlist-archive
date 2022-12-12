@@ -4225,6 +4225,14 @@
         {
           "name": "PALHA\u00c7O DO FUNK",
           "url": "https://open.spotify.com/artist/7ahhyMcYSudNDKeSbjzdcG"
+        },
+        {
+          "name": "Mc Jessica do escad\u00e3o",
+          "url": "https://open.spotify.com/artist/5GL61oWz7b59KKnJfzlgrC"
+        },
+        {
+          "name": "DJ JULLINHO 013",
+          "url": "https://open.spotify.com/artist/2aeGWevGIYz2abbL373HVk"
         }
       ],
       "date_added": "2022-11-25",
@@ -5809,6 +5817,10 @@
           "url": "https://open.spotify.com/artist/5NTYeBxuaFuZ6uU9bpdVmd"
         },
         {
+          "name": "CLUB DA DZ7",
+          "url": "https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql"
+        },
+        {
           "name": "DJ KS 011",
           "url": "https://open.spotify.com/artist/18sjZlZI0nWBzayixdp6UY"
         },
@@ -7207,7 +7219,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -8597,7 +8609,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
@@ -15044,6 +15056,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -16321,7 +16351,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"

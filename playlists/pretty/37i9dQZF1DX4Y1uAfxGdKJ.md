@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,120 likes - 106 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,184 likes - 106 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 100 | [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 |
 | 101 | [Eridani](https://open.spotify.com/track/5QkMlAxHmZG33OGA81oWSa) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Eridani](https://open.spotify.com/album/6UVuoIa23nsZimsHnTFzxZ) | 3:48 |
 | 102 | [Blanket](https://open.spotify.com/track/5OpS0HoEEV6N54WiSH0ibt) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Blanket](https://open.spotify.com/album/5xMmziIduhAQBO3Xzpx4ns) | 2:27 |
-| 103 | [Drift](https://open.spotify.com/track/2fJwyJQ9h6qEBHJVcqZuPr) | [Lazy Driver](https://open.spotify.com/artist/0jG3gNHWXpfK1iGHLWKVKm) | [Drift](https://open.spotify.com/album/4JgPHkbu2r3lGQR9cXZ4UO) | 3:58 |
+| 103 | [Drift](https://open.spotify.com/track/2fJwyJQ9h6qEBHJVcqZuPr) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Drift](https://open.spotify.com/album/4JgPHkbu2r3lGQR9cXZ4UO) | 3:58 |
 | 104 | [Tempted](https://open.spotify.com/track/6hiA6WO0DRm9D480BIGqOT) | [Summon U](https://open.spotify.com/artist/0TyHSpKbAEP2QoXB7jVxCE) | [Technically Sane](https://open.spotify.com/album/3zVigb4My48jZIPLWVDiRW) | 2:55 |
 | 105 | [canggu \- Edit](https://open.spotify.com/track/0jy4TqKxOwZoraKJkle0dC) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [canggu \(Edit\)](https://open.spotify.com/album/6X8rpYiAaelLkwZK9Vx32k) | 2:23 |
 | 106 | [ocean walk](https://open.spotify.com/track/34WwE20Cawvpowutt29ieG) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [ocean walk](https://open.spotify.com/album/6IxeXdhmaOPk66JJcWDVur) | 3:20 |

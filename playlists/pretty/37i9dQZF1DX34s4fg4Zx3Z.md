@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Hay nhất từ Fresh Finds Vietnam 2022\. Ảnh bìa: Winno
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,463 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,476 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 75 | [Tình Yêu Là Cái Quái Gì](https://open.spotify.com/track/5JrkMoCwTByk79R3O5tyrO) | [Lena](https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT) | [Tình Yêu Là Cái Quái Gì](https://open.spotify.com/album/6EKsPewZzL4gSrXZBZ7ba6) | 2:32 |
 | 76 | [Trao Em Tình Yêu](https://open.spotify.com/track/0vgMjbZgwpcrkQXjRqSQwA) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW), [Darki](https://open.spotify.com/artist/5Oe02XQcUF74wOofnIl9b2) | [Trao Em Tình Yêu](https://open.spotify.com/album/1E8YpWgwRWDXZDrkgTvm0M) | 3:07 |
 | 77 | [Màu Mây](https://open.spotify.com/track/5lEjAHi8dT4fFbzWy2Hnxt) | [SimonC](https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ) | [Màu Mây](https://open.spotify.com/album/3srzn1cw2mm5XTmV8THdbn) | 2:49 |
-| 78 | [Chúng Ta Từng Có Nhau](https://open.spotify.com/track/0Ch1IG8z2Wsc0CfR3gx4qZ) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7), [Poll](https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN) | [Chúng Ta Từng Có Nhau](https://open.spotify.com/album/5YTYzbRGXI9WYtneJb8eKb) | 3:46 |
+| 78 | [Chúng Ta Tùng Có Nhau](https://open.spotify.com/track/4pKNiPicpskxln0gekPZID) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Chúng Ta Tùng Có Nhau](https://open.spotify.com/album/3KdP9K6leX3GTHGr75xjKy) | 3:46 |
 | 79 | [Ngại Ngùng](https://open.spotify.com/track/26c7o6WHqYWBSvL8kJ1z0J) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [MC Wiz](https://open.spotify.com/artist/4sukkkUXTLXloBgZPRUEad) | [Ngại Ngùng](https://open.spotify.com/album/2KJmh3930S2eDbuJT42HQs) | 3:00 |
 | 80 | [daybyday](https://open.spotify.com/track/4PAZ3N5yObypeVI7KmHZZI) | [SIVAN](https://open.spotify.com/artist/0wJWawRvX8K9joiK9QqkX5) | [daybyday](https://open.spotify.com/album/3L3XlPYtzEGyT1MGPY2okb) | 3:25 |
 | 81 | [Cold kid](https://open.spotify.com/track/1uv9uA1f4MTcS43dIbr3us) | [Bennn](https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS), [CapsCtrl](https://open.spotify.com/artist/7wN7vb40xrBRCvPEfeyNy5) | [Cold kid](https://open.spotify.com/album/6VNXXCiEuRA5AtMKseGu70) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Ngọt Như Cherry \(feat\. Hằng Bơ\)](https://open.spotify.com/track/6ThTWv8l257SaiRULWjIdC) | [Ahn](https://open.spotify.com/artist/3KMl4axmm1nAW7ASB8vXFT), [Hằng Bơ](https://open.spotify.com/artist/5CyYSwHf4gGYqos834MWme) | [Ngọt Như Cherry](https://open.spotify.com/album/3xd47RGKaWQm1pEaoaDIt0) | 3:52 |
 | 100 | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/track/0yJ6z2SkZj3to9AfOXyUeS) | [Fong](https://open.spotify.com/artist/5Y9b5Ez8MKbGOdRGF9exkq), [Zxdiac](https://open.spotify.com/artist/2JdXVtDSwx0INNNd4pyZYI) | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/album/5Vt6QOKttJbwHIYvBlkvff) | 3:31 |
 
-Snapshot ID: `MTY2OTg2Njg3NiwwMDAwMDAwMGZlY2UyYjkxYWQ3MDQyNjVkMTUyMTQ0NWQxNDIxMzdk`
+Snapshot ID: `MTY2OTg2Njg3NiwwMDAwMDAwMDU3ZjMzY2FjN2I0MWZjN2NhOWNiYzMxYzQyYTdiYjk3`

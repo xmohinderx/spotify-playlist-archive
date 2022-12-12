@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Skillet
 
-586 songs - 1 day 11 hr 14 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+587 songs - 1 day 11 hr 18 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [Like A Drug](https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:32 | 2022-06-10 | 2022-10-08 |
 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 | 2022-02-25 | 2022-10-15 |
 | [Limit](https://open.spotify.com/track/78IZg4QfN6kegtvl4Vgayo) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Limit](https://open.spotify.com/album/09FsXW3fjJlmVKNMpOCLUL) | 4:17 | 2022-12-02 |  |
-| [Live by the Gun \( feat\. Ice\-T \)](https://open.spotify.com/track/4qOp8ymDf9u2T1uvUPL0Cq) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Live by the Gun](https://open.spotify.com/album/4W8CCom5htHk8yUrHJeB02) | 3:33 | 2022-10-07 |  |
+| [Live by the Gun \( feat\. Ice\-T \)](https://open.spotify.com/track/4qOp8ymDf9u2T1uvUPL0Cq) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Live by the Gun](https://open.spotify.com/album/4W8CCom5htHk8yUrHJeB02) | 3:33 | 2022-10-07 | 2022-12-12 |
+| [LIVE BY THE GUN \(feat\. Ice\-T\)](https://open.spotify.com/track/1BZk6GOuwYujOqrdzKdX4x) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Welcome to the West Coast III](https://open.spotify.com/album/4D5DPlknQPa9rRGZkJeGo2) | 3:33 | 2022-12-09 |  |
 | [Live Like This](https://open.spotify.com/track/5CkNMoWHtL0OxNqZSilmYU) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Live Like This](https://open.spotify.com/album/7w6qO7IK9y49S15hmxDiFq) | 3:56 | 2022-05-06 |  |
 | [Looking To Fight](https://open.spotify.com/track/4OqswqAHyGJykRO4WO86e6) | [Saul](https://open.spotify.com/artist/3bpsYqqHc3GqU3WclK4dpp) | [Rise As Equals](https://open.spotify.com/album/5yvG86aA4g307xeryVkjCo) | 3:50 | 2021-07-16 | 2022-02-19 |
 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 | 2022-07-15 | 2022-08-20 |

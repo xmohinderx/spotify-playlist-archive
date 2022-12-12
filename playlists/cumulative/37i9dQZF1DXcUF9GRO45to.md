@@ -2,7 +2,7 @@
 
 ### [French Noise](https://open.spotify.com/playlist/37i9dQZF1DXcUF9GRO45to)
 
-> French scene makes some noise! Cover: Storm Orchestra
+> French scene makes some noise!
 
 212 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
 
@@ -44,7 +44,7 @@
 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 | 2021-12-15 | 2022-04-05 |
 | [Cooloroonie](https://open.spotify.com/track/0xPWtI7B3euPNezaoofc0B) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Cooloroonie](https://open.spotify.com/album/3EqYMG7A0Z0EKYkYiN7NTS) | 2:38 | 2021-12-15 | 2022-07-28 |
 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-06-30 |  |
-| [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 | 2022-11-28 |  |
+| [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 | 2022-11-28 | 2022-12-12 |
 | [Crystal Glass](https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Ashamed](https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo) | 2:59 | 2021-12-15 |  |
 | [Daddy Is Drunk Again](https://open.spotify.com/track/5LsRmuc3NJgGEsJSNY6dgf) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Daddy Is Drunk Again](https://open.spotify.com/album/5jmkzwcqR2q6gqbsfOvC8R) | 2:56 | 2022-06-30 | 2022-07-23 |
 | [Damn Cool](https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Past & Future](https://open.spotify.com/album/49zarwVKLAbwUXnbHtgHxc) | 3:23 | 2021-12-31 | 2022-04-18 |
@@ -103,7 +103,7 @@
 | [I'll Never Let You Down](https://open.spotify.com/track/6csJiNDFkSveL0m9GimnLJ) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Storm Orchestra \(Deluxe\)](https://open.spotify.com/album/4GOQKvNxE2SBS8s5wjqjwi) | 3:00 | 2022-04-17 | 2022-07-29 |
 | [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 | 2021-12-31 |  |
 | [If Only They Could](https://open.spotify.com/track/2TJdettbWrIvxsUsTki1S4) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/230xxMa21n51rU8HT8e9OK) | 3:51 | 2021-12-15 | 2022-07-29 |
-| [If Only They Could](https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa) | 3:51 | 2022-11-28 | 2022-12-08 |
+| [If Only They Could](https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa) | 3:51 | 2022-11-28 |  |
 | [In Friends We Trust](https://open.spotify.com/track/3yJbGoyLue9B5R6guLIVjI) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Something For Nothing](https://open.spotify.com/album/2pMtWnQ1jQH6sfsh5tBLzl) | 3:27 | 2021-12-30 | 2022-01-01 |
 | [Isolation](https://open.spotify.com/track/49Mg47fyRNRHP1pt8EIw9B) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 3:54 | 2021-12-15 | 2022-07-29 |
 | [It's About Time !](https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 2:44 | 2021-12-15 | 2022-07-24 |

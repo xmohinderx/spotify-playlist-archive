@@ -4,12 +4,13 @@
 
 > Music wellness for your soul.
 
-255 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+256 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [432hz Sea of Fog](https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 3:54 | 2021-12-08 | 2022-01-20 |
-| [60 bpm Slow Drone Sleep](https://open.spotify.com/track/1DgW2B2EyeU51Ia6VBCeHt) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5), [Deep Sleep Music Experience](https://open.spotify.com/artist/1RulmpMDhjAPg9gx6tAzw9), [Relaxing Spa Music](https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE) | [Slow Deep Breathing & Meditation](https://open.spotify.com/album/5YHclMPKKk585VPWeJiZDV) | 4:01 | 2021-12-08 |  |
+| [60 bpm Slow Drone Sleep](https://open.spotify.com/track/1DgW2B2EyeU51Ia6VBCeHt) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5), [Deep Sleep Music Experience](https://open.spotify.com/artist/1RulmpMDhjAPg9gx6tAzw9), [Relaxing Spa Music](https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE) | [Slow Deep Breathing & Meditation](https://open.spotify.com/album/5YHclMPKKk585VPWeJiZDV) | 4:01 | 2021-12-08 | 2022-12-12 |
+| [60 bpm Slow Drone Sleep](https://open.spotify.com/track/2fJAcXD5AZzmscP73R1fbe) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5), [Deep Sleep Music Experience](https://open.spotify.com/artist/1RulmpMDhjAPg9gx6tAzw9), [Relaxing Spa Music](https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE) | [Music For Deep Sleep](https://open.spotify.com/album/1qDFYGroUiPFR9ZU9TxpDN) | 4:01 | 2022-12-09 |  |
 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 | 2021-12-08 |  |
 | [A Glimpse of Eternity](https://open.spotify.com/track/4gIkhmRSrvTltuBGYVp3TX) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 3:39 | 2021-12-08 |  |
 | [A Glorious Morning \(Spa\)](https://open.spotify.com/track/3gF1BjpJbEiJFHr646872q) | [Elijah Reilly](https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy) | [A Glorious Morning \(Spa\)](https://open.spotify.com/album/0r6cTXwz1LvmGfa5C9wPdW) | 3:23 | 2022-12-02 |  |

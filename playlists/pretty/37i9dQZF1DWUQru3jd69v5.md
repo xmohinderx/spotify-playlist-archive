@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Rap italiano, nuova generazione\. Aggiornata ogni venerdì\. Cover: Kassimi, 8blevrai, Yunes LaGrintaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,612 likes - 56 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,628 likes - 56 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

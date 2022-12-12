@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,677 likes - 101 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,671 likes - 101 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 66 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 |
 | 67 | [Keep It Lo](https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Keep It Lo](https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ) | 2:33 |
 | 68 | [Stressed](https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed](https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8) | 3:03 |
-| 69 | [Put On](https://open.spotify.com/track/31ZYMwM2eIkx4QPVn9EJ8O) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Put On](https://open.spotify.com/album/09q8L8G97KhyMMkTuTYW3E) | 6:19 |
+| 69 | [Put On](https://open.spotify.com/track/2qMdBjb1wlIaxXlhaH2mxf) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [100% GALCHER](https://open.spotify.com/album/5lU7ecbRAf80AV9iehrYoq) | 6:19 |
 | 70 | [Matinee](https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Matinee](https://open.spotify.com/album/238YXuMQe6bGCSqZ3A57EY) | 3:08 |
 | 71 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
 | 72 | [SOCIAL MEDIA \(feat\. Trent the HOOLiGAN\)](https://open.spotify.com/track/2avHLHsmBA9QU97o0DrN02) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9) | [SOCIAL MEDIA \(feat\. Trent the HOOLiGAN\)](https://open.spotify.com/album/40pw9GBH8CYNjb4tVeLOA8) | 2:39 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [Moire](https://open.spotify.com/track/3KD4Tdiz6DFlvG2wjL4vBb) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:50 |
 | 101 | [ME vs ME](https://open.spotify.com/track/56kDP4pURuK3YAS9TRSahR) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [ME vs ME](https://open.spotify.com/album/4ieAnAU0Z8OmYcgoebSO45) | 4:33 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDVkZmNlZWU3OWNiMTkwZWI1Y2QwODFjNTJiNzM0MjUw`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDIyMWVjZGU3Mzg0MTFkYzlkOTQ3YTU1ODk4YmJlZjA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,678 likes - 152 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,016 likes - 152 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 114 | [Auburn](https://open.spotify.com/track/5vrW1zdDm9rX7Rz7XHBRWl) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Auburn](https://open.spotify.com/album/2nXUryORVWNeMtAGLCnXIr) | 3:50 |
 | 115 | [Best at Being the Worst](https://open.spotify.com/track/5icnQhZE9x54UqAxBK9po3) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Best at Being the Worst](https://open.spotify.com/album/7bMF7TAiaTukL81wkGq3QB) | 4:00 |
 | 116 | [City Of The Dead](https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s) | 2:53 |
-| 117 | [Live by the Gun \( feat\. Ice\-T \)](https://open.spotify.com/track/4qOp8ymDf9u2T1uvUPL0Cq) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Live by the Gun](https://open.spotify.com/album/4W8CCom5htHk8yUrHJeB02) | 3:33 |
+| 117 | [LIVE BY THE GUN \(feat\. Ice\-T\)](https://open.spotify.com/track/1BZk6GOuwYujOqrdzKdX4x) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Welcome to the West Coast III](https://open.spotify.com/album/4D5DPlknQPa9rRGZkJeGo2) | 3:33 |
 | 118 | [New Era](https://open.spotify.com/track/4zNXCkMYWJSHN7t23Eek2r) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [New Era](https://open.spotify.com/album/3NnxQ5HSHpZGl0MCyVEwFA) | 3:07 |
 | 119 | [Waiting on You](https://open.spotify.com/track/7kAH59f7kgFaRScFnPI8BL) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Rain City Drive](https://open.spotify.com/album/5sgQU7Ac1EtuuYTBcVOCUm) | 3:16 |
 | 120 | [Sacred Kiss](https://open.spotify.com/track/3zRZjDl3t6kwKzK9lKdo5N) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 4:04 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 151 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 |
 | 152 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY3MDYzNTAwNiwwMDAwMDAwMDNjMTE3NjJjM2U0Yjk1YjBmNTRiNjE5MmNkYzA1N2Iy`
+Snapshot ID: `MTY3MDYzNTAwNiwwMDAwMDAwMDhjZGU2NDZkYTkwMjQzZmVhZTJhYzdkZTAyOTg4ZGYy`

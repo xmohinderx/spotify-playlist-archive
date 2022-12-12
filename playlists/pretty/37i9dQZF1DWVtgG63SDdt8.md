@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,229 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,339 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 3 | [Worry About Nothing](https://open.spotify.com/track/1bateGag5fX01lBjlkJ6JG) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 2:44 |
 | 4 | [I'm So Blessed \- Live](https://open.spotify.com/track/3MVK2qYv4RduTsFyzuV8Zw) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [I'm So Blessed \(Child of God Collection\)](https://open.spotify.com/album/4OtdrVLcgvieH6DCAtw8vT) | 4:43 |
 | 5 | [Broken Into Beautiful \- Live](https://open.spotify.com/track/6AFDiYC7mHnPXSt4B9NoSs) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Broken Into Beautiful \(Live\)](https://open.spotify.com/album/6F5YWV5AkgtdeenIYDFepO) | 6:25 |
-| 6 | [Keep On Proving It \- Live](https://open.spotify.com/track/1QGhIp0Ggtntz0CRiZWtXA) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Nick Herbert & Gas Street](https://open.spotify.com/artist/7LCOBbKecpZxpVgsDV66CU) | [Keep On Proving It \(Live\)](https://open.spotify.com/album/0l0j67YVD7EEaWkK41By0v) | 4:09 |
+| 6 | [Keep On Proving It \- Live](https://open.spotify.com/track/1QGhIp0Ggtntz0CRiZWtXA) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Millie Ferguson](https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW), [Nick Herbert](https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS) | [Keep On Proving It \(Live\)](https://open.spotify.com/album/0l0j67YVD7EEaWkK41By0v) | 4:09 |
 | 7 | [Till I Found You](https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU) | [Till I Found You](https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou) | 3:26 |
 | 8 | [The Doxology](https://open.spotify.com/track/3tod3hCUiHZnDUlVc8LSV3) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [The Doxology](https://open.spotify.com/album/4afIDOWKSUUr0ZVOl7q4DT) | 2:43 |
 | 9 | [Just Wondering](https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Wilder Wonderland](https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF) | 3:40 |

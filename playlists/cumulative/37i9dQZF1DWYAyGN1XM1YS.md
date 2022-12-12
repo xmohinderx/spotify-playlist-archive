@@ -4,7 +4,7 @@
 
 > Back to the golden age of emo\. Cover: Thursday
 
-60 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/2OcBf1DX0Haz6eQXJ4V6dg)
+63 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2OcBf1DX0Haz6eQXJ4V6dg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 | 2022-06-09 |  |
 | [M](https://open.spotify.com/track/53sk4XbQHveSGDXq0k8asW) | [Penfold](https://open.spotify.com/artist/6DNcBVkeL2ucCkkTDJGcYn) | [Amateurs & Professionals](https://open.spotify.com/album/34MllYh3dtTSVGnE3m7mbg) | 4:23 | 2021-06-28 |  |
 | [Marigold & Patchwork](https://open.spotify.com/track/2MPndJjBcn555aZQyuvt3S) | [The Appleseed Cast](https://open.spotify.com/artist/0MkAzpDHUZpuDnWGUII4RN) | [The End Of The Ring Wars](https://open.spotify.com/album/46522TAHAMPyA2utw8bo3F) | 5:49 | 2021-06-28 |  |
-| [Mother Mary](https://open.spotify.com/track/37loR0ac9T655PNfPIpHmA) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [Soon](https://open.spotify.com/album/2ripjHj9gBOBakmPftt58S) | 2:16 | 2021-06-28 |  |
-| [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 | 2021-06-28 |  |
+| [Money](https://open.spotify.com/track/6OnsOlASiHq1voOtTL1FRu) | [Embrace](https://open.spotify.com/artist/5Lzz2tZ2hKO8PDslKBQgZL) | [Embrace](https://open.spotify.com/album/0t4i21CD8Z0p8iQnojCvxX) | 2:37 | 2022-12-11 |  |
+| [Mother Mary](https://open.spotify.com/track/37loR0ac9T655PNfPIpHmA) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [Soon](https://open.spotify.com/album/2ripjHj9gBOBakmPftt58S) | 2:16 | 2021-06-28 | 2022-12-12 |
+| [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 | 2021-06-28 | 2022-12-12 |
 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2021-06-28 | 2022-11-26 |
 | [Never Meant](https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp) | 4:28 | 2022-06-09 |  |
 | [Oh Messy Life](https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Analphabetapolothology](https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D) | 2:02 | 2021-06-28 |  |
@@ -61,10 +62,12 @@
 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 | 2021-06-28 |  |
 | [The D In Detroit](https://open.spotify.com/track/0tlgt22cueiCMotxCMc6Cf) | [The Anniversary](https://open.spotify.com/artist/1mi3Fx4j7ektT97ycLSxl8) | [Designing a Nervous Breakdown](https://open.spotify.com/album/42fsY10FqhlkSbkJA4lUCJ) | 4:16 | 2021-06-28 |  |
 | [The Great Depression](https://open.spotify.com/track/1xNDXKQPbd49Ik9MxlwJ94) | [Cross My Heart](https://open.spotify.com/artist/5Lp6cRiaJy2ryj66SfTKYQ) | [Temporary Contemporary](https://open.spotify.com/album/3YNTAfolDugX8teETYvrCx) | 4:01 | 2021-06-28 |  |
+| [The Pharmacist](https://open.spotify.com/track/0KclZLYgFPkj4K2bTlPCHF) | [Hot Rod Circuit](https://open.spotify.com/artist/209McJAEbNbvQXsnuNJZJw) | [Sorry About Tomorrow](https://open.spotify.com/album/6fYGFmyMFVEZvS7F95lLD2) | 2:37 | 2022-12-11 |  |
 | [The Scars to Prove It](https://open.spotify.com/track/1B6gt0Nvi3XmGvGrrdADkm) | [The Jazz June](https://open.spotify.com/artist/71jiZJ6LUwYWXihX80dZD0) | [The Medicine](https://open.spotify.com/album/4EryTp8PVe5XFM9wrIw26m) | 4:04 | 2021-06-28 |  |
 | [This Afternoons Malady](https://open.spotify.com/track/0wHxHYnNvnhjX4f399sjMz) | [Jejune](https://open.spotify.com/artist/0dH7IS6J0rfzfMCyxG8b4V) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 4:21 | 2021-06-28 |  |
 | [This Time Next Year](https://open.spotify.com/track/3ZfoS2MfHC8aRldwqlknfS) | [The Movielife](https://open.spotify.com/artist/6WuH3nSjp98OqgwnDqYnRK) | [This Time Next Year](https://open.spotify.com/album/18KiEYIQ5jdFSpRzdNET1A) | 2:50 | 2021-06-28 |  |
-| [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 | 2021-06-28 |  |
+| [Tired Of Sex](https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:01 | 2022-12-11 |  |
+| [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 | 2021-06-28 | 2022-12-12 |
 | [Venus and Bacchus](https://open.spotify.com/track/10G4c1yAJymTIKTvPYP2Pm) | [Saetia](https://open.spotify.com/artist/5piONaqFh85tIjxSQgZuWA) | [Collected](https://open.spotify.com/album/63tBBmuRFk2tTIF4AeffOU) | 3:19 | 2021-06-28 |  |
 | [Woolworm](https://open.spotify.com/track/0dDXMlIEIV8FQ3pVn46H9K) | [Indian Summer](https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf) | [Giving Birth to Thunder](https://open.spotify.com/album/2KTREthEKwlj4qSywE6AKS) | 7:25 | 2021-06-28 | 2022-07-29 |
 | [Woolworm](https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp) | [Indian Summer](https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf) | [Giving Birth to Thunder](https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7) | 7:25 | 2022-06-09 |  |

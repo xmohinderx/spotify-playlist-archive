@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: poptropicaslutz!
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,098 likes - 125 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,167 likes - 125 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 54 | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 |
 | 55 | [Little Lies](https://open.spotify.com/track/0sxyRecIZ1haAqIMBmhxlL) | [Cole Rolland](https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc) | [Little Lies](https://open.spotify.com/album/6n3GgAZuqtqwjAuV8dEgBC) | 3:31 |
 | 56 | [Shallow](https://open.spotify.com/track/7Ekno8c0KbiW2uFxAQeJU3) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [Bitter](https://open.spotify.com/album/0vKLo5Q6AVsc1u1W1l13RW) | 5:10 |
-| 57 | [Hell on Earth](https://open.spotify.com/track/5vyC5H0TV5bM7rfQRYla4a) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Hell on Earth](https://open.spotify.com/album/4N7Df53D0phbFhcIEmmi8N) | 3:00 |
+| 57 | [HELL ON EARTH](https://open.spotify.com/track/30I90lE4F98nCYjaLTo4kc) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast III](https://open.spotify.com/album/4D5DPlknQPa9rRGZkJeGo2) | 3:00 |
 | 58 | [You Don't Know](https://open.spotify.com/track/6YmDcqO9H259HAakFwP64w) | [Topsy Turvy's](https://open.spotify.com/artist/1uFRoP0MCfPkKzA5usrdQn) | [You Don't Know](https://open.spotify.com/album/5XYICzIxzSs9wQnBUveDiO) | 3:03 |
 | 59 | [Oh Boi](https://open.spotify.com/track/3hshzoruKcXhbv85OHfVPY) | [LOBSTERBOMB](https://open.spotify.com/artist/2zBxQyNS9Ja2Y9YUbYiOOS) | [Oh Boi](https://open.spotify.com/album/4lHaOPgPRuTEfHSyN4YeMX) | 2:51 |
 | 60 | [Soon](https://open.spotify.com/track/35rkM6qfFjJtX1tk15WAEy) | [moshimoshi](https://open.spotify.com/artist/1Cj1ikpwDx35BF6js8tR3p) | [Soon](https://open.spotify.com/album/0EJFXVFPnhBhgDu2JrwevN) | 2:07 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Meal Deal](https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Meal Deal](https://open.spotify.com/album/1vxQHrNWHlXJsKIsozh2UZ) | 2:23 |
 | 125 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 |
 
-Snapshot ID: `MTY3MDU0NDAwMCwwMDAwMDAwMDMwZmFkNzk3ZmNhN2ZlMWUzMDg1OTViZmY2M2YwMzlm`
+Snapshot ID: `MTY3MDU0NDAwMCwwMDAwMDAwMGUyMzExNmNiOWFmZTM0MmUyMDA0OTlhYWVhZTQ3MmZi`

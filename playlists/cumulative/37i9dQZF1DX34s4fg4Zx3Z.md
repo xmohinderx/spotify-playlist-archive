@@ -4,7 +4,7 @@
 
 > Hay nhất từ Fresh Finds Vietnam 2022\. Ảnh bìa: Winno
 
-688 songs - 1 day 16 hr 12 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+689 songs - 1 day 16 hr 16 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Chúng Ta Có Ngốc Quá Không?](https://open.spotify.com/track/6eiCXwPk79MMWaU7x3PboW) | [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj), [m r x](https://open.spotify.com/artist/5Esf2bG0fRTWEdB8fS3xxf) | [Nghe Đi Rồi Ngủ](https://open.spotify.com/album/1wPhDh6WhMs37AtmiSa7qK) | 3:22 | 2022-03-10 | 2022-03-21 |
 | [Chúng Ta Của Quá Khứ \(feat\. Rinel\)](https://open.spotify.com/track/35kvDHJ67sAOyCR7d5VKRg) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW), [Rinel](https://open.spotify.com/artist/43ef0SPJz4WuxM3ptZngzN) | [Chúng Ta Của Quá Khứ \(feat\. Rinel\)](https://open.spotify.com/album/5L2bar52LNp7pSLdYmnWav) | 4:50 | 2022-01-06 | 2022-01-21 |
 | [Chúng Ta Sẽ Tốt Thôi](https://open.spotify.com/track/1YO6myBHGujaq5mqWxaLos) | [Linh](https://open.spotify.com/artist/713suxZd6j7VN9OwVeBsBv) | [Chúng Ta Sẽ Tốt Thôi](https://open.spotify.com/album/08OPFUEeD8j1jFoWfSQWeC) | 6:16 | 2022-02-15 | 2022-02-25 |
-| [Chúng Ta Từng Có Nhau](https://open.spotify.com/track/0Ch1IG8z2Wsc0CfR3gx4qZ) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7), [Poll](https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN) | [Chúng Ta Từng Có Nhau](https://open.spotify.com/album/5YTYzbRGXI9WYtneJb8eKb) | 3:46 | 2022-01-06 |  |
+| [Chúng Ta Tùng Có Nhau](https://open.spotify.com/track/4pKNiPicpskxln0gekPZID) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Chúng Ta Tùng Có Nhau](https://open.spotify.com/album/3KdP9K6leX3GTHGr75xjKy) | 3:46 | 2022-11-30 |  |
+| [Chúng Ta Từng Có Nhau](https://open.spotify.com/track/0Ch1IG8z2Wsc0CfR3gx4qZ) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7), [Poll](https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN) | [Chúng Ta Từng Có Nhau](https://open.spotify.com/album/5YTYzbRGXI9WYtneJb8eKb) | 3:46 | 2022-01-06 | 2022-12-12 |
 | [Chơi](https://open.spotify.com/track/2ogSoDRRrXcEfQ7EPAdllM) | [DMYB](https://open.spotify.com/artist/7mRASKVWQFYzG4ODPVpHuE), [Wack](https://open.spotify.com/artist/7nZ97fCmqv4FoADCJZkll8) | [Chơi](https://open.spotify.com/album/5UpkKx6dil3cMdFEPHXr7c) | 4:08 | 2022-07-31 | 2022-10-27 |
 | [Chơi](https://open.spotify.com/track/4x21TQ5qMPbyHLktv5daN5) | [Khác Họ Records](https://open.spotify.com/artist/2tC1eJc79vvyIH0sw4mLIZ), [X2C](https://open.spotify.com/artist/4ruBa4DSUymegLyh5MsV6H), [LNGY](https://open.spotify.com/artist/4P85cBAXFfHR7OTBe1wSVk), [TraceD](https://open.spotify.com/artist/5oZsnZpmT2hvUHJDEgy5TH), [DJ Tzo](https://open.spotify.com/artist/7k6G3hJXloo3wmP7wlbmgs) | [Chơi](https://open.spotify.com/album/73n9DFigMSpl0OVOIUlM1n) | 3:02 | 2022-11-15 | 2022-12-01 |
 | [Chưa Về Được Nhà](https://open.spotify.com/track/4MEyA3U4lXndTenIb8dTXy) | [Nal](https://open.spotify.com/artist/3hHKSLqpEWNAsCjbvVb1te), [RyoT](https://open.spotify.com/artist/2UfA7WI5TFvWFGtSFuSytZ) | [Chưa Về Được Nhà](https://open.spotify.com/album/2iwJHXi6LJSEEEAeMiscqd) | 4:59 | 2022-01-14 | 2022-04-08 |

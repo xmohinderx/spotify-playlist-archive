@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/5Ot1evmXCckrToeHdqslPG"
+      },
+      "artists": [
+        {
+          "name": "Riza Raquel",
+          "url": "https://open.spotify.com/artist/4e9Vcf27riqB6oA9IgWSpb"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215222,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3hyhiK6GT3I5e2pJBOT2yc"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk"
       },

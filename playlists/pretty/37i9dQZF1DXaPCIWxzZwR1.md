@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,355 likes - 98 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,883 likes - 98 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

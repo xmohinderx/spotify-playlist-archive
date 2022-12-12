@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Paloma Mami, Pailita & El Jordan 23
 
-2,997 songs - 6 day 14 hr 40 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,997 songs - 6 day 14 hr 39 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1271,7 +1271,7 @@
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2022-09-30 | 2022-10-08 |
 | [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 | 2022-06-10 | 2022-06-18 |
 | [Juqueando](https://open.spotify.com/track/252ZimoPcGSFYaS6TfjBEG) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Juqueando](https://open.spotify.com/album/59p1PfGyRrCgeHtCuqDxGP) | 3:14 | 2022-10-07 | 2022-10-15 |
-| [Just One Time](https://open.spotify.com/track/34fROePGME5r33uRy1m8Dr) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Just One Time](https://open.spotify.com/album/20aZbKgEMFaHrLgCdASJNd) | 3:52 | 2022-12-09 |  |
+| [Just One Time](https://open.spotify.com/track/34fROePGME5r33uRy1m8Dr) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Just One Time](https://open.spotify.com/album/20aZbKgEMFaHrLgCdASJNd) | 2:42 | 2022-12-09 |  |
 | [Justito a Tiempo](https://open.spotify.com/track/21ZulCkLXWH0xqJnIw2gIZ) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Justito a Tiempo](https://open.spotify.com/album/2p9hS0dPcdf4JrTApsmFQg) | 2:41 | 2022-04-22 | 2022-04-29 |
 | [k\-pop star](https://open.spotify.com/track/2CjysDip8RPg1IjeHZSvZf) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [besitos, cuídate \(Deluxe\)](https://open.spotify.com/album/78jevg3CxuDBUeZeDT5yEE) | 2:17 | 2022-06-03 | 2022-06-11 |
 | [Kachin](https://open.spotify.com/track/6mhWPv4qu7hBmBZlRs5vza) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Kachin](https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY) | 2:22 | 2022-12-02 | 2022-12-10 |

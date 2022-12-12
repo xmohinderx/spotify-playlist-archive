@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Ryan Castro
 
-340 songs - 18 hr 25 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+341 songs - 18 hr 28 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [PERREO SAZÓN](https://open.spotify.com/track/78gfw117ev5RVa8QqWLQxy) | [Keesed](https://open.spotify.com/artist/60p7d9VaIYdxN5XoYJshER) | [PERREO SAZÓN](https://open.spotify.com/album/4OEFpYzzGfzaZwGDDYH7n9) | 3:09 | 2022-08-11 | 2022-11-12 |
 | [Personal](https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Personal](https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB) | 3:24 | 2022-10-07 | 2022-12-10 |
 | [Piensas En Mi](https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Piensas En Mi](https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS) | 3:02 | 2022-08-19 | 2022-11-12 |
-| [Pituquita](https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39) | [EMIL](https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a), [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx) | [Pituquita](https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv) | 3:03 | 2022-10-14 |  |
+| [Pituquita](https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39) | [EMIL](https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a), [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx) | [Pituquita](https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv) | 3:03 | 2022-10-14 | 2022-12-12 |
+| [PITUQUITA](https://open.spotify.com/track/1oksgOdMDrzC1qSnBB4ErK) | [EMIL](https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a), [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx) | [PITUQUITA](https://open.spotify.com/album/0sVsSDFI6CBJIKaK5cF0yE) | 3:03 | 2022-12-09 |  |
 | [Piña](https://open.spotify.com/track/27WpmDE56W905AhSoaNIkx) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Piña](https://open.spotify.com/album/13THScuZXfrxk3jyDmpoZG) | 2:24 | 2022-09-16 | 2022-12-10 |
 | [Playa Sola](https://open.spotify.com/track/5LDbt6EZgm5cyph6bNq3e6) | [ØMG](https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8) | [Playa Sola](https://open.spotify.com/album/5rx9nKzhq4RckTVsi2vcTt) | 2:17 | 2022-07-25 | 2022-10-15 |
 | [PobreDiablo \- Interlude](https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PobreDiablo \(Interlude\)](https://open.spotify.com/album/1RgNyfYRFkoMGW3hLusIf2) | 2:14 | 2022-03-21 | 2022-03-26 |

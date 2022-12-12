@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "When emo and hardcore fell hard for each other.",
-  "name": "2000s Screamo",
+  "description": "Screamo x Post-hardcore . Cover: Thrice",
+  "name": "Can I scream?",
   "published_playlist_ids": [
     "7AabT1bJ1kvk7gPJFBbjjL"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176373,
+      "name": "A Box Full of Sharp Objects",
+      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+    },
     {
       "album": {
         "name": "They're Only Chasing Safety",
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 247760,
       "name": "A Decade Under The Influence",
       "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 230426,
       "name": "All That I've Got",
       "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 260959,
       "name": "Andria",
       "url": "https://open.spotify.com/track/42QlbO4IkGD6OSp6OXjFwN"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 303093,
       "name": "Ape Dos Mil",
       "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 188186,
       "name": "Attack",
       "url": "https://open.spotify.com/track/0lHSJ0ZP8uUPnJXhMdGjOK"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 212937,
       "name": "Cute Without The 'E' (Cut From The Team) - Remastered",
       "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 195520,
       "name": "Dead!",
       "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
@@ -779,6 +797,24 @@
       "duration_ms": 197626,
       "name": "Decoration - Rock Version",
       "url": "https://open.spotify.com/track/6b9zC4tbdV3jmRtpErsKP1"
+    },
+    {
+      "album": {
+        "name": "The Mother, The Mechanic, And The Path",
+        "url": "https://open.spotify.com/album/4bCgcuGVc07xSfFJb0wXf3"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "Decoration - Rock Version",
+      "url": "https://open.spotify.com/track/6pqDYLoQnjDqnPEEWHHL4Q"
     },
     {
       "album": {
@@ -937,7 +973,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 211893,
       "name": "Ex's And Oh's",
       "url": "https://open.spotify.com/track/2gY3Z3f1Qe4vWnw15dBkSw"
@@ -1027,7 +1063,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
@@ -1063,7 +1099,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 235640,
       "name": "Guys Like You Make Us Look Bad",
       "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
@@ -1099,7 +1135,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 217453,
       "name": "Hand Of Blood",
       "url": "https://open.spotify.com/track/5JWDt4NZNiZQR8iMenaa7h"
@@ -1135,7 +1171,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
@@ -1153,10 +1189,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 194800,
       "name": "Hey Baby, Here's That Song You Wanted",
       "url": "https://open.spotify.com/track/6RbeLGGRcELEeKjMAplpap"
+    },
+    {
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205160,
+      "name": "I Caught Fire",
+      "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
     },
     {
       "album": {
@@ -1225,7 +1279,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 180840,
       "name": "I'm Made Of Wax, Larry, What Are You Made Of?",
       "url": "https://open.spotify.com/track/2dwhns14pjuxxcM5a0eOow"
@@ -1243,7 +1297,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198693,
       "name": "I'm Not A Thief, I'm A Treasure Hunter",
       "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
@@ -1261,7 +1315,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 231840,
       "name": "I'm Not A Vampire",
       "url": "https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf"
@@ -1279,7 +1333,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 186480,
       "name": "I'm Not Okay (I Promise)",
       "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
@@ -1427,7 +1481,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 255840,
       "name": "Knives and Pens",
       "url": "https://open.spotify.com/track/2ZhswJTKMkNNTAjrTmPhOJ"
@@ -1481,7 +1535,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "Letters To You",
       "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
@@ -1517,7 +1571,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 208280,
       "name": "MakeDamnSure",
       "url": "https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX"
@@ -1571,7 +1625,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
@@ -1589,7 +1643,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 224346,
       "name": "Mouths Like Sidewinder Missles",
       "url": "https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq"
@@ -1769,7 +1823,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 279226,
       "name": "Not The American Average",
       "url": "https://open.spotify.com/track/76LGCP0g9nVknR7HD2Jjyp"
@@ -1895,7 +1949,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 247640,
       "name": "Perfect Weapon",
       "url": "https://open.spotify.com/track/2pg002Dqz4DsOthj5hqhNn"
@@ -1949,7 +2003,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 162920,
       "name": "Ravenous, Ravenous Rhinos",
       "url": "https://open.spotify.com/track/1YT8RiexjSXtUcLjD92N8V"
@@ -1985,7 +2039,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 237173,
       "name": "Rebel Love Song",
       "url": "https://open.spotify.com/track/3ItCQd3vvharrdNrBzZuIY"
@@ -2021,7 +2075,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267826,
       "name": "Ride The Wings Of Pestilence",
       "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
@@ -2129,7 +2183,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 229120,
       "name": "SECOND & SEBRING",
       "url": "https://open.spotify.com/track/3bdqdxoWXP3z0KuDt0o4Cn"
@@ -2309,7 +2363,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 222040,
       "name": "Standing On The Edge Of Summer",
       "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
@@ -2399,7 +2453,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ"
@@ -2435,7 +2489,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 171266,
       "name": "The After Dinner Payback",
       "url": "https://open.spotify.com/track/3gBo8grQ7vtZGARZO43MeU"
@@ -2471,7 +2525,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 225040,
       "name": "The Bird and the Worm",
       "url": "https://open.spotify.com/track/6tKky3l379dnGe7F85ztrJ"
@@ -2543,7 +2597,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 209093,
       "name": "The Downfall Of Us All",
       "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
@@ -2597,7 +2651,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 218786,
       "name": "The Drug In Me Is You",
       "url": "https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj"
@@ -2633,7 +2687,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 242080,
       "name": "The Final Episode (Let's Change the Channel)",
       "url": "https://open.spotify.com/track/01tsbILfgyMB1P3lc2cO7I"
@@ -2651,7 +2705,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 231533,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
@@ -2867,7 +2921,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 210613,
       "name": "To The Stage",
       "url": "https://open.spotify.com/track/3jY2pJZvTHb4E5GeiohGUb"
@@ -2921,7 +2975,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 207426,
       "name": "Two Birds, One Stone",
       "url": "https://open.spotify.com/track/3CG2fXTfGM5XqfoaSboPYF"
@@ -3000,6 +3054,28 @@
     },
     {
       "album": {
+        "name": "A Shipwreck In The Sand (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/05OgjuvYwliwjcFq6EFWSA"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        },
+        {
+          "name": "Liam Cormier",
+          "url": "https://open.spotify.com/artist/5IrAy16J58yAZf42VLRa5m"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "Vices",
+      "url": "https://open.spotify.com/track/4rxQv4w7R3LQlKVHRHW8Hi"
+    },
+    {
+      "album": {
         "name": "A Shipwreck In The Sand",
         "url": "https://open.spotify.com/album/3OOUDfRkGn4si21qq4VBpt"
       },
@@ -3033,7 +3109,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 211813,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN"
@@ -3051,7 +3127,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 247693,
       "name": "Waking the Demon",
       "url": "https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT"
@@ -3213,7 +3289,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 242413,
       "name": "Writing On The Walls",
       "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"

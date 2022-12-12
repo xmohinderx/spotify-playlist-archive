@@ -4,7 +4,7 @@
 
 > Lo mejor de las mujeres a todo volumen con Julieta Venegas en portada.
 
-453 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
+454 songs - 1 day 1 hr 47 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Bla Bla Bla](https://open.spotify.com/track/3HwiSLeCrkBPeF1Qpdx3l1) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Bla Bla Bla](https://open.spotify.com/album/6bLLRIJ9H9eVES6TFcqZMI) | 2:26 | 2022-09-07 | 2022-10-06 |
 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 | 2022-05-04 | 2022-11-03 |
 | [Boni Naitó](https://open.spotify.com/track/0P7naJRJFW1uhaYbFabYOS) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Boni Naitó](https://open.spotify.com/album/6XOfXd2Maq3nRJoc73Nn8B) | 4:43 | 2022-02-02 | 2022-04-07 |
-| [Boni Naitó](https://open.spotify.com/track/0RJCShociFRKy8aP9szGKz) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/3l8c1HAldEVWFfudlrr64f) | 4:43 | 2022-08-03 |  |
+| [Boni Naitó](https://open.spotify.com/track/0RJCShociFRKy8aP9szGKz) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/3l8c1HAldEVWFfudlrr64f) | 4:43 | 2022-08-03 | 2022-12-12 |
+| [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 | 2022-11-30 |  |
 | [Brand New City](https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:12 | 2022-08-03 | 2022-09-09 |
 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 | 2022-09-07 | 2022-10-06 |
 | [Bésame Lento](https://open.spotify.com/track/2b1z1Z44zzakWfqTycS1rL) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Bésame Lento](https://open.spotify.com/album/5AF3raSCoWij16qck0msSm) | 3:58 | 2022-11-02 | 2022-12-01 |

@@ -1,13 +1,33 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Triple Riding",
-  "num_followers": 43504,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Vedha",
+  "num_followers": 43550,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4OTYwMCwwMDAwMDAwMDQ2NGFiN2EwZWI2MzU3ZTBkOTRhZGNiYjM1ZmMxYjZl",
+  "snapshot_id": "MTY3MDc2ODkyOSwwMDAwMDAwMGNhMmZiMDM3OGIxZGU3ODkyOWI5NTA2ZjdjYjNkZTJj",
   "tracks": [
+    {
+      "added_at": "2022-12-11 14:28:49",
+      "album": {
+        "name": "Pushpa Pushpa (From \"Vedha\")",
+        "url": "https://open.spotify.com/album/74woB4U6hp1oY2LNKr9cdp"
+      },
+      "artists": [
+        {
+          "name": "Karunaada Chakravarthy Dr. Shivarajkumar",
+          "url": "https://open.spotify.com/artist/2jPfBNUaETfuNamenAdJil"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "Pushpa Pushpa (From \"Vedha\")",
+      "url": "https://open.spotify.com/track/2vAt6CnFCqoyemVnE7oniI"
+    },
     {
       "added_at": "2022-12-02 09:04:03",
       "album": {
@@ -91,6 +111,66 @@
       "duration_ms": 210482,
       "name": "Nagu Nagutha",
       "url": "https://open.spotify.com/track/775Kkr152xrl9lypDFlLBz"
+    },
+    {
+      "added_at": "2022-12-11 05:34:34",
+      "album": {
+        "name": "Dharani (From \"Kranti\")",
+        "url": "https://open.spotify.com/album/5UruCrQTYRj9sHTU1ZQz2w"
+      },
+      "artists": [
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Madhwesh Baradwaj",
+          "url": "https://open.spotify.com/artist/4686cdrlsKkbo3nvdRgHuQ"
+        },
+        {
+          "name": "Vihan",
+          "url": "https://open.spotify.com/artist/4Dja6Qk8JagfgizBRK52jS"
+        },
+        {
+          "name": "Khushala",
+          "url": "https://open.spotify.com/artist/5HZ2c9bVESx2vUkNwSZSLD"
+        },
+        {
+          "name": "Lakshmi Vijay",
+          "url": "https://open.spotify.com/artist/6DDCplsi7sFjHEtQAfMaT5"
+        },
+        {
+          "name": "Meghana Kulkarni",
+          "url": "https://open.spotify.com/artist/7yvdb56qFhuF26Wnkqe6Vs"
+        },
+        {
+          "name": "Pooja Rao",
+          "url": "https://open.spotify.com/artist/6VngqEcZilQLW9DSLl10dS"
+        },
+        {
+          "name": "Archana",
+          "url": "https://open.spotify.com/artist/3uRt8szaMllmBI9HpE1PvQ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "V. Hari Krishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 241318,
+      "name": "Dharani (From \"Kranti\")",
+      "url": "https://open.spotify.com/track/5RjgXuSaxkOujFYruTSjSO"
     },
     {
       "added_at": "2022-11-21 11:35:39",

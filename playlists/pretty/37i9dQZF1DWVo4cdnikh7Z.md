@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Thunivu
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,657 likes - 82 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,845 likes - 82 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

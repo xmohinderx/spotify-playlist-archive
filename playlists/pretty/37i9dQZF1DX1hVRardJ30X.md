@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Paloma Mami, Pailita & El Jordan 23
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,700 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,978 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [SOLA](https://open.spotify.com/track/7kh5GeEHZLVkTDFjZNvgpA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [COLOR DOLOR](https://open.spotify.com/album/4nMAfUGgaqkobhuh5AtynY) | 3:20 |
 | 54 | [La Ultima Vez \- alt](https://open.spotify.com/track/5RSiz5AHklvwEBco7HAs0t) | [Delmar](https://open.spotify.com/artist/1S5SNkPc86rs4WDDY7YKTA) | [La Ultima Vez \(alt\)](https://open.spotify.com/album/3eFzoxAmteSeYm9cDVhV79) | 2:56 |
 | 55 | [DOXCIL](https://open.spotify.com/track/31ZzWpM89rA90vCx5w8CqW) | [Zeifer](https://open.spotify.com/artist/6RUCvB4JBg7jTXuFPdgUah), [Nothy Quintana](https://open.spotify.com/artist/2d78P0epTfDo92711CIXCV) | [DOXCIL](https://open.spotify.com/album/60y1psTPHB7TmXJI4aco4e) | 2:57 |
-| 56 | [Just One Time](https://open.spotify.com/track/34fROePGME5r33uRy1m8Dr) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Just One Time](https://open.spotify.com/album/20aZbKgEMFaHrLgCdASJNd) | 3:52 |
+| 56 | [Just One Time](https://open.spotify.com/track/34fROePGME5r33uRy1m8Dr) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Just One Time](https://open.spotify.com/album/20aZbKgEMFaHrLgCdASJNd) | 2:42 |
 | 57 | [Invierno](https://open.spotify.com/track/1Z8BiEwROkeaBtPDJXFGYy) | [Billy Miamor](https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL) | [Invierno](https://open.spotify.com/album/5XcK4a55eoM6dRLq9QVAuK) | 2:43 |
 
 Snapshot ID: `MTY3MDU5MDU2OCwwMDAwMDAwMGJiZmMxMjBkMWQ1NTY4NzZkMmI3Mzk5N2FhMDEzZTk5`

@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,792 songs - 7 day 14 hr 39 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,793 songs - 7 day 14 hr 41 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4361,7 +4361,8 @@
 | [Turn Up The Jazz](https://open.spotify.com/track/1r9hJiEs5SJOLYz1La6ZQb) | [Mr\. Freed](https://open.spotify.com/artist/35LocEP0NXBVe8GwWZoe5w) | [Turn Up The Jazz](https://open.spotify.com/album/4wlg1vHSTAZjYV2WfEzQv7) | 2:09 | 2022-11-18 | 2022-12-09 |
 | [Turn Up The Jazz](https://open.spotify.com/track/7hGjqkMCx9CywPQwemv3AW) | [Mr\. Freed](https://open.spotify.com/artist/35LocEP0NXBVe8GwWZoe5w) | [Turn Up The Jazz](https://open.spotify.com/album/1VUVBBXxfyohfyYfKCwVaT) | 2:09 | 2022-09-02 | 2022-11-21 |
 | [Turquoise](https://open.spotify.com/track/6AqS5e8ZVKNSyRpG2BlzXt) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Turquoise](https://open.spotify.com/album/31wcK162UmZWTO64hj9DV2) | 2:36 | 2022-04-23 | 2022-09-16 |
-| [Tuscan Tubs](https://open.spotify.com/track/160f5bv2QnpmBn7RwTPEsp) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Tuscan Tubs](https://open.spotify.com/album/1YTdbzB4xepaxamNOxO02b) | 1:46 | 2022-11-25 |  |
+| [Tuscan Tubs](https://open.spotify.com/track/160f5bv2QnpmBn7RwTPEsp) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Tuscan Tubs](https://open.spotify.com/album/1YTdbzB4xepaxamNOxO02b) | 1:46 | 2022-11-25 | 2022-12-12 |
+| [Tuscan Tubs](https://open.spotify.com/track/3LMJF6U1SId5t7AwHqTyG4) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Tuscan Tubs](https://open.spotify.com/album/0eGJxehL5zjVwiwMeQUx3Y) | 1:46 | 2022-12-09 |  |
 | [Twenty One Questions](https://open.spotify.com/track/2DoDmRMXpXLkKtHA5yrOxF) | [Dweeb](https://open.spotify.com/artist/1ziop6MvACsEsogEf7Qqd4) | [Twenty One Questions](https://open.spotify.com/album/0McqSYRUhD6DRfnSY77s5v) | 2:21 | 2019-06-04 | 2019-06-06 |
 | [Twentyfourseven](https://open.spotify.com/track/5vUfhoSFWYP97EggdcRE3T) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Twentyfourseven](https://open.spotify.com/album/6K5IsYMIsqBWXCSAo8qx13) | 2:18 | 2021-12-17 | 2022-06-24 |
 | [Twigs](https://open.spotify.com/track/31shHCCP366fR3DM9Ubf4b) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Twigs](https://open.spotify.com/album/109k7AkdHMucXhIFJWmASU) | 2:54 | 2022-11-18 |  |

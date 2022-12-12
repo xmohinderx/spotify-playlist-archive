@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。©︎THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,854 likes - 75 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,054 likes - 75 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 29 | [Over AGAIN](https://open.spotify.com/track/3g4KIlTJd01aZLSD6gmEuZ) | [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM ANIMATION PROJECT 05 Over AGAIN](https://open.spotify.com/album/2NPZLYKvehiwx07Y35gslb) | 4:14 |
 | 30 | [Sunset Colors](https://open.spotify.com/track/7ArxB3a8haA7S1TeVVFdaB) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ANIMATION PROJECT 06 Sunset Colors](https://open.spotify.com/album/7s4lwo5mLV47Xd2abyT5yK) | 4:05 |
 | 31 | [ARRIVE TO STAR](https://open.spotify.com/track/799HMOrKP9O9VTBQtLjJIz) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43) | [THE IDOLM@STER SideM ANIMATION PROJECT 07 ARRIVE TO STAR](https://open.spotify.com/album/21asvj6ocQlnDLJYh7paBY) | 4:59 |
-| 32 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/3WUFcsxh7BnxTMu4n7Qbay) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
+| 32 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [Frame](https://open.spotify.com/artist/5qydKuymRhyMaVPUfIqh8C) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
 | 33 | [Pavé Étoiles](https://open.spotify.com/track/41WZEMDkuXUG4fmJJRJ5XP) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:07 |
 | 34 | [PERMAFROST](https://open.spotify.com/track/66FhJlwAJbbXr9E31F76kP) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders](https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE) | 4:38 |
 | 35 | [スリーブレス](https://open.spotify.com/track/7ifJzLxVhVvLMUMQ0ccASA) | [Frame](https://open.spotify.com/artist/5qydKuymRhyMaVPUfIqh8C) | [THE IDOLM@STER SideM 5th ANNIVERSARY 04](https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS) | 4:37 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 58 | [Café Parade!](https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM ST@RTING LINE\-10 Café Parade](https://open.spotify.com/album/5PYzkS3XSiEarnYmQR3r1f) | 4:44 |
 | 59 | [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 |
 | 60 | [GOLD \~No.79\~](https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN) | [山下次郎 \(CV.中島ヨシキ\)](https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:22 |
-| 61 | [SOOTHING PLACE](https://open.spotify.com/track/2JMIDYzClNE2cxT5ZkNHaO) | [FRAME](https://open.spotify.com/artist/3WUFcsxh7BnxTMu4n7Qbay) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:49 |
+| 61 | [SOOTHING PLACE](https://open.spotify.com/track/2JMIDYzClNE2cxT5ZkNHaO) | [Frame](https://open.spotify.com/artist/5qydKuymRhyMaVPUfIqh8C) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:49 |
 | 62 | [Fun! Fun! Festa!](https://open.spotify.com/track/6lEsKbmCYQftBozkzK2QP4) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:52 |
 | 63 | [装 \-So Beautiful\-](https://open.spotify.com/track/64cjGcMVZYNkElowiZrhtw) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve) | [THE IDOLM@STER SideM NEW STAGE EPISODE:14 彩](https://open.spotify.com/album/5dP6PSOVJZaHWkIF6d9At7) | 4:18 |
 | 64 | [Symphonic Brave](https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:46 |

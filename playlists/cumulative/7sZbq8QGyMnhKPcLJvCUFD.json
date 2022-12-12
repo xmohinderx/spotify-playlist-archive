@@ -938,6 +938,36 @@
     },
     {
       "album": {
+        "name": "Escape (Juan Dileju & Sam Ourt VIP Mix)",
+        "url": "https://open.spotify.com/album/7g07T8MA5I4JYLieH80XkQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Ourt",
+          "url": "https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6"
+        },
+        {
+          "name": "AKIAL",
+          "url": "https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn"
+        },
+        {
+          "name": "Srikar",
+          "url": "https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv"
+        },
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137041,
+      "name": "Escape - Juan Dileju & Sam Ourt VIP Mix",
+      "url": "https://open.spotify.com/track/1JfPvINntzaONpjJ9sEHPT"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp"
       },

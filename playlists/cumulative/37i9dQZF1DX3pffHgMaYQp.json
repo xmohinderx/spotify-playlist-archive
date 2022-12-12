@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Mala Vibra",
+        "url": "https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo"
+      },
+      "artists": [
+        {
+          "name": "The Froys",
+          "url": "https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227277,
+      "name": "El Portal",
+      "url": "https://open.spotify.com/track/1rB98RLnWBNGlygWG2VOr1"
+    },
+    {
+      "album": {
         "name": "El Portal",
         "url": "https://open.spotify.com/album/5fV4C3rqp58MiGrdiUHwzR"
       },
@@ -351,7 +369,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 227277,
       "name": "El Portal",
       "url": "https://open.spotify.com/track/61XPcpiy8UrnIrNIMsVhzc"
@@ -485,7 +503,7 @@
     {
       "album": {
         "name": "i/O",
-        "url": "https://open.spotify.com/album/5EJdLmm3AohQThveyYrsQN"
+        "url": "https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70"
       },
       "artists": [
         {
@@ -496,6 +514,24 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195037,
+      "name": "i/O",
+      "url": "https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj"
+    },
+    {
+      "album": {
+        "name": "i/O",
+        "url": "https://open.spotify.com/album/5EJdLmm3AohQThveyYrsQN"
+      },
+      "artists": [
+        {
+          "name": "Mengers",
+          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-12",
       "duration_ms": 198145,
       "name": "i/O",
       "url": "https://open.spotify.com/track/1wd9Niui5BNBP1gGEiJ7v0"
@@ -639,10 +675,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 240234,
       "name": "Manifiesto Surrealista",
       "url": "https://open.spotify.com/track/3TAmPsGYSC8gugzBGguj63"
+    },
+    {
+      "album": {
+        "name": "Los Pao Paos",
+        "url": "https://open.spotify.com/album/6BDjbnIo1QsJUFweLCqwfl"
+      },
+      "artists": [
+        {
+          "name": "Los Pao Paos",
+          "url": "https://open.spotify.com/artist/45dDFxioswmm3vNx03oADJ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240234,
+      "name": "Manifiesto Surrealista",
+      "url": "https://open.spotify.com/track/73vq8vT0gjbZTemuvOWeIn"
     },
     {
       "album": {
@@ -799,10 +853,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 95518,
       "name": "Pante\u00f3n",
       "url": "https://open.spotify.com/track/1NPuCNu2nAeNcAzht2WqRp"
+    },
+    {
+      "album": {
+        "name": "Mala Vibra",
+        "url": "https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo"
+      },
+      "artists": [
+        {
+          "name": "The Froys",
+          "url": "https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95518,
+      "name": "Pante\u00f3n",
+      "url": "https://open.spotify.com/track/4stvgopAieFBf2zabV5BKf"
     },
     {
       "album": {

@@ -5478,6 +5478,24 @@
     },
     {
       "album": {
+        "name": "Welcome to the West Coast III",
+        "url": "https://open.spotify.com/album/4D5DPlknQPa9rRGZkJeGo2"
+      },
+      "artists": [
+        {
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180853,
+      "name": "HELL ON EARTH",
+      "url": "https://open.spotify.com/track/30I90lE4F98nCYjaLTo4kc"
+    },
+    {
+      "album": {
         "name": "Hell on Earth",
         "url": "https://open.spotify.com/album/4N7Df53D0phbFhcIEmmi8N"
       },
@@ -5489,7 +5507,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 180853,
       "name": "Hell on Earth",
       "url": "https://open.spotify.com/track/5vyC5H0TV5bM7rfQRYla4a"

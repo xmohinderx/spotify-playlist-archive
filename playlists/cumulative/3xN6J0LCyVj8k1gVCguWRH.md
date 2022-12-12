@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,873 songs - 4 day 12 hr 9 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,875 songs - 4 day 12 hr 15 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1655,6 +1655,7 @@
 | [Thunderhead](https://open.spotify.com/track/6yivu7IE6Qc8WYNovbIqd6) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [Thunderhead](https://open.spotify.com/album/0LcI4O7Zn6bGrg55fSavVj) | 3:46 | 2022-12-09 |  |
 | [TIBAA](https://open.spotify.com/track/1Cqpi7Rcf65jZlGNIizw2L) | [MAR5](https://open.spotify.com/artist/2MBqDXJGuZnVMM3bNfRSzA), [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [TIBAA](https://open.spotify.com/album/5dAvoVN5NOh3xKRKBlkcLa) | 2:52 | 2022-10-09 | 2022-10-30 |
 | [Tiger Stripes](https://open.spotify.com/track/2rtu9krlsAiVFlshbnpi4F) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Tiger Stripes](https://open.spotify.com/album/5R5dXGurhNE129cI5SUBuz) | 3:16 | 2021-10-22 | 2022-01-09 |
+| [Time](https://open.spotify.com/track/5KtIbToah0ZWXDQ1qBFOcr) | [Khalia](https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR), [ZJ Sparks](https://open.spotify.com/artist/3KfenkrbzqCZcJTA49nShf), [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [Time](https://open.spotify.com/album/0zYC1DJFYLnpM1cZzqYi1f) | 3:20 | 2022-12-11 |  |
 | [Time](https://open.spotify.com/track/1tCVaXCM7eDo7SIlogAuMT) | [Sol Y Motion](https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o) | [Time](https://open.spotify.com/album/21BSeaOQbd98648kmYd5yu) | 4:35 | 2022-09-02 | 2022-09-18 |
 | [Time Awaits](https://open.spotify.com/track/0EWkcHC58bAHHcvoagva6u) | [Travis Sayles](https://open.spotify.com/artist/3ZF5OTLAF900ketxn9lFqw) | [Time Awaits](https://open.spotify.com/album/7DkI7ngAx583NI5CwakdMz) | 2:48 | 2022-10-15 | 2022-11-08 |
 | [Time Fly By](https://open.spotify.com/track/7tOj7X95GbrYvayIZlWyYu) | [Elephant Motel](https://open.spotify.com/artist/0AYoGyLwbupLIZWNHbHHA8) | [Feeling Alright](https://open.spotify.com/album/26Fk2l62DFiO1Npi5lOU8V) | 2:54 | 2022-10-07 | 2022-10-30 |
@@ -1775,6 +1776,7 @@
 | [Way U Luv U](https://open.spotify.com/track/7etw30mcJjqshIZMFiFa6a) | [Kayden McCarthy](https://open.spotify.com/artist/7I3c3gex8qmSXlYS2aOznn) | [Way U Luv U](https://open.spotify.com/album/35bREFU29uBpfYT1aNxFtp) | 3:12 | 2022-05-12 | 2022-05-30 |
 | [Wayo Wayo](https://open.spotify.com/track/2mbOFGFISDG5GM0cYQQauz) | [Bee\-Z](https://open.spotify.com/artist/5wpJnu9heGGmNbcqHPP0fn) | [Wayo Wayo](https://open.spotify.com/album/1d6DeXBm3huQptVVFPdhd4) | 2:49 | 2021-08-28 | 2021-09-13 |
 | [Ways to Say I'm Beautiful](https://open.spotify.com/track/5wC03VqWwgDZGGsiornXul) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Angry Symphony](https://open.spotify.com/album/2ZGZcvJG7962kbe35MCfLb) | 3:57 | 2020-11-14 | 2020-11-27 |
+| [We Dey](https://open.spotify.com/track/5KryeTvG0C02vF9cpgZrYA) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [We Dey](https://open.spotify.com/album/3idMIRqDQBaPKXTAGZUn4a) | 2:32 | 2022-12-11 |  |
 | [We So Fly](https://open.spotify.com/track/79X6wvnj9iBHCbo5714kXD) | [Emma Kern](https://open.spotify.com/artist/5D9sDxufqccO7Kb7GmOhKz) | [We So Fly](https://open.spotify.com/album/5XMluq9NTVyMYg6c9sks7r) | 2:30 | 2022-09-02 | 2022-09-18 |
 | [We've Met Before](https://open.spotify.com/track/709WtRX2B12JTU4WIvk0za) | [Former Friend](https://open.spotify.com/artist/3d0qSylOj8TyMZKa2tzmpt) | [We've Met Before](https://open.spotify.com/album/59fxLWbykOoVVMBYr7byZP) | 3:04 | 2021-10-13 | 2022-03-07 |
 | [Weekend Blues](https://open.spotify.com/track/6a4FZmFSdKTCRXaBKCpUqf) | [Love Drunk Hearts](https://open.spotify.com/artist/0KUKdIYZklFYeYWd59xq5Y), [Ash Dable](https://open.spotify.com/artist/2WQLDqHR0LT7vMCb3hXVNS) | [Weekend Blues](https://open.spotify.com/album/08IRdcEC6OjlIPMZfP0qSp) | 4:05 | 2022-08-18 | 2022-09-04 |

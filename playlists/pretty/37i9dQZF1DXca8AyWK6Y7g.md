@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > it's the holiday remix with Miss Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,437,797 likes - 150 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,438,361 likes - 150 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

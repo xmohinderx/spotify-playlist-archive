@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from HoneyLuv & Dope Earth Alien.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,351 likes - 99 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,413 likes - 99 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 76 | [FALLING](https://open.spotify.com/track/5i9Ve5FXWxkHERsCApr5n7) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 02](https://open.spotify.com/album/4SVrHTqrgM7uut0YzzZMU8) | 4:17 |
 | 77 | [Asylum](https://open.spotify.com/track/7brOkLzmEK8risIqWO9rlb) | [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Asylum](https://open.spotify.com/album/54ZQ3efQWRvqDOVAtT2QIL) | 2:44 |
 | 78 | [Taste of Violence](https://open.spotify.com/track/1QUQyTBRd2DhbDLny7yQA2) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Taste of Violence](https://open.spotify.com/album/1C3BxGsmZUzFNDeQuOs0Sw) | 2:40 |
-| 79 | [Watcha Need](https://open.spotify.com/track/3NliyvOp9V9n5zsTzGg2Ff) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Watcha Need](https://open.spotify.com/album/7q97V486Eb22gpy325ya5X) | 3:12 |
+| 79 | [Watcha Need \(feat\. Joy Farrukh\)](https://open.spotify.com/track/3NliyvOp9V9n5zsTzGg2Ff) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Joy Farrukh](https://open.spotify.com/artist/6bYeMHJHXkOurzcYC2vkPC) | [Watcha Need \(feat\. Joy Farrukh\)](https://open.spotify.com/album/7q97V486Eb22gpy325ya5X) | 3:12 |
 | 80 | [Spark It Up](https://open.spotify.com/track/7730PSuJMcj9spFaKdiNHX) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7), [Miss Patty](https://open.spotify.com/artist/0QiymFD0SV4pyHov26kmvo) | [Spark It Up](https://open.spotify.com/album/4QM2Novr2LsNSKWRjFCkEj) | 3:16 |
 | 81 | [The Brave](https://open.spotify.com/track/13WOWmxe7qKZT3apaJaVLs) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [The Brave](https://open.spotify.com/album/4xJepEG7yXxA9OWwku8rxn) | 3:20 |
 | 82 | [La Puta Ama](https://open.spotify.com/track/7v6aomdkdBaD6aNpj6QL1J) | [The Funk Hunters](https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [La Puta Ama](https://open.spotify.com/album/4erxn8BVsM3stevvL1F4OA) | 3:50 |

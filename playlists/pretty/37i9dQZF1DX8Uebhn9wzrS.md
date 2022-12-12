@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,764 likes - 500 songs - 18 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,435 likes - 500 songs - 18 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -303,7 +303,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 293 | [raised by a pear](https://open.spotify.com/track/0bf0Kr1Vkb4xkHrzmlKIp3) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [raised by a pear](https://open.spotify.com/album/0WdwUwKsClIiD8Cgk9Qa2k) | 2:21 |
 | 294 | [faltering heights](https://open.spotify.com/track/71GgMWy54Ctffgnba5tZwJ) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [sunshine states](https://open.spotify.com/album/7imq2Ao9BIk5RD9EzRcGp6) | 3:00 |
 | 295 | [Aquarius](https://open.spotify.com/track/4AXG2evgy3smvD6OymqYys) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Aquarius](https://open.spotify.com/album/6V8QJQBvmgJRi8D5IpC3QZ) | 2:48 |
-| 296 | [Carefree](https://open.spotify.com/track/5XnR3n6J751EXp5rvRyPhN) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Carefree](https://open.spotify.com/album/5pQr8mt9srheqPnV7IGmiF) | 2:14 |
+| 296 | [Carefree](https://open.spotify.com/track/3OMQ3cQynMBphxAoFUVaIZ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Park](https://open.spotify.com/album/0cvBy16KIq84WFKliCbpx7) | 2:14 |
 | 297 | [Inspiration](https://open.spotify.com/track/7tlfSeR24SK1zh9hd32fcw) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Inspiration](https://open.spotify.com/album/3H2cPlfyCa0ahwUXnUpfmz) | 2:12 |
 | 298 | [Sunburn \- Remix](https://open.spotify.com/track/2NQidIdJeB77ZblvIwIZrt) | [Sebastián Zarza](https://open.spotify.com/artist/6gtTcc5ZMOrs3870QQfyxC), [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Sunburn \(Remix\)](https://open.spotify.com/album/5dgqvaimpNv9MePu6nHlFS) | 3:05 |
 | 299 | [Now Sleeps \(The Beating Heart\) \- Instrumental](https://open.spotify.com/track/3KKUITFuB9HEQNmBHyaqjZ) | [Nathan Hui\-Yi](https://open.spotify.com/artist/0APzvunpam9107fWFZZLF9) | [Now Sleeps \(The Beating Heart\)](https://open.spotify.com/album/7rNoAxnZRAmvHeLePXytaG) | 2:22 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 499 | [Meadow](https://open.spotify.com/track/7Fqob7QxvquyjU27F0v3DL) | [fickle fool](https://open.spotify.com/artist/2FTGZQUnPiR0EqCJb3PEBK) | [Meadow](https://open.spotify.com/album/7dijB1jb8GJaT8C4rkgz81) | 1:58 |
 | 500 | [Lo\-fi Radio](https://open.spotify.com/track/65iNa3MLS7bQugeJIaxUUX) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Lo\-fi Radio](https://open.spotify.com/album/26xbX5jZTUU7QsrEN8U16C) | 1:24 |
 
-Snapshot ID: `MTY3MDU0NDA2MCwwMDAwMDAwMGQ5M2UzMzM3OTQxODg1ZjhjZjFiOWViYzU3NjY2N2Zh`
+Snapshot ID: `MTY3MDU0NDA2MCwwMDAwMDAwMDMyNTA4ZWM4OWMwY2U3NWQyYzEyZWFhYjkxZDUzM2Qx`

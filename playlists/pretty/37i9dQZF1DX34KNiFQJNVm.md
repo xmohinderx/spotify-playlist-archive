@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus Fernandes com Xamã e Papatinho, NATTAN, Lana Del Rey e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,802,082 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,802,430 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 31 | [Campo De Visão \- Ao Vivo](https://open.spotify.com/track/2W9n09duC1WwMeiABZ7Ilr) | [Vinny Santa Fé](https://open.spotify.com/artist/19A5pgqDMOLR3hHZ1Piv8d) | [Casa Do Santa \(Ao Vivo\)](https://open.spotify.com/album/2saMZGbxZ3pi4f8Y2xFKgq) | 4:03 |
 | 32 | [Saudade Dos Seus Olhos](https://open.spotify.com/track/3VOoxF5I7G4EajTaQ7GMSp) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Dudu Nobre](https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD) | [Saudade Dos Seus Olhos](https://open.spotify.com/album/2NEUSpWCeC2e7EOgLP0qRL) | 3:40 |
 | 33 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 |
-| 34 | [Be Everyday](https://open.spotify.com/track/1rRets4ru6UHETNKVFcfal) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Vokker](https://open.spotify.com/artist/0HOKaD4722Nsk1b1rfrXYh), [Advent](https://open.spotify.com/artist/0GO0WSX9M8DNSFVhQmsCEo) | [Be Everyday](https://open.spotify.com/album/3VZOYH4Nn1KM4H7tTEULbQ) | 2:51 |
+| 34 | [Be Everyday](https://open.spotify.com/track/1rRets4ru6UHETNKVFcfal) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Vokker](https://open.spotify.com/artist/0HOKaD4722Nsk1b1rfrXYh), [Advent](https://open.spotify.com/artist/2egbM9qIPuBIuzga5IWPuw) | [Be Everyday](https://open.spotify.com/album/3VZOYH4Nn1KM4H7tTEULbQ) | 2:51 |
 | 35 | [Nothing But Love](https://open.spotify.com/track/5r8wJXD2KPu2jDZNhlNxNt) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2) | [Nothing But Love](https://open.spotify.com/album/4NmFFDvgwGyp58EVnKk9At) | 2:58 |
 | 36 | [Chique](https://open.spotify.com/track/1pdmG8BQq5vkU5znB2U9r2) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Chique](https://open.spotify.com/album/30MbEEweKF2d9xXSFdPje7) | 5:45 |
 | 37 | [Visão do Morro](https://open.spotify.com/track/0WIvVill7Gql99kJ8C4JmW) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [2002](https://open.spotify.com/album/0cvbu8Y9cgDtAwSHvMUtHA) | 3:01 |

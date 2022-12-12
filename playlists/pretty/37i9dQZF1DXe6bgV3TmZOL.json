@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2069353,
+  "num_followers": 2070232,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM3ODY5NSwwMDAwMDAwMDUwYzI0NjA1NjQ2ZjNiMTJmMDM4N2UyYzA3NTYxMjAz",
+  "snapshot_id": "MTY2NzM3ODY5NSwwMDAwMDAwMDI0MWZkZjQxY2RmNDhhMDk2N2RiM2M5NDNmODg4ZWEz",
   "tracks": [
     {
       "added_at": "2022-11-02 08:44:55",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
         "name": "STRENGTH IN NUMB333RS",
         "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 226348,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
     }
   ],
   "unique_name": "Adrenaline Workout",

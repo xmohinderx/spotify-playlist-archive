@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: TiaCorine
 
-486 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+487 songs - 20 hr 12 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [I'm Too Much](https://open.spotify.com/track/3maIQrrrYfP5QxU9cgm0YZ) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [I'm Too Much](https://open.spotify.com/album/2UO9evsFwViITYI0zm6CrW) | 2:43 | 2022-09-09 | 2022-09-24 |
 | [ICE AGE](https://open.spotify.com/track/2YKh7Af4rxbr93AWpq7QP5) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [FAST TRAX 3](https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq) | 2:16 | 2022-10-28 |  |
 | [ICE CREAM MAN](https://open.spotify.com/track/0snmq7LOpK9xRO0dJfFlOz) | [chase plato](https://open.spotify.com/artist/6fhU5nl4JH1Umw2aiuCtYg) | [ICE CREAM MAN](https://open.spotify.com/album/13SiRk6WMmDwuKGF40FBgU) | 1:50 | 2022-04-12 | 2022-04-20 |
-| [Ice Cream Truck](https://open.spotify.com/track/0aTB8UmGUXwyriKxoBQsUq) | [SugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB) | [KING OF DRILL](https://open.spotify.com/album/0DHKlZcAKN55YN53EveJSQ) | 1:46 | 2022-10-18 |  |
+| [Ice Cream Truck](https://open.spotify.com/track/0aTB8UmGUXwyriKxoBQsUq) | [SugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB) | [KING OF DRILL](https://open.spotify.com/album/0DHKlZcAKN55YN53EveJSQ) | 1:46 | 2022-10-18 | 2022-12-12 |
+| [Ice Cream Truck](https://open.spotify.com/track/4Y5ap8fb43UxhIZcS3hywg) | [SugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB) | [KING OF DRILL](https://open.spotify.com/album/30jC4ilidpca3ks1MijFxI) | 1:46 | 2022-10-18 |  |
 | [Ice Cream Truck](https://open.spotify.com/track/2df3JPm3fulE2yYYUaOxFZ) | [SugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB), [MOVE LOOK](https://open.spotify.com/artist/7lFBIKbHTSCgAj2CLzDuQ1) | [KING OF DRILL](https://open.spotify.com/album/4Y9DAhfaqRw3aW55W0WrYM) | 1:46 | 2022-10-18 | 2022-12-11 |
 | [IDK WHAT TO TELL YOU](https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LOVE BLACK](https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA) | 3:30 | 2021-10-22 | 2022-04-09 |
 | [ily](https://open.spotify.com/track/52otgxiSY8ywOjoSqi0aVV) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [ily](https://open.spotify.com/album/4BrUuCzw2vfAicYcet3Jmv) | 2:05 | 2022-05-13 | 2022-06-03 |

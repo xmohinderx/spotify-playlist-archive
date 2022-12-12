@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-96 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
+97 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 | 2019-11-06 |  |
 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 | 2020-04-07 |  |
 | [Bulie](https://open.spotify.com/track/5sUjZx2TG22xttouC86tnz) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Ready](https://open.spotify.com/album/3ZDKzS3dLFIo0UErHknL2A) | 5:01 | 2018-10-01 |  |
+| [Child Of Heaven](https://open.spotify.com/track/22Vm4f49IiQwjWMeK6w2Vt) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 4:30 | 2020-11-20 |  |
 | [Child of Heaven \- Remake](https://open.spotify.com/track/3lU0uXcq2uzpPSIplEuinm) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Child of Heaven \(Remake\)](https://open.spotify.com/album/3LShjcDJqRzVTNWx1SSp03) | 4:30 | 2020-11-20 | 2022-07-31 |
-| [Child Of Heaven \- Remake](https://open.spotify.com/track/5bRLQ7hI4PWjsVEZsNhDyj) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Child Of Heaven \(Remake\)](https://open.spotify.com/album/3M733uXqxXk5zhofXoqxSy) | 4:30 | 2020-11-20 |  |
+| [Child Of Heaven \- Remake](https://open.spotify.com/track/5bRLQ7hI4PWjsVEZsNhDyj) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Child Of Heaven \(Remake\)](https://open.spotify.com/album/3M733uXqxXk5zhofXoqxSy) | 4:30 | 2020-11-20 | 2022-12-12 |
 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 | 2018-10-01 | 2022-01-21 |
 | [Days of Elijah \- Live](https://open.spotify.com/track/0t32E01dieVWKQqHKr0P6W) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:51 | 2021-03-25 |  |
 | [Eh Yaweh](https://open.spotify.com/track/1xHh8dzuyqyGJxVETA5Waj) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Celebrate!](https://open.spotify.com/album/2jqinUWqqWhSB5ICFNykgD) | 5:55 | 2018-10-01 |  |

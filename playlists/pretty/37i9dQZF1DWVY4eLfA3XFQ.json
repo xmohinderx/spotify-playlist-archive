@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Kyle Watson.",
-  "num_followers": 569380,
+  "num_followers": 569516,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
@@ -995,17 +995,21 @@
     {
       "added_at": "2022-12-09 05:03:19",
       "album": {
-        "name": "Watcha Need",
+        "name": "Watcha Need (feat. Joy Farrukh)",
         "url": "https://open.spotify.com/album/7q97V486Eb22gpy325ya5X"
       },
       "artists": [
         {
           "name": "Illyus & Barrientos",
           "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        },
+        {
+          "name": "Joy Farrukh",
+          "url": "https://open.spotify.com/artist/6bYeMHJHXkOurzcYC2vkPC"
         }
       ],
       "duration_ms": 192380,
-      "name": "Watcha Need",
+      "name": "Watcha Need (feat. Joy Farrukh)",
       "url": "https://open.spotify.com/track/3NliyvOp9V9n5zsTzGg2Ff"
     },
     {

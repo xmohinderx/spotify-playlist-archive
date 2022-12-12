@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Ryan Castro",
-  "num_followers": 509415,
+  "num_followers": 509452,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGU1NDlhNjE4ZTE3NGNkZmEzMzQ2MjRjODkwN2M0MWQ0",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGZlOGIzN2FjMWJkNWZlOGQzZmQ0MjdhMTMwNDNlMWZk",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Pituquita",
-        "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
-      },
-      "artists": [
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
-        },
-        {
-          "name": "Nero Lvigi",
-          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Pituquita",
-      "url": "https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Bellaco",
         "url": "https://open.spotify.com/album/0tPFkE9cjEAoJgPmcKaiP0"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 170481,
       "name": "Dale",
       "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "PITUQUITA",
+        "url": "https://open.spotify.com/album/0sVsSDFI6CBJIKaK5cF0yE"
+      },
+      "artists": [
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
+        },
+        {
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "PITUQUITA",
+      "url": "https://open.spotify.com/track/1oksgOdMDrzC1qSnBB4ErK"
     },
     {
       "added_at": "2022-12-09 05:00:00",

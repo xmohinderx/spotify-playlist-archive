@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,674,576 likes - 282 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,674,657 likes - 282 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 26 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 |
 | 27 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 |
 | 28 | [Schools Out](https://open.spotify.com/track/2qsIi1QIHDtVTYbXYcKtcX) | [Mye](https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB) | [Schools Out](https://open.spotify.com/album/6o03s6W0Ik6L9b7aKX7Gyb) | 3:07 |
-| 29 | [Drift](https://open.spotify.com/track/2fJwyJQ9h6qEBHJVcqZuPr) | [Lazy Driver](https://open.spotify.com/artist/0jG3gNHWXpfK1iGHLWKVKm) | [Drift](https://open.spotify.com/album/4JgPHkbu2r3lGQR9cXZ4UO) | 3:58 |
+| 29 | [Drift](https://open.spotify.com/track/2fJwyJQ9h6qEBHJVcqZuPr) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Drift](https://open.spotify.com/album/4JgPHkbu2r3lGQR9cXZ4UO) | 3:58 |
 | 30 | [Blue Skies](https://open.spotify.com/track/5fwI0Nxl5PFk1EFdpl1Pp5) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Blue Skies](https://open.spotify.com/album/6QlN0zhSD9Ni0urapqE805) | 2:38 |
 | 31 | [The Year Was 1995](https://open.spotify.com/track/1XQQOghQ0cQvj1LGe5o74d) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [The Year Was 1995](https://open.spotify.com/album/2CvfmhmGbjn0Pyg7PwTTQk) | 3:04 |
 | 32 | [The Brokers](https://open.spotify.com/track/21MHu6sVYAXJ5HCHznwVmV) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [The Brokers](https://open.spotify.com/album/0x7X776wBVBfhJnY2ZnFz5) | 3:04 |

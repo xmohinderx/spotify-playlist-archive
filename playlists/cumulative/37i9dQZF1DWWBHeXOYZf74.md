@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Caroline Polachek
 
-1,796 songs - 4 day 4 hr 59 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,797 songs - 4 day 5 hr 6 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1274,7 +1274,8 @@
 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:59 | 2019-07-30\* | 2019-08-09 |
 | [Purr \(feat\. Kari Faux\)](https://open.spotify.com/track/4ApwuKgd7lEopLTxSA8oDZ) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Purr \(feat\. Kari Faux\)](https://open.spotify.com/album/1iWIu8GEWjvJIoaWdqK2Fb) | 2:45 | 2021-04-30 | 2021-06-03 |
 | [push \(feat\. Deb Never\)](https://open.spotify.com/track/1TXydwDv0VSV92ijrUNBfN) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 2:19 | 2021-02-19 | 2021-04-30 |
-| [Put On](https://open.spotify.com/track/31ZYMwM2eIkx4QPVn9EJ8O) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Put On](https://open.spotify.com/album/09q8L8G97KhyMMkTuTYW3E) | 6:19 | 2022-10-28 |  |
+| [Put On](https://open.spotify.com/track/2qMdBjb1wlIaxXlhaH2mxf) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [100% GALCHER](https://open.spotify.com/album/5lU7ecbRAf80AV9iehrYoq) | 6:19 | 2022-10-28 |  |
+| [Put On](https://open.spotify.com/track/31ZYMwM2eIkx4QPVn9EJ8O) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Put On](https://open.spotify.com/album/09q8L8G97KhyMMkTuTYW3E) | 6:19 | 2022-10-28 | 2022-12-12 |
 | [QADIR \- BADBADNOTGOOD Remix](https://open.spotify.com/track/3LeQucAJqJuqeX5C54798F) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [QADIR \(BADBADNOTGOOD Remix\)](https://open.spotify.com/album/3cdFZzQf5vFJe8wUHoQuAl) | 4:21 | 2021-02-17 | 2021-06-12 |
 | [QADIR \- Single Version](https://open.spotify.com/track/42Ul22w633eGjYj59b9nwv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [QADIR](https://open.spotify.com/album/1uV0IhVjPSe88XugMAFsmT) | 4:01 | 2020-04-02 | 2020-10-15 |
 | [Queen Tings \- Santi Remix](https://open.spotify.com/track/4EOVChDG9c5HX5jrNdBDd6) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Queen Tings \(Santi Remix\)](https://open.spotify.com/album/3ywbciCdfP9GZ1inddiz6a) | 3:31 | 2019-08-15 | 2019-10-16 |

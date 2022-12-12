@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,542 likes - 216 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,642 likes - 216 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 177 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 |
 | 178 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 179 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 |
-| 180 | [60 bpm Slow Drone Sleep](https://open.spotify.com/track/1DgW2B2EyeU51Ia6VBCeHt) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5), [Deep Sleep Music Experience](https://open.spotify.com/artist/1RulmpMDhjAPg9gx6tAzw9), [Relaxing Spa Music](https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE) | [Slow Deep Breathing & Meditation](https://open.spotify.com/album/5YHclMPKKk585VPWeJiZDV) | 4:01 |
+| 180 | [60 bpm Slow Drone Sleep](https://open.spotify.com/track/2fJAcXD5AZzmscP73R1fbe) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5), [Deep Sleep Music Experience](https://open.spotify.com/artist/1RulmpMDhjAPg9gx6tAzw9), [Relaxing Spa Music](https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE) | [Music For Deep Sleep](https://open.spotify.com/album/1qDFYGroUiPFR9ZU9TxpDN) | 4:01 |
 | 181 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 |
 | 182 | [Closing My Eyes](https://open.spotify.com/track/6nwr3T1dBHPgXPHPudwqzo) | [Meridiniella](https://open.spotify.com/artist/21Kjl0iOx81jLDXgrXB6JR) | [Closing My Eyes](https://open.spotify.com/album/3vGlGyOhjf9EjdbdHpYHMT) | 4:11 |
 | 183 | [Springtime Bird](https://open.spotify.com/track/3VW0JyEfyYHqmhiZORcdTr) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Harmonic Waves](https://open.spotify.com/album/3oCRkrg7AL8r5rMfGVPU2t) | 3:21 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 215 | [Blanket of Peace](https://open.spotify.com/track/2PvRoKLmB0Q211nKNw8vmS) | [Mr Pillow](https://open.spotify.com/artist/3LtL0LR8HOlRULZKHf9obA) | [Comfortable Night](https://open.spotify.com/album/3SBn1GyaNYMUUqIqWTlbjO) | 2:53 |
 | 216 | [The Tower of Embellion](https://open.spotify.com/track/1JT0EGMCr3SCUumDC4JIlx) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 2:56 |
 
-Snapshot ID: `MTY3MDU5OTUzMSwwMDAwMDAwMDIyZjk2NTFiYWVmZGFkMWZhY2NhYzk2ZmRlMjMzNmUw`
+Snapshot ID: `MTY3MDU5OTUzMSwwMDAwMDAwMDVmODA4MGM2MDNiMmJjNzkxMTM0OTZjMjc5NmQxZTUx`

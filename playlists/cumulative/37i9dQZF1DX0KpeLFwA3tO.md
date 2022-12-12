@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: poptropicaslutz!
 
-775 songs - 1 day 14 hr 50 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+776 songs - 1 day 14 hr 53 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-11-04 |  |
 | [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 | 2022-07-14 | 2022-08-26 |
 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 | 2022-11-25 |  |
-| [Hell on Earth](https://open.spotify.com/track/5vyC5H0TV5bM7rfQRYla4a) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Hell on Earth](https://open.spotify.com/album/4N7Df53D0phbFhcIEmmi8N) | 3:00 | 2022-11-11 |  |
+| [HELL ON EARTH](https://open.spotify.com/track/30I90lE4F98nCYjaLTo4kc) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast III](https://open.spotify.com/album/4D5DPlknQPa9rRGZkJeGo2) | 3:00 | 2022-12-09 |  |
+| [Hell on Earth](https://open.spotify.com/track/5vyC5H0TV5bM7rfQRYla4a) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Hell on Earth](https://open.spotify.com/album/4N7Df53D0phbFhcIEmmi8N) | 3:00 | 2022-11-11 | 2022-12-12 |
 | [HELLO//GOODBYE](https://open.spotify.com/track/0qbljrZfzWKZiBHlSKVay7) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv) | [HELLO//GOODBYE](https://open.spotify.com/album/3cHlK9W4aabTv21Arf0xmb) | 2:19 | 2022-08-25 | 2022-10-14 |
 | [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 | 2022-08-04 | 2022-09-30 |
 | [Hey Ben](https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Hey Ben](https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M) | 3:20 | 2022-11-04 |  |

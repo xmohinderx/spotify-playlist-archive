@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=EGSmQqizQz687lXSsBxLdg">Omagoqa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,471 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,506 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

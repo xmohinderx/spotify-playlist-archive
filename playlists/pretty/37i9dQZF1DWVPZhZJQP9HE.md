@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,987 likes - 130 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,016 likes - 130 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 5 | [Summertime Kaadhal](https://open.spotify.com/track/5nkn93sR9oU8XBuWRnpC44) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h) | [Summertime Kaadhal](https://open.spotify.com/album/0uMFEpvLWVwlb507BCDyiP) | 2:58 |
 | 6 | [Ulaa](https://open.spotify.com/track/1xmwh2Q8tPaj7qWCRwP0ej) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ulaa](https://open.spotify.com/album/3TS2lHekqjnrUrwxoz3Cwy) | 4:25 |
 | 7 | [Vaazhkai Paatu](https://open.spotify.com/track/4FNkWGEP77dI3OMy4wMN5Q) | [Isaivani](https://open.spotify.com/artist/5QeisthWrXdLXPKSxSSAdL) | [Vaazhkai Paatu](https://open.spotify.com/album/28Khxd8aZBjmi0sELMUnCD) | 4:02 |
-| 8 | [Vaanam \- 1 Min Music](https://open.spotify.com/track/66ngKz4R3ObPG2O9PuIpo0) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA) | [Vaanam \(1 Min Music\)](https://open.spotify.com/album/3WEMMiq3ytkVVuc2PnnaYh) | 1:02 |
+| 8 | [Vaanam](https://open.spotify.com/track/66ngKz4R3ObPG2O9PuIpo0) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA) | [Vaanam](https://open.spotify.com/album/3WEMMiq3ytkVVuc2PnnaYh) | 1:02 |
 | 9 | [Nanba Vaa](https://open.spotify.com/track/3G0YAgG4LtEAWAv9QclhuD) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Nanba Vaa](https://open.spotify.com/album/2TjB7GUK7CFNKvCanqQaCn) | 1:00 |
 | 10 | [Kittakka Vaadi](https://open.spotify.com/track/2Dc4Kz0TR7JAPA9cW4FWLS) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Kittakka Vaadi](https://open.spotify.com/album/7CWRgvWh6YnKoNnSlfnvBt) | 1:02 |
 | 11 | [Ennodu Nee Illaye](https://open.spotify.com/track/3zmijrUjdZTZCFKnMkETnw) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Ennodu Nee Illaye](https://open.spotify.com/album/4QJCCKykaWGgmnlVk4qiHd) | 3:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Suicide Silence
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,752 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,886 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 39 | [AT WAR WITH THE GODS \(feat\. Los\)](https://open.spotify.com/track/6ZoSoQYfGZ7sAXueBxBAch) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Welcome to the West Coast III](https://open.spotify.com/album/4D5DPlknQPa9rRGZkJeGo2) | 2:27 |
 | 40 | [Jhator](https://open.spotify.com/track/4CJfb80uKKm5jv7LZLmXXM) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [Aokigahara MMXXII](https://open.spotify.com/album/0lFIGilli3TdJDFXhtxp5i) | 6:26 |
 | 41 | [Iron Heart](https://open.spotify.com/track/7ima8Jle3MpO6Jb8fRh7y1) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [Iron Heart](https://open.spotify.com/album/6YUENmKnhrM8J5oRmzP1uh) | 3:41 |
-| 42 | [Enemy \(feat\. ifa\)](https://open.spotify.com/track/6Qq5QF8GoZcwpC9purOYoy) | [HOSTAGE](https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD), [Ifa](https://open.spotify.com/artist/1p58omPYGeQ1mFPSNrvbc6) | [Enemy \(feat\. ifa\)](https://open.spotify.com/album/0zrhrHXlGiyCShwuSSi5Y2) | 3:23 |
+| 42 | [Enemy \(feat\. ifa\)](https://open.spotify.com/track/6Qq5QF8GoZcwpC9purOYoy) | [HOSTAGE](https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD), [ifa](https://open.spotify.com/artist/31xsosoPlzl64vdLtTYkjG) | [Enemy \(feat\. ifa\)](https://open.spotify.com/album/0zrhrHXlGiyCShwuSSi5Y2) | 3:23 |
 | 43 | [Menschenhasser](https://open.spotify.com/track/0ffDo9ioHvB19L55Y6wzUq) | [Schattenmann](https://open.spotify.com/artist/5zT9s2gWiwEEK15GiE49jq) | [Menschenhasser](https://open.spotify.com/album/77g1txZfXpeq1VGf8rmi9u) | 3:44 |
 | 44 | [BETTER OFF DEAD](https://open.spotify.com/track/5lznQrXnabf62jK1qAy1mw) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [BETTER OFF DEAD](https://open.spotify.com/album/6sPzgDxMW57vID1GrsBqtJ) | 3:04 |
 | 45 | [Dead Words](https://open.spotify.com/track/5zvFWlcRcoeVYxUQxXPxba) | [Graveworm](https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX) | [Dead Words](https://open.spotify.com/album/092tnP8qEVnyJ9du8KYYwv) | 5:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Paloma Mami, Pailita, El Jordan 23
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,665 likes - 373 songs - 20 hr 24 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,663 likes - 373 songs - 20 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
