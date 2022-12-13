@@ -1,12 +1,12 @@
 {
   "description": "Roots and acoustic tunes, for sun drenched days and balmy nights.",
-  "num_followers": 68076,
+  "num_followers": 68075,
   "original_name": "Summer Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDRiNGM2MWI1M2JjOGQyMzZjNzM3OTA4MTU3NDkxMzI4",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDg3NTRlODFjYzZlOWQwZTc5OTE5MzVhOTMxMzEyZjNi",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Breathe Again (Acoustic)",
-        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 198381,
-      "name": "Breathe Again - Acoustic",
-      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "This City (Acoustic)",
         "url": "https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 277053,
       "name": "Stoney Creek",
       "url": "https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Breathe Again (Acoustic)",
+        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 198381,
+      "name": "Breathe Again - Acoustic",
+      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "Quiet Moon, Wild Sea",
+        "url": "https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 248858,
+      "name": "Quiet Moon, Wild Sea",
+      "url": "https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "In Our Own Sweet Time",
         "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
       },
@@ -239,18 +255,34 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Quiet Moon, Wild Sea",
-        "url": "https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b"
+        "name": "Call Me Home",
+        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
         }
       ],
-      "duration_ms": 248858,
-      "name": "Quiet Moon, Wild Sea",
-      "url": "https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy"
+      "duration_ms": 201999,
+      "name": "Call Me Home",
+      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 271999,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -275,22 +307,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Call Me Home",
-        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 201999,
-      "name": "Call Me Home",
-      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Bottle It Up",
         "url": "https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg"
       },
@@ -311,22 +327,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 271999,
-      "name": "heartbeat",
-      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Home to You",
         "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 213629,
       "name": "Home to You",
       "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -375,22 +359,18 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 294063,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I"
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -427,18 +407,18 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "hemispheres",
-        "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
       },
       "artists": [
         {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
         }
       ],
-      "duration_ms": 227077,
-      "name": "It's Easier When You're Standing There",
-      "url": "https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV"
+      "duration_ms": 188544,
+      "name": "The Coffee Song",
+      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -463,18 +443,38 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
+        "name": "hemispheres",
+        "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
       },
       "artists": [
         {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
         }
       ],
-      "duration_ms": 188544,
-      "name": "The Coffee Song",
-      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
+      "duration_ms": 227077,
+      "name": "It's Easier When You're Standing There",
+      "url": "https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 294063,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "you, all along",
-        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
-      },
-      "artists": [
-        {
-          "name": "This New Light",
-          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
-        }
-      ],
-      "duration_ms": 260049,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
       },
@@ -527,6 +511,38 @@
       "duration_ms": 300915,
       "name": "Book Full Of Answers",
       "url": "https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 191032,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "you, all along",
+        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
+      },
+      "artists": [
+        {
+          "name": "This New Light",
+          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
+        }
+      ],
+      "duration_ms": 260049,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -595,22 +611,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 191032,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "Small Town Rituals",
         "url": "https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+        "name": "Grew Inside the Water",
+        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
       },
       "artists": [
         {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+          "name": "Mimi Gilbert",
+          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
         }
       ],
-      "duration_ms": 226500,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
+      "duration_ms": 284037,
+      "name": "Society's a Mansion",
+      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -743,22 +759,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Grew Inside the Water",
-        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
-      },
-      "artists": [
-        {
-          "name": "Mimi Gilbert",
-          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
-        }
-      ],
-      "duration_ms": 284037,
-      "name": "Society's a Mansion",
-      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Simple Question",
         "url": "https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 272999,
       "name": "Simple Question",
       "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0"
+      },
+      "artists": [
+        {
+          "name": "Kim Churchill",
+          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+        }
+      ],
+      "duration_ms": 213276,
+      "name": "After the Sun",
+      "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -791,22 +807,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Carry You With Me",
-        "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
-      },
-      "artists": [
-        {
-          "name": "Voyageur",
-          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Carry You With Me",
-      "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "I Don't Know Who to Call",
         "url": "https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P"
       },
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0"
+        "name": "Carry You With Me",
+        "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
       },
       "artists": [
         {
-          "name": "Kim Churchill",
-          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+          "name": "Voyageur",
+          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
         }
       ],
-      "duration_ms": 213276,
-      "name": "After the Sun",
-      "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
+      "duration_ms": 258053,
+      "name": "Carry You With Me",
+      "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "A Song To Be Named",
+        "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 249999,
+      "name": "A Song To Be Named",
+      "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "this is how you fall in love",
         "url": "https://open.spotify.com/album/1whjydDxsqNT56EuVTNxxp"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 161632,
       "name": "this is how you fall in love",
       "url": "https://open.spotify.com/track/0r9M8ibaXQcsRoODyUpZmi"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Paint (Stripped)",
-        "url": "https://open.spotify.com/album/7nvo38b7mkqCLJIXpKONBX"
-      },
-      "artists": [
-        {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
-        }
-      ],
-      "duration_ms": 305242,
-      "name": "Paint - Stripped",
-      "url": "https://open.spotify.com/track/4xzw6Yoajqnl0xdgVDAxhu"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "A Song To Be Named",
-        "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
+        "name": "Paint (Stripped)",
+        "url": "https://open.spotify.com/album/7nvo38b7mkqCLJIXpKONBX"
       },
       "artists": [
         {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
         }
       ],
-      "duration_ms": 249999,
-      "name": "A Song To Be Named",
-      "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
+      "duration_ms": 305242,
+      "name": "Paint - Stripped",
+      "url": "https://open.spotify.com/track/4xzw6Yoajqnl0xdgVDAxhu"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/3zQdAvd7yphzVjGx23Ghrs"
+        "name": "Love Shack",
+        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
       },
       "artists": [
         {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
+          "name": "Luke Morris",
+          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
         }
       ],
-      "duration_ms": 246546,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/47aHDHL31kg3h1qZvz2LX9"
+      "duration_ms": 249489,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
     }
   ],
   "unique_name": "Summer Waves",

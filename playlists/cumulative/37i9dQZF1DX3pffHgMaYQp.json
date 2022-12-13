@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Mala Vibra",
+        "url": "https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo"
+      },
+      "artists": [
+        {
+          "name": "The Froys",
+          "url": "https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141516,
+      "name": "Harto",
+      "url": "https://open.spotify.com/track/0NNLYEiVbJhYaudmD4yCUl"
+    },
+    {
+      "album": {
         "name": "Harto",
         "url": "https://open.spotify.com/album/7tcfjeniZB5QKc5iC4zf90"
       },
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 141516,
       "name": "Harto",
       "url": "https://open.spotify.com/track/2Ez1iNcc9Te1XqA3qfTVLH"
@@ -765,10 +783,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 163332,
       "name": "Niebla",
       "url": "https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS"
+    },
+    {
+      "album": {
+        "name": "Niebla",
+        "url": "https://open.spotify.com/album/0zh9o0s4qA7kfE7O2AEmMr"
+      },
+      "artists": [
+        {
+          "name": "El Shirota",
+          "url": "https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163332,
+      "name": "Niebla",
+      "url": "https://open.spotify.com/track/6yWpmaYnTJYeRfnrwb0OCQ"
     },
     {
       "album": {
@@ -1037,10 +1073,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 384401,
       "name": "Tibio",
       "url": "https://open.spotify.com/track/1Hb4Zgo4nV73Eh0oA19BuJ"
+    },
+    {
+      "album": {
+        "name": "Niebla",
+        "url": "https://open.spotify.com/album/4vsAT0CdijFI9X3BUks2uv"
+      },
+      "artists": [
+        {
+          "name": "El Shirota",
+          "url": "https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384401,
+      "name": "Tibio (feat. Alo)",
+      "url": "https://open.spotify.com/track/4YYkqEGlnnUP1Veadfw3kW"
     },
     {
       "album": {
@@ -1207,7 +1261,7 @@
     {
       "album": {
         "name": "SGTP",
-        "url": "https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4"
+        "url": "https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm"
       },
       "artists": [
         {
@@ -1218,6 +1272,24 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 245571,
+      "name": "Ya Lev\u00e1ntate",
+      "url": "https://open.spotify.com/track/1Ltr1S8VdeB5f8elHvgWgC"
+    },
+    {
+      "album": {
+        "name": "SGTP",
+        "url": "https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
       "duration_ms": 245571,
       "name": "Ya Lev\u00e1ntate",
       "url": "https://open.spotify.com/track/41TKk1hgkuFRDJW3ChgtdR"

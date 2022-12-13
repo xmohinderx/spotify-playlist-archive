@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Los de La O e Iván Cornejo en portada.
 
-203 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+204 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [El Invierno Pasado](https://open.spotify.com/track/68tZC61FSDP2WgdQAoImQG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Jean Piero](https://open.spotify.com/artist/038hutZ2g8qq1UjZZGfTIs) | [El Invierno Pasado](https://open.spotify.com/album/7r0Et078YgtOvouUWg0UgY) | 4:08 | 2022-08-29 | 2022-10-01 |
 | [El Jami](https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S) | [Grupo 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO) | 2:59 | 2022-08-29 | 2022-10-13 |
 | [El Jami](https://open.spotify.com/track/0v4ySxml0fwgYJAYazBBJB) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/1nRul8PMSoyoLfdJ2JDgne) | 2:59 | 2022-08-29 | 2022-12-06 |
+| [El Jami](https://open.spotify.com/track/3ZMQAcQ6OfWOWcVYNX4s9J) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/74tiD1EECHUoifQuTexkZb) | 2:59 | 2022-08-29 |  |
 | [El Mayor](https://open.spotify.com/track/1O6V373NcGqZ27jpCtGdsP) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Mayor](https://open.spotify.com/album/3VwSLI8R7PAzDHfqG7pEWX) | 2:48 | 2022-07-01 | 2022-08-06 |
 | [El Precio De La Soledad](https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:06 | 2022-06-10 |  |
 | [El Pávido Návido](https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [A Bailar Huapangos](https://open.spotify.com/album/3HwzYVu702BGntM846aF8T) | 4:12 | 2022-09-02 |  |
@@ -199,7 +200,7 @@
 | [Te Vez Buena](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 | 2022-08-29 |  |
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2022-06-20 | 2022-11-05 |
 | [Todavía No Sabe \- Radio](https://open.spotify.com/track/3alt3dQHiothn0qCSZf5cJ) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Todavía No Sabe](https://open.spotify.com/album/3gjijAYfP7Bqm150XRK4WP) | 3:29 | 2022-07-01 | 2022-07-29 |
-| [Tu Cárcel](https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Tu Cárcel](https://open.spotify.com/album/6TI145XlTYny1EKWi07Qvg) | 2:37 | 2022-09-30 |  |
+| [Tu Cárcel](https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Tu Cárcel](https://open.spotify.com/album/6TI145XlTYny1EKWi07Qvg) | 2:37 | 2022-09-30 | 2022-12-13 |
 | [Un Suspiro](https://open.spotify.com/track/6JxxhqQo5PQB4IgO4uVAAd) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Edición Mexico](https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv) | 3:04 | 2022-08-29 | 2022-11-13 |
 | [Un Suspiro](https://open.spotify.com/track/45gb6KQDwMHeT9ytosr6Eh) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiro](https://open.spotify.com/album/1T933O98fS24tmvqNJ4TgF) | 3:04 | 2021-12-17 | 2022-07-29 |
 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 | 2021-12-17 |  |

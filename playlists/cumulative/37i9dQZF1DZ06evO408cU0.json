@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "118 Balazos",
+      "url": "https://open.spotify.com/track/7rSQQD13gfhbidmiCfrKpH"
+    },
+    {
+      "album": {
         "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
         "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
       },
@@ -687,7 +709,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 204653,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/0epRumtLjExXKVCdnzxxDx"
@@ -727,6 +749,28 @@
       "duration_ms": 214666,
       "name": "Lo Que Pienso De Ti",
       "url": "https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/3tNN1pG4SrRNvRUzYD52g6"
     },
     {
       "album": {
@@ -1231,7 +1275,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 262533,
       "name": "Vuelve, Vuelve - En Vivo",
       "url": "https://open.spotify.com/track/6aCCj56P1fRI9l0pkwDBfF"

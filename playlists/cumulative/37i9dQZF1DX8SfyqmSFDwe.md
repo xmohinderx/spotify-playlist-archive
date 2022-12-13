@@ -4,7 +4,7 @@
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-235 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
+236 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Me Matas](https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:16 | 2022-07-01 |  |
 | [Me Matas](https://open.spotify.com/track/6GrPaW2OIHuweYcVRoYbmv) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [2008 Año De Exitos Reggaeton Urbano](https://open.spotify.com/album/3nKlGI2dSDoF1ON5zC4g6u) | 3:16 | 2021-12-09 | 2022-07-29 |
 | [Me Pones en Tensión](https://open.spotify.com/track/5WVZfMIrS6hbvwG8hpRHCR) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Biografía](https://open.spotify.com/album/3wLLsfcFRMs0FkvI0LU3jE) | 3:54 | 2022-09-15 |  |
-| [Me Quiere Besar](https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Los Reyes del Perreo](https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF) | 2:35 | 2022-04-05 |  |
+| [Me Quiere Besar](https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Los Reyes del Perreo](https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF) | 2:35 | 2022-04-05 | 2022-12-13 |
 | [Medley](https://open.spotify.com/track/6KC9RBNcIaXHHE18tdyq3h) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 3:11 | 2022-01-24 | 2022-04-21 |
 | [Mi Cama Huele a Ti](https://open.spotify.com/track/6YLJCOynR32U4YXtsvzTdC) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [El Patrón](https://open.spotify.com/album/2Tk5xePb7dAG5wnyQgXAP0) | 3:45 | 2021-12-09 | 2022-07-29 |
 | [Mi Cama Huele a Ti \(feat\. Zion & Lennox\)](https://open.spotify.com/track/1nAk42YH4kmPxaoFcLgiSe) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 3:45 | 2022-07-01 |  |
@@ -200,6 +200,7 @@
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2021-12-09 | 2022-09-16 |
 | [Si No Cuidas Tu Mujer](https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 3:58 | 2021-12-09 |  |
 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 | 2022-07-01 | 2022-12-01 |
+| [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 | 2022-12-07 |  |
 | [Si No Le Contesto](https://open.spotify.com/track/6YyPA4dxemw23eGon3CjFX) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/5uja4ElM6i6neeFTAa4Itw) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Si Tú La Ves \(feat\. Wisin\)](https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:41 | 2022-01-20 |  |
 | [Siente El Boom](https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [El Documental II](https://open.spotify.com/album/01i4xjoO8LfObh7LbIZy8z) | 3:08 | 2021-12-09 |  |

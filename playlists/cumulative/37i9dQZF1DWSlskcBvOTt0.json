@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
@@ -3080,6 +3080,32 @@
     },
     {
       "album": {
+        "name": "Kiss (Colyn & Konstantin Sibold Remix)",
+        "url": "https://open.spotify.com/album/04IxzyKjiLFRXO6Pi15osR"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Konstantin Sibold",
+          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414171,
+      "name": "Kiss - Colyn & Konstantin Sibold Remix",
+      "url": "https://open.spotify.com/track/2KancmpFBQsKxsv525uVsK"
+    },
+    {
+      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -3309,6 +3335,24 @@
       "duration_ms": 344000,
       "name": "Les Gout",
       "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
+    },
+    {
+      "album": {
+        "name": "Let's Pretend",
+        "url": "https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220403,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9"
     },
     {
       "album": {
@@ -4721,7 +4765,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 384528,
       "name": "Out of Focus (feat. Zoot Woman) - \u00c2me Remix",
       "url": "https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk"
@@ -5403,7 +5447,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 456706,
       "name": "Snake Ritual",
       "url": "https://open.spotify.com/track/415zjCOKwFCZcQlvyHQkuj"
@@ -6791,6 +6835,24 @@
       "duration_ms": 399465,
       "name": "Yira Yirar",
       "url": "https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a"
+    },
+    {
+      "album": {
+        "name": "Yoruba",
+        "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427627,
+      "name": "Yoruba",
+      "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
     },
     {
       "album": {

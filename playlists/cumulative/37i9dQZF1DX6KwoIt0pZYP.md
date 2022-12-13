@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-417 songs - 23 hr 11 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+418 songs - 23 hr 15 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [It Wasn't Love](https://open.spotify.com/track/6sTrIqgqmcfFdXYcDDWS1X) | [Jacqueline Caroline](https://open.spotify.com/artist/52LJzMsGNONHXMC3F0YTeq) | [Trust Issues, Pt\. 1](https://open.spotify.com/album/1ZzZnkSs5Typ92fW6yhRgM) | 4:02 | 2022-03-29 | 2022-04-19 |
 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 | 2022-01-28 |  |
 | [It's You](https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [It's You](https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI) | 4:11 | 2022-01-28 |  |
+| [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2022-12-13 |  |
 | [Jasmine](https://open.spotify.com/track/5t3F4TIWCvMmoODNPnR3Qx) | [Gold Revere](https://open.spotify.com/artist/7kYDjU5spmeNn4aIXU5sGV) | [Jasmine](https://open.spotify.com/album/3975X9J6tIxTHKm4RTitzp) | 3:10 | 2022-03-29 | 2022-04-14 |
 | [just like before](https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [just like before](https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam) | 4:26 | 2022-08-30 | 2022-09-27 |
 | [Just Stay Close](https://open.spotify.com/track/6jFaXmrMHlorROXyltjubS) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [TWENTY FIVE](https://open.spotify.com/album/1mDaY48ESUPxGNBleBlTKg) | 3:34 | 2022-03-29 | 2022-04-20 |
@@ -337,7 +338,7 @@
 | [Sumthin Bout Love](https://open.spotify.com/track/36PagkhheRVG0iFaM55njV) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Sumthin Bout Love](https://open.spotify.com/album/6eqKKHirJmjLlVBJCN87i9) | 3:50 | 2022-04-15 | 2022-07-25 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-18 |  |
 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 | 2022-02-25 | 2022-04-18 |
-| [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 | 2022-08-26 |  |
+| [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 | 2022-08-26 | 2022-12-13 |
 | [Sympathy](https://open.spotify.com/track/1ejyfKtg2DbswNknI0EBzT) | [Rosendale](https://open.spotify.com/artist/3ZVW9s2Xb8NQDzwEqElbNq) | [Sympathy](https://open.spotify.com/album/3ERXwDVLNRZthwGAQK7Z6d) | 2:24 | 2022-04-15 | 2022-05-10 |
 | [T](https://open.spotify.com/track/3FWKUDsmw76R8vkZudTbte) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Head In The Clouds Forever](https://open.spotify.com/album/0UwAIpD7li3hhPDVxPrQxD) | 4:09 | 2022-04-24 | 2022-07-29 |
 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-09-26 | 2022-11-15 |

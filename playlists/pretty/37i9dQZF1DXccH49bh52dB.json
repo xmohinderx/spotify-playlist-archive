@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 379847,
+  "num_followers": 380139,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDk1YTk3OGZmZjc0YTJlYmEyYjdhODNmOWU5ZmY3YWFi",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDE4Njg4MjE1MTg5ZjA5OGFjMDVhZjk5MDA1YjFiMjYw",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -215,6 +215,26 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Stole the Show",
+      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "My Love (feat. Jess Glynne)",
         "url": "https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q"
       },
@@ -231,22 +251,6 @@
       "duration_ms": 259934,
       "name": "My Love (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/5HMjpBO0v78ayq5lreAyDd"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/7gHs73wELdeycvS48JfIos"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -271,22 +275,18 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5HMjpBO0v78ayq5lreAyDd"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 223186,
-      "name": "Stole the Show",
-      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
+      "duration_ms": 212626,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/7gHs73wELdeycvS48JfIos"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -519,26 +519,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "if we never met (remix)",
-        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 186594,
-      "name": "if we never met - remix",
-      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -555,6 +535,46 @@
       "duration_ms": 180120,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "It Ain't Me",
+        "url": "https://open.spotify.com/album/4VNy5ifZtW3E9SgffbGEti"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 220780,
+      "name": "It Ain\u2019t Me (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/12GEpg2XOPyqk03JZEZnJs"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "if we never met (remix)",
+        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 186594,
+      "name": "if we never met - remix",
+      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -639,26 +659,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "It Ain't Me",
-        "url": "https://open.spotify.com/album/4VNy5ifZtW3E9SgffbGEti"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 220780,
-      "name": "It Ain\u2019t Me (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/12GEpg2XOPyqk03JZEZnJs"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -691,6 +691,26 @@
       "duration_ms": 204992,
       "name": "No Eyes - Radio Edit",
       "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 193511,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -839,26 +859,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 193511,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
@@ -871,26 +871,6 @@
       "duration_ms": 237986,
       "name": "No Place",
       "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -911,6 +891,26 @@
       "duration_ms": 203586,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -967,6 +967,26 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        }
+      ],
+      "duration_ms": 228361,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "GENERATIONWHY",
         "url": "https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 231813,
       "name": "Working For It",
       "url": "https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        }
-      ],
-      "duration_ms": 228361,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Skin: The Remixes",
         "url": "https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 267200,
       "name": "Say It - Illenium Remix",
       "url": "https://open.spotify.com/track/1wfZdPy5FRWsdWaAEOG0Ml"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Oh Child",
-        "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 195261,
-      "name": "Oh Child",
-      "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Back To You (Joey Pecoraro Remix)",
         "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 226644,
       "name": "Back To You - Joey Pecoraro Remix",
       "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Oh Child",
+        "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 195261,
+      "name": "Oh Child",
+      "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Summer Air",
+        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 183587,
+      "name": "Summer Air",
+      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Lighthouse (Andrelli Remix)",
         "url": "https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 218446,
       "name": "Lighthouse - Andrelli Remix",
       "url": "https://open.spotify.com/track/04CttTezSnv71USiiG9mIo"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Summer Air",
-        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 183587,
-      "name": "Summer Air",
-      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
     },
     {
       "added_at": "2022-01-18 14:54:04",

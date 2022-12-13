@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-228 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+229 songs - 20 hr 38 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Love For Sale](https://open.spotify.com/track/5BN4nwzPH9mjT9uJLI2HUx) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Love For Sale](https://open.spotify.com/album/4qsdh6qILDPYgRXxo5ZRqO) | 3:52 | 2022-11-12 |  |
 | [Love Is Here To Stay](https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 4:22 | 2022-11-12 |  |
 | [Love Walked In](https://open.spotify.com/track/1H460eor4CG8p8OAz7TGYM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Love Walked In](https://open.spotify.com/album/47lb71I4VeNVfdXZma2o3M) | 3:40 | 2022-11-12 |  |
-| [Lucky to Be Me](https://open.spotify.com/track/26tDMDknpR3kl3G8XYsN9q) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:34 | 2022-10-06 |  |
+| [Lucky to Be Me](https://open.spotify.com/track/26tDMDknpR3kl3G8XYsN9q) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:34 | 2022-10-06 | 2022-12-13 |
 | [Lucky to be Me](https://open.spotify.com/track/5tMEOw8LjLhCizDcyCvw4H) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Street of Dreams](https://open.spotify.com/album/7qIDAwVcQxA6jIIvaQ9WcD) | 6:42 | 2022-05-25 | 2022-11-12 |
 | [Luiz](https://open.spotify.com/track/4ExjcScZAfGKTZmONryc8L) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Ambivalence](https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS) | 4:47 | 2022-03-11 |  |
 | [Mack the Knife](https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc) | [Chad Lefkowitz\-Brown](https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe) | [Mack the Knife](https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu) | 5:31 | 2022-02-18 |  |
@@ -149,6 +149,7 @@
 | [My One and Only Love](https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO) | [My One and Only Love](https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa) | 4:50 | 2022-02-18 |  |
 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 | 2022-03-11 |  |
 | [New Orleans](https://open.spotify.com/track/2z6D5bIA9Wprdqi1B8nnVh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 5:40 | 2020-03-31 | 2022-04-28 |
+| [Nice ’n’ Easy](https://open.spotify.com/track/5So17jMxo4gJ19CwZV5Sxt) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:11 | 2022-12-01 |  |
 | [Nico's Dream](https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Sophia Tomelleri](https://open.spotify.com/artist/0t6QqAU5H72iR1XyOEAPbM), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [On the Trail](https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8) | 4:21 | 2022-09-16 |  |
 | [Nostalgia in Times Square](https://open.spotify.com/track/0x4Sfme5P4VPNMDGW8126A) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 3:32 | 2022-05-25 | 2022-10-12 |
 | [Old News](https://open.spotify.com/track/1CEQHQFKA803N1UhLXzOPM) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh) | [Second Strike](https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F) | 5:43 | 2022-02-18 |  |

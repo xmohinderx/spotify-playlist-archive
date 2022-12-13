@@ -330,6 +330,28 @@
     },
     {
       "album": {
+        "name": "Bullet Vizhigalal",
+        "url": "https://open.spotify.com/album/3DgoVNaJSDzTtmtpqMXs1V"
+      },
+      "artists": [
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        },
+        {
+          "name": "Kavirayar",
+          "url": "https://open.spotify.com/artist/5KraNeH0nG3DbbDRKzumNP"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202056,
+      "name": "Bullet Vizhigalal",
+      "url": "https://open.spotify.com/track/14lR9HTz0WaFDAvyjDFH1S"
+    },
+    {
+      "album": {
         "name": "Calm Baby",
         "url": "https://open.spotify.com/album/3Q2ol2KC5A1Cr7DFMQTI6X"
       },
@@ -3211,7 +3233,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 231629,
       "name": "Vaa Thozha",
       "url": "https://open.spotify.com/track/2Ekp0MA9e17GACENWj9Fqw"

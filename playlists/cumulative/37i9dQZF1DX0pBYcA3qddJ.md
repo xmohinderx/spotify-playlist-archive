@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-194 songs - 12 hr 12 min - not published yet
+195 songs - 12 hr 16 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 | 2022-12-01 |  |
 | [Borderland](https://open.spotify.com/track/7dbcgrQiZGB1kTXzevBEen) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Borderland](https://open.spotify.com/album/4Oj5YTqVP7ZyiYnpnY9ntA) | 3:22 | 2022-10-20 | 2022-12-02 |
 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 | 2022-11-15 | 2022-12-02 |
+| [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 | 2022-12-08 |  |
 | [Candles](https://open.spotify.com/track/2bOalGfLHderIlSLeoc1TY) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Candles](https://open.spotify.com/album/7iRMIJJv9NsGfvyYGbgobi) | 3:57 | 2022-12-01 |  |
 | [Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. Garrett / van der Heijden for Violin and Orchestra\)](https://open.spotify.com/track/4qBwsjfScPpu30PThVCRok) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw), [Orchestra the Prezent](https://open.spotify.com/artist/25y9UwLKC3bZJFNkHRdUzZ) | [ICONIC](https://open.spotify.com/album/4C8R1bI6fnZP81pWn8bpaS) | 2:46 | 2022-11-03 |  |
 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 | 2022-10-20 |  |
@@ -63,7 +64,7 @@
 | [hananoame](https://open.spotify.com/track/0pPlbgLKDPFlGKTbmApQiX) | [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [hananoame](https://open.spotify.com/album/3c2oU0PlWnVe0Eg4IZIb5D) | 4:20 | 2022-12-01 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-11-23 |  |
 | [Hawk](https://open.spotify.com/track/4tmN5DNeqyW1E2CL5nA5iI) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Birds 2](https://open.spotify.com/album/5YRGHMPBe6bHwFzcs5sqyA) | 4:39 | 2022-11-01 | 2022-12-02 |
-| [Home](https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Home](https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ) | 3:30 | 2022-10-20 |  |
+| [Home](https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Home](https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ) | 3:30 | 2022-10-20 | 2022-12-13 |
 | [Hoppípolla](https://open.spotify.com/track/0yQPpUq5BJyqah5m2Q5Stt) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 4:28 | 2022-11-23 |  |
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2022-11-08 |  |
 | [I Can't Tell You Why](https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:40 | 2022-11-23 | 2022-12-02 |

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2326339,
+  "num_followers": 2326779,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDI2ODU5NTdhNDdjNjZlNWQ4MGIzMzQ5YzgwNjIxZDRh",
+  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDdiOWJlYTQ0ODk5OTkzNDY4ZDgzY2UxZjE1OTAyNjBl",
   "tracks": [
     {
       "added_at": "2022-09-20 08:13:43",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Noon Time Show",
-        "url": "https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW"
-      },
-      "artists": [
-        {
-          "name": "The Itchyworms",
-          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
-        }
-      ],
-      "duration_ms": 364106,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "TJ Monterde",
         "url": "https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+        "name": "Noon Time Show",
+        "url": "https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
         }
       ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+      "duration_ms": 364106,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -315,6 +299,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "I Need You More Today",
         "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
       },
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Binibini",
-        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Binibini",
-      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
-      },
-      "artists": [
-        {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
-        }
-      ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Buruguduystunstugudunstuy",
         "url": "https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
         }
       ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -519,6 +503,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "KLWKN",
         "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 256572,
       "name": "KLWKN",
       "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
-      },
-      "artists": [
-        {
-          "name": "Imago",
-          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
-        }
-      ],
-      "duration_ms": 243653,
-      "name": "Sundo",
-      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -567,6 +551,22 @@
       "duration_ms": 259120,
       "name": "Kiss - Never Let Me Go",
       "url": "https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
+      },
+      "artists": [
+        {
+          "name": "Imago",
+          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
+        }
+      ],
+      "duration_ms": 243653,
+      "name": "Sundo",
+      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "duration_ms": 277098,
+      "name": "Sana - Single Version",
+      "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Titig",
         "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Sana",
-        "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
-      },
-      "artists": [
-        {
-          "name": "I Belong to the Zoo",
-          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
-        }
-      ],
-      "duration_ms": 277098,
-      "name": "Sana - Single Version",
-      "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Episode III",
         "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Maybe This Time (From \"Maybe This Time\")",
-        "url": "https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h"
-      },
-      "artists": [
-        {
-          "name": "Sarah Geronimo",
-          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
-        }
-      ],
-      "duration_ms": 255608,
-      "name": "Maybe This Time - From \"Maybe This Time\"",
-      "url": "https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Nang Dumating Ka",
         "url": "https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 379804,
       "name": "Nang Dumating Ka",
       "url": "https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Maybe This Time (From \"Maybe This Time\")",
+        "url": "https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h"
+      },
+      "artists": [
+        {
+          "name": "Sarah Geronimo",
+          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
+        }
+      ],
+      "duration_ms": 255608,
+      "name": "Maybe This Time - From \"Maybe This Time\"",
+      "url": "https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo"
     },
     {
       "added_at": "2022-09-20 08:13:43",

@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 210739,
       "name": "Hippocamp",
       "url": "https://open.spotify.com/track/0uKrR91NAfDAcwCE9M2gSY"
@@ -2212,6 +2212,28 @@
     },
     {
       "album": {
+        "name": "Close Distance (Deluxe)",
+        "url": "https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "K, Le Maestro",
+          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141773,
+      "name": "Solst\u00e5nd - Bonus Track",
+      "url": "https://open.spotify.com/track/5JhnZmoePRQaSjhtVWPlVZ"
+    },
+    {
+      "album": {
         "name": "gay story",
         "url": "https://open.spotify.com/album/6wNgoamY7ZcZA1mEVXAuZV"
       },
@@ -2271,6 +2293,32 @@
       "duration_ms": 118518,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG"
+    },
+    {
+      "album": {
+        "name": "Collabs, Vol 2",
+        "url": "https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
+        },
+        {
+          "name": "Plusma",
+          "url": "https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101663,
+      "name": "Soul Finding",
+      "url": "https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa"
     },
     {
       "album": {
@@ -2823,7 +2871,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 180062,
       "name": "walk in the park",
       "url": "https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw"

@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 126385,
       "name": "Elastic",
       "url": "https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv"
@@ -1321,7 +1321,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 136031,
       "name": "KIKA",
       "url": "https://open.spotify.com/track/0IFMbLUK5ttPmXyK16qUQu"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 158769,
       "name": "La zone (feat. Shiva)",
       "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
@@ -1587,6 +1587,36 @@
       "duration_ms": 206550,
       "name": "MALA",
       "url": "https://open.spotify.com/track/4epHhc2lvhFYzMlKA23O3G"
+    },
+    {
+      "album": {
+        "name": "PLC tape 1",
+        "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178721,
+      "name": "MALA (feat. Lazza, Tony Effe, JVLI)",
+      "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
     },
     {
       "album": {

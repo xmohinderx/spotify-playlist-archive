@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
 
-503 songs - 1 day 14 hr 47 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+504 songs - 1 day 14 hr 52 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bereavement \- Instrumental](https://open.spotify.com/track/2DZqH9cwi33v4t4e2hqC9B) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Bereavement \(Instrumental Edition\)](https://open.spotify.com/album/1O2eEwO3sJSkrfNOg16ekw) | 2:38 | 2022-07-13 | 2022-07-23 |
 | [BEST TIME](https://open.spotify.com/track/0cTHs20lsSAahzUnlG05Lg) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [HELLOWEEN](https://open.spotify.com/album/6ZOpyAm1HCU9Z0aRSLMPnn) | 3:35 | 2021-06-19 | 2022-02-11 |
 | [Black Venom](https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Black Venom](https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq) | 3:17 | 2022-06-11 |  |
-| [Blank Infinity \- Live At Paradiso](https://open.spotify.com/track/0GmZSnIUgQRJfGKR0NSaUl) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Live At Paradiso](https://open.spotify.com/album/0cSFIq70TNkZvsqSfAQrXe) | 4:02 | 2022-09-01 |  |
+| [Blank Infinity \- Live At Paradiso](https://open.spotify.com/track/0GmZSnIUgQRJfGKR0NSaUl) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Live At Paradiso](https://open.spotify.com/album/0cSFIq70TNkZvsqSfAQrXe) | 4:02 | 2022-09-01 | 2022-12-13 |
 | [Blood of Heaven](https://open.spotify.com/track/47cPM0m5L7l06hAprdV0NX) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Blood of Heaven](https://open.spotify.com/album/5uvgEF7Cpbdf4eokVESORA) | 3:17 | 2022-01-14 | 2022-01-22 |
 | [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 | 2022-11-19 |
 | [Bloodline](https://open.spotify.com/track/3p8mNusemqp0ejZaJVLiqi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Bloodline](https://open.spotify.com/album/4tt6KdVt97D0xhbIPUeB4l) | 4:36 | 2020-11-29\* | 2021-02-12 |
@@ -177,6 +177,7 @@
 | [Fracture \- Bonus Instrumental](https://open.spotify.com/track/3ElhKMgLvETrc4j0A2qroS) | [Elitist](https://open.spotify.com/artist/08q7eHwauUxjMODBdbbYpa) | [Earth \- EP](https://open.spotify.com/album/4fn7T9sfyp8an2az1im3H2) | 4:09 | 2022-07-13 | 2022-07-29 |
 | [Fracture \- Instrumental](https://open.spotify.com/track/1jHi8OHpul9sNWsvZfqTm2) | [Elitist](https://open.spotify.com/artist/08q7eHwauUxjMODBdbbYpa) | [Earth](https://open.spotify.com/album/5MaNR9GFSMEw3lOktoyiZW) | 4:09 | 2022-07-13 | 2022-07-30 |
 | [Fragments](https://open.spotify.com/track/5p3osjelrzcmI0vLCP662k) | [UNDEAD CORPORATION](https://open.spotify.com/artist/6fKT4n1tGdjiH5RwNRQuTf) | [Fragments](https://open.spotify.com/album/47Teby1vWfGnwGsaySaEKQ) | 4:21 | 2021-10-16 | 2022-05-14 |
+| [Frozen](https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Federica Lanna](https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx) | [Frozen](https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz) | 5:00 | 2022-12-12 |  |
 | [G.O.A.T.](https://open.spotify.com/track/2aVAlLn2uez3xpcXxdiVek) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [G.O.A.T.](https://open.spotify.com/album/6h5Mi2sGgCuPrLnMNnJC7A) | 3:35 | 2022-07-13 | 2022-07-30 |
 | [Gateways](https://open.spotify.com/track/5NeV5REhgXSn2hpmUeyUfJ) | [Rob Scallon](https://open.spotify.com/artist/0A51LEnyTnXX33IyuwM0Ts), [Jeff Loomis](https://open.spotify.com/artist/1bqlyIXRTCilCmvAr1newg) | [The Scene Is Dead](https://open.spotify.com/album/3EIBXerntbAZ5YrxrK1Sub) | 3:08 | 2022-07-13 | 2022-07-30 |
 | [Generations' Legacy](https://open.spotify.com/track/5IQkaqFVUaw8MSVY1TsDsX) | [Mentalist](https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs) | [Generations' Legacy](https://open.spotify.com/album/7DsqNbS1FIzE736qTj5DuQ) | 5:28 | 2022-06-11 |  |

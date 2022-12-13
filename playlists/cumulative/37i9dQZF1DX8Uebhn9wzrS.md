@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,144 songs - 1 day 19 hr 34 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
+1,145 songs - 1 day 19 hr 36 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Cannons Park](https://open.spotify.com/track/3qyqHUZCDy9tyIm78OPoNY) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Jubilee Line](https://open.spotify.com/album/2CJ2fwZ85CIU48NNj81Lza) | 2:44 | 2022-04-15 | 2022-07-22 |
 | [Cape Judge](https://open.spotify.com/track/5GtIpEXs7ZBOz49Y4Tekpb) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Cape Judge](https://open.spotify.com/album/0qBw9ryoN9AhxwkxgPJIrB) | 2:57 | 2022-04-15 | 2022-10-08 |
 | [Carefree](https://open.spotify.com/track/2sGWXNk6QdXbsKII2FYfRt) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Carefree](https://open.spotify.com/album/3lItQWRt34iplBcHQYIcxo) | 2:14 | 2022-11-11 | 2022-11-24 |
-| [Carefree](https://open.spotify.com/track/3OMQ3cQynMBphxAoFUVaIZ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Park](https://open.spotify.com/album/0cvBy16KIq84WFKliCbpx7) | 2:14 | 2022-12-09 |  |
+| [Carefree](https://open.spotify.com/track/3OMQ3cQynMBphxAoFUVaIZ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Park](https://open.spotify.com/album/0cvBy16KIq84WFKliCbpx7) | 2:14 | 2022-12-09 | 2022-12-13 |
+| [Carefree](https://open.spotify.com/track/57i49QYR2zB0AWbct7guqF) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Park](https://open.spotify.com/album/7JKBLyPB0mqBghCqmTmj9K) | 2:14 | 2022-12-09 |  |
 | [Carefree](https://open.spotify.com/track/5XnR3n6J751EXp5rvRyPhN) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Carefree](https://open.spotify.com/album/5pQr8mt9srheqPnV7IGmiF) | 2:14 | 2022-11-18 | 2022-12-12 |
 | [Carefree & Happy](https://open.spotify.com/track/3Lyj1sMnwdz5Af3ii2R3YA) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Carefree & Happy](https://open.spotify.com/album/2WUVuApdBfTbtyHFQMcpiK) | 2:28 | 2022-08-05 | 2022-08-19 |
 | [Carnations](https://open.spotify.com/track/68dXXkD5db6XjHMRdcLFbq) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Carnations](https://open.spotify.com/album/3uhOX14bV6HBYKQLAPGbCR) | 1:49 | 2022-06-17 | 2022-08-12 |

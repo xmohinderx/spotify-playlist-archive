@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 172458,
       "name": "Feel the Burn",
       "url": "https://open.spotify.com/track/672ya0WXJAbZvxDp4rD4h3"
@@ -2320,6 +2320,24 @@
     },
     {
       "album": {
+        "name": "Keep The Lights On Me",
+        "url": "https://open.spotify.com/album/53azBiH1hRGDukmmgYvKKM"
+      },
+      "artists": [
+        {
+          "name": "Big Spring",
+          "url": "https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227261,
+      "name": "Keep The Lights On Me",
+      "url": "https://open.spotify.com/track/3oYzJ9fRhVbEVUvrAPL2b6"
+    },
+    {
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ"
       },
@@ -2925,7 +2943,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 240573,
       "name": "My Name Is Trouble",
       "url": "https://open.spotify.com/track/3YZUBdCdqP8lL9nH82pWKM"
@@ -4887,7 +4905,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 151706,
       "name": "Unreal Is Here",
       "url": "https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a"

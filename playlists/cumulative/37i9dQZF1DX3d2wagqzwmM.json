@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 174222,
       "name": "Burn It To The Ground (feat. Jay Mason)",
       "url": "https://open.spotify.com/track/0MKp1X6mSiufIbIalTzgTn"
@@ -2103,7 +2103,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/0QFKNWVDzx68m98IMDSxyY"
@@ -3642,6 +3642,32 @@
     },
     {
       "album": {
+        "name": "So High (feat. Crooked Bangs)",
+        "url": "https://open.spotify.com/album/37x16CdDA6LzyQxFIjjueZ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "So High (feat. Crooked Bangs)",
+      "url": "https://open.spotify.com/track/4FFXEF31Jq6VIyOZCFe6zE"
+    },
+    {
+      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
       },
@@ -4187,7 +4213,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 168281,
       "name": "The Soulcatcher",
       "url": "https://open.spotify.com/track/3Q4CHVn8Gln5uhTFiPuTnn"

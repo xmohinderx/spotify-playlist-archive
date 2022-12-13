@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Women at full volume! De highlights van vrouwen uit Nederland van dit jaar\. Cover: <a href="spotify:artist:2F3Mdh2idBVOiMTxXoxc10">MEAU</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,272 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,305 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

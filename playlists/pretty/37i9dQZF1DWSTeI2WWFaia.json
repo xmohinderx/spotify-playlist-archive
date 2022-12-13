@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 1571008,
+  "num_followers": 1586812,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1MDc5OSwwMDAwMDAwMDM0OWUxMjllYzJiZDVhYjc0MTM0MjcxMzdhYmRjNWI5",
+  "snapshot_id": "MTY3MDU1MDc5OSwwMDAwMDAwMDc5YTlhMTczYjExNTc0NDgxNjkxM2YzNzIwYTU3YWY0",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -131,18 +131,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+        "name": "10",
+        "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 156972,
-      "name": "Ghetto Reporter",
-      "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
+      "duration_ms": 209864,
+      "name": "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
+      "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -175,26 +183,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Sam Dew",
-          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 224466,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
+      "duration_ms": 156972,
+      "name": "Ghetto Reporter",
+      "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -215,26 +215,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
       "artists": [
         {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         },
         {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
         }
       ],
-      "duration_ms": 209864,
-      "name": "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
-      "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
+      "duration_ms": 224466,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -263,26 +263,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "pg baby (Remix)",
-        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "pg baby - Remix",
-      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Walkin (Key Glock remix)",
         "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 226115,
       "name": "Walkin - Key Glock remix",
       "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "pg baby (Remix)",
+        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "pg baby - Remix",
+      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -419,22 +419,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Plain Sight",
-        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
+        "name": "A Quarter Til",
+        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
       },
       "artists": [
         {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
-        },
-        {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Plain Sight",
-      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
+      "duration_ms": 92000,
+      "name": "Jus Lef Phoenix",
+      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -459,18 +455,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "A Quarter Til",
-        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
+        "name": "Wimbledon",
+        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
       },
       "artists": [
         {
-          "name": "A$AP Twelvyy",
-          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
         }
       ],
-      "duration_ms": 92000,
-      "name": "Jus Lef Phoenix",
-      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
+      "duration_ms": 142409,
+      "name": "Wimbledon",
+      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -495,6 +491,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 108387,
+      "name": "In my lifetime (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
       },
@@ -511,18 +527,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Wimbledon",
-        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
+        "name": "Plain Sight",
+        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
       },
       "artists": [
         {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
         }
       ],
-      "duration_ms": 142409,
-      "name": "Wimbledon",
-      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
+      "duration_ms": 205400,
+      "name": "Plain Sight",
+      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -547,42 +567,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+        "name": "Moonshooter",
+        "url": "https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
         }
       ],
-      "duration_ms": 108387,
-      "name": "In my lifetime (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
-        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        },
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        }
-      ],
-      "duration_ms": 177030,
-      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
-      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
+      "duration_ms": 182926,
+      "name": "Moonshooter",
+      "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -607,38 +603,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Fast Life",
-        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
+        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
       },
       "artists": [
         {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
         },
         {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
         }
       ],
-      "duration_ms": 117211,
-      "name": "Fast Life",
-      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Moonshooter",
-        "url": "https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Moonshooter",
-      "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
+      "duration_ms": 177030,
+      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -659,6 +639,42 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Fast Life",
+        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
+      },
+      "artists": [
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "duration_ms": 117211,
+      "name": "Fast Life",
+      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Spread The Opps",
         "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Monsieur Dior",
-        "url": "https://open.spotify.com/album/2NZnmicnIq9lnVtMhyc1bP"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 146031,
-      "name": "Monsieur Dior",
-      "url": "https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz"
+      "duration_ms": 255693,
+      "name": "I Love You, I Hate You",
+      "url": "https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -715,18 +731,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Dark Hearted",
-        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+        "name": "Monsieur Dior",
+        "url": "https://open.spotify.com/album/2NZnmicnIq9lnVtMhyc1bP"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         }
       ],
-      "duration_ms": 205851,
-      "name": "Dark Hearted",
-      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
+      "duration_ms": 146031,
+      "name": "Monsieur Dior",
+      "url": "https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -751,22 +767,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "I Love You, I Hate You",
-      "url": "https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "$oul $old $eparately",
         "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 194461,
       "name": "Decoded (feat. Scarface)",
       "url": "https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "29 (Freestyle)",
+        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 142282,
+      "name": "29 (Freestyle)",
+      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -815,22 +831,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "29 (Freestyle)",
-        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 142282,
-      "name": "29 (Freestyle)",
-      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Mannequin",
         "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
       },
@@ -847,30 +847,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
+        "name": "EGOT the EP",
+        "url": "https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ"
       },
       "artists": [
         {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Estee Nack",
-          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        },
-        {
-          "name": "Keisha Plum",
-          "url": "https://open.spotify.com/artist/4J55gzoHd6d6Wymxoz7qck"
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
         }
       ],
-      "duration_ms": 321214,
-      "name": "God Is Love (feat. Estee Nack, Stove God Cooks & Keisha Plum)",
-      "url": "https://open.spotify.com/track/1YB6cwZZEQzH0mpuPpPP9h"
+      "duration_ms": 312653,
+      "name": "Help Me God",
+      "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -923,22 +911,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "EGOT the EP",
-        "url": "https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ"
-      },
-      "artists": [
-        {
-          "name": "CyHi",
-          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "Help Me God",
-      "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Barely Miss",
         "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
       },
@@ -967,6 +939,34 @@
       "duration_ms": 175306,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Keisha Plum",
+          "url": "https://open.spotify.com/artist/4J55gzoHd6d6Wymxoz7qck"
+        }
+      ],
+      "duration_ms": 321214,
+      "name": "God Is Love (feat. Estee Nack, Stove God Cooks & Keisha Plum)",
+      "url": "https://open.spotify.com/track/1YB6cwZZEQzH0mpuPpPP9h"
     },
     {
       "added_at": "2022-11-25 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 94324,
+  "num_followers": 94390,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMDhhZDZjYmJiN2YzMGYzNDg1MTE4YjI4NzM1ZDkzMzgw",
+  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMDllMmI0ZWQ2MjQ3OTYwYjE3YzMxY2JjNGY4ZTNlNGQx",
   "tracks": [
     {
       "added_at": "2022-08-31 07:27:49",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
         "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
       },
@@ -175,18 +191,18 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
       "artists": [
         {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+      "duration_ms": 132853,
+      "name": "Marta tiene un marcapasos",
+      "url": "https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -200,25 +216,25 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+      "duration_ms": 235106,
+      "name": "Fr\u00eda Como El Viento",
+      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
     },
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "La Cagaste... Burt Lancaster",
-        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+        "name": "La Bamba / Charlena",
+        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
         }
       ],
-      "duration_ms": 132853,
-      "name": "Marta tiene un marcapasos",
-      "url": "https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj"
+      "duration_ms": 174186,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -303,8 +319,8 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
       "artists": [
         {
@@ -312,9 +328,25 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Fr\u00eda Como El Viento",
-      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -351,18 +383,18 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
         }
       ],
-      "duration_ms": 270680,
-      "name": "Venezia",
-      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -383,38 +415,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Mecano",
-        "url": "https://open.spotify.com/album/1OWPlRO2vf9QFXqw4uPy8D"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Maquillaje",
-      "url": "https://open.spotify.com/track/5OiU5DLjmMBF7ELAjIKxCZ"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Flans",
         "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 209573,
       "name": "Bazar",
       "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Mecano",
+        "url": "https://open.spotify.com/album/1OWPlRO2vf9QFXqw4uPy8D"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/5OiU5DLjmMBF7ELAjIKxCZ"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -463,22 +479,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
       },
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "15 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 250560,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "15 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
       },
       "artists": [
         {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 250560,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
+      "duration_ms": 290786,
+      "name": "Persiana Americana",
+      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -571,22 +587,6 @@
       "duration_ms": 208573,
       "name": "No Controles",
       "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 290786,
-      "name": "Persiana Americana",
-      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Cuando Pase el Temblor",
+      "url": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Cuando Pase el Temblor",
-      "url": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "15 A\u00f1os De Historia",
         "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 210893,
       "name": "S\u00fabete a Mi Moto",
       "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292200,
+      "name": "Nada Personal",
+      "url": "https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -799,22 +815,6 @@
       "duration_ms": 218133,
       "name": "Get on Your Feet",
       "url": "https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "Judy Torres - The Greatest Hits",
-        "url": "https://open.spotify.com/album/7aOCg1PtLFTnyPjMBRHyc4"
-      },
-      "artists": [
-        {
-          "name": "Judy Torres",
-          "url": "https://open.spotify.com/artist/4xuVMH8UgmZ557rJfWQ08n"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Come Into My Arms",
-      "url": "https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX"
     }
   ],
   "unique_name": "80s Latino",

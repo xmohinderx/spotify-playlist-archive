@@ -3259,7 +3259,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 299535,
       "name": "El Protagonista",
       "url": "https://open.spotify.com/track/7ltjh4lDUqhQozk81qVbNb"
@@ -7864,6 +7864,36 @@
     },
     {
       "album": {
+        "name": "No Es Raro (Remix)",
+        "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        },
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        },
+        {
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+        },
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315276,
+      "name": "No Es Raro - Remix",
+      "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
+    },
+    {
+      "album": {
         "name": "Tu Presencia",
         "url": "https://open.spotify.com/album/1IlxcdRCfDIacsOYixAejh"
       },
@@ -8735,7 +8765,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 184187,
       "name": "Por Siempre",
       "url": "https://open.spotify.com/track/4sFFHBhmAiWWldw7PP2rYj"
@@ -9695,6 +9725,32 @@
       "duration_ms": 409049,
       "name": "Ruge - Live",
       "url": "https://open.spotify.com/track/7E4OYesvFO3Rchbd3F3xoG"
+    },
+    {
+      "album": {
+        "name": "Sal y Vive",
+        "url": "https://open.spotify.com/album/63BZaXHHoVRVlvbBjkRPKk"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        },
+        {
+          "name": "Rubiera",
+          "url": "https://open.spotify.com/artist/5RngmQiJGRMuGiPr6H4ad3"
+        },
+        {
+          "name": "Mr. Paradise",
+          "url": "https://open.spotify.com/artist/4se6qBU0M2I86IER53xbYo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298012,
+      "name": "Sal y Vive",
+      "url": "https://open.spotify.com/track/05ROv3uLNok7qSb2xE08lB"
     },
     {
       "album": {

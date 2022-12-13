@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-238 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
+239 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 | 2022-07-26 |  |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2022-07-26 |  |
 | [Bella così \- feat\. Federica Carta](https://open.spotify.com/track/3XLyyybPY2d8kLiMb8HIyA) | [Chadia Rodriguez](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6), [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Bella così \(feat\. Federica Carta\)](https://open.spotify.com/album/6pXZahER3h3wUq0h6pWqMW) | 3:48 | 2022-05-24 | 2022-06-30 |
+| [Bellissima](https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Bellissima](https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4) | 3:21 | 2022-10-27 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-07-26 |  |
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-26 | 2022-09-30 |
 | [Boca](https://open.spotify.com/track/1k7AVxRvQVQLlnmHlLRHUg) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel) | [Boca](https://open.spotify.com/album/0PyPioFxCOLT0QdbTrFWX2) | 2:36 | 2022-04-27 | 2022-07-20 |
@@ -231,7 +232,7 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-25 | 2022-09-30 |
 | [Va tutto bene](https://open.spotify.com/track/0r1a5rNJgHNAJyyctK34gr) | [Giulia Molino](https://open.spotify.com/artist/3accYYwfm2y0Hyw0VKwI2l) | [Va tutto bene](https://open.spotify.com/album/0nl1dGVCQWUeyi7mlTFa94) | 3:26 | 2022-04-27 | 2022-05-21 |
 | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P) | 3:42 | 2022-04-27 | 2022-07-29 |
-| [Vieni nel mio cuore](https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Vieni nel mio cuore](https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV) | 2:52 | 2022-07-26 |  |
+| [Vieni nel mio cuore](https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Vieni nel mio cuore](https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV) | 2:52 | 2022-07-26 | 2022-12-13 |
 | [VIENIMI \(a ballare\)](https://open.spotify.com/track/3VZfK5GR6tN3WH3WsBNMYq) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [VIENIMI \(a ballare\)](https://open.spotify.com/album/5OBOCDuvCojJP5QPnwMxZa) | 2:52 | 2022-05-25 | 2022-07-23 |
 | [VIOLA – with Salmo](https://open.spotify.com/track/6UMOpKOam549hPEhpLtS9L) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [VIOLA – with Salmo](https://open.spotify.com/album/4QzGtuqMCLDo8dbyKfbLeC) | 3:02 | 2022-10-27 | 2022-12-03 |
 | [VOCE](https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [VOCE](https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ) | 3:31 | 2022-04-27 | 2022-07-29 |

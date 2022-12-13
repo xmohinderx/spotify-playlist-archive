@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-811 songs - 1 day 21 hr 0 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+812 songs - 1 day 21 hr 2 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [California Dreamin' \(feat\. High Jinx\) \(LP Giobbi Remix\)](https://open.spotify.com/track/2AwFU2BnJRlEpjDtu04e6S) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin'](https://open.spotify.com/album/3KtuR0XfemCzYsFgiYT7c8) | 2:24 | 2022-02-18 | 2022-07-29 |
 | [Call It House](https://open.spotify.com/track/7lZHxf5SYUVnBlNwtiCNzv) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Call It House](https://open.spotify.com/album/3oyDOIt7GscqWfYVdRnC7T) | 2:02 | 2021-12-17 | 2022-06-13 |
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-09-16 |  |
-| [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 | 2021-07-01 |  |
+| [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 | 2021-07-01 | 2022-12-13 |
 | [Came For The Low](https://open.spotify.com/track/36LQYp5FNsuT5voIO9bdfZ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Came For The Low](https://open.spotify.com/album/5MoIvYGjZVz46XIfOa9JGg) | 3:15 | 2021-04-20 | 2022-04-21 |
 | [Came to Get Funky](https://open.spotify.com/track/76dtzhJswG0IrusOuOXxw0) | [Cazztek](https://open.spotify.com/artist/3wRQD6UZWlaWEnbgpIEPPX) | [Came to Get Funky](https://open.spotify.com/album/6iUqmsQugyTEj8qK4p69lF) | 4:09 | 2020-05-25 | 2020-09-05 |
 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 | 2022-07-29 | 2022-09-19 |
@@ -224,6 +224,7 @@
 | [Easy Boy](https://open.spotify.com/track/2SPoL0khkn8lcyE4krvzPx) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Liquid Todd](https://open.spotify.com/artist/20a7iq8UVWB82arsmrJHFf) | [Easy Boy](https://open.spotify.com/album/6Jd66jEX4CHEumhVZosEBa) | 3:25 | 2020-05-22\* | 2021-12-21 |
 | [Ecstasy](https://open.spotify.com/track/17YwlhqPOupXeFhZqBDdir) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Etran](https://open.spotify.com/album/2X0qQbmpTzSmURWNSjxEUU) | 5:03 | 2020-05-22\* | 2020-07-01 |
 | [Ecstasy](https://open.spotify.com/track/7lTTElkM1yHrLk9RFOlQcp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Ecstasy](https://open.spotify.com/album/27vYENKkd2CbwnX2BCBY4q) | 5:03 | 2020-07-01 | 2021-12-21 |
+| [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-12-02 |  |
 | [El Camino](https://open.spotify.com/track/5UUqlmt2e0wNioe94eGWaF) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [El Camino](https://open.spotify.com/album/53OqcxUBn8VHpV2qT0JSne) | 3:05 | 2020-05-22\* | 2022-04-19 |
 | [El Incomprendido](https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:27 | 2021-11-20 |  |
 | [Electric Mama](https://open.spotify.com/track/4O2Cd6mRDAwXp5ggwDNYep) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Electric Mama](https://open.spotify.com/album/3O0HOJw2enbn0mcNl0Iawv) | 6:47 | 2020-12-27 | 2021-05-27 |

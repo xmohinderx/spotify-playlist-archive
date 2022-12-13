@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock with a Drop  Cover: GG Magree \\m/",
+  "description": "Rock with a Drop  Cover: Of Mice & Men \\m/",
   "name": "Rocktronic",
   "published_playlist_ids": [
     "5zoHrqDNjf3cQeuQpkDbfT"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 195428,
       "name": "Control (feat. Add1ction)",
       "url": "https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli"
@@ -1567,6 +1567,28 @@
       "duration_ms": 165771,
       "name": "Electric Eye - Single Edit",
       "url": "https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH"
+    },
+    {
+      "album": {
+        "name": "ANALOG",
+        "url": "https://open.spotify.com/album/4Z1gPMu3kxL1P8rMGHc5ZX"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186035,
+      "name": "Electric Life",
+      "url": "https://open.spotify.com/track/6a71f53jA3MQY1TomocVYD"
     },
     {
       "album": {
@@ -2347,7 +2369,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 205241,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu"
@@ -2917,7 +2939,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 158478,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5suBTMaVFuSmXUdhoXSCnL"
@@ -3470,6 +3492,28 @@
     },
     {
       "album": {
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+    },
+    {
+      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -3909,6 +3953,28 @@
       "duration_ms": 230341,
       "name": "Rebellious",
       "url": "https://open.spotify.com/track/3DdEhdVQfJKEpLQZw9p315"
+    },
+    {
+      "album": {
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
     },
     {
       "album": {

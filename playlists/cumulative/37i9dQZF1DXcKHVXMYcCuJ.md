@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all\. Cover: My Vitriol
 
-300 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+301 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Everyone Needs a Nemesis](https://open.spotify.com/track/3J8ReooQWOzrZrF2T5IqMW) | [Fighting With Wire](https://open.spotify.com/artist/7j5NOrcRzeQkX4s9RlY9VR) | [Man vs Monster](https://open.spotify.com/album/2M8OASkw9IhvEyMOeiSkNv) | 3:30 | 2021-12-15 | 2022-07-22 |
 | [Fade Out/In](https://open.spotify.com/track/2n95SHaby7YQBiPeQP7X5I) | [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A) | [Heroes And Villains](https://open.spotify.com/album/5SGWgDLfzAz9KjchKxSYPF) | 3:37 | 2022-04-15 | 2022-04-21 |
 | [Feel the Burn](https://open.spotify.com/track/3Ns3L4FiaTOvNHzj42dCiN) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [The Good Life](https://open.spotify.com/album/0H6OGmAxBhBAIMqmarWdqt) | 2:52 | 2022-02-02 | 2022-04-21 |
-| [Feel the Burn](https://open.spotify.com/track/672ya0WXJAbZvxDp4rD4h3) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [The Good Life](https://open.spotify.com/album/3x64mf0X5GYeyJeArm8S6h) | 2:52 | 2022-11-02 | 2022-12-12 |
+| [Feel the Burn](https://open.spotify.com/track/672ya0WXJAbZvxDp4rD4h3) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [The Good Life](https://open.spotify.com/album/3x64mf0X5GYeyJeArm8S6h) | 2:52 | 2022-11-02 |  |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2022-11-02 |  |
 | [Fireflies](https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:28 | 2021-12-15 | 2022-07-13 |
 | [Fix Me](https://open.spotify.com/track/420jQEuw2uFBy0k7B4nkhl) | [Gnarlah](https://open.spotify.com/artist/5PWdH4Kq3yHxP0CwaDFBB4) | [Fix Me](https://open.spotify.com/album/2Z7lZ7Al0gg5qrLrllGeFe) | 2:57 | 2021-12-15 | 2022-07-29 |
@@ -136,6 +136,7 @@
 | [Kalifornia](https://open.spotify.com/track/6MPXgYIVqYQk8dCFvkZccw) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [All or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/1Shxzz6xwTGCUH2YqPuUlR) | 2:54 | 2021-12-15 | 2022-07-25 |
 | [Kangaroo Pocket](https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas) | [Rozwell Kid](https://open.spotify.com/artist/3g43Z25cVRJHFn8ph8cdO0) | [Too Shabby](https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897) | 4:30 | 2021-12-15 |  |
 | [Keep The Lights On Me](https://open.spotify.com/track/190yVCaCcBHxXIxF00gaw5) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Keep The Lights On Me](https://open.spotify.com/album/3P3Mj0umfWfMMkwdfPVxCQ) | 3:47 | 2021-12-15 | 2022-11-09 |
+| [Keep The Lights On Me](https://open.spotify.com/track/3oYzJ9fRhVbEVUvrAPL2b6) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Keep The Lights On Me](https://open.spotify.com/album/53azBiH1hRGDukmmgYvKKM) | 3:47 | 2022-12-11 |  |
 | [Kettling](https://open.spotify.com/track/2LSE4990srPxQHyPhMOL3w) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ) | 3:41 | 2021-12-15 | 2022-09-22 |
 | [Kick](https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Brave Faces Everyone](https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv) | 4:02 | 2021-12-15 |  |
 | [Lay Low](https://open.spotify.com/track/0Kq3WNdoWezo0VBQWco23A) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Springtime and Blind](https://open.spotify.com/album/3LF5wSote7idc7eLxl8kCu) | 2:46 | 2021-12-15 | 2022-07-28 |
@@ -169,7 +170,7 @@
 | [My Heart](https://open.spotify.com/track/297ObeqSx8qhJYIytrusWm) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/4NYQn71dwwpIMO1qXqHshb) | 3:47 | 2022-10-11 | 2022-10-15 |
 | [My Heart](https://open.spotify.com/track/52Je6f392v0tFXm85fboJY) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/7xnNNcgoIX0LJu45dQJiZs) | 3:47 | 2022-04-15 | 2022-04-21 |
 | [My Heart](https://open.spotify.com/track/79P7jTFo4tvUDG8PbICO6b) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/0jd5yRLuxLK5njzgpsnzxq) | 3:47 | 2022-10-11 | 2022-11-03 |
-| [My Name Is Trouble](https://open.spotify.com/track/3YZUBdCdqP8lL9nH82pWKM) | [Nightmare Of You](https://open.spotify.com/artist/6k0ji2eoZH49ysnY3IgLWc) | [Nightmare of You](https://open.spotify.com/album/44sKToWaRjNlnYY5PggLXD) | 4:00 | 2022-01-11 |  |
+| [My Name Is Trouble](https://open.spotify.com/track/3YZUBdCdqP8lL9nH82pWKM) | [Nightmare Of You](https://open.spotify.com/artist/6k0ji2eoZH49ysnY3IgLWc) | [Nightmare of You](https://open.spotify.com/album/44sKToWaRjNlnYY5PggLXD) | 4:00 | 2022-01-11 | 2022-12-13 |
 | [Narrow](https://open.spotify.com/track/4ofBUvD4rrcEbDq7d8VTvv) | [Chokebore](https://open.spotify.com/artist/5BiMbLBGVfPD3SG12obiNj) | [A Taste For Bitters](https://open.spotify.com/album/2WJMvI72kgyx7hex8MogVQ) | 2:43 | 2022-02-02 | 2022-07-17 |
 | [Narrow Mouth](https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Imbue](https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI) | 4:30 | 2021-12-15 |  |
 | [Near](https://open.spotify.com/track/4sy4XhaARpaQ1GmHbuoKec) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Near](https://open.spotify.com/album/2iWnS0S4Yi16kehnILCcML) | 4:56 | 2021-12-15 | 2022-04-16 |
@@ -278,7 +279,7 @@
 | [Trouble Prone](https://open.spotify.com/track/5ICqGwuTjnSZjWEBQVLOo8) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Whatever Happens](https://open.spotify.com/album/0fDxt4CQ9DR4P1pKzeznOc) | 2:29 | 2021-12-15 | 2022-07-22 |
 | [Tune in, Drop Out](https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tune in, Drop Out](https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX) | 2:50 | 2021-12-15 |  |
 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 | 2022-12-11 |  |
-| [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 | 2022-06-23 |  |
+| [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 | 2022-06-23 | 2022-12-13 |
 | [Unreal Is Here](https://open.spotify.com/track/4aBXGe7ftxVf7GaArOg0nK) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/4UjIWlTVbImEfiI40fF83i) | 2:31 | 2021-12-15 | 2022-07-29 |
 | [Us Vs Them](https://open.spotify.com/track/5GGPceIwbcpa563RKaNnoc) | [Spring King](https://open.spotify.com/artist/5kkANnP50OoBkxc8JRuTsA) | [A Better Life](https://open.spotify.com/album/3WwiWPs4LPH5421J6wovcV) | 3:42 | 2021-12-15 | 2022-07-29 |
 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 | 2021-12-15 |  |

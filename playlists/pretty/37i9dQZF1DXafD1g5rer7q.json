@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 317411,
+  "num_followers": 317549,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTYwNzQwMCwwMDAwMDAwMGJmODYwZWQwNTYwNjI4ZGYyNTQ0OTRhNzA1ZjJhZDJj",
+  "snapshot_id": "MTY2OTYwNzQwMCwwMDAwMDAwMDljMDFjYjE5YTkxYzA2MDc5ZmFkMjRlYWQyOTlhYTg5",
   "tracks": [
     {
       "added_at": "2022-11-28 03:50:00",
@@ -147,6 +147,30 @@
     {
       "added_at": "2022-11-28 03:50:00",
       "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2022-11-28 03:50:00",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -179,30 +203,6 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
-    },
-    {
-      "added_at": "2022-11-28 03:50:00",
-      "album": {
-        "name": "All By Myself",
-        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 171747,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
     },
     {
       "added_at": "2022-11-28 03:50:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2022-11-28 03:50:00",
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
+    },
+    {
+      "added_at": "2022-11-28 03:50:00",
+      "album": {
         "name": "If You Really Love Me (How Will I Know)",
         "url": "https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 184390,
       "name": "If You Really Love Me (How Will I Know)",
       "url": "https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA"
-    },
-    {
-      "added_at": "2022-11-28 03:50:00",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
     },
     {
       "added_at": "2022-11-28 03:50:00",
@@ -515,6 +515,26 @@
     {
       "added_at": "2022-11-28 03:50:00",
       "album": {
+        "name": "Everybody Wants To Party",
+        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Everybody Wants To Party",
+      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+    },
+    {
+      "added_at": "2022-11-28 03:50:00",
+      "album": {
         "name": "Not So Bad (feat. Emie)",
         "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
-    },
-    {
-      "added_at": "2022-11-28 03:50:00",
-      "album": {
-        "name": "Everybody Wants To Party",
-        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 184838,
-      "name": "Everybody Wants To Party",
-      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
       "added_at": "2022-11-28 03:50:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-11-28 03:50:00",
       "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 213946,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
-    },
-    {
-      "added_at": "2022-11-28 03:50:00",
-      "album": {
         "name": "Party Shaker",
         "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 159052,
       "name": "Party Shaker",
       "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
+    },
+    {
+      "added_at": "2022-11-28 03:50:00",
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 213946,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
     },
     {
       "added_at": "2022-11-28 03:50:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-11-28 03:50:00",
       "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
+    },
+    {
+      "added_at": "2022-11-28 03:50:00",
+      "album": {
         "name": "The Mack",
         "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
       },
@@ -871,26 +891,6 @@
     {
       "added_at": "2022-11-28 03:50:00",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
-    },
-    {
-      "added_at": "2022-11-28 03:50:00",
-      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 185620,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV"
-    },
-    {
-      "added_at": "2022-11-28 03:50:00",
-      "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk"
-      },
-      "artists": [
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        },
-        {
-          "name": "Laurell",
-          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
-        }
-      ],
-      "duration_ms": 160625,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY"
     },
     {
       "added_at": "2022-11-28 03:50:00",
@@ -971,6 +951,26 @@
       "duration_ms": 162425,
       "name": "Let Me Hold You (Turn Me On)",
       "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
+    },
+    {
+      "added_at": "2022-11-28 03:50:00",
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk"
+      },
+      "artists": [
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
+        }
+      ],
+      "duration_ms": 160625,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY"
     },
     {
       "added_at": "2022-11-28 03:50:00",

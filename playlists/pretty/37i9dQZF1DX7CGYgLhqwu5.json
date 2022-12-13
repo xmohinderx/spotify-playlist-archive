@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 327173,
+  "num_followers": 327358,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDZlNTY5OTNjODRiZDU4ZDgxNWI1MDZiZmE3ZTdlYWU1",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDA2ZTBkMGM3ZTIyN2JhZmQ0NzAxYTNiNDRhNmVjMjA2",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 143693,
-      "name": "Act Naturally",
-      "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Mama Tried/ Pride In What I Am",
         "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 134453,
       "name": "Mama Tried",
       "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 143693,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -307,22 +307,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Sentimentally Yours",
-        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
+        "name": "Ode To Billie Joe",
+        "url": "https://open.spotify.com/album/05I1EsreLq47JU8pypj7TR"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+          "name": "Bobbie Gentry",
+          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
         }
       ],
-      "duration_ms": 183866,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ"
+      "duration_ms": 255001,
+      "name": "Ode To Billie Joe",
+      "url": "https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -343,18 +339,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Ode To Billie Joe",
-        "url": "https://open.spotify.com/album/05I1EsreLq47JU8pypj7TR"
+        "name": "Sentimentally Yours",
+        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
       "artists": [
         {
-          "name": "Bobbie Gentry",
-          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
         }
       ],
-      "duration_ms": 255001,
-      "name": "Ode To Billie Joe",
-      "url": "https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn"
+      "duration_ms": 183866,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Wanda Jackson",
         "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 131200,
       "name": "Let's Have A Party",
       "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
-        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
-      },
-      "artists": [
-        {
-          "name": "Jeannie C. Riley",
-          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Harper Valley P.T.A.",
-      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Townes Van Zandt",
         "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 165186,
       "name": "Waiting Around to Die",
       "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "All-American Cowboy",
-        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
-      },
-      "artists": [
-        {
-          "name": "Henson Cargill",
-          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
-        }
-      ],
-      "duration_ms": 160784,
-      "name": "Skip a Rope",
-      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Okie From Muskogee",
         "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 168821,
       "name": "Swinging Doors - Re-Recorded",
       "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "All-American Cowboy",
+        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
+      },
+      "artists": [
+        {
+          "name": "Henson Cargill",
+          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
+        }
+      ],
+      "duration_ms": 160784,
+      "name": "Skip a Rope",
+      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Down Every Road 1962-1994",
-        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Connie Smith",
         "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 140120,
       "name": "Once a Day",
       "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "A Tender Look At Love",
-        "url": "https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Little Green Apples - Single Version",
-      "url": "https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -779,38 +763,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Welcome to My World",
-      "url": "https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Blue Kentucky Girl",
-        "url": "https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "Blue Kentucky Girl",
-      "url": "https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Walk Through This World With Me",
         "url": "https://open.spotify.com/album/0fwh1xIpc0EuqWTIZGpci8"
       },
@@ -823,6 +775,38 @@
       "duration_ms": 137960,
       "name": "Walk Through This World With Me",
       "url": "https://open.spotify.com/track/5O3EyD5kv3n3lGFIWNBSWO"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "A Tender Look At Love",
+        "url": "https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Little Green Apples - Single Version",
+      "url": "https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Welcome to My World",
+      "url": "https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -843,18 +827,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+        "name": "Blue Kentucky Girl",
+        "url": "https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 147666,
-      "name": "Together Again - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/2GFRVCQn8vhDWiwST1alsH"
+      "duration_ms": 163640,
+      "name": "Blue Kentucky Girl",
+      "url": "https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -871,6 +855,22 @@
       "duration_ms": 137120,
       "name": "Does My Ring Hurt Your Finger",
       "url": "https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Together Again - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/2GFRVCQn8vhDWiwST1alsH"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
-      },
-      "artists": [
-        {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Homecoming - Single Version",
-      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
         "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Lost Country Hits of the 60s",
-        "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
       "artists": [
         {
-          "name": "Wynn Stewart",
-          "url": "https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE"
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
         }
       ],
-      "duration_ms": 150093,
-      "name": "It's Such A Pretty World Today",
-      "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+      "duration_ms": 197293,
+      "name": "Homecoming - Single Version",
+      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -975,6 +959,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Lost Country Hits of the 60s",
+        "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
+      },
+      "artists": [
+        {
+          "name": "Wynn Stewart",
+          "url": "https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "It's Such A Pretty World Today",
+      "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Abilene",
         "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
       },
@@ -987,38 +987,6 @@
       "duration_ms": 133333,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Right Or Wrong",
-        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 136293,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Folk-Country",
-        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Stop the World (And Let Me Off)",
-      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1039,6 +1007,38 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Folk-Country",
+        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 122480,
+      "name": "Stop the World (And Let Me Off)",
+      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Right Or Wrong",
+        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Glen Campbell - The Capitol Years 1965 - 1977",
         "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "RCA Country Legends",
-        "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
-      },
-      "artists": [
-        {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
-        }
-      ],
-      "duration_ms": 141466,
-      "name": "Please Help Me, I'm Falling",
-      "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 154626,
       "name": "I Don't Wanna Play House",
       "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "duration_ms": 141466,
+      "name": "Please Help Me, I'm Falling",
+      "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Prison",
-        "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "Branded Man - Remastered",
-      "url": "https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Essential George Jones",
         "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 140733,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Prison",
+        "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "Branded Man - Remastered",
+      "url": "https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "The Bottle Let Me Down",
-      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ"
       },
@@ -1283,22 +1267,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Great Picks & New Traditions",
-        "url": "https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK"
-      },
-      "artists": [
-        {
-          "name": "Roy Clark",
-          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Yesterday When I Was Young",
-      "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
       },
@@ -1311,6 +1279,22 @@
       "duration_ms": 134786,
       "name": "Just Between You and Me",
       "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Great Picks & New Traditions",
+        "url": "https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK"
+      },
+      "artists": [
+        {
+          "name": "Roy Clark",
+          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Yesterday When I Was Young",
+      "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Columbia Country Classics Volume 3: Americana",
-        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
       },
       "artists": [
         {
-          "name": "Claude King",
-          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 177573,
-      "name": "Wolverton Mountain",
-      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
+      "duration_ms": 168466,
+      "name": "The Bottle Let Me Down",
+      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1359,6 +1343,22 @@
       "duration_ms": 177333,
       "name": "The Image of Me",
       "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Columbia Country Classics Volume 3: Americana",
+        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
+      },
+      "artists": [
+        {
+          "name": "Claude King",
+          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Wolverton Mountain",
+      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Saginaw, Michigan",
-        "url": "https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX"
-      },
-      "artists": [
-        {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
-        }
-      ],
-      "duration_ms": 182573,
-      "name": "Saginaw, Michigan",
-      "url": "https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Best Of Hank Williams, Jr. 20th Century Masters The Millennium Collection",
         "url": "https://open.spotify.com/album/3UEsMApmagWq63RApvoAER"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 189573,
       "name": "Standing In The Shadows",
       "url": "https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Saginaw, Michigan",
+        "url": "https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX"
+      },
+      "artists": [
+        {
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+        }
+      ],
+      "duration_ms": 182573,
+      "name": "Saginaw, Michigan",
+      "url": "https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9"
     },
     {
       "added_at": "2022-07-29 04:02:00",

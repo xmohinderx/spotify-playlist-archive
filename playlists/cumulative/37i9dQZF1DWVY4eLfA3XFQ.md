@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Kyle Watson.
 
-726 songs - 1 day 17 hr 21 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+727 songs - 1 day 17 hr 24 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Manizer](https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM) | 4:04 | 2022-04-22 | 2022-07-23 |
 | [Maquina De Bailar](https://open.spotify.com/track/3u8MPhC5MUkd8qPzxLoHQb) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Maquina De Bailar](https://open.spotify.com/album/4BdWVV1Gr8ZDn9Y8ZtXB3S) | 3:30 | 2022-07-15 | 2022-11-12 |
 | [Marching Band](https://open.spotify.com/track/2kpOZP2szJea4TExBH2DJu) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Marching Band](https://open.spotify.com/album/0dLUc1NOmR5ka8tqnaFYJk) | 3:13 | 2022-03-25 | 2022-06-04 |
+| [Maria Maria](https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/115d9MPpcQT2sKnjpIW12G) | 2:41 | 2022-12-12 |  |
 | [MAS GASOLINA \(feat\. N.F.I\) \- Raffa FL Remix](https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd) | [MAS GASOLINA \(feat\. N.F.I\) \[Raffa FL Remix\]](https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn) | 3:15 | 2022-12-02 |  |
 | [Mellow](https://open.spotify.com/track/08nUANoS6gD0dQdJCCV3sO) | [Moreno Pezzolato](https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ) | [Mellow](https://open.spotify.com/album/6zWlmXKZdAOevmeC1tMSwq) | 2:36 | 2021-11-26 | 2022-01-06 |
 | [Mercy Me](https://open.spotify.com/track/6hVpBh8UqWxiMUl3adfwz5) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Mercy Me](https://open.spotify.com/album/74wpv2Iwfvtnf5lZtUM3PB) | 7:33 | 2022-04-15 | 2022-05-07 |

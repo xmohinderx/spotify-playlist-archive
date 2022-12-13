@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 177749,
       "name": "3ini",
       "url": "https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU"
@@ -140,6 +140,32 @@
     },
     {
       "album": {
+        "name": "The Kid You Know",
+        "url": "https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297345,
+      "name": "Amawele",
+      "url": "https://open.spotify.com/track/3QWSO7dAr4PXL8QK2vzySs"
+    },
+    {
+      "album": {
         "name": "Ameno Amapiano Remix (You Wanna Bamba)",
         "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
       },
@@ -229,7 +255,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 225425,
       "name": "BADDEST",
       "url": "https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx"
@@ -1757,7 +1783,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 331349,
       "name": "Selema (Po Po) - Remix",
       "url": "https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80"
@@ -1997,7 +2023,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 237599,
       "name": "Tell Somebody",
       "url": "https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd"
@@ -2041,7 +2067,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 330000,
       "name": "Toku",
       "url": "https://open.spotify.com/track/290Q8ZOLk1Laqt3giUGRCd"
@@ -2205,7 +2231,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 228000,
       "name": "Wena",
       "url": "https://open.spotify.com/track/6OjjYkAZfOYO77B2DBEvFV"

@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 85208,
+  "num_followers": 85331,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMGEzZDc5OTg4N2I4M2Y4YWU5NWU0Mzc3NzcxNGI0YjNm",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDE3NTdhYjdiNDc4NWYwNzVkNWU3YTJhZGQwYzYyNzJk",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Juntos Otra Vez (with Juan Gabriel)",
         "url": "https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 283760,
       "name": "El Destino (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Si Me Dejas Ahora",
-        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Si Me Dejas Ahora",
-      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 219960,
       "name": "Lo Dudo",
       "url": "https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Si Me Dejas Ahora",
+        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Si Me Dejas Ahora",
+      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Cuando Vayas Conmigo",
-      "url": "https://open.spotify.com/track/2ygSprUUsLJTu16DzspsDm"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Con el Mariachi de Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar",
         "url": "https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 245133,
       "name": "Inocente Pobre Amigo",
       "url": "https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/2ygSprUUsLJTu16DzspsDm"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -895,6 +895,38 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -915,22 +947,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 324573,
       "name": "Voy a Llenarte Toda",
       "url": "https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 104253,
-      "name": "\u00bfD\u00f3nde Andar\u00e1?",
-      "url": "https://open.spotify.com/track/1AO54sk6Y4GXGQtZqSaorl"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "El Pr\u00edncipe de la Canci\u00f3n",
         "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 233240,
       "name": "No Me Digas Que Te Vas",
       "url": "https://open.spotify.com/track/5mWkMREMASdLaUI55kLxiz"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 104253,
+      "name": "\u00bfD\u00f3nde Andar\u00e1?",
+      "url": "https://open.spotify.com/track/1AO54sk6Y4GXGQtZqSaorl"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 243093,
-      "name": "S\u00f3lo S\u00e9 Que Fue en Marzo",
-      "url": "https://open.spotify.com/track/4ZbRPcxdIfX7tBuIelyqnj"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 250813,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/7HMBDmx3tDOzBpyUuaB24v"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 243093,
+      "name": "S\u00f3lo S\u00e9 Que Fue en Marzo",
+      "url": "https://open.spotify.com/track/4ZbRPcxdIfX7tBuIelyqnj"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Debo Hacerlo",
-        "url": "https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 579826,
-      "name": "Debo Hacerlo",
-      "url": "https://open.spotify.com/track/0Vu6MvjQLu68rOkhhUqY7h"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1315,8 +1299,8 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+        "name": "Debo Hacerlo",
+        "url": "https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG"
       },
       "artists": [
         {
@@ -1324,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 207253,
-      "name": "La Muerte del Palomo",
-      "url": "https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe"
+      "duration_ms": 579826,
+      "name": "Debo Hacerlo",
+      "url": "https://open.spotify.com/track/0Vu6MvjQLu68rOkhhUqY7h"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1351,8 +1335,8 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
       "artists": [
         {
@@ -1360,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 217160,
-      "name": "Isi",
-      "url": "https://open.spotify.com/track/7lmrAz5HtInzClDe8MXWw1"
+      "duration_ms": 207253,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1379,6 +1363,22 @@
       "duration_ms": 162040,
       "name": "Buenos D\u00edas Se\u00f1or Sol",
       "url": "https://open.spotify.com/track/4AMwNq3toJIDjeCLhnK8DL"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Isi",
+      "url": "https://open.spotify.com/track/7lmrAz5HtInzClDe8MXWw1"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Jos\u00e9 por Siempre Jos\u00e9",
-        "url": "https://open.spotify.com/album/20cSzDuNZl8JfbIz6csFuh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "Almohada - Revisitado",
-      "url": "https://open.spotify.com/track/6IpLEAgmrhtbWwawz99r5u"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1703,6 +1687,42 @@
       "duration_ms": 228026,
       "name": "Contigo en la Distancia (with Carlos Cuevas)",
       "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Jos\u00e9 por Siempre Jos\u00e9",
+        "url": "https://open.spotify.com/album/20cSzDuNZl8JfbIz6csFuh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Almohada - Revisitado",
+      "url": "https://open.spotify.com/track/6IpLEAgmrhtbWwawz99r5u"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Los D\u00fao",
+        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1735,26 +1755,6 @@
       "duration_ms": 308520,
       "name": "Vienes o Voy",
       "url": "https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Los D\u00fao",
-        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1811,8 +1811,8 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Musica Original De La Pelicula Gavilan O Paloma",
-        "url": "https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy"
+        "name": "40 Y 20",
+        "url": "https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL"
       },
       "artists": [
         {
@@ -1820,9 +1820,9 @@
           "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 246893,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU"
+      "duration_ms": 242333,
+      "name": "40 y 20",
+      "url": "https://open.spotify.com/track/3jyL9XBeItyF2BfI9ILJKZ"
     },
     {
       "added_at": "2021-12-29 23:33:57",

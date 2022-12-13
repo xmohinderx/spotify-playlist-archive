@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,197 likes - 29 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,202 likes - 29 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Covered in Chrome](https://open.spotify.com/track/3aQ4lsLwgACSSp2vS5OzC9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 3:32 |
 | 2 | [Jesus Stole My Girlfriend](https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 2:57 |
-| 3 | [Like Soda](https://open.spotify.com/track/4h2Pby8QuTBUbsjzn9d81Q) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:02 |
+| 3 | [Viceroy](https://open.spotify.com/track/1GDHLUJbmUrd0Jf88q2pZP) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 3:14 |
 | 4 | [Kamikaze](https://open.spotify.com/track/4LSj32kCt3uKefJZfWiMd8) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/3ljqE5xXeHOgMHJ0ydRmBV) | 3:22 |
 | 5 | [Saramona Said](https://open.spotify.com/track/6n0UZBn3qWgsm13ihODEMS) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:00 |
 | 6 | [Lying on the Floor](https://open.spotify.com/track/4T9wBvnIkUC8bZDQVXW9BB) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT) | 3:23 |
-| 7 | [Viceroy](https://open.spotify.com/track/1GDHLUJbmUrd0Jf88q2pZP) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 3:14 |
+| 7 | [Like Soda](https://open.spotify.com/track/4h2Pby8QuTBUbsjzn9d81Q) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:02 |
 | 8 | [Neighbour Neighbour](https://open.spotify.com/track/25RDhyRdQzU2k7jsgn04h5) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Neighbour Neighbour](https://open.spotify.com/album/4skF6msX6Vw1U0BbiQYVuF) | 3:33 |
 | 9 | [Fur Eyes](https://open.spotify.com/track/7LWjyfOdMrdRWnetsxqBsu) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:33 |
 | 10 | [Muscle Junkie](https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:16 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 28 | [Love Is A Heavy Word](https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:05 |
 | 29 | [Outsider](https://open.spotify.com/track/2kwh1mJLQ2BBUEdx4NoIWb) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 |
 
-Snapshot ID: `Mjc4NDQ5MDEsMDAwMDAwMDAxNjA2YmJkNGI5YzViYjk4MDVhMjc0YzRjNTlmMmM0Yw==`
+Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDAzZjE2NTk0MzNiM2VkYWZhZjgwYjEyZDI5Y2FmZTdlZA==`

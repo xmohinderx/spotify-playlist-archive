@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: BROCKHAMPTON",
-  "num_followers": 901172,
+  "num_followers": 901355,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDQ0YmRhMjBmZjg1OWM4ODE3YzdiMGQ4MWFkNTNjYjRi",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGQwNGE4NzE0ZmJhZDdmZmQyM2Q3Nzc4YzA1N2U4ZTQz",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -63,18 +63,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "SIMPLE",
-        "url": "https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF"
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
       "artists": [
         {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
         }
       ],
-      "duration_ms": 154800,
-      "name": "SIMPLE",
-      "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -95,26 +99,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Melodic Blue (Deluxe)",
-        "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
+        "name": "SIMPLE",
+        "url": "https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 215679,
-      "name": "killstreaks (with Don Toliver & PinkPantheress)",
-      "url": "https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX"
+      "duration_ms": 154800,
+      "name": "SIMPLE",
+      "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -155,22 +151,26 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+        "name": "The Melodic Blue (Deluxe)",
+        "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         },
         {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 227555,
-      "name": "Dance Now (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+      "duration_ms": 215679,
+      "name": "killstreaks (with Don Toliver & PinkPantheress)",
+      "url": "https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -251,26 +251,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Highs & The Lows",
-        "url": "https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 255609,
-      "name": "The Highs & The Lows",
-      "url": "https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "SHOTS! (WITH DENZEL CURRY)",
         "url": "https://open.spotify.com/album/6MjsNxUERlhYyccLTaMtfS"
       },
@@ -291,38 +271,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "pg baby (Remix)",
-        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
+        "name": "The Highs & The Lows",
+        "url": "https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a"
       },
       "artists": [
         {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 249675,
-      "name": "pg baby - Remix",
-      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Love Dangerous",
-        "url": "https://open.spotify.com/album/1xk59XxM4AQCcSJxwIK7S9"
-      },
-      "artists": [
-        {
-          "name": "Kembe X",
-          "url": "https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD"
-        }
-      ],
-      "duration_ms": 164725,
-      "name": "Love Dangerous",
-      "url": "https://open.spotify.com/track/0au2kiNmJzy0DvmYQFmBgV"
+      "duration_ms": 255609,
+      "name": "The Highs & The Lows",
+      "url": "https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -347,18 +311,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+        "name": "Love Dangerous",
+        "url": "https://open.spotify.com/album/1xk59XxM4AQCcSJxwIK7S9"
       },
       "artists": [
         {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+          "name": "Kembe X",
+          "url": "https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD"
         }
       ],
-      "duration_ms": 132746,
-      "name": "RZA",
-      "url": "https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE"
+      "duration_ms": 164725,
+      "name": "Love Dangerous",
+      "url": "https://open.spotify.com/track/0au2kiNmJzy0DvmYQFmBgV"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -379,6 +343,50 @@
       "duration_ms": 135774,
       "name": "Pudgy (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4oebzB09U8UoYtNnS6vTjt"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "pg baby (Remix)",
+        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "pg baby - Remix",
+      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Smoko Ono",
+          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -419,6 +427,42 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 132746,
+      "name": "RZA",
+      "url": "https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 235423,
+      "name": "Bruddanem (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/3n31mf1JGlRxAGwHwx3pDd"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
         "url": "https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae"
       },
@@ -443,30 +487,6 @@
       "duration_ms": 185454,
       "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
       "url": "https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Wraith",
-        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Smoko Ono",
-          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Wraith",
-      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -503,6 +523,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "For The Squadron",
+        "url": "https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 188854,
+      "name": "For The Squadron",
+      "url": "https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "The Family",
         "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
       },
@@ -515,6 +551,22 @@
       "duration_ms": 73320,
       "name": "Basement",
       "url": "https://open.spotify.com/track/6UECeLTI315ypdwrOMdu0N"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -539,58 +591,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "For The Squadron",
-        "url": "https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        }
-      ],
-      "duration_ms": 188854,
-      "name": "For The Squadron",
-      "url": "https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 235423,
-      "name": "Bruddanem (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/3n31mf1JGlRxAGwHwx3pDd"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Red Lights (feat. Hello O'shay)",
         "url": "https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda"
       },
@@ -611,22 +611,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+        "name": "Wimbledon",
+        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
         }
       ],
-      "duration_ms": 180076,
-      "name": "Swamp Bitches (with Rico Nasty)",
-      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
+      "duration_ms": 142409,
+      "name": "Wimbledon",
+      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -647,18 +643,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Wimbledon",
-        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
       "artists": [
         {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 142409,
-      "name": "Wimbledon",
-      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
+      "duration_ms": 180076,
+      "name": "Swamp Bitches (with Rico Nasty)",
+      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 102397,
-      "name": "ROUND HERE (PART ONE)",
-      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Dear Life",
         "url": "https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "MORE BLACK SUPERHEROES",
-        "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
       "artists": [
         {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         }
       ],
-      "duration_ms": 144147,
-      "name": "LOLSMH II",
-      "url": "https://open.spotify.com/track/4yg2dkVMQX7HIqiM7c0iEZ"
+      "duration_ms": 102397,
+      "name": "ROUND HERE (PART ONE)",
+      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -815,6 +799,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "MORE BLACK SUPERHEROES",
+        "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 144147,
+      "name": "LOLSMH II",
+      "url": "https://open.spotify.com/track/4yg2dkVMQX7HIqiM7c0iEZ"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Slide Den",
         "url": "https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT"
       },
@@ -827,26 +827,6 @@
       "duration_ms": 175774,
       "name": "Slide Den",
       "url": "https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Dog Food (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 184123,
-      "name": "Dog Food (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -887,6 +867,42 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Y?",
+        "url": "https://open.spotify.com/album/0Fj5OIXKBxaf86Epw3SKUo"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "duration_ms": 143880,
+      "name": "Y?",
+      "url": "https://open.spotify.com/track/2Mytg2OcqnK15ZfmGx9PqB"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Dog Food (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 184123,
+      "name": "Dog Food (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "A Bar About a Bar",
         "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
       },
@@ -899,26 +915,6 @@
       "duration_ms": 65480,
       "name": "A Bar About a Bar",
       "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "MEMO",
-        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        }
-      ],
-      "duration_ms": 268151,
-      "name": "SOHO HOUSE (feat. Hello O'shay)",
-      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
     }
   ],
   "unique_name": "Alternative Hip-Hop",

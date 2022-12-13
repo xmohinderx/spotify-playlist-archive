@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ"
@@ -1581,6 +1581,24 @@
     {
       "album": {
         "name": "Dough",
+        "url": "https://open.spotify.com/album/66x9bHZiWLtKOjSHy1vltw"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151602,
+      "name": "Dough",
+      "url": "https://open.spotify.com/track/0jODRjsDMDrnRVwRpMS4SI"
+    },
+    {
+      "album": {
+        "name": "Dough",
         "url": "https://open.spotify.com/album/0K2okf5wV6GjXumiMG6yQw"
       },
       "artists": [
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 372548,
       "name": "First Light",
       "url": "https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ"
@@ -2939,7 +2957,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 204120,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
@@ -4979,7 +4997,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
@@ -5871,7 +5889,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 185646,
       "name": "Take Flight",
       "url": "https://open.spotify.com/track/6G0N1IkBWHsO8WQHxqpz44"

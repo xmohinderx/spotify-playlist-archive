@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "3 y Pico",
+        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190068,
+      "name": "3 y Pico",
+      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
+    },
+    {
+      "album": {
         "name": "828",
         "url": "https://open.spotify.com/album/6aBXXL93A2l6PEsXHfGomS"
       },
@@ -171,6 +189,28 @@
       "duration_ms": 213920,
       "name": "algo as\u00ed",
       "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+    },
+    {
+      "album": {
+        "name": "Amandita",
+        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223469,
+      "name": "Amandita",
+      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
     },
     {
       "album": {
@@ -417,7 +457,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 169811,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M"
@@ -555,7 +595,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 209821,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/54szHYyqK2XSdfsefoiGjj"
@@ -1017,7 +1057,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 225454,
       "name": "Direction",
       "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
@@ -1311,7 +1351,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 171477,
       "name": "esc\u00e1pate",
       "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
@@ -1964,6 +2004,24 @@
     },
     {
       "album": {
+        "name": "Just One Time",
+        "url": "https://open.spotify.com/album/20aZbKgEMFaHrLgCdASJNd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Wrist",
+          "url": "https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Just One Time",
+      "url": "https://open.spotify.com/track/34fROePGME5r33uRy1m8Dr"
+    },
+    {
+      "album": {
         "name": "Kelede",
         "url": "https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb"
       },
@@ -2452,6 +2510,24 @@
     },
     {
       "album": {
+        "name": "mE RecHaZasTe :(",
+        "url": "https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176590,
+      "name": "mE RecHaZasTe :(",
+      "url": "https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa"
+    },
+    {
+      "album": {
         "name": "Me Recuerda a Ti",
         "url": "https://open.spotify.com/album/0CEnEIiJKwelKhAJK8Md20"
       },
@@ -2521,7 +2597,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 244285,
       "name": "Mi Fanatica",
       "url": "https://open.spotify.com/track/0WrRjLCLiX3ZaTZjyT3KbA"
@@ -2539,7 +2615,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 211688,
       "name": "MIA",
       "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
@@ -2841,6 +2917,28 @@
       "duration_ms": 153269,
       "name": "Nena",
       "url": "https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l"
+    },
+    {
+      "album": {
+        "name": "Serendipia",
+        "url": "https://open.spotify.com/album/0MXa4IrTzK02RQxLj5VtWJ"
+      },
+      "artists": [
+        {
+          "name": "El Larra",
+          "url": "https://open.spotify.com/artist/7aLAtWfohbbcHoShGOc5zx"
+        },
+        {
+          "name": "icekream",
+          "url": "https://open.spotify.com/artist/2gaIPiqlafTVwapOByHeVQ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "New Name (Mamacita!)",
+      "url": "https://open.spotify.com/track/5uogBxa27boBVk8Q9bySzR"
     },
     {
       "album": {
@@ -3592,6 +3690,24 @@
     },
     {
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169526,
+      "name": "P\u00cdDELO",
+      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
+    },
+    {
+      "album": {
         "name": "SAFEPLACE (Safer Edition)",
         "url": "https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK"
       },
@@ -3621,7 +3737,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 150000,
       "name": "QUIEN ES ESA",
       "url": "https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn"
@@ -3978,6 +4094,32 @@
     },
     {
       "album": {
+        "name": "S\u00edntomas de Soltera",
+        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241908,
+      "name": "S\u00edntomas de Soltera",
+      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
+    },
+    {
+      "album": {
         "name": "TE EXCITO",
         "url": "https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ"
       },
@@ -3989,7 +4131,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 180423,
       "name": "TE EXCITO",
       "url": "https://open.spotify.com/track/5mckOgQpLWXGKDL7JkhinL"
@@ -4175,6 +4317,28 @@
       "duration_ms": 214535,
       "name": "Tu Fan\u00e1tico - Remix",
       "url": "https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "album": {

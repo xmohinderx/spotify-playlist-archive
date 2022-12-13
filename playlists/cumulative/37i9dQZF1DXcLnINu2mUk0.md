@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-163 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+164 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2022-07-07 |  |
 | [469](https://open.spotify.com/track/5izsIQaHmew3R2dzySz0EG) | [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [469](https://open.spotify.com/album/0688sP9kWJoNixqn9h0IN3) | 2:55 | 2022-08-04 | 2022-09-02 |
 | [5MINUTES](https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [5MINUTES](https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz) | 3:08 | 2022-07-07 | 2022-08-19 |
-| [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 | 2022-12-02 |  |
+| [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 | 2022-12-02 | 2022-12-13 |
 | [Aguardent](https://open.spotify.com/track/4B0JlP1HWrPFcmidHLVEB9) | [Jay Yo](https://open.spotify.com/artist/1wH7vQKdmZtKSI4r1YF33A), [Pucci Jr](https://open.spotify.com/artist/5frmw57upraPDcl8cEtISs) | [Aguardent](https://open.spotify.com/album/1bnfGUqWM2rUSUMnxCDBY1) | 3:28 | 2022-09-01 | 2022-09-23 |
 | [Alaska \(feat\. Lil Noon\)](https://open.spotify.com/track/1ipbuOPR6zoE5KS4r7OI1B) | [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [Alaska \(feat\. Lil Noon\)](https://open.spotify.com/album/5yFe19c0ujPY5LbRS86qEW) | 2:16 | 2022-11-18 |  |
 | [Ananás](https://open.spotify.com/track/1iTdMDcECY3gL6SuHyrBGD) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Ananás](https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj) | 3:27 | 2022-07-07 | 2022-07-21 |
@@ -41,6 +41,7 @@
 | [Colina](https://open.spotify.com/track/6A3miATI6lLCFORxUDTRJp) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Colina](https://open.spotify.com/album/4ivAzZJlYOkXaARdzi3bdx) | 3:45 | 2022-08-18 | 2022-09-02 |
 | [Como Tu](https://open.spotify.com/track/2gqAMjrQUZxdYzCBhp9X86) | [Deli KC](https://open.spotify.com/artist/4KXgWpeZGnRJJD8yoRQYFz), [BND AJ](https://open.spotify.com/artist/5Ddq6MWmIENLxdwu5v4cvy) | [Como Tu](https://open.spotify.com/album/03Lr0zZfF1ZtWjdgRykjbl) | 3:42 | 2022-07-07 | 2022-07-28 |
 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 | 2022-09-08 |  |
+| [Compatíveis](https://open.spotify.com/track/1aU7gyz1DIjJVYpib4YB0K) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [Tee Ace](https://open.spotify.com/artist/7lzzQfG4iVb0d42Iggw1cV) | [Compatíveis](https://open.spotify.com/album/2ZJqFPzJCEEF4TCRSzOwuG) | 2:34 | 2022-12-02 |  |
 | [Conquista Mundo](https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT) | [Mulatoh Prod](https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR), [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Akapta G](https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY) | [Conquista Mundo](https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M) | 2:32 | 2022-10-13 | 2022-11-11 |
 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 | 2022-07-07 |  |
 | [Curvas](https://open.spotify.com/track/6qyEXFoHVLdKmM2gNLGfnW) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Jotta R](https://open.spotify.com/artist/0u2OA1XApgS4rozZ1iWTRZ) | [Curvas](https://open.spotify.com/album/2dZGlThlyesP83r0z5bVXu) | 4:20 | 2022-07-07 | 2022-08-19 |

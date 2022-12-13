@@ -1,12 +1,12 @@
 {
   "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=D6t3mgaNRoG34W61XJd0Qw\">Lojay</a>, <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=KWN2MSIkRP2HPgX2t9QTMg\">DJ Maphorisa</a> and <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=g31cPvUxRSGeNeezoaaKYg\">Kabza De Small</a>",
-  "num_followers": 3638,
+  "num_followers": 3655,
   "original_name": "Piano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDRlNmFhMDQyMTRlNDI1ZWI5NDVmYjkyMmUxNDA0MjEy",
+  "snapshot_id": "MTY3MDg0NzM4NiwwMDAwMDAwMGZmYTg1MDU5OGEwMzEzYTY5ZmViMTYzZjhhMThmZTgy",
   "tracks": [
     {
       "added_at": "2022-11-17 21:59:00",
@@ -167,6 +167,30 @@
       "duration_ms": 193274,
       "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
+    },
+    {
+      "added_at": "2022-12-12 12:16:26",
+      "album": {
+        "name": "The Kid You Know",
+        "url": "https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        }
+      ],
+      "duration_ms": 297345,
+      "name": "Amawele",
+      "url": "https://open.spotify.com/track/3QWSO7dAr4PXL8QK2vzySs"
     },
     {
       "added_at": "2022-09-09 02:44:44",
@@ -521,30 +545,6 @@
       "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
     },
     {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Selema (Po Po) [Remix]",
-        "url": "https://open.spotify.com/album/4Inwvvp1zEZrhIriqbZK5f"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 331349,
-      "name": "Selema (Po Po) - Remix",
-      "url": "https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80"
-    },
-    {
       "added_at": "2022-10-31 12:51:59",
       "album": {
         "name": "Stop Nonsense",
@@ -619,30 +619,6 @@
       "duration_ms": 344419,
       "name": "Ziya Khala",
       "url": "https://open.spotify.com/track/2rmAdvW1snyycYiCgSKsrp"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Wena",
-        "url": "https://open.spotify.com/album/7nSoq7EvSWqK3ckNvLd7x6"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        },
-        {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
-        },
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/6OjjYkAZfOYO77B2DBEvFV"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -1125,50 +1101,6 @@
       "url": "https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Tell Somebody",
-        "url": "https://open.spotify.com/album/5PqqFK9QKjPlh4oeRRSqx8"
-      },
-      "artists": [
-        {
-          "name": "Effyzzie Music",
-          "url": "https://open.spotify.com/artist/6t4HMpwMpyeEmGv1QvEVPS"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        }
-      ],
-      "duration_ms": 237599,
-      "name": "Tell Somebody",
-      "url": "https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Toku",
-        "url": "https://open.spotify.com/album/3DOxTWi2PFLXCwXBC6F9LY"
-      },
-      "artists": [
-        {
-          "name": "K\u03a3ITO",
-          "url": "https://open.spotify.com/artist/5kgyjglDiOtJ4CI6vtBYhO"
-        },
-        {
-          "name": "XXX//PEKE//XXX",
-          "url": "https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Toku",
-      "url": "https://open.spotify.com/track/290Q8ZOLk1Laqt3giUGRCd"
-    },
-    {
       "added_at": "2022-11-17 21:59:00",
       "album": {
         "name": "Cross My Lane",
@@ -1187,46 +1119,6 @@
       "duration_ms": 217604,
       "name": "Cross My Lane",
       "url": "https://open.spotify.com/track/5u3DBDAtwldSB0vq2wRKPG"
-    },
-    {
-      "added_at": "2022-08-11 21:59:00",
-      "album": {
-        "name": "BADDEST",
-        "url": "https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL"
-      },
-      "artists": [
-        {
-          "name": "DJ Shawn",
-          "url": "https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 225425,
-      "name": "BADDEST",
-      "url": "https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "3ini",
-        "url": "https://open.spotify.com/album/7swsJlf5q3FSqn3MIQjQBa"
-      },
-      "artists": [
-        {
-          "name": "Leil",
-          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
-        }
-      ],
-      "duration_ms": 177749,
-      "name": "3ini",
-      "url": "https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU"
     },
     {
       "added_at": "2022-08-11 21:59:00",

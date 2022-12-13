@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 739,
+  "num_followers": 744,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NjA2NCwwMDAwMDAwMGY5YzFlOTJlNWUzMmQ5OGI1ZGMyYzgxZDQ2NzU2ZGVm",
+  "snapshot_id": "MTY3MDU2NjA2NCwwMDAwMDAwMDA3ZTkxMDczYWY3NGIzOWQyNjAxZmZlODgzNjY5ZWMy",
   "tracks": [
     {
       "added_at": "2022-11-24 20:59:00",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj"
     },
     {
-      "added_at": "2022-12-12 01:02:25",
+      "added_at": "2022-12-13 00:08:00",
       "album": {
         "name": "Singeli Poli",
         "url": "https://open.spotify.com/album/2mjjwhLh4ttpZRz2yKntwW"
@@ -241,6 +241,26 @@
       "url": "https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi"
     },
     {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/79dZuymOBdhdcLjwkiHa18"
+      },
+      "artists": [
+        {
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 297853,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/18BfciF0Zk46ZDuCVGj5gv"
+    },
+    {
       "added_at": "2022-09-01 20:59:00",
       "album": {
         "name": "Shemeji",
@@ -263,26 +283,6 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Sina",
-        "url": "https://open.spotify.com/album/79dZuymOBdhdcLjwkiHa18"
-      },
-      "artists": [
-        {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 297853,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/18BfciF0Zk46ZDuCVGj5gv"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
         "name": "Sweet Pain",
         "url": "https://open.spotify.com/album/7reN9E16zjBQdFnsUJnpbj"
       },
@@ -295,26 +295,6 @@
       "duration_ms": 222119,
       "name": "Nimegonga",
       "url": "https://open.spotify.com/track/4SeJF14PnQOeCr5OM4Yqwj"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Cheusi Cheupe (feat. Meja Kunta)",
-        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
-      },
-      "artists": [
-        {
-          "name": "Ommy Dimpoz",
-          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Cheusi Cheupe (feat. Meja Kunta)",
-      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -359,6 +339,26 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
+        "name": "Cheusi Cheupe (feat. Meja Kunta)",
+        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
+      },
+      "artists": [
+        {
+          "name": "Ommy Dimpoz",
+          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Cheusi Cheupe (feat. Meja Kunta)",
+      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
         "name": "Nikizipata",
         "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 254908,
       "name": "Chawa",
       "url": "https://open.spotify.com/track/5pLhsPqqPdySGA0nOxkHmO"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Boss Kalewa",
-        "url": "https://open.spotify.com/album/3hObipsh4XFmmdFvFKO52w"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 323972,
-      "name": "Boss Kalewa",
-      "url": "https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -459,6 +443,22 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
+        "name": "Boss Kalewa",
+        "url": "https://open.spotify.com/album/3hObipsh4XFmmdFvFKO52w"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 323972,
+      "name": "Boss Kalewa",
+      "url": "https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
         "name": "Sanamu La Michelini",
         "url": "https://open.spotify.com/album/5cKSAOEgMgvIdOmNfOqFWG"
       },
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
         "name": "Umekopwa",
         "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
       },
@@ -515,42 +531,6 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Wanga",
-        "url": "https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
-        }
-      ],
-      "duration_ms": 244767,
-      "name": "Wanga",
-      "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
         "name": "High School",
         "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 308654,
       "name": "Kamaliza (feat. Sholo Mwamba)",
       "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Nalimwaga",
+        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Nalimwaga",
+      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -601,46 +601,6 @@
       "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
     },
     {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Nalimwaga",
-        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
-      },
-      "artists": [
-        {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Nalimwaga",
-      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Naijua Iyo",
-        "url": "https://open.spotify.com/album/5hFZHndJ4KsuuO8I3BWiuj"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Naijua Iyo",
-      "url": "https://open.spotify.com/track/4pQMjjsGtqvLzayIyhValX"
-    },
-    {
       "added_at": "2022-11-07 14:48:19",
       "album": {
         "name": "Pamoja V Sisso (Singeli Sound)",
@@ -667,6 +627,26 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
+        "name": "Wanga",
+        "url": "https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "duration_ms": 244767,
+      "name": "Wanga",
+      "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
         "name": "Kupendwa Raha",
         "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
       },
@@ -683,26 +663,6 @@
       "duration_ms": 304986,
       "name": "Kupendwa Raha",
       "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
-    },
-    {
-      "added_at": "2022-09-22 20:59:00",
-      "album": {
-        "name": "Kwanini",
-        "url": "https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        },
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 275680,
-      "name": "Kwanini",
-      "url": "https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -745,10 +705,30 @@
       "url": "https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM"
     },
     {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Kwanini",
+        "url": "https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        },
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 275680,
+      "name": "Kwanini",
+      "url": "https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc"
+    },
+    {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
+        "name": "Chura Wangu",
+        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
       },
       "artists": [
         {
@@ -756,9 +736,29 @@
           "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
+      "duration_ms": 187895,
+      "name": "Chura Wangu",
+      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
+        "name": "Naijua Iyo",
+        "url": "https://open.spotify.com/album/5hFZHndJ4KsuuO8I3BWiuj"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Naijua Iyo",
+      "url": "https://open.spotify.com/track/4pQMjjsGtqvLzayIyhValX"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -779,26 +779,6 @@
       "duration_ms": 219506,
       "name": "Kwampalange",
       "url": "https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Siyo Shida Zangu",
-        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 239612,
-      "name": "Siyo Shida Zangu",
-      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
     },
     {
       "added_at": "2022-09-08 20:59:00",
@@ -839,8 +819,8 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
-        "name": "Chura Wangu",
-        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
       },
       "artists": [
         {
@@ -848,9 +828,9 @@
           "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 187895,
-      "name": "Chura Wangu",
-      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2022-08-05 09:59:04",
@@ -875,6 +855,26 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
+        "name": "Siyo Shida Zangu",
+        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 239612,
+      "name": "Siyo Shida Zangu",
+      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
         "name": "Natamani",
         "url": "https://open.spotify.com/album/6A8pezWuBNYujOhZhffVmE"
       },
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-08-05 09:59:04",
       "album": {
+        "name": "Honey Wangu",
+        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Honey Wangu",
+      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
+    },
+    {
+      "added_at": "2022-08-05 09:59:04",
+      "album": {
         "name": "Viburi",
         "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 201967,
       "name": "Viburi",
       "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
-    },
-    {
-      "added_at": "2022-08-05 09:59:04",
-      "album": {
-        "name": "Honey Wangu",
-        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 239972,
-      "name": "Honey Wangu",
-      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
     },
     {
       "added_at": "2022-08-05 09:59:04",

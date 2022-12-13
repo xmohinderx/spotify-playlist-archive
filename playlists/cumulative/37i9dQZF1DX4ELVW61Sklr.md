@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-126 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
+127 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Let It Snow](https://open.spotify.com/track/2arXiVS8rf3XCTDgajE0pf) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Christmas Interpretations](https://open.spotify.com/album/1eP4hMiv4j13z3FYdhpVRI) | 4:11 | 2021-12-15 | 2022-07-29 |
 | [Let It Snow](https://open.spotify.com/track/0FrDmnNXlOjRyTb0HtK75Q) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Christmas With Friends](https://open.spotify.com/album/2pT4LSGQc8EAcD7WE4lydS) | 2:34 | 2021-12-15 | 2022-07-29 |
 | [Let It Snow](https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Christmas Soul 2020](https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd) | 2:34 | 2021-12-15 |  |
-| [Let It Snow](https://open.spotify.com/track/37huXuTs0ENtyP3yAbsMYq) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Let It Snow](https://open.spotify.com/album/7FAfYMyJS9X1wyDYf9UMDJ) | 4:22 | 2022-12-02 |  |
+| [Let It Snow](https://open.spotify.com/track/37huXuTs0ENtyP3yAbsMYq) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Let It Snow](https://open.spotify.com/album/7FAfYMyJS9X1wyDYf9UMDJ) | 4:22 | 2022-12-02 | 2022-12-13 |
 | [Litmas](https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Litmas](https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR) | 3:08 | 2021-12-15 |  |
 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/2TB7t45lVP3l5DyVVX0goz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/album/5a7wDuklvlrH9LOZmt8zpy) | 3:50 | 2021-12-15 | 2022-11-26 |
 | [Love on Christmas](https://open.spotify.com/track/2EsWf3JeCzZoKuuXIQyU46) | [LeToya Luckett](https://open.spotify.com/artist/1EyK0glCKdNVaKjVxFOHCD) | [Love on Christmas](https://open.spotify.com/album/3yrBD8ZPMets2SbirqsV30) | 3:14 | 2021-12-15 | 2022-07-28 |
@@ -77,6 +77,7 @@
 | [Mary, Did You Know?](https://open.spotify.com/track/47Jx4hb4cvCmJvJupInNyJ) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [CeeLo's Magic Moment](https://open.spotify.com/album/3ssspRe42CXkhPxdc12xcp) | 3:54 | 2021-12-15 | 2022-11-26 |
 | [Merry Like This](https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Merry Like This](https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c) | 3:00 | 2022-11-25 | 2022-12-06 |
 | [Messiah Has Come](https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [One Family](https://open.spotify.com/album/5Vt6f0rFqEPxym3Y06hGTd) | 4:33 | 2021-12-15 | 2022-07-28 |
+| [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev) | 3:57 | 2022-12-13 |  |
 | [Never Knew Christmas](https://open.spotify.com/track/1hLjtQAN3z46sAlihVXemn) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Never Knew Christmas](https://open.spotify.com/album/7fHXKZOrH1InFpQIfMl9x6) | 5:34 | 2021-12-15 |  |
 | [Never Knew Christmas](https://open.spotify.com/track/4bEkJ9SO6WwPP42ac3mdD6) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Never Knew Christmas](https://open.spotify.com/album/4AL9Uq8VSBMtwopFHg8CDY) | 5:34 | 2021-12-15 | 2022-07-29 |
 | [No Time Like Christmas](https://open.spotify.com/track/60bzyZm5MqPoHkktzXkCSn) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [It's Giving Christmas](https://open.spotify.com/album/6y796J8jF0OpHqSyj60o4I) | 3:16 | 2022-11-25 |  |

@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: brakence
 
-1,350 songs - 3 day 8 hr 51 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,351 songs - 3 day 8 hr 54 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,7 +650,7 @@
 | [Keep It Up](https://open.spotify.com/track/2PLcrkHLyPmGCbkGRf3mG6) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Heavy Lifter](https://open.spotify.com/album/1ZHsI81QFgePKpbaiW8n6w) | 3:26 | 2019-11-01 | 2020-05-01 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-02-04 | 2022-07-16 |
 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 | 2021-04-20 | 2021-10-13 |
-| [Keep On Dreamin'](https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Keep On Dreamin'](https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5) | 4:26 | 2022-11-11 |  |
+| [Keep On Dreamin'](https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Keep On Dreamin'](https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5) | 4:26 | 2022-11-11 | 2022-12-13 |
 | [Keeper](https://open.spotify.com/track/5IGU1JWZSHU6ivB7pYxONX) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Keeper](https://open.spotify.com/album/1tMQnzjk1JiFwN9BKg7ZRX) | 3:08 | 2021-10-04 | 2022-01-07 |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-05-08 | 2022-04-30 |
 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-23 |  |
@@ -719,7 +719,7 @@
 | [Love Me Like You Used To](https://open.spotify.com/track/6V5eKHRdQLaYLH7XPbtbOo) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:40 | 2021-05-28 | 2022-04-30 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-21 | 2022-07-13 |
 | [Love On The Run](https://open.spotify.com/track/4VXabjbReCUzFHbrzLaTzf) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Love On The Run](https://open.spotify.com/album/6aVblMt9BkzGxjEhx3Ul8g) | 7:03 | 2022-10-11 | 2022-10-14 |
-| [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-11-04 |  |
+| [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-11-04 | 2022-12-13 |
 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2019-12-13 | 2020-05-15 |
 | [Love Yourself](https://open.spotify.com/track/1Gna86CVYMyQxLNHqqp8fK) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/1sIogRBpTHg0jkbrgIJWR0) | 3:48 | 2019-06-07 | 2019-08-13 |
 | [Love/Hate Letter To Alcohol \(with Fleet Foxes\)](https://open.spotify.com/track/6R9c642Hs3tOdLowjYaWt2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:03 | 2022-08-15 | 2022-08-26 |
@@ -817,6 +817,7 @@
 | [No Good at Lying](https://open.spotify.com/track/7IaGqcRGC0HmueIyyW40Hm) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [No Good at Lying](https://open.spotify.com/album/4J9gqXffYdglSSosYg6KlS) | 2:59 | 2020-12-04 | 2021-03-10 |
 | [No Halo](https://open.spotify.com/track/1dkjhxfTkIag3Kv7hV0bB3) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Oh My God](https://open.spotify.com/album/3Xugyt3sTfDgvALU1St1QA) | 3:06 | 2019-05-26\* | 2019-08-13 |
 | [No Nightmares](https://open.spotify.com/track/0JlwmGK34Lbe62xPbpsmSb) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 4:06 | 2020-12-04 | 2021-05-19 |
+| [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2022-12-09 |  |
 | [No Reason](https://open.spotify.com/track/0V6whmxgRbeeJpijQXUbDN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [No Reason / Spud Infinity](https://open.spotify.com/album/13lNwYutq39VEtYK5nJ617) | 3:47 | 2022-01-07 | 2022-03-07 |
 | [Nobody](https://open.spotify.com/track/3LMbVR5cYVK5ovMCR3tyDO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:26 | 2022-12-09 |  |
 | [Nobody](https://open.spotify.com/track/42EMSKPgulAzr4RLY65Eut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:32 | 2019-05-26\* | 2019-08-13 |
@@ -890,7 +891,7 @@
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-05-15 | 2021-04-15 |
 | [Paper Vows](https://open.spotify.com/track/7204dHwAw9v32ys7VCyWP5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Paper Vows](https://open.spotify.com/album/1ZcOfxocy488paPa5HcE7h) | 3:42 | 2022-01-07 | 2022-04-09 |
 | [Paperbacks](https://open.spotify.com/track/5wagMdtXxmWEiKXWqriCf9) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Sophie](https://open.spotify.com/album/3XKYPIKMJfJLVUz68XIwSF) | 3:00 | 2019-12-07 | 2020-05-15 |
-| [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 | 2022-07-20 | 2022-11-26 |
+| [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 | 2022-07-20 |  |
 | [Parallel 4](https://open.spotify.com/track/1ZeDNZoKgEOTRmTTg1zQd4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 4:47 | 2021-01-13 | 2021-05-19 |
 | [paranoia party](https://open.spotify.com/track/29ptwsAFxPgzqMqyAu1OuK) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/5kmn5lkE9iXZTcObGqtWam) | 3:05 | 2021-06-24 | 2022-04-21 |
 | [Parliaments](https://open.spotify.com/track/5tpDX58ps1R79zczsYiz8n) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [Parliaments](https://open.spotify.com/album/5YtmYNbbPLO8HSCX5B6Mdl) | 2:52 | 2022-06-23 | 2022-07-03 |

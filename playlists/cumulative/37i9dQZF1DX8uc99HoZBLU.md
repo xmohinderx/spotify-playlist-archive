@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-286 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+288 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Greensmoke](https://open.spotify.com/track/58IXEuRhPjZAJLNfztJhkL) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Greensmoke](https://open.spotify.com/album/3iGtTAayqc4rnlF8uit8iA) | 3:50 | 2021-06-08 | 2022-04-08 |
 | [Habit](https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/0gZEC6z4RSUiLOK9nHhGwG) | 2:33 | 2021-06-08 | 2022-04-29 |
 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 | 2022-07-08 | 2022-11-14 |
+| [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2022-12-10 |  |
 | [Hello?](https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:15 | 2021-06-08 | 2022-07-29 |
 | [Her](https://open.spotify.com/track/4kVmLlBnLcfXIZIIhq3VUq) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/57OXg20mVGA8SMpNcee8OV) | 2:03 | 2021-06-08 | 2022-04-15 |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-09 | 2022-10-07 |
@@ -202,7 +203,7 @@
 | [Reckless](https://open.spotify.com/track/3UJS9aEUbtYO8kMl1IK1r3) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Subluxe](https://open.spotify.com/album/2UvJlbWPpItxxSrlQGrXAt) | 3:57 | 2021-06-08 | 2022-04-12 |
 | [Renee](https://open.spotify.com/track/5MeUMSRreLHYLhw8ZTyqpk) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Renee](https://open.spotify.com/album/4qR0co1PeeQSsqHF9xTeGn) | 2:59 | 2021-06-08 | 2022-04-21 |
 | [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 | 2021-06-08 | 2022-04-17 |
-| [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 | 2022-07-19 |  |
+| [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 | 2022-07-19 | 2022-12-13 |
 | [Right Here](https://open.spotify.com/track/6pW1YY18FiiyI2g9Aw8zD1) | [Sean McVerry](https://open.spotify.com/artist/7sAXoFldVGlGtZ5LPVtAYD) | [Right Here](https://open.spotify.com/album/3Af3REIUxAwyatiisb84sF) | 3:24 | 2021-08-13 | 2022-07-29 |
 | [rise](https://open.spotify.com/track/7zI7COP0QX8SrmEVlRCzJz) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Happy](https://open.spotify.com/album/1Bnk68HL9uJ7sJFeGW9LQv) | 7:11 | 2021-08-13 | 2022-04-21 |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2021-07-05 |  |
@@ -215,7 +216,7 @@
 | [Selfluv](https://open.spotify.com/track/0Tzi0YMLczWwegdBZcgLkr) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7), [GUS](https://open.spotify.com/artist/4ZZpN3SBlgpAT8SqIJ74nv) | [Lovesick](https://open.spotify.com/album/0LY3MWS4ePK4xOri3ENkHn) | 4:33 | 2021-06-08 | 2022-04-16 |
 | [seven billion](https://open.spotify.com/track/2kmEwsmdtDlUwjs55JUGxT) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [seven billion](https://open.spotify.com/album/7AeiBecJjq78uKN7n4fL55) | 2:55 | 2022-03-18 | 2022-04-19 |
 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 | 2021-09-14 | 2022-07-29 |
-| [She Likes Another Boy](https://open.spotify.com/track/5W6BA8Wa8JZGKdliH2gkwO) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [She Likes Another Boy + Talk 2 U](https://open.spotify.com/album/173xQWSgG3rzoNjJ7yskiA) | 3:27 | 2022-08-19 |  |
+| [She Likes Another Boy](https://open.spotify.com/track/5W6BA8Wa8JZGKdliH2gkwO) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [She Likes Another Boy + Talk 2 U](https://open.spotify.com/album/173xQWSgG3rzoNjJ7yskiA) | 3:27 | 2022-08-19 | 2022-12-13 |
 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-07-19 |  |
 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 | 2021-06-08 | 2022-07-27 |
 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 | 2021-06-08 | 2022-07-29 |
@@ -230,6 +231,7 @@
 | [Sorry, I Like You](https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D) | [Burbank](https://open.spotify.com/artist/4iHB5bp1wwN5qTbVPaBykO) | [Sorry, I Like You](https://open.spotify.com/album/7EZ0zxMKXkJZGZBESFJZGA) | 2:02 | 2021-06-08 | 2022-04-21 |
 | [Space Song](https://open.spotify.com/track/3CLhX1JkJZ4s5umNnOqCRh) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/07GUau4V9oCOW07nSUeF2t) | 5:20 | 2021-06-08 | 2022-07-29 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2022-07-19 |  |
+| [Special](https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:38 | 2022-12-10 |  |
 | [Stay Till the Morning](https://open.spotify.com/track/3ZUU7ulNpPPkbjk9C0Bgec) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Stay Till the Morning](https://open.spotify.com/album/0meRS2vWXSQDhcI3M9bxrN) | 3:17 | 2021-10-29 | 2022-04-17 |
 | [Steven Universe](https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Steven Universe](https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5) | 2:14 | 2021-06-08 | 2022-04-19 |
 | [Still Friends](https://open.spotify.com/track/4QgKXgcqA5AbArVH5WfmlP) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Still Friends](https://open.spotify.com/album/2Ft4H0g62lV5dVWcow9nKH) | 2:11 | 2021-06-08 | 2022-06-22 |

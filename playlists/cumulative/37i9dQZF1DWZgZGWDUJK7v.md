@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: The Year We Turned 29\(아홉수 우리들\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: Level Up Doctor Choi Kiseok\(레벨업 닥터 최기석\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-97 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+98 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Leaving you \(From "Tomb Raider King"\)](https://open.spotify.com/track/15SkcMXeM3kBDqC0ckm7Bq) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Tomb Raider King \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/1ABAgDrnDMD9MzWVBOuLJA) | 4:01 | 2022-07-20 |  |
 | [Leaving you \(From "Tomb Raider King"\)](https://open.spotify.com/track/6BnQTBEWTioAJ8wVUQXthB) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Tomb Raider King \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/2HKIoDcbh22DS3R1xxEe88) | 4:01 | 2022-05-09 | 2022-07-29 |
 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 | 2022-05-09 |  |
+| [Look](https://open.spotify.com/track/5k2RprgovPaCBYahMWKSGV) | [이서한](https://open.spotify.com/artist/34Ptc7mUlhZcBgXALaQZuc) | [Dr\. Choi Ki Seok \(Original Soundtrack\)](https://open.spotify.com/album/6jcnqltbs1c31gfYAN1lFJ) | 3:34 | 2022-12-12 |  |
 | [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 | 2022-07-04 |  |
 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 | 2022-05-09 |  |
 | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/track/3AxlCZSy0Yk9vQfAW6l4rI) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/album/1hYLPYFP9kprWeymUwGIN1) | 4:36 | 2022-05-09 |  |

@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Suicide Silence
 
-2,292 songs - 6 day 10 hr 45 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+2,293 songs - 6 day 10 hr 48 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [Demons](https://open.spotify.com/track/0rJF7VYOUPPIkcrVXCkWEI) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Demons](https://open.spotify.com/album/1VWl1cOAYgdkX7qzE6DhKT) | 3:48 | 2022-08-19 | 2022-08-27 |
 | [Demons Looming Over You](https://open.spotify.com/track/74uycdRYq807l6utYSbJ0H) | [Falconshield](https://open.spotify.com/artist/1E7ix1oyCsdQgMw6Q3w7xT), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [Demons Looming Over You](https://open.spotify.com/album/5P9DD9kBmupLv8l7SvmILA) | 4:28 | 2022-04-22 | 2022-04-29 |
 | [Departure](https://open.spotify.com/track/2zYxceYidQR1dH0Y5WA18Z) | [Souldrainer](https://open.spotify.com/artist/2h8TligWI8YeZluK5jVZUQ) | [Departure](https://open.spotify.com/album/5BzytZuDJpNOWE2H9qRTLR) | 3:58 | 2022-12-09 |  |
+| [Depression Season](https://open.spotify.com/track/0d2yuOqkP2rtimQ7OHJBex) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Depression Season](https://open.spotify.com/album/7DuxU5W6e3w5wCBsD3pKZr) | 2:55 | 2022-12-12 |  |
 | [Der Füsilier II](https://open.spotify.com/track/5qVtgLu94WO1ZBPcELOJ1k) | [Kanonenfieber](https://open.spotify.com/artist/5VI8SBEX7uSvoHsdI5xNVJ) | [Der Füsilier](https://open.spotify.com/album/7fXQt09YTxA8wAcOFIuiVA) | 5:32 | 2022-11-25 | 2022-12-03 |
 | [DESTINY](https://open.spotify.com/track/56wLqIBnjapUsIC08vHHYU) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [DESTINY](https://open.spotify.com/album/6szs4Ng6wO7Hu48kHET1xL) | 3:00 | 2021-12-17 | 2022-01-21 |
 | [Destroy All](https://open.spotify.com/track/5fvHAiHgoz4feao8IcrPIz) | [Entropy Zero](https://open.spotify.com/artist/5G4C2cJu2dxvgwDSh1FI3b) | [Destroy All](https://open.spotify.com/album/6SYXaYh246QX5ClKRkQPr9) | 2:22 | 2022-08-19 | 2022-08-27 |

@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Cappuccino",
+        "url": "https://open.spotify.com/album/5GSFZurxEZUNSQZ0clSvil"
+      },
+      "artists": [
+        {
+          "name": "PINK FUN",
+          "url": "https://open.spotify.com/artist/00cxLg9WhGOmZKMNI7fnnW"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196497,
+      "name": "Cappuccino",
+      "url": "https://open.spotify.com/track/7dXdcK5hFBKDITomqjW3U2"
+    },
+    {
+      "album": {
         "name": "\u9084\u539f",
         "url": "https://open.spotify.com/album/7DxCILyrU4E6TabC9Bt4lI"
       },
@@ -576,6 +594,24 @@
     },
     {
       "album": {
+        "name": "My Only",
+        "url": "https://open.spotify.com/album/51sZueI8QTDvCQnsCokQ6n"
+      },
+      "artists": [
+        {
+          "name": "AcQUA \u6e90\u5c11\u5e74",
+          "url": "https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "My Only",
+      "url": "https://open.spotify.com/track/5moOeYLCth43bfjWtrjLoZ"
+    },
+    {
+      "album": {
         "name": "NOT OVER U",
         "url": "https://open.spotify.com/album/37RjBAZMoEQAnmbOC3BRJF"
       },
@@ -707,6 +743,28 @@
       "duration_ms": 235648,
       "name": "TA",
       "url": "https://open.spotify.com/track/6UwJRxAxy8ok9SAidL903w"
+    },
+    {
+      "album": {
+        "name": "the way you wanna be",
+        "url": "https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        },
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157354,
+      "name": "the way you wanna be",
+      "url": "https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR"
     },
     {
       "album": {
@@ -1215,7 +1273,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 191173,
       "name": "\u4efb\u6027\u9ede\u4f60",
       "url": "https://open.spotify.com/track/1mOpQrs0PwfALgqn8Mj6vE"
@@ -4295,7 +4353,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 226317,
       "name": "\u8981\u600e\u9ebc\u544a\u8a34\u4f60\u6211\u591a\u559c\u6b61 (feat.\u7406\u60f3\u6df7\u86cb \u96de\u4e01)",
       "url": "https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk"
@@ -4557,7 +4615,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 245527,
       "name": "\u9047\u5230\u4f60 - \u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi"

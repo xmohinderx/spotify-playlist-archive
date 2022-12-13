@@ -4,7 +4,7 @@
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-72 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
+73 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Coventry Carol](https://open.spotify.com/track/64G40fpdMQE95CSIJx9Qr1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:02 | 2022-01-14 |  |
 | [Coventry Carol](https://open.spotify.com/track/6QUzx4rKDId0AhloBuE4KK) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas](https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ) | 3:02 | 2017-11-08 | 2022-07-29 |
 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 2:06 | 2017-11-08 |  |
+| [Do You Hear What I Hear?](https://open.spotify.com/track/4ALkaFHbQZtJ5h1FigF2Ps) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Do You Hear What I Hear?](https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4) | 3:05 | 2022-12-12 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/1Wn1FdOVisWKqqQm9ETfVl) | [Eclipse 6](https://open.spotify.com/artist/3vX0Zd001TxIvNH2JBjnLW) | [It's Christmas Time](https://open.spotify.com/album/2vWqw1n1P5bOTyg0yGQsOK) | 3:23 | 2017-11-08 |  |
 | [Feels like Christmas \(feat\. Jana Kramer\)](https://open.spotify.com/track/5x1qZrVEvKhtW1Vh7Ztjyl) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [I'll Have Another...Christmas Album](https://open.spotify.com/album/5fAtug9KJE3XhEf010Gkoj) | 2:59 | 2017-11-08 |  |
 | [Frosty The Snowman \(feat\. Alessia Cara\)](https://open.spotify.com/track/7dg8ikrVSTkpu8RVl2NkAc) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 2:17 | 2022-01-14 |  |

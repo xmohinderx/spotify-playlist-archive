@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 262695,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/37huXuTs0ENtyP3yAbsMYq"
@@ -1375,6 +1375,28 @@
       "duration_ms": 273106,
       "name": "Messiah Has Come",
       "url": "https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7"
+    },
+    {
+      "album": {
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237393,
+      "name": "Might As Well Have Coal (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh"
     },
     {
       "album": {

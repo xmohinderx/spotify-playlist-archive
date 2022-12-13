@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 221640,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/3ykSdTGmYPFl8pDBXer1zG"
@@ -1496,6 +1496,24 @@
     },
     {
       "album": {
+        "name": "Fog Machine",
+        "url": "https://open.spotify.com/album/4G37xdusxvyZqLXUDpeUs7"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193549,
+      "name": "Fog Machine",
+      "url": "https://open.spotify.com/track/2oLMRpIzmWXJAI1oEuSqsc"
+    },
+    {
+      "album": {
         "name": "In Through the out Door (1994 Remaster)",
         "url": "https://open.spotify.com/album/4wVHvawxZy52Oemd4sGyUm"
       },
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 180585,
       "name": "Frenzy",
       "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 215666,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
@@ -2641,7 +2659,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 242560,
       "name": "Lydia",
       "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
@@ -3041,7 +3059,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 223386,
       "name": "Nobody Wants to Die",
       "url": "https://open.spotify.com/track/4A7kc0SQCu6btugusS2cYx"

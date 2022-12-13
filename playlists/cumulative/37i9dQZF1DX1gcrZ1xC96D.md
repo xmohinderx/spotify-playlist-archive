@@ -4,7 +4,7 @@
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-160 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/7KYDTb9MPMU550wXeMZesu)
+161 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/7KYDTb9MPMU550wXeMZesu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dancing in the Moonlight \(feat\. NEIMY\) \- Nathan Dawe Remix](https://open.spotify.com/track/2gJ3YaUoh90BwIFfC8tUoJ) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Dancing in the Moonlight \(feat\. NEIMY\) \[Nathan Dawe Remix\]](https://open.spotify.com/album/29cRS4MAYHfybmEED3raJr) | 2:51 | 2022-04-15 | 2022-05-08 |
 | [Deep](https://open.spotify.com/track/0HEcwBPQfxpHMtXR4qO55K) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx) | [Deep](https://open.spotify.com/album/6qIAIFQ4soNtbIzw8bLlWc) | 3:26 | 2022-05-10 | 2022-07-13 |
 | [DEEP \(feat\. Nonô\)](https://open.spotify.com/track/1DcFYXbOSWr18OHlfp7Qng) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [DEEP \(feat\. Nonô\)](https://open.spotify.com/album/0N8cb3eskN240e7UgaklBC) | 3:07 | 2022-05-10 | 2022-07-24 |
-| [Deep Inside](https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Deep Inside](https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs) | 3:22 | 2022-04-15 |  |
+| [Deep Inside](https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Deep Inside](https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs) | 3:22 | 2022-04-15 | 2022-12-13 |
 | [Devil](https://open.spotify.com/track/1hZrP0VIX9aiFdAWh3JlIW) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [Devil](https://open.spotify.com/album/77bK4tR9Nep9QMqQL6ZIjE) | 2:24 | 2022-09-27 |  |
 | [Didn't Know](https://open.spotify.com/track/3kNWyHdLVW1x6pn9EnSQ1H) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Didn't Know](https://open.spotify.com/album/5nnv8Zb63NdxWEyVsaSodl) | 2:48 | 2022-07-05 | 2022-09-28 |
 | [Didn't Know](https://open.spotify.com/track/6t8XoDG0YGFGBqUsgj9Ih9) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Didn't Know](https://open.spotify.com/album/3qpEkXRsDiail2jK8DS6Ml) | 2:48 | 2022-05-10 | 2022-07-04 |
@@ -58,6 +58,7 @@
 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 | 2022-11-25 |  |
 | [Don't You Worry About Me](https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Don't You Worry About Me](https://open.spotify.com/album/0he225d6QYERCPgyagltqw) | 3:40 | 2022-05-10 | 2022-07-29 |
 | [Double Dip](https://open.spotify.com/track/2qLM9dbsAbjCE9N3fPagG2) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Double Dip](https://open.spotify.com/album/5FID5KjP1a0xptUHQZkIVL) | 3:18 | 2022-04-15 | 2022-05-11 |
+| [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-12-13 |  |
 | [Energy](https://open.spotify.com/track/6UoIrO15w3w62Jj8kGCnR7) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Energy](https://open.spotify.com/album/20Iy2nvzVJl0X1zeoW5T2U) | 3:06 | 2022-09-05 |  |
 | [Every Single Time](https://open.spotify.com/track/7toXrD09umdbaWc63fBQ3p) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7) | [Every Single Time](https://open.spotify.com/album/4iCPXRZdy4L5J0zgzGC7in) | 2:58 | 2022-04-15 | 2022-07-28 |
 | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb) | 2:48 | 2022-04-15 | 2022-08-22 |

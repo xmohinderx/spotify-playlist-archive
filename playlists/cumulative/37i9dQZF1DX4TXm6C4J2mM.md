@@ -4,11 +4,12 @@
 
 > Den perfekta mixade spellistan för träningspasset.
 
-140 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/417Ys8x8Iow3PJfqFACoes)
+141 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/417Ys8x8Iow3PJfqFACoes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Comes Back To You](https://open.spotify.com/track/0cIRZhGMVLIrOPhX3VWoqQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All Comes Back To You](https://open.spotify.com/album/5rJpYMGW8MdUseiZ3aaAvP) | 2:40 | 2022-10-10 | 2022-12-09 |
+| [All Comes Back To You](https://open.spotify.com/track/1jYe6W2ctH2SuAjKGa4Fxi) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All Comes Back To You](https://open.spotify.com/album/6PUjpfG3cjuo7D9nK2oqCb) | 2:40 | 2022-11-10 |  |
 | [All Comes Back To You](https://open.spotify.com/track/4AkCyd9Nlbt8JprQq9V6o2) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All Comes Back To You](https://open.spotify.com/album/5sF8cTLQirqDYQWJwzxq87) | 2:40 | 2021-08-19 | 2022-10-14 |
 | [Always Feels Like \- MOTi Remix](https://open.spotify.com/track/60EfJrwzNKarb9RtHiwJHq) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Always Feels Like \(MOTi Remix\)](https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa) | 2:19 | 2021-08-19 |  |
 | [Bad Habits \- Joel Corry Remix](https://open.spotify.com/track/5Q9DzNnrUCkJV1t1wWjYIX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Bad Habits \(Joel Corry Remix\)](https://open.spotify.com/album/6Oj80oIJGFbFwionyBamow) | 3:09 | 2021-08-19 |  |
@@ -147,6 +148,6 @@
 | [When Someone Leaves \- Sofus Wiene Remix](https://open.spotify.com/track/6b1P0WPHCgKBa7Dl3GHceJ) | [Electrick Village](https://open.spotify.com/artist/6oY0rvFRUyykIvmVTwcAGb), [Sofus Wiene](https://open.spotify.com/artist/4k57Zo2aYhZ1zydL5jeAno) | [When Someone Leaves \(Sofus Wiene Remix\)](https://open.spotify.com/album/3kZnLF4J0m8pENkcGjB0C4) | 2:59 | 2021-08-19 | 2022-11-13 |
 | [Where You Wanna Be](https://open.spotify.com/track/6HILwFdT1NQbp92QO5D1Ni) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Elena Temnikova](https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL) | [Where You Wanna Be](https://open.spotify.com/album/5BZ4f5WKubbOnMNcBp9wL2) | 2:38 | 2022-10-10 | 2022-12-09 |
 | [Where You Wanna Be](https://open.spotify.com/track/7qbjS6uKZlv7K08CNcEqYR) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Elena Temnikova](https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL) | [Where You Wanna Be](https://open.spotify.com/album/2qXOVTnMDCsnulrqfX4QDu) | 2:38 | 2021-08-19 | 2022-10-13 |
-| [Wherever You Go \(feat\. John Martin\) \[Bhaskar & Kohen Remix\]](https://open.spotify.com/track/0mfTTKtgwz9QvGz5i1IG5r) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Wherever You Go \(feat\. John Martin\) \[Bhaskar & Kohen Remix\]](https://open.spotify.com/album/79asdi3oW71KmnjzoKQL7z) | 3:46 | 2022-07-15 |  |
+| [Wherever You Go \(feat\. John Martin\) \[Bhaskar & Kohen Remix\]](https://open.spotify.com/track/0mfTTKtgwz9QvGz5i1IG5r) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Wherever You Go \(feat\. John Martin\) \[Bhaskar & Kohen Remix\]](https://open.spotify.com/album/79asdi3oW71KmnjzoKQL7z) | 3:46 | 2022-07-15 | 2022-12-13 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

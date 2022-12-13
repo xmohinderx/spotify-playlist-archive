@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-204 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+205 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [The Furthest Nearby Place](https://open.spotify.com/track/6v1bKQA6HQoKIFM6rN1YMY) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Agitprop Alterna \(Deluxe Edition\)](https://open.spotify.com/album/2pvPHnyco2al0wzBgI1g1S) | 4:20 | 2022-01-27 | 2022-09-15 |
 | [The Furthest Nearby Place](https://open.spotify.com/track/6cGxhZXtOxgneYTmlIVIB2) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Moral Panics](https://open.spotify.com/album/3J4ZH4URD4qiX4nE2YvvtP) | 4:20 | 2021-11-01 | 2022-07-29 |
 | [The Nearer The Fountain, More Pure The Stream Flows](https://open.spotify.com/track/7eVf0wH28SmYws2I1FrtBE) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [The Nearer The Fountain, More Pure The Stream Flows](https://open.spotify.com/album/5JOC38dkd1O0U85m68gvly) | 5:00 | 2021-11-01 | 2022-09-15 |
+| [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2022-12-12 |  |
 | [The Wetlands](https://open.spotify.com/track/6CrTOj2Oa2Vgh6YnKZddIZ) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/2jWDh6LjGtIVyzCqqzGkVU) | 3:57 | 2022-10-15 |  |
 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6baapASaIABefYuDLE0aNy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/0j0elxqaiOhRDJVpC9IZay) | 5:09 | 2021-11-01 | 2022-07-29 |
 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 | 2022-01-27 |  |

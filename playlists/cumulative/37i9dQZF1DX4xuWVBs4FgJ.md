@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-288 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
+289 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Bigger Heart \(Acoustic\)](https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Bigger Heart \(Acoustic\)](https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc) | 4:48 | 2021-06-22 | 2022-11-13 |
 | [Bitter St](https://open.spotify.com/track/62tDr0leoZeIRshAkGjFHX) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Bitter St](https://open.spotify.com/album/0XjCBT35cgyapga0J5pWnz) | 3:47 | 2021-06-22 | 2022-05-28 |
 | [Bitter With The Sweet](https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:28 | 2021-06-22 | 2022-07-29 |
-| [Blackbird](https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Blackbird](https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4) | 3:03 | 2021-06-22 |  |
+| [Blackbird](https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Blackbird](https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4) | 3:03 | 2021-06-22 | 2022-12-13 |
 | [Blame](https://open.spotify.com/track/1Q9QB2I96Yj5gO3oNgfh8q) | [Wilder Gray](https://open.spotify.com/artist/74RlyWfSIpHWsObpkuc0KC) | [Blame](https://open.spotify.com/album/50M2Qdh5WzzhVWhIH2htx6) | 2:36 | 2021-06-22 | 2022-01-07 |
 | [Born To Be Yours \- Acoustic Version](https://open.spotify.com/track/3rgrJySBLhVrDjJ2OXRtbB) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm) | 4:09 | 2021-06-22 | 2022-05-18 |
 | [Boy You're Good](https://open.spotify.com/track/2FW8zqglrcLTWKKnmDUoi0) | [Micky Skeel](https://open.spotify.com/artist/3ml6MvdCLzBBhK2zT9AhOl) | [Boy You're Good](https://open.spotify.com/album/0pVWMiCthCpbU0BOMONFoh) | 2:36 | 2021-06-22 | 2022-07-23 |
@@ -218,6 +218,7 @@
 | [Real Love Baby](https://open.spotify.com/track/2qEqMx1n0dnCBzWT9l3nGL) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/0IpNqqkTlVMm54WIZTn6Pk) | 3:09 | 2022-05-27 | 2022-07-29 |
 | [Real?](https://open.spotify.com/track/1r0bORzz4Ooi8EpFGC6rxe) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/0JRlJXlfXSdUknklZQjTv2) | 4:36 | 2021-06-22 | 2022-05-18 |
 | [Say Love](https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:41 | 2022-07-22 |  |
+| [shut up](https://open.spotify.com/track/0vBlrSOT8xxEBgKay0Otr4) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/3YuXuSnRfq8NuYE7UjHQKk) | 2:50 | 2022-11-11 |  |
 | [shut up](https://open.spotify.com/track/4WQS72yCXQWBNcTzBzseEr) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [shut up](https://open.spotify.com/album/4fiiEOODQku0l6RvZSLrgL) | 2:50 | 2022-07-22 | 2022-07-24 |
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-07-22 |  |
 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 | 2021-06-22 |  |

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Field Medic
 
-275 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+276 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Maybe Someday](https://open.spotify.com/track/2DjwsghflIeh6qmfpoy5UI) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Maybe Someday](https://open.spotify.com/album/6onXo7EIPgWuvfkFoVNrAU) | 3:00 | 2022-10-21 |  |
 | [Memory of a Cut off Head](https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN) | [OCS](https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa) | [Memory of a Cut off Head](https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS) | 4:47 | 2022-04-13 | 2022-12-06 |
 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 | 2022-01-21 |  |
+| [Mirror](https://open.spotify.com/track/64XLoFc5NQjjFgaM5n7UzF) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5Fh8bD99yT2xlDUlLNw005) | 2:31 | 2022-12-09 |  |
 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 | 2022-04-29 |  |
 | [Mohabbat](https://open.spotify.com/track/5PY0OvDT2tnAykdiUQayF8) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mohabbat](https://open.spotify.com/album/1DUjMy0rHh8ckyyvGzQzhm) | 7:42 | 2022-01-21 | 2022-07-29 |
 | [Money Honey](https://open.spotify.com/track/3ZmxvybcMbgR6ySIJeuMOY) | [Zelma Stone](https://open.spotify.com/artist/6zCGW0ocbATOowwaED1mbs) | [Money Honey](https://open.spotify.com/album/2dODpgdAH17PWIFVEPprHm) | 3:50 | 2022-04-13 | 2022-07-29 |
@@ -180,7 +181,7 @@
 | [One More Hour](https://open.spotify.com/track/09XOlLHpRhRSuI1plPFFuc) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:43 | 2022-01-21 | 2022-07-29 |
 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 | 2022-04-14 |  |
 | [Other You](https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You / Reflection](https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z) | 5:43 | 2022-01-21 | 2022-11-13 |
-| [Pareidolia](https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 4:07 | 2022-04-29 |  |
+| [Pareidolia](https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 4:07 | 2022-04-29 | 2022-12-13 |
 | [Pareidolia](https://open.spotify.com/track/7auhQqfbDNtYmOoLwPhGju) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Pareidolia](https://open.spotify.com/album/5lMw5oHGZQQWJVYTbn4el4) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2022-04-13 | 2022-07-24 |
 | [Party's Over](https://open.spotify.com/track/3cUktIJJfxfXFt5RvaHsty) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Mythopoetics](https://open.spotify.com/album/4FdIfIKSgiDBEG6Er5ANj4) | 3:23 | 2022-04-29 | 2022-09-11 |

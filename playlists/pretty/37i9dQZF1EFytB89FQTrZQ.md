@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,118 likes - 234 songs - 13 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,121 likes - 234 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 65 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 |
 | 66 | [GIRLS LIKE US](https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:38 |
 | 67 | [Dream On Me](https://open.spotify.com/track/1dCpERd2GVVFbKuOpJjgPm) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:02 |
-| 68 | [All I See](https://open.spotify.com/track/3Vr1FxMHtBLnQASeLl8YmG) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [All I See](https://open.spotify.com/album/6Gq6aqjCfW3PZ9FbFl38df) | 3:26 |
+| 68 | [All I See](https://open.spotify.com/track/1tCfqeTez4pT9PdqFmPUXb) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [All I See](https://open.spotify.com/album/0uEXu7qPTsOntx8KFagWFE) | 3:26 |
 | 69 | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/track/5CuMr1KC8oMHIBbyduLqI5) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/album/3cTOYq7PwnToTmevhPJ67K) | 2:48 |
 | 70 | [Who You Are](https://open.spotify.com/track/52qHwayfvn9tOjQN0bbCLc) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 3:25 |
 | 71 | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/track/0na0lYafx97flwjhS0dNIR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/album/1LbJj3VpL4nL4xOjX4aCdb) | 3:06 |
@@ -184,8 +184,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 174 | [In My Eyes](https://open.spotify.com/track/7j8ZyqgjMSvLWLNtb6weTL) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Night Work](https://open.spotify.com/album/4HzRVctbnxNnZn9MZd7syD) | 3:23 |
 | 175 | [No Question \(feat\. MNEK & Ryan Ashley\)](https://open.spotify.com/track/7AQbZRY9zEvayl1OdkzEV9) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [NIT3 TALES](https://open.spotify.com/album/3aaDMnR6ZksGbZSDw2JRxZ) | 3:21 |
 | 176 | [Rush](https://open.spotify.com/track/0ujXF7s3C0XliL3ygwvVfE) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/70gaiI4hthpS7Ef5uo8C2h) | 3:59 |
-| 177 | [Is Anybody There](https://open.spotify.com/track/6uktW9We6a1nidJJwNndKd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:16 |
-| 178 | [Away From You](https://open.spotify.com/track/3iejIQUlBfS5J1SudBYPmu) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [Away From You](https://open.spotify.com/album/3ZnOiFVmxrDBUxMWIPoJXk) | 3:46 |
+| 177 | [Away From You](https://open.spotify.com/track/3iejIQUlBfS5J1SudBYPmu) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [Away From You](https://open.spotify.com/album/3ZnOiFVmxrDBUxMWIPoJXk) | 3:46 |
+| 178 | [Is Anybody There](https://open.spotify.com/track/6uktW9We6a1nidJJwNndKd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:16 |
 | 179 | [KUSTOM MADE \- EDIT](https://open.spotify.com/track/3AxZWZr6cnNrXvQ9A54qoO) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Bee's Knees](https://open.spotify.com/artist/0HUVKb4z6JicOGlIpibvF0) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/57gwOGPtX7vOYJgH9faPFk) | 3:40 |
 | 180 | [Suddenly](https://open.spotify.com/track/7kqrWavqHpsVWNy2iR6yDO) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 3:28 |
 | 181 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 233 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
 | 234 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Mjc4NDY3ODUsMDAwMDAwMDBiYTQzMjY5MzBmZmQzMTg5YmMzYjQyMWIyMTE0Nzc0Mw==`
+Snapshot ID: `Mjc4NDgyMjUsMDAwMDAwMDAyYzc2NGJjZDk3ZDU1MTc4ZjI4MjQ5NjFlNmE3MTBlMQ==`

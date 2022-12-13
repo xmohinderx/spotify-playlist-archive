@@ -4,7 +4,7 @@
 
 > All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson
 
-110 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/2cfy7Rm8LVljTMG1lEbl0m)
+111 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/2cfy7Rm8LVljTMG1lEbl0m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2022-08-15 |  |
 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2021-11-11 | 2022-08-16 |
 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 | 2022-08-15 |  |
+| [Applause \- From "Tell It Like a Woman"](https://open.spotify.com/track/4ZlWlBH5FEoFDKgthWtHRl) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Applause \(From "Tell It Like a Woman"\)](https://open.spotify.com/album/7tfweNIzqYmP7abrg3SR31) | 3:02 | 2022-12-12 |  |
 | [Baby](https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:34 | 2021-11-11 | 2022-08-16 |
 | [Bad Reputation](https://open.spotify.com/track/1rqUr01F5kEXJneMBGSwRR) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/2fF9jiuJYCq1jMpmNewzYi) | 3:06 | 2022-08-15 | 2022-12-06 |
 | [Bad Romance](https://open.spotify.com/track/5P5cGNzqh6A353N3ShDK6Y) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster](https://open.spotify.com/album/034EE1ofh9OM6wJBqd2xYo) | 4:54 | 2021-11-11 | 2022-08-16 |
@@ -111,7 +112,7 @@
 | [Travelin' Man \- Remastered](https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:23 | 2022-08-15 |  |
 | [Twist Of Fate \- Remastered 2021](https://open.spotify.com/track/52dDSMbo5KgFBeT0DFK9PX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical \(Deluxe Edition\)](https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH) | 3:44 | 2022-08-15 |  |
 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 | 2021-11-11 | 2022-08-16 |
-| [Up Around The Bend](https://open.spotify.com/track/5XPv30nzEZOFS10mKGbtQ7) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(40th Anniversary Edition\)](https://open.spotify.com/album/1DUDtFZEobFATKMY5xY4Mj) | 2:41 | 2022-08-15 |  |
+| [Up Around The Bend](https://open.spotify.com/track/5XPv30nzEZOFS10mKGbtQ7) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(40th Anniversary Edition\)](https://open.spotify.com/album/1DUDtFZEobFATKMY5xY4Mj) | 2:41 | 2022-08-15 | 2022-12-13 |
 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 | 2022-08-15 |  |
 | [Where Is The Love?](https://open.spotify.com/track/3CNqo3gYrfexdrtjFmC9he) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/4wBDclsxFzGnR4kVAAMI7K) | 4:32 | 2021-11-11 | 2022-08-16 |
 | [Will You Love Me Tomorrow](https://open.spotify.com/track/0GyUciHz53Hi4kuR5ITlD6) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Meet Cute \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6VB3I0wuKelQjLf5QUiNyI) | 2:55 | 2022-10-03 |  |

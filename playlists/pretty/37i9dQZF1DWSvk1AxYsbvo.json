@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 6345,
+  "num_followers": 6353,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk4MDcwMSwwMDAwMDAwMDgyMzUxZDNhYjUwMTU3OTJkNDA3MGQyODY3ODg3NWRi",
+  "snapshot_id": "MTY2Nzk4MDcwMSwwMDAwMDAwMGM0NjU3MzRmMzJmYzkyYmY1NGIwZjExMTkwYmEzMTFk",
   "tracks": [
     {
       "added_at": "2022-11-09 07:58:21",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
-      },
-      "artists": [
-        {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
-        }
-      ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
         "name": "Dawn Defibrillation, Vol. 3",
         "url": "https://open.spotify.com/album/2xcQMwlQVpYtz52pzpLEJI"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 185840,
       "name": "Concrete (feat. CHEEZE)",
       "url": "https://open.spotify.com/track/1lQGsABYCrdPuzzdrgkeoS"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
+        "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
+        "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "duration_ms": 150374,
+      "name": "\uc18c\ub099\ube44 Shower",
+      "url": "https://open.spotify.com/track/1AOTFHFtluLFWL5WreWLZd"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "All My Love - Korean Ver.",
-      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 200862,
       "name": "Star",
       "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "All My Love - Korean Ver.",
+      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -459,22 +475,6 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
         "name": "Someone's playlist #7",
         "url": "https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 155133,
       "name": "You are My Night",
       "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -543,6 +559,22 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
+        "name": "LEEEE",
+        "url": "https://open.spotify.com/album/3WeWXeKbF9dj2qZOSBoh1f"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "all day",
+      "url": "https://open.spotify.com/track/5yOTx1AhzdCpOLUHqdCpAW"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
         "name": "Summer Festa",
         "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
       },
@@ -575,22 +607,6 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "right now",
-        "url": "https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs"
-      },
-      "artists": [
-        {
-          "name": "RIPLEY",
-          "url": "https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ"
-        }
-      ],
-      "duration_ms": 135750,
-      "name": "right now",
-      "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
         "name": "To the other side of greed",
         "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 227560,
       "name": "To the other side of greed",
       "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
-        "name": "OceanooM\u2218\u263d",
-        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "OceanooM\u2218\u263d",
-      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -639,18 +639,34 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "Night Swimming",
-        "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
+        "name": "OceanooM\u2218\u263d",
+        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
       },
       "artists": [
         {
-          "name": "sunwashere",
-          "url": "https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
         }
       ],
-      "duration_ms": 249272,
-      "name": "Night Swimming",
-      "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
+      "duration_ms": 205306,
+      "name": "OceanooM\u2218\u263d",
+      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
+        "name": "right now",
+        "url": "https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs"
+      },
+      "artists": [
+        {
+          "name": "RIPLEY",
+          "url": "https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ"
+        }
+      ],
+      "duration_ms": 135750,
+      "name": "right now",
+      "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -671,6 +687,22 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
+        "name": "Night Swimming",
+        "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
+      },
+      "artists": [
+        {
+          "name": "sunwashere",
+          "url": "https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx"
+        }
+      ],
+      "duration_ms": 249272,
+      "name": "Night Swimming",
+      "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
         "name": "Olive",
         "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
@@ -683,6 +715,22 @@
       "duration_ms": 129000,
       "name": "Olive",
       "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
+        "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
+        "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
+      "url": "https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -707,22 +755,6 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp"
-      },
-      "artists": [
-        {
-          "name": "kimujoo",
-          "url": "https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
         "name": "You don't have to say anything (I already know)",
         "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
       },
@@ -739,6 +771,22 @@
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp"
+      },
+      "artists": [
+        {
+          "name": "kimujoo",
+          "url": "https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -763,22 +811,6 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
-        "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
-      },
-      "artists": [
-        {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
-        }
-      ],
-      "duration_ms": 150374,
-      "name": "\uc18c\ub099\ube44 Shower",
-      "url": "https://open.spotify.com/track/1AOTFHFtluLFWL5WreWLZd"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
@@ -791,38 +823,6 @@
       "duration_ms": 245870,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
-        "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
-        "url": "https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz"
-      },
-      "artists": [
-        {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
-        }
-      ],
-      "duration_ms": 220842,
-      "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
-      "url": "https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2022-11-09 07:58:21",

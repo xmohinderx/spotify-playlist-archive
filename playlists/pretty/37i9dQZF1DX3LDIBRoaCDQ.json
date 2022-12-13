@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1444228,
+  "num_followers": 1444509,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMDgzY2JiNmViMWM3YjcwYzVhOTQ2ZWZkMWViNDc2NTJm",
+  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMGYzODY3YWEwNTIwYWNkZDJjMmFmYzdkYzViYzRhMmZm",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -167,6 +183,22 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -203,22 +235,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 136426,
       "name": "Human Fly",
       "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Setting Sons (Super Deluxe)",
         "url": "https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo"
       },
@@ -303,18 +319,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -383,22 +399,6 @@
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man",
       "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Songs The Lord Taught Us",
-        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Was A Teenage Werewolf - Remastered",
-      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Adolescents",
         "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 186626,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 45160,
+      "name": "Straight Edge",
+      "url": "https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -675,22 +691,6 @@
       "duration_ms": 119826,
       "name": "Last Caress",
       "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 45160,
-      "name": "Straight Edge",
-      "url": "https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Los Angeles (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn"
+      },
+      "artists": [
+        {
+          "name": "X",
+          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
+        }
+      ],
+      "duration_ms": 144821,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/3hgBGx3ShG9uCiJ3kvh8wm"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Spurts: The Richard Hell Story (2013 Remaster)",
         "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 120333,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 189333,
       "name": "Sonic Reducer",
       "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Los Angeles (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn"
-      },
-      "artists": [
-        {
-          "name": "X",
-          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
-        }
-      ],
-      "duration_ms": 144821,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/3hgBGx3ShG9uCiJ3kvh8wm"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -951,6 +935,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 120333,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Wild in the Streets",
-        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
-      },
-      "artists": [
-        {
-          "name": "Circle Jerks",
-          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "Wild in the Streets",
-      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 140493,
       "name": "Six Pack",
       "url": "https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Wild in the Streets",
+        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
+      },
+      "artists": [
+        {
+          "name": "Circle Jerks",
+          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "Wild in the Streets",
+      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Can I Say",
+        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
+      },
+      "artists": [
+        {
+          "name": "Dag Nasty",
+          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -1303,34 +1319,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Can I Say",
-        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
+        "name": "Damned Damned Damned",
+        "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
       },
       "artists": [
         {
-          "name": "Dag Nasty",
-          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+      "duration_ms": 162346,
+      "name": "New Rose",
+      "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Damned Damned Damned",
-        "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
-      },
-      "artists": [
-        {
-          "name": "The Damned",
-          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "New Rose",
-      "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "A Collection of Pop Classics",
         "url": "https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 94440,
       "name": "No Class",
       "url": "https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 130826,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "All This and More",
-      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Entertainment!",
         "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 186493,
       "name": "Natural's Not In It",
       "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "All This and More",
+      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
     },
     {
       "added_at": "2022-11-28 15:26:19",

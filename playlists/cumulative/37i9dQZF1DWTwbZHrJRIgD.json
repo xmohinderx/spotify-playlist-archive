@@ -960,6 +960,32 @@
     },
     {
       "album": {
+        "name": "Pappi Jhappi (From \"Govinda Naam Mera\")",
+        "url": "https://open.spotify.com/album/6OnJ1RwA2QvGLaUHZeGkQG"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Harry Arora",
+          "url": "https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178955,
+      "name": "Pappi Jhappi",
+      "url": "https://open.spotify.com/track/5tMipBSvSMeppvepjQnbex"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
       },

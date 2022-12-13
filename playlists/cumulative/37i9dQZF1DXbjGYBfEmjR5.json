@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 149028,
       "name": "CHERRY BLOSSOMS",
       "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
@@ -6930,6 +6930,24 @@
     },
     {
       "album": {
+        "name": "EMAIL",
+        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
+      },
+      "artists": [
+        {
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176269,
+      "name": "SOULLL",
+      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/548ClvNMwySekhhDeV8nn5"
       },
@@ -7321,7 +7339,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 227812,
       "name": "Summer Splash",
       "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
@@ -7823,7 +7841,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 203389,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"

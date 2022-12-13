@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2025,
+  "num_followers": 2029,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDM4YmI2ZDI5NTQyNWUzOTgxYjVlM2I2ZmIxM2IxZTQ1",
+  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDQzZDA4NDc3ZjVmYWEwOWE3NDFlNjE4YTc3NmFkM2Vm",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 231201,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "WINE",
         "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
       },
@@ -147,22 +131,6 @@
       "duration_ms": 226128,
       "name": "And July",
       "url": "https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "FLOWER ROAD",
-        "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "FLOWER ROAD",
-      "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -211,6 +179,54 @@
       "duration_ms": 212093,
       "name": "Pit a Pat",
       "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 231201,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "FLOWER ROAD",
+        "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "FLOWER ROAD",
+      "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -279,22 +295,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Sool",
         "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "surf.",
+        "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 225777,
+      "name": "surf.",
+      "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "\ube59\uadf8\ub808",
         "url": "https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 184346,
       "name": "\ube59\uadf8\ub808",
       "url": "https://open.spotify.com/track/1gtabUo4ov467fUjf2514i"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -475,22 +491,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
-      },
-      "artists": [
-        {
-          "name": "Highlight",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
         "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "surf.",
-        "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
       "artists": [
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+          "name": "Highlight",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
         }
       ],
-      "duration_ms": 225777,
-      "name": "surf.",
-      "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
+      "duration_ms": 190826,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 282118,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "EVERYD4Y",
         "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
       },
@@ -611,18 +627,34 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 282118,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -659,38 +691,6 @@
       "duration_ms": 224288,
       "name": "WERE WE?",
       "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2022-09-05 15:56:32",

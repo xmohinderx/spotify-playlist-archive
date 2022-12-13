@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,217 songs - 2 day 10 hr 55 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,218 songs - 2 day 10 hr 59 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [A Bitch Curious \(feat\. Sam Truth\)](https://open.spotify.com/track/1e1HFMTEfxwdJh8cCQmtD4) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 4:04 | 2021-04-03 | 2021-10-12 |
 | [A Cosmic Yes](https://open.spotify.com/track/4yoi9XLOG48REmXtImAU5y) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [A Cosmic Yes](https://open.spotify.com/album/2oue0Dyi1nsDf3QAijrwtA) | 4:18 | 2022-03-03 | 2022-07-01 |
 | [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-07-13 | 2021-07-31 |
-| [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-10-15 |  |
+| [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-10-15 | 2022-12-13 |
 | [Acting](https://open.spotify.com/track/2XHqdn6s7SnXTMFBcU1riH) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [Notice of Demolition](https://open.spotify.com/album/0DnOJf9x48SEbG96alqW83) | 1:40 | 2021-11-05 | 2021-12-22 |
 | [Afterglow](https://open.spotify.com/track/1HQ2HeB2U5DxCBobfVYGjJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Voyager](https://open.spotify.com/album/0KFTrQV0ZvnDiogu64B1MD) | 2:31 | 2021-07-17 | 2021-10-16 |
 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 | 2022-05-27 | 2022-08-06 |
@@ -312,7 +312,7 @@
 | [Electro Devil](https://open.spotify.com/track/4xnQeMktACQalLtoHL0CEC) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a), [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Electro Devil](https://open.spotify.com/album/5uQpxhjzsCMpCnbpf9awTp) | 4:01 | 2022-11-18 | 2022-12-01 |
 | [Embrace](https://open.spotify.com/track/6TBvA5Z0eSPVxtuPTffjuJ) | [Justin Christopher](https://open.spotify.com/artist/7FM0Sx0PWgTJMrv10D33J3), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Embrace](https://open.spotify.com/album/1ol5rxNaQHqHDt8CIxQqFj) | 2:24 | 2021-09-01 | 2021-10-16 |
 | [EMPATHY](https://open.spotify.com/track/1DazfftT2hCHbeYJdRw1qo) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9) | [EMPATHY](https://open.spotify.com/album/4lB8S9ktn7fBvfzlyHa1mx) | 1:55 | 2022-07-18 | 2022-08-06 |
-| [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-11-18 | 2022-12-01 |
+| [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-11-18 |  |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-15 | 2022-02-05 |
 | [Entertainment](https://open.spotify.com/track/79MrOt6tKb3kZWIGepEiEs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Entertainment](https://open.spotify.com/album/6DWYESpPLyWZ83h9DJ2Vva) | 1:53 | 2020-10-13\* | 2021-03-26 |
 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 | 2022-02-07 | 2022-05-10 |
@@ -953,6 +953,7 @@
 | [SITUATIONS](https://open.spotify.com/track/6AtOwEpEs38Be9tuIX1eYh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [SITUATIONS](https://open.spotify.com/album/3fvlLvxk2AjAHdwOKh7qwN) | 3:59 | 2021-03-19 | 2021-06-16 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-06-04 |
 | [Skin on Skin](https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:03 | 2020-10-13\* | 2021-05-03 |
+| [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 | 2022-12-09 |  |
 | [Skywalker](https://open.spotify.com/track/21TLD85Q0waH65GxMnIJft) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Skywalker](https://open.spotify.com/album/5nDWZFeZsRXUTFvjg7jruY) | 4:02 | 2021-03-06 | 2021-10-13 |
 | [Slow D's](https://open.spotify.com/track/7pZsJo9EVCNQgoIAZDuBNM) | [Lully](https://open.spotify.com/artist/1NvmP6svMv6qjhaCM35vRQ) | [Slow D's](https://open.spotify.com/album/5c4w6MzJSWLnFjocjp9QAj) | 3:33 | 2022-05-24 | 2022-08-06 |
 | [SLUGGER \(feat\. $NOT & slowthai\)](https://open.spotify.com/track/4hFQTvD4ZioWwAG3CWfS9D) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [SLUGGER \(feat\. $NOT & slowthai\)](https://open.spotify.com/album/3zctA2G2IQCfTKWeOGYk1h) | 4:16 | 2021-07-17 | 2021-09-11 |
@@ -1089,7 +1090,7 @@
 | [Thinking About You](https://open.spotify.com/track/0iCLx43SpsVplbYGWJlYU2) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 3:41 | 2022-11-11 | 2022-12-01 |
 | [This Thing Of Ours](https://open.spotify.com/track/5fasR6LRfES4uLsS0xgKu5) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 2:50 | 2022-11-26 | 2022-12-01 |
 | [Thoughts](https://open.spotify.com/track/117md6XUEAEck2F0DV2nDY) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Thoughts](https://open.spotify.com/album/2P6n385JAr3vtrGRr6zhgr) | 2:44 | 2020-12-18 | 2021-02-13 |
-| [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 |  |
+| [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 | 2022-12-13 |
 | [Three Man Weave](https://open.spotify.com/track/7L4AtavGZEEDkVw1E0mDYn) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Injury Reserve](https://open.spotify.com/album/5UWKsRDw3O4BsobmeyRpB9) | 3:26 | 2022-05-09 | 2022-07-19 |
 | [thrill of it](https://open.spotify.com/track/6OJzRNbm6qQim9keNrpVL5) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [thrill of it](https://open.spotify.com/album/5GMpcwo54JVtOV2tIDSbmw) | 2:08 | 2021-07-14 | 2021-12-22 |
 | [throwing leaves, casting stones](https://open.spotify.com/track/4MkVYJyLDIS7gaa0IuSlSF) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [throwing leaves, casting stones](https://open.spotify.com/album/4mHCekwLgmu3SHJWaQfKV5) | 3:38 | 2021-04-03 | 2021-06-16 |

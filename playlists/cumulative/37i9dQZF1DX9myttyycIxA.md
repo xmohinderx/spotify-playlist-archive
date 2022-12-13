@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-747 songs - 1 day 18 hr 45 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+748 songs - 1 day 18 hr 50 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Gary Ashby](https://open.spotify.com/track/30erf27MriGIsvb4rzria6) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Gary Ashby](https://open.spotify.com/album/5dxQzy2zP6VnJ8jTKYufRZ) | 2:10 | 2022-09-16 |  |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-28 | 2022-03-27 |
 | [Georgia](https://open.spotify.com/track/4kAukfZAOOx5dokpv25dX7) | [Family Jools](https://open.spotify.com/artist/2D2dkAs69ZoWgiMmj4Cszl) | [Georgia](https://open.spotify.com/album/7M7QmGFuwCRN4elD0AO0YC) | 3:31 | 2021-04-30 | 2022-04-21 |
+| [Germaphobe](https://open.spotify.com/track/7etS3cjv6GvXvLmpdNDMS0) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Germaphobe](https://open.spotify.com/album/0HpqNDpCRilFNZso1M2XJX) | 4:20 | 2022-12-13 |  |
 | [Get Better](https://open.spotify.com/track/4Ds6iA52kcODdy2CObnC2m) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Get Better](https://open.spotify.com/album/0stRso4qR86U0gBcmTpvae) | 4:11 | 2022-03-04 | 2022-04-15 |
 | [get high, breathe underwater \(\#3\)](https://open.spotify.com/track/2Vb9FyBDN3XctFwyaJjhDT) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [get high, breathe underwater \(\#3\)](https://open.spotify.com/album/7ijrwr6y3YBGtZt4RZeQTP) | 3:51 | 2022-07-15 | 2022-07-30 |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2022-05-19 | 2022-08-27 |

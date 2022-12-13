@@ -4,14 +4,15 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-80 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
+82 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Questions](https://open.spotify.com/track/0LxpkO2AazoIfJ1PoRFbBp) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 4:06 | 2022-05-25 |  |
 | [A LITTLE LONGER](https://open.spotify.com/track/4pBJPDDnP8OIlxpNOkJrJK) | [raLf.mp3](https://open.spotify.com/artist/0HJPhLLVDLqQsK80UeWyh7) | [2MNY 2B NoTICED](https://open.spotify.com/album/788LcoNQqE019iOEG2HX3P) | 3:19 | 2022-05-25 |  |
 | [All I Know](https://open.spotify.com/track/0Rw1RzRhZ6Qlr6nRnEVUkR) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [All I Know](https://open.spotify.com/album/6Md1me9GYeZdb1GBSHfUHt) | 3:11 | 2022-05-25 |  |
-| [All Night & Every Day](https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [All Night & Every Day](https://open.spotify.com/album/6ASUfky1E9CzfEAC8WDSSg) | 2:26 | 2022-06-12 |  |
+| [All Night & Every Day](https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [All Night & Every Day](https://open.spotify.com/album/6ASUfky1E9CzfEAC8WDSSg) | 2:26 | 2022-06-12 | 2022-12-13 |
+| [All Night & Every Day \(with Rêve\)](https://open.spotify.com/track/7MroW6hLGBS1Fgq9kQ7zL6) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Cutting Through Noise](https://open.spotify.com/album/0wVgIG352OHHFx0MiJh0aY) | 2:26 | 2022-12-12 |  |
 | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/track/4esyKRHqA3E57OuXm8U8Mu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/album/4g9Aep5KECuUy65mvm2wUs) | 2:32 | 2022-05-25 |  |
 | [American Spirits](https://open.spotify.com/track/2Aza8RDhzkcY8Ee27HsGdq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/4oroUN99tUCHorAFBW3QFN) | 2:45 | 2022-08-20 |  |
 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 | 2022-05-25 |  |
@@ -32,6 +33,7 @@
 | [Feels Like Home](https://open.spotify.com/track/0Y1HzOAyIj8O6N3lnKmi2l) | [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Feels Like Home](https://open.spotify.com/album/31QEjfkSaLZPHpchsT997H) | 4:07 | 2022-05-25 |  |
 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 | 2022-05-25 |  |
 | [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 | 2022-09-03 |  |
+| [Get It Right](https://open.spotify.com/track/3Thw5feG3I2MP5TrToBcPU) | [HANNIE](https://open.spotify.com/artist/7vp58vF08Hg9TbDrYH2nAh) | [Get It Right](https://open.spotify.com/album/54oz9xG2H5FgYci2I8RQnK) | 2:54 | 2022-12-12 |  |
 | [God Only Knows](https://open.spotify.com/track/0LVE8AE8ZsVxvwVoFIch9D) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr) | 3:24 | 2022-10-08 |  |
 | [God Only Knows](https://open.spotify.com/track/0SZimpCB6XxixvTav2YoUy) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [God Only Knows](https://open.spotify.com/album/5aei5Brs37JLBRvNKGAilc) | 3:24 | 2022-09-25 | 2022-10-09 |
 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 | 2022-05-25 |  |

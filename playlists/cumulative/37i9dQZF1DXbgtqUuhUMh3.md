@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Abeer Nehme
 
-361 songs - 21 hr 12 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+362 songs - 21 hr 15 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Mawaqif](https://open.spotify.com/track/3LOqtToly651USdV4pOdXt) | [Shushu Nasser](https://open.spotify.com/artist/1zEVxr4BrEzvLZKofE4Mm2) | [Mawaqif](https://open.spotify.com/album/2Gjo2OBYTE59x8Y2JElDxH) | 3:44 | 2021-12-23 | 2022-02-28 |
 | [Mazaji 3ali](https://open.spotify.com/track/2jBtDB4dAOkOoDuW8onehv) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Mazaji 3ali](https://open.spotify.com/album/317vgHdnjZvEstZ2ibIpmt) | 2:42 | 2021-12-23 | 2022-03-02 |
 | [Mazal Lyam Dor](https://open.spotify.com/track/7CVP5B3WQKuYF067pfwE6F) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK), [Amine Naami](https://open.spotify.com/artist/1yKmMBiUav7nXjk8hbXXtH) | [Mazal Lyam Dor](https://open.spotify.com/album/1Yz1iL8qriZ4uvdLWAuBck) | 3:10 | 2022-03-03 | 2022-11-16 |
-| [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 | 2022-03-08 |  |
+| [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 | 2022-03-08 | 2022-12-13 |
 | [Meen Bint Sgheeri مين بنت صغيرة](https://open.spotify.com/track/0NdTGMo7HIf4tjFCT0vHVh) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Meen Bint Sgheeri مين بنت صغيرة](https://open.spotify.com/album/5VXW37C2muaHyfgQXQqXu2) | 3:13 | 2022-03-08 | 2022-07-29 |
 | [Merry Merry Christmas](https://open.spotify.com/track/5yWPZ5yXl5mwLUeP2DJVD1) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Merry Merry Christmas](https://open.spotify.com/album/0ZMRdzabgRQ0DOSYd2nyPz) | 1:22 | 2021-12-23 | 2022-03-02 |
 | [Mesbah](https://open.spotify.com/track/7pbZJtfkLNJnxm4mOEIlt0) | [Hamsa Mounif](https://open.spotify.com/artist/7iNChMreJjoaq0ur56xtmX) | [Mesbah](https://open.spotify.com/album/04xXIOb2FQw0BDyaiBTGDu) | 2:47 | 2021-12-23 | 2022-02-28 |
@@ -332,6 +332,7 @@
 | [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 | 2022-08-04 | 2022-08-28 |
 | [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 | 2022-08-25 | 2022-09-11 |
 | [سولفت لأمي](https://open.spotify.com/track/6BfRyMh46F5cA3gkgyfh5u) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سولفت لأمي](https://open.spotify.com/album/4i19VcPBc8ufEIsIyFwY5j) | 2:29 | 2021-12-30 | 2022-03-01 |
+| [شي غريب](https://open.spotify.com/track/2g9r6JlYkVkppNQycOLm1X) | [Nour Helou](https://open.spotify.com/artist/2XBpyKrz8Ys34tU7baEoxO) | [Shi Ghareeb](https://open.spotify.com/album/5Bo1XegJIZ7Ixclp6HS7Do) | 2:44 | 2022-12-09 |  |
 | [شيجيلا](https://open.spotify.com/track/4W166RiFWcUJXZgAVC2NRZ) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [شيجيلا](https://open.spotify.com/album/4GGynpOymFrlcEu07M1PjA) | 3:32 | 2021-12-23 | 2022-03-01 |
 | [صرتلكم شمس](https://open.spotify.com/track/3LStpDeZgBqK2O8sU7NP77) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [صرتلكم شمس](https://open.spotify.com/album/7tUqc0LPVpGb1VIBVvs3mE) | 4:31 | 2021-12-23 | 2022-03-02 |
 | [طرشوله](https://open.spotify.com/track/6zKRAoVTjxGaXYxUdSTUHB) | [Queen G](https://open.spotify.com/artist/6rrCiJnPcTKkALHfG8bpAi) | [طرشوله](https://open.spotify.com/album/16AZzaSG6aSQJJRraYZ1tH) | 3:23 | 2021-12-23 |  |

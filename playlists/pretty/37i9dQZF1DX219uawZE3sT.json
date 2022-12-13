@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 104430,
+  "num_followers": 104486,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDcyMDg3ZTc3NzgwZWIzNWZhYzk1MTU5Zjk4MDQyZGM2",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDcwNjU3NGIyNzIwYzY2ZWRlZmZjYjJmYjE2ZGZiMDI3",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -211,18 +211,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+        "name": "No Hay Imposibles",
+        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+      "duration_ms": 263666,
+      "name": "Me Enamor\u00e9 de Ti",
+      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "No Hay Imposibles",
-        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 263666,
-      "name": "Me Enamor\u00e9 de Ti",
-      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -383,26 +399,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
-        "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Lisset",
-          "url": "https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Orgullo De Mujer",
         "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
@@ -419,18 +415,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+        "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
+        "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Lisset",
+          "url": "https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
+      "duration_ms": 191306,
+      "name": "Nada Personal",
+      "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -463,6 +463,22 @@
       "duration_ms": 240893,
       "name": "Fuego en el Fuego",
       "url": "https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Nunca Te Olvidare\u0301",
+      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -603,22 +619,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidare\u0301",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX"
       },
@@ -667,38 +667,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Viento A Favor",
-        "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
-      },
-      "artists": [
-        {
-          "name": "Sentidos Opuestos",
-          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Falsas Esperanzas",
-      "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
@@ -715,6 +683,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Viento A Favor",
+        "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
+      },
+      "artists": [
+        {
+          "name": "Sentidos Opuestos",
+          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Canciones De Amor",
         "url": "https://open.spotify.com/album/69hcj06pBkmRqZYNqtbI8c"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 255333,
       "name": "Desnuda",
       "url": "https://open.spotify.com/track/5DRMxhUUiebOG9ruo5aLxj"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Falsas Esperanzas",
+      "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Mis Romances",
-        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Amor (Amor, amor, amor)",
-      "url": "https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Original Masters",
         "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Mi tesoro",
-        "url": "https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY"
+        "name": "Mis Romances",
+        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 209108,
-      "name": "Mi tesoro",
-      "url": "https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo"
+      "duration_ms": 222293,
+      "name": "Amor (Amor, amor, amor)",
+      "url": "https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -855,6 +839,22 @@
       "duration_ms": 229194,
       "name": "Por Amarte (Destilando Amor)",
       "url": "https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Mi tesoro",
+        "url": "https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 209108,
+      "name": "Mi tesoro",
+      "url": "https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Solo Bolero",
+        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 283680,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Los Ganadores De La Voz",
         "url": "https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Solo Bolero",
-        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 283680,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Ricardo Montaner Volumen 2",
         "url": "https://open.spotify.com/album/2OLhHgoFR9T1SebPzV0bjD"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 256506,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/2yAQWxFEkBD7SWA1aemkua"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "El Baile del Sapito",
+      "url": "https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -995,22 +1011,6 @@
       "duration_ms": 228413,
       "name": "Amor Gitano",
       "url": "https://open.spotify.com/track/1Kd5Qj9kicqjCw1BjWRzH0"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "El Baile del Sapito",
-      "url": "https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Mirada de Mujer",
-        "url": "https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3"
-      },
-      "artists": [
-        {
-          "name": "Aranza",
-          "url": "https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Jerem\u00edas",
         "url": "https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 263184,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Mirada de Mujer",
+        "url": "https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3"
+      },
+      "artists": [
+        {
+          "name": "Aranza",
+          "url": "https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
     },
     {
       "added_at": "2022-05-06 18:32:26",

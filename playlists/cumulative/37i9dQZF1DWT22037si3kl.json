@@ -996,6 +996,28 @@
     },
     {
       "album": {
+        "name": "Estilo Brasileiro",
+        "url": "https://open.spotify.com/album/4FBzCPShhOsh7RBIc0ofkX"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121850,
+      "name": "Estilo Brasileiro",
+      "url": "https://open.spotify.com/track/1cetHcFTKiY11MaJ4Q76dC"
+    },
+    {
+      "album": {
         "name": "Eu Fiz o Jogo Virar",
         "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
       },
@@ -1985,7 +2007,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 203809,
       "name": "Luxo das Ruas 1",
       "url": "https://open.spotify.com/track/1l254ALoOWAsl45VnR5qtN"

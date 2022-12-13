@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-869 songs - 1 day 23 hr 6 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
+870 songs - 1 day 23 hr 11 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2020-09-04 | 2020-10-09 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/7vMDFGBs0CTEkENk2dyCnc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Destroy Myself Just For You](https://open.spotify.com/album/3cQmOITwkOtQIk9NcyoZ2g) | 2:26 | 2021-12-16 | 2022-04-21 |
 | [DIABLO](https://open.spotify.com/track/3UZq0tLE3gNlnYQbpa7Veo) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [DIABLO](https://open.spotify.com/album/6tNmyp4ay7hhthomKB65gW) | 2:45 | 2020-09-25 | 2021-04-29 |
+| [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-08 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-03 |  |
 | [Do It To Myself](https://open.spotify.com/track/5JhEV3RFNThUJ8lD5e0iLT) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [Do It To Myself](https://open.spotify.com/album/7yWVKZehFljtdSWwT0s0gk) | 3:12 | 2019-10-25 | 2021-05-20 |
 | [Do You Love Me](https://open.spotify.com/track/1rbjic9uKr1p6nxnjLDHN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Do You Love Me](https://open.spotify.com/album/3KmwObuD2kb4XcuUnMJkQ7) | 2:24 | 2020-04-28 | 2021-05-14 |
@@ -369,7 +370,7 @@
 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl) | 3:22 | 2019-05-25\* | 2020-04-24 |
 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 | 2019-06-26 | 2022-04-20 |
 | [I Do](https://open.spotify.com/track/5mpCx2nbXtAbnzd342Mwrb) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I Do](https://open.spotify.com/album/5FGa9dsx41t70tKh0roFsm) | 3:37 | 2020-02-21 | 2022-04-20 |
-| [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2019-06-06 |  |
+| [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2019-06-06 | 2022-12-13 |
 | [i don't miss u](https://open.spotify.com/track/5CxgoUsj1XQjlW5b2BvOnW) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [i don't miss u](https://open.spotify.com/album/0C4Uc7mEx0bbtnLbm13erX) | 2:58 | 2019-10-25 | 2021-03-20 |
 | [I Don't Think I'm Okay](https://open.spotify.com/track/0PUkanqCGTb6qseXPKOw1F) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Don't Think I'm Okay](https://open.spotify.com/album/2FVXY7JKhLrYb5CExY0CDq) | 2:56 | 2020-07-11 | 2021-05-22 |
 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/1NEV2pt7AJSHWadhfCZ48t) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Thru These Tears / I Don’t Wanna Love You Anymore](https://open.spotify.com/album/00lk0dGMhyu40RBQGKiTr0) | 3:21 | 2019-05-25\* | 2019-06-15 |

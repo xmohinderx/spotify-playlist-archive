@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-411 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+412 songs - 1 day 1 hr 46 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Birthday](https://open.spotify.com/track/5w5jFcI6l3Bprp6x4RVCuc) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer](https://open.spotify.com/album/4W0GjlWkF5lLRiw6hF9UU8) | 3:47 | 2020-12-21 | 2022-04-11 |
 | [Black Car](https://open.spotify.com/track/3pvmkjuacq6719H5su9ixl) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:11 | 2020-12-21 | 2022-04-16 |
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-12-21 |  |
+| [Blind](https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:30 | 2022-12-09 |  |
 | [Blood Bank](https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK) | 4:45 | 2020-12-21 | 2022-04-20 |
 | [BNR](https://open.spotify.com/track/54uXC93r53jOJFuhMueold) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [BNR & Balloon](https://open.spotify.com/album/5xAIgRLvUIVd0SgVBAlpFl) | 3:01 | 2021-05-01 | 2022-07-21 |
 | [Body](https://open.spotify.com/track/7pfuJiYU9vnQgBCADJeZsc) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Body](https://open.spotify.com/album/0Fo7Dd9Yn4VqzcRO9ExChR) | 5:07 | 2020-12-21 | 2022-04-21 |
@@ -115,7 +116,7 @@
 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 | 2022-10-28 |  |
 | [Drifting Off](https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:33 | 2022-07-22 | 2022-10-08 |
 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u) | 2:34 | 2022-07-20 | 2022-07-29 |
-| [Drunk](https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Drunk](https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7) | 3:11 | 2020-12-21 |  |
+| [Drunk](https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Drunk](https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7) | 3:11 | 2020-12-21 | 2022-12-13 |
 | [Dry Your Eyes](https://open.spotify.com/track/3wfyXleQB8piYZimuVLazF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/2vBwQxoey9MJ7CApSpGya9) | 4:12 | 2020-12-21 | 2022-04-13 |
 | [Dusty Eyes](https://open.spotify.com/track/3xfJgzcVon7k82PsS30xvL) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/78JRVney9Ma3xEVGSG5xYy) | 4:37 | 2020-12-21 | 2022-04-15 |
 | [Early Hours](https://open.spotify.com/track/13HLmDvhQ3FeIBETJoYK2m) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 4:19 | 2022-07-20 | 2022-07-29 |

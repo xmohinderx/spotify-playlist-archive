@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 397673,
       "name": "1.1 - 7.5.19",
       "url": "https://open.spotify.com/track/2KyWSfiYsyWdAlfML3EX2Z"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263851,
       "name": "Distant - Drone Mix",
       "url": "https://open.spotify.com/track/0MAhzaMVquiCYKzmhydblv"
@@ -1747,7 +1747,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 302266,
       "name": "Kokaral",
       "url": "https://open.spotify.com/track/1v1TqKk1yakQHJ1QxwmC0p"
@@ -2687,6 +2687,24 @@
       "duration_ms": 222241,
       "name": "Spheres",
       "url": "https://open.spotify.com/track/2svnVFyNQZr7KG706u0u0K"
+    },
+    {
+      "album": {
+        "name": "Spora",
+        "url": "https://open.spotify.com/album/2OzRGpE3w3A21eGXEAElOi"
+      },
+      "artists": [
+        {
+          "name": "Noah Faulkner",
+          "url": "https://open.spotify.com/artist/7llmnhFTdoWphUkJ4ExPvR"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142053,
+      "name": "Spora",
+      "url": "https://open.spotify.com/track/37eq8mf6CHkrvTRR8GnmYs"
     },
     {
       "album": {

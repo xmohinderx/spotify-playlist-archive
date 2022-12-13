@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 62788,
+  "num_followers": 62798,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGU0ZGYyZjNhYjY0MjIxMWQzODk4MmI4ZjgwN2E1MGQy",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGE5MGVlZTU1NTA2MmIyOTQ4MjUwYzU3ZjQyZjg4MjFj",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -315,6 +315,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Con Un Botecito A Pecho",
+        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Con Un Botecito A Pecho",
+      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -367,22 +387,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Con Un Botecito A Pecho",
-        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
+        "name": "Aqu\u00ed Abajo",
+        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 176133,
-      "name": "Con Un Botecito A Pecho",
-      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+      "duration_ms": 144360,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -435,6 +451,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 228989,
+      "name": "Ella Que\u0301 Te Dio",
+      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "La Misma Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
       },
@@ -463,42 +499,6 @@
       "duration_ms": 236480,
       "name": "Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Aqu\u00ed Abajo",
-        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 228989,
-      "name": "Ella Que\u0301 Te Dio",
-      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -535,6 +535,42 @@
       "duration_ms": 178980,
       "name": "No Lo Pod\u00eda Hacer Mejor",
       "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Tus Desprecios",
+        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 142819,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 233546,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -587,42 +623,6 @@
       "duration_ms": 198960,
       "name": "Qu\u00e9 Ganas De Verte",
       "url": "https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Tus Desprecios",
-        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 142819,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 233546,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Que Digan Lo Que Digan",
+        "url": "https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "Que Digan Lo Que Digan",
+      "url": "https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "De Vez En Cuando",
         "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
       },
@@ -711,38 +727,6 @@
       "duration_ms": 213329,
       "name": "De Vez En Cuando",
       "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Que Digan Lo Que Digan",
-        "url": "https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 172573,
-      "name": "Que Digan Lo Que Digan",
-      "url": "https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -767,6 +751,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 194066,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Todo Cuanto Tuve",
+        "url": "https://open.spotify.com/album/1BNiuAljuo2eYq65BqvzTh"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 149665,
+      "name": "Todo Cuanto Tuve",
+      "url": "https://open.spotify.com/track/6JwjqMU4RLbtLkBjfxpOoA"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Todo Cuanto Tuve",
-        "url": "https://open.spotify.com/album/1BNiuAljuo2eYq65BqvzTh"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 149665,
-      "name": "Todo Cuanto Tuve",
-      "url": "https://open.spotify.com/track/6JwjqMU4RLbtLkBjfxpOoA"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "P\u00eddeme",
         "url": "https://open.spotify.com/album/6QRBG30LYs5knvpB9bZ3HK"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+      "duration_ms": 185680,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -999,34 +1015,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "La Tequilera",
-        "url": "https://open.spotify.com/album/2iENy4iizJb4kSR1Y0T2aR"
+        "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
       },
       "artists": [
         {
-          "name": "Paulina Del Campo",
-          "url": "https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt"
-        }
-      ],
-      "duration_ms": 137257,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/56SI5fgdbkPLXualiABtsa"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 185680,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi"
+      "duration_ms": 188066,
+      "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
+        "name": "La Tequilera",
+        "url": "https://open.spotify.com/album/2iENy4iizJb4kSR1Y0T2aR"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Paulina Del Campo",
+          "url": "https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt"
         }
       ],
-      "duration_ms": 188066,
-      "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
+      "duration_ms": 137257,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/56SI5fgdbkPLXualiABtsa"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 183251,
-      "name": "Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Si Hay Otra Vida",
         "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 204692,
       "name": "Si Hay Otra Vida",
       "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 183251,
+      "name": "Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Olv\u00eddalo",
+        "url": "https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 196760,
+      "name": "Olv\u00eddalo",
+      "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/6DlpxVdn2Pzyu0UISlJDDs"
       },
@@ -1267,38 +1283,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Olv\u00eddalo",
-        "url": "https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 196760,
-      "name": "Olv\u00eddalo",
-      "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 193333,
       "name": "Camino de Guanajuato",
       "url": "https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 215487,
+      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Quinto Elemento (Deluxe)",
         "url": "https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX"
       },
@@ -1395,6 +1411,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Pero Me Acuerdo de Ti",
+        "url": "https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 255759,
+      "name": "Pero Me Acuerdo de Ti",
+      "url": "https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Ya no me importa",
         "url": "https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf"
       },
@@ -1411,22 +1443,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Hoy Te Manifiesto (En Vivo)",
-        "url": "https://open.spotify.com/album/62XufSGztVePCTjjVcsHKZ"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 335666,
-      "name": "Hoy Te Manifiesto - En Vivo",
-      "url": "https://open.spotify.com/track/2UQ5SfMKJHuSTc3lKu5PnD"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Una Tarde De Abril",
         "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 173148,
       "name": "Una Tarde De Abril",
       "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 215487,
-      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1491,34 +1491,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Pero Me Acuerdo de Ti",
-        "url": "https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9"
+        "name": "Hoy Te Manifiesto (En Vivo)",
+        "url": "https://open.spotify.com/album/62XufSGztVePCTjjVcsHKZ"
       },
       "artists": [
         {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 255759,
-      "name": "Pero Me Acuerdo de Ti",
-      "url": "https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "La Derrota",
-        "url": "https://open.spotify.com/album/0OLfv4jBTgcTLw42kEHJ4I"
-      },
-      "artists": [
-        {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/3CbJo5BR6Sbr708oJ9uic6"
+      "duration_ms": 335666,
+      "name": "Hoy Te Manifiesto - En Vivo",
+      "url": "https://open.spotify.com/track/2UQ5SfMKJHuSTc3lKu5PnD"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 140173,
       "name": "Decid\u00ed Olvidarte",
       "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "La Derrota",
+        "url": "https://open.spotify.com/album/0OLfv4jBTgcTLw42kEHJ4I"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/3CbJo5BR6Sbr708oJ9uic6"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
-      },
-      "artists": [
-        {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
         "url": "https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Nadie Me Cree",
-        "url": "https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO"
+        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Nadie Me Cree",
-      "url": "https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4"
+      "duration_ms": 192480,
+      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Nadie Me Cree",
+        "url": "https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Nadie Me Cree",
+      "url": "https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Porqu\u00e9 Como T\u00fa",
         "url": "https://open.spotify.com/album/38mjeIx9MryT6uUTHXcHNU"
       },
@@ -1695,6 +1695,26 @@
       "duration_ms": 239520,
       "name": "Porqu\u00e9 Como T\u00fa",
       "url": "https://open.spotify.com/track/0RuwQiOJAqcDqnnMMzkcYf"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Invasi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/3iFlXPKEoIKgQJtryXvL28"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1731,26 +1751,6 @@
       "duration_ms": 206477,
       "name": "No Mereces Tanto",
       "url": "https://open.spotify.com/track/3JyUkAAwKKAwlE7QW94e4c"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Invasi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/3iFlXPKEoIKgQJtryXvL28"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Algo Que Contar",
-        "url": "https://open.spotify.com/album/5Pv9gYFl5grUjFv53YppDH"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Esparza",
-          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
-        }
-      ],
-      "duration_ms": 154944,
-      "name": "Algo Que Contar",
-      "url": "https://open.spotify.com/track/4aQ2F1tvhcKYoefTiQAha0"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 213428,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Algo Que Contar",
+        "url": "https://open.spotify.com/album/5Pv9gYFl5grUjFv53YppDH"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Esparza",
+          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
+        }
+      ],
+      "duration_ms": 154944,
+      "name": "Algo Que Contar",
+      "url": "https://open.spotify.com/track/4aQ2F1tvhcKYoefTiQAha0"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Quiero Confesarte",
-        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
-      },
-      "artists": [
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
-        }
-      ],
-      "duration_ms": 155365,
-      "name": "Quiero Confesarte",
-      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "La Cama De Piedra - En Vivo",
         "url": "https://open.spotify.com/album/1ZbZ0QuREWjRNACbmpaDOs"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 185893,
       "name": "La Cama De Piedra - En Vivo",
       "url": "https://open.spotify.com/track/7mE8wNvsolFyp1pCNVunvQ"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Quiero Confesarte",
+        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
+      },
+      "artists": [
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "duration_ms": 155365,
+      "name": "Quiero Confesarte",
+      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
     },
     {
       "added_at": "2022-07-29 04:00:00",

@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-238 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
+239 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [I'm Glad There Is You](https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe) | 4:09 | 2021-12-17 | 2022-07-29 |
 | [I'm Glad There Is You](https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:27 | 2021-12-17 | 2022-11-16 |
 | [I'm Glad There Is You](https://open.spotify.com/track/4hzhqGOEoAjcFekGHmouO0) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan with Clifford Brown \(Expanded, Hd Remastered\)](https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT) | 5:09 | 2021-12-17 | 2022-07-29 |
+| [I'm Never Happy Anymore](https://open.spotify.com/track/6sQmzCpG7ODbngsZU0pMw0) | [Gary Smulyan](https://open.spotify.com/artist/0MiVmp7Os3I5vpMQU01yly) | [Tadd's All, Folks](https://open.spotify.com/album/0haNdQSDRCh0Nz4cKMTuoT) | 7:38 | 2022-12-06 |  |
 | [If I Had You](https://open.spotify.com/track/6htL8eAdOScorA0ooaoL5k) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 5:28 | 2022-03-25 |  |
 | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ) | 3:41 | 2022-04-14 |  |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-03-25 |  |
@@ -197,7 +198,7 @@
 | [The Man I Love](https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:50 | 2021-12-17 |  |
 | [The Man That Got Away](https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 5:29 | 2021-12-17 |  |
 | [The Nearness of You](https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt) | [Camille Harris](https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL), [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l) | [The Nearness of You](https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu) | 5:03 | 2022-02-18 |  |
-| [The Nearness of You](https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:33 | 2022-09-27 |  |
+| [The Nearness of You](https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:33 | 2022-09-27 | 2022-12-13 |
 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 | 2021-12-17 | 2022-07-29 |
 | [The Nearness Of You](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:07 | 2022-07-28 | 2022-09-15 |
 | [The Summer Wind](https://open.spotify.com/track/6T407MUyMd4d0NZrvUNj3q) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/3KniUiE1O3h7CWWJ6eByiY) | 3:54 | 2021-12-17 | 2022-07-29 |

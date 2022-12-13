@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del Rock en Español\. Cover: Paulo Londra
 
-122 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
+124 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Amanecer Distinto](https://open.spotify.com/track/7iqkAo06Zi7Oqrx3sMXSfv) | [Los Tempestades](https://open.spotify.com/artist/1pCufdD30Lg2ipgL59qYLo) | [Amanecer Distinto](https://open.spotify.com/album/2PIzXBzk6modgFwPi90rEJ) | 2:12 | 2022-04-15 | 2022-12-10 |
 | [Amigos](https://open.spotify.com/track/03Ut12qXLWyH7pn20nsNMh) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Amigos](https://open.spotify.com/album/1qVba1vMR9T1DsuCgD3E5P) | 3:12 | 2022-07-19 |  |
 | [Amores Mios \- Poca Madre Dancing Club](https://open.spotify.com/track/7c7MNnmBtzNWRwUYT4nmcS) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Amores Mios \(Poca Madre Dancing Club\)](https://open.spotify.com/album/09NRH51HivrhkAkIedt5Gu) | 3:52 | 2022-04-15 | 2022-12-10 |
+| [Amores Prohibidos](https://open.spotify.com/track/7GpNKzUbcQ5wJfY6IWrQWe) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Amores Prohibidos](https://open.spotify.com/album/3UtKEUIbn6eO4buBE826We) | 3:15 | 2022-12-13 |  |
 | [Araña Subnormal](https://open.spotify.com/track/65aiOgU3pRWB6tA7BoPlXy) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Araña Subnormal](https://open.spotify.com/album/51IevSRC4jUK4h6xMahZA4) | 4:01 | 2022-04-15 | 2022-12-10 |
 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 | 2022-04-15 |  |
 | [Baila](https://open.spotify.com/track/4PtZLOZWhq26oPaGegF1BF) | [Costera](https://open.spotify.com/artist/5JpCxwOe867Dbf62kLcQQM) | [Baila](https://open.spotify.com/album/1T6x46OfNbckEzfniu5kCn) | 4:16 | 2022-04-15 | 2022-12-10 |
@@ -69,6 +70,7 @@
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-04-15 |  |
 | [La Despedida](https://open.spotify.com/track/7sRV1vbWO6eiSHMc2LDcFt) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD) | [La Despedida](https://open.spotify.com/album/72KvjC47bQejCXrTaqGEIT) | 3:42 | 2022-04-15 | 2022-12-10 |
 | [La Fórmula Secreta](https://open.spotify.com/track/1hbmlgKAdNqA6WHBKht7S1) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:59 | 2022-04-15 | 2022-12-10 |
+| [La Llave](https://open.spotify.com/track/1DJcyrh1PserkiE2IZ9Q7G) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:06 | 2022-12-13 |  |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-04-15 |  |
 | [La Niña Escopeta](https://open.spotify.com/track/0BPUqjCuMStKN4cTpXmpfB) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [La Niña Escopeta](https://open.spotify.com/album/32amwzZttOClt5ce6T6rLs) | 3:27 | 2022-07-19 |  |
 | [La Petite Mort](https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Petite Mort](https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd) | 4:51 | 2022-04-15 |  |
@@ -84,7 +86,7 @@
 | [Mota o Perreo](https://open.spotify.com/track/0MRB04KQD10chU3wJjPIww) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Nombrar las Cosas](https://open.spotify.com/album/3BqdeMQuHncO2zm5SW1s4t) | 2:24 | 2022-04-15 |  |
 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 | 2022-04-15 | 2022-12-10 |
 | [No Es Para Todos](https://open.spotify.com/track/5vsZ9Uunj2VFGW4YnX71t3) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [No es para todos](https://open.spotify.com/album/3Q1V5xmb2EvSob6xKKO2DU) | 1:33 | 2022-04-15 | 2022-12-10 |
-| [No Estoy Roto](https://open.spotify.com/track/4jT6v8PugBI98OFU1I9SJs) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [No Estoy Roto](https://open.spotify.com/album/47GSu9M63q84E8iNFeXu6A) | 4:13 | 2022-04-15 |  |
+| [No Estoy Roto](https://open.spotify.com/track/4jT6v8PugBI98OFU1I9SJs) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [No Estoy Roto](https://open.spotify.com/album/47GSu9M63q84E8iNFeXu6A) | 4:13 | 2022-04-15 | 2022-12-13 |
 | [No Hay Santos](https://open.spotify.com/track/7DKQCK4zNtLFy2qy0AopOB) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Nuevos Silencios](https://open.spotify.com/album/0HsZpQ6L8DJgSUFNSazZoG) | 2:44 | 2022-04-15 | 2022-12-10 |
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 |  |
 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 | 2022-04-15 |  |
@@ -123,7 +125,7 @@
 | [Tres de la Mañana](https://open.spotify.com/track/08eri7cwIdWuJrlFrcPH3M) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [El Shirota \(ESH002\)](https://open.spotify.com/album/0tC6X64WVn71CSRDeLljQ8) | 4:35 | 2022-04-15 | 2022-12-10 |
 | [Trueno](https://open.spotify.com/track/7kBi255cSaTNYI6bNq3Yf3) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Trueno](https://open.spotify.com/album/0jqnLzo96FODjGzBeXFmXe) | 4:20 | 2022-04-15 | 2022-12-10 |
 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 | 2022-04-15 |  |
-| [Vigilantes del Espejo](https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Detrás del Espejo: Variaciones y Ecos](https://open.spotify.com/album/3fnqOpqZRoC8rol5S1pgRh) | 3:23 | 2022-04-15 |  |
+| [Vigilantes del Espejo](https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Detrás del Espejo: Variaciones y Ecos](https://open.spotify.com/album/3fnqOpqZRoC8rol5S1pgRh) | 3:23 | 2022-04-15 | 2022-12-13 |
 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 | 2022-07-19 |  |
 | [When I'm Down](https://open.spotify.com/track/2TCdV9BPqra1Xx8taVwyFC) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 2:22 | 2022-04-15 | 2022-12-10 |
 | [Witches](https://open.spotify.com/track/3XoSb47bCtKeqZkJuLN1UD) | [Elefangs](https://open.spotify.com/artist/1PXCJheCUd6J5YOk0AX0iU) | [II](https://open.spotify.com/album/59vszOgawI6rMXUDPO4yef) | 4:28 | 2022-04-15 | 2022-12-10 |

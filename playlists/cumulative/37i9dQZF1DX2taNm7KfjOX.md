@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Skullcrusher
 
-447 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
+448 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Dyan](https://open.spotify.com/track/1cCHgtg8lfmjL4nQhqlRb1) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/2MTKjNpZDTNTjn3FRbuAfx) | 2:38 | 2021-10-22 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/6e4E1UzuXQMVChJ6TgIOv5) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy](https://open.spotify.com/album/4zPlrT0LVP56XnNdpNYV7T) | 4:01 | 2022-01-14 | 2022-07-29 |
 | [Easy Way Out](https://open.spotify.com/track/3oOv0oaIqTwJhTNqA1HiGP) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Easy Way Out](https://open.spotify.com/album/3Dt0kC5ZGdlzxWke1esOwu) | 4:37 | 2021-10-22 | 2022-07-18 |
-| [Easy Way Out](https://open.spotify.com/track/7LxDRQTixbz1RpJNQubcFe) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ) | 4:37 | 2022-06-24 |  |
+| [Easy Way Out](https://open.spotify.com/track/7LxDRQTixbz1RpJNQubcFe) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ) | 4:37 | 2022-06-24 | 2022-12-13 |
 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 | 2021-10-22 | 2022-07-29 |
 | [Eloise](https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Finch](https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo) | 2:48 | 2021-10-22 |  |
 | [Emma](https://open.spotify.com/track/3JuorOgRlJVqX9zAf8BZRo) | [Silences](https://open.spotify.com/artist/2O7t5nO7qGlTbKxRXVBmBT) | [Nevernames](https://open.spotify.com/album/2tBjQfTQyFwLhmYbfxB59D) | 3:24 | 2022-04-13 | 2022-04-20 |
@@ -198,7 +198,7 @@
 | [hurt](https://open.spotify.com/track/0Z6MipZlqgxbRFuGuy8T96) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [can't stop me from dying](https://open.spotify.com/album/4oI0qHNRiLEvoCi2OPViDo) | 3:31 | 2021-10-22 | 2022-07-27 |
 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 | 2021-10-22 | 2022-07-28 |
 | [I Already Love You](https://open.spotify.com/track/5LnoFWBShDRuEqd7VqduGB) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [I Already Love You](https://open.spotify.com/album/2N9Uz5Yq7cCkDF2B3yqZCF) | 3:23 | 2021-10-22 | 2022-07-27 |
-| [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2022-04-13 |  |
+| [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2022-04-13 | 2022-12-13 |
 | [I Don't Think You're an Angel \(Anymore\)](https://open.spotify.com/track/6Hbt5RBxPN1QBvNdlyGMuO) | [Kate Rhudy](https://open.spotify.com/artist/4SvVZW9Hpl9QBXGo7THYXe) | [Rock N' Roll Ain't for Me](https://open.spotify.com/album/7EYxXB1MfMwdmwV123RInX) | 4:18 | 2021-10-22 | 2022-06-10 |
 | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW) | 3:19 | 2022-02-25 |  |
 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 | 2021-10-22 |  |
@@ -421,7 +421,7 @@
 | [Waiting for You](https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe) | 3:06 | 2022-06-24 | 2022-10-14 |
 | [Waiting For You](https://open.spotify.com/track/7L5BQEm6e6MQr3CimiFicS) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/4OmQr4L8PY6HIUiGgA2f6W) | 3:06 | 2022-04-13 | 2022-04-20 |
 | [Walk Away](https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Personal History](https://open.spotify.com/album/6boV9BoOGBvjoQ3YugOW3n) | 3:12 | 2021-10-22 | 2022-07-22 |
-| [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-10-22 | 2022-06-15 |
+| [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-10-22 |  |
 | [Wasted](https://open.spotify.com/track/01EZT06EIdnVOLl96Parta) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Wasted](https://open.spotify.com/album/2L78qBH9kCRwbX4o6rPpWs) | 2:29 | 2021-10-22 | 2022-07-29 |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2022-06-24 |  |
 | [Water Flowing Downward](https://open.spotify.com/track/7nvxj8fbIpGurKhR3AflFh) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Water Flowing Downward](https://open.spotify.com/album/4SMyRbk8s86UtDANoXI0xV) | 3:25 | 2021-10-22 | 2022-07-29 |
@@ -444,6 +444,7 @@
 | [Without a Face](https://open.spotify.com/track/5AE8JSskG5qY6ZlZ0JvKHC) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Passerby](https://open.spotify.com/album/3YMi92E4Jwp6mKfdtI8gex) | 3:44 | 2022-04-13 | 2022-04-21 |
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-10-22 |  |
 | [Wolves](https://open.spotify.com/track/33q6BHmiBzHVGkaFAXoRHu) | [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Wolves](https://open.spotify.com/album/32EpdWxYe2Rmzz6Ci95F3G) | 3:09 | 2022-04-13 | 2022-04-19 |
+| [Words](https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Words](https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28) | 5:25 | 2022-12-13 |  |
 | [Worship the Sun](https://open.spotify.com/track/3Seg3sd8Hm9YLA80TuCrvg) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Worship the Sun](https://open.spotify.com/album/4B8BE4Ktea24OMTx9opETR) | 4:09 | 2021-11-19 | 2022-07-28 |
 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 | 2022-10-14 |  |
 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 | 2021-10-22 |  |

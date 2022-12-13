@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,620 likes - 123 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,976 likes - 123 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

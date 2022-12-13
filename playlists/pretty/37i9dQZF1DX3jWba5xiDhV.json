@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 69220,
+  "num_followers": 69477,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMGI5ODc3MTNjNzY0ZWE5MTg0MjJmZGMzNzkzMGNiYThl",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDRkOTRhZTI0MzUzYzIxZTE3MmY1ZmRkNTIzMzdhMzdm",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "She Can't Love You",
-        "url": "https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5"
-      },
-      "artists": [
-        {
-          "name": "Chemise",
-          "url": "https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS"
-        }
-      ],
-      "duration_ms": 325802,
-      "name": "She Can't Love You",
-      "url": "https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 278029,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "She Can't Love You",
+        "url": "https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5"
+      },
+      "artists": [
+        {
+          "name": "Chemise",
+          "url": "https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS"
+        }
+      ],
+      "duration_ms": 325802,
+      "name": "She Can't Love You",
+      "url": "https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 233640,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -383,38 +383,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Barbara e altri Carella",
-        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
-      },
-      "artists": [
-        {
-          "name": "Enzo Carella",
-          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Barbara",
-      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
@@ -435,6 +403,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Barbara e altri Carella",
+        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Carella",
+          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Vado al massimo (Remastered)",
         "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 279213,
       "name": "Splendida giornata",
       "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Greatest Hits &amp; Remixes",
-        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
-      },
-      "artists": [
-        {
-          "name": "Koto",
-          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Visitors",
-      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
         "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "I Need You Tonight / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+        "name": "Greatest Hits &amp; Remixes",
+        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
       },
       "artists": [
         {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+          "name": "Koto",
+          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
         }
       ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+      "duration_ms": 212253,
+      "name": "Visitors",
+      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -635,18 +619,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Radio Koko",
-        "url": "https://open.spotify.com/album/669LnrL7wSJOhiwQxRM8gT"
+        "name": "I Need You Tonight / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
       "artists": [
         {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
         }
       ],
-      "duration_ms": 261330,
-      "name": "Pantal\u00f3n",
-      "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -663,6 +647,22 @@
       "duration_ms": 246106,
       "name": "Color My Love",
       "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Radio Koko",
+        "url": "https://open.spotify.com/album/669LnrL7wSJOhiwQxRM8gT"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        }
+      ],
+      "duration_ms": 261330,
+      "name": "Pantal\u00f3n",
+      "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
+        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
+      },
+      "artists": [
+        {
+          "name": "Freddy The Flying Dutchman",
+          "url": "https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb"
+        },
+        {
+          "name": "The Sistina Band",
+          "url": "https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Wojtila 5. Disco Dance",
+      "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Italiana Vol. 1",
         "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
-        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
-      },
-      "artists": [
-        {
-          "name": "Freddy The Flying Dutchman",
-          "url": "https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb"
-        },
-        {
-          "name": "The Sistina Band",
-          "url": "https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Wojtila 5. Disco Dance",
-      "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Discamore",
-        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Discamore",
-      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 281840,
       "name": "Hildegard",
       "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Discamore",
+        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Discamore",
+      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Phazerdelique",
-        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
-      },
-      "artists": [
-        {
-          "name": "Kim And Buran",
-          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Phazerdelique - Extended Mix",
-      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "The Sound of Tony Esposito",
         "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 313133,
       "name": "Kalimba de luna",
       "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Phazerdelique",
+        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
+      },
+      "artists": [
+        {
+          "name": "Kim And Buran",
+          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Phazerdelique - Extended Mix",
+      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Baila Bolero (Marc Hartman Remix)",
-        "url": "https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4"
+        "name": "Italo Disco Vol. 2",
+        "url": "https://open.spotify.com/album/1Akyh6zkWizFkp101VjwTK"
       },
       "artists": [
         {
-          "name": "Fun Fun",
-          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
-        },
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
+          "name": "Gang",
+          "url": "https://open.spotify.com/artist/6w6I1RM8AvngUMogImmkxj"
         }
       ],
-      "duration_ms": 300773,
-      "name": "Baila Bolero - Marc Hartman Remix",
-      "url": "https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH"
+      "duration_ms": 313813,
+      "name": "KKK",
+      "url": "https://open.spotify.com/track/0exbk0My19GkSkpsz2SHqv"
     }
   ],
   "unique_name": "Italo Disco",

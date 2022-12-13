@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 102427,
+  "num_followers": 102445,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM2NjA0MywwMDAwMDAwMDZmYTBmNzhhNWZjZTcwYjA2NmQ4ZTY0MjFjNDBhNWNj",
+  "snapshot_id": "MTY3MDM2NjA0MywwMDAwMDAwMDAyYzUxZTNkYzY1M2Q4ZWY1YzFlMDM2YTliMDlmZTA3",
   "tracks": [
     {
       "added_at": "2022-12-06 22:34:03",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
         "name": "De Ti",
         "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "Galerna",
-        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
-      },
-      "artists": [
-        {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
-        },
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 188901,
-      "name": "Galerna",
-      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "Galerna",
+        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
+      },
+      "artists": [
+        {
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "duration_ms": 188901,
+      "name": "Galerna",
+      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 204490,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
         "name": "Limo",
         "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 174853,
       "name": "Limo",
       "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 204490,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -763,18 +763,26 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "Para Ti No",
-        "url": "https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9"
+        "name": "Supersad",
+        "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
       "artists": [
         {
-          "name": "ANGEL22",
-          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 199046,
-      "name": "Para Ti No",
-      "url": "https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV"
+      "duration_ms": 215777,
+      "name": "Supersad",
+      "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -799,26 +807,18 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "Supersad",
-        "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
+        "name": "Para Ti No",
+        "url": "https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9"
       },
       "artists": [
         {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
         }
       ],
-      "duration_ms": 215777,
-      "name": "Supersad",
-      "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
+      "duration_ms": 199046,
+      "name": "Para Ti No",
+      "url": "https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "Uh Huh",
-        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 163541,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
         "name": "Conoce",
         "url": "https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 219130,
       "name": "Conoce",
       "url": "https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 163541,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "CU\u00c1NTO",
-        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
       },
       "artists": [
         {
-          "name": "CIAN",
-          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
         }
       ],
-      "duration_ms": 172430,
-      "name": "CU\u00c1NTO",
-      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
+      "duration_ms": 173373,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "dime que si :)",
-        "url": "https://open.spotify.com/album/41bwmFwFiWwudFArZHVNFu"
+        "name": "CU\u00c1NTO",
+        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
       },
       "artists": [
         {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+          "name": "CIAN",
+          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
         }
       ],
-      "duration_ms": 167041,
-      "name": "dime que si :)",
-      "url": "https://open.spotify.com/track/4eh0rsvnBgw8CKKZPY5r5D"
+      "duration_ms": 172430,
+      "name": "CU\u00c1NTO",
+      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1071,22 +1055,6 @@
       "duration_ms": 178500,
       "name": "Mala",
       "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
-        "name": "Quiero (TDH's Version)",
-        "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 157920,
-      "name": "Quiero - TDH's Version",
-      "url": "https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1123,6 +1091,42 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
+        "name": "Quiero (TDH's Version)",
+        "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 157920,
+      "name": "Quiero - TDH's Version",
+      "url": "https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        },
+        {
+          "name": "Kobi Cantillo",
+          "url": "https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h"
+        }
+      ],
+      "duration_ms": 159052,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -1155,6 +1159,22 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
+        "name": "dime que si :)",
+        "url": "https://open.spotify.com/album/41bwmFwFiWwudFArZHVNFu"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 167041,
+      "name": "dime que si :)",
+      "url": "https://open.spotify.com/track/4eh0rsvnBgw8CKKZPY5r5D"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
       },
@@ -1171,22 +1191,42 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv"
+        "name": "La Corriente",
+        "url": "https://open.spotify.com/album/1FVv5DkYsVlPXrxRbT777f"
       },
       "artists": [
         {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         },
         {
-          "name": "Kobi Cantillo",
-          "url": "https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h"
+          "name": "Ala\u00edde",
+          "url": "https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i"
         }
       ],
-      "duration_ms": 159052,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD"
+      "duration_ms": 166086,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1227,26 +1267,6 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "Na Pa Ti (feat. Kofi)",
-        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        }
-      ],
-      "duration_ms": 173098,
-      "name": "Na Pa Ti (feat. Kofi)",
-      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
         "name": "Nela",
         "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
       },
@@ -1259,6 +1279,22 @@
       "duration_ms": 163516,
       "name": "Nela",
       "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "esc\u00e1pate",
+        "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 171477,
+      "name": "esc\u00e1pate",
+      "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1299,54 +1335,18 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "esc\u00e1pate",
-        "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
+        "name": "Cerquita del Mar",
+        "url": "https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM"
       },
       "artists": [
         {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 171477,
-      "name": "esc\u00e1pate",
-      "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
-        "name": "sola",
-        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "sola",
-      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
-        "name": "La Corriente",
-        "url": "https://open.spotify.com/album/1FVv5DkYsVlPXrxRbT777f"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        },
-        {
-          "name": "Ala\u00edde",
-          "url": "https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i"
-        }
-      ],
-      "duration_ms": 166086,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM"
+      "duration_ms": 201230,
+      "name": "Cerquita del Mar",
+      "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1371,8 +1371,24 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
-        "name": "TE EXCITO",
-        "url": "https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ"
+        "name": "sola",
+        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "sola",
+      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo"
       },
       "artists": [
         {
@@ -1380,73 +1396,9 @@
           "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
         }
       ],
-      "duration_ms": 180423,
-      "name": "TE EXCITO",
-      "url": "https://open.spotify.com/track/5mckOgQpLWXGKDL7JkhinL"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
-        "name": "Cerquita del Mar",
-        "url": "https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Cerquita del Mar",
-      "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
-        "name": "DIADREAMER",
-        "url": "https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "CUERPITO DE PRIMAVERA",
-      "url": "https://open.spotify.com/track/2KR5Sp8A4ZdRdQcdeo6G68"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/14xtsQzZuSzzAz1D3Xf5vz"
-      },
-      "artists": [
-        {
-          "name": "Yari M",
-          "url": "https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/4TYakgFojzdHA9usOQS3ap"
-    },
-    {
-      "added_at": "2022-12-06 22:34:03",
-      "album": {
-        "name": "Talk Too Much",
-        "url": "https://open.spotify.com/album/0v0QagQf2BhQtUa8UAbFLc"
-      },
-      "artists": [
-        {
-          "name": "Bella Dose",
-          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/6xWmOgBNABDWJmYMsemoNK"
+      "duration_ms": 185520,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/0q1qAGERR453ach2swvAza"
     },
     {
       "added_at": "2022-12-06 22:34:03",
@@ -1467,6 +1419,38 @@
     {
       "added_at": "2022-12-06 22:34:03",
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/14xtsQzZuSzzAz1D3Xf5vz"
+      },
+      "artists": [
+        {
+          "name": "Yari M",
+          "url": "https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/4TYakgFojzdHA9usOQS3ap"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "DIADREAMER",
+        "url": "https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "CUERPITO DE PRIMAVERA",
+      "url": "https://open.spotify.com/track/2KR5Sp8A4ZdRdQcdeo6G68"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
         "name": "el vuelo",
         "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 185293,
       "name": "el vuelo",
       "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
+    },
+    {
+      "added_at": "2022-12-06 22:34:03",
+      "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/0v0QagQf2BhQtUa8UAbFLc"
+      },
+      "artists": [
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        }
+      ],
+      "duration_ms": 182044,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/6xWmOgBNABDWJmYMsemoNK"
     },
     {
       "added_at": "2022-12-06 22:34:03",

@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-796 songs - 1 day 17 hr 20 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+797 songs - 1 day 17 hr 23 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,7 +554,7 @@
 | [Prune, You Talk Funny](https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo) | 3:32 | 2022-09-14 |  |
 | [Prune, You Talk Funny](https://open.spotify.com/track/4a6r6d9mfcUQbOnrGf8jAV) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/5qzQ81l9dKKVuwsO91aGep) | 3:32 | 2019-07-30\* | 2022-07-27 |
 | [Prune, You Talk Funny](https://open.spotify.com/track/6KKHXbJtnJPjla3V49YPac) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/7GRC1eaEDxAYaBXEV6TKoj) | 3:32 | 2021-02-27 | 2022-10-13 |
-| [Punching Bag](https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm) | 2:33 | 2022-09-14 |  |
+| [Punching Bag](https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm) | 2:33 | 2022-09-14 | 2022-12-13 |
 | [Punching Bag](https://open.spotify.com/track/5yi3oFTGTVGcM9LORYom7y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5jOC8xCQy3vr0j9lMTzHtc) | 2:33 | 2021-01-15 | 2022-07-29 |
 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-02-27 | 2022-10-19 |
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-14 | 2022-11-13 |
@@ -688,6 +688,7 @@
 | [Telephone](https://open.spotify.com/track/6xJSVfI6xi51iJrbm9KjXb) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3), [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB) | [Telephone](https://open.spotify.com/album/4cRS0UJnh5r0Mj96l70Twb) | 3:29 | 2019-08-02 | 2022-06-26 |
 | [tell me if u do?](https://open.spotify.com/track/6SXO5cq6fRTrz9KEjPVbhk) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [tell me if u do?](https://open.spotify.com/album/4UTfnlpUUdcVkBcFsTyo5E) | 2:48 | 2021-10-29 | 2022-04-17 |
 | [Tell U](https://open.spotify.com/track/7HS1Y5Gzc99GhFA09SRuUM) | [Couch Prints](https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi) | [Tell U](https://open.spotify.com/album/2Wg1Uo2sNibOAqvKHrXDQZ) | 4:15 | 2019-07-30\* | 2019-11-19 |
+| [That I Miss You](https://open.spotify.com/track/1qja4itnsquIxIofomg2PE) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb) | 2:20 | 2022-09-14 |  |
 | [That I Miss You](https://open.spotify.com/track/7cneuh5BMBbqbbGrpqTDHQ) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3b35XuAzhgb25qUvPYtZOo) | 2:20 | 2019-07-31 | 2022-07-29 |
 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 | 2021-02-27 | 2022-11-26 |
 | [That's How It Goes](https://open.spotify.com/track/2RpDo48V4OfhOHFIseEt2A) | [Renwick](https://open.spotify.com/artist/4szIa4PxWNlublLR3FFocn) | [That's How It Goes](https://open.spotify.com/album/07UnJiWjpPPpP4uL1QuMI0) | 3:28 | 2019-07-31 | 2021-05-26 |

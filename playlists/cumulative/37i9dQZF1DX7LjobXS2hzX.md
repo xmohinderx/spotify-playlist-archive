@@ -4,7 +4,7 @@
 
 > Voici les hits du moment\. Photo: Stromae
 
-148 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
+149 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-09 | 2022-12-10 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-07-09 | 2022-08-06 |
 | [Flowers Need Rain](https://open.spotify.com/track/079mntueS2KWjxVqOHjG70) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain](https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN) | 2:48 | 2022-07-09 |  |
-| [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-15 |  |
+| [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-15 | 2022-12-13 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-23 | 2022-10-29 |
 | [Funambule](https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Funambule](https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2) | 2:34 | 2022-09-06 |  |
 | [Future Ex](https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Un jour de plus au paradis](https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd) | 3:01 | 2022-12-09 |  |
@@ -81,6 +81,7 @@
 | [Ici\-bas](https://open.spotify.com/track/0ylDKFr0R8Z4waaequfXux) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Les antipodes](https://open.spotify.com/album/5VJagZjgSNlplSMKQ1PzdI) | 4:07 | 2022-07-09 |  |
 | [IDGAF](https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES), [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [IDGAF](https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx) | 2:21 | 2022-07-09 |  |
 | [J'entends tout ce qui joue \( dans ta tête \)](https://open.spotify.com/track/2o50mKgFk37SMPVXKYWiR4) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [J'entends tout ce qui joue \( dans ta tête \)](https://open.spotify.com/album/1thrrLwrqLkjaEEoM3DSIm) | 3:08 | 2022-09-23 | 2022-10-01 |
+| [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 | 2022-12-12 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-02 | 2022-10-01 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-09-16 |  |
 | [La solassitude](https://open.spotify.com/track/2j3DY0QQevwFGDN0EdHGTQ) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/6EwTLRHMROD853Kv1lAMex) | 3:02 | 2022-12-09 |  |

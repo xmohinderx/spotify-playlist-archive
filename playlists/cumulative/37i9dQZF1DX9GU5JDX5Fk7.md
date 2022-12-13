@@ -4,7 +4,7 @@
 
 > Enjoy the soundtrack of the drama 'Reborn Rich'! This playlist contains 10 songs to listen to to get revenge on the person/world that gave you a hard time selected by the actors\. \(드라마 '재벌집 막내아들'의 사운드 트랙을 감상해보세요! 본 플레이리스트에는 배우진들이 선정한 '날 힘들게 한 사람/세상에게 복수하기 위해 들어야 할 노래 10 곡'이 포함되어 있습니다.\)
 
-18 songs - 1 hr 0 min - not published yet
+20 songs - 1 hr 7 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,8 @@
 | [I'm in love you \(Inst.\)](https://open.spotify.com/track/3UGgKDmMYLealvndmDLnFv) | [SeoDaHyun \(tripleS\)](https://open.spotify.com/artist/6NEEmLZEda7n5paqlYTO4v) | [Reborn Rich \(Original Soundtrack\), Pt\. 3](https://open.spotify.com/album/0fqZ2Nnm9az1DcWWSTAFIO) | 3:58 | 2022-12-05 |  |
 | [Infectious \(Til Infinity\)](https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 3:35 | 2022-11-29 |  |
 | [last day](https://open.spotify.com/track/0ICkuRd0qNZDZY82kGhs89) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Unwanted Life](https://open.spotify.com/album/3PUy3iSMoPWXNLezd6bi3r) | 2:09 | 2022-11-29 |  |
+| [Like a Star](https://open.spotify.com/track/0uoXefj4KKRp6K30YGpMgP) | [MOON SUA\(Billlie\)](https://open.spotify.com/artist/1EC3MS97YT9lOI8YHSmOYp) | [Reborn Rich \(Original Soundtrack\), Pt\. 4](https://open.spotify.com/album/2dRVuhkmaPDdRFGiqIarIV) | 3:35 | 2022-12-12 |  |
+| [Like a Star \(Inst.\)](https://open.spotify.com/track/4cjIVTnbIaYVWSrWWVzBJO) | [MOON SUA\(Billlie\)](https://open.spotify.com/artist/1EC3MS97YT9lOI8YHSmOYp) | [Reborn Rich \(Original Soundtrack\), Pt\. 4](https://open.spotify.com/album/2dRVuhkmaPDdRFGiqIarIV) | 3:35 | 2022-12-12 |  |
 | [MIRACLE\(Album version\)](https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 2:03 | 2022-11-29 |  |
 | [MOTHER](https://open.spotify.com/track/1XjQsmzgRxxEgSNPjOLNFK) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Reborn Rich \(Original Soundtrack\), Pt\. 2](https://open.spotify.com/album/1kr1EKP31XoRuIYtUPPBQW) | 4:49 | 2022-11-29 |  |
 | [MOTHER \(Inst.\)](https://open.spotify.com/track/7MoMd5gHbz8Ekzh7DjHATg) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Reborn Rich \(Original Soundtrack\), Pt\. 2](https://open.spotify.com/album/1kr1EKP31XoRuIYtUPPBQW) | 4:49 | 2022-11-29 |  |

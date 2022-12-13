@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Popcaan",
-  "num_followers": 343713,
+  "num_followers": 343908,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNTA3MywwMDAwMDAwMDNmMzcxZDM2MjYzOTJiNzJkZTAwMTE4NjI2OGYxYWM2",
+  "snapshot_id": "MTY2MjcyNTA3MywwMDAwMDAwMGI3OGZjZTczYzYxYWQ2YzBmZjdiOTUxNGI4YjlhZTgy",
   "tracks": [
     {
       "added_at": "2022-09-09 12:04:33",
@@ -283,6 +283,42 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
+        "name": "Pull up to Mi Bumper",
+        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "J Capri",
+          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
+        }
+      ],
+      "duration_ms": 150279,
+      "name": "Pull up to Mi Bumper",
+      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Nobody Has to Know",
+      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
         "name": "Verified Choppa 2",
         "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
       },
@@ -319,42 +355,6 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Nobody Has to Know",
-      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Pull up to Mi Bumper",
-        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "J Capri",
-          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
-        }
-      ],
-      "duration_ms": 150279,
-      "name": "Pull up to Mi Bumper",
-      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
         "name": "Stronger We Get",
         "url": "https://open.spotify.com/album/39jYUlDsrXJPtfucwq4f3F"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 171092,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
         "name": "No Games",
         "url": "https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 188200,
       "name": "No Games",
       "url": "https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
+        "name": "In The Morning (Let Your Love Come In)",
+        "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
+      },
+      "artists": [
+        {
+          "name": "Egypt",
+          "url": "https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "In The Morning (Let Your Love Come In) - Original Radio Edit",
+      "url": "https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "In The Morning (Let Your Love Come In)",
-        "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
+        "name": "Ova Dweet - Single",
+        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
       },
       "artists": [
         {
-          "name": "Egypt",
-          "url": "https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 134785,
-      "name": "In The Morning (Let Your Love Come In) - Original Radio Edit",
-      "url": "https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84"
+      "duration_ms": 221194,
+      "name": "Ova Dweet",
+      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -555,22 +571,6 @@
       "duration_ms": 185002,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Ova Dweet - Single",
-        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 221194,
-      "name": "Ova Dweet",
-      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "Party Hard",
-        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Party Hard",
-      "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
         "name": "Romping Shop",
         "url": "https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 213600,
       "name": "Romping Shop",
       "url": "https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Party Hard",
+      "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "Head, Shoulders, Kneez & Toez",
-        "url": "https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv"
+        "name": "I Am Blessed",
+        "url": "https://open.spotify.com/album/2OBChPG9zg8lu4XL3UgY0A"
       },
       "artists": [
         {
-          "name": "K.I.G",
-          "url": "https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj"
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 212800,
-      "name": "Head, Shoulders, Kneez & Toez - Radio Edit",
-      "url": "https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ"
+      "duration_ms": 188893,
+      "name": "I Am Blessed",
+      "url": "https://open.spotify.com/track/1gpA7IZTNvrL6DUuc4qDPx"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "I Am Blessed",
-        "url": "https://open.spotify.com/album/2OBChPG9zg8lu4XL3UgY0A"
+        "name": "Head, Shoulders, Kneez & Toez",
+        "url": "https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv"
       },
       "artists": [
         {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+          "name": "K.I.G",
+          "url": "https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj"
         }
       ],
-      "duration_ms": 188893,
-      "name": "I Am Blessed",
-      "url": "https://open.spotify.com/track/1gpA7IZTNvrL6DUuc4qDPx"
+      "duration_ms": 212800,
+      "name": "Head, Shoulders, Kneez & Toez - Radio Edit",
+      "url": "https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -971,6 +971,38 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Top Prize",
+      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "Strictly The Best Vol 33",
+        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Willie Bounce",
+      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
         "name": "Heavy!",
         "url": "https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9"
       },
@@ -1003,38 +1035,6 @@
       "duration_ms": 233125,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Strictly The Best Vol 33",
-        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Willie Bounce",
-      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Top Prize",
-      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -1087,6 +1087,38 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
+        "name": "Bookshelf Riddim",
+        "url": "https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Deport Them",
+      "url": "https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "Ocean Wave",
+        "url": "https://open.spotify.com/album/722vGdkmCeXfKriYdKonto"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ocean Wave",
+      "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
         "name": "Ghetto Story (Explicit Content U.S. Version)",
         "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
       },
@@ -1123,38 +1155,6 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "Bookshelf Riddim",
-        "url": "https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Deport Them",
-      "url": "https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Ocean Wave",
-        "url": "https://open.spotify.com/album/722vGdkmCeXfKriYdKonto"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ocean Wave",
-      "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
       },
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
+        "name": "Buzz Riddim",
+        "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Give Me the Light",
+      "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
         "name": "Riddim Driven: Smash",
         "url": "https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh"
       },
@@ -1199,6 +1215,26 @@
       "duration_ms": 187506,
       "name": "Dutty Wine",
       "url": "https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "I Am Great",
+        "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
+      },
+      "artists": [
+        {
+          "name": "I-Octane",
+          "url": "https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS"
+        },
+        {
+          "name": "Rygin King",
+          "url": "https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr"
+        }
+      ],
+      "duration_ms": 187711,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -1223,26 +1259,6 @@
       "duration_ms": 234858,
       "name": "Elegance (Remix)",
       "url": "https://open.spotify.com/track/6dJRflqO0CBFUmTpdOKy0L"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "I Am Great",
-        "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
-      },
-      "artists": [
-        {
-          "name": "I-Octane",
-          "url": "https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS"
-        },
-        {
-          "name": "Rygin King",
-          "url": "https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr"
-        }
-      ],
-      "duration_ms": 187711,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -1303,22 +1319,6 @@
       "duration_ms": 312000,
       "name": "Original Nuttah",
       "url": "https://open.spotify.com/track/53mh7POQqTXj2Cfh7phP5b"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Buzz Riddim",
-        "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Give Me the Light",
-      "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
     },
     {
       "added_at": "2022-09-09 12:04:33",

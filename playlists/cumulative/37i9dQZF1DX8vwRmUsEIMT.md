@@ -2,9 +2,9 @@
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: Gorillaz
+> All the new music you need to hear right now\. Cover: Little Simz
 
-598 songs - 1 day 8 hr 21 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
+600 songs - 1 day 8 hr 34 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [American Boy](https://open.spotify.com/track/2t8Z7dscRZ8kvYgTN47zpm) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [American Boy](https://open.spotify.com/album/765iHYZJH7hNXETPzoraIY) | 3:41 | 2022-08-04 | 2022-09-16 |
 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 | 2022-10-28 | 2022-12-09 |
 | [Angel](https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Angel](https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c) | 4:23 | 2022-11-25 |  |
+| [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 | 2022-12-12 |  |
 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-09-08 | 2022-09-23 |
 | [Another Sketch](https://open.spotify.com/track/2IVmt96IvSP10bMHCIsmRs) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Another Sketch](https://open.spotify.com/album/3jm7drQQWex8Gu3cOdjkR9) | 3:50 | 2022-05-26 | 2022-06-22 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-20 |  |
@@ -99,6 +100,7 @@
 | [Breathe](https://open.spotify.com/track/38H3WCklnDRSvNxTJMJtIB) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [It Wasn't Perfect, But We Tried](https://open.spotify.com/album/70N1mJFxBKb492iWoNEezl) | 3:30 | 2022-10-13 | 2022-11-11 |
 | [Brexit at Tiffany's](https://open.spotify.com/track/49BeIQzb05PWsS2YfSt87Q) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Brexit at Tiffany's](https://open.spotify.com/album/2vxRVqkq60c3ltJkt0JXkF) | 2:43 | 2022-08-11 | 2022-09-02 |
 | [Broken](https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 3:24 | 2022-08-18 | 2022-09-02 |
+| [Broken](https://open.spotify.com/track/2USBjlAKDOSzgUq7OiDFqO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 7:29 | 2022-12-12 |  |
 | [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 | 2022-08-26 | 2022-09-21 |
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-02 | 2022-06-25 |
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-13 | 2022-11-11 |
@@ -164,7 +166,7 @@
 | [Dial Two Seven](https://open.spotify.com/track/1ExuXW8RmcD8UU86ymIDWf) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Dial Two Seven](https://open.spotify.com/album/3b2AbGIyZof8tEwJdDehN7) | 3:02 | 2022-08-18 | 2022-09-09 |
 | [Diamond In The Dark](https://open.spotify.com/track/3VVEhLrDGfZecgkQX1dTaN) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Diamond In The Dark](https://open.spotify.com/album/1AnzRzVnXgzlRqPlnyJYB4) | 3:24 | 2022-05-26 | 2022-07-15 |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-09 |  |
-| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 |  |
+| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 | 2022-12-13 |
 | [Die Hard](https://open.spotify.com/track/5VzpAMUOFLlDnhBnx28y9X) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [ALPHA PLACE](https://open.spotify.com/album/103O26J3AHRwYYZyRfKuwQ) | 3:17 | 2022-05-26 | 2022-06-17 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-31 | 2022-07-08 |
 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 | 2022-06-24 | 2022-07-13 |
@@ -260,7 +262,7 @@
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-05-26 | 2022-06-03 |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2022-08-18 | 2022-09-09 |
 | [Hello Mate](https://open.spotify.com/track/76F7T5zPxdpcPndQNs2dQU) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Hello Mate](https://open.spotify.com/album/0WLtXpCoQXJBoWmtcRkmKX) | 3:12 | 2022-07-14 | 2022-08-31 |
-| [HGU \- A COLORS SHOW](https://open.spotify.com/track/2V9RzTc43IIQYtXr5MWFY6) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [HGU \- A COLORS SHOW](https://open.spotify.com/album/6EgebvnEj7mP79olizvZ70) | 3:21 | 2022-11-22 |  |
+| [HGU \- A COLORS SHOW](https://open.spotify.com/track/2V9RzTc43IIQYtXr5MWFY6) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [HGU \- A COLORS SHOW](https://open.spotify.com/album/6EgebvnEj7mP79olizvZ70) | 3:21 | 2022-11-22 | 2022-12-13 |
 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 | 2022-06-02 | 2022-07-15 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2022-11-25 |
 | [Hide And Seek](https://open.spotify.com/track/6oRcj35Qy5531TgH3ZHwbT) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Hide And Seek](https://open.spotify.com/album/5aI0fru90lUJrf4RFXOYMo) | 2:51 | 2022-08-18 | 2022-10-05 |

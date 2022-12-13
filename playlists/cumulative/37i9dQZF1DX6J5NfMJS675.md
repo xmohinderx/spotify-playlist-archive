@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-419 songs - 1 day 18 hr 38 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
+421 songs - 1 day 18 hr 52 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Bring Me Up](https://open.spotify.com/track/2dOdWpX2Bipo5suEnchffo) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Bring Me Up EP](https://open.spotify.com/album/76SdE7SogrA4DjCj15ISHN) | 5:46 | 2022-08-05 |  |
 | [Bucuresti](https://open.spotify.com/track/1egsxAP2p3v3J3nO5TlUTX) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Bucuresti](https://open.spotify.com/album/6eyHlZ3c9L2nDrGNDGMhMN) | 6:25 | 2021-03-27 | 2021-10-09 |
 | [Butoh](https://open.spotify.com/track/3uXQWCbqjtgOzSK5TuZZg4) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [Mystic Voices / Butoh](https://open.spotify.com/album/7m5hIO4QBaiyi3q83urXPs) | 7:59 | 2022-02-25 | 2022-04-29 |
-| [Can't Stop the Feeling](https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ) | 3:28 | 2022-10-07 |  |
+| [Can't Stop the Feeling](https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ) | 3:28 | 2022-10-07 | 2022-12-13 |
 | [Catalyst](https://open.spotify.com/track/3IueDubjpfUGb7AXZ1yyKe) | [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Fourth Wave](https://open.spotify.com/album/4CAgT9O0vM9Cw1pydNgm29) | 7:03 | 2020-05-09 | 2020-07-25 |
 | [Centurion](https://open.spotify.com/track/37P1IBUAayVZpbjeHQmyiW) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Steal Mind](https://open.spotify.com/album/3y8f4gS9S1YPOJIg0w4BrT) | 6:35 | 2020-04-18\* | 2020-04-29 |
 | [Changes](https://open.spotify.com/track/3zvMcYFoa44U3Gb4o4o753) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [A\-Sides, Vol\. 10](https://open.spotify.com/album/534jyTGLzPEdcmI9wVRSOZ) | 6:22 | 2020-12-12 | 2021-05-03 |
@@ -148,7 +148,7 @@
 | [Flying Octopus](https://open.spotify.com/track/2XWBbVold8LNroIDyeockI) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F) | 3:31 | 2022-07-08 |  |
 | [Follow](https://open.spotify.com/track/4WvfqOcx8jQEeJVKnZ9KgG) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Follow](https://open.spotify.com/album/7CB2cNckoeR1JcBvEBdc4u) | 5:42 | 2022-11-11 |  |
 | [Follow Me](https://open.spotify.com/track/0OW70Ztlpc18jSTgdhQBEq) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Follow Me EP](https://open.spotify.com/album/66xIQfqbUEwA7BXO8lIJmu) | 7:11 | 2020-12-18 | 2021-06-05 |
-| [Format](https://open.spotify.com/track/6SXDCetQJ7sJoofdSUVTFA) | [The Advent](https://open.spotify.com/artist/2viciQWa7lV7FrogoaDvk8) | [Format](https://open.spotify.com/album/6vPE1otLpg2ntcjEhdrS0O) | 5:05 | 2022-11-11 |  |
+| [Format](https://open.spotify.com/track/6SXDCetQJ7sJoofdSUVTFA) | [The Advent](https://open.spotify.com/artist/2viciQWa7lV7FrogoaDvk8) | [Format](https://open.spotify.com/album/6vPE1otLpg2ntcjEhdrS0O) | 5:05 | 2022-11-11 | 2022-12-13 |
 | [Formula](https://open.spotify.com/track/12JvJwsnOLlTnxJ1WGAbUO) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:39 | 2021-05-03 | 2021-10-09 |
 | [Fortune](https://open.spotify.com/track/4Cv1WKAbqrIbc9qltfyvAD) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Fortune](https://open.spotify.com/album/0qPXCpyA6okMjoQIZT7XQb) | 6:02 | 2021-03-27 | 2021-10-09 |
 | [Freedom](https://open.spotify.com/track/3Hmg1WPr7lkT3LAhcnOCHz) | [ONEDEFINED](https://open.spotify.com/artist/4SUQ1GFY0jmck4xkXmMKlk) | [Freedom EP](https://open.spotify.com/album/7meoHVlBOdeYuP3hFU4I89) | 8:02 | 2021-12-04 | 2022-06-29 |
@@ -159,11 +159,13 @@
 | [Fuori \- Carl Cox Remix](https://open.spotify.com/track/0p2e4OtAajsnIoFI4bBFYO) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Fuori](https://open.spotify.com/album/4H89pId07b9VcY9F9tgjuH) | 6:32 | 2021-06-26 | 2021-10-23 |
 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 | 2022-06-17 |  |
 | [Future of Mankind](https://open.spotify.com/track/615ulFHm7SWnombHGnu984) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Future of Mankind](https://open.spotify.com/album/40toXgjGgafG4tO7fSxVhO) | 8:01 | 2021-07-10 | 2021-10-23 |
+| [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 | 2022-12-12 |  |
 | [Gilgamesh](https://open.spotify.com/track/7vmXmhia1MFqu8t3IAYOkP) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Fabio Neural](https://open.spotify.com/artist/18gG21ZrYo2Iq6jeobmdRj) | [Gilgamesh](https://open.spotify.com/album/5vjiZbJumXYEWM9d9Qouol) | 4:44 | 2022-09-02 |  |
 | [Go Back](https://open.spotify.com/track/1c1tnaUUm6aK94JQPg3sX9) | [Antonio D'Africa](https://open.spotify.com/artist/03J1IG0hYPv7B2vAERhcFc), [Sall](https://open.spotify.com/artist/020KXX3WjBgzoA9VXmVnTb) | [Go Back](https://open.spotify.com/album/2cuIYvl4ZtyQpl2LafPH8M) | 7:00 | 2020-04-18\* | 2020-09-04 |
 | [Goodmorning Clorophilla](https://open.spotify.com/track/1o9VJSwuiMaTSbhOn3gEzx) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Goodmorning Clorophilla](https://open.spotify.com/album/4H4BIAL3mHwLREfSAruHNs) | 6:03 | 2020-11-14 | 2021-06-05 |
 | [Graphit](https://open.spotify.com/track/6JA0qxD77cmKHevcgAyn8a) | [F\-Rontal](https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS) | [Graphit EP](https://open.spotify.com/album/6a7ogLVnceYSnBbseO2C8Y) | 5:51 | 2022-05-13 | 2022-09-03 |
 | [Gravity](https://open.spotify.com/track/6nmNeFAVqtAgnqqh1SFqh9) | [Thomas Hoffknecht](https://open.spotify.com/artist/5NZNUuAd9Z92Q4wAVRq3Cf) | [Gravity Mutations](https://open.spotify.com/album/63qvDEFV5snCcAWn0hkUwV) | 6:04 | 2020-05-24 | 2020-07-19 |
+| [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 | 2022-12-12 |  |
 | [Harder Now](https://open.spotify.com/track/2X8XhkI3gPI710ah4KDqKs) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [Harder Now](https://open.spotify.com/album/3yRPPTNgf1UHUwzdzskF7R) | 4:29 | 2021-10-23 | 2022-01-08 |
 | [Headrush](https://open.spotify.com/track/4hl7Fu604rMlt4viCJmSN9) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Headrush](https://open.spotify.com/album/00xnP9uVBr8IKAXJQ2Bk5d) | 5:53 | 2020-11-28 | 2021-06-26 |
 | [Hear The Sound](https://open.spotify.com/track/276lQAZfUAXTvlzpPiSFTw) | [Franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Rf1](https://open.spotify.com/album/1q6vPrcAmGbLFsYikTLGfG) | 6:13 | 2022-11-25 |  |

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Do You Love Me\) Just Say Yes](https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX) | [Highway 101](https://open.spotify.com/artist/0yXAvxrEkI26bKj0o4yyou) | [Highway 101, Vol\. 2](https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL) | 3:40 | 2022-10-14 |  |
+| [\(Do You Love Me\) Just Say Yes](https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX) | [Highway 101](https://open.spotify.com/artist/0yXAvxrEkI26bKj0o4yyou) | [Highway 101, Vol\. 2](https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL) | 3:40 | 2022-10-14 | 2022-12-13 |
 | [3 Crow](https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Funeral for My Past](https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8) | 3:28 | 2021-03-05 | 2022-07-26 |
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2021-03-05 | 2022-03-09 |
 | [A Feather's Not A Bird](https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread \(Deluxe\)](https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF) | 3:18 | 2021-03-05 | 2022-07-29 |
@@ -142,7 +142,7 @@
 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 | 2021-03-05 |  |
 | [Heart Like a Wheel](https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n) | [Kate & Anna McGarrigle](https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF) | [Kate & Anna McGarrigle](https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J) | 3:12 | 2021-03-05 | 2022-11-13 |
 | [Heart of Gold](https://open.spotify.com/track/3wmFTQydANMpzhxFLWVCxz) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Vari\-Colored Songs](https://open.spotify.com/album/7E9c0RrB37yHsMmrWsP3lw) | 2:59 | 2021-03-05 | 2022-03-09 |
-| [Heart to Ride](https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:09 | 2021-03-05 | 2022-11-13 |
+| [Heart to Ride](https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:09 | 2021-03-05 |  |
 | [Heart to Ride](https://open.spotify.com/track/3ksOjny1fxhYeRAMunOLcv) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI) | 4:09 | 2021-03-05 | 2022-07-29 |
 | [Heaven's Gate](https://open.spotify.com/track/3gyaObPdirrFeFTz070Wti) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Desert Songs](https://open.spotify.com/album/1nluziMwAJxVD7ZBmTW6IT) | 3:09 | 2021-03-05 | 2022-07-20 |
 | [Heaven's Gate](https://open.spotify.com/track/62EuvgIqhc9o5DPqKse952) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Desert Songs](https://open.spotify.com/album/7qKtluvfzF0kPPT9IOLQNe) | 3:09 | 2021-03-05 |  |

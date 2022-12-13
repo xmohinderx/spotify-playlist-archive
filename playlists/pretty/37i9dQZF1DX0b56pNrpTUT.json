@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 1894,
+  "num_followers": 1924,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGUxMjk0YTdlMTEyZGY0YzM2NjQ5OTRjYzVlZDFmNTU3",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGRjNzgwN2UzMjA0N2I3ZjM3YWQ1YzRmMjZjN2UzNWEy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "Stay Flo",
-      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 224880,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "Stay Flo",
+      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -215,6 +215,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 218072,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Touch Me (feat. Kehlani) [Remix]",
         "url": "https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ"
       },
@@ -235,22 +255,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Wickedest",
         "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
@@ -263,6 +267,22 @@
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 213658,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -283,26 +303,6 @@
       "duration_ms": 183769,
       "name": "Cherries",
       "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 218072,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -347,22 +347,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Running (feat. Ghetts)",
-        "url": "https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5"
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
       "artists": [
         {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        },
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 242973,
-      "name": "Running (feat. Ghetts)",
-      "url": "https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI"
+      "duration_ms": 229413,
+      "name": "Pick Up Your Feelings",
+      "url": "https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -383,18 +379,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+        "name": "Running (feat. Ghetts)",
+        "url": "https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        },
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
         }
       ],
-      "duration_ms": 229413,
-      "name": "Pick Up Your Feelings",
-      "url": "https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy"
+      "duration_ms": 242973,
+      "name": "Running (feat. Ghetts)",
+      "url": "https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI"
     },
     {
       "added_at": "2022-10-01 16:00:00",

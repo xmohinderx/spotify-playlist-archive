@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 72357,
+  "num_followers": 72427,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDRmMTkyZTQwMGRkN2JhZjE2N2YzYzM0NjU5MjU3MmUy",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGJhZDEyMDQ3NDMxZDM0NjczYjZkNWU2ZmQyODA4OGY0",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -183,22 +183,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 340333,
-      "name": "Bag's Groove",
-      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 297040,
       "name": "Sandu",
       "url": "https://open.spotify.com/track/7iOTBeLm5qR9N23fjQy8Kl"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 340333,
+      "name": "Bag's Groove",
+      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 512146,
-      "name": "Trane's Blues",
-      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
       },
@@ -335,22 +319,34 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 311813,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy"
+      "duration_ms": 512146,
+      "name": "Trane's Blues",
+      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -387,6 +383,26 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Charlie Parker Memorial, Vol. 2",
         "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 192186,
       "name": "Billie's Bounce - Original",
       "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "Red Pepper Blues",
-      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Complete Prestige 10-Inch LP Collection",
-        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 459866,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "The Freelance Years",
         "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 546000,
       "name": "Sonnymoon For Two",
       "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "The Complete Prestige 10-Inch LP Collection",
+        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 459866,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -499,22 +499,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Savoy 10-inch LP Collection",
-        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
+        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Charlie Parker Quintet",
+          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Cheryl",
-      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+      "duration_ms": 166613,
+      "name": "Blues For Alice",
+      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -535,18 +531,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
+        "name": "The Savoy 10-inch LP Collection",
+        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
       },
       "artists": [
         {
-          "name": "Charlie Parker Quintet",
-          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 166613,
-      "name": "Blues For Alice",
-      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
+      "duration_ms": 180533,
+      "name": "Cheryl",
+      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 464613,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Cookin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 592506,
       "name": "Blues By Five - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 464613,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -647,6 +647,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Monk's Music",
+        "url": "https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk Septet",
+          "url": "https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB"
+        }
+      ],
+      "duration_ms": 682173,
+      "name": "Well You Needn't",
+      "url": "https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Blues In the Night",
         "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Monk's Music",
-        "url": "https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk Septet",
-          "url": "https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB"
-        }
-      ],
-      "duration_ms": 682173,
-      "name": "Well You Needn't",
-      "url": "https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Inner Urge (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 556226,
       "name": "Isotope - Rudy Van Gelder Edition / 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 384706,
-      "name": "Turnaround",
-      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -743,22 +727,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Blues For Willarene",
-      "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "The Complete Miles Davis Featuring John Coltrane",
         "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 583266,
       "name": "Freddie Freeloader",
       "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 384706,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Blues For Willarene",
+      "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -807,22 +807,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
-        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
-      },
-      "artists": [
-        {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 300706,
-      "name": "When Will The Blues Leave?",
-      "url": "https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Coltrane '58: The Prestige Recordings",
         "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 440083,
       "name": "Freight Trane",
       "url": "https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
+        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "When Will The Blues Leave?",
+      "url": "https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx"
     },
     {
       "added_at": "2020-10-12 18:15:54",

@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 101094,
+  "num_followers": 101148,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI1NDM3MiwwMDAwMDAwMDM5ODBmN2I2YWJhOWYxMjlhN2NkOWQ3NmIzZTQ5Njll",
+  "snapshot_id": "MTY3MDI1NDM3MiwwMDAwMDAwMGNlY2MyY2UyYmIzMjQ5YTEyODdmZWVmNWMzMWI5ZDI4",
   "tracks": [
     {
       "added_at": "2022-12-05 15:32:52",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 167866,
       "name": "P\u00e1rteme La Cara",
       "url": "https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+        "name": "Transiciones",
+        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+      "duration_ms": 206333,
+      "name": "siempreestoypati",
+      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Transiciones",
-        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
       "artists": [
         {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 206333,
-      "name": "siempreestoypati",
-      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -423,22 +423,6 @@
       "duration_ms": 207333,
       "name": "Honey, No Est\u00e1s",
       "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
-        "name": "La Segunda Luz del D\u00eda",
-        "url": "https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 199341,
-      "name": "Tristes Ojos",
-      "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -475,18 +459,18 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+        "name": "La Segunda Luz del D\u00eda",
+        "url": "https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
         }
       ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
+      "duration_ms": 199341,
+      "name": "Tristes Ojos",
+      "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -503,6 +487,22 @@
       "duration_ms": 244253,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
+        "name": "Dolerme",
+        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 143975,
+      "name": "Dolerme",
+      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
         "name": "Subcampe\u00f3n",
         "url": "https://open.spotify.com/album/0n25eeakMD41p1JUUlUinE"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 230080,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/4Si4I7aAPl7liGtTWlIYKN"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
-        "name": "Dolerme",
-        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 143975,
-      "name": "Dolerme",
-      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
         "name": "La Cantera",
         "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 191846,
       "name": "Ya mi mama me dec\u00eda",
       "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -823,22 +823,6 @@
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
-        "name": "Devu\u00e9lvemelo",
-        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 242546,
-      "name": "Devu\u00e9lvemelo",
-      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -891,38 +875,6 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Being Human In Public",
-        "url": "https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
-        "name": "guerrera",
-        "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "guerrera",
-      "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
         "name": "no estabas cerca",
         "url": "https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto"
       },
@@ -935,6 +887,38 @@
       "duration_ms": 70465,
       "name": "no estabas cerca",
       "url": "https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "Devu\u00e9lvemelo",
+        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 242546,
+      "name": "Devu\u00e9lvemelo",
+      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "Being Human In Public",
+        "url": "https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -955,6 +939,22 @@
       "duration_ms": 347306,
       "name": "Corazon partio - En directo",
       "url": "https://open.spotify.com/track/5sNLvOP38aQxpjUeJ2VQsP"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "guerrera",
+        "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 270093,
+      "name": "guerrera",
+      "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/7JUEwYp65daxlYjFxsXK2n"
-      },
-      "artists": [
-        {
-          "name": "Gianluca",
-          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
-        }
-      ],
-      "duration_ms": 207248,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/5PNHCkbPiOU6OkBTtTgROz"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
         "name": "Ausente",
         "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/7JUEwYp65daxlYjFxsXK2n"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
         }
       ],
-      "duration_ms": 218853,
-      "name": "Nadie Va",
-      "url": "https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU"
+      "duration_ms": 207248,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/5PNHCkbPiOU6OkBTtTgROz"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -1199,6 +1183,22 @@
       "duration_ms": 194506,
       "name": "Con el Viento",
       "url": "https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 218853,
+      "name": "Nadie Va",
+      "url": "https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
+        "name": "Bolsas - C. Tangana",
+        "url": "https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5"
+      },
+      "artists": [
+        {
+          "name": "Valdivia",
+          "url": "https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q"
+        }
+      ],
+      "duration_ms": 236605,
+      "name": "Bolsas - C. Tangana",
+      "url": "https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
         "name": "La Banqueta",
         "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 188320,
       "name": "La Banqueta",
       "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
-        "name": "Bolsas - C. Tangana",
-        "url": "https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5"
-      },
-      "artists": [
-        {
-          "name": "Valdivia",
-          "url": "https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q"
-        }
-      ],
-      "duration_ms": 236605,
-      "name": "Bolsas - C. Tangana",
-      "url": "https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
+        "name": "T la Sudo (Demo)",
+        "url": "https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 185411,
+      "name": "T la Sudo (Demo)",
+      "url": "https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 204775,
       "name": "D\u00e9jame Dejarte Atr\u00e1s",
       "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
-        "name": "T la Sudo (Demo)",
-        "url": "https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        },
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 185411,
-      "name": "T la Sudo (Demo)",
-      "url": "https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx"
     },
     {
       "added_at": "2022-12-05 15:32:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-12-05 15:32:52",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2022-12-05 15:32:52",
-      "album": {
         "name": "Mi Cabeza",
         "url": "https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 162000,
       "name": "Mi Cabeza",
       "url": "https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF"
+    },
+    {
+      "added_at": "2022-12-05 15:32:52",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2022-12-05 15:32:52",

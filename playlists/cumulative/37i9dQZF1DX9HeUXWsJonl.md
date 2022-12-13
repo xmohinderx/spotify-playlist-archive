@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-112 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+113 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Blonda](https://open.spotify.com/track/7numLiPibzIhZ2oITph8z4) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Romeo](https://open.spotify.com/album/6X6DhXAyYwrJR5KySBgGhj) | 3:42 | 2021-12-10 | 2022-05-20 |
 | [Cheda W Tzoul](https://open.spotify.com/track/0gSIsNOlouCajRSw0yK6Kj) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Cheda W Tzoul](https://open.spotify.com/album/125HbmJXycVBvnQdxCUNEr) | 3:26 | 2021-12-10 | 2022-12-06 |
 | [Chkoun F'eddar](https://open.spotify.com/track/5koKnPTZc5Cb2mKckBV9nF) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Chkoun F'eddar](https://open.spotify.com/album/0OKERQHLeD3og47pdZrcWi) | 3:22 | 2022-01-14 | 2022-04-01 |
+| [Chlonak](https://open.spotify.com/track/3rkuOoH3o33ni0sNOEZQs7) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Chlonak](https://open.spotify.com/album/0cGkSy5xNbR16gSUlqgtIe) | 3:26 | 2022-12-12 |  |
 | [Cicatrice](https://open.spotify.com/track/4ijVcIJQmQJsMM79kQ6axU) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Cicatrice](https://open.spotify.com/album/4xRldT6DB8MdQp60tBVwgq) | 4:03 | 2022-11-07 |  |
 | [Demi\-tour](https://open.spotify.com/track/3ZqeaCp6xjjOKGt1KOEyXQ) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Demi\-tour](https://open.spotify.com/album/7r9DuONoCBCEhVHXpSzUTH) | 2:58 | 2022-02-22 |  |
 | [Ech Mazel \- Khrafa](https://open.spotify.com/track/1XiL9Lp1p9WfIAzuNR1uWD) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Ech Mazel \(Khrafa\)](https://open.spotify.com/album/33phU9MxhOINJYSGYHyEpK) | 4:41 | 2021-12-10 |  |
@@ -52,7 +53,7 @@
 | [Hayala](https://open.spotify.com/track/59gRXEBW682Qg8DApGqPl3) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Hayala](https://open.spotify.com/album/2kZZ423qgs7VMwGjuwBdHL) | 3:36 | 2021-12-10 | 2022-07-12 |
 | [Hkeyetkom Wfet](https://open.spotify.com/track/7bzfVYSm6pU0gwuX20rFuY) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Hkeyetkom Wfet](https://open.spotify.com/album/1gbsicMYbNsGdEfV195AyI) | 3:23 | 2022-03-03 |  |
 | [Je m'endors mal luné](https://open.spotify.com/track/51ZzvOw40MCYh6DnvL57mL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:21 | 2021-12-10 |  |
-| [Kadhabin](https://open.spotify.com/track/03T7JF553K5pvxODKBsgVm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Kadhabin](https://open.spotify.com/album/5JYLLub4A1GNowDyy0XdeL) | 4:40 | 2022-09-01 |  |
+| [Kadhabin](https://open.spotify.com/track/03T7JF553K5pvxODKBsgVm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Kadhabin](https://open.spotify.com/album/5JYLLub4A1GNowDyy0XdeL) | 4:40 | 2022-09-01 | 2022-12-13 |
 | [Kafon GALBI](https://open.spotify.com/track/7HuPW3FTvf32teIRVdRGnt) | [Rap City](https://open.spotify.com/artist/2Bg8pjIGpTytyqqpkFZ9q0) | [Kafon GALBI](https://open.spotify.com/album/2C25uD29j9XKiApzQadZNu) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Kberna](https://open.spotify.com/track/3qPuUbEjX7fBcj4WPUkbh4) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:24 | 2022-11-26 |  |
 | [Khamsa Wekhmis](https://open.spotify.com/track/1WfIwSm6R98vRKPvFol0hN) | [Master Sina](https://open.spotify.com/artist/50YiAJFQLuv0Ncrl9zuhZq), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [Khamsa Wekhmis](https://open.spotify.com/album/2u0bXhsQ5cZgPLpYORW0F2) | 4:05 | 2022-01-24 | 2022-09-13 |

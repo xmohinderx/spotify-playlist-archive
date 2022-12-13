@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring new music by Yot Club.
 
-764 songs - 1 day 17 hr 30 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+765 songs - 1 day 17 hr 32 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Cocoon](https://open.spotify.com/track/1BCQcNvwUVXtagkgdVNRx7) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Cocoon](https://open.spotify.com/album/5wdTC4sxASTdWthmF5cRRR) | 4:07 | 2022-08-12 | 2022-11-08 |
 | [Codependency](https://open.spotify.com/track/0o2BJHj9wQTCb5UfY7R7jl) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:11 | 2021-08-20 | 2022-06-11 |
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2021-06-07 | 2022-04-13 |
-| [Cold Like Me](https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife \(Deluxe\)](https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc) | 3:02 | 2022-12-02 | 2022-12-08 |
+| [Cold Like Me](https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife \(Deluxe\)](https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc) | 3:02 | 2022-12-02 |  |
 | [coldish](https://open.spotify.com/track/5GidzN9AiIHoe3f1VgjBPk) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [liminal spaces](https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8) | 2:03 | 2022-10-21 | 2022-11-12 |
 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-06-25 | 2022-06-11 |
 | [Come Apart](https://open.spotify.com/track/2qkAa6IrUy5WWizVE1rpeh) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/2qimyFod7MXk4bVSuXY1lQ) | 3:04 | 2022-07-22 | 2022-07-29 |
@@ -397,7 +397,7 @@
 | [Kissing In The Rain](https://open.spotify.com/track/4AdHcMGDWiQrWwt8wcv36h) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Dark Nights: Death Metal Soundtrack](https://open.spotify.com/album/6UKCrIxWzbeJEzIAy9VEVI) | 3:15 | 2021-06-18 | 2022-06-09 |
 | [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 | 2022-02-11 | 2022-06-10 |
 | [Kno Me](https://open.spotify.com/track/6XaMOKR9NHzIFIgNQrpYvU) | [Jerry Paper](https://open.spotify.com/artist/2gzxBoK71ohENPlxlshHV7) | [Kno Me](https://open.spotify.com/album/5NEHXdCbHCF93ARy2ozAqM) | 3:36 | 2022-02-11 | 2022-04-19 |
-| [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-10-21 |  |
+| [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-10-21 | 2022-12-13 |
 | [L\-Train](https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [L\-Train](https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO) | 3:47 | 2022-06-10 | 2022-10-01 |
 | [L.S.D](https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [L.S.D](https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W) | 3:37 | 2021-10-02 | 2022-04-15 |
 | [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-10-29 | 2022-06-03 |
@@ -447,7 +447,7 @@
 | [Mass Appeal](https://open.spotify.com/track/2xj5J9KdJbFmm5xBB3XjNa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Mass Appeal](https://open.spotify.com/album/7dBolAe90rVym89PAg9iWm) | 3:23 | 2022-04-01 | 2022-04-19 |
 | [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 | 2022-11-12 |
 | [Maybe](https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Maybe](https://open.spotify.com/album/2XtDVJNzLpqWD1KpzgePzb) | 3:00 | 2021-10-22 | 2022-06-11 |
-| [Maybe Love](https://open.spotify.com/track/4chYGJ4RxKLpW5DqrYu93f) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Maybe Love](https://open.spotify.com/album/4YSQjDdAxbWbuZNwU36BUT) | 2:38 | 2022-11-18 |  |
+| [Maybe Love](https://open.spotify.com/track/4chYGJ4RxKLpW5DqrYu93f) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Maybe Love](https://open.spotify.com/album/4YSQjDdAxbWbuZNwU36BUT) | 2:38 | 2022-11-18 | 2022-12-13 |
 | [maybe that's just it!](https://open.spotify.com/track/2ht8S6p74ZrMY9o0MlBGw3) | [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq) | [maybe that's just it!](https://open.spotify.com/album/0hISKTdcnvnrsi4Y1NTOAE) | 2:21 | 2022-04-08 | 2022-04-16 |
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-06-07 | 2022-06-11 |
 | [Medicine \- Edit](https://open.spotify.com/track/5fxjGUTu5OFVb5gJkRnM22) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Medicine](https://open.spotify.com/album/7f7bav5WirOo4GctDwQ7tp) | 3:41 | 2021-11-19 | 2022-02-10 |
@@ -615,6 +615,7 @@
 | [Speeding 72](https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn) | 3:58 | 2022-07-01 | 2022-11-19 |
 | [Speeding 72](https://open.spotify.com/track/7cUtZJswFDe6W9wRXMseZQ) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/4cQ5UlLIkOL635iBx7S5Dx) | 3:58 | 2022-06-10 | 2022-06-15 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-07 | 2022-12-10 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-07 |  |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 | 2022-12-07 |  |
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2021-07-19 | 2022-06-11 |
 | [Spring](https://open.spotify.com/track/2vMikyqNbH1ynZ4Rfcbso3) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Spring](https://open.spotify.com/album/4GVoIK1wXH6Tm5bOaNOkIu) | 2:45 | 2022-06-10 | 2022-07-30 |

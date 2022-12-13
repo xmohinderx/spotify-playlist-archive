@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 127902,
       "name": "Brick Lesnar, Pt. 2",
       "url": "https://open.spotify.com/track/2INsFe3fUXQD0bMmgrklTE"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 252680,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/2HfwP1SaxQTGPwobr06lXP"
@@ -4701,7 +4701,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 144747,
       "name": "Live Stock",
       "url": "https://open.spotify.com/track/6sDC8dbsVjG8WbIFaT7mtK"
@@ -8615,6 +8615,28 @@
       "duration_ms": 280220,
       "name": "The Love Song",
       "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6YEge8s9WLgdiigQFxNLIe"
+      },
+      "artists": [
+        {
+          "name": "Bush Babees",
+          "url": "https://open.spotify.com/artist/35uD3ZeLUoniBBQhiWQGCu"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280220,
+      "name": "The Love Song",
+      "url": "https://open.spotify.com/track/7eGKbOhLhUGPGOtyEgnRhc"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 453502,
+  "num_followers": 453572,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGUzZDEwZWI3ZWQ1OGMzNzI2OWUyODdiYzBjOTg4ZDVl",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGMwMDVlYjE1ZWVkZDY1ZDljNmExNDYwOWY1OWY2MzZl",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 274160,
       "name": "Renegades Of Funk",
       "url": "https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "They Can't All Be Zingers",
         "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 216733,
       "name": "John The Fisherman",
       "url": "https://open.spotify.com/track/4kiVGEOrzWmEUCxXU21rtN"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 336440,
+      "name": "Take The Power Back",
+      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
       "artists": [
         {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 336440,
-      "name": "Take The Power Back",
-      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Tones Of Home",
-      "url": "https://open.spotify.com/track/5Cr8DxrjyP2fS93XjGXlFl"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "S.C.I.E.N.C.E.",
         "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
       },
@@ -367,18 +351,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
         }
       ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+      "duration_ms": 266826,
+      "name": "Tones Of Home",
+      "url": "https://open.spotify.com/track/5Cr8DxrjyP2fS93XjGXlFl"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -399,18 +383,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
       "artists": [
         {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 264066,
-      "name": "Get The Funk Out",
-      "url": "https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE"
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -445,36 +429,20 @@
       "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Return of the Dream Canteen",
-        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 202888,
-      "name": "The Drummer",
-      "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
-    },
-    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
         }
       ],
-      "duration_ms": 265733,
-      "name": "Summer Romance (Anti-Gravity Love Song)",
-      "url": "https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM"
+      "duration_ms": 264066,
+      "name": "Get The Funk Out",
+      "url": "https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -523,6 +491,38 @@
       "duration_ms": 259466,
       "name": "Love Rears Its Ugly Head",
       "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 265733,
+      "name": "Summer Romance (Anti-Gravity Love Song)",
+      "url": "https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Return of the Dream Canteen",
+        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 202888,
+      "name": "The Drummer",
+      "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx",
-        "url": "https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 224379,
-      "name": "Shakey Ground",
-      "url": "https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Greatest Hits '93 - '03",
-        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
+        "name": "Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx",
+        "url": "https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y"
       },
       "artists": [
         {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
         }
       ],
-      "duration_ms": 222360,
-      "name": "Come Original",
-      "url": "https://open.spotify.com/track/7LG5qAX1r73gafhxvzu28K"
+      "duration_ms": 224379,
+      "name": "Shakey Ground",
+      "url": "https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -735,6 +719,22 @@
       "duration_ms": 254560,
       "name": "Tommy The Cat",
       "url": "https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Greatest Hits '93 - '03",
+        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Come Original",
+      "url": "https://open.spotify.com/track/7LG5qAX1r73gafhxvzu28K"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 319466,
+      "name": "Who Really Are the Monsters?",
+      "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Mas Borracho",
         "url": "https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Dogman",
-        "url": "https://open.spotify.com/album/47U4J0zNT79iSnbWJOXg5S"
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
       "artists": [
         {
-          "name": "King's X",
-          "url": "https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH"
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 273426,
-      "name": "Black the Sky",
-      "url": "https://open.spotify.com/track/6qrRjccCGT1LC9yO0bsBfm"
+      "duration_ms": 181133,
+      "name": "Idiots Rule",
+      "url": "https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -851,34 +867,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
+        "name": "Dogman",
+        "url": "https://open.spotify.com/album/47U4J0zNT79iSnbWJOXg5S"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "King's X",
+          "url": "https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH"
         }
       ],
-      "duration_ms": 319466,
-      "name": "Who Really Are the Monsters?",
-      "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Idiots Rule",
-      "url": "https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A"
+      "duration_ms": 273426,
+      "name": "Black the Sky",
+      "url": "https://open.spotify.com/track/6qrRjccCGT1LC9yO0bsBfm"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "III Sides To Every Story",
-        "url": "https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Politicalamity",
-      "url": "https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 264933,
       "name": "Vinnie",
       "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "III Sides To Every Story",
+        "url": "https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Politicalamity",
+      "url": "https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe"
     },
     {
       "added_at": "2022-02-04 05:02:00",

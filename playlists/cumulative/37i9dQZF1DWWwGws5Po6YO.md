@@ -4,7 +4,7 @@
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-129 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/3Cfws2NIwPEctch5DfP3Jy)
+130 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/3Cfws2NIwPEctch5DfP3Jy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2022-03-08 |  |
 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 | 2022-03-25 |  |
 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 | 2022-03-08 | 2022-03-17 |
-| [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 | 2022-08-05 |  |
+| [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 | 2022-08-05 | 2022-12-13 |
 | [Satnam Waheguru](https://open.spotify.com/track/56zp6EdRE6UhcArVLKwJGU) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/1CWjlmNEbWC5SRAKugRTyy) | 4:59 | 2022-03-08 | 2022-07-24 |
 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2022-07-22 |  |
 | [Silver Ladders](https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5ROFj16TsmnCUd5YtiVDU3) | 3:45 | 2022-03-08 | 2022-07-29 |
@@ -123,6 +123,7 @@
 | [The Unquestioned Answer](https://open.spotify.com/track/5ftgOffbWhT3hYtQXNEPou) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/2rD0SKiBImTKNhRtRVLsdU) | 6:30 | 2022-03-08 | 2022-07-29 |
 | [Together Is A Beautiful Place To Be \- Nala Sinephro Remix](https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Together Is A Beautiful Place To Be \(Nala Sinephro Remix\)](https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr) | 2:27 | 2022-03-08 |  |
 | [Traquair \(LAYERS ambient\)](https://open.spotify.com/track/03oKo8eNJLvbT1JMCSysEz) | [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH), [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Traquair \(LAYERS ambient\)](https://open.spotify.com/album/4c2W7cqZiHyl0lcckoXwKN) | 4:09 | 2022-03-25 | 2022-07-26 |
+| [Traquair \(LAYERS ambient\)](https://open.spotify.com/track/1cUOojLPXn3SSGXvnil5qC) | [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH), [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [LAYERS](https://open.spotify.com/album/52V08L7diSUAIP9Mt4eXjV) | 4:09 | 2022-10-04 |  |
 | [Ubiquitous](https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 3:49 | 2022-08-19 | 2022-11-03 |
 | [Uncle](https://open.spotify.com/track/044d0lsKxvamvywQd7aZEC) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Practice](https://open.spotify.com/album/3p2YnEe3fq3KIldwwvh7J8) | 2:29 | 2022-03-11 | 2022-03-18 |
 | [uranus de.part](https://open.spotify.com/track/5M2ggFF9GlaCHhCFAKgk8K) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [Planetary Music : Tokyo Yoga Sleep Meditation 001](https://open.spotify.com/album/6U5pCWnuIcxvnM0Jzc8RgB) | 2:42 | 2022-03-08 | 2022-03-18 |

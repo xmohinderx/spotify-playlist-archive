@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,040 songs - 2 day 8 hr 20 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+1,041 songs - 2 day 8 hr 23 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,7 +746,7 @@
 | [Por Clave el 13](https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO) | 3:10 | 2022-07-24 | 2022-08-17 |
 | [Porselen Kalbim](https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Porselen Kalbim](https://open.spotify.com/album/2TYt9I16VcjqPaSxJXYTLD) | 5:15 | 2022-06-07 | 2022-07-14 |
 | [Powerade](https://open.spotify.com/track/6icjOrzM57QrCAtBeWB5WF) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SiraOne](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Powerade](https://open.spotify.com/album/0lnLFmdLlavFulmy4l8TmE) | 2:22 | 2022-05-17 | 2022-06-08 |
-| [Premier amour](https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour](https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv) | 3:08 | 2022-12-07 |  |
+| [Premier amour](https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour](https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv) | 3:08 | 2022-12-07 | 2022-12-13 |
 | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/4QQTPEwqE4Aq7LXSyIgSci) | [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1ykijYnxFNpMVJrInjLdMc) | 2:19 | 2022-09-20 | 2022-10-12 |
 | [prolly my spookiest beat](https://open.spotify.com/track/7bzZzwCiidSodNRK1Deyf2) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat](https://open.spotify.com/album/56HClvGjV3yEhiNb2gy4Ba) | 1:59 | 2022-05-01 | 2022-05-11 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-23 | 2022-06-01 |
@@ -798,6 +798,7 @@
 | [Sana Çıkıyor Yollar \- Kaderimin Oyunu Orijinal Dizi Müziği](https://open.spotify.com/track/7dvt5DT77W7neWuCfCUOYV) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Sana Çıkıyor Yollar \(Kaderimin Oyunu Orijinal Dizi Müziği\)](https://open.spotify.com/album/6GR9ERCXRTQ8edXsSuX7wi) | 3:49 | 2022-03-02 | 2022-03-16 |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2022-09-08 | 2022-09-21 |
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2022-03-25 | 2022-03-27 |
+| [SARRA NOS MENOR QUE TA DE GLOCK NA CINTURA](https://open.spotify.com/track/2N8MJun4bBUDCG92sSlpsS) | [DJ GB DA DISNEY](https://open.spotify.com/artist/141A3MG7O4f3lkJTwhCiHc), [Dj Renan Valle](https://open.spotify.com/artist/25H4QTGqIQKQXi1xmA2kxm), [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU) | [SARRA NOS MENOR QUE TA DE GLOCK NA CINTURA](https://open.spotify.com/album/7xQwkgNguN6SUKwTNZwNCE) | 2:53 | 2022-12-12 |  |
 | [saudade, saudade](https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 3:01 | 2022-05-14 | 2022-05-29 |
 | [Say It Ain't So \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 4:03 | 2022-07-13 | 2022-08-02 |
 | [Se Acabo \(feat\. Method Man\) \- Remix](https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Take It Or Squeeze It](https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL) | 3:32 | 2022-05-03 | 2022-06-22 |

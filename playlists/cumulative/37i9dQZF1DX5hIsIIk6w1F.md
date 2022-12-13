@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: Gianluca.
 
-242 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/2FMJDC0qJwnjZnSiGHmfDy)
+243 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/2FMJDC0qJwnjZnSiGHmfDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [La Gata](https://open.spotify.com/track/79maEGHcaiZ3aIVPFZb9QF) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [La Gata](https://open.spotify.com/album/0sO7Fx9saDoLs27OquHVb2) | 2:45 | 2022-05-23 | 2022-08-06 |
 | [La Nena del Case](https://open.spotify.com/track/57pbVdbqT8B28V6FpJTKkw) | [Chuchu Retro](https://open.spotify.com/artist/3BhLm0rzP3kwnkLj7yXAaI), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [JLA Tu Gringito](https://open.spotify.com/artist/3RThLFER3lz1upoqDlSB6P), [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [Alexfer](https://open.spotify.com/artist/383ZJmqhoMCt2l9H5RYMDG), [Yabel](https://open.spotify.com/artist/3Zan5Poez2lZsuz9xXJfvn), [Nickboy](https://open.spotify.com/artist/39Sjt2kA9smTRfN2zT9aEI) | [La Nena del Case](https://open.spotify.com/album/3Lcl75jtgWsBk6Cu5CsW5O) | 7:40 | 2022-12-02 |  |
 | [La Receta](https://open.spotify.com/track/4GEdcJ36aTarJ1FffmRtV5) | [Nico Mastre](https://open.spotify.com/artist/5NescwT8CJqGf64LVVD6td), [Bayronfire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [La Receta](https://open.spotify.com/album/4zGFS1t7pqmlwC6siRSz3M) | 3:00 | 2022-06-10 | 2022-07-05 |
-| [LA TERAPIA](https://open.spotify.com/track/5i9bTK3gXeVCvua3PH4nwv) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA TERAPIA](https://open.spotify.com/album/6wK85B0J0PvZ8qybiQ8dZa) | 3:05 | 2022-07-04 |  |
+| [LA TERAPIA](https://open.spotify.com/track/5i9bTK3gXeVCvua3PH4nwv) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA TERAPIA](https://open.spotify.com/album/6wK85B0J0PvZ8qybiQ8dZa) | 3:05 | 2022-07-04 | 2022-12-13 |
 | [LA TERAPIA REMIX](https://open.spotify.com/track/52KBZ4VX389Dc9J2gaqmSO) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LA TERAPIA REMIX](https://open.spotify.com/album/6Kppd5kRaSfosl6UFXJqjC) | 4:09 | 2022-11-18 |  |
 | [La Única](https://open.spotify.com/track/6BziPWYAG689dziudR6lRl) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [La Única](https://open.spotify.com/album/0hVF3mo33JcCsECB4dM7Ay) | 2:24 | 2022-11-25 |  |
 | [Las Naik](https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Las Naik](https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3) | 2:55 | 2022-05-23 |  |
@@ -210,6 +210,7 @@
 | [Sin Seguro](https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:27 | 2022-11-25 |  |
 | [Solos](https://open.spotify.com/track/1AF9s7uWrrBtS7n7zX50er) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt) | [Solos](https://open.spotify.com/album/4OwkPWtn9O1h6KQ2iaLY6K) | 3:57 | 2022-06-10 | 2022-07-09 |
 | [Suburban](https://open.spotify.com/track/0S1XbVcyCUzCyidkxlac9h) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Welcome To My World](https://open.spotify.com/album/6iUBYigsiYYdhDIkHbKbSN) | 3:17 | 2022-09-16 |  |
+| [Síntomas de Soltera](https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Síntomas de Soltera](https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x) | 4:01 | 2022-12-12 |  |
 | [Ta' Soltera](https://open.spotify.com/track/48D3hmwzP6UiJa4jj6tR8y) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Ta' Soltera](https://open.spotify.com/album/0LxYrwfjziIbRD55pEIwXc) | 3:15 | 2022-05-23 |  |
 | [Tak Tiki Tak](https://open.spotify.com/track/0aCTSZQTlmnjQucALTF00s) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/7dKHcB3ZLB4fxbSs3Y2Y3O) | 3:32 | 2022-05-23 | 2022-07-29 |
 | [Tak Tiki Tak](https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8) | 3:32 | 2022-07-22 | 2022-12-10 |

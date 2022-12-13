@@ -4,7 +4,7 @@
 
 > Ultimate mix of songs from the 1990s to insure a good time while on the road.
 
-342 songs - 1 day 0 hr 26 min - [published](https://open.spotify.com/playlist/3mwrZYdtYDXn4eIYaTKHxz)
+343 songs - 1 day 0 hr 30 min - [published](https://open.spotify.com/playlist/3mwrZYdtYDXn4eIYaTKHxz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Love Is a Wonderful Thing](https://open.spotify.com/track/2LCIRBYUBMFy9hL81qthi1) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm) | 4:42 | 2021-04-29 | 2022-11-14 |
 | [Love to Hate You \- 2019 \- Remaster](https://open.spotify.com/track/4A6pPKVWcIWIBooH6nwa48) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Chorus \(2020 Expanded Edition\)](https://open.spotify.com/album/4caywdn9ERk5MPrWXnDPfi) | 3:56 | 2021-04-29 | 2022-11-14 |
 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 | 2022-05-03 |  |
-| [Lullaby](https://open.spotify.com/track/70L4pGAmYv0pTADrgsIxpI) | [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N) | [Soul's Core](https://open.spotify.com/album/0D5vG8Ue7MHe4TxRm2t9Z9) | 5:29 | 2021-04-29 |  |
+| [Lullaby](https://open.spotify.com/track/70L4pGAmYv0pTADrgsIxpI) | [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N) | [Soul's Core](https://open.spotify.com/album/0D5vG8Ue7MHe4TxRm2t9Z9) | 5:29 | 2021-04-29 | 2022-12-13 |
 | [Man On The Moon](https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:14 | 2021-07-22 |  |
 | [Men In Black \- From "Men In Black" Soundtrack](https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 | 2021-04-29 |  |
 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 | 2022-01-20 |  |
@@ -249,6 +249,7 @@
 | [Save Tonight](https://open.spotify.com/track/76MDiuqETk8UZ5faVRDm1Q) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hits Of The 90s \(50 Songs\)](https://open.spotify.com/album/06bVR4jhrTCglfexLab0Ma) | 3:59 | 2022-01-20 | 2022-11-13 |
 | [Say My Name](https://open.spotify.com/track/6WAhLCL1XchQzYjl15rnFp) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Say My Name](https://open.spotify.com/album/5YAznTfpQJx8RB9NQPjz7U) | 4:28 | 2022-01-20 | 2022-11-13 |
 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 | 2022-01-20 |  |
+| [Se a Vida E \(That's the Way Life Is\) \- 2018 Remaster](https://open.spotify.com/track/18fr7t1FKDUiOg8DXxiZwL) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Bilingual: Further Listening 1995 \- 1997 \(2018 Remaster\)](https://open.spotify.com/album/6773Yw4SaTVQF7YRCKWycr) | 4:01 | 2022-12-13 |  |
 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 | 2021-04-29 |  |
 | [Set Adrift on Memory Bliss \(Re\-Recorded\)](https://open.spotify.com/track/0qiF6U6WT4nGQTQnhU1chs) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [80's & 90's Jams! Hits of the Decade](https://open.spotify.com/album/3cyC3DUwdsVFqj1ltKuYUC) | 3:55 | 2022-01-20 |  |
 | [Set Adrift on Memory Bliss \(Re\-Recorded\)](https://open.spotify.com/track/3rcNGUOJ0mPOUcAFUlEyT3) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [Latest & Greatest](https://open.spotify.com/album/3IeqyRPjr9OLdZgTop4Rxn) | 3:55 | 2021-04-29 | 2022-07-29 |

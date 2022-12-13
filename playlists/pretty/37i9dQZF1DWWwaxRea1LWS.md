@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Fall in love with \#SpotifyTBT in a mid\-2000s coffee shop\. Cover: John Mayer circa "Room for Squares".
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,123,104 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,123,023 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

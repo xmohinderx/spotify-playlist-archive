@@ -1,12 +1,12 @@
 {
   "description": "The hardest songs, loud. Very loud. Cover: Skillet",
-  "num_followers": 870016,
+  "num_followers": 870360,
   "original_name": "Rock Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYzNTAwNiwwMDAwMDAwMDhjZGU2NDZkYTkwMjQzZmVhZTJhYzdkZTAyOTg4ZGYy",
+  "snapshot_id": "MTY3MDg4MTY4MSwwMDAwMDAwMGQ0NGM4ZjBlMjQ0MGY0ZTEyYjRjZDJhMWI2ZGI4Mzhj",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -881,6 +881,26 @@
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
+      "added_at": "2022-12-12 15:27:59",
+      "album": {
+        "name": "Hell Finds You Everywhere",
+        "url": "https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        },
+        {
+          "name": "Noah Sebastian",
+          "url": "https://open.spotify.com/artist/3w0i7biKO0q6DGVXCKzhj9"
+        }
+      ],
+      "duration_ms": 204164,
+      "name": "Hell Finds You Everywhere (feat. Noah Sebastian)",
+      "url": "https://open.spotify.com/track/6EfGrYJ8Kw4xuNRd7UzQA3"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Hurts Like Hell",
@@ -1259,6 +1279,30 @@
       "duration_ms": 370607,
       "name": "Evil World Machine - Extended",
       "url": "https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l"
+    },
+    {
+      "added_at": "2022-12-12 21:48:01",
+      "album": {
+        "name": "Do Or Die (feat. Nathan James)",
+        "url": "https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3"
+        },
+        {
+          "name": "Inglorious",
+          "url": "https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7"
+        },
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp"
+        }
+      ],
+      "duration_ms": 193068,
+      "name": "Do Or Die (feat. Nathan James)",
+      "url": "https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi"
     },
     {
       "added_at": "2022-12-09 05:00:00",

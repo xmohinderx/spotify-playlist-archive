@@ -1,32 +1,36 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127137,
+  "num_followers": 127132,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg3Miw2NzQwYmE4NmY1ZDQyYjBhZWNkZWE3N2I0NWJhOGMyZTIwNDJmNzhm",
+  "snapshot_id": "Mzg3NSw3ODJhYzJkNjVmMzgwODkzNzI5YzJlZmNhYjNhYzNhYWQxZDQyNTli",
   "tracks": [
     {
-      "added_at": "2022-12-10 01:18:22",
+      "added_at": "2022-12-12 22:50:29",
       "album": {
-        "name": "Lies and Deceptions (Bad Computer Remix)",
-        "url": "https://open.spotify.com/album/6w0bsHy2oXobGo8JndIPsP"
+        "name": "Afraid of the Dark (hayve Remix)",
+        "url": "https://open.spotify.com/album/5FSRhgzGRiuilD0okKKDct"
       },
       "artists": [
         {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
         },
         {
-          "name": "Bad Computer",
-          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+          "name": "Sophiya",
+          "url": "https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
         }
       ],
-      "duration_ms": 207125,
-      "name": "Lies and Deceptions - Bad Computer Remix",
-      "url": "https://open.spotify.com/track/3tV2l4rFMgzt5qoWrE6BlM"
+      "duration_ms": 244186,
+      "name": "Afraid of the Dark - hayve Remix",
+      "url": "https://open.spotify.com/track/6TGxVTSPgXV65MCYcaFf3P"
     },
     {
       "added_at": "2022-12-10 01:17:51",
@@ -47,6 +51,26 @@
       "duration_ms": 241026,
       "name": "Nibbana - Volen Sentir's Pink Sky Retouch",
       "url": "https://open.spotify.com/track/2g1kcSv6wz70zl7lhWpJzx"
+    },
+    {
+      "added_at": "2022-12-10 01:18:22",
+      "album": {
+        "name": "Lies and Deceptions (Bad Computer Remix)",
+        "url": "https://open.spotify.com/album/6w0bsHy2oXobGo8JndIPsP"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "duration_ms": 207125,
+      "name": "Lies and Deceptions - Bad Computer Remix",
+      "url": "https://open.spotify.com/track/3tV2l4rFMgzt5qoWrE6BlM"
     },
     {
       "added_at": "2022-12-08 22:17:59",
@@ -1087,26 +1111,6 @@
       "duration_ms": 217000,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Invane",
-        "url": "https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW"
-      },
-      "artists": [
-        {
-          "name": "Spag Heddy",
-          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 222861,
-      "name": "Invane",
-      "url": "https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

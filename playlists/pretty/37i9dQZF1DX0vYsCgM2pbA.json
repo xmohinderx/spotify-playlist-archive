@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 107672,
+  "num_followers": 107731,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTg5OTYwMCwwMDAwMDAwMGY5NjA4NDc4MGI2Yzg1ZWJmOGI0MWNkZTZkMzE3OGU4",
+  "snapshot_id": "MTY2OTg5OTYwMCwwMDAwMDAwMDZkZTg1ZGNlNjE1NGZmNGE2ZjhmMWFiMWEzYWE2ZDQy",
   "tracks": [
     {
       "added_at": "2022-12-01 13:00:00",
@@ -159,26 +159,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -207,6 +187,26 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Ripple",
         "url": "https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks"
       },
@@ -231,26 +231,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Love Tonight (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 184783,
-      "name": "Love Tonight - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Yeah The Girls",
         "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
@@ -267,6 +247,22 @@
       "duration_ms": 194310,
       "name": "Yeah The Girls",
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -323,18 +319,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+        "name": "Love Tonight (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+      "duration_ms": 184783,
+      "name": "Love Tonight - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Tomorrows",
         "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
       },
@@ -659,42 +675,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Changes (Timmy Trumpet Remix)",
-        "url": "https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J"
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
       },
       "artists": [
         {
-          "name": "Faul & Wad",
-          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Changes - Timmy Trumpet Remix",
-      "url": "https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -715,26 +707,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "DOWN",
-        "url": "https://open.spotify.com/album/1y8E6aLMD5HA2XgyJVg9Fe"
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Golden Vessel",
-          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
-        },
-        {
-          "name": "Akurei",
-          "url": "https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 194067,
-      "name": "DOWN",
-      "url": "https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM"
+      "duration_ms": 229213,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -771,6 +755,54 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "Changes (Timmy Trumpet Remix)",
+        "url": "https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J"
+      },
+      "artists": [
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Changes - Timmy Trumpet Remix",
+      "url": "https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "DOWN",
+        "url": "https://open.spotify.com/album/1y8E6aLMD5HA2XgyJVg9Fe"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        },
+        {
+          "name": "Akurei",
+          "url": "https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37"
+        }
+      ],
+      "duration_ms": 194067,
+      "name": "DOWN",
+      "url": "https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -787,38 +819,6 @@
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "See In Color",
         "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
       },
@@ -915,22 +899,38 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/5vaQxSQf6pano3BHr9VQzG"
       },
       "artists": [
         {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+          "name": "JYYE",
+          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
         },
         {
-          "name": "Jordan Dennis",
-          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
         }
       ],
-      "duration_ms": 197639,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+      "duration_ms": 130558,
+      "name": "Kryptonite (feat. Julia Temos)",
+      "url": "https://open.spotify.com/track/2uMP2WzQTyU4uyOEdfm2WY"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -955,26 +955,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Turn Up The Sunshine (PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack)",
-        "url": "https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
         }
       ],
-      "duration_ms": 220593,
-      "name": "Turn Up The Sunshine - PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO"
+      "duration_ms": 293775,
+      "name": "Feel It Too",
+      "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1019,38 +1011,62 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
       "artists": [
         {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
         }
       ],
-      "duration_ms": 293775,
-      "name": "Feel It Too",
-      "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
+      "duration_ms": 197639,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
     },
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Kryptonite",
-        "url": "https://open.spotify.com/album/5vaQxSQf6pano3BHr9VQzG"
+        "name": "Turn Up The Sunshine (PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc"
       },
       "artists": [
         {
-          "name": "JYYE",
-          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         },
         {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 130558,
-      "name": "Kryptonite (feat. Julia Temos)",
-      "url": "https://open.spotify.com/track/2uMP2WzQTyU4uyOEdfm2WY"
+      "duration_ms": 220593,
+      "name": "Turn Up The Sunshine - PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Always Got The Love",
+        "url": "https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "duration_ms": 207875,
+      "name": "Always Got The Love",
+      "url": "https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1071,42 +1087,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Rose Pink Cadillac (LARRY PINK THE HUMAN Remix)",
-        "url": "https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        },
-        {
-          "name": "LARRY PINK THE HUMAN",
-          "url": "https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "Rose Pink Cadillac - LARRY PINK THE HUMAN Remix",
-      "url": "https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Sun Phase",
-        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 316454,
-      "name": "Sun Phase",
-      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "What Comes Next",
         "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 243599,
       "name": "Get To Know (feat. Winston Surfshirt)",
       "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Rose Pink Cadillac (LARRY PINK THE HUMAN Remix)",
+        "url": "https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        },
+        {
+          "name": "LARRY PINK THE HUMAN",
+          "url": "https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "Rose Pink Cadillac - LARRY PINK THE HUMAN Remix",
+      "url": "https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN"
     }
   ],
   "unique_name": "Sunday Sessions",

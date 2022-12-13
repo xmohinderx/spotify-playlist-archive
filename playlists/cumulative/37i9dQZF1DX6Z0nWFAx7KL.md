@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-108 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
+109 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Can't Let You Go](https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Can't Let You Go](https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF) | 3:22 | 2022-09-29 | 2022-10-22 |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 |  |
 | [Chasing Daydreams](https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Chasing Daydreams](https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw) | 2:45 | 2022-10-13 |  |
+| [Close To Me](https://open.spotify.com/track/7ufA7tIRMoFd1jTKgAfgRF) | [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU), [Amy Jones](https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk) | [Close To Me](https://open.spotify.com/album/6puejdn1tcxwEHrxnjU5oj) | 4:57 | 2022-12-01 |  |
 | [Come Along](https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Come Along](https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY) | 2:44 | 2022-09-15 |  |
 | [Crazy](https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Crazy](https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA) | 3:40 | 2022-09-15 |  |
 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 | 2022-09-15 |  |
@@ -82,7 +83,7 @@
 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4) | 3:19 | 2022-09-15 | 2022-09-30 |
 | [Nightcall](https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Nightcall](https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2) | 2:06 | 2022-09-15 |  |
 | [No One Hurries Time](https://open.spotify.com/track/46njaMNjHhIipCp5O2OJop) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Andrea Hamilton](https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs) | [No One Hurries Time](https://open.spotify.com/album/2hIhs4onnfovulkkODKLaP) | 2:36 | 2022-09-15 |  |
-| [Ocean Drive](https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Ocean Drive](https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf) | 2:33 | 2022-09-15 |  |
+| [Ocean Drive](https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Ocean Drive](https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf) | 2:33 | 2022-09-15 | 2022-12-13 |
 | [On My Mind](https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz) | [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45) | [On My Mind](https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS) | 2:35 | 2022-09-15 |  |
 | [One More Night](https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [One More Night](https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y) | 2:12 | 2022-11-08 | 2022-11-24 |
 | [Out Of Love](https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Out Of Love](https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW) | 2:35 | 2022-09-29 |  |

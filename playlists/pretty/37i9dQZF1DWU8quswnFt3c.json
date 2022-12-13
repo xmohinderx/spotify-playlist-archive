@@ -1,12 +1,12 @@
 {
   "description": "Listen to the most streamed tracks from EQUAL Global in 2022, at full volume.",
-  "num_followers": 860985,
+  "num_followers": 860991,
   "original_name": "Top Artists of EQUAL Global 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDYyNzQyYzk3N2U1Yzc4NTUwODIzMDZiYzljMDk1NjVi",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGM3NDY3NGUxOTk2YTJmNzA2N2M0M2I2OGU4MGM5MWIz",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -139,26 +139,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "KGF Chapter 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1"
-      },
-      "artists": [
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        },
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Mehabooba",
-      "url": "https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Doobey (From \"Gehraiyaan\")",
         "url": "https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 219686,
       "name": "Doobey (From \"Gehraiyaan\")",
       "url": "https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "KGF Chapter 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Mehabooba",
+      "url": "https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 156167,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Ne G\u00fczel",
         "url": "https://open.spotify.com/album/5qdprolO1wBPmcMLWV8ZoE"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 169263,
       "name": "Ne G\u00fczel",
       "url": "https://open.spotify.com/track/4QOVWiNQmMhOODibbU3cQw"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 156167,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/3VfITgUbE2jcmEPelaejwz"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 176046,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/7hMSysDmiuzDmecbl2ba5u"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Barbie (feat. Danny Bond)",
         "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
       },
@@ -559,6 +575,22 @@
       "duration_ms": 149514,
       "name": "Barbie (feat. Danny Bond)",
       "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
+        "url": "https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe"
+      },
+      "artists": [
+        {
+          "name": "Anna Zak",
+          "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
+        }
+      ],
+      "duration_ms": 158589,
+      "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
+      "url": "https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -599,18 +631,18 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/3VfITgUbE2jcmEPelaejwz"
+        "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
+        "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
       },
       "artists": [
         {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
         }
       ],
-      "duration_ms": 176046,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/7hMSysDmiuzDmecbl2ba5u"
+      "duration_ms": 183238,
+      "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
+      "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -627,38 +659,6 @@
       "duration_ms": 226000,
       "name": "\u00c0 tout jamais",
       "url": "https://open.spotify.com/track/048gupABMSEZEm1UEkxbTP"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
-        "url": "https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe"
-      },
-      "artists": [
-        {
-          "name": "Anna Zak",
-          "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
-        }
-      ],
-      "duration_ms": 158589,
-      "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
-      "url": "https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
-        "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 183238,
-      "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
-      "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Houwa",
+        "url": "https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "duration_ms": 211891,
+      "name": "Houwa",
+      "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 222857,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Houwa",
-        "url": "https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0"
-      },
-      "artists": [
-        {
-          "name": "RYM",
-          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "Houwa",
-      "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "\u96e2\u5fc3\u529b",
-        "url": "https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco"
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
       "artists": [
         {
-          "name": "Naiwen Yang",
-          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 282015,
-      "name": "\u63a8\u958b\u4e16\u754c\u7684\u9580",
-      "url": "https://open.spotify.com/track/7rYdfR1PHguFvfYUIs0ehf"
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+        "name": "\u96e2\u5fc3\u529b",
+        "url": "https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Naiwen Yang",
+          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
         }
       ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+      "duration_ms": 282015,
+      "name": "\u63a8\u958b\u4e16\u754c\u7684\u9580",
+      "url": "https://open.spotify.com/track/7rYdfR1PHguFvfYUIs0ehf"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -979,34 +979,18 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
-        "url": "https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP"
+        "name": "can you see me?",
+        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
       "artists": [
         {
-          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
-          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 191105,
-      "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
-      "url": "https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Swim Away",
-        "url": "https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205442,
-      "name": "Swim Away",
-      "url": "https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF"
+      "duration_ms": 197994,
+      "name": "can you see me?",
+      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "can you see me?",
-        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 197994,
-      "name": "can you see me?",
-      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Ri\u0165",
         "url": "https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y"
       },
@@ -1059,6 +1027,38 @@
       "duration_ms": 179649,
       "name": "Ri\u0165",
       "url": "https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Swim Away",
+        "url": "https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205442,
+      "name": "Swim Away",
+      "url": "https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
+        "url": "https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        }
+      ],
+      "duration_ms": 191105,
+      "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
+      "url": "https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1179,38 +1179,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "His",
-        "url": "https://open.spotify.com/album/0L58boxRzxjiyKdYmRrI2t"
-      },
-      "artists": [
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 229634,
-      "name": "His",
-      "url": "https://open.spotify.com/track/6bRwh3cskYWuCfzQzpsqmg"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Al Forga",
-        "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
-      },
-      "artists": [
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 177388,
-      "name": "Al Forga",
-      "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Mango Sticky Rice",
         "url": "https://open.spotify.com/album/6R5vWWMCBGgxm2IVskChn8"
       },
@@ -1223,6 +1191,22 @@
       "duration_ms": 89087,
       "name": "Mango Sticky Rice",
       "url": "https://open.spotify.com/track/6TXVxPWpnbNHq2LcmxD7em"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "His",
+        "url": "https://open.spotify.com/album/0L58boxRzxjiyKdYmRrI2t"
+      },
+      "artists": [
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "duration_ms": 229634,
+      "name": "His",
+      "url": "https://open.spotify.com/track/6bRwh3cskYWuCfzQzpsqmg"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 168107,
       "name": "SHUT UP",
       "url": "https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Al Forga",
+        "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
+      },
+      "artists": [
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 177388,
+      "name": "Al Forga",
+      "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
     },
     {
       "added_at": "2022-11-30 13:46:00",

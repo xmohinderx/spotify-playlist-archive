@@ -4,7 +4,7 @@
 
 > 🧈 Smooth joints\. Cover: Adi Oasis
 
-771 songs - 1 day 21 hr 36 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+772 songs - 1 day 21 hr 40 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,7 @@
 | [Mr Wu](https://open.spotify.com/track/5zX6BoRLM032b7ItNUmvRM) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Mr\. Wu](https://open.spotify.com/album/01n4D6rSsBpEGNXpp2xH4T) | 3:37 | 2020-07-24 | 2020-09-11 |
 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/0CFJkT2XrKrkCbIWJWBgg6) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [RISING](https://open.spotify.com/album/4kzoEK2irP3OadlwBZ1GQ2) | 3:43 | 2019-11-11 | 2020-01-14 |
 | [MUD](https://open.spotify.com/track/4TouKwjjHfEhUHGPVh7H5Q) | [Tall Black Guy](https://open.spotify.com/artist/2bz6GlqjAN5fTFWvy0rmSP), [Ozay Moore](https://open.spotify.com/artist/5upHj0MnOX1kIBXf7zzoZb), [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [MUD](https://open.spotify.com/album/5nbKPFzlN0UclW589jkpFD) | 4:19 | 2021-07-04 | 2022-04-20 |
-| [My Pleasure](https://open.spotify.com/track/6Myc3yPWhYiskfhAOqQG8n) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Naja](https://open.spotify.com/artist/11oXgFCwu3o6prxhmaRBJ7) | [HOW TO MAKE LOVE](https://open.spotify.com/album/7DmTz8IJFvLvs59Pvr0EPR) | 4:41 | 2022-11-18 |  |
+| [My Pleasure](https://open.spotify.com/track/6Myc3yPWhYiskfhAOqQG8n) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Naja](https://open.spotify.com/artist/11oXgFCwu3o6prxhmaRBJ7) | [HOW TO MAKE LOVE](https://open.spotify.com/album/7DmTz8IJFvLvs59Pvr0EPR) | 4:41 | 2022-11-18 | 2022-12-13 |
 | [My Sunrise](https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [My Sunrise](https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6) | 3:09 | 2021-01-23 |  |
 | [Naked](https://open.spotify.com/track/0I6PjTwqXQlsJYwwBMP1sQ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:00 | 2022-07-15 | 2022-09-03 |
 | [NASTY GIRL](https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem) | 3:52 | 2022-04-15 | 2022-04-23 |
@@ -753,6 +753,7 @@
 | [Where Were You](https://open.spotify.com/track/5CWacF8meseoq1AHSvLslX) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/2fnxXQV2NF5bsaLBndaKsH) | 3:25 | 2022-07-22 | 2022-08-10 |
 | [Whisper \(Want My Luv\)](https://open.spotify.com/track/6CkYn4ygBqKCAziK6FC4gn) | [Patrick Paige II](https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Allen Love](https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Whisper \(Want My Luv\)](https://open.spotify.com/album/28yXwBFyKBCV33FZZCpAJN) | 3:49 | 2021-03-07 | 2021-07-04 |
 | [WHITE CRAYON](https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6) | 4:31 | 2020-04-10 | 2022-11-20 |
+| [White Crayon](https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/3DPTrgC3Ee2cZN6lUGWdaq) | 4:31 | 2022-12-08 |  |
 | [White Rabbit](https://open.spotify.com/track/52y9HSI3f2ajMYMCfGFS27) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [White Rabbit](https://open.spotify.com/album/1ZK8Qp67wMuKrZOWMSzM0V) | 4:33 | 2020-05-22 | 2021-05-09 |
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2020-08-20 | 2021-01-23 |
 | [Why You Gotta Lie](https://open.spotify.com/track/46jcSY7yUTevlMoxbii0rS) | [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq) | [Faible \- Teil 1](https://open.spotify.com/album/09TUQAYvgG5lrOZlkpCyO0) | 4:05 | 2020-11-07 | 2021-09-09 |

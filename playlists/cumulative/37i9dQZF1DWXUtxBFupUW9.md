@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-140 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
+141 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 | 2022-03-24 | 2022-04-20 |
 | [Sugar Dumplin'](https://open.spotify.com/track/2BOw0dWszhNSkKRHSuvqOP) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [Out Of Sight](https://open.spotify.com/album/6Qpdl3QaU93V5Pi6eRdcC3) | 2:25 | 2022-03-24 | 2022-04-21 |
 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-12-20 | 2022-09-02 |
-| [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2022-08-12 |  |
+| [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2022-08-12 | 2022-12-13 |
 | [Take Me Girl, I'm Ready](https://open.spotify.com/track/5LHHNatzxpJ9uxFVv4z9zZ) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [The Definitive Collection](https://open.spotify.com/album/6pDK4Z6EZy39RSvD4HWhTn) | 4:00 | 2022-01-21 | 2022-07-06 |
 | [Tally Ho!](https://open.spotify.com/track/4doVTABOiGV6XEytZtV2Dv) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun \- MotownSelect.com](https://open.spotify.com/album/00w16tADWvPLCdmN9WhQuu) | 4:42 | 2022-01-21 | 2022-04-18 |
 | [Tell Me Baby](https://open.spotify.com/track/4U3NxdMXeHIGph2gjDyQqK) | [Garnet Mimms & The Enchanters](https://open.spotify.com/artist/1ktvF9yU9iWgY0aGlKfTS4) | [The Best Of Barnet Mimms: Cry Baby](https://open.spotify.com/album/0Kj6PjTGFNnh8EsFPPj3cI) | 2:44 | 2022-03-24 | 2022-04-21 |
@@ -135,6 +135,7 @@
 | [This Will Be \(An Everlasting Love\) \- 2003 Remaster](https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Natalie Cole Anthology](https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb) | 2:51 | 2021-12-20 |  |
 | [Turn Back The Hands Of Time](https://open.spotify.com/track/5o3qMny3Ym8O512RKrNoLw) | [Tyrone Davis](https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd) | [Turn Back The Hands Of Time](https://open.spotify.com/album/1Ib7i6dWJatZaCIzABbtZi) | 2:58 | 2022-01-21 | 2022-11-13 |
 | [Twenty Five Miles](https://open.spotify.com/track/6zpOu65vJLr3v6Wl6PbDHo) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [The Hits Of Edwin Starr](https://open.spotify.com/album/5Lj0voE6hpEZ9zTms5i4Z2) | 3:16 | 2022-01-21 | 2022-07-28 |
+| [Twenty Five Miles](https://open.spotify.com/track/0vstoapfzoOlqD8zurG2uJ) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [25 Miles](https://open.spotify.com/album/1M4ZJAYy0baYzSsqCgfNNO) | 3:18 | 2022-08-12 |  |
 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 | 2022-05-12 |  |
 | [Twistin' the Night Away](https://open.spotify.com/track/4pHLMH4f3NKP5cBRfPlIZb) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away \(Classic Album \- Gold Edition\)](https://open.spotify.com/album/5tTtfbF5NOceHLjzjWywYC) | 2:42 | 2021-12-20 | 2022-07-29 |
 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight](https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK) | 2:54 | 2022-05-12 |  |

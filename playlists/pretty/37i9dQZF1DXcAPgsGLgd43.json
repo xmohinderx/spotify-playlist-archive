@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2272,
+  "num_followers": 2278,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDRkZGQwMGFjNTlkZjNlMGEzNWU3ZTA1YzBhYjliYjhk",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDNhNjNkMzc0OWFmZDllNDY5NWI0YWY1ZDZhNDM1ZDgy",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -195,26 +195,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Sway (Mucho Mambo)",
-        "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Sway (Mucho Mambo)",
-      "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 167397,
       "name": "Mi Casa",
       "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Sway (Mucho Mambo)",
+        "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Sway (Mucho Mambo)",
+      "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -303,30 +303,6 @@
       "duration_ms": 190987,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Magalenha (feat. Sergio Mendes)",
-        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Magalenha (feat. Sergio Mendes)",
-      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -407,6 +383,30 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Magalenha (feat. Sergio Mendes)",
+        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Magalenha (feat. Sergio Mendes)",
+      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Los Tamales",
         "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
       },
@@ -439,26 +439,6 @@
       "duration_ms": 205440,
       "name": "Si Tu Sabe",
       "url": "https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -503,6 +483,42 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Tribesmen",
+        "url": "https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 437556,
+      "name": "Tribesmen - Original Mix",
+      "url": "https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Dirty Spanish",
         "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 366093,
       "name": "Quiribi - Yamil Remix",
       "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Tribesmen",
-        "url": "https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 437556,
-      "name": "Tribesmen - Original Mix",
-      "url": "https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -591,26 +591,6 @@
       "duration_ms": 196500,
       "name": "Brisas Del Mar",
       "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Vagabundos",
-        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 157530,
-      "name": "Vagabundos",
-      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -669,6 +649,42 @@
       "url": "https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV"
     },
     {
+      "added_at": "2021-10-15 05:57:00",
+      "album": {
+        "name": "Ecua",
+        "url": "https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "Ecua",
+      "url": "https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Vagabundos",
+        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 157530,
+      "name": "Vagabundos",
+      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
+    },
+    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
@@ -691,22 +707,6 @@
       "duration_ms": 172258,
       "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
-    },
-    {
-      "added_at": "2021-10-15 05:57:00",
-      "album": {
-        "name": "Ecua",
-        "url": "https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Ecua",
-      "url": "https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh"
     },
     {
       "added_at": "2021-10-08 15:53:55",

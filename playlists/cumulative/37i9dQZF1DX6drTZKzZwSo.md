@@ -4,7 +4,7 @@
 
 > Classic funk.
 
-83 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
+85 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Prisoner](https://open.spotify.com/track/2RpkSGvC8NYNcQPt2BwCTG) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG), [Fabrizio Moretti](https://open.spotify.com/artist/6wVnFdBOZ3M2vYjrmLT6tW) | [Prisoner](https://open.spotify.com/album/7egNj1u8FHlfqsfdlyZDVL) | 3:23 | 2020-04-14 | 2022-11-13 |
 | [Pull Up To The Bumper](https://open.spotify.com/track/5VpDYLvj2R2D69irsL5Mra) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Fill The Dance Floor](https://open.spotify.com/album/5gc6mLkEYKdwD58QlODJED) | 4:41 | 2020-04-14 | 2022-11-14 |
 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 | 2020-04-14 |  |
+| [Pusherman](https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:00 | 2022-12-12 |  |
 | [Put a Little Love On Me](https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 4:29 | 2020-04-14 |  |
 | [Rock Steady](https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:13 | 2020-04-14 |  |
 | [Sea Groove](https://open.spotify.com/track/4lhFA1E4MFfPeO9gYJEZOs) | [Big Boss Man](https://open.spotify.com/artist/6ZEPiznKqWSTc8YMITtM0X) | [Humanize](https://open.spotify.com/album/7qMC3PZNBjYRXcBfOi7hgt) | 4:28 | 2020-04-14 | 2022-12-02 |
@@ -81,6 +82,7 @@
 | [Till You Take My Love](https://open.spotify.com/track/6VtO5cZQzv8s3kCFjrXfhi) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Funk In A Mason Jar](https://open.spotify.com/album/4FT9zMdYfx8kqaWszNrTxM) | 3:42 | 2020-04-14 |  |
 | [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 | 2020-04-14 |  |
 | [Too Hot Ta Trot](https://open.spotify.com/track/2dm0eNGhVJ7kLOGvczqTu3) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Hunk\-a\-Funk](https://open.spotify.com/album/35KR5e5EhWbVWgUq0cJ86q) | 5:37 | 2020-04-14 | 2022-11-13 |
+| [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 | 2022-12-12 |  |
 | [Watching You](https://open.spotify.com/track/6QaOKUQLoExtstwVU1ZtM5) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Dopamine](https://open.spotify.com/album/21GtIqlg2I5bxv9XKfur4f) | 3:28 | 2020-04-14 | 2022-11-13 |
 | [Watching You \- Single Version](https://open.spotify.com/track/1Gde0bfBP6VJVBUkaFZMxz) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Stone Jam](https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC) | 3:28 | 2020-04-14 |  |
 | [We Supply](https://open.spotify.com/track/15jrsi4n0S152zsrlWkT3v) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 4:10 | 2020-04-14 |  |

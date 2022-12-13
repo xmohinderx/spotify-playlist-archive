@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 7594,
+  "num_followers": 7606,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGZhNTdmYzk1NzQ0ZDFjMWExM2Q1YjM0OTJjMjk4ODBk",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDFmODdhNDYzZjYzZWJlMWFmOGFiNGEzNWUwNzU4OGFj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 150667,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 197946,
       "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 150667,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Too Drunk To Drive Drunk",
-      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Can't Look Back",
         "url": "https://open.spotify.com/album/1SvTWXMHWM41KEQ3es4m0r"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 170000,
       "name": "T-Bone Shuffle",
       "url": "https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Too Drunk To Drive Drunk",
+      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/5sPZH5scVV63witIumgJIa"
     },
     {
+      "added_at": "2021-11-05 04:00:00",
+      "album": {
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "duration_ms": 149895,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Dig In Deep",
@@ -655,22 +671,6 @@
       "duration_ms": 172000,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
-    },
-    {
-      "added_at": "2021-11-05 04:00:00",
-      "album": {
-        "name": "Shout Into The Noise",
-        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        }
-      ],
-      "duration_ms": 149895,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/0PmnHzal7bupGVxxVsWiV9"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Son Of A Bluesman",
-        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
-    },
-    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Damage Control",
@@ -867,6 +851,22 @@
       "duration_ms": 214133,
       "name": "Mr. Loving Man",
       "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Son Of A Bluesman",
+        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
     }
   ],
   "unique_name": "Blues Party",

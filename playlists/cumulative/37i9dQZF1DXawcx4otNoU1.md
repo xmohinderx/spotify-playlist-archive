@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-288 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
+289 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 | 2021-10-26 | 2022-07-29 |
 | [Lost Without You](https://open.spotify.com/track/7nenN69yGXnrlOrjQrZSSw) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Valentines Day Songs](https://open.spotify.com/album/1aWzafCfTTaW1913Y0I3w3) | 3:45 | 2022-10-28 | 2022-11-13 |
 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 | 2022-07-08 |  |
+| [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 | 2022-12-09 |  |
 | [Love Like This](https://open.spotify.com/track/24Axpf2jGwlzCrddAEiLgl) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Like This](https://open.spotify.com/album/1wykiv2riNxF4i3gfrz3qI) | 4:10 | 2022-07-08 |  |
 | [Love Like This](https://open.spotify.com/track/2FCckttvtgRkQHkeWHer6J) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Like This](https://open.spotify.com/album/4ZxgR8Pmmvdjy7J8fmTMLp) | 4:10 | 2021-10-26 | 2022-07-29 |
 | [Love On The Brain](https://open.spotify.com/track/26QRPeQOgmIGLCQKgoUJkG) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/2JNVoEx4psIgNQyEExwQVn) | 3:44 | 2022-02-08 | 2022-07-29 |
@@ -167,7 +168,7 @@
 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 | 2021-10-26 |  |
 | [Memories](https://open.spotify.com/track/1PDAEpGPDZ0QGWNt3C5Dck) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:35 | 2022-05-11 |  |
 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2021-10-26 |  |
-| [Meteor Showers](https://open.spotify.com/track/1YJtGzArwMvryrDMN0sNRB) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Meteor Showers](https://open.spotify.com/album/6WiiRowuPqRSFWizLUHKel) | 3:40 | 2022-07-08 |  |
+| [Meteor Showers](https://open.spotify.com/track/1YJtGzArwMvryrDMN0sNRB) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Meteor Showers](https://open.spotify.com/album/6WiiRowuPqRSFWizLUHKel) | 3:40 | 2022-07-08 | 2022-12-13 |
 | [Meteor Showers](https://open.spotify.com/track/3XcTCYdB6raO8X1fu9HzW7) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Meteor Showers](https://open.spotify.com/album/5nsdwr36uZ7VBeYaqgjQ3P) | 3:40 | 2021-10-26 | 2022-07-29 |
 | [Midnight Train](https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:27 | 2021-10-26 | 2022-07-29 |
 | [Midnight Train](https://open.spotify.com/track/6hPFEpT7bVguj9aCFLOmiz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:27 | 2022-07-08 |  |

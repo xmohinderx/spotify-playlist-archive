@@ -1,12 +1,12 @@
 {
   "description": "24 songs dedicated to the Mamba & Mambacita. R.I.P. Kobe & Gianna Bryant.",
-  "num_followers": 433743,
+  "num_followers": 434116,
   "original_name": "2 . 24",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODQwMCwwMDAwMDAwMDQ2NWJiZWMxOWRmODhmYWIzZDY1ZGJiZGRkODVjOGM1",
+  "snapshot_id": "MTY1NTQzODQwMCwwMDAwMDAwMDczMmQ5NmFhYmI5MjUwYTE2Yzg1ZDg3NzEyYTkxN2M5",
   "tracks": [
     {
       "added_at": "2022-06-17 04:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Can't Tell Me Nothing",
+      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
         "name": "From The D To The A (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/3YuHePPmc5VN4usLuIBT91"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 158684,
       "name": "From The D To The A (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Can't Tell Me Nothing",
-      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
     },
     {
       "added_at": "2022-06-17 04:00:00",

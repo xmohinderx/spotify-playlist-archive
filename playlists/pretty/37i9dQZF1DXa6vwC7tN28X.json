@@ -1,12 +1,12 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 20374,
+  "num_followers": 20380,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMDAzMDcxNDg5OTA1ZDFjY2NlZDUyMjBjZmY4ZmRjMjY3",
+  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMGU5NGI4ZmNjMWJiNjQ4NmI3NzJmMDcwMjBjODVlMzVk",
   "tracks": [
     {
       "added_at": "2022-06-24 18:22:18",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Pequenas An\u00e9cdotas Sobre Las Instituciones",
-        "url": "https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Tango en Segunda",
-      "url": "https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 176714,
       "name": "Los Piratas - MTV Unplugged",
       "url": "https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Pequenas An\u00e9cdotas Sobre Las Instituciones",
+        "url": "https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Tango en Segunda",
+      "url": "https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -279,18 +279,22 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Tinta roja",
-        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 243986,
-      "name": "Nostalgias",
-      "url": "https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42"
+      "duration_ms": 271333,
+      "name": "Gricel",
+      "url": "https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -311,22 +315,18 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz"
+        "name": "Tinta roja",
+        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        },
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 271333,
-      "name": "Gricel",
-      "url": "https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY"
+      "duration_ms": 243986,
+      "name": "Nostalgias",
+      "url": "https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
       },
@@ -399,22 +383,6 @@
       "duration_ms": 247821,
       "name": "Tango del Diablo",
       "url": "https://open.spotify.com/track/7omc6Ocnzf15amA904VsaO"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
-        "name": "Pecado Capital",
-        "url": "https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 303720,
-      "name": "Whisky Doble",
-      "url": "https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -439,6 +407,22 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
+        "name": "Pecado Capital",
+        "url": "https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 303720,
+      "name": "Whisky Doble",
+      "url": "https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
         "name": "Int\u00e9rpretes",
         "url": "https://open.spotify.com/album/1yTHFSLxUB82URToWd2EM3"
       },
@@ -455,8 +439,24 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Tinta roja",
-        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
+        "name": "Menesunda: Tangolencia Rockera",
+        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        }
+      ],
+      "duration_ms": 143533,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 198959,
-      "name": "Mano a mano",
-      "url": "https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK"
+      "duration_ms": 147093,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -487,22 +487,6 @@
       "duration_ms": 173888,
       "name": "El Vino Triste",
       "url": "https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
-        "name": "Menesunda: Tangolencia Rockera",
-        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
-      },
-      "artists": [
-        {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        }
-      ],
-      "duration_ms": 143533,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
+        "name": "Tinta roja",
+        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 198959,
+      "name": "Mano a mano",
+      "url": "https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
         "name": "Otro Le Travaladna",
         "url": "https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 175866,
       "name": "Volver Ni A Palos",
       "url": "https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
-        "name": "Maldito Tango",
-        "url": "https://open.spotify.com/album/3lqGBKTp87k7kJ7VeR76r1"
-      },
-      "artists": [
-        {
-          "name": "Melingo",
-          "url": "https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "En Un Bondi Color Humo",
-      "url": "https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -655,6 +639,22 @@
       "duration_ms": 162866,
       "name": "Tomo y Obligo",
       "url": "https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Maldito Tango",
+        "url": "https://open.spotify.com/album/3lqGBKTp87k7kJ7VeR76r1"
+      },
+      "artists": [
+        {
+          "name": "Melingo",
+          "url": "https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "En Un Bondi Color Humo",
+      "url": "https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Espiritango",
-        "url": "https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige"
-      },
-      "artists": [
-        {
-          "name": "Los Visitantes",
-          "url": "https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW"
-        }
-      ],
-      "duration_ms": 115733,
-      "name": "El Deseo de Evita",
-      "url": "https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Bagayo",
         "url": "https://open.spotify.com/album/7CSdj0Rlyoc3INm3uCD1yl"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 140786,
       "name": "Nocturno A Mi Barrio",
       "url": "https://open.spotify.com/track/0c4oyNo6yqoX0MTwMzDhvM"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Espiritango",
+        "url": "https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige"
+      },
+      "artists": [
+        {
+          "name": "Los Visitantes",
+          "url": "https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW"
+        }
+      ],
+      "duration_ms": 115733,
+      "name": "El Deseo de Evita",
+      "url": "https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC"
     },
     {
       "added_at": "2022-06-24 18:22:18",

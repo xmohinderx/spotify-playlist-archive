@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-300 songs - 1 day 4 hr 10 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
+302 songs - 1 day 4 hr 18 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,9 +279,10 @@
 | [Trees](https://open.spotify.com/track/563KxKAXHndNrUf5mv3vSY) | [Blurt](https://open.spotify.com/artist/0dkXwqAwKvZUWBI4C3UNFY) | [Blurt + Singles](https://open.spotify.com/album/0eI7DNGtlzqQfisyB5AJVN) | 6:51 | 2021-07-30 |  |
 | [Trees](https://open.spotify.com/track/1NXypJl06i4aiD6Lpi06Sb) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/4oopTeOoJJNiUkc6AVjmAA) | 7:14 | 2021-07-30 | 2022-07-29 |
 | [Trees](https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 7:14 | 2021-07-30 |  |
-| [Trimbornstraße](https://open.spotify.com/track/5t6XSo7zCpAuSulPSNH66g) | [Locas In Love](https://open.spotify.com/artist/4Beu6QM5GtQLpUd0b13PMJ) | [Use Your Illusion 3 & 4](https://open.spotify.com/album/1GfqhkmfCGWNgrlTg1l0Fv) | 3:50 | 2021-07-30 |  |
+| [Trimbornstraße](https://open.spotify.com/track/5t6XSo7zCpAuSulPSNH66g) | [Locas In Love](https://open.spotify.com/artist/4Beu6QM5GtQLpUd0b13PMJ) | [Use Your Illusion 3 & 4](https://open.spotify.com/album/1GfqhkmfCGWNgrlTg1l0Fv) | 3:50 | 2021-07-30 | 2022-12-13 |
 | [Tub Erupt](https://open.spotify.com/track/5UagxRDKDj3QyQHAWIJ9ZR) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/7Gsi59BAXGkBz8nxEYy9n3) | 2:52 | 2021-12-07 |  |
 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 | 2021-07-30 |  |
+| [Untitled](https://open.spotify.com/track/2083LlzhOGy4Aq9b1jM2jM) | [Six by Seven](https://open.spotify.com/artist/4TXdHyuAOl3rAOFmZ6MeKz) | [04](https://open.spotify.com/album/7IpgfZxfhCXGxVGb1Cfzcr) | 4:48 | 2021-07-30 |  |
 | [Untitled](https://open.spotify.com/track/5KxUZAAN0NG74fe4Jfw7mi) | [Six by Seven](https://open.spotify.com/artist/4TXdHyuAOl3rAOFmZ6MeKz) | [04](https://open.spotify.com/album/2fPmKAugfJhufi6UXxkxnx) | 4:48 | 2021-07-30 | 2022-12-01 |
 | [Used to Think](https://open.spotify.com/track/6cIsY3cKGqj7GQFwezvseP) | [Casper Clausen](https://open.spotify.com/artist/5C4Dyg1qY6TKdrNHyoEC45) | [Better Way](https://open.spotify.com/album/0AcT4Mp7OJUnwVkswTXcSR) | 8:39 | 2021-07-30 |  |
 | [Vertical Tones & Horizontal Noise](https://open.spotify.com/track/02aPqEY7fyzjtbnKl1STJg) | [The Emperor Machine](https://open.spotify.com/artist/04Cc5ks5mhKFesBhpe4TSl) | [Death Before Distemper 3 \- A FistfulOf Ferrets \- Mixed and Re\-edited By The Idjut Boys](https://open.spotify.com/album/0LixZ5NPDtMiGNcAZ8DYGF) | 6:51 | 2021-07-30 |  |
@@ -306,7 +307,8 @@
 | [Yaya](https://open.spotify.com/track/6cy5LOfwc1QpePCqc57hd0) | [Sam Wave](https://open.spotify.com/artist/3k1f8dYJ88kt4aTPMb2hLj) | [Yaya](https://open.spotify.com/album/17M7xCoG5snzUFfZwltiXH) | 4:11 | 2021-07-30 |  |
 | [You Look Certain \(I’m Not So Sure\)](https://open.spotify.com/track/559261quLx4Iuiz1PjmvgY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [Love What Survives](https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit) | 3:22 | 2021-07-30 |  |
 | [You Look Certain \(I’m Not So Sure\) \- WXAXRXP Session](https://open.spotify.com/track/691HbefeRbA751TYr9PCGJ) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [You Look Certain \(I’m Not So Sure\) \[WXAXRXP Session\]](https://open.spotify.com/album/3tPGDPk4zOrdlBsuS01jci) | 5:34 | 2021-07-30 |  |
-| [Échale Campeón](https://open.spotify.com/track/7dOgA9Lr12XHBs3djRUwbO) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4) | 3:28 | 2021-10-21 |  |
+| [Échale Campeón](https://open.spotify.com/track/5A5jLIwW2aYCLagxpwF6MJ) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm) | 3:28 | 2021-10-21 |  |
+| [Échale Campeón](https://open.spotify.com/track/7dOgA9Lr12XHBs3djRUwbO) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4) | 3:28 | 2021-10-21 | 2022-12-13 |
 | [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 | 2021-07-30 |  |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

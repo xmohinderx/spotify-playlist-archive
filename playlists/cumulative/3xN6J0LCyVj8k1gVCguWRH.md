@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,875 songs - 4 day 12 hr 15 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,877 songs - 4 day 12 hr 24 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1639,6 +1639,7 @@
 | [There For You](https://open.spotify.com/track/0FGmQsqCgNEQsj7QS4GZJl) | [Ulyss](https://open.spotify.com/artist/5bEvbRrEjpjRyHm92aY4Ly) | [There For You](https://open.spotify.com/album/7LOHHh9uwWIPMjk4d4AZQ2) | 3:18 | 2022-06-17 | 2022-11-05 |
 | [These A Eyes](https://open.spotify.com/track/02kiMZUSwJDTYkeMP833IF) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [These A Eyes](https://open.spotify.com/album/3XyDq2d0v27zWz9dR3j5qn) | 3:04 | 2021-11-21 | 2021-12-05 |
 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 | 2020-08-20 |  |
+| [They Can Say What They Like](https://open.spotify.com/track/3Pp5PFYOdZHwT3nz4iLk6H) | [Kimaya Diggs](https://open.spotify.com/artist/2htDUAwQ43hKvaGxAobgSB) | [They Can Say What They Like](https://open.spotify.com/album/5hpiel9r5L9u3unhcmpqjw) | 4:50 | 2022-12-12 |  |
 | [THEY LIKE](https://open.spotify.com/track/1vcm7Mk2uCxwHU5uBhwgOx) | [B3T ON YOURS3LF](https://open.spotify.com/artist/5tVeITgKht3pQ8skxVtOl5) | [THEY LIKE](https://open.spotify.com/album/40cg0IAqsxZ17hbFIFKHK7) | 3:18 | 2020-07-18 | 2020-08-02 |
 | [Thin \(I Used to Be Bullet Proof\)](https://open.spotify.com/track/2tLwBBc643op5LEDfyhHX5) | [Our Man In The Field](https://open.spotify.com/artist/20iCBa8pr4rfazbp0cHQO4) | [The Company of Strangers](https://open.spotify.com/album/4PsNhnCanfRWtoDsdXnk7f) | 4:32 | 2021-12-24 | 2022-01-09 |
 | [Things Lovers Do](https://open.spotify.com/track/05DgSRsQ4Bi0X847PTDeI0) | [Piper\-Grace](https://open.spotify.com/artist/7EB0xNGHxFCHYgE5NZHFuj) | [Things Lovers Do](https://open.spotify.com/album/6KJtrP41EA7CvYD7hovmOz) | 2:41 | 2021-09-16 | 2021-10-02 |
@@ -1673,6 +1674,7 @@
 | [Too Fast](https://open.spotify.com/track/5MJ47IaaEMMKsgUqYEaCCv) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Too Fast](https://open.spotify.com/album/7xeKLRPVHhBn5WoJAAK8a8) | 2:33 | 2020-11-13 | 2020-11-28 |
 | [Too Good](https://open.spotify.com/track/4Uoc2mSkjXENcUWhSTNm2I) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/2yIwhsIWGRQzGQdn1czSK0) | 4:23 | 2021-07-12 | 2021-11-19 |
 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 | 2019-09-29\* |  |
+| [Too Good To Be True](https://open.spotify.com/track/6Du8n39SzV59stLwyGLElQ) | [Sunny Cowell](https://open.spotify.com/artist/5Vx8yHZLeIngcgEJH65uGF) | [Anthology of Love](https://open.spotify.com/album/2d43GSz7krsgM31LekX0UB) | 4:12 | 2022-12-12 |  |
 | [Too Many Times](https://open.spotify.com/track/5YRXVvbzzSGcoPqd7HXE5m) | [Silk Cinema](https://open.spotify.com/artist/6KXhDXDyiG1LSwbLIgX18B) | [Too Many Times](https://open.spotify.com/album/5UYFaHdLwCNhaWxuj22XR5) | 3:30 | 2021-09-11 | 2021-09-27 |
 | [Too Much To Ask For](https://open.spotify.com/track/75mX9iRKSnF9KvdbDpOCYt) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Too Much To Ask For](https://open.spotify.com/album/0V6U8x4DqOlTF9BLgB7Ip8) | 3:25 | 2021-10-30 | 2021-11-14 |
 | [Too Much to Taste](https://open.spotify.com/track/35xTeDQMiFuq6zfWRm9Qp3) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Too Much to Taste](https://open.spotify.com/album/1C1mKA6PiKxqte6gRm7N22) | 2:58 | 2021-10-29 | 2021-11-14 |

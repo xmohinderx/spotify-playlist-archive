@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 60842,
+  "num_followers": 60901,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDNmZWIyNTRhNTUyMTEwNWIwNGI3YzgzMmZhOGFmNThm",
+  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDkwMjM0NmI5ZDUxYzUzYjY1OTJmZDI2OTUwZjI0NjA5",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -443,26 +443,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Real Life Sux",
         "url": "https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 138097,
       "name": "kiss kiss",
       "url": "https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV"
     },
     {
+      "added_at": "2022-12-08 13:00:09",
+      "album": {
+        "name": "Backtrack",
+        "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Backtrack",
+      "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
+    },
+    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "weird!",
@@ -703,6 +719,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 128983,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
         "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
       },
@@ -719,22 +751,6 @@
       "duration_ms": 201176,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 128983,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -809,20 +825,20 @@
       "url": "https://open.spotify.com/track/5f8v9LU1xMnkYRCRuepklb"
     },
     {
-      "added_at": "2022-12-08 13:00:09",
+      "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Backtrack",
-        "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 158840,
-      "name": "Backtrack",
-      "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
+      "duration_ms": 173304,
+      "name": "{ The Dreamer\u2019s Hotel }",
+      "url": "https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -839,22 +855,6 @@
       "duration_ms": 205723,
       "name": "NO VANITY",
       "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "wish i was dead",
-        "url": "https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 98800,
-      "name": "wish i was dead",
-      "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
     }
   ],
   "unique_name": "dear diary",

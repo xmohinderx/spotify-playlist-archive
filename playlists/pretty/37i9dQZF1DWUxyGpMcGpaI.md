@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,860 likes - 32 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,574 likes - 32 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 | 31 | [you were here](https://open.spotify.com/track/0P9KuuKop7H5XcmcJlS8tO) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 2:46 |
 | 32 | [dream..\. come true?](https://open.spotify.com/track/0CreM2us2Cy9LD6R1bBnrg) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 1:43 |
 
-Snapshot ID: `MTY3MDM0MDYwMCwwMDAwMDAwMDI2ZDU3Y2ZhODJkZjRkYmQ2MTg5ZTVkODNhMTY3NDll`
+Snapshot ID: `MTY3MDg0OTI3NCwwMDAwMDAwMDY2NzI1MDdjYWIwNDQ5ZjhkYjRkMjAzMTUyYjY1ZDEz`

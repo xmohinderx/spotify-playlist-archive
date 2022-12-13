@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 259519,
       "name": "Amampondo",
       "url": "https://open.spotify.com/track/4qMRLtz3i7azhHrnkPPD3k"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 215133,
       "name": "Jeux interdits",
       "url": "https://open.spotify.com/track/5acbmHpQoANVHSfdD0DdF1"
@@ -1418,6 +1418,28 @@
     },
     {
       "album": {
+        "name": "Belafonte Returns to Carnegie Hall (Live)",
+        "url": "https://open.spotify.com/album/59TtG0AABt1iFlISFx5Fv9"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229009,
+      "name": "One More Dance - Live",
+      "url": "https://open.spotify.com/track/3prwJlAVklCpIdi3d5Sks8"
+    },
+    {
+      "album": {
         "name": "Mama Africa",
         "url": "https://open.spotify.com/album/7f02rdjxXMl4p6CVCCebmi"
       },
@@ -1429,7 +1451,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 165236,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg"
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 164386,
       "name": "Suliram",
       "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"
@@ -1859,7 +1881,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 155280,
       "name": "The Retreat Song",
       "url": "https://open.spotify.com/track/4kIwxBe9M8RfGM8BlRg3Ka"
@@ -2023,7 +2045,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 475627,
       "name": "Warrior Mbube",
       "url": "https://open.spotify.com/track/6h8EgWXQRKv1zmiD8ZNWWC"
@@ -2041,7 +2063,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 250080,
       "name": "We Got to Make It (The Question)",
       "url": "https://open.spotify.com/track/4Cvz0s46Qn76LpLOxzxmQ6"

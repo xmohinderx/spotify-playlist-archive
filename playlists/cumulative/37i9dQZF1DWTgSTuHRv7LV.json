@@ -4553,7 +4553,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 146622,
       "name": "Kevin, Hugo & Jorge",
       "url": "https://open.spotify.com/track/0tT1SLOTZfEud3LB7JTgxv"
@@ -6659,7 +6659,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 178440,
       "name": "Pantomima",
       "url": "https://open.spotify.com/track/4fsXDxTG07fGWnmfT5EZP8"
@@ -8565,10 +8565,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 233700,
       "name": "Telara\u00f1a",
       "url": "https://open.spotify.com/track/5DbmyVhaYxObVOv4oqQdig"
+    },
+    {
+      "album": {
+        "name": "Socios II",
+        "url": "https://open.spotify.com/album/61RLppWoLAO4mG3xBRAOEi"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233700,
+      "name": "Telara\u00f1a",
+      "url": "https://open.spotify.com/track/6zG8Z34VFuHOqqr97YBq0Y"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 137944,
+  "num_followers": 138011,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMDgyZjc0ZDY4MTViYjJmYzgwOTRjZmQwNjc4MjBiZDYx",
+  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMGU4NDE5ZGEzN2NkOWYxZmZkMmI4ODhmM2M4ODc3NDkz",
   "tracks": [
     {
       "added_at": "2022-04-13 15:02:41",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/6mrKW9RtuK94zUHHzMW5ng"
-      },
-      "artists": [
-        {
-          "name": "Laurent Wolf",
-          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/3LVxJTSgrUZyQpGadmoIrD"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/6mrKW9RtuK94zUHHzMW5ng"
       },
       "artists": [
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "Laurent Wolf",
+          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
         }
       ],
-      "duration_ms": 222435,
-      "name": "We Come 1 - Radio Edit",
-      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
+      "duration_ms": 201453,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/3LVxJTSgrUZyQpGadmoIrD"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -455,6 +439,22 @@
       "duration_ms": 157040,
       "name": "The Cure & The Cause - Radio Edit",
       "url": "https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 222435,
+      "name": "We Come 1 - Radio Edit",
+      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Donna Summer",
-        "url": "https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 351493,
-      "name": "State of Independence",
-      "url": "https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Play & Play: B Sides",
         "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
+        "name": "Donna Summer",
+        "url": "https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 351493,
+      "name": "State of Independence",
+      "url": "https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
         "name": "Music Is the Answer (Part 2)",
         "url": "https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 849960,
       "name": "Music Is the Answer - Original Extended 12-Inch Mix",
       "url": "https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Night Works",
-        "url": "https://open.spotify.com/album/7a25FtnvBLOmW6BA9444Wn"
-      },
-      "artists": [
-        {
-          "name": "Layo & Bushwacka!",
-          "url": "https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc"
-        }
-      ],
-      "duration_ms": 312933,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/3SdXO2B5AVG6BDHiS7dOH6"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 213546,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Night Works",
+        "url": "https://open.spotify.com/album/7a25FtnvBLOmW6BA9444Wn"
+      },
+      "artists": [
+        {
+          "name": "Layo & Bushwacka!",
+          "url": "https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc"
+        }
+      ],
+      "duration_ms": 312933,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/3SdXO2B5AVG6BDHiS7dOH6"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Navigator. 15th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6SeGjJ8MSAoYw44wcXsesp"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Padilla",
-          "url": "https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU"
-        }
-      ],
-      "duration_ms": 302506,
-      "name": "Adi\u00f3s ayer",
-      "url": "https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "The Age Of Love (Radio Edit)",
         "url": "https://open.spotify.com/album/5h1Jeu9UoNEITNYcWd4BTF"
       },
@@ -843,22 +843,18 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+        "name": "Navigator. 15th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6SeGjJ8MSAoYw44wcXsesp"
       },
       "artists": [
         {
-          "name": "Lil' Louis",
-          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
-        },
-        {
-          "name": "The World",
-          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
+          "name": "Jos\u00e9 Padilla",
+          "url": "https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU"
         }
       ],
-      "duration_ms": 591733,
-      "name": "French Kiss - The Original Underground Mix",
-      "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
+      "duration_ms": 302506,
+      "name": "Adi\u00f3s ayer",
+      "url": "https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW"
     }
   ],
   "unique_name": "Ibiza Classics",

@@ -1192,6 +1192,24 @@
     },
     {
       "album": {
+        "name": "Haza Elli Temaneto",
+        "url": "https://open.spotify.com/album/62r1w9pE7RZBaXs5X11A8p"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275256,
+      "name": "Haza Elli Temaneto",
+      "url": "https://open.spotify.com/track/0XmVMNePLkSrqv7JlIT2vb"
+    },
+    {
+      "album": {
         "name": "Heb",
         "url": "https://open.spotify.com/album/3v854wIhjld4VPwh1G5nvB"
       },

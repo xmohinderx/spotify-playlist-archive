@@ -2,7 +2,7 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Karen Jonz
+> Novidades e destaques do indie nacional\. Foto: Tuyo
 
 302 songs - 17 hr 17 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 

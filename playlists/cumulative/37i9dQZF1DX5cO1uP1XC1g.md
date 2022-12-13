@@ -4,7 +4,7 @@
 
 > Top Arabic hits are right here\. Cover: Muslim \- مُسلِم
 
-242 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
+243 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-12 | 2022-09-23 |
 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/5ZsSIC9ea0OEi7gMMv7b1t) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2021-12-12 |  |
 | [Lama Tkooni](https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Lama Tkooni](https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB) | 3:31 | 2022-11-01 |  |
-| [Law Bas Nergaa](https://open.spotify.com/track/7ogQhlO9miA7gt18l0tlRT) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Hady Moamer](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [Law Bas Nergaa](https://open.spotify.com/album/7mxi6m5tjRolq6U2HTTlq2) | 2:43 | 2022-10-22 |  |
+| [Law Bas Nergaa](https://open.spotify.com/track/7ogQhlO9miA7gt18l0tlRT) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Hady Moamer](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [Law Bas Nergaa](https://open.spotify.com/album/7mxi6m5tjRolq6U2HTTlq2) | 2:43 | 2022-10-22 | 2022-12-13 |
+| [Law Bas Nergaa \(New Version \)](https://open.spotify.com/track/4ebqXyZzx1JNVMCHZ0Roxp) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Law Bas Nergaa \(New Version \)](https://open.spotify.com/album/1qVviyoS8hVaIi80u8vCBi) | 2:46 | 2022-12-12 |  |
 | [Law Hatsib](https://open.spotify.com/track/2a7NX3ftu4GAO52dnCRxXM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Law Hatsib](https://open.spotify.com/album/0CeV0YaRQp0nqdO5JYWtPV) | 3:48 | 2021-12-12 | 2022-07-29 |
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2022-07-22 | 2022-10-05 |
 | [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-07-01 |  |

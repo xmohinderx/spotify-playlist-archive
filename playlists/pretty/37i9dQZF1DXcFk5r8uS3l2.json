@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 419545,
+  "num_followers": 419594,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU5NzE5MiwwMDAwMDAwMDhmNjkzZDFlNjQxNmYyNjJmMTBjYmExOTMxZWQ2MGYw",
+  "snapshot_id": "MTY3MDU5NzE5MiwwMDAwMDAwMDdhYWEyZGEzMTAxNmYwOTJmMTdmNDc0M2MyYjUxNTUx",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2M6f90yKmcXK71HGVpnOcB"
     },
     {
-      "added_at": "2022-12-12 01:39:45",
+      "added_at": "2022-12-13 01:00:33",
       "album": {
         "name": "Pound Cake",
         "url": "https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK"
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Sound & Color (Deluxe)",
@@ -323,18 +307,18 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 242520,
-      "name": "Mrs.",
-      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
+      "duration_ms": 233413,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -351,6 +335,22 @@
       "duration_ms": 158855,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 242520,
+      "name": "Mrs.",
+      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Heavy Shoes",
         "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 213093,
       "name": "Souled Out On You",
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Lonesome as a Shadow",
+        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Ain't Gotta Worry Child",
+      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Half The City",
@@ -529,20 +545,20 @@
       "url": "https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Lonesome as a Shadow",
-        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Ain't Gotta Worry Child",
-      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -579,22 +595,6 @@
       "duration_ms": 268346,
       "name": "Diving Duck Blues",
       "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "That's How Love Is Made",
-        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "That's How Love Is Made",
-      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     },
     {
       "added_at": "2022-07-26 14:55:05",
@@ -663,6 +663,22 @@
       "duration_ms": 172240,
       "name": "Ice Cream & Cigarettes",
       "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 169569,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -745,22 +761,6 @@
       "url": "https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Lover's Game",
-        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 169569,
-      "name": "Lover's Game",
-      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Leftover Feelings",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 299680,
+      "name": "Set My Soul on Fire",
+      "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Keep On",
@@ -889,36 +905,20 @@
       "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Down to the River",
-        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 299680,
-      "name": "Set My Soul on Fire",
-      "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
         }
       ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+      "duration_ms": 266013,
+      "name": "Bubba Jones",
+      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Smoke From The Chimney",
-        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "Bubba Jones",
-      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "S\u00edminn+Spotify Session",
         "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
       },
@@ -983,6 +967,42 @@
       "duration_ms": 352720,
       "name": "Neon Experience - Live from Vatnagar\u00f0ar",
       "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "duration_ms": 243219,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1021,26 +1041,6 @@
       "url": "https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
-        }
-      ],
-      "duration_ms": 243219,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Roll With Me",
@@ -1055,38 +1055,6 @@
       "duration_ms": 260333,
       "name": "Roll With Me",
       "url": "https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Colors (Acoustic)",
-        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 323008,
-      "name": "Colors - Acoustic",
-      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 290482,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1111,18 +1079,18 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Down to the River",
-        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm"
       },
       "artists": [
         {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 231253,
-      "name": "Down to the River",
-      "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
+      "duration_ms": 290482,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1139,6 +1107,38 @@
       "duration_ms": 197426,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Colors (Acoustic)",
+        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 323008,
+      "name": "Colors - Acoustic",
+      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Down to the River",
+      "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
     },
     {
       "added_at": "2022-07-26 14:55:05",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
         "name": "Southern Avenue",
         "url": "https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 289293,
       "name": "The Kids Are Having None Of It",
       "url": "https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2022-07-01 04:02:00",

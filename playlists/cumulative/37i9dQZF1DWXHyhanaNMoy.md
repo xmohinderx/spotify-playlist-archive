@@ -4,7 +4,7 @@
 
 > Amapiano sounds in La Vida Loca! Cover: ND & Giordan Chase \(Afrolosjes Soundsystem\)
 
-315 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+316 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-30 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-08-25 | 2022-10-07 |
 | [La Jefa \(feat\. JMReal\)](https://open.spotify.com/track/6MkJl9joujz9BMSGLCDoee) | [BuenosDiaz](https://open.spotify.com/artist/3qMCibsPjK04k9BAijQCRM), [Jones Suave](https://open.spotify.com/artist/0lui1pVpLAap3nxrMXmFwo), [Alazar](https://open.spotify.com/artist/02QNUJxKwMO7HqOFL7zTIR), [JMReal](https://open.spotify.com/artist/7mvbWbf9G6FoiQhzJJ9Mem) | [La Jefa \(feat\. JMReal\)](https://open.spotify.com/album/1ecw7HHkrChFjqUK6roDUO) | 2:28 | 2022-07-28 | 2022-08-26 |
+| [La vie de rêve](https://open.spotify.com/track/5joUzFnW2GLrktOQpIswU6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:38 | 2022-12-12 |  |
 | [Laat Dat](https://open.spotify.com/track/5TfEEbuUmYKpDWgb5he6RD) | [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V), [Fastah Selectah](https://open.spotify.com/artist/1IB58gi0dQAvYcHoFuqwXT) | [Laat Dat](https://open.spotify.com/album/52crv8PIm3sJmJtqFOXkLU) | 2:21 | 2022-10-20 |  |
 | [LALALA \(feat\. \#SS\)](https://open.spotify.com/track/2GMGd939FCR1HVgQvOxlWt) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [Orlando KS](https://open.spotify.com/artist/5Z7gnO10qSMzeZcmVFBWuH), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU) | [LALALA \(feat\. \#SS\)](https://open.spotify.com/album/4hYnejIF8rdXAaFIbg1auJ) | 2:27 | 2022-09-01 | 2022-10-28 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-14 | 2022-09-16 |

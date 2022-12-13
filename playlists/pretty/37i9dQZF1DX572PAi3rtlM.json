@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 24703,
+  "num_followers": 24713,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDQ2YzZkZWJjZjU2YzVmZDdkNGRmMzljM2VjMmEwMDk4",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDBkYTJkMzJkYTIxMjEyMTlhODA0OTMxMDRhY2JiNmQ2",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -311,6 +311,26 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Can't Fake the Feeling",
         "url": "https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI"
       },
@@ -363,22 +383,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Silentintroduction",
-        "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 485306,
-      "name": "I Can't Kick This Feeling When It Hits",
-      "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "The Spirit",
         "url": "https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF"
       },
@@ -395,22 +399,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+        "name": "Silentintroduction",
+        "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
+      "duration_ms": 485306,
+      "name": "I Can't Kick This Feeling When It Hits",
+      "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Priorities",
         "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 348158,
       "name": "Warm Priority",
       "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -551,22 +551,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Raiding the Vaults",
-        "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
+        "name": "For the Beasts",
+        "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
       },
       "artists": [
         {
-          "name": "Rae & Christian",
-          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         },
         {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
         }
       ],
-      "duration_ms": 237979,
-      "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
-      "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
+      "duration_ms": 153231,
+      "name": "Lurk",
+      "url": "https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -591,22 +591,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "For the Beasts",
-        "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
+        "name": "Raiding the Vaults",
+        "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
       },
       "artists": [
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Rae & Christian",
+          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
         },
         {
-          "name": "Casey MQ",
-          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 153231,
-      "name": "Lurk",
-      "url": "https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4"
+      "duration_ms": 237979,
+      "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
+      "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Weekends and Beginnings",
         "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 332777,
       "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
       "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Mars 500",
+        "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 412257,
+      "name": "Mars 500",
+      "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Okay Okay / Hey Ciao Tu",
-        "url": "https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 258096,
-      "name": "Okay Okay - Remastered",
-      "url": "https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "RE//CHOIRED",
         "url": "https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Mars 500",
-        "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 412257,
-      "name": "Mars 500",
-      "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -835,6 +819,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 290152,
+      "name": "Gymnastics - Original Mix",
+      "url": "https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Scented Trip",
         "url": "https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 380149,
       "name": "Morning Shift",
       "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 290152,
-      "name": "Gymnastics - Original Mix",
-      "url": "https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -891,6 +875,22 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Okay Okay / Hey Ciao Tu",
+        "url": "https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 258096,
+      "name": "Okay Okay - Remastered",
+      "url": "https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6"
     }
   ],
   "unique_name": "Rooftop Sunset",

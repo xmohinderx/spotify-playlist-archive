@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-361 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+364 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 | 2022-10-05 |  |
 | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/track/2Z8PrOwTgFVP6kJNtPTkMq) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/album/0R5neGxstfsw1hZpjFSHcm) | 2:53 | 2022-03-09 | 2022-03-31 |
 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 | 2022-08-12 |  |
+| [i'll be there](https://open.spotify.com/track/2oRO0TDoMyhowADpRKqexD) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [i'll be there](https://open.spotify.com/album/591MuZEfnrMQfVtIv270WE) | 2:37 | 2022-12-12 |  |
 | [I'm a Mess](https://open.spotify.com/track/1cfoP2ZOuwM5mcFUsZ1UH9) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [I'm a Mess](https://open.spotify.com/album/2mqY2v3uVMRYNFTERP3812) | 2:16 | 2022-02-15 | 2022-03-10 |
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-02-15 | 2022-03-31 |
 | [I'm With The DJ](https://open.spotify.com/track/6glWuI8u4DdoIkNIwhyk2N) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [I'm With The DJ](https://open.spotify.com/album/4QjPl6fliUZnwvGsWuMnXb) | 3:32 | 2022-07-28 | 2022-11-12 |
@@ -253,6 +254,7 @@
 | [PLAY WITH FIRE](https://open.spotify.com/track/5f5LhZkpLnqUbwqPXeOSoH) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 2:50 | 2022-02-28 | 2022-04-19 |
 | [Poison](https://open.spotify.com/track/09cTiRshOYv9fVFrEZeL6q) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Robel Ketema](https://open.spotify.com/artist/4lTkauCDOkrOB493HZOzhK) | [Poison](https://open.spotify.com/album/6IL8XkH5PADpTdTNjBejVi) | 2:28 | 2021-10-27 | 2022-01-08 |
 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 | 2022-06-29 |  |
+| [Pragmatica](https://open.spotify.com/track/4CRIvwzEP4uxqn6uDHWbrS) | [Dull Reality](https://open.spotify.com/artist/0MQQCmEALPoYI6rEYKCiXL) | [Pragmatica](https://open.spotify.com/album/6avpFSjEDoBZHQF4XdXCND) | 4:23 | 2022-12-12 |  |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-11-19 | 2022-01-08 |
 | [PROTECT ME](https://open.spotify.com/track/5lSGL6BnaHsW22aeOCq5ZU) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Yadosan](https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J) | [PROTECT ME](https://open.spotify.com/album/56kpqdHI02XgcKGzIF2V7c) | 2:24 | 2022-10-22 |  |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2021-11-02 | 2022-01-08 |
@@ -309,6 +311,7 @@
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-01-07 | 2022-02-01 |
 | [Sunrise](https://open.spotify.com/track/3Let0CN8g4VuTh8Ka4Hzxw) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:22 | 2021-11-23 | 2022-02-05 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-02-16 |
+| [Supersonic](https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [Over, All Again](https://open.spotify.com/album/40nko6Eyb5xslxASKBapny) | 3:26 | 2022-12-12 |  |
 | [Survive](https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:02 | 2022-01-21 | 2022-02-05 |
 | [take me far away](https://open.spotify.com/track/7zwBK6O9AXWSjqC4y7POIj) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [take me far away](https://open.spotify.com/album/7J3Y4DM5BkGJtG8FENL5ac) | 5:09 | 2021-11-22 | 2022-01-08 |
 | [Take Me Higher](https://open.spotify.com/track/3HiKUx9he5EtseHYyMv27L) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:43 | 2022-07-21 | 2022-07-23 |

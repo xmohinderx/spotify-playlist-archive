@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=nR-3-Q83TE6mPeI4jcvvnQ\"> Kwesta </a> and <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=bm3v1IzvQouZl2R52zdVcA\"> Kabza De Small </a>",
-  "num_followers": 105075,
+  "num_followers": 105143,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDYzZmU0ZDlkZTU5YWFjM2M5NzI2ODkxOTUxZWEyZTAz",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDVkNTcyYTNlYTRlZjQ0MDU5ZWFkNDc1MTcxYTdiODRl",
   "tracks": [
     {
       "added_at": "2022-12-02 00:00:00",
@@ -521,6 +521,26 @@
       "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
     },
     {
+      "added_at": "2022-09-16 04:26:33",
+      "album": {
+        "name": "Ivyson Army Tour Mixtape",
+        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 178421,
+      "name": "Born To Win",
+      "url": "https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE"
+    },
+    {
       "added_at": "2022-10-28 12:15:17",
       "album": {
         "name": "Young Preacher",
@@ -577,6 +597,22 @@
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
     },
     {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Kpos Lifestyle, Vol. 1",
+        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
+    },
+    {
       "added_at": "2022-07-21 23:00:00",
       "album": {
         "name": "sneaky",
@@ -597,40 +633,36 @@
       "url": "https://open.spotify.com/track/1KDGViRidQJ0UWV6J7n7Qs"
     },
     {
-      "added_at": "2021-10-14 23:00:00",
+      "added_at": "2021-12-09 23:01:00",
       "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
+      "duration_ms": 207057,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
     },
     {
-      "added_at": "2022-09-16 04:26:33",
+      "added_at": "2021-10-14 23:00:00",
       "album": {
-        "name": "Ivyson Army Tour Mixtape",
-        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 178421,
-      "name": "Born To Win",
-      "url": "https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE"
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
       "added_at": "2021-11-04 23:01:00",
@@ -651,22 +683,6 @@
       "duration_ms": 186923,
       "name": "Afro Jigga",
       "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
-    },
-    {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
-        "name": "Headliner",
-        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 207057,
-      "name": "Headliner",
-      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -713,22 +729,6 @@
       "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
     },
     {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
-    },
-    {
       "added_at": "2022-03-11 00:00:00",
       "album": {
         "name": "Culture",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
     },
     {
-      "added_at": "2021-11-18 23:01:00",
-      "album": {
-        "name": "SUN / BABY BLUE 4\u2019s",
-        "url": "https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD"
-      },
-      "artists": [
-        {
-          "name": "Shane Eagle",
-          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "SUN",
-      "url": "https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy"
-    },
-    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "Best I Ever Had",
@@ -779,6 +763,22 @@
       "duration_ms": 158139,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
+    },
+    {
+      "added_at": "2021-11-18 23:01:00",
+      "album": {
+        "name": "SUN / BABY BLUE 4\u2019s",
+        "url": "https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD"
+      },
+      "artists": [
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "SUN",
+      "url": "https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy"
     },
     {
       "added_at": "2022-04-21 23:00:00",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Dynastie",
-        "url": "https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg"
-      },
-      "artists": [
-        {
-          "name": "Ferre Gola",
-          "url": "https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI"
-        }
-      ],
-      "duration_ms": 181857,
-      "name": "Royaume Kunga (Kingdom)",
-      "url": "https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9"
-    },
-    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "Coachella",
@@ -871,6 +855,42 @@
       "duration_ms": 185196,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Dynastie",
+        "url": "https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg"
+      },
+      "artists": [
+        {
+          "name": "Ferre Gola",
+          "url": "https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI"
+        }
+      ],
+      "duration_ms": 181857,
+      "name": "Royaume Kunga (Kingdom)",
+      "url": "https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -921,24 +941,24 @@
       "url": "https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2021-12-21 12:27:53",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -965,42 +985,6 @@
       "url": "https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR"
     },
     {
-      "added_at": "2021-12-21 12:27:53",
-      "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
-    },
-    {
-      "added_at": "2022-05-26 23:00:00",
-      "album": {
-        "name": "Khuphuka",
-        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Khuphuka",
-      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
-    },
-    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "Inaweza Haiwezi",
@@ -1023,6 +1007,22 @@
       "duration_ms": 194000,
       "name": "Inaweza Haiwezi",
       "url": "https://open.spotify.com/track/6GbZgCtkDVQnuavXk6T3LG"
+    },
+    {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "Khuphuka",
+        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Khuphuka",
+      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
     },
     {
       "added_at": "2022-02-03 23:02:00",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
     },
     {
-      "added_at": "2022-10-28 12:15:17",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 145330,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ"
-    },
-    {
       "added_at": "2022-04-21 23:00:00",
       "album": {
         "name": "Trapiano, Vol. 1",
@@ -1179,6 +1163,22 @@
       "duration_ms": 132000,
       "name": "Another Me",
       "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+    },
+    {
+      "added_at": "2022-10-28 12:15:17",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 145330,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -1241,6 +1241,30 @@
       "url": "https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA"
     },
     {
+      "added_at": "2022-02-17 23:00:00",
+      "album": {
+        "name": "Koobi",
+        "url": "https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
+        }
+      ],
+      "duration_ms": 160418,
+      "name": "Koobi",
+      "url": "https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH"
+    },
+    {
       "added_at": "2022-04-28 23:00:00",
       "album": {
         "name": "Romantic Rivals",
@@ -1269,30 +1293,6 @@
       "url": "https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY"
     },
     {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "Koobi",
-        "url": "https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO"
-      },
-      "artists": [
-        {
-          "name": "Pappy Kojo",
-          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "Reggie",
-          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
-        }
-      ],
-      "duration_ms": 160418,
-      "name": "Koobi",
-      "url": "https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH"
-    },
-    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "Hmm (Remix)",
@@ -1315,6 +1315,38 @@
       "duration_ms": 210755,
       "name": "Hmm - Remix",
       "url": "https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Animalistic",
+        "url": "https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        }
+      ],
+      "duration_ms": 166812,
+      "name": "Animalistic",
+      "url": "https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np"
+    },
+    {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "EAST MPAKA LONDON",
+        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "duration_ms": 164954,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -1353,22 +1385,6 @@
       "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
     },
     {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Animalistic",
-        "url": "https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds"
-      },
-      "artists": [
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
-        }
-      ],
-      "duration_ms": 166812,
-      "name": "Animalistic",
-      "url": "https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np"
-    },
-    {
       "added_at": "2021-11-25 23:02:00",
       "album": {
         "name": "Sex Over Love (Deluxe Edition)",
@@ -1383,22 +1399,6 @@
       "duration_ms": 132765,
       "name": "4 Door Jeep",
       "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
-    },
-    {
-      "added_at": "2021-11-11 23:00:00",
-      "album": {
-        "name": "Something to Live For",
-        "url": "https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 192153,
-      "name": "All the smoke",
-      "url": "https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG"
     }
   ],
   "unique_name": "No Wahala",

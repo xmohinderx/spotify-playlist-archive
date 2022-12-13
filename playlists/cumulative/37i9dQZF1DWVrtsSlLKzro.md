@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-244 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+245 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Shipwreck](https://open.spotify.com/track/06AuNyqPNwKBvZ7a0G6rZP) | [Otherwise Fine](https://open.spotify.com/artist/0n255T84TbJje4U9RcKHGP), [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Shipwreck](https://open.spotify.com/album/7snKIaGE7juwYtQjIQQe87) | 2:56 | 2021-12-03 |  |
 | [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-12-03 |  |
 | [Shut The World Out](https://open.spotify.com/track/3Up1MsHqcxUVgB2iuqFRq2) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [The Making of a Paracosm](https://open.spotify.com/album/4yrjPmonSHiJIHum5TrqEe) | 4:28 | 2021-12-03 |  |
-| [Silhouette](https://open.spotify.com/track/2uYEcvKNeFmGdCHWT7i6OU) | [Jacob Lee](https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2) | [Silhouette](https://open.spotify.com/album/6X7KKPqHcKQJMPqPvoGen9) | 5:01 | 2021-12-03 |  |
+| [Silhouette](https://open.spotify.com/track/2uYEcvKNeFmGdCHWT7i6OU) | [Jacob Lee](https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2) | [Silhouette](https://open.spotify.com/album/6X7KKPqHcKQJMPqPvoGen9) | 5:01 | 2021-12-03 | 2022-12-13 |
+| [Silhouette](https://open.spotify.com/track/45EJrENg8Aa72uLX22JxY7) | [Jacob Lee](https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2) | [Conscience](https://open.spotify.com/album/5lGLktcDudhrCwCNLxni6Q) | 5:01 | 2022-12-02 |  |
 | [Sky Is Crying](https://open.spotify.com/track/0VH9sKPtKbkxllpqyYmJ7E) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sky Is Crying](https://open.spotify.com/album/1QMNjCy5KoPIu45sIU59s8) | 4:24 | 2021-12-03 |  |
 | [So Sorry](https://open.spotify.com/track/0m8Mz4HBphiBVEiI99u8jU) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [So Sorry](https://open.spotify.com/album/6Gh16B4dzfS0mqlxKTkyVz) | 3:51 | 2021-12-03 | 2022-02-12 |
 | [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 |  |

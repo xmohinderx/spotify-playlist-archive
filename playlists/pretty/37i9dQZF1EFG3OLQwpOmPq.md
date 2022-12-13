@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534 likes - 73 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 535 likes - 73 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 41 | [mexico city](https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:27 |
 | 42 | [Hung Up](https://open.spotify.com/track/5piGbFZr6mMi7jfVvQUzGC) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [Hung Up](https://open.spotify.com/album/3lP2uvFc1EPkSL6Seyr6f5) | 4:18 |
 | 43 | [Autopilot](https://open.spotify.com/track/0UvNdJWO4jRxAHi8pAv20Z) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Sim City](https://open.spotify.com/album/54wLYwAvsp61uxv4ciwYOZ) | 3:15 |
-| 44 | [Golden Roses](https://open.spotify.com/track/6CLvWzSVYzYNO2ePEqaQNl) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Blissful Ignorance](https://open.spotify.com/album/6teRzD3N6CNwWYHgHQyOPc) | 3:28 |
-| 45 | [Yours for the Night](https://open.spotify.com/track/3P3FB3ssbwmEh1byLcXa0E) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6ImHqlbLXfWhPdP2l2toA9) | 3:13 |
+| 44 | [Yours for the Night](https://open.spotify.com/track/3P3FB3ssbwmEh1byLcXa0E) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6ImHqlbLXfWhPdP2l2toA9) | 3:13 |
+| 45 | [Golden Roses](https://open.spotify.com/track/6CLvWzSVYzYNO2ePEqaQNl) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Blissful Ignorance](https://open.spotify.com/album/6teRzD3N6CNwWYHgHQyOPc) | 3:28 |
 | 46 | [come over](https://open.spotify.com/track/7sg07HUwalXexpb0i0QPIm) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:50 |
 | 47 | [just another day](https://open.spotify.com/track/7J5lMhBctps6q86jQGAsUl) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:22 |
 | 48 | [Not Your Baby](https://open.spotify.com/track/7LnHlo1rCs71sFwqYHntVj) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Not Your Baby](https://open.spotify.com/album/1RIfhmMrslY6PJsre7QTY8) | 3:34 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 52 | [Mood Swings](https://open.spotify.com/track/61MjxgY9B0UqkOM2Jt8tVV) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Sounds Like Me](https://open.spotify.com/album/5JtVEQcCIuCuwnzndvF9Zp) | 2:41 |
 | 53 | [ruin it](https://open.spotify.com/track/38zxMTxPyAwdwmr8M749hj) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear](https://open.spotify.com/album/1B4TAPy6dm7AaZ8EnwVvcn) | 3:14 |
 | 54 | [twenty something](https://open.spotify.com/track/3ZQDiTdMdujWmiwUOi8DUQ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:30 |
-| 55 | [disarm me](https://open.spotify.com/track/7gcU9pn3ZOGzEnshKIeeH9) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear](https://open.spotify.com/album/1B4TAPy6dm7AaZ8EnwVvcn) | 3:11 |
-| 56 | [Heart of Snow](https://open.spotify.com/track/3WaITDWjpDyZb0S6Y4PV3c) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 3:50 |
+| 55 | [Heart of Snow](https://open.spotify.com/track/3WaITDWjpDyZb0S6Y4PV3c) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 3:50 |
+| 56 | [disarm me](https://open.spotify.com/track/7gcU9pn3ZOGzEnshKIeeH9) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear](https://open.spotify.com/album/1B4TAPy6dm7AaZ8EnwVvcn) | 3:11 |
 | 57 | [crying in my car](https://open.spotify.com/track/0a593TcPTKixO9Melp5p8A) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:57 |
 | 58 | [Still Healing](https://open.spotify.com/track/53VZW4XxtnqlMLI08YrmYb) | [is this Cam?](https://open.spotify.com/artist/3AHAHKIu0YYH3pWRo32PlS), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/4DwTCENDrvdFJVB5odaxiI) | 2:15 |
 | 59 | [paper ceilings](https://open.spotify.com/track/40a9j0j933mlcCEgokySHT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:36 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 72 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 73 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc4NDY3OTgsMDAwMDAwMDAyYjA1ODA2OTc1OGJmYmQzZTQ2NTE0ZWU4NDljYmFhZQ==`
+Snapshot ID: `Mjc4NDgyMzgsMDAwMDAwMDBhM2VkNTlmZDEyMTFmNjg5MTgwMWI0ZGMwYzM2NmNhYw==`

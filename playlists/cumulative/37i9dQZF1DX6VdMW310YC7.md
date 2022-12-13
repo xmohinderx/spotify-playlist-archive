@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,377 songs - 3 day 23 hr 22 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,378 songs - 3 day 23 hr 27 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/6WRTNDVblJW6Dstku4aHix) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Wave](https://open.spotify.com/album/0FPqSXvARe3Hr3xL2sEuIe) | 2:44 | 2020-05-18 | 2020-07-18 |
 | [Cherry Rain](https://open.spotify.com/track/638JTWa7tpzQW765Y7O9BN) | [Like Saturn](https://open.spotify.com/artist/1tSIwjOVo4MjWIQmTDTnB6) | [Cherry Rain](https://open.spotify.com/album/559LT29nEk1XAY2Z8iVm66) | 2:18 | 2020-05-22 | 2020-10-09 |
 | [Chicago Love](https://open.spotify.com/track/5Wtu50yBIPxrXYXFARLgCq) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [Chicago Love](https://open.spotify.com/album/5kGcyIZi0aE2XHItlYrHrD) | 5:05 | 2020-07-03 | 2020-10-09 |
+| [Chills](https://open.spotify.com/track/3UeJTkUgt1iZHTUWHoMskr) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Chills / Cycles](https://open.spotify.com/album/3dCtNJ4gxGwvNoDmCd7XuQ) | 4:19 | 2022-12-13 |  |
 | [Chlodie \- Lumidelic Remix](https://open.spotify.com/track/794wvnqDjnFdI6UYD29Zz8) | [Anlaya Project](https://open.spotify.com/artist/7cKY2ZnIgkbwULsREeHyX0), [Lumidelic](https://open.spotify.com/artist/6pW7kMV0h3WPLYgYLx41zY) | [Chlodie](https://open.spotify.com/album/4mOuQ6ZvdZJp2XQiybkud4) | 6:31 | 2020-05-25 | 2020-10-09 |
 | [Cimmerian](https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Wishing Well / Cimmerian](https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf) | 3:36 | 2022-02-11 |  |
 | [Cindy Goes to a Party](https://open.spotify.com/track/4MYK3rV2c8Pg6dh9eLa1rR) | [Closed Paradise](https://open.spotify.com/artist/0YZ8P1HorExdSXoONm7tFB) | [Something Else](https://open.spotify.com/album/39tHyB5rgbkZNBMqfcYqk0) | 5:42 | 2020-03-20 | 2021-12-21 |
@@ -512,7 +513,7 @@
 | [Hear Me Now](https://open.spotify.com/track/6OnYQKTc5fbSGbIpaH4KxL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/5ev8miwRafJ3DeXNaAVzBZ) | 3:12 | 2020-05-22 | 2020-07-03 |
 | [Heart](https://open.spotify.com/track/1IQgMSRjsLjVw5VZFeWcC0) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart](https://open.spotify.com/album/5oOeNGXiuRst2Dat4Ufkhp) | 3:15 | 2020-03-16 | 2020-06-12 |
 | [Heart Of Mine](https://open.spotify.com/track/7xsEMen9ISL49UPbeJ72RK) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Heart Of Mine](https://open.spotify.com/album/4BhGd2bPD1gqn0V7P4RVvx) | 3:50 | 2020-07-03 | 2020-10-10 |
-| [Heart To Heart](https://open.spotify.com/track/2RsBPnEUWSDEkheThXHbIq) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Heart To Heart](https://open.spotify.com/album/7u2vHbfkcGaRIfDH91Bl4h) | 4:24 | 2022-09-09 |  |
+| [Heart To Heart](https://open.spotify.com/track/2RsBPnEUWSDEkheThXHbIq) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Heart To Heart](https://open.spotify.com/album/7u2vHbfkcGaRIfDH91Bl4h) | 4:24 | 2022-09-09 | 2022-12-13 |
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2021-09-10 |  |
 | [Hearts](https://open.spotify.com/track/3vc6u0eaPIsctv1VpYeFJa) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Hearts](https://open.spotify.com/album/1t4uVBcm7ShSfblkB0eqOI) | 4:29 | 2020-03-17 | 2022-04-21 |
 | [Heaven](https://open.spotify.com/track/2hpMzusOFuzMdVEabvJNGI) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Heaven](https://open.spotify.com/album/3Tr5O6KkzTRETYWxhRzByB) | 5:53 | 2022-04-22 |  |

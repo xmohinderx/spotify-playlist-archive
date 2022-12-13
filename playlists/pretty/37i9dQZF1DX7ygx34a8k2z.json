@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 93656,
+  "num_followers": 94027,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMGExMTMxNTUxMjE3ZmRmNDQyYTgyOTUyMTNhNmEzOTAz",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMGFmNWY5ZGIyNTJjNWIwOWQ3ODNjZGFiNGZkNzI2MTVl",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -411,38 +411,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "In Utero - 20th Anniversary Remaster",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -475,6 +443,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 201186,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "In Utero - 20th Anniversary Remaster",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "Fell On Black Days",
+      "url": "https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "Gran Turismo (Remastered)",
         "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 206946,
       "name": "Harness Your Hopes - B-side",
       "url": "https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "Fell On Black Days",
-      "url": "https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Beautiful Freak",
-        "url": "https://open.spotify.com/album/7sqwuxORaCogFGgygafdSt"
+        "name": "Transmissions From the Satellite Heart",
+        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
       },
       "artists": [
         {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
         }
       ],
-      "duration_ms": 188693,
-      "name": "Novocaine For The Soul",
-      "url": "https://open.spotify.com/track/4uPi47C1WcnhIbvCx4zCu6"
+      "duration_ms": 222278,
+      "name": "She Don't Use Jelly",
+      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Transmissions From the Satellite Heart",
-        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
+        "name": "Beautiful Freak",
+        "url": "https://open.spotify.com/album/7sqwuxORaCogFGgygafdSt"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
         }
       ],
-      "duration_ms": 222278,
-      "name": "She Don't Use Jelly",
-      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
+      "duration_ms": 188693,
+      "name": "Novocaine For The Soul",
+      "url": "https://open.spotify.com/track/4uPi47C1WcnhIbvCx4zCu6"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "Alien Lanes",
+        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
+      },
+      "artists": [
+        {
+          "name": "Guided By Voices",
+          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+        }
+      ],
+      "duration_ms": 93306,
+      "name": "Game Of Pricks",
+      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "Ladies and gentlemen we are floating in space",
         "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 159386,
       "name": "The Way We Get By",
       "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "Alien Lanes",
-        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
-      },
-      "artists": [
-        {
-          "name": "Guided By Voices",
-          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
-        }
-      ],
-      "duration_ms": 93306,
-      "name": "Game Of Pricks",
-      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Whatever And Ever Amen (Remastered Edition)",
-        "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
+        "name": "Diary (2009 Edition)",
+        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
       "artists": [
         {
-          "name": "Ben Folds Five",
-          "url": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk"
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
         }
       ],
-      "duration_ms": 271720,
-      "name": "Brick",
-      "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
+      "duration_ms": 298413,
+      "name": "In Circles - Remastered",
+      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Diary (2009 Edition)",
-        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+        "name": "Whatever And Ever Amen (Remastered Edition)",
+        "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
       },
       "artists": [
         {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+          "name": "Ben Folds Five",
+          "url": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk"
         }
       ],
-      "duration_ms": 298413,
-      "name": "In Circles - Remastered",
-      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+      "duration_ms": 271720,
+      "name": "Brick",
+      "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Son Of Sam",
-      "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "The Soft Bulletin",
         "url": "https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Son Of Sam",
+      "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "Pleased to Meet Me (Expanded)",
         "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 188146,
       "name": "Can't Hardly Wait - 2008 Remaster",
       "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Iceblink Luck",
+      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1259,22 +1275,6 @@
       "duration_ms": 276640,
       "name": "You Can Have It All",
       "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Iceblink Luck",
-      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
-      },
-      "artists": [
-        {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach For My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "24 Hour Revenge Therapy (Remastered)",
         "url": "https://open.spotify.com/album/3n1jTsW0E5gEsiftAFx3N6"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 115120,
       "name": "Boxcar",
       "url": "https://open.spotify.com/track/43Jwg6NHpaYYJmGlPEdHol"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+      },
+      "artists": [
+        {
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "That's When I Reach For My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "Enter The Vaselines (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
+      },
+      "artists": [
+        {
+          "name": "The Vaselines",
+          "url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Son Of A Gun",
+      "url": "https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "Spiderland",
         "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 355533,
       "name": "Breadcrumb Trail",
       "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "Brighten the Corners",
-        "url": "https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Shady Lane",
-      "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1587,34 +1587,34 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Enter The Vaselines (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
+        "name": "Brighten the Corners",
+        "url": "https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h"
       },
       "artists": [
         {
-          "name": "The Vaselines",
-          "url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW"
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
         }
       ],
-      "duration_ms": 225760,
-      "name": "Son Of A Gun",
-      "url": "https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8"
+      "duration_ms": 230973,
+      "name": "Shady Lane",
+      "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
     },
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Lovelife",
-        "url": "https://open.spotify.com/album/7GENDDN5PnnAF9e8NbuMIT"
+        "name": "Monster (Remastered)",
+        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
       },
       "artists": [
         {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 193493,
-      "name": "Ladykillers",
-      "url": "https://open.spotify.com/track/64RQTM5ih8kx5rl8fxbRVv"
+      "duration_ms": 240306,
+      "name": "What\u2019s The Frequency, Kenneth? - Remastered",
+      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
     }
   ],
   "unique_name": "Thrifted",

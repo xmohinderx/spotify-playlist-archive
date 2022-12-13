@@ -4,7 +4,7 @@
 
 > The official playlist for the 64th GRAMMY Awards.
 
-456 songs - 1 day 7 hr 48 min - [published](https://open.spotify.com/playlist/4M8EQTBLyNauX4M36rMoZJ)
+457 songs - 1 day 7 hr 51 min - [published](https://open.spotify.com/playlist/4M8EQTBLyNauX4M36rMoZJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2021-03-10 | 2022-03-30 |
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2021-03-10 | 2022-03-30 |
 | [The Death Of Us](https://open.spotify.com/track/5zTg8hLkN1xOxWYp6g0Zkc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XvSWhoTHMOwmWUL2mYGrY) | 3:59 | 2021-03-10 | 2022-03-30 |
-| [The Devil & Mister Jones \- Adrian Sherwood Reconstruction](https://open.spotify.com/track/4QytAumgv7KICnT6yZPWgb) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Lucifer On The Moon](https://open.spotify.com/album/7ltJTN6vVRjhza6JR2sEnx) | 3:58 | 2022-12-08 |  |
+| [The Devil & Mister Jones \- Adrian Sherwood Reconstruction](https://open.spotify.com/track/4QytAumgv7KICnT6yZPWgb) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Lucifer On The Moon](https://open.spotify.com/album/7ltJTN6vVRjhza6JR2sEnx) | 3:58 | 2022-12-08 | 2022-12-13 |
 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 | 2021-03-10 | 2022-03-30 |
 | [The Easy Way](https://open.spotify.com/track/18LnabLnAb1ZjRbZx4JTLa) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Underneath](https://open.spotify.com/album/70kThssMOMBi4GyBPCk0Gu) | 4:25 | 2021-03-10 | 2022-03-30 |
 | [The Fanfold Hawk \(For Franz Wright\)](https://open.spotify.com/track/0cNhGVRA2KuAMQhp4cXRAt) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Danilo Perez](https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E) | [Secrets Are the Best Stories](https://open.spotify.com/album/3E3iPvivaxxTU3aFLA9RqD) | 2:43 | 2021-03-10 | 2022-03-30 |
@@ -449,6 +449,7 @@
 | [When You Believe](https://open.spotify.com/track/0w1dqIds7K9sQna7dSCdan) | [Alexia Khadime](https://open.spotify.com/artist/4jtNresJX9NjFZczXgXfqY), [Christine Allado](https://open.spotify.com/artist/3dl5JxBCHHKpXS8DPFSEpN), [Mia Lakha](https://open.spotify.com/artist/16OPzi7kd5bfNEoK8MLdqi), [Luke Brady](https://open.spotify.com/artist/2jHGDVfLRdO9sheZMMKAng), [The Prince of Egypt Original Cast Ensemble](https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe) | [The Prince of Egypt \(Original Cast Recording\)](https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71) | 4:34 | 2021-03-10 | 2022-03-30 |
 | [Who I Am](https://open.spotify.com/track/1Xb5aSausq6GIh3DOhhlDx) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Underneath](https://open.spotify.com/album/70kThssMOMBi4GyBPCk0Gu) | 3:46 | 2021-03-10 | 2022-03-30 |
 | [Who You Thought I Was](https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life Is a Record](https://open.spotify.com/album/027y46STDxTFM35diEeoxy) | 3:09 | 2021-03-10 | 2022-03-30 |
+| [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 | 2022-12-12 |  |
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2022-03-29 | 2022-11-24 |
 | [WITHOUT YOU \- Spotify Singles](https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 2:51 | 2022-03-29 | 2022-11-24 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-11-24 |  |

@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 250773,
       "name": "(I'm Gonna) Love Me Again",
       "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 180400,
       "name": "Fare Thee Well (Dink's Song)",
       "url": "https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 243777,
       "name": "Goodnight Moon",
       "url": "https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 157506,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27"
@@ -1697,6 +1697,24 @@
     {
       "album": {
         "name": "Brain Drain",
+        "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123600,
+      "name": "Merry Christmas (I Don't Want to Fight Tonight)",
+      "url": "https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI"
+    },
+    {
+      "album": {
+        "name": "Brain Drain",
         "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
       },
       "artists": [
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Star of Bethlehem - Voice",
       "url": "https://open.spotify.com/track/5MNkMPDxNoQCILLPJw4XAB"

@@ -4,12 +4,12 @@
 
 > Energetic drum & bass to keep your rhythm pumping.
 
-79 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/5GsikiWgqsQsiiBpViWT2y)
+80 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/5GsikiWgqsQsiiBpViWT2y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Again](https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Again](https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd) | 3:51 | 2022-01-21 |  |
-| [Air Castles \- Original Mix](https://open.spotify.com/track/7EU15pPIughfkoZIv6lkcH) | [Avizura](https://open.spotify.com/artist/7s8NiB8C6FinzSpeDtyJHm) | [Galaxy of Dreams 2 \(Liquicity Presents\)](https://open.spotify.com/album/262DAiwfDs0TcvfvTbUyRL) | 4:26 | 2022-01-21 |  |
+| [Air Castles \- Original Mix](https://open.spotify.com/track/7EU15pPIughfkoZIv6lkcH) | [Avizura](https://open.spotify.com/artist/7s8NiB8C6FinzSpeDtyJHm) | [Galaxy of Dreams 2 \(Liquicity Presents\)](https://open.spotify.com/album/262DAiwfDs0TcvfvTbUyRL) | 4:26 | 2022-01-21 | 2022-12-13 |
 | [Astral Walker](https://open.spotify.com/track/0K0Yq0qxbKR5WSYDxvDGgP) | [Station Earth](https://open.spotify.com/artist/1G9FmqZJybVEOXqMOR5usy) | [The Rampage EP](https://open.spotify.com/album/0iEO9pPagEb3Ewp3VSH2uq) | 5:37 | 2022-01-21 |  |
 | [Black & Blue \- Netsky Remix](https://open.spotify.com/track/4y77n84Mlpb77Kf8dDu2BB) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J), [Boris Daenen](https://open.spotify.com/artist/4Zvz7mkxAtK7CJG0SYq2JV) | [Black & Blue](https://open.spotify.com/album/75gd3ez1KPjlnHqGnzYnRR) | 5:14 | 2022-01-21 |  |
 | [Brazil](https://open.spotify.com/track/24abahS4tYAxt7lgSBk7Vc) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Brazil](https://open.spotify.com/album/3dta7WJB6g1ld5mMIuNPFQ) | 3:46 | 2022-01-21 | 2022-07-29 |
@@ -33,6 +33,7 @@
 | [Falling Down](https://open.spotify.com/track/6LAC27g94jvgqpmK2EZ3dm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Falling Down](https://open.spotify.com/album/2gH6ffMWP4qmEfThTGUqeu) | 3:48 | 2022-01-21 |  |
 | [FEEL](https://open.spotify.com/track/1jJiM8kiIRSZ95xhLmoQZr) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [FEEL](https://open.spotify.com/album/4QqXOjIk7euMzkKFRPreqJ) | 3:40 | 2022-01-21 |  |
 | [FEEL](https://open.spotify.com/track/2PkJD0EZfKpODl8A2GXf4W) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [FEEL](https://open.spotify.com/album/5ZWDDq45x4z73yHIwspFqV) | 3:40 | 2022-01-21 | 2022-07-29 |
+| [Freak](https://open.spotify.com/track/2WCU5Lt6pKZwbkK4ElwWpw) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Freak](https://open.spotify.com/album/6arnhhGtFAB6jQqWf5eO27) | 4:07 | 2022-01-21 |  |
 | [Freak](https://open.spotify.com/track/3DZaBLblbt5GvG0JOx71d9) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Freak](https://open.spotify.com/album/0cQa1ez8EZ6uY4y3LAa7zt) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Freak](https://open.spotify.com/track/63eEJv5lfrGVHYA80DOPji) | [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Freak](https://open.spotify.com/album/10PkjemrGlYhKbtYODirZX) | 4:07 | 2022-01-21 | 2022-12-04 |
 | [Freak](https://open.spotify.com/track/6VrIGdvM089nUq5dbsLYCI) | [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [UKF Drum & Bass 2015](https://open.spotify.com/album/5kkUeuDPkH1vagySWjlR2d) | 4:07 | 2022-01-21 | 2022-11-13 |

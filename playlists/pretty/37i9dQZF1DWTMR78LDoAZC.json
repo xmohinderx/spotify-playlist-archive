@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQQIA+ artists. Cover: serpentwithfeet",
-  "num_followers": 106099,
+  "num_followers": 106095,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMGNkMTczZGY4NmEwYzQ1NzhlOGU0ZDgzMjhlNThmZTZm",
+  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMGYxZTg4MTdhNWM4OTA2Y2UyZmRiMThlYzUyNjRmNDEx",
   "tracks": [
     {
       "added_at": "2022-06-06 14:47:44",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 194009,
       "name": "Your Dog",
       "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO"
     },
     {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 197661,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ"
-    },
-    {
       "added_at": "2022-06-08 23:02:27",
       "album": {
         "name": "Olympus",
@@ -515,6 +499,22 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 197661,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "More Like You",
-        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "claire (deluxe)",
         "url": "https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
+        "name": "More Like You",
+        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 207000,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "if we lived on the moon",
+        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
+      },
+      "artists": [
+        {
+          "name": "vivi rincon",
+          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
+        }
+      ],
+      "duration_ms": 151223,
+      "name": "if we lived on the moon",
+      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -743,22 +759,6 @@
       "duration_ms": 141190,
       "name": "Before the World Was Big",
       "url": "https://open.spotify.com/track/2rBquuYxu3ShGWQgIvnNHK"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
-        "name": "if we lived on the moon",
-        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
-      },
-      "artists": [
-        {
-          "name": "vivi rincon",
-          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
-        }
-      ],
-      "duration_ms": 151223,
-      "name": "if we lived on the moon",
-      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 241097,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Pretty Girl hi!",
-        "url": "https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 112413,
-      "name": "Pretty Girl hi!",
-      "url": "https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "My Friend Mica",
         "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Pretty Girl hi!",
+        "url": "https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 112413,
+      "name": "Pretty Girl hi!",
+      "url": "https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -995,42 +1011,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 241097,
-      "name": "Tenderness",
-      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
-        "name": "Chosen Family (with Elton John)",
-        "url": "https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 279679,
-      "name": "Chosen Family (with Elton John)",
-      "url": "https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "nice",
         "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 148250,
       "name": "QUEEN BEE",
       "url": "https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Chosen Family (with Elton John)",
+        "url": "https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 279679,
+      "name": "Chosen Family (with Elton John)",
+      "url": "https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "How Many Times Have You Driven By",
-        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 164169,
-      "name": "Crying on the Subway",
-      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Peak",
         "url": "https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 230400,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "How Many Times Have You Driven By",
+        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 164169,
+      "name": "Crying on the Subway",
+      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
     },
     {
       "added_at": "2022-06-06 14:47:44",

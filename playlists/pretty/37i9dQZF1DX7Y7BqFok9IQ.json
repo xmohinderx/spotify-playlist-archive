@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 137690,
+  "num_followers": 137732,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDQxMjE5ZmEyZmEzOTVjMjk0NzBkMDBjMGQ5OWFjZmY2",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGM2MzhjYWY3Y2NhN2RlYWFkZGE1YWJhMTBhMmIwOTE0",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
+        "name": "WAYS",
+        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 181218,
+      "name": "Any Way the Wind Blows",
+      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 258200,
       "name": "Low Down Rolling Stone",
       "url": "https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Look Alive",
-        "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
-      },
-      "artists": [
-        {
-          "name": "Black Pistol Fire",
-          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Pick Your Poison",
-      "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
+        "name": "Look Alive",
+        "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
         "name": "Nowhere Everywhere",
         "url": "https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko"
       },
@@ -295,54 +311,6 @@
       "duration_ms": 168440,
       "name": "Sailing Down",
       "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "WAYS",
-        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 181218,
-      "name": "Any Way the Wind Blows",
-      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -363,6 +331,54 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
         "name": "Black Holes",
         "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 219586,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
+    },
+    {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -397,70 +429,6 @@
       "url": "https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
-    },
-    {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Holy Ghost Fire",
-        "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "play it pretty",
@@ -479,6 +447,38 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Holy Ghost Fire",
+        "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
         "name": "Well Wasted",
         "url": "https://open.spotify.com/album/26rXDFayFu0pANaa174xu7"
       },
@@ -493,20 +493,40 @@
       "url": "https://open.spotify.com/track/4S8WK43eMxManxzewCswet"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sugar and Spice",
-        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
+        "name": "Wicked Girl",
+        "url": "https://open.spotify.com/album/02wlom1pEz40ngTampIPeU"
       },
       "artists": [
         {
-          "name": "Jocelyn & Chris Arndt",
-          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
+          "name": "Tyler Boone",
+          "url": "https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz"
+        },
+        {
+          "name": "Peter Keys",
+          "url": "https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7"
         }
       ],
-      "duration_ms": 214921,
-      "name": "Sugar and Spice",
-      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
+      "duration_ms": 208000,
+      "name": "Wicked Girl",
+      "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Truth Be Told EP",
+        "url": "https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR"
+      },
+      "artists": [
+        {
+          "name": "Cam Cole",
+          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
+        }
+      ],
+      "duration_ms": 166862,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -523,22 +543,6 @@
       "duration_ms": 328093,
       "name": "The Waltz",
       "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Ballad of a Thin Man",
-        "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 393586,
-      "name": "Ballad of a Thin Man",
-      "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -573,42 +577,6 @@
       "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Wicked Girl",
-        "url": "https://open.spotify.com/album/02wlom1pEz40ngTampIPeU"
-      },
-      "artists": [
-        {
-          "name": "Tyler Boone",
-          "url": "https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz"
-        },
-        {
-          "name": "Peter Keys",
-          "url": "https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Wicked Girl",
-      "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
-    },
-    {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "The Ides of March",
-        "url": "https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP"
-      },
-      "artists": [
-        {
-          "name": "Myles Kennedy",
-          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
-        }
-      ],
-      "duration_ms": 227199,
-      "name": "In Stride",
-      "url": "https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "John The Conqueror",
@@ -623,22 +591,6 @@
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Truth Be Told EP",
-        "url": "https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR"
-      },
-      "artists": [
-        {
-          "name": "Cam Cole",
-          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
-        }
-      ],
-      "duration_ms": 166862,
-      "name": "Truth Be Told",
-      "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -659,22 +611,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "By Default",
-        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
-      },
-      "artists": [
-        {
-          "name": "Band Of Skulls",
-          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
-        }
-      ],
-      "duration_ms": 168936,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "World Boogie Is Coming",
         "url": "https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94"
       },
@@ -687,6 +623,70 @@
       "duration_ms": 155986,
       "name": "Rollin 'N Tumblin",
       "url": "https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "The Ides of March",
+        "url": "https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP"
+      },
+      "artists": [
+        {
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
+        }
+      ],
+      "duration_ms": 227199,
+      "name": "In Stride",
+      "url": "https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Ballad of a Thin Man",
+        "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 393586,
+      "name": "Ballad of a Thin Man",
+      "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
+    },
+    {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "Sugar and Spice",
+        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn & Chris Arndt",
+          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
+        }
+      ],
+      "duration_ms": 214921,
+      "name": "Sugar and Spice",
+      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "By Default",
+        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "duration_ms": 168936,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Made In Muscle Shoals Vol. 2",
-        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "Got Love - Made In Muscle Shoals",
-      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Ones to Keep Close",
@@ -803,6 +787,22 @@
       "duration_ms": 203099,
       "name": "Click Click Domino (feat. Marcus King)",
       "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Made In Muscle Shoals Vol. 2",
+        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "Got Love - Made In Muscle Shoals",
+      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
     },
     {
       "added_at": "2022-05-13 04:02:00",

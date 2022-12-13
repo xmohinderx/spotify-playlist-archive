@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 198454,
+  "num_followers": 198504,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDJmMTYxYmMyZWMzYjIxMTNmY2FmYzUzODcxMTAwNjNm",
+  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDU1MThiZGU2NzkzNzljYmRlMGI5YTlmMGE1MDZkNjlm",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of The Clovers (Love Potion No. 9)",
-        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
-      },
-      "artists": [
-        {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
-        }
-      ],
-      "duration_ms": 113200,
-      "name": "Love Potion No. 9 - Remastered / Single Version",
-      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Best Of The Penguins",
         "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Best Of The Clovers (Love Potion No. 9)",
+        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
+      },
+      "artists": [
+        {
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+        }
+      ],
+      "duration_ms": 113200,
+      "name": "Love Potion No. 9 - Remastered / Single Version",
+      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -207,18 +207,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Because I Said So (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
       "artists": [
         {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+          "name": "Maurice Williams & The Zodiacs",
+          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
         }
       ],
-      "duration_ms": 130892,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
+      "duration_ms": 94906,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
-      },
-      "artists": [
-        {
-          "name": "Maurice Williams & The Zodiacs",
-          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
-        }
-      ],
-      "duration_ms": 94906,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "All-Time Greatest Hits & More 1959-1965",
         "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 151560,
       "name": "This Magic Moment",
       "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Because I Said So (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 130892,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of Bobby Lester And The Moonglows",
-        "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
-      },
-      "artists": [
-        {
-          "name": "The Moonglows",
-          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Up on the Roof: The Best of the Drifters",
-        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
+        "name": "The Best Of Bobby Lester And The Moonglows",
+        "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
         }
       ],
-      "duration_ms": 155053,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
+      "duration_ms": 189946,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -403,6 +387,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Up on the Roof: The Best of the Drifters",
+        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 155053,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Goin' Out Of My Head",
         "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 149733,
       "name": "Goin' Out Of My Head",
       "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Poison Ivy - 2007 Remaster; Remastered",
+      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -467,38 +483,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Poison Ivy - 2007 Remaster; Remastered",
-      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Harptones",
         "url": "https://open.spotify.com/album/3cqvDBd8s4jYbSugoY73AF"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 144266,
       "name": "Whispering Bells",
       "url": "https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Hollywood Flames",
-        "url": "https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET"
-      },
-      "artists": [
-        {
-          "name": "The Hollywood Flames",
-          "url": "https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Buzz, Buzz, Buzz",
-      "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Doo Wop Classics Vol. 1",
         "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "The Hollywood Flames",
+        "url": "https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET"
+      },
+      "artists": [
+        {
+          "name": "The Hollywood Flames",
+          "url": "https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Buzz, Buzz, Buzz",
+      "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Best Of The Cleftones",
         "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 179160,
       "name": "Can't We Be Sweethearts",
       "url": "https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Barbara-Ann",
-        "url": "https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB"
-      },
-      "artists": [
-        {
-          "name": "The Regents",
-          "url": "https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Barbara Ann",
-      "url": "https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -719,6 +703,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Barbara-Ann",
+        "url": "https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB"
+      },
+      "artists": [
+        {
+          "name": "The Regents",
+          "url": "https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Barbara Ann",
+      "url": "https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Presenting the Jive Five",
         "url": "https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 154466,
       "name": "My True Story",
       "url": "https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Playlist: The Best Of The Flamingos",
+        "url": "https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg"
+      },
+      "artists": [
+        {
+          "name": "The Flamingos",
+          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+        }
+      ],
+      "duration_ms": 173441,
+      "name": "Lovers Never Say Goodbye",
+      "url": "https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -751,22 +767,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "For Cool Grandkids Everywhere",
-        "url": "https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a"
-      },
-      "artists": [
-        {
-          "name": "Danny & The Juniors",
-          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "At The Hop",
-      "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Marcels",
         "url": "https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Playlist: The Best Of The Flamingos",
-        "url": "https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg"
+        "name": "For Cool Grandkids Everywhere",
+        "url": "https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a"
       },
       "artists": [
         {
-          "name": "The Flamingos",
-          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
         }
       ],
-      "duration_ms": 173441,
-      "name": "Lovers Never Say Goodbye",
-      "url": "https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t"
+      "duration_ms": 156266,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
     },
     {
       "added_at": "2021-02-12 10:06:47",

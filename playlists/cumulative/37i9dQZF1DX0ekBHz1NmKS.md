@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-607 songs - 1 day 8 hr 15 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+608 songs - 1 day 8 hr 17 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [För Evigt](https://open.spotify.com/track/1CuVhIZAAc8h360WoVJYhD) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [För Evigt](https://open.spotify.com/album/1nw8NdjGsc5dyfvXedPawH) | 2:36 | 2021-12-16 | 2022-03-11 |
 | [För mig själv](https://open.spotify.com/track/3sebHi40n34U0IeL7LpH9q) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [För mig själv](https://open.spotify.com/album/7zhsXS5RPIzICS7J71wcFY) | 2:58 | 2021-12-16 | 2022-03-08 |
 | [För Snabbt](https://open.spotify.com/track/2LUp7yM0n43fma1PZMT1Jf) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X) | [II](https://open.spotify.com/album/6YjgKHr6xxrmjaaMySlNUd) | 3:29 | 2021-12-16 | 2022-05-11 |
-| [Förbjudet land](https://open.spotify.com/track/4da9wutgbwJbY5L2K0wJSD) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Förbjudet land](https://open.spotify.com/album/3HkXIRwwC7MSTV5U3uDklm) | 3:47 | 2022-11-10 |  |
+| [Förbjudet land](https://open.spotify.com/track/4da9wutgbwJbY5L2K0wJSD) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Förbjudet land](https://open.spotify.com/album/3HkXIRwwC7MSTV5U3uDklm) | 3:47 | 2022-11-10 | 2022-12-13 |
 | [Fördärvad](https://open.spotify.com/track/6MSC5245nNM5GtZDq1ncC2) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Fördärvad](https://open.spotify.com/album/438edHGkbpMmjtI54r0zDh) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [Förlora mig](https://open.spotify.com/track/7LKZIASzyTpIuUiJ6ed2Ra) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Förlora mig](https://open.spotify.com/album/1ss6cOzXB9SEIPLc4sDtGY) | 2:03 | 2022-05-19 | 2022-07-29 |
 | [Förlorat mot världen](https://open.spotify.com/track/0b7wXTM7SXxES4TicoyWEr) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:06 | 2021-12-16 | 2022-03-02 |
@@ -255,6 +255,7 @@
 | [I Tryyy](https://open.spotify.com/track/5HmGO03u18BN9rNxQC2Gjd) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [I Tryyy](https://open.spotify.com/album/1X0qO82VYKKv16gYpOQLuR) | 4:11 | 2022-06-16 | 2022-06-18 |
 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/7Hjo1HHU4AEnYc509tRhjK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Will Be Better Than You At Letting Go](https://open.spotify.com/album/5Zhiw61adJtxcJtoILhQ2b) | 2:46 | 2022-04-07 | 2022-04-30 |
 | [I'm Coming Home](https://open.spotify.com/track/4UKu4kk8t9fTj9RsqxSMV5) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [I'm Coming Home](https://open.spotify.com/album/4NacRixpn1ImOnKmwlgBfc) | 1:21 | 2022-06-21 | 2022-11-24 |
+| [I'm Coming Home](https://open.spotify.com/track/72TII5VXJvfSWVpwlNuoPF) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [I'm Coming Home](https://open.spotify.com/album/2Uy07vkjqxcAxyaH5cP6xu) | 1:21 | 2022-12-09 |  |
 | [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-10-28 |  |
 | [Idiot](https://open.spotify.com/track/1K60A6axKbeTgDMzaoOgri) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut \(pt\. 1\)](https://open.spotify.com/album/4ODsYIvXJVM9pvUA3HJUQo) | 2:58 | 2021-12-16 | 2022-01-04 |
 | [Idén om oss](https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Idén om oss](https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L) | 2:38 | 2021-12-16 | 2022-03-11 |

@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-91 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
+92 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Knives & Lambs](https://open.spotify.com/track/5bIGoKUGaSeOFeqe8qV1aV) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [Love Child 3](https://open.spotify.com/album/5yQtKbqyHDaHBdmoNzoZjm) | 5:59 | 2022-06-30 |  |
 | [Mercy \(Sho Mo\)](https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Mercy \(Sho Mo\)](https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx) | 2:45 | 2022-11-18 |  |
 | [Mine](https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Mine](https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN) | 3:23 | 2022-09-30 |  |
-| [Mo Ne Yo](https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Mo Ne Yo](https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit) | 4:29 | 2022-06-30 |  |
+| [Mo Ne Yo](https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Mo Ne Yo](https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit) | 4:29 | 2022-06-30 | 2022-12-13 |
 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 | 2022-06-30 |  |
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2022-06-30 |  |
 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 | 2022-09-01 |  |
@@ -95,6 +95,7 @@
 | [W'asem](https://open.spotify.com/track/6tkg5oZJuhHOy99LyN1qfN) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [W'asem](https://open.spotify.com/album/1keGuqsg2oO5VeKV7EDa7f) | 3:39 | 2022-06-30 |  |
 | [Wobeye Kese \- Version 1](https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Wobeye Kese](https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT) | 4:58 | 2022-06-30 |  |
 | [Wonder \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 4:03 | 2022-06-30 |  |
+| [Worry About Nothing](https://open.spotify.com/track/1bateGag5fX01lBjlkJ6JG) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 2:44 | 2022-12-08 |  |
 | [Yehowah Bɛhwɛ](https://open.spotify.com/track/7G7GIlgSM9eLi84zH9C6Oq) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Yehowah](https://open.spotify.com/album/1HmdkNEK6p2lBsLp5nfqhp) | 5:25 | 2022-06-30 |  |
 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 | 2022-06-30 |  |
 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 | 2022-06-30 |  |

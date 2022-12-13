@@ -4,7 +4,7 @@
 
 > This is the best of today's true alternative rock scene.
 
-232 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
+233 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [One True Prince](https://open.spotify.com/track/5wnITloAfJ33x0m1R0sQwF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [One True Prince](https://open.spotify.com/album/4PzJRdK8unANl6KqYrFjv1) | 3:58 | 2021-08-13 | 2022-07-29 |
 | [Oxygen Thief](https://open.spotify.com/track/59lsHvsyh49rejXU31xY2s) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Oxygen Thief](https://open.spotify.com/album/3HIalBoWd1Rx8a01MhuBhS) | 2:56 | 2022-01-21 |  |
 | [Pillar On The Bridge Of You](https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Pillar On The Bridge Of You](https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8) | 3:17 | 2022-04-29 | 2022-11-09 |
-| [Pillar on the Bridge of You](https://open.spotify.com/track/3xLmKij70Eq5j5MsLCFYLt) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/7cQv9A3WQqO4qclDdN2gRB) | 3:17 | 2022-04-29 |  |
+| [Pillar on the Bridge of You](https://open.spotify.com/track/3xLmKij70Eq5j5MsLCFYLt) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/7cQv9A3WQqO4qclDdN2gRB) | 3:17 | 2022-04-29 | 2022-12-13 |
 | [Polaroid](https://open.spotify.com/track/0qOrLJBeP52NTMnNzawvLo) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Polaroid](https://open.spotify.com/album/7tmozRPFTkoGGC8dr7BtcB) | 3:17 | 2021-03-31 | 2022-03-01 |
 | [Pollen](https://open.spotify.com/track/16u39sZAP2UXg9DGU56ZNm) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Pollen \(Single Version\)](https://open.spotify.com/album/4jv8W25FJ0jT9x1uCSZ4Ny) | 3:32 | 2021-05-21 | 2022-07-29 |
 | [Public Enemy](https://open.spotify.com/track/6CSTSByUvQyYIlGStzM3Qd) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Public Enemy](https://open.spotify.com/album/6gWVDCeNynphJ6MIxZRgiN) | 2:29 | 2021-05-21 | 2022-02-23 |
@@ -212,6 +212,7 @@
 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2021-03-31 |  |
 | [These Days](https://open.spotify.com/track/5cNFlGdGBLVxd1Lt4sfaVt) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/3KiPUhXAfxweY5BSmSG264) | 3:17 | 2021-09-17 | 2022-10-17 |
 | [These Days](https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty) | 3:17 | 2022-04-29 |  |
+| [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 | 2022-04-29 |  |
 | [This is Our Life](https://open.spotify.com/track/5T38ywOoK6b29fpbTrhwx3) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/0dQPaO9I1hRzDwe2RePxFR) | 3:44 | 2021-03-31 | 2022-07-29 |
 | [This is Our Life](https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/7GIxrgLPIKexc7d5FwNtuX) | 3:44 | 2022-04-29 | 2022-12-10 |
 | [Too High](https://open.spotify.com/track/4dOaEi815BXfCllDfB79di) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Too High](https://open.spotify.com/album/62LB05IJUlQ2VcChMtY7d6) | 3:47 | 2021-03-31 | 2022-02-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 46994,
+  "num_followers": 47450,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDlkNDdlMTEwODJhNDFkMGZmZTRkMjRmZWVmNDg1OGVi",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGM1OWM4MDZmNzA1MjM1MmZjMDg0MjU1NzMwYmQ1NDA4",
   "tracks": [
     {
       "added_at": "2022-12-02 05:01:00",
@@ -171,6 +171,26 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
+        "name": "Kaskade Christmas Deluxe",
+        "url": "https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Jingle Bells (feat. Soran)",
+      "url": "https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
         "name": "I Wish (feat. Mabel) [Christmas Version]",
         "url": "https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy"
       },
@@ -239,26 +259,6 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Kaskade Christmas Deluxe",
-        "url": "https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Jingle Bells (feat. Soran)",
-      "url": "https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
       },
@@ -271,6 +271,30 @@
       "duration_ms": 144440,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "All I Want for Christmas",
+        "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
+      },
+      "artists": [
+        {
+          "name": "Alvin Anthony",
+          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        },
+        {
+          "name": "JeLa",
+          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "All I Want for Christmas",
+      "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -315,26 +339,6 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Home Alone (On the Night Before Christmas) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/0XKqUXkhoD7ybgw7FVshUJ"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 188264,
-      "name": "All I Want for Christmas is You",
-      "url": "https://open.spotify.com/track/7rO4mCUZoujb79lq314vCA"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
         "name": "A Very Decent Christmas",
         "url": "https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph"
       },
@@ -347,30 +351,6 @@
       "duration_ms": 216986,
       "name": "Turn Up Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "All I Want for Christmas",
-        "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
-      },
-      "artists": [
-        {
-          "name": "Alvin Anthony",
-          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        },
-        {
-          "name": "JeLa",
-          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "All I Want for Christmas",
-      "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -427,22 +407,22 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Kaskade Christmas",
-        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+        "name": "Home Alone (On the Night Before Christmas) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/0XKqUXkhoD7ybgw7FVshUJ"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Late Night Alumni",
-          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         }
       ],
-      "duration_ms": 167373,
-      "name": "Christmas is Here (feat. Late Night Alumni)",
-      "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
+      "duration_ms": 188264,
+      "name": "All I Want for Christmas is You",
+      "url": "https://open.spotify.com/track/7rO4mCUZoujb79lq314vCA"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -495,6 +475,46 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/5maELdJVcuasTlrlY9fgUV"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 167796,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2XmfGaH8F0OuElPwnovfDe"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Late Night Alumni",
+          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Christmas is Here (feat. Late Night Alumni)",
+      "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
         "name": "Caro\u0308l Von Holz",
         "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
       },
@@ -531,22 +551,42 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/5maELdJVcuasTlrlY9fgUV"
+        "name": "An Electronic Christmas",
+        "url": "https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc"
       },
       "artists": [
         {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+          "name": "Dimmalou",
+          "url": "https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT"
         },
         {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+          "name": "Nightcore",
+          "url": "https://open.spotify.com/artist/77t00lrU1uk65snqAdoPnt"
+        },
+        {
+          "name": "Speed Sounds",
+          "url": "https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm"
         }
       ],
-      "duration_ms": 167796,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2XmfGaH8F0OuElPwnovfDe"
+      "duration_ms": 125280,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/1axYNHZnGmk4CsoPZWsNNY"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "Winter Wonderland ^Bsiide",
+        "url": "https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        }
+      ],
+      "duration_ms": 178739,
+      "name": "Winter Wonderland ^Bsiide",
+      "url": "https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -587,22 +627,6 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Winter Wonderland ^Bsiide",
-        "url": "https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a"
-      },
-      "artists": [
-        {
-          "name": "L\u00f6Kii",
-          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
-        }
-      ],
-      "duration_ms": 178739,
-      "name": "Winter Wonderland ^Bsiide",
-      "url": "https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb"
       },
@@ -627,46 +651,6 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "An Electronic Christmas",
-        "url": "https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc"
-      },
-      "artists": [
-        {
-          "name": "Dimmalou",
-          "url": "https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT"
-        },
-        {
-          "name": "Nightcore",
-          "url": "https://open.spotify.com/artist/77t00lrU1uk65snqAdoPnt"
-        },
-        {
-          "name": "Speed Sounds",
-          "url": "https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm"
-        }
-      ],
-      "duration_ms": 125280,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/1axYNHZnGmk4CsoPZWsNNY"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/4TWTg7AZ1MLOHSCVVuDGLY"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 155236,
-      "name": "First Christmas",
-      "url": "https://open.spotify.com/track/0IulDUwh9VKcy7ENUD5f2c"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/0OwaoKbTLogu3Q3TW47ruD"
       },
@@ -687,22 +671,38 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Kaskade Christmas",
-        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/4TWTg7AZ1MLOHSCVVuDGLY"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Jane X\u00d8",
-          "url": "https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 199866,
-      "name": "Santa Baby (feat. Jane X\u00d8)",
-      "url": "https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6"
+      "duration_ms": 155236,
+      "name": "First Christmas",
+      "url": "https://open.spotify.com/track/0IulDUwh9VKcy7ENUD5f2c"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q"
+      },
+      "artists": [
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+        }
+      ],
+      "duration_ms": 163312,
+      "name": "It's Christmas Time",
+      "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -723,22 +723,22 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "A Very Decent Christmas 5",
-        "url": "https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz"
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
       },
       "artists": [
         {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "Big Mac 75",
-          "url": "https://open.spotify.com/artist/3VPFZ45R3Ek1szQk16llqi"
+          "name": "Jane X\u00d8",
+          "url": "https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK"
         }
       ],
-      "duration_ms": 158250,
-      "name": "O Litty Night",
-      "url": "https://open.spotify.com/track/5Hsg8oYTtMqKuvjvIlPMV5"
+      "duration_ms": 199866,
+      "name": "Santa Baby (feat. Jane X\u00d8)",
+      "url": "https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6"
     }
   ],
   "unique_name": "Electronic Christmas",

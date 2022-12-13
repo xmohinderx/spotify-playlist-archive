@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Hip\-Hop this year\. Cover: GloRilla
 
-570 songs - 1 day 1 hr 14 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+571 songs - 1 day 1 hr 17 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,8 +178,9 @@
 | [EXCEPTIONAL](https://open.spotify.com/track/2zg3Y2hKzNeo2qIVXkbKUf) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/0YlIlMvnAz21BWyCeLYNDl) | 2:17 | 2022-02-16 | 2022-03-24 |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-11-30 |  |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/6bkRx9TWQfP5rcRnS89oXI) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/52ux202UcTEFnp1Bojy1hu) | 2:17 | 2022-05-04 | 2022-06-09 |
+| [Face no Book](https://open.spotify.com/track/1onwHSIPJECEhwcMJlyEIB) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0PDBBWqqZNwj6yhLe6Fq88) | 2:24 | 2022-11-30 |  |
 | [Face no Book](https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw) | 2:25 | 2022-10-05 | 2022-12-01 |
-| [Face no Book](https://open.spotify.com/track/61F7oyUltrI5dMVw3IvbQT) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/3OVDIdP6r46Sih6DN0vyHc) | 2:25 | 2022-11-30 |  |
+| [Face no Book](https://open.spotify.com/track/61F7oyUltrI5dMVw3IvbQT) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/3OVDIdP6r46Sih6DN0vyHc) | 2:25 | 2022-11-30 | 2022-12-13 |
 | [Failure](https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi) | 3:41 | 2022-06-01 | 2022-07-30 |
 | [Fallin' Alone](https://open.spotify.com/track/2tktY4JA7EhUKVNR4sj9Jw) | [Carter Cook](https://open.spotify.com/artist/0KHc7N6EG0MPyIgJCsEGff) | [Fallin' Alone](https://open.spotify.com/album/7JPpxiAszgNlUcx423IUW6) | 2:13 | 2022-08-10 | 2022-09-22 |
 | [Feelin Like Rylo](https://open.spotify.com/track/5bHXahWwP3DHKcXAcgIS2d) | [lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Feelin Like Rylo](https://open.spotify.com/album/6SnxOflet3jdrMvcmbhNKl) | 2:25 | 2022-04-07 | 2022-05-26 |

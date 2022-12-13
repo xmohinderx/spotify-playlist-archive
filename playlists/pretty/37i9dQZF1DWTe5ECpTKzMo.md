@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > Solo éxitos locales pasados, chapados en oro\. Aleman en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,525 likes - 58 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,094 likes - 58 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

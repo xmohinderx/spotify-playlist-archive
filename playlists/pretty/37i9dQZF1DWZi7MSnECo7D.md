@@ -2,36 +2,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Karen Jonz
+> Novidades e destaques do indie nacional\. Foto: Tuyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,825 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,862 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eu Vim Pela Comida](https://open.spotify.com/track/3ezikT6mGMbsWkKorJmYTY) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Depois da Festa](https://open.spotify.com/album/2ot4rydfGQ4RCX2f209KrM) | 3:00 |
 | 2 | [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/track/4YCJNxlr9rUdgXrGEkCLlx) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/album/6mJ4cn0DAOhRbv6FiE1qfr) | 3:08 |
-| 3 | [Quem Me Dera](https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Quem Me Dera](https://open.spotify.com/album/6xyftajgJC0tmzaKgyLINz) | 2:26 |
-| 4 | [Exagero](https://open.spotify.com/track/2k6UjFKX89tA2GPKrmb4NB) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/2lLzotThWmiFq8OcdH9iqz) | 3:44 |
-| 5 | [Outras Pessoas](https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Outras Pessoas](https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW) | 3:19 |
-| 6 | [Nunca foi descaso \(feat\. Gab Ferreira\) \- Ao Vivo](https://open.spotify.com/track/5cdwRfJldwrKv6mrHvCR1r) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de Carta \(Ao Vivo\)](https://open.spotify.com/album/6jOWkYdTXWt9p2nDzYLnFr) | 3:44 |
-| 7 | [Talvez o Problema Seja Eu](https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Talvez o Problema Seja Eu](https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL) | 2:35 |
-| 8 | [Vidadulta](https://open.spotify.com/track/2h79C5Bj9nrI3FotE3TbZ8) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH), [Marina Gasolina](https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ) | [Vidadulta](https://open.spotify.com/album/56rcd8BD3O397HsS2zi7gn) | 4:05 |
-| 9 | [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 |
-| 10 | [Auto Sabotagem](https://open.spotify.com/track/3zPJRCqgm2Rc3DOK4zZP86) | [Vincy](https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm) | [Auto Sabotagem](https://open.spotify.com/album/0xasSQMv6MSymipN6XHSRc) | 3:26 |
-| 11 | [Sex, Drugs, Etc\. \- Stripped Down](https://open.spotify.com/track/4UIP2ib4kHghA1S0jxnW5s) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Sex, Drugs, Etc\. \(Stripped Down\)](https://open.spotify.com/album/4dy64woaU8KwpLVdU14nsc) | 3:21 |
-| 12 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 |
-| 13 | [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 |
-| 14 | [alguém](https://open.spotify.com/track/6UDPt5g8OZtUHIQDUGztQc) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:08 |
-| 15 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
-| 16 | [Boca Aberta](https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Boca Aberta](https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl) | 3:20 |
-| 17 | [Eclipse](https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [Eclipse](https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv) | 3:50 |
-| 18 | [Rotina](https://open.spotify.com/track/4H44feb7oHzkqzNQJnBv98) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Rotina](https://open.spotify.com/album/2VTSX1KLy3MtO0qcrZBoG9) | 3:41 |
-| 19 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 |
-| 20 | [Alice](https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Alice](https://open.spotify.com/album/1t8mCGvgHxiPqpw0ldQ5DF) | 3:25 |
-| 21 | [O Sol e a Lua](https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Sol e a Lua](https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER) | 2:37 |
-| 22 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
-| 23 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 |
-| 24 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 |
+| 3 | [Exagero](https://open.spotify.com/track/2k6UjFKX89tA2GPKrmb4NB) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/2lLzotThWmiFq8OcdH9iqz) | 3:44 |
+| 4 | [Outras Pessoas](https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Outras Pessoas](https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW) | 3:19 |
+| 5 | [Vidadulta](https://open.spotify.com/track/2h79C5Bj9nrI3FotE3TbZ8) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH), [Marina Gasolina](https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ) | [Vidadulta](https://open.spotify.com/album/56rcd8BD3O397HsS2zi7gn) | 4:05 |
+| 6 | [Talvez o Problema Seja Eu](https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Talvez o Problema Seja Eu](https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL) | 2:35 |
+| 7 | [Quem Me Dera](https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Quem Me Dera](https://open.spotify.com/album/6xyftajgJC0tmzaKgyLINz) | 2:26 |
+| 8 | [Nunca foi descaso \(feat\. Gab Ferreira\) \- Ao Vivo](https://open.spotify.com/track/5cdwRfJldwrKv6mrHvCR1r) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de Carta \(Ao Vivo\)](https://open.spotify.com/album/6jOWkYdTXWt9p2nDzYLnFr) | 3:44 |
+| 9 | [Sex, Drugs, Etc\. \- Stripped Down](https://open.spotify.com/track/4UIP2ib4kHghA1S0jxnW5s) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Sex, Drugs, Etc\. \(Stripped Down\)](https://open.spotify.com/album/4dy64woaU8KwpLVdU14nsc) | 3:21 |
+| 10 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 |
+| 11 | [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 |
+| 12 | [Auto Sabotagem](https://open.spotify.com/track/3zPJRCqgm2Rc3DOK4zZP86) | [Vincy](https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm) | [Auto Sabotagem](https://open.spotify.com/album/0xasSQMv6MSymipN6XHSRc) | 3:26 |
+| 13 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
+| 14 | [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 |
+| 15 | [Eclipse](https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [Eclipse](https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv) | 3:50 |
+| 16 | [Rotina](https://open.spotify.com/track/4H44feb7oHzkqzNQJnBv98) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Rotina](https://open.spotify.com/album/2VTSX1KLy3MtO0qcrZBoG9) | 3:41 |
+| 17 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 |
+| 18 | [Alice](https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Alice](https://open.spotify.com/album/1t8mCGvgHxiPqpw0ldQ5DF) | 3:25 |
+| 19 | [O Sol e a Lua](https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Sol e a Lua](https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER) | 2:37 |
+| 20 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
+| 21 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 |
+| 22 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 |
+| 23 | [Boca Aberta](https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Boca Aberta](https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl) | 3:20 |
+| 24 | [alguém](https://open.spotify.com/track/6UDPt5g8OZtUHIQDUGztQc) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:08 |
 | 25 | [SOFRER DE AMOR](https://open.spotify.com/track/5KcMiPpmgsI4EEomWEXpKX) | [HENZEE](https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54) | [VOANDO PELA ÓRBITA DA TERRA](https://open.spotify.com/album/4KMk5OAxc2qUIAb8duVAYh) | 4:08 |
 | 26 | [Dias da Juventude](https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Dias da Juventude](https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC) | 2:55 |
 | 27 | [Revés De Tudo](https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [V](https://open.spotify.com/album/6bQw2aNY06eokyQwc2IaK4) | 4:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Viver É Urgente](https://open.spotify.com/track/7jSV6Rj6qwfpWp6217Pesb) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD) | [Viver É Urgente](https://open.spotify.com/album/3hhCQrv2j5qGROGEFaP7Cf) | 3:18 |
 | 70 | [Suco de Umbu](https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw) | [Florais Da Terra Quente](https://open.spotify.com/artist/4o2BxKIeP7nFrkIQZCNl1R), [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Suco de Umbu](https://open.spotify.com/album/5XzQwlFEVncfk4BvGaFeIt) | 3:54 |
 
-Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDAxNGE4ZDg1YzcwYzYxNGMzZTZjMDIwZGU5Y2JhNTM1`
+Snapshot ID: `MTY3MDg1MjkwNCwwMDAwMDAwMDg2OTA1NDM2NTBiZWU2NzUyZmU3NDcwMDgwNzU5YTY4`

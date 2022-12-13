@@ -4,7 +4,7 @@
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-59 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5YvJc7GDleqyxDCjBu39II)
+60 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/5YvJc7GDleqyxDCjBu39II)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Golden Gai](https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Jonoa](https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1), [Rachel Shirley](https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI) | [Boro](https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko) | 5:52 | 2021-10-08 |  |
 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 | 2021-10-08 |  |
 | [Jazz 104](https://open.spotify.com/track/32rOcuTIZZTNWdsrUWGCJ6) | [Max Graef](https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55) | [Rivers Of The Red Planet](https://open.spotify.com/album/11c0YSZe2AXCX2s5r0KFP7) | 1:07 | 2021-10-08 |  |
+| [Laamore](https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO) | 4:40 | 2021-10-08 |  |
 | [Laamore](https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg) | 4:40 | 2021-10-08 | 2022-11-25 |
 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 | 2021-10-08 |  |
 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2021-10-08 | 2022-10-14 |
@@ -48,7 +49,7 @@
 | [Say Something](https://open.spotify.com/track/6uF67kzG2wKwjt2LCAAy87) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Say Something](https://open.spotify.com/album/6zNvF2C8ReCyPWec5u4Gxg) | 3:49 | 2021-10-08 |  |
 | [See\-Line Woman \- Main Mix](https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [See\-Line Woman](https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY) | 3:46 | 2021-10-08 |  |
 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 | 2021-10-08 |  |
-| [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 | 2021-10-08 |  |
+| [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 | 2021-10-08 | 2022-12-13 |
 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 | 2021-10-08 |  |
 | [Song for My Mother](https://open.spotify.com/track/53g6d5JlFL9HE6HXsIW5c1) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Still Flute](https://open.spotify.com/album/5YzXAdttew3nRAc1YPzP9t) | 9:09 | 2021-10-08 |  |
 | [Soweto Blues](https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Soweto Blues](https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40) | 4:58 | 2021-10-08 |  |

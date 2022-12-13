@@ -176,6 +176,32 @@
     },
     {
       "album": {
+        "name": "A Gente Nasce Assim",
+        "url": "https://open.spotify.com/album/71WLdNcIWoaufBRpM0kfLT"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "A Gente Nasce Assim",
+      "url": "https://open.spotify.com/track/6Pu8yzCWAcEHTZPVCXBnX1"
+    },
+    {
+      "album": {
         "name": "A Lua (Spotify Singles)",
         "url": "https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a"
       },
@@ -681,6 +707,24 @@
       "duration_ms": 156521,
       "name": "Conta Banc\u00e1ria",
       "url": "https://open.spotify.com/track/5nxCzBk3pUc9qUz0xM0B9q"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Carro Forte",
+        "url": "https://open.spotify.com/album/2KW1zlCk6DMuDEHarANoVQ"
+      },
+      "artists": [
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297974,
+      "name": "Cora\u00e7\u00e3o de Carro Forte",
+      "url": "https://open.spotify.com/track/1Fhmi7jJSOP6GrStpJrj4t"
     },
     {
       "album": {
@@ -1688,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "Me Diz Se Vem",
+        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177612,
+      "name": "Me Diz Se Vem",
+      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
+    },
+    {
+      "album": {
         "name": "Me Sinto Aben\u00e7oado",
         "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
       },
@@ -2031,7 +2093,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 195000,
       "name": "N\u00e3o Desista Agora",
       "url": "https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4"
@@ -2049,7 +2111,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 242384,
       "name": "N\u00e3o Sabem de Nada",
       "url": "https://open.spotify.com/track/0JyL8OXGNa7KAVhTWoObp7"
@@ -3131,7 +3193,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 147326,
       "name": "Sei L\u00e1 (Papatracks#7)",
       "url": "https://open.spotify.com/track/7DDTnzUzUiynlMQwGqWuJz"

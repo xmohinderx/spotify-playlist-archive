@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-146 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+148 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Lua \- Pippi Ciez Retake](https://open.spotify.com/track/4ufLhIy7LcTO1gD0aoM7pU) | [Djamou Sangare](https://open.spotify.com/artist/7MIDaIHvsSEayCv0pw3okp), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Pippi Ciez](https://open.spotify.com/artist/46aDUWf82wQR9U9G0k3J1v) | [Lua](https://open.spotify.com/album/0Hc205wUJI8fIBXNku5BEQ) | 7:47 | 2022-04-22 |  |
 | [Luna](https://open.spotify.com/track/1tioHY3xfRwny9nFEjpKA9) | [Espinoza](https://open.spotify.com/artist/57DFN6UryjVpBcJrgmOg6n), [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Luna](https://open.spotify.com/album/4QQPki89hRKCSI1S36biu1) | 6:04 | 2022-04-13 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-04-13 |  |
+| [Malayou](https://open.spotify.com/track/0hT1vHRFdU5pcqs9D4cTjk) | [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Malayou](https://open.spotify.com/album/3NGlNwZ7brGUuqQ9Z0Fazy) | 7:21 | 2022-12-12 |  |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-04-13 |  |
 | [Milima](https://open.spotify.com/track/26xLSnIiAcqaH2VrgUvbpf) | [Ranta](https://open.spotify.com/artist/7AOoL5hIjl1CweoVN7ia73) | [Tora](https://open.spotify.com/album/4hut2n5Fk1dfwppjVXHIQx) | 7:06 | 2022-04-13 | 2022-07-22 |
 | [Mirari](https://open.spotify.com/track/33OHSpGMU23L5QbJ6tz76S) | [Da Fresh](https://open.spotify.com/artist/0BmOEIkxF8hzj1NKUS6gwE), [Noidor](https://open.spotify.com/artist/0tXYl1GWDnDsBoaSPbMnuT) | [Mirari](https://open.spotify.com/album/18bIcMfS7bX3HUIMtskbPI) | 8:15 | 2022-04-13 |  |
@@ -96,6 +97,7 @@
 | [Nabad](https://open.spotify.com/track/7wEmAzcAIKXhS1JnKP81Pe) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Helem](https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig) | 6:26 | 2022-04-13 |  |
 | [Nemrut \- Edit](https://open.spotify.com/track/3yYRlfWjWcJReYTAT54I7o) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Nemrut \(Edit\)](https://open.spotify.com/album/59DIyGYgWwT6vo7eSeaae3) | 6:30 | 2022-04-13 |  |
 | [Nene Man Ni](https://open.spotify.com/track/7m4bWgzzK8DYLZBjHAIGVv) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU) | [Nene Man Ni](https://open.spotify.com/album/3mi4Ul9CePML6MxVBP7TAY) | 6:58 | 2022-12-06 |  |
+| [Obbatala](https://open.spotify.com/track/4kDHcLLfnC8Zj0gbCGUwAX) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Da Le \(Havana\)](https://open.spotify.com/artist/0Ls9PL0afEyfXXY1XDdQP2) | [Obbatala](https://open.spotify.com/album/1DI9vExiR85U1srTsof7O0) | 6:52 | 2022-12-12 |  |
 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 | 2022-12-06 |  |
 | [Odin \- atalkingdrum Remix](https://open.spotify.com/track/11LVlokOK5w2h2HWvX1jN1) | [Zone+](https://open.spotify.com/artist/5TyGDxSguO86fVeA8LWQj1), [Bachir Salloum](https://open.spotify.com/artist/1ICH9aTWuJCGa1MQi7hMh9), [atalkingdrum](https://open.spotify.com/artist/5Cy5Nk0jBHN5Z7fxtghBCO) | [Odin Remixes](https://open.spotify.com/album/2FbqUBG0CU0D67DdkFWwuH) | 6:26 | 2022-04-13 |  |
 | [OUD](https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [OUD](https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo) | 7:15 | 2022-04-13 | 2022-09-09 |

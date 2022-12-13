@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 208759,
       "name": "Can't Stop the Feeling",
       "url": "https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE"
@@ -2723,7 +2723,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 305777,
       "name": "Format",
       "url": "https://open.spotify.com/track/6SXDCetQJ7sJoofdSUVTFA"
@@ -2922,6 +2922,28 @@
     },
     {
       "album": {
+        "name": "Gamma (Joyhauser Remix)",
+        "url": "https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422016,
+      "name": "Gamma (Joyhauser Remix)",
+      "url": "https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0"
+    },
+    {
+      "album": {
         "name": "Gilgamesh",
         "url": "https://open.spotify.com/album/5vjiZbJumXYEWM9d9Qouol"
       },
@@ -3017,6 +3039,24 @@
       "duration_ms": 364963,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6nmNeFAVqtAgnqqh1SFqh9"
+    },
+    {
+      "album": {
+        "name": "hace ejercicios",
+        "url": "https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460813,
+      "name": "Hace Ejercicios",
+      "url": "https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP"
     },
     {
       "album": {

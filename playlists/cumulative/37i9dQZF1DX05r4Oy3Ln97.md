@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-201 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/6NDzsmnIYKIFzcUbiNvjdZ)
+202 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/6NDzsmnIYKIFzcUbiNvjdZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Midnight Waves](https://open.spotify.com/track/6C9ZOJVzjZAQ9Hk7URLRqO) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Papaya Island](https://open.spotify.com/album/7y8NL266HSryni6nAYmdHK) | 4:49 | 2021-10-29 | 2022-01-22 |
 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 | 2021-10-29 |  |
 | [Money](https://open.spotify.com/track/43XjZ7NUKfht6cv1hGdXKW) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Money](https://open.spotify.com/album/73mea9eTMTIvs9EVuQGKz7) | 2:58 | 2022-05-26 | 2022-07-22 |
-| [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 | 2022-04-29 |  |
+| [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 | 2022-04-29 | 2022-12-13 |
 | [Moonlight](https://open.spotify.com/track/5ycuH4IVcbiubxosObIPhw) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/4GU0ggvEBJ6RuoSjNuFM3l) | 2:07 | 2022-07-01 | 2022-11-24 |
 | [Mount Fuji](https://open.spotify.com/track/358JLcp3eGCfjlCvzoK00w) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Mount Fuji](https://open.spotify.com/album/6fHyZw6fyIM27wXqStn0sI) | 2:39 | 2021-10-29 | 2022-06-03 |
 | [My Alibi](https://open.spotify.com/track/7qouDrj5jN3SuW8QwRpZad) | [Nervz](https://open.spotify.com/artist/3EaSGNhCzrL0bAnlgwAfQj), [Alex Bleiziffer](https://open.spotify.com/artist/4m4oCILPIc9FPM01PcsE5J), [Hoop Records](https://open.spotify.com/artist/47Ad2VIyZw89AWmkM9QtSc) | [My Alibi](https://open.spotify.com/album/0GI1UvUaqBHYxqN2tljV53) | 3:44 | 2021-10-29 | 2022-04-21 |
@@ -185,6 +185,7 @@
 | [Thinkin Bout You](https://open.spotify.com/track/61CmIx1hiRH7VRcNb5cCY8) | [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn), [Vi Anabella Kara](https://open.spotify.com/artist/6UI6PW7WI2jz4SF5xllpgI) | [Thinkin Bout You](https://open.spotify.com/album/3OO0NdnFvAPzcVrJ9aBBF3) | 2:34 | 2021-10-29 | 2022-07-04 |
 | [Thinking Of You](https://open.spotify.com/track/4wKyrBSIvZiNnGKGtAIwXc) | [Pierse](https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg) | [Thinking Of You](https://open.spotify.com/album/5HtjTfGf1F8wSr1HATgKEF) | 2:32 | 2022-04-08 | 2022-05-21 |
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-04-29 | 2022-11-09 |
+| [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 | 2022-11-24 |  |
 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 | 2022-01-21 |  |
 | [Title Theme](https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Title Theme](https://open.spotify.com/album/53MsfZ6E3jwugaw5JXC8Fi) | 2:36 | 2022-02-28 | 2022-03-04 |
 | [Too Good To Lose \- Sunset Edition](https://open.spotify.com/track/7qJ0fplEhE9Hjjrexg2QPS) | [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Too Good To Lose \- Sunset Edition](https://open.spotify.com/album/6QK9eQNS6LQb24a8CCHJZe) | 2:56 | 2022-04-08 | 2022-04-19 |

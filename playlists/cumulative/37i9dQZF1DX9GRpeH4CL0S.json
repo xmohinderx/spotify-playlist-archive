@@ -1916,6 +1916,28 @@
     },
     {
       "album": {
+        "name": "Souvenir : The Singles 2004 - 2012",
+        "url": "https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        },
+        {
+          "name": "Mark 'Spike' Stent",
+          "url": "https://open.spotify.com/artist/27lxMew0VdF2G8vaCjaQXn"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218560,
+      "name": "Everyday I Love You Less And Less",
+      "url": "https://open.spotify.com/track/3gwoBbif2CNBUfTB75Zs57"
+    },
+    {
+      "album": {
         "name": "Commit This To Memory",
         "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
@@ -3277,7 +3299,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 347666,
       "name": "Kings And Queens",
       "url": "https://open.spotify.com/track/4z21jCYxdhnEfvgqGSKByQ"

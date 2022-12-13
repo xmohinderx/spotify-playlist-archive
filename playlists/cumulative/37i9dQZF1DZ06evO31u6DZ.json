@@ -580,6 +580,24 @@
     },
     {
       "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194466,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/4zVYTH3loQynQsWGn9ViiK"
+    },
+    {
+      "album": {
         "name": "Let It Enfold You",
         "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
       },

@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-137 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
+139 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All at Sea](https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5) | [Ha Yang Su](https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA) | [All at Sea](https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe) | 3:28 | 2022-08-18 | 2022-10-12 |
 | [all day](https://open.spotify.com/track/4Y8J7oYuDjYfj1dKaiIhBq) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/2oosC0NuRLprOFIN87SpYE) | 3:32 | 2022-07-08 | 2022-12-08 |
 | [all day](https://open.spotify.com/track/5Jsx16qY3PjJWGfiGkMYJj) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/4UeBISIWBzbzjo8CKWK0jv) | 3:32 | 2022-05-03 | 2022-07-29 |
+| [all day](https://open.spotify.com/track/5yOTx1AhzdCpOLUHqdCpAW) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/3WeWXeKbF9dj2qZOSBoh1f) | 3:32 | 2022-11-09 |  |
 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 | 2022-05-03 |  |
 | [Anemone](https://open.spotify.com/track/6p7uMDafsJbxEYRfIsu07X) | [2F/3F](https://open.spotify.com/artist/2D5fGNgLGASKII9Se7u0rX) | [Dawn](https://open.spotify.com/album/1D0L4Yzg3kO2hiFwMwWHjk) | 3:53 | 2022-05-03 | 2022-07-14 |
 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 | 2022-07-08 | 2022-11-05 |
@@ -118,7 +119,7 @@
 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 | 2022-05-03 |  |
 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Park Soo Jin](https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-08 | 2022-12-04 |
 | [Tiana](https://open.spotify.com/track/03Nxx5LH8lYPDaWeroYPZi) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 2:55 | 2022-05-03 | 2022-07-09 |
-| [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2022-05-03 |  |
+| [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2022-05-03 | 2022-12-13 |
 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 | 2022-06-09 |  |
 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 | 2022-05-03 | 2022-07-25 |
 | [Transcendence](https://open.spotify.com/track/5EYZN2W4qk20IOQ9c3JZ6K) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [My Home](https://open.spotify.com/album/4Q7GAqOIHSNtkJtD2uYntT) | 3:13 | 2022-05-03 | 2022-07-27 |
@@ -138,9 +139,10 @@
 | [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 | 2022-10-13 |  |
 | [가을과 겨울 사이 \- New Version](https://open.spotify.com/track/55TblT0IIaJYUenOCqOzRM) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [겨울밤](https://open.spotify.com/album/5QOgLJm5qWxhjBlywukFg4) | 3:34 | 2022-05-03 | 2022-07-28 |
 | [경의선 숲길](https://open.spotify.com/track/0AfxZaAXwUaacv8QaWqHKf) | [Evenight](https://open.spotify.com/artist/1iiDSmH3N5VBxqn36Ppia1) | [경의선 숲길](https://open.spotify.com/album/2lb0AxSa5SjEvJ85YJSXCh) | 3:21 | 2022-05-03 | 2022-07-26 |
+| [그대와 춤을 Dancing With You](https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [그대와 춤을 Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 3:56 | 2022-11-09 |  |
 | [낮잠](https://open.spotify.com/track/68yhHnSR9kCqRdJImjeHxj) | [Misty Blue](https://open.spotify.com/artist/7LyaQJxH634U3S8Xu6DDrK) | [4/4 Sentimental Painkiller \- 겨울은 봄의 심장](https://open.spotify.com/album/1dtfsrO1AAHYHZmbzIbmLu) | 3:32 | 2022-05-03 | 2022-06-15 |
 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 | 2022-05-03 |  |
-| [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 | 2022-09-05 |  |
+| [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 | 2022-09-05 | 2022-12-13 |
 | [소낙비 Shower](https://open.spotify.com/track/1AOTFHFtluLFWL5WreWLZd) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [그대와 춤을 Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 2:30 | 2022-11-09 |  |
 | [시소](https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J) | [KiTak](https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM) | [시소](https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR) | 2:43 | 2022-06-13 | 2022-07-28 |
 | [우리우리 겨울](https://open.spotify.com/track/4AN88Zg4Q7nI74DKbCvPzx) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [나무에 물방울 머금고](https://open.spotify.com/album/36bDnq3WeM8ORGUSUPyDtd) | 3:50 | 2022-05-03 | 2022-07-16 |

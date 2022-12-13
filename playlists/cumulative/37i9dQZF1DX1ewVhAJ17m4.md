@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: blink\-182
 
-218 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
+220 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-06-14 |  |
 | [hurricane](https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [hurricane](https://open.spotify.com/album/6KrlbTeMwlqpaH0aAA18bW) | 2:44 | 2022-10-13 |  |
 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 | 2022-07-18 | 2022-12-04 |
+| [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:21 | 2022-11-10 |  |
 | [I Hate Everybody](https://open.spotify.com/track/2ZcoqjUsyULHkmnHQV1AQ6) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [I Hate Everybody](https://open.spotify.com/album/5DFB770YCQEeRUxsrtmCQ0) | 3:12 | 2022-07-18 | 2022-09-10 |
 | [I Hate Everybody \(feat\. Simple Plan\)](https://open.spotify.com/track/61LmjrYtevg8KjHjuV5Hs7) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [I Hate Everybody \(feat\. Simple Plan\)](https://open.spotify.com/album/0aL4qAIykP8kbzDzAaX1TA) | 3:12 | 2021-12-20 | 2022-07-29 |
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2021-12-20 | 2022-09-10 |
@@ -128,7 +129,7 @@
 | [jump](https://open.spotify.com/track/2NbTcTv3m8t7wAGUvPhhp0) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT) | 2:40 | 2021-12-20 | 2022-07-19 |
 | [Last First Date](https://open.spotify.com/track/7EG5uI3JPSMaGgexmhsyzb) | [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Last First Date](https://open.spotify.com/album/0xlpiaHLJNZ7aksc9RGJtW) | 2:58 | 2021-12-20 | 2022-10-07 |
 | [Levitate](https://open.spotify.com/track/4iAo0pTZtSVvBAnVYPnD8C) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Levitate](https://open.spotify.com/album/2WUUkcwTRTwSM8ZQ93g0Yx) | 2:59 | 2021-12-20 | 2022-01-15 |
-| [Levity](https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Levity](https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv) | 3:20 | 2022-10-06 |  |
+| [Levity](https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Levity](https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv) | 3:20 | 2022-10-06 | 2022-12-13 |
 | [Life Goes On!!](https://open.spotify.com/track/4BUMZqK5EvcqlRg1SfJ2v3) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Life Goes On!!](https://open.spotify.com/album/17wLO3F6j4PAW07uUVc7Ng) | 2:04 | 2021-12-20 | 2022-03-01 |
 | [Light Switch](https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Light Switch](https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35) | 3:08 | 2022-07-04 |  |
 | [Like I'm Okay](https://open.spotify.com/track/4z7m5fHKANtRtr8CGnckLd) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Like I'm Okay](https://open.spotify.com/album/1wYkIgcLpMG9DggdMQw62n) | 2:49 | 2022-09-29 | 2022-11-13 |
@@ -200,6 +201,7 @@
 | [Talking To Myself](https://open.spotify.com/track/3YVG2OfBF5ov6sl2NE2rkL) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Talking To Myself](https://open.spotify.com/album/6JSEuzJCBvazkD8Ewi7Yxt) | 2:22 | 2022-03-14 | 2022-07-29 |
 | [Talking To Myself](https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:22 | 2022-07-18 | 2022-08-19 |
 | [Tanners arms](https://open.spotify.com/track/39FBGLNnrbQLjB2sQPBM9j) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Tanners arms](https://open.spotify.com/album/6cH9szQvHQ0w7tFk07xz1z) | 3:04 | 2022-09-09 | 2022-11-11 |
+| [Teenage Runaways](https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 2:59 | 2022-11-10 |  |
 | [Teenage Runaways](https://open.spotify.com/track/2XnXc7VrwyQzy5ddfKe5Qo) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Teenage Runaways](https://open.spotify.com/album/58FSurGGBFmANZssX5QhEw) | 2:59 | 2022-05-20 | 2022-12-04 |
 | [THE AMERICAN DREAM](https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [BURNOUT](https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza) | 3:02 | 2022-08-18 |  |
 | [The Devil Has Many Faces](https://open.spotify.com/track/4irOx6zV6BDYO1Rv7yZi7T) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5D58CIPr9CUqBowJF5jNnJ) | 2:34 | 2021-12-20 | 2022-08-19 |
@@ -207,7 +209,7 @@
 | [The King and Queen of Gasoline](https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:38 | 2022-08-18 |  |
 | [theonlytimehefeelsfine](https://open.spotify.com/track/42LgfNNmYrzwjpgMb6uha5) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [theonlytimehefeelsfine](https://open.spotify.com/album/7ieUL8QlkwJnqpnPqLF9G0) | 3:26 | 2022-08-18 | 2022-11-11 |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-12-20 | 2022-02-22 |
-| [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 |  |
+| [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 | 2022-12-13 |
 | [together](https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:14 | 2021-12-20 |  |
 | [TOMMY TOOK A PICTURE](https://open.spotify.com/track/09AL4W5rR6pqo6ljrSpAOC) | [Signals Midwest](https://open.spotify.com/artist/16AdioxYOukoGrCeLV9QGF) | [TOMMY TOOK A PICTURE](https://open.spotify.com/album/4nPAjMPwRyacsRTQ42spJa) | 2:46 | 2022-04-04 | 2022-08-19 |
 | [TRIVIAL PURSUIT](https://open.spotify.com/track/3GkVGyEdZPy7Q6Dyn1YZJ3) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [GUMMY](https://open.spotify.com/album/2XBp8IR0mJOwlXoq4g8o0Z) | 2:13 | 2022-08-25 | 2022-11-11 |

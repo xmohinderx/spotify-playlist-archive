@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 221129,
+  "num_followers": 221200,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMDU1OThlMzhmZGI2OWU4OTBlNTE2OWU1Yjk5NWUxYWNh",
+  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMGZiZGUzZmJlYzQyN2RhZTBiODVlZWUwMmFkNzlhYTVm",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Summertime Dream",
-        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 389280,
-      "name": "The Wreck of the Edmund Fitzgerald",
-      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 202026,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Summertime Dream",
+        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 389280,
+      "name": "The Wreck of the Edmund Fitzgerald",
+      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Hello Darlin'",
-        "url": "https://open.spotify.com/album/7jHxaZCVO8ITJOtQzexSI8"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 149133,
-      "name": "Hello Darlin' - Single Version",
-      "url": "https://open.spotify.com/track/6vmAgl2y9MpoZKrVUXrPe5"
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+        "name": "The Best Of Sammi Smith",
+        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Sammi Smith",
+          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+      "duration_ms": 155533,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "The Best Of Sammi Smith",
-        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
+        "name": "New Kind Of Feeling",
+        "url": "https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG"
       },
       "artists": [
         {
-          "name": "Sammi Smith",
-          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
         }
       ],
-      "duration_ms": 155533,
-      "name": "Help Me Make It Through The Night",
-      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
+      "duration_ms": 171640,
+      "name": "I Just Fall In Love Again",
+      "url": "https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -651,34 +651,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "New Kind Of Feeling",
-        "url": "https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG"
+        "name": "Hello Darlin'",
+        "url": "https://open.spotify.com/album/7jHxaZCVO8ITJOtQzexSI8"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 171640,
-      "name": "I Just Fall In Love Again",
-      "url": "https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+      "duration_ms": 149133,
+      "name": "Hello Darlin' - Single Version",
+      "url": "https://open.spotify.com/track/6vmAgl2y9MpoZKrVUXrPe5"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -715,22 +699,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 314226,
       "name": "You Never Even Called Me By My Name",
       "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Talking In Your Sleep",
-      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Night Things",
         "url": "https://open.spotify.com/album/6SKcfybHqgbi425YFczgUH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 142773,
       "name": "Daydreams About Night Things",
       "url": "https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -843,22 +843,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
-        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
+        "name": "This Way Is My Way",
+        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
         }
       ],
-      "duration_ms": 154560,
-      "name": "You're The Reason Our Kids Are Ugly",
-      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
+      "duration_ms": 134226,
+      "name": "Snowbird",
+      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -879,18 +875,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "This Way Is My Way",
-        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
+        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
+        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 134226,
-      "name": "Snowbird",
-      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
+      "duration_ms": 154560,
+      "name": "You're The Reason Our Kids Are Ugly",
+      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+        "name": "Before The Next Teardrop Falls",
+        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
         }
       ],
-      "duration_ms": 213440,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
+      "duration_ms": 171761,
+      "name": "Wasted Days And Wasted Nights",
+      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Before The Next Teardrop Falls",
-        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
       "artists": [
         {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 171761,
-      "name": "Wasted Days And Wasted Nights",
-      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
+      "duration_ms": 213440,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
       "artists": [
         {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+      },
+      "artists": [
+        {
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
         "name": "Rocky Mountain Music",
         "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
       },
@@ -1127,6 +1143,22 @@
       "duration_ms": 142773,
       "name": "Two Dollars in the Jukebox - 2008 Remaster",
       "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1163,38 +1195,6 @@
       "duration_ms": 227786,
       "name": "For the Good Times",
       "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Love In The Hot Afternoon",
-        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 199400,
-      "name": "Love In The Hot Afternoon",
-      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
+      "duration_ms": 145946,
+      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "Love In The Hot Afternoon",
+        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
         }
       ],
-      "duration_ms": 145946,
-      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
+      "duration_ms": 199400,
+      "name": "Love In The Hot Afternoon",
+      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Two More Bottles of Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "The Essential Jerry Reed",
         "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 139760,
       "name": "Amos Moses",
       "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Two More Bottles of Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
-        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
       },
       "artists": [
         {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Paper Roses",
-      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
+      "duration_ms": 166000,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
+        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
+        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
       },
       "artists": [
         {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
+      "duration_ms": 158973,
+      "name": "Paper Roses",
+      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
       "artists": [
         {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 167706,
-      "name": "East Bound and Down",
-      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
+      "duration_ms": 192040,
+      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
     }
   ],
   "unique_name": "70s Country",

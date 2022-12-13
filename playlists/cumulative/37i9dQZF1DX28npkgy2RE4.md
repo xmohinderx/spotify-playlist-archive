@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-372 songs - 22 hr 58 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+374 songs - 23 hr 5 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Dream Of Home](https://open.spotify.com/track/4LINukxWI1NvCP7NUA9mKI) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [A Dream Of Home](https://open.spotify.com/album/2HSl3zIGxIG78lMrPIhWQK) | 6:02 | 2021-11-12 | 2022-07-29 |
 | [A Dream Of Home](https://open.spotify.com/track/1gus1NMkhoa9HqHflUh4f0) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [For The Morning](https://open.spotify.com/album/5Zktlm6wdERfJnqGCNN3n6) | 6:02 | 2022-07-11 | 2022-12-03 |
 | [A Light On In The Dark](https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7) | 3:51 | 2021-11-12 | 2022-07-29 |
+| [Absentee](https://open.spotify.com/track/23fEZLdzHoZlNZZu4E1pSp) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Tip of the Sphere](https://open.spotify.com/album/7A9lD57JDmqxshUGkvTdiG) | 2:48 | 2022-12-12 |  |
 | [All Being Fine](https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:29 | 2022-05-25 |  |
 | [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 | 2022-04-01 | 2022-07-20 |
 | [All Of The Women \[Feat\. Sa\-Roc\] \- dim star remix](https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg), [dim star](https://open.spotify.com/artist/3XH0xpgD87ICnmkcvi1Vq3) | [All Of The Women \[Feat\. Sa\-Roc\] \(dim star remix\)](https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK) | 4:39 | 2022-04-01 | 2022-07-15 |
@@ -114,7 +115,7 @@
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 | 2021-11-12 | 2022-07-28 |
 | [Everything Is Simple](https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [The Jacket](https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a) | 4:19 | 2022-03-11 |  |
 | [Eviction Notice](https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Deli Daydreams](https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx) | 4:54 | 2021-11-12 |  |
-| [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2021-11-12 |  |
+| [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2021-11-12 | 2022-12-13 |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-12 |  |
 | [Falling](https://open.spotify.com/track/2Gfk5OgNKjq3QtMpFOw6FW) | [Kelsey Hunter](https://open.spotify.com/artist/0pfdCv5gNkRWSmtgwdDS2g) | [Falling](https://open.spotify.com/album/0NtMY4EXxoBvPx85ROpohi) | 4:00 | 2022-04-01 | 2022-04-19 |
 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 | 2022-03-11 |  |
@@ -144,7 +145,7 @@
 | [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-10-14 |  |
 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 | 2022-07-11 |  |
 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 | 2021-11-12 | 2022-07-28 |
-| [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2022-07-11 |  |
+| [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2022-07-11 | 2022-12-13 |
 | [Heart of Gold](https://open.spotify.com/track/6llEKdd9fteEPFnyV0OLZc) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Heart of Gold](https://open.spotify.com/album/5tYPEtQgBSORry07FxxmO7) | 2:51 | 2021-11-12 | 2022-07-29 |
 | [Heart Shape](https://open.spotify.com/track/0Y2d6bZXLoQLfJvI7Sqr5q) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Love Is Real b/w Heart Shape](https://open.spotify.com/album/7kKKozYknjwDR0AoG7RwHu) | 3:16 | 2022-05-25 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/5ZiigafDOtWnrNixa0ukEc) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [Heaven](https://open.spotify.com/album/76Tv0cocmSJNZXiS2tAOi3) | 4:45 | 2021-11-12 | 2022-01-13 |
@@ -308,6 +309,7 @@
 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 | 2021-11-12 | 2022-07-29 |
 | [Speaking With Trees](https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Speaking With Trees](https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB) | 3:55 | 2021-11-12 | 2022-11-13 |
 | [Spin It Faster](https://open.spotify.com/track/1Pxmiq4HDoTUHiM7AkC6I8) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/3NRombeGM43rj2eh1hrPZM) | 3:56 | 2021-11-12 | 2022-11-24 |
+| [Spin It Faster](https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI) | 3:56 | 2022-12-12 |  |
 | [Standing On The Moon](https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Standing On The Moon](https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK) | 4:59 | 2021-11-12 | 2022-07-23 |
 | [Star Nation](https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Star Nation](https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG) | 4:06 | 2022-03-11 | 2022-07-29 |
 | [Stars Of Longing](https://open.spotify.com/track/6w6z1850qEmKdJMUM5IpUa) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Stars Of Longing](https://open.spotify.com/album/6TAPWsfPmFVOXLKgbkR1s1) | 3:11 | 2021-11-12 | 2022-07-17 |

@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Soccer Mommy
 
-305 songs - 18 hr 21 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
+307 songs - 18 hr 29 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,10 +32,12 @@
 | [As Much As I Can](https://open.spotify.com/track/1q6ZIGa9Vg6OV24mazdJ18) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [As Much as I Can](https://open.spotify.com/album/2YV7i7xj1SglQXBuJfeYVJ) | 3:28 | 2021-11-14 | 2022-07-29 |
 | [Astral Projection](https://open.spotify.com/track/3EkdBhVv3uU76sNtMUtO53) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2P2XnrV9VnGxJ0UqHNxt4E) | 3:52 | 2022-10-07 | 2022-12-01 |
 | [Astral Projection](https://open.spotify.com/track/4Pg6eqgANtv5uZiUYkH9NX) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Astral Projection](https://open.spotify.com/album/1eDcD5cHvzCPcSuB9GdB06) | 3:52 | 2022-04-01 | 2022-11-27 |
+| [Astral Projection](https://open.spotify.com/track/6gGZlkeGM73KD01zYVAJVO) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:52 | 2022-10-07 |  |
 | [Back Of My Hand](https://open.spotify.com/track/6AZ2df8r1eS355mpwOcZEB) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin' Sun](https://open.spotify.com/album/0JGCh2hiXbz5bbyGhVPx4B) | 3:29 | 2021-11-14 | 2022-05-20 |
 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-05-20 |  |
 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 | 2021-11-14 | 2022-07-29 |
 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 | 2022-10-07 |  |
+| [Be Careful With Yourself](https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 3:47 | 2022-10-07 |  |
 | [Be Careful With Yourself](https://open.spotify.com/track/12j3RsAjTt9oGnZno4lq8k) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Be Careful With Yourself](https://open.spotify.com/album/5QBwF6Ep55I0QqklKvedFz) | 3:47 | 2022-10-07 | 2022-11-28 |
 | [Be Careful With Yourself](https://open.spotify.com/track/5XrvxZcSjkXUyZXdDZQrDM) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 3:47 | 2022-10-07 | 2022-12-01 |
 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 | 2022-05-20 |  |
@@ -151,7 +153,7 @@
 | [Impostor](https://open.spotify.com/track/2sRnxGuNqJupVOv4DHEnsT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Impostor](https://open.spotify.com/album/5CSWA2j8rjSQoJ2y1vYQlV) | 4:25 | 2021-11-14 | 2022-07-29 |
 | [Interstate Vision](https://open.spotify.com/track/333ynS8xzTSbeRxxodU33d) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/5ftfK29sHT2Tx7Wc3NMbqR) | 2:42 | 2021-11-14 | 2022-07-28 |
 | [Interstate Vision](https://open.spotify.com/track/348FPMPFwLA7ucpCqNXyPl) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/2ayYjy02kHqMSMKHXOLRGp) | 2:42 | 2022-05-20 |  |
-| [It Just Goes On](https://open.spotify.com/track/0KyGaxIJv099i3GMlrx8my) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:33 | 2022-10-07 |  |
+| [It Just Goes On](https://open.spotify.com/track/0KyGaxIJv099i3GMlrx8my) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:33 | 2022-10-07 | 2022-12-13 |
 | [It Just Goes On](https://open.spotify.com/track/2sQTFWciCwG4CgNql5aiKj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [It Just Goes On](https://open.spotify.com/album/5aXWY1KsCF76okXvdps06y) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I \(motsi\)](https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G) | 3:17 | 2021-11-14 |  |
 | [Jenny](https://open.spotify.com/track/2elR3YPD59tkJYEkHP8IOa) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Jenny](https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV) | 3:40 | 2022-02-11 | 2022-07-29 |
@@ -285,7 +287,7 @@
 | [Truth Nugget](https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 4:41 | 2022-05-20 |  |
 | [Two](https://open.spotify.com/track/1LTXnq9vej34SHxmHCMTqZ) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:38 | 2022-05-20 |  |
 | [Two](https://open.spotify.com/track/5tugARliRodpCjuotWjeZk) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Two](https://open.spotify.com/album/6Z19DTwmeBlCSXY2Sx3Fvl) | 3:38 | 2021-11-14 | 2022-07-29 |
-| [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/3WjjfLHUHM2an4j5NkjGUa) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 4:44 | 2022-05-20 |  |
+| [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/3WjjfLHUHM2an4j5NkjGUa) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 4:44 | 2022-05-20 | 2022-12-13 |
 | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/7p7VCAr8VI5R901BMeahSZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/album/0DOaKJODUuLUSnCNdzty8n) | 4:44 | 2021-11-14 | 2022-07-29 |
 | [Unready](https://open.spotify.com/track/4awSzedNPx67Io7cPe6D84) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Unready](https://open.spotify.com/album/2RG8vKpiO8wENNoZg7MVYq) | 3:42 | 2022-04-01 | 2022-04-21 |
 | [Until It Stops \- Spotify Singles](https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Until It Stops \(Spotify Singles\)](https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y) | 2:36 | 2021-11-14 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.  ",
-  "num_followers": 148359,
+  "num_followers": 148497,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDE4OGQ3MDEyN2QwOWUxMjM0ODMxOTZlZmY0YmIwMTc1",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDVlNzA0MDIxMzUwYjEwM2QxYjFiN2ZmOTdmNWQyNjk3",
   "tracks": [
     {
       "added_at": "2022-12-09 00:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 255690,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 225621,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Akanadja",
-        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 182023,
-      "name": "Akanadja",
-      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Bai",
-        "url": "https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK"
+        "name": "Akanadja",
+        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
       },
       "artists": [
         {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 203722,
-      "name": "Bai",
-      "url": "https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji"
+      "duration_ms": 182023,
+      "name": "Akanadja",
+      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -319,6 +303,42 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "Bai",
+        "url": "https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "Bai",
+      "url": "https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Dando Love",
+        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "Dando Love",
+      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "King Ckwa",
         "url": "https://open.spotify.com/album/7F4vDACMrg7U40ZRAA1VTV"
       },
@@ -331,22 +351,6 @@
       "duration_ms": 276880,
       "name": "Tu \u00c9s a Mulher",
       "url": "https://open.spotify.com/track/3AxKlhbCVMwrDbP4laSyys"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Dem\u00f3nio da Tarraxinha",
-        "url": "https://open.spotify.com/album/7BGYpyDY0a1pzAW6bqlTTh"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 217276,
-      "name": "Dem\u00f3nio da Tarraxinha",
-      "url": "https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -415,6 +419,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "Dem\u00f3nio da Tarraxinha",
+        "url": "https://open.spotify.com/album/7BGYpyDY0a1pzAW6bqlTTh"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 217276,
+      "name": "Dem\u00f3nio da Tarraxinha",
+      "url": "https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
       },
@@ -435,22 +455,6 @@
       "duration_ms": 200598,
       "name": "Suleban",
       "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Ado\u00e7o",
-        "url": "https://open.spotify.com/album/78htzYNaNcNaB3TN7W8cD5"
-      },
-      "artists": [
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        }
-      ],
-      "duration_ms": 183817,
-      "name": "Ado\u00e7o",
-      "url": "https://open.spotify.com/track/7ffN1srH0lM39dddrG84Gs"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -495,6 +499,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "Ado\u00e7o",
+        "url": "https://open.spotify.com/album/78htzYNaNcNaB3TN7W8cD5"
+      },
+      "artists": [
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        }
+      ],
+      "duration_ms": 183817,
+      "name": "Ado\u00e7o",
+      "url": "https://open.spotify.com/track/7ffN1srH0lM39dddrG84Gs"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "Chouchou",
         "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
       },
@@ -535,18 +555,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
+        "name": "Mininu Di Oru",
+        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
       "artists": [
         {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
         }
       ],
-      "duration_ms": 256979,
-      "name": "Sincera",
-      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+      "duration_ms": 205996,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -571,42 +595,18 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Mininu Di Oru",
-        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
       },
       "artists": [
         {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        },
-        {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
         }
       ],
-      "duration_ms": 205996,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Dando Love",
-        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Dando Love",
-      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
+      "duration_ms": 256979,
+      "name": "Sincera",
+      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Sem Limite",
-        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Magico",
-      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 243750,
       "name": "Clima",
       "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Sem Limite",
+        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Magico",
+      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "Vais Me Perder",
+        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "duration_ms": 221462,
+      "name": "Vais Me Perder",
+      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "Fala so",
         "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
       },
@@ -731,34 +747,18 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
       },
       "artists": [
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
         }
       ],
-      "duration_ms": 188813,
-      "name": "O Que Eu N\u00e3o Fiz",
-      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Vais Me Perder",
-        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        }
-      ],
-      "duration_ms": 221462,
-      "name": "Vais Me Perder",
-      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
+      "duration_ms": 192641,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -775,6 +775,22 @@
       "duration_ms": 208000,
       "name": "Jeito Dela",
       "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Meu Marido",
+        "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "duration_ms": 219218,
+      "name": "Meu Marido",
+      "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -799,34 +815,18 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
       },
       "artists": [
         {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 192641,
-      "name": "Mad Love",
-      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Meu Marido",
-        "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 219218,
-      "name": "Meu Marido",
-      "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
+      "duration_ms": 188813,
+      "name": "O Que Eu N\u00e3o Fiz",
+      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Corno",
-        "url": "https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ"
+        "name": "Zolana",
+        "url": "https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn"
       },
       "artists": [
         {
-          "name": "Messias Maricoa",
-          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         }
       ],
-      "duration_ms": 210424,
-      "name": "Corno",
-      "url": "https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW"
+      "duration_ms": 234971,
+      "name": "Kuyuyu",
+      "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "Corno",
+        "url": "https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ"
+      },
+      "artists": [
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "duration_ms": 210424,
+      "name": "Corno",
+      "url": "https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "Puro",
         "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
       },
@@ -935,38 +951,6 @@
       "duration_ms": 263906,
       "name": "Puro",
       "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Zolana",
-        "url": "https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 234971,
-      "name": "Kuyuyu",
-      "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Mulher Africana",
-        "url": "https://open.spotify.com/album/7nDVYWGdHdjSd8u5MTxhux"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 223929,
-      "name": "Mulher Africana",
-      "url": "https://open.spotify.com/track/7IVfK35wLBXmCX0aGEPV97"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1039,6 +1023,42 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "Mulher Africana",
+        "url": "https://open.spotify.com/album/7nDVYWGdHdjSd8u5MTxhux"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 223929,
+      "name": "Mulher Africana",
+      "url": "https://open.spotify.com/track/7IVfK35wLBXmCX0aGEPV97"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Ref\u00fagio",
+        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+        }
+      ],
+      "duration_ms": 237570,
+      "name": "Ref\u00fagio",
+      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "Presa",
         "url": "https://open.spotify.com/album/7iPZevwftNKGt6cq5iMPDD"
       },
@@ -1095,6 +1115,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "Don't Judge Me (Saxo-Kizomba)",
         "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
       },
@@ -1111,42 +1147,6 @@
       "duration_ms": 296000,
       "name": "Don't Judge Me (Saxo-Kizomba)",
       "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Ref\u00fagio",
-        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
-        }
-      ],
-      "duration_ms": 237570,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Saudades",
         "url": "https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 249497,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "J\u00e1 Deu",
-        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
       },
       "artists": [
         {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
         },
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
         }
       ],
-      "duration_ms": 227685,
-      "name": "J\u00e1 Deu",
-      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
+      "duration_ms": 228666,
+      "name": "Fica Parado (feat. C4 Pedro)",
+      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
+        "name": "J\u00e1 Deu",
+        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
       "artists": [
         {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
         },
         {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 228666,
-      "name": "Fica Parado (feat. C4 Pedro)",
-      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
+      "duration_ms": 227685,
+      "name": "J\u00e1 Deu",
+      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -1371,42 +1371,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "Se Eu Pudesse",
-        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
-      },
-      "artists": [
-        {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 196567,
-      "name": "Se Eu Pudesse",
-      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Arrepios",
-        "url": "https://open.spotify.com/album/430jQV4UrweqvoV5osODxI"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 204149,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf"
       },
@@ -1431,6 +1395,54 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
+        "name": "INFINITO",
+        "url": "https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/2e3KTRfz4appswSpkawQid"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/430jQV4UrweqvoV5osODxI"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 204149,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Quarentena",
+        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Quarentena",
+      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
         "name": "Si Ki Min Kr\u00e8",
         "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
       },
@@ -1451,46 +1463,22 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "INFINITO",
-        "url": "https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3"
+        "name": "Se Eu Pudesse",
+        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
       },
       "artists": [
         {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/2e3KTRfz4appswSpkawQid"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Deusa do Amor",
-        "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        },
-        {
-          "name": "Anderson Mario",
-          "url": "https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh"
-        },
-        {
-          "name": "Button",
-          "url": "https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL"
-        }
-      ],
-      "duration_ms": 279024,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
+      "duration_ms": 196567,
+      "name": "Se Eu Pudesse",
+      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
     }
   ],
   "unique_name": "Dancing Kizomba",

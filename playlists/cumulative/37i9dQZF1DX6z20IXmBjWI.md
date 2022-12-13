@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-338 songs - 21 hr 3 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
+339 songs - 21 hr 7 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Featherweight \- Solstice Version](https://open.spotify.com/track/3N7ECZdXi8Z7RjOA7yuFno) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [A Very Lonely Solstice](https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h) | 3:47 | 2021-12-10 | 2022-07-15 |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2021-12-10 |  |
 | [Fine \(Acoustic\)](https://open.spotify.com/track/1T9TM6Yn0xWK2n7kSvwhPi) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Fine \(Acoustic\)](https://open.spotify.com/album/0oqZlkmPCccZ0o7VWuhSXP) | 3:16 | 2022-01-21 | 2022-03-13 |
+| [First Defeat](https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y) | 4:03 | 2022-12-02 |  |
 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 | 2022-06-08 | 2022-11-16 |
 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 | 2022-06-08 |  |
 | [Follow My Voice](https://open.spotify.com/track/7pT3faDXSC5tNAlIKmtrYf) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/4D0slaYPm4oiwFRlv10rJz) | 4:02 | 2022-06-08 | 2022-09-09 |
@@ -122,7 +123,7 @@
 | [Honest](https://open.spotify.com/track/0WIzzUh0vzPHk58d3e8sXJ) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7yLup1hOE1TLRGyUdW07TW) | 2:48 | 2021-12-10 | 2022-07-25 |
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2021-12-10 |  |
 | [Houdini](https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Houdini](https://open.spotify.com/album/09amDFagdn2HQ5jpfo1dr4) | 3:16 | 2021-12-10 | 2022-03-12 |
-| [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-12-10 |  |
+| [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-12-10 | 2022-12-13 |
 | [How I Miss You](https://open.spotify.com/track/5QNxAH2pQLs8i7w6M9wH2x) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 2:50 | 2022-01-21 | 2022-07-18 |
 | [Human](https://open.spotify.com/track/4uBiUTHSuuRT4CtEoZHz2f) | [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Human](https://open.spotify.com/album/1CG4EjCxgzgQgadPN0piBA) | 3:54 | 2021-12-10 | 2022-07-29 |
 | [Hung the Moon](https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Hung the Moon](https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI) | 3:10 | 2021-12-10 |  |

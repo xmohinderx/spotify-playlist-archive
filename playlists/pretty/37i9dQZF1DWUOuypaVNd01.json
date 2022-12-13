@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
-  "num_followers": 23604,
+  "num_followers": 23632,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDFhYWZiYWQ5MzM3YTA3YTQ4MWY1ZDcwMzM3MjBiMGI3",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDg3ZjIyMTJjZTc1NjUyN2EzMWY1OWY2YjUxOTY5ZTY1",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -403,6 +403,30 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
         "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
       },
@@ -443,30 +467,6 @@
       "duration_ms": 154909,
       "name": "Aonde Eu Sou Cria",
       "url": "https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 112764,
+      "name": "Mandrake",
+      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Sirenes",
         "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
       },
@@ -603,38 +619,38 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
+        "name": "Infravermelho",
+        "url": "https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx"
       },
       "artists": [
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 112764,
-      "name": "Mandrake",
-      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
         {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        },
+        {
+          "name": "OG BRITTO",
+          "url": "https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "KOPO",
+          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
         }
       ],
-      "duration_ms": 91682,
-      "name": "Puxa o Gatilho Primeiro",
-      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
+      "duration_ms": 186000,
+      "name": "Infravermelho",
+      "url": "https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -655,6 +671,26 @@
       "duration_ms": 188330,
       "name": "CRIME",
       "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 91682,
+      "name": "Puxa o Gatilho Primeiro",
+      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -719,8 +755,8 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Infravermelho",
-        "url": "https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx"
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
       },
       "artists": [
         {
@@ -730,27 +766,35 @@
         {
           "name": "Luna",
           "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        },
-        {
-          "name": "OG BRITTO",
-          "url": "https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Infravermelho",
-      "url": "https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm"
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "BRIME!",
+        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 150064,
+      "name": "CHELSEA",
+      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -819,6 +863,34 @@
       "duration_ms": 224216,
       "name": "Passa Nada",
       "url": "https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Armamento do Ir\u00e3",
+        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "D r o p e",
+          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Olympio",
+          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
+        }
+      ],
+      "duration_ms": 259754,
+      "name": "Armamento do Ir\u00e3",
+      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -899,58 +971,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "BRIME!",
-        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 150064,
-      "name": "CHELSEA",
-      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Armamento do Ir\u00e3",
-        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "D r o p e",
-          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Olympio",
-          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
-        }
-      ],
-      "duration_ms": 259754,
-      "name": "Armamento do Ir\u00e3",
-      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "40\u02da.40 Deluxe",
         "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
       },
@@ -967,98 +987,6 @@
       "duration_ms": 197000,
       "name": "Kenner",
       "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Mente Livre 2.0",
-        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        }
-      ],
-      "duration_ms": 208111,
-      "name": "Mente Livre 2.0",
-      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Versos Fortes",
-        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
-      },
-      "artists": [
-        {
-          "name": "Blecaute",
-          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "Versos Fortes",
-      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "O Peso das Barra",
-        "url": "https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Timor YSF",
-          "url": "https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO"
-        }
-      ],
-      "duration_ms": 158923,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1083,6 +1011,78 @@
       "duration_ms": 209738,
       "name": "Raddim",
       "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Mente Livre 2.0",
+        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        }
+      ],
+      "duration_ms": 208111,
+      "name": "Mente Livre 2.0",
+      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Versos Fortes",
+        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
+      },
+      "artists": [
+        {
+          "name": "Blecaute",
+          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "Versos Fortes",
+      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "O Peso das Barra",
+        "url": "https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL"
+      },
+      "artists": [
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Timor YSF",
+          "url": "https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO"
+        }
+      ],
+      "duration_ms": 158923,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ"
     },
     {
       "added_at": "2022-12-02 03:01:00",

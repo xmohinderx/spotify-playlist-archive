@@ -8149,7 +8149,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 169043,
       "name": "Pull Me",
       "url": "https://open.spotify.com/track/46QfufNUnY25faVWLkohut"
@@ -9218,6 +9218,32 @@
     },
     {
       "album": {
+        "name": "Sunrise To Sunset",
+        "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Wild Culture",
+          "url": "https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp"
+        },
+        {
+          "name": "Dillon Dixon",
+          "url": "https://open.spotify.com/artist/4pRRDuDd9Lk624swvgKWOI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151218,
+      "name": "Silverskin (feat. Dillon Dixon)",
+      "url": "https://open.spotify.com/track/5uSrc15udTtdHXj9QWhfHD"
+    },
+    {
+      "album": {
         "name": "Skinny Dip (Komodo) [feat. Philip Strand]",
         "url": "https://open.spotify.com/album/58rkFeybZFok7abwyqcaTm"
       },
@@ -9389,7 +9415,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 203615,
       "name": "Somewhere Out There",
       "url": "https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm"
@@ -10035,6 +10061,24 @@
       "duration_ms": 176000,
       "name": "Sunset Lovers",
       "url": "https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE"
+    },
+    {
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/0tnQBT1tTVrNDx7uprIH5X"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188714,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I"
     },
     {
       "album": {

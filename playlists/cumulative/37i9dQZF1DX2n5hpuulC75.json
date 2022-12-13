@@ -1153,6 +1153,28 @@
     {
       "album": {
         "name": "Theres Still Us",
+        "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        },
+        {
+          "name": "Shiloh",
+          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157384,
+      "name": "I'm sorry",
+      "url": "https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd"
+    },
+    {
+      "album": {
+        "name": "Theres Still Us",
         "url": "https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3"
       },
       "artists": [
@@ -1821,7 +1843,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 357894,
       "name": "They Came Along",
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"

@@ -4,7 +4,7 @@
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/34gmDNfcLmugl6uIF1DSQm)
+65 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/34gmDNfcLmugl6uIF1DSQm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,13 @@
 | [Mira Cómo Me Dejaste](https://open.spotify.com/track/1qsXhzldNXZDGEABxc6Abk) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 3:25 | 2022-06-01 |  |
 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 | 2022-06-01 |  |
 | [Morir De Amor \- En Vivo](https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 3:09 | 2022-06-01 |  |
-| [Mundos Diferentes](https://open.spotify.com/track/2dw3SduPYpYv4ggL4f8Zqn) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mundos Diferentes](https://open.spotify.com/album/6czi1PBL1Bvjmi6nWfmtOQ) | 3:17 | 2022-10-24 |  |
+| [Mundos Diferentes](https://open.spotify.com/track/2dw3SduPYpYv4ggL4f8Zqn) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mundos Diferentes](https://open.spotify.com/album/6czi1PBL1Bvjmi6nWfmtOQ) | 3:17 | 2022-10-24 | 2022-12-13 |
 | [Nada Esta Escrito](https://open.spotify.com/track/5pK1UafIo4cuFVR6RipUIA) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Gracias A Ti](https://open.spotify.com/album/10OsSLByZLqo45ZNX37HhI) | 3:37 | 2022-06-01 | 2022-10-13 |
 | [No Debería Quererte](https://open.spotify.com/track/7DljH7oWQcvxAC57SdYBQd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 | 2022-06-01 |  |
 | [No Me Mires Así](https://open.spotify.com/track/6RZX4pPGBsw5fijSmKFFv2) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:07 | 2022-06-01 |  |
 | [No Te Mereces](https://open.spotify.com/track/0CpMGnPzmU9KGyB05D0a5l) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:16 | 2022-06-01 |  |
 | [Olvidarte No Es Lo Mío](https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:02 | 2022-06-12 |  |
+| [Pa' Qué Son Pasiones](https://open.spotify.com/track/1g8OBHnpZeQI1yoyJrjWQ2) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pa' Qué Son Pasiones](https://open.spotify.com/album/3ghUPKQkDQ0ZjNTePotJDj) | 2:50 | 2022-12-12 |  |
 | [Por Si No Recuerdas](https://open.spotify.com/track/6nvk0d8QlR91kecYzPnBhr) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 3:13 | 2022-06-01 |  |
 | [Psicólogo Privado](https://open.spotify.com/track/0mGNQ1AEqzeGARUkbUeGAK) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Psicólogo Privado](https://open.spotify.com/album/1QPGkBHOuIaU2xKAODMBN9) | 3:18 | 2022-06-01 |  |
 | [Pudo](https://open.spotify.com/track/27OwGODgs27hBiAYviv7eQ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:19 | 2022-06-01 | 2022-06-27 |

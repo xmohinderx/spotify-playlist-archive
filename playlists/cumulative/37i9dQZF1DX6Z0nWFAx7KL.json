@@ -448,6 +448,28 @@
     },
     {
       "album": {
+        "name": "Close To Me",
+        "url": "https://open.spotify.com/album/6puejdn1tcxwEHrxnjU5oj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Murgatroyd",
+          "url": "https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU"
+        },
+        {
+          "name": "Amy Jones",
+          "url": "https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297435,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/7ufA7tIRMoFd1jTKgAfgRF"
+    },
+    {
+      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
@@ -1623,7 +1645,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 153812,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm"

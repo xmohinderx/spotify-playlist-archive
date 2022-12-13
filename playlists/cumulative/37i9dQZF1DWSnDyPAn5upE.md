@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-123 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/2pF9f5Ff26sFMxb5DKpzBz)
+124 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/2pF9f5Ff26sFMxb5DKpzBz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dango \- Colloid Version](https://open.spotify.com/track/29MBtrRzSGCnns9CPycR0C) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Dango \(Colloid Version\)](https://open.spotify.com/album/5tbc91panu3bb9H1Cg3ull) | 4:28 | 2022-05-18 |  |
 | [Dawn of Awakening](https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Dawn of Awakening](https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd) | 4:00 | 2022-12-02 |  |
 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 | 2022-05-18 |  |
-| [does it have to be beautiful](https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 1:59 | 2022-05-18 |  |
+| [does it have to be beautiful](https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 1:59 | 2022-05-18 | 2022-12-13 |
 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 | 2022-09-30 |  |
 | [Dots](https://open.spotify.com/track/0vaI72djhPZn4qH2zjZNmL) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:05 | 2022-05-18 |  |
 | [Drømmefanger \(Extended\)](https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Kingdom Two Crowns: Norse Lands Soundtrack \(Extended\)](https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry) | 3:03 | 2022-07-01 |  |
@@ -109,6 +109,7 @@
 | [Saturna](https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas) | [Nordic Hymn](https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV) | [Saturna](https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw) | 2:06 | 2022-05-18 |  |
 | [Silent Talk](https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 4:55 | 2022-09-07 |  |
 | [Sorry](https://open.spotify.com/track/1VOsiZYiNHAUisapZtXpKh) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/4ltdtRBUlN4xym6T6Isnng) | 17:40 | 2022-05-18 | 2022-07-28 |
+| [Sorry](https://open.spotify.com/track/70wiCLAuAs2yjRQHkPuMN7) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/3jwdZ5aqNto6V6XY2ob6Vv) | 17:40 | 2022-12-02 |  |
 | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/track/5JiFKhr3UWiSHvHPci8kgZ) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/album/622E7ReGxO1WJc6lju3oLJ) | 2:51 | 2022-05-18 | 2022-07-29 |
 | [Spirit of the Forest](https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Spirit of the Forest](https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD) | 2:43 | 2022-05-18 |  |
 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 | 2022-05-18 |  |

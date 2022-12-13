@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140963,
+  "num_followers": 140972,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NjY2MiwwMDAwMDAwMDk4ZTU5MWFhYjdkY2MzNGU1NTUxNmJiYjA2NzlkZTQ5",
+  "snapshot_id": "MTY3MDQ1NjY2MiwwMDAwMDAwMGQxYTY4MzA4YzhlYTQ0MmE3NmJlMWQwYzYwMTZkMDA0",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Me AventaronTus Brazos",
-        "url": "https://open.spotify.com/album/0HyEqogdn00njcAvcERo0U"
-      },
-      "artists": [
-        {
-          "name": "Magnifico 7",
-          "url": "https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm"
-        }
-      ],
-      "duration_ms": 188653,
-      "name": "Me AventaronTus Brazos",
-      "url": "https://open.spotify.com/track/7g3iaR8GqMxSu3aoioQVB6"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Estamos Unidos",
         "url": "https://open.spotify.com/album/7bNQ2cpz0PmfR7lQLskJrE"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 192424,
       "name": "El Amuleto",
       "url": "https://open.spotify.com/track/686Fy8OcDeIuLSrojeDRdB"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Me AventaronTus Brazos",
+        "url": "https://open.spotify.com/album/0HyEqogdn00njcAvcERo0U"
+      },
+      "artists": [
+        {
+          "name": "Magnifico 7",
+          "url": "https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm"
+        }
+      ],
+      "duration_ms": 188653,
+      "name": "Me AventaronTus Brazos",
+      "url": "https://open.spotify.com/track/7g3iaR8GqMxSu3aoioQVB6"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "So\u00f1ar Contigo",
-        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
+        "name": "Nunca Me Imagine",
+        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
       },
       "artists": [
         {
-          "name": "Cris Medina",
-          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
+          "name": "Adaly",
+          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
         }
       ],
-      "duration_ms": 176000,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
+      "duration_ms": 167507,
+      "name": "Nunca Me Imagine",
+      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -419,6 +419,26 @@
       "duration_ms": 179063,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Me Dec\u00edas",
+        "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
+      },
+      "artists": [
+        {
+          "name": "Sonja De La Paz",
+          "url": "https://open.spotify.com/artist/4Z8RA77GGwuKlmpv5pLhR3"
+        },
+        {
+          "name": "Veno Mona",
+          "url": "https://open.spotify.com/artist/37IPrPpo8zMf7SZ0qpMJpL"
+        }
+      ],
+      "duration_ms": 197965,
+      "name": "Me Dec\u00edas",
+      "url": "https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -455,22 +475,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Me Dec\u00edas",
-        "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
+        "name": "So\u00f1ar Contigo",
+        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
       },
       "artists": [
         {
-          "name": "Sonja De La Paz",
-          "url": "https://open.spotify.com/artist/4Z8RA77GGwuKlmpv5pLhR3"
-        },
-        {
-          "name": "Veno Mona",
-          "url": "https://open.spotify.com/artist/37IPrPpo8zMf7SZ0qpMJpL"
+          "name": "Cris Medina",
+          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
         }
       ],
-      "duration_ms": 197965,
-      "name": "Me Dec\u00edas",
-      "url": "https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov"
+      "duration_ms": 176000,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -507,22 +523,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Ni Todo el Dinero",
-        "url": "https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR"
-      },
-      "artists": [
-        {
-          "name": "MARISELA HERNANDEZ",
-          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "Ni Todo el Dinero",
-      "url": "https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
       },
@@ -539,50 +539,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Acu\u00e9rdate",
-        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
+        "name": "Ni Todo el Dinero",
+        "url": "https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR"
       },
       "artists": [
         {
-          "name": "Miguel Hernandez",
-          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
+          "name": "MARISELA HERNANDEZ",
+          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
         }
       ],
-      "duration_ms": 182080,
-      "name": "Acu\u00e9rdate - Radio Edit",
-      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Girls Night",
-        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
-      },
-      "artists": [
-        {
-          "name": "ANGELICA",
-          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "Nunca Fuiste Mio",
-      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
+      "duration_ms": 189231,
+      "name": "Ni Todo el Dinero",
+      "url": "https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -603,6 +571,54 @@
       "duration_ms": 180462,
       "name": "Vac\u00eda",
       "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Acu\u00e9rdate",
+        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
+      },
+      "artists": [
+        {
+          "name": "Miguel Hernandez",
+          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Acu\u00e9rdate - Radio Edit",
+      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
+      },
+      "artists": [
+        {
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "Nunca Fuiste Mio",
+      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -639,18 +655,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Nunca Me Imagine",
-        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
+        "name": "No Soy La Misma",
+        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
       },
       "artists": [
         {
-          "name": "Adaly",
-          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
+          "name": "Magali Delarosa",
+          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
         }
       ],
-      "duration_ms": 167507,
-      "name": "Nunca Me Imagine",
-      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
+      "duration_ms": 224344,
+      "name": "No Soy La Misma",
+      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -675,22 +691,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "No Soy La Misma",
-        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
-      },
-      "artists": [
-        {
-          "name": "Magali Delarosa",
-          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
-        }
-      ],
-      "duration_ms": 224344,
-      "name": "No Soy La Misma",
-      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "That\u2019s All I\u2019ve Got to Say",
         "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
       },
@@ -707,54 +707,6 @@
       "duration_ms": 211750,
       "name": "That\u2019s All I\u2019ve Got to Say",
       "url": "https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
-      },
-      "artists": [
-        {
-          "name": "Lydia Castillo",
-          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
-        }
-      ],
-      "duration_ms": 220003,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Entre El Frio Y El Calor",
-        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
-      },
-      "artists": [
-        {
-          "name": "Andie",
-          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Entre El Frio Y El Calor",
-      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Porque Sera",
-        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Porque Sera",
-      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -791,6 +743,54 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Entre El Frio Y El Calor",
+        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
+      },
+      "artists": [
+        {
+          "name": "Andie",
+          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Entre El Frio Y El Calor",
+      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
+      },
+      "artists": [
+        {
+          "name": "Lydia Castillo",
+          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
+        }
+      ],
+      "duration_ms": 220003,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Porque Sera",
+        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Porque Sera",
+      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Final De Tu Amor",
         "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 205438,
       "name": "Final De Tu Amor",
       "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "El Besito",
+        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
+      },
+      "artists": [
+        {
+          "name": "Laura Linda",
+          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
+        }
+      ],
+      "duration_ms": 180651,
+      "name": "El Besito",
+      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -839,22 +855,6 @@
       "duration_ms": 227262,
       "name": "Un D\u00eda Veras",
       "url": "https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "El Besito",
-        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
-      },
-      "artists": [
-        {
-          "name": "Laura Linda",
-          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
-        }
-      ],
-      "duration_ms": 180651,
-      "name": "El Besito",
-      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
     }
   ],
   "unique_name": "New Tejano",

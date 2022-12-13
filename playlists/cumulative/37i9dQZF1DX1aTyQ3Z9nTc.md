@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-280 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/7J6V8CtH6cauGweEfdRx6B)
+281 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/7J6V8CtH6cauGweEfdRx6B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Legend](https://open.spotify.com/track/1zabe8PVAoBuXV2SEX1vHh) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [Legend](https://open.spotify.com/album/5MkETrviQO7fINnC1NxDBx) | 2:43 | 2021-07-26 | 2022-07-21 |
 | [LENTO](https://open.spotify.com/track/5itlL5Er5CjSF7wvwXRWjf) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [LENTO](https://open.spotify.com/album/2fLdB0D2o2OT83ucjja1y5) | 2:43 | 2021-07-26 | 2022-07-28 |
 | [Let It Go \(Powers Pleasant Remix\)](https://open.spotify.com/track/6NDYMmV5pkKIFtK52nVlgk) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go \(Powers Pleasant Remix\)](https://open.spotify.com/album/24Khcazx00lHjrKoFNVF9V) | 4:21 | 2021-09-22 | 2022-07-29 |
+| [LET IT RAIN](https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN](https://open.spotify.com/album/3JYRLABN6Vnnq7aEb39mZ4) | 3:41 | 2022-07-30 |  |
 | [LEVITATING](https://open.spotify.com/track/7m2vAXNpppWZoPungWEtsg) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [LEVITATING](https://open.spotify.com/album/2zZoFGnYYwphZictbgyYhg) | 2:18 | 2021-07-26 | 2022-07-16 |
 | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040) | 3:11 | 2021-07-26 | 2022-07-31 |
 | [Like We Used To](https://open.spotify.com/track/0Hh84pTrYZ3tKM8YgKipEV) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD) | [Like We Used To](https://open.spotify.com/album/7iCauSViOr9OzYbq7Hpa6V) | 3:52 | 2021-07-26 | 2022-07-29 |
@@ -247,7 +248,7 @@
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2021-07-26 | 2022-07-28 |
 | [TITO'S](https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:52 | 2022-09-16 | 2022-11-24 |
 | [Tommy's Intro \(feat\. River Tiber & Sean Leon\)](https://open.spotify.com/track/1MQjbnlMefhUNyqL4BUbKM) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:33 | 2021-07-26 | 2022-07-29 |
-| [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-07-30 |  |
+| [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-07-30 | 2022-12-13 |
 | [Topdown](https://open.spotify.com/track/56dDonzTxrZKWuVDqUOYGd) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/4pbf36fsCW0oe7myRLZEtz) | 3:50 | 2021-07-26 | 2022-04-16 |
 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 | 2022-05-02 | 2022-09-10 |
 | [Track of Time \(feat\. Haich Ber Na & Shay Lia\)](https://open.spotify.com/track/60mref14DIUaRjx1W7B9Gx) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV), [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Track of Time \(feat\. Haich Ber Na & Shay Lia\)](https://open.spotify.com/album/0AaOZesyar7iYCp0BQgMPV) | 3:53 | 2021-07-26 | 2022-04-15 |

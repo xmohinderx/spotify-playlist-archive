@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-208 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
+209 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [At the Laundromat](https://open.spotify.com/track/0x0JaffL2v0Mo7f7U4ppfM) | [Hot Damn Horns & The Soul Machine](https://open.spotify.com/artist/5qfEwrYeKLDNXgyBHj6UIH) | [At the Laundromat](https://open.spotify.com/album/2Y7aRnM6D4jOZxax1VK95O) | 3:44 | 2020-11-13 | 2022-04-21 |
 | [Attenuator](https://open.spotify.com/track/692c1f84zuelKkV4wds7Z7) | [OTE](https://open.spotify.com/artist/4iCd6CfaZlvgPGe3acqbmQ) | [Attenuator](https://open.spotify.com/album/4hLcNBtQR2wDPsUEdiFzJG) | 3:02 | 2021-08-27 | 2022-04-19 |
 | [Backwash](https://open.spotify.com/track/7sMc8fqJ5ehZJtZoKXgItD) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/6aVAwiFG24G3VJNedr5ues) | 5:21 | 2021-04-23 | 2022-07-29 |
-| [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 | 2020-11-13 |  |
+| [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 | 2020-11-13 | 2022-12-13 |
 | [Barbara's Lair](https://open.spotify.com/track/6wqocSkSI0seVWfqb2Xl3v) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Barbara's Lair](https://open.spotify.com/album/5lb7OV3mh2KXpKHW3wWRcM) | 4:39 | 2022-04-29 | 2022-05-26 |
 | [Basilisk](https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H) | 4:29 | 2021-02-19 |  |
 | [Basilisk](https://open.spotify.com/track/7v3AjcrNK5pd3pBunzI4DI) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/7qz2BSHveJFW2HNhWZu2kV) | 4:29 | 2021-02-19 | 2022-07-29 |
@@ -181,6 +181,7 @@
 | [Soul Shower](https://open.spotify.com/track/5Jhd3ag86pIRsIHYxEhLs7) | [Mister T.](https://open.spotify.com/artist/45GgOqa6xJwhZ3IXiMMkh7) | [Soul Shower](https://open.spotify.com/album/1kjw0iGFxIHXfETxxXVOzJ) | 3:33 | 2021-07-16 | 2022-07-06 |
 | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/track/0lXo6V2m1WTDNWMjgbhy1U) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Geoffrey Keezer](https://open.spotify.com/artist/6blxY1iqiaDxSkZ1OGPUZ7), [Benjamin Sheperd](https://open.spotify.com/artist/5hO610eZdaKyNxoLG7Rfw2), [Bob Reynolds](https://open.spotify.com/artist/6GcgRheAQRGpkEhsg5nG6m), [Curtis Taylor](https://open.spotify.com/artist/6BAp78tMVI0vqwkbAePCim) | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/album/4z46D1eyVfrciFdFbYlNNT) | 8:08 | 2020-11-13 | 2022-08-17 |
 | [Stay In Your Lane](https://open.spotify.com/track/06rsFCBNsgVgMYXe6il6ZG) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/33xCBK6L6WoFPUVgMLiTaC) | 2:00 | 2020-11-13 | 2022-07-29 |
+| [Stay In Your Lane](https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl) | 2:00 | 2020-11-13 |  |
 | [Strawberry Mansion](https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:19 | 2020-11-13 | 2022-07-21 |
 | [Super Funk](https://open.spotify.com/track/0JWoDGtxgYj1KYBm6fJy77) | [Vern Blair Debate](https://open.spotify.com/artist/4QzD5PsnM0mBTIwJ9ynhTG) | [Texas Funk](https://open.spotify.com/album/3nruGhQNT3tOVyuC3oFjvH) | 3:14 | 2020-11-13 | 2022-04-18 |
 | [Tej](https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD) | [The So Ons](https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D) | [Tej b/w Short Shrift](https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu) | 5:28 | 2020-11-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Hip\-Hop this year\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,365 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,442 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 21 | [MISS ME](https://open.spotify.com/track/0pdPxgbELAsqhIKpezAGjz) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:39 |
 | 22 | [Penthouse Shordy](https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S) | 2:06 |
 | 23 | [Set It Up](https://open.spotify.com/track/2FlXN6JgSJhzUMXyD8cd6I) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Turtle Crossing](https://open.spotify.com/album/1IjVN39eXQyaxgG6wVJYQA) | 3:37 |
-| 24 | [Face no Book](https://open.spotify.com/track/61F7oyUltrI5dMVw3IvbQT) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/3OVDIdP6r46Sih6DN0vyHc) | 2:25 |
+| 24 | [Face no Book](https://open.spotify.com/track/1onwHSIPJECEhwcMJlyEIB) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0PDBBWqqZNwj6yhLe6Fq88) | 2:24 |
 | 25 | [Southside](https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [Southside](https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo) | 3:21 |
 | 26 | [Internet Shooter](https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI) | [Internet Shooter](https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M) | 1:57 |
 | 27 | [Baby Shark](https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Baby Shark](https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Thugz Dont Cry](https://open.spotify.com/track/7gGJyJ3Ft5xRn2JHdrd62N) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [GRASSWAYZ](https://open.spotify.com/album/6BC6u8kIWICEcamEVUN3yM) | 2:45 |
 | 75 | [Blood Boy](https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:29 |
 
-Snapshot ID: `MTY2OTgxNzUxNywwMDAwMDAwMDQyNzYwMmQ1MjU0MDhjYWRmMjg5NWJjNzM4ODIwMzk4`
+Snapshot ID: `MTY2OTgxNzUxNywwMDAwMDAwMDM0ZWUzNDI4MjRjNDVjODZjYmZmZThmOTNmZDliNzVh`

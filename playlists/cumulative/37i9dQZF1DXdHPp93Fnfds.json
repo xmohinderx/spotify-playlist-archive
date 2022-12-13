@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Crucero Cristal",
+        "url": "https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99410,
+      "name": "(H)olas",
+      "url": "https://open.spotify.com/track/76Drqa36dMs3sL6GZOAeDL"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/4bnQbUVuWGbrIXM3gvsxfN"
       },
@@ -583,7 +601,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 149625,
       "name": "Aquellos Misterios",
       "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
@@ -1680,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190462,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
+    },
+    {
+      "album": {
         "name": "Historias para Cuando Sea Abuela",
         "url": "https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU"
       },
@@ -1805,7 +1841,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 145401,
       "name": "Curriculum Completo",
       "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
@@ -3165,6 +3201,24 @@
       "duration_ms": 216000,
       "name": "Hasta Que Salga el Sol",
       "url": "https://open.spotify.com/track/6tIOMUJ75caEiH47DhqDYe"
+    },
+    {
+      "album": {
+        "name": "He comprado \u2741",
+        "url": "https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "He comprado \u2741",
+      "url": "https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE"
     },
     {
       "album": {
@@ -7973,7 +8027,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 183836,
       "name": "Una explicaci\u00f3n \u2661",
       "url": "https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv"

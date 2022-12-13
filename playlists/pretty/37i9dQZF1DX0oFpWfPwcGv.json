@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 33776,
+  "num_followers": 33828,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGIzNDRmOTgwY2ZkYWY5ZWI3NjRhZWZmYjZkOTM5MzMy",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDk0M2ExNmYzNjQ2NTVmN2Y2YWQwNjkxNjYwZjZkZTE4",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 386360,
       "name": "Ai No Corrida",
       "url": "https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Triumph (Expanded Version)",
         "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 405293,
       "name": "Haven't You Heard",
       "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
+      },
+      "artists": [
+        {
+          "name": "Gino Soccio",
+          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
+        }
+      ],
+      "duration_ms": 508120,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Karen Carpenter",
         "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 160906,
       "name": "Date With The Rain",
       "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Outline",
-        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
-      },
-      "artists": [
-        {
-          "name": "Gino Soccio",
-          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
-        }
-      ],
-      "duration_ms": 508120,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "The Changing Of The Gard",
         "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Delusions (Bonus Version)",
         "url": "https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 481506,
       "name": "Let No Man Put Asunder - Shep Pettibone 12\" Mix",
       "url": "https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295125,
-      "name": "Bad Girls - 12\" Version",
-      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -995,6 +979,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295125,
+      "name": "Bad Girls - 12\" Version",
+      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 203840,
       "name": "I Need A Man",
       "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Club Columbia",
         "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
-      },
-      "artists": [
-        {
-          "name": "Ms. (Sharon) Ridley",
-          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
-        }
-      ],
-      "duration_ms": 388920,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 258253,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
+      },
+      "artists": [
+        {
+          "name": "Ms. (Sharon) Ridley",
+          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
+        }
+      ],
+      "duration_ms": 388920,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L"
+      },
+      "artists": [
+        {
+          "name": "Viola Wills",
+          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
+        }
+      ],
+      "duration_ms": 723573,
+      "name": "If You Could Read My Mind - The Disconet Re-Edit",
+      "url": "https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L"
-      },
-      "artists": [
-        {
-          "name": "Viola Wills",
-          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
-        }
-      ],
-      "duration_ms": 723573,
-      "name": "If You Could Read My Mind - The Disconet Re-Edit",
-      "url": "https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "The Best of Candi Staton",
         "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 317480,
       "name": "Victim",
       "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Northern Soul Keep the Faith",
-        "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pennington",
-          "url": "https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "24 Hours a Day",
-      "url": "https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Northern Soul Keep the Faith",
+        "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pennington",
+          "url": "https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "24 Hours a Day",
+      "url": "https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Slippin' and Dippin' (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
       },
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Miss Gladys Knight",
-        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
+        "name": "More, More, More",
+        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
       },
       "artists": [
         {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
         }
       ],
-      "duration_ms": 351453,
-      "name": "It's a Better Than Good Time",
-      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
+      "duration_ms": 243160,
+      "name": "What's Your Name, What's Your Number",
+      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
     }
   ],
   "unique_name": "Disco Decadence",

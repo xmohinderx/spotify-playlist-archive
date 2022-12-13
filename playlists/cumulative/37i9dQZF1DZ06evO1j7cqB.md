@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-34 songs - 2 hr 2 min - not published yet
+35 songs - 2 hr 4 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,9 +33,10 @@
 | [Outlander \- The Skye Boat Song \(Castle Leoch Version\) \[feat\. Raya Yarbrough\]](https://open.spotify.com/track/3RQPR2TN3DIj4dqDUEE2LO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 2:04 | 2022-12-01 |  |
 | [Outlander Main Title Theme \(Skye Boat Song\) \[feat\. Raya Yarbrough\]](https://open.spotify.com/track/10VIsMEvM4K2xgFvh9plJi) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander Main Title Theme \(Skye Boat Song\) \[feat\. Raya Yarbrough\]](https://open.spotify.com/album/1d0eMuR3QNb1UC6VbIkEEj) | 1:36 | 2022-12-01 |  |
 | [People Disappear All the Time](https://open.spotify.com/track/2j03d8wjAXEh5Gyvs2GuiT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 3:32 | 2022-12-01 |  |
+| [Pull of the Light \(feat\. Eivør\)](https://open.spotify.com/track/6eGTqJ4IpQPqPrMMjCbdt2) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 1:44 | 2022-12-12 |  |
 | [Raeb's Lament](https://open.spotify.com/track/404eOIgbr1qdzcJ7BE1Xtz) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:24 | 2022-12-01 |  |
 | [Svartalfheim \(feat\. Eivør\)](https://open.spotify.com/track/7GXY8BJNXf2fK4aATVswz8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 5:13 | 2022-12-01 |  |
-| [The Hammer of Thor](https://open.spotify.com/track/33H8JSbgPQadjRsBxsNAc7) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:22 | 2022-12-08 |  |
+| [The Hammer of Thor](https://open.spotify.com/track/33H8JSbgPQadjRsBxsNAc7) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:22 | 2022-12-08 | 2022-12-13 |
 | [The Stranger](https://open.spotify.com/track/4lRIrVALubeKxXQ9zDXnO6) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 5:03 | 2022-12-07 |  |
 | [The Wedding](https://open.spotify.com/track/3yY78aWyfri4ewOKIQokna) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 3:46 | 2022-12-01 |  |
 | [Theme from the Walking Dead](https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Walking Dead \(Original Television Soundtrack\)](https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D) | 0:49 | 2022-12-01 |  |

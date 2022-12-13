@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-443 songs - 16 hr 56 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+444 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [memories are all that is left](https://open.spotify.com/track/3LwFzfw1f2P3ROzc02Cdth) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk) | [memories are all that is left](https://open.spotify.com/album/7pwZsdbbtxNsqMmnhgNtPQ) | 2:22 | 2022-06-24 | 2022-08-12 |
 | [Menta](https://open.spotify.com/track/7MZGAVGCqlbDb5o1u8afnk) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [Menta](https://open.spotify.com/album/0juvCpKhn6uDHJHOKr6k62) | 2:37 | 2022-09-02 |  |
 | [Midnight Heart](https://open.spotify.com/track/1MbYPlwWJJ5xYeBt3Yv186) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [Midnight Heart](https://open.spotify.com/album/3509Yhr3a8aW3PnrmA0RVo) | 2:21 | 2022-05-20 | 2022-07-01 |
-| [Mint Tea](https://open.spotify.com/track/0ktmMe9ZdEP6Nrlm852yfT) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Mint Tea](https://open.spotify.com/album/50jQJbVRJ4PePgcqNClaEA) | 2:03 | 2022-10-07 |  |
+| [Mint Tea](https://open.spotify.com/track/0ktmMe9ZdEP6Nrlm852yfT) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Mint Tea](https://open.spotify.com/album/50jQJbVRJ4PePgcqNClaEA) | 2:03 | 2022-10-07 | 2022-12-13 |
+| [Mint Tea](https://open.spotify.com/track/4PgfqFFk8cOMDpN4kqfyWo) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Mint Tea](https://open.spotify.com/album/2xKIy8HQKAKdcHgmvecuh2) | 2:03 | 2022-12-12 |  |
 | [mirage](https://open.spotify.com/track/62fLle8LeEWmKjhW20WR7b) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [Soul Searching](https://open.spotify.com/album/7l4LM6MYzxRPgtum6OnK90) | 2:30 | 2022-10-28 |  |
 | [mirage](https://open.spotify.com/track/6MJoayW5JUOqBixVTFIbLI) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [Soul Searching](https://open.spotify.com/album/2gRSG93nb8L3TUT2jmbmbg) | 2:30 | 2022-07-08 | 2022-11-03 |
 | [Miresa e la Pioggia](https://open.spotify.com/track/0S6lYorQM1KyvBrucbzRCW) | [Blake Tree](https://open.spotify.com/artist/60E7GgcIHUuDo3GgkDDano) | [Pioggia Blu](https://open.spotify.com/album/7frOMIAbdDWLHaIoLKrURg) | 1:37 | 2022-05-20 | 2022-07-08 |

@@ -2983,7 +2983,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 437207,
       "name": "Escape",
       "url": "https://open.spotify.com/track/6WQcjT6uoPf1zUQRYNo3fZ"
@@ -3825,6 +3825,28 @@
       "duration_ms": 431426,
       "name": "Gravity Field",
       "url": "https://open.spotify.com/track/7pzWzk7IuGVG7L7ll5bR3g"
+    },
+    {
+      "album": {
+        "name": "Youth Is Wasted on the Young",
+        "url": "https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa"
+      },
+      "artists": [
+        {
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193623,
+      "name": "Grouplove",
+      "url": "https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq"
     },
     {
       "album": {
@@ -5856,6 +5878,24 @@
     },
     {
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276689,
+      "name": "MORE LOVE",
+      "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
+    },
+    {
+      "album": {
         "name": "More, Pt. 2",
         "url": "https://open.spotify.com/album/1AF96jtNifFMRatsGU2q0u"
       },
@@ -7769,7 +7809,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 298551,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/5oo1HNNzaCiEn8IF57Ysbe"

@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Katy Perry and Thomas Rhett
 
-197 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
+198 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/track/3yf1lOT3aAaVzkyDYkxQLF) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/album/1Z5vIsFPproLKSFGPx77ly) | 3:25 | 2021-12-17 | 2022-07-27 |
 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2022-06-17 |  |
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-08-19 |  |
-| [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-02-04 |  |
+| [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-02-04 | 2022-12-13 |
 | [Didn't Do](https://open.spotify.com/track/13sdGIsfF7PdO1TZ89pfHw) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Didn't Do](https://open.spotify.com/album/5g6k9GEe9QmF9iLUso5rNO) | 3:17 | 2022-10-01 | 2022-11-19 |
 | [Didn't Even Date \(feat\. Roman Alexander\)](https://open.spotify.com/track/2EvA9kbBy7MHWf3rmHGihD) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1), [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Didn't Even Date \(feat\. Roman Alexander\)](https://open.spotify.com/album/2VrEVhkJ8pune6s8xaqyzJ) | 3:06 | 2022-07-08 |  |
 | [Don't Matter Now](https://open.spotify.com/track/11gbCX4RvpJjjwx4ZmitlD) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Don't Matter Now](https://open.spotify.com/album/753eu5tOs23sD99Lvj7Ylr) | 3:43 | 2021-12-17 | 2022-07-27 |
@@ -194,6 +194,7 @@
 | [When the Whiskey Runs Out](https://open.spotify.com/track/4KqsYfPTKNhRqbNgx0izdi) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \- EP](https://open.spotify.com/album/5WxxP29OW04oLYjFycOMqU) | 3:02 | 2021-12-17 | 2022-06-22 |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-12-17 |  |
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2022-01-07 | 2022-07-26 |
+| [When You Know](https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [When You Know](https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc) | 2:58 | 2022-12-09 |  |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 |  |
 | [Who Cares](https://open.spotify.com/track/0AuyO2tufq60YvAFdVYhOn) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Who Cares](https://open.spotify.com/album/0nLAp17gWpv95J2yPdqSK9) | 2:58 | 2021-12-17 | 2022-07-29 |
 | [Why Don't We](https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Why Don't We](https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY) | 3:00 | 2021-12-17 | 2022-07-29 |

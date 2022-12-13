@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 340182,
       "name": "Hello There",
       "url": "https://open.spotify.com/track/6k2tB7WChbwR9BXAD5LTtH"
@@ -1599,6 +1599,28 @@
       "duration_ms": 364747,
       "name": "Speak Of The Town",
       "url": "https://open.spotify.com/track/1YPBILT8eQNbWK7MN6MsUC"
+    },
+    {
+      "album": {
+        "name": "Back to Ebombeni",
+        "url": "https://open.spotify.com/album/47jsuTeh9UiCr2QBozkoIS"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342500,
+      "name": "Speed Limit",
+      "url": "https://open.spotify.com/track/60LrKAurxTVnWjmU9sQVtG"
     },
     {
       "album": {

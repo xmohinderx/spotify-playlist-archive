@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
-  "num_followers": 18774,
+  "num_followers": 18896,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMDQ4OTYzMGMxYTU5Y2U1ZjYxNTIwOGJkYjk5NjIxM2Ix",
+  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMDhiMjcyNjEyYjRiN2IwNTQzYTM3NjJmZTAwZDQ3NTNj",
   "tracks": [
     {
       "added_at": "2022-10-01 05:16:54",
@@ -543,6 +543,26 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
+        "name": "Unguilty Pleasure",
+        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
+      },
+      "artists": [
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 193398,
+      "name": "Unguilty Pleasure",
+      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
       },
@@ -563,22 +583,22 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Unguilty Pleasure",
-        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
+        "name": "Still Blessed",
+        "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
       },
       "artists": [
         {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
         },
         {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "Nathanael",
+          "url": "https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs"
         }
       ],
-      "duration_ms": 193398,
-      "name": "Unguilty Pleasure",
-      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+      "duration_ms": 175200,
+      "name": "Still Blessed",
+      "url": "https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -675,26 +695,6 @@
       "duration_ms": 212210,
       "name": "Made Whole",
       "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
-        "name": "Still Blessed",
-        "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Nathanael",
-          "url": "https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Still Blessed",
-      "url": "https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -803,38 +803,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4HUTFKjRVJGPSIbMFDI1fo"
-      },
-      "artists": [
-        {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/3H4fCGhKPlPz7okIvwz1kg"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
-        "name": "THANK GOD",
-        "url": "https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg"
-      },
-      "artists": [
-        {
-          "name": "Waconzy",
-          "url": "https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm"
-        }
-      ],
-      "duration_ms": 130298,
-      "name": "THANK GOD",
-      "url": "https://open.spotify.com/track/1zMORse6eODeibmofSgrxS"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "No Stress",
         "url": "https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL"
       },
@@ -871,6 +839,38 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4HUTFKjRVJGPSIbMFDI1fo"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/3H4fCGhKPlPz7okIvwz1kg"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "THANK GOD",
+        "url": "https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg"
+      },
+      "artists": [
+        {
+          "name": "Waconzy",
+          "url": "https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm"
+        }
+      ],
+      "duration_ms": 130298,
+      "name": "THANK GOD",
+      "url": "https://open.spotify.com/track/1zMORse6eODeibmofSgrxS"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 155530,
       "name": "Revival",
       "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
-      },
-      "artists": [
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 134217,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -927,26 +907,22 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Regardless",
-        "url": "https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
       },
       "artists": [
         {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
         },
         {
-          "name": "Kunle Zakariya",
-          "url": "https://open.spotify.com/artist/2T5MR0ZRAo0VH5quEfnN3m"
-        },
-        {
-          "name": "Pure Streams",
-          "url": "https://open.spotify.com/artist/0M2IMlSX6lnDQZMdFsnzgr"
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
         }
       ],
-      "duration_ms": 299999,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz"
+      "duration_ms": 134217,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -1007,6 +983,30 @@
       "duration_ms": 171333,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Kunle Zakariya",
+          "url": "https://open.spotify.com/artist/2T5MR0ZRAo0VH5quEfnN3m"
+        },
+        {
+          "name": "Pure Streams",
+          "url": "https://open.spotify.com/artist/0M2IMlSX6lnDQZMdFsnzgr"
+        }
+      ],
+      "duration_ms": 299999,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz"
     },
     {
       "added_at": "2022-10-01 05:16:54",

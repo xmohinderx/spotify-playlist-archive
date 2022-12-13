@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 27918,
+  "num_followers": 27989,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGU3MzI2ZDViMmFlZWQ5MzM0ZTcyOTU0YTQ1ZGFiYzRh",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDRkMDljYWE2OWY5NDc2ZDI2ZWRiYjhjMzkyNDMxNWQ0",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
         "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 278297,
       "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
       "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Color Where You Are",
-        "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        }
-      ],
-      "duration_ms": 227300,
-      "name": "Under the Big Top",
-      "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Ones to Keep Close",
         "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
       },
@@ -359,6 +343,38 @@
       "duration_ms": 180706,
       "name": "Get Yourself Some",
       "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Color Where You Are",
+        "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        }
+      ],
+      "duration_ms": 227300,
+      "name": "Under the Big Top",
+      "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Ain't Too Worried Yet",
+        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ain't Too Worried Yet",
+      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -395,22 +411,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Ain't Too Worried Yet",
-        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ain't Too Worried Yet",
-      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "In the Middle",
         "url": "https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 192351,
-      "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ"
       },
@@ -475,22 +459,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Eric Tessmer 2",
-        "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
-      },
-      "artists": [
-        {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "Good So Bad",
-      "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Moonshine Blue",
         "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 168752,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Eric Tessmer 2",
+        "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
+      },
+      "artists": [
+        {
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+        }
+      ],
+      "duration_ms": 249826,
+      "name": "Good So Bad",
+      "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -559,6 +543,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 192351,
+      "name": "Tears Of Blue To Gold",
+      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Nobody's Wrong",
-        "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 235311,
-      "name": "Nobody's Wrong",
-      "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Don't Tell Me No Lies",
         "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
       },
@@ -619,22 +603,6 @@
       "duration_ms": 147423,
       "name": "Don't Tell Me No Lies",
       "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Tape V",
-        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
-      },
-      "artists": [
-        {
-          "name": "Daniel Spaleniak",
-          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
-        }
-      ],
-      "duration_ms": 177801,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -655,34 +623,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
       "artists": [
         {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
         }
       ],
-      "duration_ms": 212147,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Howlin' Sun",
-        "url": "https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Sun",
-          "url": "https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw"
-        }
-      ],
-      "duration_ms": 181285,
-      "name": "The Day Took My Sunshine Away",
-      "url": "https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR"
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -707,18 +659,34 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Chocolate Samurai",
-        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
+        "name": "Nobody's Wrong",
+        "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
         }
       ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
+      "duration_ms": 235311,
+      "name": "Nobody's Wrong",
+      "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Howlin' Sun",
+        "url": "https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Sun",
+          "url": "https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw"
+        }
+      ],
+      "duration_ms": 181285,
+      "name": "The Day Took My Sunshine Away",
+      "url": "https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -743,6 +711,38 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Chocolate Samurai",
+        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 295839,
+      "name": "Chocolate Samurai",
+      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "The Difference Between Me & You",
         "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 241226,
       "name": "Nothing but a Clich\u00e9",
       "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
-      },
-      "artists": [
-        {
-          "name": "Swamp",
-          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "Don't Say Goodbye",
-      "url": "https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -791,6 +775,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
+      },
+      "artists": [
+        {
+          "name": "Swamp",
+          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
+        }
+      ],
+      "duration_ms": 191688,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Sand Castles",
         "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -839,6 +823,22 @@
       "duration_ms": 225551,
       "name": "Searching for Captain Save a Hoe",
       "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
     },
     {
       "added_at": "2022-08-31 19:45:43",

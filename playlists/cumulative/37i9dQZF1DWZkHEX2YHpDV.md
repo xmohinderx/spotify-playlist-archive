@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Against The Current
 
-868 songs - 1 day 22 hr 20 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+869 songs - 1 day 22 hr 22 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,7 @@
 | [Joy Notes](https://open.spotify.com/track/1wXMDIfGsQtercGl4X2qxe) | [Rich People](https://open.spotify.com/artist/5lSyekL7APqKdusY0pGcGf) | [Joy Notes](https://open.spotify.com/album/4DeJ2CdZDBlfNGA4QYHFXY) | 3:50 | 2021-12-10 | 2022-07-26 |
 | [jump](https://open.spotify.com/track/2NbTcTv3m8t7wAGUvPhhp0) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT) | 2:40 | 2021-12-10 | 2022-02-12 |
 | [Just Kidding](https://open.spotify.com/track/2cnE9wO8KpXg17uayG693F) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Just Kidding](https://open.spotify.com/album/1aQNPD8kuo8D8y3kjkUXHb) | 2:29 | 2021-12-10 | 2022-05-17 |
-| [Just Like Home](https://open.spotify.com/track/1MJMWhmxP93nnU62AcJukk) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Red EP](https://open.spotify.com/album/5BPCHjvb6PYhOny8GXmb9q) | 3:15 | 2022-11-04 |  |
+| [Just Like Home](https://open.spotify.com/track/1MJMWhmxP93nnU62AcJukk) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Red EP](https://open.spotify.com/album/5BPCHjvb6PYhOny8GXmb9q) | 3:15 | 2022-11-04 | 2022-12-13 |
 | [Just Personal](https://open.spotify.com/track/3d7TcP3c8P4AeAwVYeObBh) | [Victory Lane](https://open.spotify.com/artist/56TexoheCRrAi15dxTQbIF) | [Barebones](https://open.spotify.com/album/6S5DYRlhIX5rrKOBSFLmKn) | 3:04 | 2022-03-25 | 2022-04-14 |
 | [Just Sound](https://open.spotify.com/track/3qd9LYTwoH5LJdSlinzcQO) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Just Sound](https://open.spotify.com/album/6aZwlFrZYyb3fMTyGoQy83) | 3:22 | 2021-12-10 | 2022-05-14 |
 | [Just Tonight, Not Forever](https://open.spotify.com/track/6yxB2LuKUXPSZj3ZiIUyb7) | [The Waiting Game](https://open.spotify.com/artist/6UZjGnKsY3Of10gus4tvyl) | [Underneath The Surface](https://open.spotify.com/album/7mVkpau97RLrPq2CrMCAlL) | 4:31 | 2022-03-25 | 2022-04-09 |
@@ -733,6 +733,7 @@
 | [The Antidote](https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Antidote](https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl) | 3:15 | 2021-12-10 | 2022-07-29 |
 | [The Antidote](https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:15 | 2022-07-08 |  |
 | [The Awful Truth](https://open.spotify.com/track/1FAlry81kFuC6ihhhpVAtM) | [Catholic Guilt](https://open.spotify.com/artist/5PCZtucj9Akr6zuVUqXYQZ) | [The Awful Truth](https://open.spotify.com/album/0q8RzansKF3z4GvL13MxmW) | 4:15 | 2022-01-14 | 2022-04-14 |
+| [The Baby Panda](https://open.spotify.com/track/4kRS2jPnDN9f0mDpCnYai5) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl), [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [The Baby Panda](https://open.spotify.com/album/3PZCUu3tPDTU0NamSdSwXr) | 1:49 | 2022-12-02 |  |
 | [The Best Part](https://open.spotify.com/track/7vc29Fq0rzgpG8RGe8aoKM) | [Cadet Carter](https://open.spotify.com/artist/1JpisZfiasQzthtFyBC2Jf) | [The Best Part](https://open.spotify.com/album/2FZCDJArJeuFFJqrEfJrWy) | 3:32 | 2022-02-04 | 2022-05-03 |
 | [The Earth Will Swallow Me Whole](https://open.spotify.com/track/7BE5fMou61X6PH4xY0nvXY) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [The Name We Share](https://open.spotify.com/album/6vW7iTJmX0pWVusTt7bOMk) | 3:00 | 2021-12-10 | 2022-07-09 |
 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 | 2022-08-05 |  |

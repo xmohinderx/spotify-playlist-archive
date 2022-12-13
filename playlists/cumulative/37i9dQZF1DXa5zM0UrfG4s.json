@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 165612,
       "name": "Besseggen",
       "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
@@ -2182,6 +2182,24 @@
     },
     {
       "album": {
+        "name": "Hon kan inte banka pl\u00e5t",
+        "url": "https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128690,
+      "name": "Hon kan inte banka pl\u00e5t",
+      "url": "https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9"
+    },
+    {
+      "album": {
         "name": "Hot Girls (dricker hotshots)",
         "url": "https://open.spotify.com/album/6z5uLVB0RW6M8Yj5KLEA7H"
       },
@@ -2547,7 +2565,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 117589,
       "name": "JAG T\u00c5L INTE ET NEI",
       "url": "https://open.spotify.com/track/1T3Amb9ELrHxGoo4U5BYce"
@@ -2743,7 +2761,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 163140,
       "name": "Kentucky",
       "url": "https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs"

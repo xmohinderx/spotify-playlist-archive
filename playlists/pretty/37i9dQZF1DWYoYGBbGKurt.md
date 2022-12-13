@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,478 likes - 499 songs - 19 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,615 likes - 499 songs - 19 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,7 +241,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 231 | [Slowly Colder](https://open.spotify.com/track/5ZZAA9lwEPILsbeNfPmIcR) | [7th Realm](https://open.spotify.com/artist/4UtJ3cnpM9ptMHY6LSfMUs) | [Slowly Colder](https://open.spotify.com/album/24VCylYy5CBMhMh9jbSNiw) | 1:44 |
 | 232 | [Rain Flares](https://open.spotify.com/track/4MxWLiDZXwKdaAapL48S4C) | [Sillage](https://open.spotify.com/artist/5tQCbzDeBy8NlI90GKQdf6) | [Rain Flares](https://open.spotify.com/album/4zWdeS7FsXiTvePY5Lk1gA) | 2:11 |
 | 233 | [Butterfly](https://open.spotify.com/track/5lMNl413kkVmPsydazadVw) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r) | [Butterfly](https://open.spotify.com/album/73kb2i5eyHMwv3fP55GZA2) | 3:45 |
-| 234 | [Northern Station](https://open.spotify.com/track/2IXBvajtSK34AldAr9dBTT) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Northern Station](https://open.spotify.com/album/1Aj8NrLCypDynHdyaUXG45) | 2:05 |
+| 234 | [Northern Station](https://open.spotify.com/track/0qAZAKTuRPq1XL2Rb4qpK2) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Northern Station](https://open.spotify.com/album/77idEOUkoc47CyeG3jDNb8) | 2:05 |
 | 235 | [Maulheld](https://open.spotify.com/track/2rjhAsqe8ss9p9WJqPYVGY) | [Johannes Onetake](https://open.spotify.com/artist/0VVyuGRHXy7PM7JELDbtbD), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [The Orchid Days](https://open.spotify.com/album/2lpIgSsSN55jx8fBwbkJ2m) | 2:12 |
 | 236 | [Confetti](https://open.spotify.com/track/2De3JLdPGjD0nFYhUdry70) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Confetti](https://open.spotify.com/album/4hVSP5CoRNG4GrRNsdAVX1) | 2:14 |
 | 237 | [The End](https://open.spotify.com/track/0edUqIhyKWlr7HBh3UcE1Z) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [The End](https://open.spotify.com/album/5UU8K7OhaoZmrY6eaXw2Xo) | 2:24 |
@@ -508,4 +508,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 498 | [Try Again](https://open.spotify.com/track/1rVmk8oSQNPor1w1M0RIh9) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Try Again](https://open.spotify.com/album/4JzjXnumWReclbjE75OBhr) | 2:58 |
 | 499 | [cool beans](https://open.spotify.com/track/3tFHIsExVsSnj7VecObIsg) | [yamarcus](https://open.spotify.com/artist/3F0CvVFpoFkcYZJxZW4fLp) | [cool beans](https://open.spotify.com/album/2S2IV1dxQZReJAYAYkfuXE) | 2:35 |
 
-Snapshot ID: `MTY3MDU4NjYzMSwwMDAwMDAwMDQzMDJiYmNkMDlmZGI2MGYyODY4YmIyMmI5Zjc1ZDM5`
+Snapshot ID: `MTY3MDU4NjYzMSwwMDAwMDAwMDcyYTc2Yjk3N2FhMjQyNmNkMjU1YTQ0ZTY4ZmQwNzll`

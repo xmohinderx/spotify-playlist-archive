@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,739 likes - 112 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,623 likes - 112 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A salute to all of the women that like it loud & heavy\. Cover: BABYMETAL
 
-246 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
+247 songs - 16 hr 15 min - [published](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cloaked](https://open.spotify.com/track/3irkZrFRdtIgc9xmbb95In) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/3821HxVYaIwRA9DLfo8GHa) | 3:54 | 2022-03-11 | 2022-08-17 |
 | [Cloud 9](https://open.spotify.com/track/6grBntnvJiVqgqqbmeq9iU) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Cloud 9](https://open.spotify.com/album/3XdE4xEWmjv7ZckfOoVqAX) | 3:16 | 2022-03-18 | 2022-06-15 |
 | [Colossvs](https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7) | 3:37 | 2020-12-07\* | 2022-11-20 |
+| [Colossvs](https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN) | 3:37 | 2022-10-28 |  |
 | [Come For Me](https://open.spotify.com/track/3kgx7Hw9C0cMPOYUdtIrXI) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [Come For Me](https://open.spotify.com/album/3Ts7i90oOwxtYNzZqKfM7l) | 3:34 | 2020-12-07\* | 2021-05-15 |
 | [Constance](https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Constance](https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx) | 4:30 | 2020-12-07\* |  |
 | [Corrode](https://open.spotify.com/track/3HVPJrmpJvwYSmrGS21af1) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [Corrode](https://open.spotify.com/album/20gYg8xLqeRhmj2nhAyRU1) | 4:14 | 2020-12-07\* | 2021-10-16 |
@@ -182,7 +183,7 @@
 | [Sacred Heart](https://open.spotify.com/track/2P4dNMfeMn2bzxg8Li2CPB) | [Sister Shotgun](https://open.spotify.com/artist/3pgaM7gbm0CFmtpGnXDlMe) | [Fragments](https://open.spotify.com/album/36iutCzxSJ78n1wTITP0vA) | 3:55 | 2020-12-07\* | 2021-04-10 |
 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 | 2021-08-24 |  |
 | [Sanctuary](https://open.spotify.com/track/121A7emtDzvnIiXZWlAP3S) | [Leah](https://open.spotify.com/artist/5JrVokmullzV1zq8M8iP69) | [Sanctuary](https://open.spotify.com/album/4YIWJJcTcA7dyjTNMu1hO2) | 4:44 | 2020-12-07\* | 2022-07-20 |
-| [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2020-12-07\* |  |
+| [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2020-12-07\* | 2022-12-13 |
 | [Secret Garden](https://open.spotify.com/track/2SKbTx3bPi2aPu5GRz59Dz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Secret Garden](https://open.spotify.com/album/1tWbfY8SUwLBt8g5VuvatE) | 3:39 | 2021-05-29 | 2022-07-29 |
 | [Secret Garden](https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:39 | 2022-03-11 |  |
 | [See You in Hell](https://open.spotify.com/track/48hnT1MKDCeRiufK6uCToc) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [See You in Hell](https://open.spotify.com/album/20QqdzCbXmdDXgtSerBEgD) | 3:49 | 2020-12-07\* | 2022-07-29 |

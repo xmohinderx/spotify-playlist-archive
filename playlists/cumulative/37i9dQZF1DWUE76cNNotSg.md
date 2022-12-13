@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-321 songs - 21 hr 12 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
+322 songs - 21 hr 16 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Heat\-Wave](https://open.spotify.com/track/5RwQuZtvlmLq6rutrcugxF) | [Daniel T.](https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY) | [Heat\-Wave](https://open.spotify.com/album/205mIe44luLaMWMijo4ukX) | 5:56 | 2020-12-22 | 2022-07-05 |
 | [Heights](https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heights](https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ) | 2:54 | 2020-12-22 |  |
 | [Here We Are Again](https://open.spotify.com/track/3CLsZEY8QC4ZTBJGF47sGp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Here We Are Again](https://open.spotify.com/album/1LWzd1ZpdNVucRD7kPEqXb) | 3:27 | 2020-12-22 | 2022-04-20 |
+| [Hesitate](https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM) | 4:11 | 2020-12-22 |  |
 | [Hesitate](https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj) | 4:11 | 2020-12-22 | 2022-12-01 |
 | [Home](https://open.spotify.com/track/4xBzlpnMJryekTEICKsRiK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 2:36 | 2020-12-22 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 | 2020-12-22 | 2022-11-23 |
@@ -200,7 +201,7 @@
 | [NUMB](https://open.spotify.com/track/0feV26ESzVptPP83N82VAO) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Between Us](https://open.spotify.com/album/6mjVNuxWS73gi2nPvvtJFB) | 3:37 | 2020-12-22 |  |
 | [NUMB](https://open.spotify.com/track/4JEwMJFPyAl6nNw0UQTwIu) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [NUMB](https://open.spotify.com/album/7pzVWvxakWV1zjYce30yhH) | 3:37 | 2020-12-22 | 2022-04-15 |
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2021-09-10 | 2022-07-07 |
-| [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 | 2021-03-19 |  |
+| [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 | 2021-03-19 | 2022-12-13 |
 | [Oceans](https://open.spotify.com/track/4eZHR12k7QFYFeDvZlh6rE) | [Third Floor](https://open.spotify.com/artist/2cIORcjDWj0e8H0KKeBwlu) | [Oceans](https://open.spotify.com/album/5iBwvnzbjizww4o7mRHUtg) | 4:18 | 2020-12-22 | 2022-04-15 |
 | [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 | 2022-05-13 | 2022-06-04 |
 | [Okay, Saint Laurent](https://open.spotify.com/track/68uwWsxoI2yb0RhQw69eRF) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [Okay, Saint Laurent](https://open.spotify.com/album/0nrujX14UZkDHf6kLRHR2G) | 3:00 | 2020-12-22 | 2022-07-29 |

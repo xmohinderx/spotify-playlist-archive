@@ -549,6 +549,24 @@
     {
       "album": {
         "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
+    },
+    {
+      "album": {
+        "name": "Caffeine",
         "url": "https://open.spotify.com/album/4c0h2zDKWkMnYjjwWitaCM"
       },
       "artists": [
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 218506,
       "name": "Interstellar Love (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA"

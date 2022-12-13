@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-674 songs - 1 day 16 hr 14 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+675 songs - 1 day 16 hr 18 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2021-12-17 | 2022-05-08 |
 | [Alabama Haint](https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Alabama Haint](https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg) | 3:02 | 2021-12-17 | 2022-07-29 |
 | [Alaska](https://open.spotify.com/track/3NPkwNFvfOoski2eJj89cL) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Alaska](https://open.spotify.com/album/3Z2DqgBQQhR0ZBufsf5cqo) | 3:45 | 2021-12-17 | 2022-07-29 |
+| [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-07-29 |  |
 | [All at Once](https://open.spotify.com/track/7uNCJCxszDNp2ydwme7pTU) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [All at Once](https://open.spotify.com/album/3ILSC3ncFp5h5C6CZXQp40) | 3:36 | 2021-12-17 | 2022-04-21 |
 | [All for Nothing](https://open.spotify.com/track/5bT97xrfeGFJ9CY3AJc6IH) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [All for Nothing](https://open.spotify.com/album/4S0FRGEs0XxpCsWRYh8zgZ) | 3:19 | 2022-01-24 | 2022-04-20 |
 | [All Good](https://open.spotify.com/track/1DMB324qRaRdBhykzbE8Ts) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/2BpqinMlN0yFQ4gvmNRU3f) | 3:31 | 2022-01-24 | 2022-04-21 |
@@ -387,7 +388,7 @@
 | [Mercy](https://open.spotify.com/track/0s5qyDeL5KqWoBP4xRnse7) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:12 | 2022-01-24 | 2022-04-18 |
 | [Mercy](https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Yard Sale](https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-06-29 | 2022-11-13 |
-| [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 | 2021-12-17 |  |
+| [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 | 2021-12-17 | 2022-12-13 |
 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 | 2022-01-24 | 2022-04-14 |
 | [Million Miles](https://open.spotify.com/track/59sSH85je4qJRCyIboqOR2) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Million Miles](https://open.spotify.com/album/4RHxgP4R7BHtyLb1WLMO2N) | 3:12 | 2022-01-24 | 2022-04-19 |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-12-17 | 2022-04-20 |

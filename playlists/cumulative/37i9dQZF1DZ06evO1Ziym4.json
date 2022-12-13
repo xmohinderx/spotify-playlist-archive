@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "G N' R Lies",
+        "url": "https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "Nice Boys",
+      "url": "https://open.spotify.com/track/3saiiBttylo6QK8vTAldLl"
+    },
+    {
+      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
       },

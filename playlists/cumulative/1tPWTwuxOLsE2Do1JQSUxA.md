@@ -4,7 +4,7 @@
 
 > The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more\. Image: Harry Styles.
 
-194 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/4urElZ9y19mvfNZKk2dRwe)
+195 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/4urElZ9y19mvfNZKk2dRwe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Shake up Christmas 2011 \(Official Coca\-Cola Christmas Song\)](https://open.spotify.com/track/57fDcLa203GnDF9OYJd6mV) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Shake up Christmas 2011 \(Official Coca\-Cola Christmas Song\)](https://open.spotify.com/album/6SVW52ds0tU2qYPsDeaSGX) | 3:46 | 2021-11-30 | 2022-01-01 |
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2020-10-20\* | 2022-01-01 |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2020-10-20\* | 2022-01-01 |
+| [She Wolf](https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:08 | 2022-12-12 |  |
 | [Shotgun](https://open.spotify.com/track/1YP0OKufVnqN4z5Q4z3ex0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [george ezra songs to play when the sun's out](https://open.spotify.com/album/42HhMLPT9krj1wX9WbxaYy) | 3:21 | 2022-05-06 |  |
 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2020-10-20\* | 2022-05-07 |
 | [Shout Out to My Ex](https://open.spotify.com/track/1pwo8l3Ko7idwaz4LVUEC4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days: The Platinum Edition](https://open.spotify.com/album/5DL2Z5x7UJsWH1HhE9j8nd) | 4:06 | 2020-10-20\* |  |

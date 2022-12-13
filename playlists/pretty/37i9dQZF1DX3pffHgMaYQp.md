@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > música para insubordinados\. Las Decapitadas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,280 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,283 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
-| 2 | [Harto](https://open.spotify.com/track/2Ez1iNcc9Te1XqA3qfTVLH) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Harto](https://open.spotify.com/album/7tcfjeniZB5QKc5iC4zf90) | 2:21 |
+| 2 | [Harto](https://open.spotify.com/track/0NNLYEiVbJhYaudmD4yCUl) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 2:21 |
 | 3 | [Ya No Dueles Más](https://open.spotify.com/track/2HAiOXH71idwbKym8n44hu) | [Los Joules](https://open.spotify.com/artist/6Ct0NYlkBFM7SXNwfF7wjx) | [Ya No Dueles Más](https://open.spotify.com/album/4bEw9hMd0ZksSnrICyaNOu) | 3:40 |
 | 4 | [Soy Basura](https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Soy Basura](https://open.spotify.com/album/3ESj5vJEa3xuiT8Bc0rQhu) | 1:48 |
 | 5 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
 | 6 | [Donde Está el Placer](https://open.spotify.com/track/4Y40q8tySl0cDdphb3aiYG) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:52 |
 | 7 | [Hombre Animal](https://open.spotify.com/track/31mpricQVCFX9EnGmNcJ9L) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 3:27 |
-| 8 | [Tibio](https://open.spotify.com/track/1Hb4Zgo4nV73Eh0oA19BuJ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk), [ALO](https://open.spotify.com/artist/7Mcl8NDOEXuaP9QJ3ATnR9) | [Niebla](https://open.spotify.com/album/6sVeGIf4gy3nzUJfg0iQsJ) | 6:24 |
+| 8 | [Tibio \(feat\. Alo\)](https://open.spotify.com/track/4YYkqEGlnnUP1Veadfw3kW) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/4vsAT0CdijFI9X3BUks2uv) | 6:24 |
 | 9 | [Ícaro](https://open.spotify.com/track/1mw0oMAkcFDjsnGrhTqvvE) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Ícaro](https://open.spotify.com/album/5zXJByZzyJNoECnZotuc71) | 2:33 |
 | 10 | [P3da](https://open.spotify.com/track/4rxg8aTQOGGL7LV1yqqhHy) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [P3da](https://open.spotify.com/album/5s7W0XNdHN2Sz3JviG3Rv8) | 1:21 |
 | 11 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 22 | [Lo Hice Por El Punk](https://open.spotify.com/track/16R71sPcHhpB8N9Hlvso8r) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Gazapo](https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT) | 2:49 |
 | 23 | [Clarita \- En Vivo](https://open.spotify.com/track/0xXy1xcDSbAtiF8PJg8LKJ) | [La Muerte De...](https://open.spotify.com/artist/0HRghElI5OBUiatdsMNQAM) | [Clarita \(En Vivo\)](https://open.spotify.com/album/2tlfU2R8OXoR1WHXKnFqCC) | 5:26 |
 | 24 | [Revolución en 32 versos](https://open.spotify.com/track/2IpIhUpVuQTsIseaQ4z7G0) | [Chico Jorge](https://open.spotify.com/artist/5RlSgVslS8qQuHh3a1GQNd) | [Revolución en 32 versos](https://open.spotify.com/album/6hIwZvUQkppY4xBoxjwXWs) | 2:47 |
-| 25 | [Ya Levántate](https://open.spotify.com/track/41TKk1hgkuFRDJW3ChgtdR) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4) | 4:05 |
-| 26 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 |
+| 25 | [Ya Levántate](https://open.spotify.com/track/1Ltr1S8VdeB5f8elHvgWgC) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm) | 4:05 |
+| 26 | [Niebla](https://open.spotify.com/track/6yWpmaYnTJYeRfnrwb0OCQ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0zh9o0s4qA7kfE7O2AEmMr) | 2:43 |
 | 27 | [Todo Puede Ser Mejor \- Fc Chdkf](https://open.spotify.com/track/0ks15BzbVU00CmOo22NRjL) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Todo Puede Ser Mejor \(Fc Chdkf\)](https://open.spotify.com/album/6H9BGnLgJ2dscmN0T4asIJ) | 3:38 |
 | 28 | [Mosca Muerta](https://open.spotify.com/track/2XL2lxTKKJXYjGjaGN0Mea) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Mosca Muerta / Pop Pop Hell](https://open.spotify.com/album/48uZ5PsEyMNdXdoDuObOMY) | 1:57 |
 | 29 | [El Portal](https://open.spotify.com/track/1rB98RLnWBNGlygWG2VOr1) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 59 | [Dron](https://open.spotify.com/track/4OVH5QRHEtL2j4bo0ATrjM) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 4:33 |
 | 60 | [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 |
 
-Snapshot ID: `MTY1MTA4NzA5NCwwMDAwMDAwMDBlNzRmZTVmNjA3YTQ0YTM2NTdmYWM0NDllZjIzN2Iy`
+Snapshot ID: `MTY1MTA4NzA5NCwwMDAwMDAwMDIzY2EzOWJjMDYyMDk3ZDFmZTRiOTI4NjM0YjFhN2Yx`

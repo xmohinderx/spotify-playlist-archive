@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-256 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+257 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Let Me In](https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Let Me In](https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3) | 3:29 | 2022-04-22 | 2022-07-09 |
 | [Letting Go](https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Letting Go](https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF) | 3:46 | 2022-02-25 | 2022-06-11 |
 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 | 2022-08-26 | 2022-10-02 |
+| [Live Out Loud](https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Live Out Loud](https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT) | 3:23 | 2022-10-01 |  |
 | [Living Breath Of Heaven](https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk) | 5:46 | 2022-02-25 | 2022-04-23 |
 | [Living Water](https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 3:45 | 2022-02-25 | 2022-04-29 |
 | [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 | 2022-02-25 | 2022-04-23 |
@@ -193,7 +194,7 @@
 | [RELATE](https://open.spotify.com/track/5h0DGzgQpKTyXL0bH5cvXZ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RELATE](https://open.spotify.com/album/7vGlKPoTxlj5GwzVos60Yr) | 2:53 | 2022-02-25 | 2022-03-12 |
 | [Remember](https://open.spotify.com/track/3lE2ganUNX7vhzfIrpkZlv) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Remember](https://open.spotify.com/album/1hafawbr58odnjeRt2w5wm) | 3:17 | 2022-02-25 | 2022-05-29 |
 | [Rest For Your Soul \- Radio Edit](https://open.spotify.com/track/33SARMQfHP0TlKq7ZiLccc) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Rest For Your Soul \(Radio Edit\)](https://open.spotify.com/album/5VRabSTTQx9RlEe3cQn9up) | 3:32 | 2022-02-25 | 2022-03-26 |
-| [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 | 2022-04-22 |  |
+| [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 | 2022-04-22 | 2022-12-13 |
 | [River Of Life](https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [River Of Life](https://open.spotify.com/album/6vF3ktUVSaC3IEtZHZwU3b) | 2:49 | 2022-02-25 | 2022-03-06 |
 | [Roar](https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0) | [Jonathan Cain](https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i) | [Arise](https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk) | 3:54 | 2022-05-28 | 2022-07-09 |
 | [S.O.S.](https://open.spotify.com/track/5sokFOC8fmkSuUTb7rbOYX) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [S.O.S.](https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp) | 3:25 | 2022-08-26 |  |

@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-77 songs - 3 hr 35 min - not published yet
+78 songs - 3 hr 39 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Daybreak Rain](https://open.spotify.com/track/6DNUn0G3eihQbE9RvlgJiL) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 | 2022-11-21 |  |
 | [Deep Forest Rain](https://open.spotify.com/track/0K7dSsd2DxYsaj2B6vs1LN) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:27 | 2022-11-21 |  |
 | [Delicate Rain](https://open.spotify.com/track/5yj0oLWldSqf7XPydYMuOQ) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Clouds Above](https://open.spotify.com/album/4v4IoTTglfe37UVhnULrhE) | 2:46 | 2022-11-21 |  |
-| [Dripping Rain on Garden Stones](https://open.spotify.com/track/7dp8pBAleE7jU3sxwif8Wm) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 3:28 | 2022-11-21 |  |
+| [Dripping Rain on Garden Stones](https://open.spotify.com/track/7dp8pBAleE7jU3sxwif8Wm) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 3:28 | 2022-11-21 | 2022-12-13 |
 | [Drizzling](https://open.spotify.com/track/2czlzoPXzidrNnJ1vLdqV8) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Lightrise \(Rain\)](https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6) | 3:00 | 2022-11-21 |  |
 | [Drop By Drop](https://open.spotify.com/track/4yrGzEFy7YYNyoSsKe1tRQ) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2022-11-21 |  |
 | [En Paz](https://open.spotify.com/track/0LFxvRcHo2foS0n1zeFQvR) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Sereno](https://open.spotify.com/album/5KLu6QHGCznPcCB9GJvyMM) | 2:35 | 2022-11-21 |  |
@@ -34,9 +34,10 @@
 | [Goddess Of Thunder](https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:19 | 2022-11-21 |  |
 | [Gotas Cercanas](https://open.spotify.com/track/3hGv03P66ZwSFPXeTokSpi) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Hometown](https://open.spotify.com/album/2oJvTwCJsPFgAJPci0XKGR) | 2:19 | 2022-11-21 |  |
 | [Grey Clouds](https://open.spotify.com/track/5U3PWh3MROXWtepFYB6NAF) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 | 2022-11-21 |  |
-| [Hard Drops](https://open.spotify.com/track/7ajQAfXxIO6mYtSEZKDTTM) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:22 | 2022-11-21 |  |
+| [Hard Drops](https://open.spotify.com/track/7ajQAfXxIO6mYtSEZKDTTM) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:22 | 2022-11-21 | 2022-12-13 |
 | [Hometown Thunders](https://open.spotify.com/track/6bgUoT7qJnDPKZi6uopxwR) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Hometown](https://open.spotify.com/album/2oJvTwCJsPFgAJPci0XKGR) | 1:55 | 2022-11-21 |  |
 | [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 | 2022-11-21 |  |
+| [Light Steady Rain \(Nature\)](https://open.spotify.com/track/5a8pa3Jtnb3O8eaym8hZ7n) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Morning Wonder \(Nature\)](https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck) | 3:16 | 2022-11-21 |  |
 | [Lightning In The Sky](https://open.spotify.com/track/4xLC1Ft6zYnVFQmyMyrjek) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |
 | [lluvia lenta](https://open.spotify.com/track/6zZqFnjMdmiSFt7NVXHU72) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 1:58 | 2022-11-21 |  |
 | [Lluvia suave y truenos](https://open.spotify.com/track/1FCShVslu61ZO38ivOO7Ly) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:32 | 2022-11-21 |  |
@@ -84,6 +85,6 @@
 | [Watching The Rain From Library Window](https://open.spotify.com/track/50h4wo9pw2f3F0BL1Xss6y) | [Wet Rain 3AM](https://open.spotify.com/artist/4IdG84VRCzsDUbDTaLZT2d) | [More Rain](https://open.spotify.com/album/0Q1B0Feeqyc8rwoDQ6CVK9) | 3:06 | 2022-11-21 |  |
 | [Wet Days](https://open.spotify.com/track/12nearcoa2BdHSmBynXyCD) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 | 2022-11-21 |  |
 | [Wind Through the Trees on a Rainy Night on a Field](https://open.spotify.com/track/7kz4OkjwVcSHiiJuYrr2DJ) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:15 | 2022-11-21 |  |
-| [Wisby Way Rain](https://open.spotify.com/track/1Zf7zOrFr0HC0pbcAvxqbj) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:33 | 2022-11-21 | 2022-12-09 |
+| [Wisby Way Rain](https://open.spotify.com/track/1Zf7zOrFr0HC0pbcAvxqbj) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:33 | 2022-11-21 |  |
 
 \*This playlist was first scraped on 2022-12-08. Prior content cannot be recovered.

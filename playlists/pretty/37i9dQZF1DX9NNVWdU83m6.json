@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 32239,
+  "num_followers": 32284,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDA3MjhhMTU4ZWI5YTJkMWVlYjZlNDZmOGM3YTIwNjQz",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGE5ZThhMDNlZTQ1MjU0ZDRhYzJhMTczMGNiZTUxOWRi",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -181,22 +181,6 @@
       "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Apostrophe(')",
-        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
-      },
-      "artists": [
-        {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
-        }
-      ],
-      "duration_ms": 349786,
-      "name": "Apostrophe'",
-      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Badeep",
@@ -243,6 +227,22 @@
       "duration_ms": 571323,
       "name": "Xavi",
       "url": "https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Apostrophe(')",
+        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "duration_ms": 349786,
+      "name": "Apostrophe'",
+      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu"
     },
     {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 267635,
+      "name": "The Knew Untitled",
+      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
+    },
+    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Separate Realities",
@@ -339,22 +355,6 @@
       "duration_ms": 348733,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 267635,
-      "name": "The Knew Untitled",
-      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -389,6 +389,26 @@
       "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
     },
     {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        },
+        {
+          "name": "yucca",
+          "url": "https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp"
+        }
+      ],
+      "duration_ms": 268675,
+      "name": "silhouette",
+      "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
+    },
+    {
       "added_at": "2021-04-16 05:00:00",
       "album": {
         "name": "STARGAZER",
@@ -413,22 +433,6 @@
       "url": "https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Akashic Xronicles",
-        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 267915,
-      "name": "Akashic Xronicles",
-      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Burn",
@@ -443,26 +447,6 @@
       "duration_ms": 320386,
       "name": "Inner Babylon",
       "url": "https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC"
-    },
-    {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "move",
-        "url": "https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop"
-      },
-      "artists": [
-        {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
-        },
-        {
-          "name": "yucca",
-          "url": "https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp"
-        }
-      ],
-      "duration_ms": 268675,
-      "name": "silhouette",
-      "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -483,6 +467,22 @@
       "duration_ms": 568893,
       "name": "The Life Divine",
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Akashic Xronicles",
+        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 267915,
+      "name": "Akashic Xronicles",
+      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
       "added_at": "2021-03-26 04:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
-      },
-      "artists": [
-        {
-          "name": "Kneebody",
-          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Lowell",
-      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "The Inner Mounting Flame",
         "url": "https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 375600,
       "name": "Vital Transformation (with John McLaughlin) - Remastered",
       "url": "https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
+      },
+      "artists": [
+        {
+          "name": "Kneebody",
+          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Lowell",
+      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -645,30 +645,6 @@
       "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Ultima",
-        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        },
-        {
-          "name": "Dana Hawkins",
-          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
-        },
-        {
-          "name": "Plini",
-          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Ultima",
-      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Bundles (Remastered And Expanded Edition)",
@@ -699,6 +675,46 @@
       "duration_ms": 345281,
       "name": "Meteor Stream",
       "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Ultima",
+        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Dana Hawkins",
+          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
+        },
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Ultima",
+      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Little Big",
+        "url": "https://open.spotify.com/album/5grWR2kxfIZorVA7y73KVR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -739,18 +755,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Little Big",
-        "url": "https://open.spotify.com/album/5grWR2kxfIZorVA7y73KVR"
+        "name": "Lingua Franca",
+        "url": "https://open.spotify.com/album/5wbHJdvTGYZDKSiGa21kzK"
       },
       "artists": [
         {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+          "name": "T.R.A.M",
+          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
         }
       ],
-      "duration_ms": 441386,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf"
+      "duration_ms": 284186,
+      "name": "Consider Yourself Judged",
+      "url": "https://open.spotify.com/track/3QW4GhqgR5hJPwFssyJsvV"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -797,22 +813,6 @@
       "url": "https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Lingua Franca",
-        "url": "https://open.spotify.com/album/5wbHJdvTGYZDKSiGa21kzK"
-      },
-      "artists": [
-        {
-          "name": "T.R.A.M",
-          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
-        }
-      ],
-      "duration_ms": 284186,
-      "name": "Consider Yourself Judged",
-      "url": "https://open.spotify.com/track/3QW4GhqgR5hJPwFssyJsvV"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Revisiting the Film (feat. Morgan \u00c5gren)",
@@ -833,26 +833,6 @@
       "url": "https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/5cmOcVOWS6fJBI9jMirRlL"
-      },
-      "artists": [
-        {
-          "name": "James Brandon Lewis",
-          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
-        },
-        {
-          "name": "The Messthetics",
-          "url": "https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm"
-        }
-      ],
-      "duration_ms": 475818,
-      "name": "Fear Not",
-      "url": "https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Tayakad\u0131n",
@@ -871,6 +851,26 @@
       "duration_ms": 496409,
       "name": "Tayakad\u0131n",
       "url": "https://open.spotify.com/track/1ZevLGcq0eXAPT5ZKrWdXN"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/5cmOcVOWS6fJBI9jMirRlL"
+      },
+      "artists": [
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        },
+        {
+          "name": "The Messthetics",
+          "url": "https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm"
+        }
+      ],
+      "duration_ms": 475818,
+      "name": "Fear Not",
+      "url": "https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS"
     },
     {
       "added_at": "2021-01-27 19:39:49",

@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-1,266 songs - 2 day 0 hr 44 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+1,267 songs - 2 day 0 hr 46 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,7 +805,8 @@
 | [Noir](https://open.spotify.com/track/2RlemaPfhpDSUbt58hBuuj) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Noir](https://open.spotify.com/album/01zOaQQo9j9cK3OnX3JpB5) | 2:08 | 2022-04-08 | 2022-10-14 |
 | [Non](https://open.spotify.com/track/70Fpfvw4EwnTiInSc1U3e0) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Flitzer](https://open.spotify.com/album/7I13wkKorEyQq5WCU7e0Vv) | 2:41 | 2021-12-07 | 2022-06-25 |
 | [Nordic Noir](https://open.spotify.com/track/2WNBXRh0PiCUoFVQNVAPXs) | [Ullis](https://open.spotify.com/artist/3GGTIeWyoM9LCS27Mo2UH2) | [Nordic Noir](https://open.spotify.com/album/5IGLvQzRwTAkKuC8XT5us4) | 2:13 | 2022-09-02 |  |
-| [Northern Station](https://open.spotify.com/track/2IXBvajtSK34AldAr9dBTT) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Northern Station](https://open.spotify.com/album/1Aj8NrLCypDynHdyaUXG45) | 2:05 | 2022-11-25 |  |
+| [Northern Station](https://open.spotify.com/track/0qAZAKTuRPq1XL2Rb4qpK2) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Northern Station](https://open.spotify.com/album/77idEOUkoc47CyeG3jDNb8) | 2:05 | 2022-12-09 |  |
+| [Northern Station](https://open.spotify.com/track/2IXBvajtSK34AldAr9dBTT) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Northern Station](https://open.spotify.com/album/1Aj8NrLCypDynHdyaUXG45) | 2:05 | 2022-11-25 | 2022-12-13 |
 | [Nostalgia](https://open.spotify.com/track/3z1f6CKlnmDlvkaqEksL16) | [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Nostalgia](https://open.spotify.com/album/4LvC2hAHrf1rQpaUVs7Oym) | 2:26 | 2022-07-22 | 2022-11-26 |
 | [Nostalgia Pt\. 1 \- Beat Edit](https://open.spotify.com/track/1SBIGuG5nlZSA0ujKDcx5o) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Nostalgia Pt\. 1 \(Beat Edit\)](https://open.spotify.com/album/0NRAkXnNFFStPxA3Orqdb9) | 2:09 | 2021-12-07 | 2022-09-23 |
 | [Nostalgic Dream](https://open.spotify.com/track/74oDM1NF8gAOUrWCN5w6Ti) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3) | [Nostalgic Dream](https://open.spotify.com/album/4ZCFmhMLbol5mBo2dOJky9) | 1:58 | 2022-09-09 | 2022-12-10 |

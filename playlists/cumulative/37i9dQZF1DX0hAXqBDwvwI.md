@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-598 songs - 1 day 15 hr 33 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
+599 songs - 1 day 15 hr 35 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [reincarnation](https://open.spotify.com/track/4zbGE9791M4dGXKqpsVlpk) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [reincarnation](https://open.spotify.com/album/4HRssLJyLPJhObHwlKoZRR) | 3:27 | 2022-06-24 | 2022-07-21 |
 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8), [coladrain](https://open.spotify.com/artist/4qLXYL3mOJD057YL4puyU4), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 | 2022-06-03 | 2022-07-26 |
 | [REMEMBER](https://open.spotify.com/track/5LpoOEvLsPtK9baecA3Gnp) | [Masto \(coldrain\)](https://open.spotify.com/artist/6lnOwnN8wy4PO5nbkYRQ7D), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 4:03 | 2022-09-15 | 2022-10-19 |
+| [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-12-04 |  |
 | [Replica](https://open.spotify.com/track/2cWXjk50iwkCaEesJUCm8f) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [Replica](https://open.spotify.com/album/1XlrmvRSyeuTXYU74D9t8Y) | 3:31 | 2022-06-03 | 2022-07-29 |
 | [RESISTER](https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 3:47 | 2022-07-28 | 2022-09-16 |
 | [Reverb](https://open.spotify.com/track/1WkwcJ36zgQOuq8oYbtldj) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Reverb \(TVアニメ「インフィニット・デンドログラム」エンディングテーマ\)](https://open.spotify.com/album/71trCoa5X3kpx3CZeC4six) | 4:33 | 2022-06-03 | 2022-07-28 |
@@ -569,7 +570,7 @@
 | [航海の唄](https://open.spotify.com/track/6jZBvlt3xG6gdPh1vFMBhs) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [About a Voyage \(My Hero Academia Ending Theme Song\) \[World Edition\]](https://open.spotify.com/album/6RJpk9d7aZWVij0NnSVYbl) | 4:44 | 2022-06-03 | 2022-06-23 |
 | [色香水](https://open.spotify.com/track/7FpABRyv5TaZz0llkhjPgc) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [色香水](https://open.spotify.com/album/41bkPqLAeTnlUxanW7sNU3) | 4:10 | 2022-06-03 | 2022-10-19 |
 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 | 2022-09-15 | 2022-10-19 |
-| [花の塔](https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [花の塔](https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico) | 4:35 | 2022-10-19 |  |
+| [花の塔](https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [花の塔](https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico) | 4:35 | 2022-10-19 | 2022-12-13 |
 | [花一匁](https://open.spotify.com/track/2dONlcULcXp1AWNLXpz6qH) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [花一匁](https://open.spotify.com/album/3yjUY1Zw3y1tLyEPnpXcCH) | 4:37 | 2022-06-24 | 2022-06-27 |
 | [芽ぐみの雨](https://open.spotify.com/track/4HA1sEBxctHZ2POsElevf4) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [芽ぐみの雨](https://open.spotify.com/album/2JeSedA7zFRa1e6IABKIHk) | 4:41 | 2022-06-03 | 2022-06-21 |
 | [菫](https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:57 | 2022-07-26 | 2022-07-28 |

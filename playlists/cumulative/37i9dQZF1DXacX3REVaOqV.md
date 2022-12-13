@@ -4,7 +4,7 @@
 
 > The best in house music
 
-273 songs - 20 hr 9 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
+274 songs - 20 hr 13 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Back Together \(feat\. Ron Carroll\) \- Copyright Dub Mix](https://open.spotify.com/track/0O150NBPq9Bb0WUBznAlF0) | [Hardsoul](https://open.spotify.com/artist/1pOxKVLc0EXgcOSqyWOlKi), [Ron Carroll](https://open.spotify.com/artist/67c2hYH3U7daGkRyTMd0ks), [Copyright](https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd) | [Back Together \(feat\. Ron Carroll\)](https://open.spotify.com/album/6UAsBOuRtgAy0MMlTPOS7Z) | 7:18 | 2022-04-28 |  |
 | [Back Tomorrow](https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Back Tomorrow](https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI) | 1:58 | 2022-04-14 | 2022-11-19 |
 | [Bambam](https://open.spotify.com/track/4rFDOfzY5KT8t7VA9KFpDm) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Bambam](https://open.spotify.com/album/09ktuU6HmYjCcB2pEUAWfp) | 6:09 | 2022-04-14 | 2022-07-29 |
-| [Bangene](https://open.spotify.com/track/4u913jJW52x8fqJlQBTrig) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Bangene](https://open.spotify.com/album/5nQmadlbC2c58qYqXfzudk) | 2:45 | 2022-07-28 |  |
+| [Bangene](https://open.spotify.com/track/4u913jJW52x8fqJlQBTrig) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Bangene](https://open.spotify.com/album/5nQmadlbC2c58qYqXfzudk) | 2:45 | 2022-07-28 | 2022-12-13 |
 | [Bangene](https://open.spotify.com/track/5zOPtrHceMJO6ydtLPvObb) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Bangene](https://open.spotify.com/album/5RXCW7G28MF7QzvpXxgEmX) | 2:45 | 2022-04-14 | 2022-07-29 |
 | [Be Funky](https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Be Funky](https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3) | 3:27 | 2022-04-14 |  |
 | [Benin](https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS) | [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [Benin](https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK) | 2:58 | 2022-11-10 | 2022-12-08 |
@@ -102,6 +102,7 @@
 | [Hesitate](https://open.spotify.com/track/1HuT5rVMwycqqlQVpoptou) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [Hesitate](https://open.spotify.com/album/1Nu8RR9pgwyhhFYGGdYL7j) | 2:53 | 2022-10-10 | 2022-10-14 |
 | [Hesitate](https://open.spotify.com/track/7kyXS2RXrPg7K6pbHZjJ7i) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Hesitate](https://open.spotify.com/album/0EhaeKTqnZsIiEWP67UGbI) | 2:53 | 2022-10-13 |  |
 | [Higher \(feat\. your friend polly\)](https://open.spotify.com/track/7t6Q4FkHC53gXmLLP8OKNu) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Higher \(feat\. your friend polly\)](https://open.spotify.com/album/0dJWyX1g56b5myZiUDp58o) | 2:24 | 2022-04-20 |  |
+| [Higher Than You](https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Higher Than You](https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz) | 3:12 | 2022-12-08 |  |
 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 | 2022-04-28 |  |
 | [Hold on My Heart \- Zetbee Extended Remix](https://open.spotify.com/track/6xmiqFdYeWrRVwy4yqcqFm) | [Arturo Macchiavelli](https://open.spotify.com/artist/3CvncNwuUuYrEibiDhp7rk), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [Zetbee](https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN) | [Hold On My Heart \(Zetbee Remix\)](https://open.spotify.com/album/7GLSltrywD7qoKjcCY5h0P) | 6:01 | 2022-04-14 | 2022-07-29 |
 | [Hold U \(feat\. James Tone\)](https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [James Tone](https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC) | [Hold U \(feat\. James Tone\)](https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB) | 3:28 | 2022-04-14 |  |

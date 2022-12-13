@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 66466,
+  "num_followers": 66499,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4MTM5MSwwMDAwMDAwMDZkOTY4MmE4NjBlMWRhMzJlMmZiNWZkY2E4NzUxZGJj",
+  "snapshot_id": "MTY2OTM4MTM5MSwwMDAwMDAwMDRiODU2ZTZkMTAxNTBiMGIzMTNjZWEwM2RmNzYzMWM5",
   "tracks": [
     {
       "added_at": "2022-11-25 13:03:11",
@@ -151,38 +151,6 @@
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
-        "name": "Days of Being Wild",
-        "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 50014,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA"
-    },
-    {
-      "added_at": "2022-11-25 13:03:11",
-      "album": {
-        "name": "Nothing We Say - EP",
-        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
-    },
-    {
-      "added_at": "2022-11-25 13:03:11",
-      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -199,6 +167,22 @@
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
+        "name": "Days of Being Wild",
+        "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 50014,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA"
+    },
+    {
+      "added_at": "2022-11-25 13:03:11",
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 203880,
       "name": "Deep Gap",
       "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
+    },
+    {
+      "added_at": "2022-11-25 13:03:11",
+      "album": {
+        "name": "Nothing We Say - EP",
+        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
     },
     {
       "added_at": "2022-11-25 13:03:11",
@@ -259,22 +259,6 @@
       "duration_ms": 316360,
       "name": "Preachin' Blues",
       "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
-    },
-    {
-      "added_at": "2022-11-25 13:03:11",
-      "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Butter and Eggs",
-      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
     },
     {
       "added_at": "2022-11-25 13:03:11",
@@ -359,18 +343,18 @@
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
-        "name": "Black Myself",
-        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
         }
       ],
-      "duration_ms": 201193,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
+      "duration_ms": 204000,
+      "name": "Butter and Eggs",
+      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
     },
     {
       "added_at": "2022-11-25 13:03:11",
@@ -387,6 +371,22 @@
       "duration_ms": 215662,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+    },
+    {
+      "added_at": "2022-11-25 13:03:11",
+      "album": {
+        "name": "Black Myself",
+        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201193,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
     },
     {
       "added_at": "2022-11-25 13:03:11",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
-      },
-      "artists": [
-        {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
-        }
-      ],
-      "duration_ms": 525080,
-      "name": "Ain't Nobody High Raga",
-      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
-    },
-    {
-      "added_at": "2022-11-25 13:03:11",
-      "album": {
         "name": "Complete Studio Recordings",
         "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 208173,
       "name": "Spike Driver Blues",
       "url": "https://open.spotify.com/track/0QcYseQfUmZpjXGoXDT9z4"
+    },
+    {
+      "added_at": "2022-11-25 13:03:11",
+      "album": {
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+      },
+      "artists": [
+        {
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+        }
+      ],
+      "duration_ms": 525080,
+      "name": "Ain't Nobody High Raga",
+      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
     },
     {
       "added_at": "2022-11-25 13:03:11",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
-      },
-      "artists": [
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 367570,
-      "name": "Gone Clear",
-      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
-    },
-    {
-      "added_at": "2022-11-25 13:03:11",
-      "album": {
         "name": "Down in Mississippi",
         "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
       },
@@ -551,50 +535,18 @@
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
       },
       "artists": [
         {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
         }
       ],
-      "duration_ms": 188373,
-      "name": "Let Your Light Shine on Me",
-      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
-    },
-    {
-      "added_at": "2022-11-25 13:03:11",
-      "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
-      },
-      "artists": [
-        {
-          "name": "Will Stratton",
-          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Hemet Pine Singer",
-      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
-    },
-    {
-      "added_at": "2022-11-25 13:03:11",
-      "album": {
-        "name": "In the Morning Twilight",
-        "url": "https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI"
-      },
-      "artists": [
-        {
-          "name": "Steffen Basho-Junghans",
-          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "In the Morning Twilight",
-      "url": "https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea"
+      "duration_ms": 367570,
+      "name": "Gone Clear",
+      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
     },
     {
       "added_at": "2022-11-25 13:03:11",
@@ -615,18 +567,34 @@
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5"
+        "name": "In the Morning Twilight",
+        "url": "https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI"
       },
       "artists": [
         {
-          "name": "Danny Paul Grody",
-          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
+          "name": "Steffen Basho-Junghans",
+          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
         }
       ],
-      "duration_ms": 303946,
-      "name": "Natural West",
-      "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
+      "duration_ms": 384000,
+      "name": "In the Morning Twilight",
+      "url": "https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea"
+    },
+    {
+      "added_at": "2022-11-25 13:03:11",
+      "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Will Stratton",
+          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Hemet Pine Singer",
+      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
     },
     {
       "added_at": "2022-11-25 13:03:11",
@@ -647,50 +615,34 @@
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
       "artists": [
         {
-          "name": "DBH",
-          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
         }
       ],
-      "duration_ms": 154924,
-      "name": "New Anthem",
-      "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
+      "duration_ms": 188373,
+      "name": "Let Your Light Shine on Me",
+      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
     },
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
-        "name": "A Place at the Table (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP"
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5"
       },
       "artists": [
         {
-          "name": "The Civil Wars & T Bone Burnett",
-          "url": "https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME"
+          "name": "Danny Paul Grody",
+          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
         }
       ],
-      "duration_ms": 141066,
-      "name": "Focus (Rosie's Theme)",
-      "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
-    },
-    {
-      "added_at": "2022-11-25 13:03:11",
-      "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+      "duration_ms": 303946,
+      "name": "Natural West",
+      "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
     },
     {
       "added_at": "2022-11-25 13:03:11",
@@ -711,6 +663,54 @@
       "duration_ms": 173688,
       "name": "Alaska Blue",
       "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
+    },
+    {
+      "added_at": "2022-11-25 13:03:11",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
+      },
+      "artists": [
+        {
+          "name": "DBH",
+          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
+        }
+      ],
+      "duration_ms": 154924,
+      "name": "New Anthem",
+      "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
+    },
+    {
+      "added_at": "2022-11-25 13:03:11",
+      "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+    },
+    {
+      "added_at": "2022-11-25 13:03:11",
+      "album": {
+        "name": "A Place at the Table (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars & T Bone Burnett",
+          "url": "https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Focus (Rosie's Theme)",
+      "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
     },
     {
       "added_at": "2022-11-25 13:03:11",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-11-25 13:03:11",
       "album": {
+        "name": "Blowin' The Fuses",
+        "url": "https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE"
+    },
+    {
+      "added_at": "2022-11-25 13:03:11",
+      "album": {
         "name": "Imaginational Anthem",
         "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 213961,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML"
-    },
-    {
-      "added_at": "2022-11-25 13:03:11",
-      "album": {
-        "name": "Blowin' The Fuses",
-        "url": "https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE"
     }
   ],
   "unique_name": "Backporch Blues",

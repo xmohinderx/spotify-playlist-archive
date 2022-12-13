@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > Top Christian & Gospel is proud to support St\. Jude Children’s Research Hospital this holiday season!  Learn more at MusicGives.Org \#ThisShirtSavesLives  Cover:  Steven Curtis Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,489,183 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,489,289 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

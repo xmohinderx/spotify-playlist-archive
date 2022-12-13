@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Dani Torres en portada.",
-  "num_followers": 55175,
+  "num_followers": 55178,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ0MzA1NiwwMDAwMDAwMDU1MWViODA2YzJhOWI1MTA2YjQwYzhiMTgxZDExOGMx",
+  "snapshot_id": "MTY3MDQ0MzA1NiwwMDAwMDAwMDRmNmJjZDk2Nzg0NDIxMGVhODgwMjE5ZTU0MzUxY2Q5",
   "tracks": [
     {
       "added_at": "2022-11-25 02:28:29",
@@ -283,18 +283,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Las de Octubre",
-        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
+        "name": "Pa' Eso Se Hizo",
+        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
         }
       ],
-      "duration_ms": 165408,
-      "name": "Las de Octubre",
-      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
+      "duration_ms": 149600,
+      "name": "Pa' Eso Se Hizo",
+      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -347,22 +351,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Pa' Eso Se Hizo",
-        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+        "name": "Las de Octubre",
+        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 149600,
-      "name": "Pa' Eso Se Hizo",
-      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+      "duration_ms": 165408,
+      "name": "Las de Octubre",
+      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -475,6 +475,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Gitana Kamp, Vol. I",
         "url": "https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2"
       },
@@ -515,42 +535,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "ICE BLUE",
         "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Pereza",
-        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
       },
       "artists": [
         {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
         }
       ],
-      "duration_ms": 189986,
-      "name": "Pereza",
-      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -603,6 +587,26 @@
       "duration_ms": 183956,
       "name": "Dm",
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -631,22 +635,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+        "name": "Pereza",
+        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
         }
       ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+      "duration_ms": 189986,
+      "name": "Pereza",
+      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Loco Demente",
+        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Loco Demente",
+      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 201496,
       "name": "Mal Acompa\u00f1ada",
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Loco Demente",
-        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
-      },
-      "artists": [
-        {
-          "name": "E-Lhoy",
-          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Loco Demente",
-      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Tu Foto",
-        "url": "https://open.spotify.com/album/7rkNePNqJG53hXl4GzO320"
+        "name": "Termin\u00e9 Contigo",
+        "url": "https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9"
       },
       "artists": [
         {
-          "name": "Daishan",
-          "url": "https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE"
+          "name": "Lamentablemente Flow",
+          "url": "https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Tu Foto",
-      "url": "https://open.spotify.com/track/2QUf55I8VHFfi5jOnRf1Mf"
+      "duration_ms": 174629,
+      "name": "Termin\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo"
     }
   ],
   "unique_name": "Urbano Fresh",

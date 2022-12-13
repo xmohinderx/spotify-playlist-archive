@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-495 songs - 1 day 4 hr 10 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+496 songs - 1 day 4 hr 13 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Control](https://open.spotify.com/track/7yS8NOPrjvSelAd9xuRwxm) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Control](https://open.spotify.com/album/799MtiaLaTx19lk7NQCPhK) | 3:06 | 2021-05-01 | 2022-07-23 |
 | [Control](https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Control](https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG) | 3:15 | 2021-05-01 | 2022-04-14 |
 | [Crash My Car](https://open.spotify.com/track/0X5mtNbqxbiTYkwj0CQc2f) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td) | 3:08 | 2022-04-13 | 2022-12-01 |
+| [Crash My Car](https://open.spotify.com/track/5SN3mwuodiwY3jPejBuUD5) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB) | 3:08 | 2022-11-07 |  |
 | [Crawling Home When the Morning Comes](https://open.spotify.com/track/3IxyQP9V0vE7Z7LCkLz7n9) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Crawling Home When the Morning Comes](https://open.spotify.com/album/4XEgFZJ17LOZJMOdlxB8QL) | 2:25 | 2021-05-01 | 2022-03-19 |
 | [Cuff Your Jeans](https://open.spotify.com/track/71ygECRAwecbpqK5MYlpVq) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 2:55 | 2021-05-01 | 2022-07-29 |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-06-01 | 2022-07-29 |
@@ -233,7 +234,7 @@
 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 | 2022-10-14 |  |
 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 | 2022-04-13 |  |
 | [In the Meantime](https://open.spotify.com/track/7Mrb9CEAmEtPUaet43XZCw) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [In the Meantime](https://open.spotify.com/album/5v70tpqXr8diSOsABLEJAq) | 3:46 | 2021-05-01 | 2022-04-14 |
-| [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 | 2022-07-22 |  |
+| [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 | 2022-07-22 | 2022-12-13 |
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/53FpLc8sSUmGGb0OY6cZKG) | 2:45 | 2022-09-16 | 2022-09-26 |
 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 | 2021-05-01 | 2022-07-29 |
 | [its alright :\)](https://open.spotify.com/track/0ITjrJTxJWUVqthwUIOKPZ) | [Kevin Walkman](https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4) | [its alright :\)](https://open.spotify.com/album/4x8tDeytfMzIVZMrDwlF0Y) | 3:22 | 2021-09-03 | 2022-11-13 |

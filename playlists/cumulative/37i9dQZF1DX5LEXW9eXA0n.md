@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Lim Young Woong\(임영웅\)\) \(당신의 감성에 발라드, 려요\)
 
-605 songs - 1 day 15 hr 17 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+607 songs - 1 day 15 hr 25 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Some days](https://open.spotify.com/track/6slhQbJyE06M4zcswqaLB9) | [Kim Chan Ho](https://open.spotify.com/artist/2iL5pnX0kNkBHvRUoEuj0l) | [Some days](https://open.spotify.com/album/3aOkWcnuxgdrNPp218EPu3) | 4:09 | 2022-07-07 | 2022-08-19 |
 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/6oR7m22sIO1t7o8h7bnwNW) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 | 2021-12-20 | 2022-07-08 |
 | [Somehow](https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF) | [란\(RAN\)](https://open.spotify.com/artist/5JCsBzT5iTN0rGLMLfb2EF) | [The Crush Of Spring OST Part.11](https://open.spotify.com/album/23J6KpkSpALFrMGcXd2VZw) | 3:45 | 2022-07-07 | 2022-09-06 |
+| [SOMETHING LIKE THAT \(2022\)](https://open.spotify.com/track/4it25gP6QbbMBMNEeRXffp) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [SOMETHING LIKE THAT \(2022\)](https://open.spotify.com/album/21qp6zQffu78ZujaxYbjCf) | 4:30 | 2022-12-12 |  |
 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-03-21 | 2022-06-10 |
 | [Something's Wrong](https://open.spotify.com/track/3ctGT9T08w6VnpND1zhPTW) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Something's Wrong](https://open.spotify.com/album/5TbAZIZKLCNNM0F7rXWqb1) | 4:03 | 2021-12-20 | 2022-07-08 |
 | [Sometimes](https://open.spotify.com/track/0Y2G7FeR7MfoardosBAK1T) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Sometimes](https://open.spotify.com/album/58qJQNgo02YxFtB83AdLev) | 3:33 | 2022-03-29 | 2022-04-10 |
@@ -524,6 +525,7 @@
 | [To You My Light \(2022\)](https://open.spotify.com/track/6RbocDE51e5OkEFIagJmQs) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [To You My Light](https://open.spotify.com/album/5YKiY8AKXdRP5vgTqEWccv) | 4:18 | 2022-03-09 | 2022-06-23 |
 | [Today Too](https://open.spotify.com/track/4CBHh5h0GVoaRv3DZ9EfEX) | [Hozee](https://open.spotify.com/artist/0UuQPB2dNkEpProkJuixZo), [찬미](https://open.spotify.com/artist/3jXFw3vlxPi5xBPiYze1ac) | [Today Too](https://open.spotify.com/album/12qXRPrAJkcV8Ysw8slGpr) | 4:36 | 2022-07-07 | 2022-08-13 |
 | [Tonight](https://open.spotify.com/track/5zRPAxbJo5IXIHFTOETcJL) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Tipping Point Pt.1](https://open.spotify.com/album/1S5zQMBBDIklg0QR97Zq9I) | 4:15 | 2022-10-06 |  |
+| [Trace](https://open.spotify.com/track/6qcNxQOnG0XIJTBJ4dj20S) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Afterglow](https://open.spotify.com/album/739E4HVYrFVObgK0IFJYkA) | 3:51 | 2022-12-12 |  |
 | [Traces of You](https://open.spotify.com/track/0K9vliPUbih2E6YCLDobCu) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [The Law Cafe \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/1FuORImSSQuDDj7A1rTxSz) | 3:49 | 2022-10-07 |  |
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb) | 3:41 | 2022-01-03 | 2022-02-28 |
 | [TRUST YOUR PACE](https://open.spotify.com/track/1aXBRHkH3zQiTKXAwpuikj) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Him\-na song Label Project 01 \- TRUST YOUR PACE](https://open.spotify.com/album/1vuxWdAD9Vpych9Kh1e4fS) | 1:41 | 2022-03-24 | 2022-04-21 |

@@ -2,7 +2,7 @@
 
 ### [Teen Spirit](https://open.spotify.com/playlist/37i9dQZF1DX5drguwUcl5X)
 
-> Estas canciones te pondrán en el mejor mood ever\. Foto: JVKE
+> Estas canciones te pondrán en el mejor mood ever\. Foto: Lady Gaga
 
 169 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/76xYzwe3LjcbRjLOfIaNXp)
 

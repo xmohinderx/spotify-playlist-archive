@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-260 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/5HXLTrGkLfaN5i0vPRiA78)
+261 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/5HXLTrGkLfaN5i0vPRiA78)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [2](https://open.spotify.com/track/2YyNFk4HBKXrqgsvPDNJtO) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:08 | 2022-09-08 |  |
 | [A Sweeter Place \(feat\. Kid Cudi\)](https://open.spotify.com/track/4bb94wZVF1cX66vQjNeJTX) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 4:23 | 2022-09-08 |  |
 | [Ain't My Fault](https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:44 | 2022-09-08 |  |
-| [All I See](https://open.spotify.com/track/3Vr1FxMHtBLnQASeLl8YmG) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [All I See](https://open.spotify.com/album/6Gq6aqjCfW3PZ9FbFl38df) | 3:26 | 2022-09-08 |  |
+| [All I See](https://open.spotify.com/track/1tCfqeTez4pT9PdqFmPUXb) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [All I See](https://open.spotify.com/album/0uEXu7qPTsOntx8KFagWFE) | 3:26 | 2022-12-12 |  |
+| [All I See](https://open.spotify.com/track/3Vr1FxMHtBLnQASeLl8YmG) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [All I See](https://open.spotify.com/album/6Gq6aqjCfW3PZ9FbFl38df) | 3:26 | 2022-09-08 | 2022-12-13 |
 | [All In](https://open.spotify.com/track/6ud5FYBgnM8II9iOk5P8r5) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [All In](https://open.spotify.com/album/3uXj3tSSEZQCX3xuoUu3UF) | 3:20 | 2022-09-08 |  |
 | [Always \(feat\. Alana\) \- Route 94 Radio Edit](https://open.spotify.com/track/7CR3K77OWWfklWYkHtcxQt) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Alana](https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u) | [Always \[feat\. Alana\] \(Route 94 Radio Edit\)](https://open.spotify.com/album/45ZxKD3AbXO2AgemEjaWld) | 3:01 | 2022-09-08 |  |
 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 | 2022-09-08 |  |

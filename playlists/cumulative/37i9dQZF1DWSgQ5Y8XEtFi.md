@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-194 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
+195 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All Alone](https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [All Alone](https://open.spotify.com/album/41kOXEHM7PivRjZj4WX2Dl) | 2:54 | 2022-03-29 |  |
 | [ALL KILLER NO FILLER](https://open.spotify.com/track/6nfnDSD5Wa9LAD8jeN5tix) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [TOXIC BOOGALOO](https://open.spotify.com/album/2EadUtQ3hpx3Xt0HKAfOF9) | 1:41 | 2022-04-20 | 2022-07-29 |
 | [All This Money](https://open.spotify.com/track/6zEPJJzojnfOrvfyuJiPtF) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Floss](https://open.spotify.com/album/67sUOjUevVJGgfCj1N2e4N) | 3:17 | 2022-06-24 | 2022-07-14 |
-| [Art of War \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Art of War \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS) | 3:06 | 2022-03-29 |  |
+| [Art of War \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Art of War \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS) | 3:06 | 2022-03-29 | 2022-12-13 |
 | [BABY CUPID](https://open.spotify.com/track/0ByC3vzSHd9n9P6imFPNZE) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [BABY CUPID](https://open.spotify.com/album/1YgDoiOb4WqFMEZHm9UgCZ) | 2:06 | 2022-05-20 | 2022-06-30 |
 | [BACKROOM](https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:35 | 2022-10-07 |  |
 | [BACKROOM](https://open.spotify.com/track/6pEk4bPOrJb77cH8noJLaR) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:35 | 2022-04-20 | 2022-10-23 |
@@ -142,6 +142,7 @@
 | [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 | 2022-03-29 | 2022-04-21 |
 | [Norf Norf](https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 3:03 | 2022-03-29 |  |
 | [OPTICAL RANGE](https://open.spotify.com/track/0H00Yx4Ih4L3m2tOgEQNtO) | [Mista Playa](https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i) | [OPTICAL RANGE](https://open.spotify.com/album/1A1UxGFrZqpXEOKz1mbu24) | 1:56 | 2022-05-02 | 2022-05-27 |
+| [PAIN!](https://open.spotify.com/track/3pqXhSXgasqhTf865mbpYi) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [PAIN!](https://open.spotify.com/album/7lxeegF1y69PXsUXWiLVvf) | 1:38 | 2022-12-02 |  |
 | [Parade](https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7) | 2:03 | 2022-05-06 | 2022-07-28 |
 | [Pipe Down](https://open.spotify.com/track/0YhKoHiIU97nKXKz04WIKc) | [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Essentials](https://open.spotify.com/album/6T1lITB6vPXpU2Wp3q7k4l) | 2:09 | 2022-06-17 | 2022-06-20 |
 | [POLTERGEIST!](https://open.spotify.com/track/041sluNZwBxTCOuu766eNi) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [POLTERGEIST!](https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp) | 1:41 | 2022-04-08 | 2022-05-19 |

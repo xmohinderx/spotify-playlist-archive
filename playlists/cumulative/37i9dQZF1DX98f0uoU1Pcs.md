@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-361 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+362 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [can we combine](https://open.spotify.com/track/7L9WzCKxuaZEGXqN6eRjQV) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [can we combine](https://open.spotify.com/album/6axyJYIF2IlAzRykjnp980) | 2:34 | 2021-10-07 | 2022-04-29 |
 | [Can't Blame Me](https://open.spotify.com/track/3jd4G5UwEHzxYPbgva0fCN) | [TOUTS](https://open.spotify.com/artist/778lQqI29eUT3DyF1AYtLS) | [Can't Blame Me](https://open.spotify.com/album/6cA6Fj5bZoQyhgCUY1wVwm) | 2:38 | 2021-10-07 | 2022-04-29 |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-01-07 | 2022-06-11 |
+| [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 3:36 | 2022-12-12 |  |
 | [Chaos Space Marine](https://open.spotify.com/track/2coyjAa1vtdDjjj9OFYaEY) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Bread Song](https://open.spotify.com/album/3iiJLvaV4MaU3xH5hophL1) | 3:36 | 2021-12-03 | 2022-01-26 |
 | [Charlie Bronson](https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Charlie Bronson](https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN) | 3:24 | 2022-08-16 | 2022-10-08 |
 | [Cherry Blue Intention](https://open.spotify.com/track/2oSpsk4KFihbnnqTKgLaLL) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Cherry Blue Intention](https://open.spotify.com/album/3acrSXMN6gWsupnlpsbOA7) | 3:23 | 2022-11-04 |  |

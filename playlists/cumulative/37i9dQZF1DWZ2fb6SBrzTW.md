@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-185 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
+186 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-09-09 | 2022-10-25 |
 | [GIMME DAT](https://open.spotify.com/track/0kQ6Tfr6cusaFTrFRM2sGU) | [Slizzy E](https://open.spotify.com/artist/1IGMSxmw8cDdp1tTOmABLA), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [GIMME DAT](https://open.spotify.com/album/6pp3as7e8WOdjYCxLPgIyd) | 2:50 | 2022-07-22 | 2022-07-26 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 |  |
+| [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-15 |  |
 | [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 |  |
 | [Hard](https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Hard](https://open.spotify.com/album/7JmZvsK13hg7x6WBwJG6WE) | 3:15 | 2022-10-07 | 2022-12-03 |
 | [Hasta Luego](https://open.spotify.com/track/07a8iJ1nKPQYVAYWbTBAMu) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [BuMan](https://open.spotify.com/artist/3Y72vFwgOXdJCiJfGD5rSn), [Boye 'The Genius'](https://open.spotify.com/artist/1gnXGsyZpqJahesflvZkfy) | [Hasta Luego](https://open.spotify.com/album/0EAAPEajgMXR0LpK9k3jeu) | 2:44 | 2022-06-03 | 2022-07-26 |
@@ -136,7 +137,7 @@
 | [Otilo \(Izz Gone\)](https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Otilo \(Izz Gone\)](https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5) | 2:42 | 2022-09-30 |  |
 | [palazzo](https://open.spotify.com/track/3FZL5wn7jwqbQbCwyuqsuu) | [Rodi0](https://open.spotify.com/artist/3oo0pZAB5OrgM3Fh3tIFo5) | [palazzo](https://open.spotify.com/album/36cDnYodbE7wMVKnwNoSOB) | 3:06 | 2022-05-12 | 2022-09-28 |
 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-05-12 |  |
-| [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-12 |  |
+| [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-12 | 2022-12-13 |
 | [Party](https://open.spotify.com/track/0RdO7NC6LgugflNKRmNeAn) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Party](https://open.spotify.com/album/2nUeJg5EVfIFZBqZkGYjhB) | 2:25 | 2022-06-30 | 2022-08-22 |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 |  |
 | [Pause](https://open.spotify.com/track/7qL5oEcwbPl9PNIFZSNLeP) | [Dj Consequence](https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Pause](https://open.spotify.com/album/0sa6xFYCA07CmjYS1Tf5jS) | 3:14 | 2022-05-26 | 2022-07-29 |

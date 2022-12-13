@@ -4,7 +4,7 @@
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-112 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/1NRRCoL4dsZRszrXPBTXqP)
+113 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/1NRRCoL4dsZRszrXPBTXqP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Geld essen \(Ausgestopfte Rapper\)](https://open.spotify.com/track/3XF0cYK2BONGGrPEYpE17B) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 4:20 | 2022-03-17 | 2022-07-15 |
 | [Grüne Brille](https://open.spotify.com/track/3TGXkgak9QCwa631dSKwT7) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:50 | 2022-06-13 | 2022-07-06 |
 | [Gustav Gans](https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Blast Action Heroes](https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo) | 3:32 | 2022-06-13 | 2022-07-04 |
-| [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 | 2022-03-17 |  |
+| [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 | 2022-03-17 | 2022-12-13 |
 | [Hey Du!](https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 4:10 | 2022-03-17 | 2022-07-29 |
 | [Hey Du!](https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Aggro Berlin](https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr) | 4:10 | 2022-09-21 |  |
 | [Hinterland](https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 3:55 | 2022-07-21 |  |
@@ -102,6 +102,7 @@
 | [Schlechtes Vorbild](https://open.spotify.com/track/0LmfeuPjr6wdmh7jeXgKaI) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich](https://open.spotify.com/album/14acvqwaF50AVraoMsY6bB) | 3:24 | 2022-03-17 | 2022-07-29 |
 | [Schlechtes Vorbild](https://open.spotify.com/track/2L2NmbpVp1dHotlpVJ4zr8) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich \(Premium Edition\)](https://open.spotify.com/album/1pq1kLABw0A1UCLmfhYfZr) | 3:24 | 2022-07-21 |  |
 | [Schwarz zu blau](https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 3:35 | 2022-03-17 |  |
+| [Schwule Mädchen](https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905) | 3:25 | 2022-11-21 |  |
 | [Schwule Mädchen](https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1) | 3:25 | 2022-03-17 | 2022-11-20 |
 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 | 2022-03-17 |  |
 | [So wie du bist](https://open.spotify.com/track/12SH8NE1e17yItgsb2gitp) | [MoTrip](https://open.spotify.com/artist/69u5rPwWBKP7pJHpCGB9O5), [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [Mama](https://open.spotify.com/album/7trUmg86DFfcs1uRRiv8GY) | 4:28 | 2022-03-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: The Alchemist
 
-359 songs - 19 hr 47 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
+360 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [After Hours](https://open.spotify.com/track/7Jzak2thCz43eLysQML3Xl) | [Young Roddy](https://open.spotify.com/artist/7lVTwgQZCYQt20tvcPl6D4), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [After Hours](https://open.spotify.com/album/2xdsksBP1s8oSPO9IbFori) | 4:19 | 2021-09-24 | 2022-03-26 |
 | [Ain't Reason](https://open.spotify.com/track/2HCKM5YBNx2D6HX4JHTyTx) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Ain't Reason](https://open.spotify.com/album/3s8ytk8umWShDh35KkDTev) | 2:26 | 2022-10-14 |  |
 | [Ain't Talking Bout Much](https://open.spotify.com/track/5GFbdE94mXEPrpQpsLPiNF) | [Patrick Paige II](https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [If I Fail Are We Still Cool?](https://open.spotify.com/album/0MUTPeBvOXAPuJDzNE1Yum) | 1:45 | 2021-05-21 | 2022-04-16 |
-| [All Falls Down](https://open.spotify.com/track/2UapiJncDxSEkY1tkzZTd3) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [The Butterfly Effect](https://open.spotify.com/album/0R20agY249INealjoIvVZK) | 4:11 | 2022-12-02 |  |
+| [All Falls Down](https://open.spotify.com/track/2UapiJncDxSEkY1tkzZTd3) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [The Butterfly Effect](https://open.spotify.com/album/0R20agY249INealjoIvVZK) | 4:11 | 2022-12-02 | 2022-12-13 |
+| [All Falls Down](https://open.spotify.com/track/4KHozmLnuDoTbjPuVWPWEU) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [The Butterfly Effect](https://open.spotify.com/album/2hdwem2NSHtbU7OaqT7HqJ) | 4:11 | 2022-12-09 |  |
 | [Alone Time](https://open.spotify.com/track/0knsgVVnCGgbzvk43iv6j9) | [Bobby Sessions](https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL) | [Alone Time](https://open.spotify.com/album/5SnE856iGPiQp0WIwQvugl) | 3:13 | 2022-09-09 | 2022-10-08 |
 | [Alto \(feat\. Devin the Dude & Rae Khalil\)](https://open.spotify.com/track/3oqPlAAVT9JM9oF1TVfQzD) | [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Alto \(feat\. Devin the Dude & Rae Khalil\)](https://open.spotify.com/album/6DDBwQgYpiC1VWCf5NIfvy) | 3:26 | 2021-08-13 | 2022-05-14 |
 | [AMERICAN HORROR STORY](https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [AMERICAN HORROR STORY](https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR) | 5:09 | 2021-12-10 | 2022-07-29 |

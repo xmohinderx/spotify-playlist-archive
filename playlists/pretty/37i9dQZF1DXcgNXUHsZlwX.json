@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 103500,
+  "num_followers": 103530,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxMjA4NywwMDAwMDAwMDQwM2NiOTVmZGIxZTg1NjE3MjE1MmM1YmI5MDc2N2Ez",
+  "snapshot_id": "MTY2OTkxMjA4NywwMDAwMDAwMDVjZDcwZWY5YzEyY2EwYzRiNGIyYjZkMzQxZGUyZDNm",
   "tracks": [
     {
       "added_at": "2022-12-01 16:28:07",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
+        "name": "Close to Paradise",
+        "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
         "name": "INSCAPE",
         "url": "https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 213000,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "Close to Paradise",
-        "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "The Great Escape",
-      "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "For the Breakdowns",
-        "url": "https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2"
-      },
-      "artists": [
-        {
-          "name": "afternoon bike ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
-        }
-      ],
-      "duration_ms": 184451,
-      "name": "For The Breakdowns",
-      "url": "https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 138026,
       "name": "Rosier-douleur",
       "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "For the Breakdowns",
+        "url": "https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2"
+      },
+      "artists": [
+        {
+          "name": "afternoon bike ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "duration_ms": 184451,
+      "name": "For The Breakdowns",
+      "url": "https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Nameless",
-        "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 221824,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
+      "duration_ms": 233133,
+      "name": "Nous apr\u00e8s nous",
+      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+        "name": "Nameless",
+        "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 233133,
-      "name": "Nous apr\u00e8s nous",
-      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
+      "duration_ms": 221824,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Carry Me (Acoustic)",
-        "url": "https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 199794,
-      "name": "Carry Me (Acoustic)",
-      "url": "https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
         "name": "C'est tout, c'est rien",
         "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
+        "name": "Carry Me (Acoustic)",
+        "url": "https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 199794,
+      "name": "Carry Me (Acoustic)",
+      "url": "https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
         "name": "Petite plage",
         "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 158480,
       "name": "Les \u00e9pousailles",
       "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "La mort des \u00e9toiles",
+      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "La mort des \u00e9toiles",
-      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
         "name": "Pers\u00e9ides",
         "url": "https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 175746,
       "name": "Lost River",
       "url": "https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -595,6 +611,22 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
         "name": "This Time I See It",
         "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
       },
@@ -611,18 +643,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 141509,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+      "duration_ms": 215506,
+      "name": "Antigone",
+      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -655,38 +687,6 @@
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
-      },
-      "artists": [
-        {
-          "name": "Aliocha",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Antigone",
-      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
       "artists": [
         {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "1000 Times",
-        "url": "https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s"
-      },
-      "artists": [
-        {
-          "name": "Met\u00f2",
-          "url": "https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2"
-        }
-      ],
-      "duration_ms": 237561,
-      "name": "1000 Times",
-      "url": "https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
         "name": "Notre-Dame-des-Sept-Douleurs",
         "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
@@ -851,34 +835,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+        "name": "1000 Times",
+        "url": "https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s"
       },
       "artists": [
         {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+          "name": "Met\u00f2",
+          "url": "https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2"
         }
       ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "La vraie nature - Chansons par Pilou",
-        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
-      },
-      "artists": [
-        {
-          "name": "Pilou",
-          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Passagers",
-      "url": "https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J"
+      "duration_ms": 237561,
+      "name": "1000 Times",
+      "url": "https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -915,6 +883,38 @@
       "duration_ms": 227446,
       "name": "Le triomphe d'une perruche",
       "url": "https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "La vraie nature - Chansons par Pilou",
+        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
+      },
+      "artists": [
+        {
+          "name": "Pilou",
+          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "Passagers",
+      "url": "https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -967,34 +967,22 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "No Water, No Flowers",
-        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
-      },
-      "artists": [
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
         {
-          "name": "Genevi\u00e8ve Racette",
-          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 195235,
-      "name": "Sans Toi",
-      "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
+      "duration_ms": 257838,
+      "name": "Pleure pas pour moi",
+      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1015,6 +1003,54 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
+        "name": "The Paradise Club",
+        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "1000 Bornes",
+      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "No Water, No Flowers",
+        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "duration_ms": 195235,
+      "name": "Sans Toi",
+      "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
         "name": "New Waves (Live Recordings \u201919-\u201921)",
         "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
       },
@@ -1031,18 +1067,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "The Paradise Club",
-        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
       },
       "artists": [
         {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
         }
       ],
-      "duration_ms": 184680,
-      "name": "1000 Bornes",
-      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
+      "duration_ms": 224520,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1063,22 +1099,6 @@
       "duration_ms": 223733,
       "name": "Post Mortem",
       "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1115,22 +1135,6 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "There Will Be Stars",
-        "url": "https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 318880,
-      "name": "Moi, Elsie",
-      "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
         "name": "M\u00e8res",
         "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
       },
@@ -1143,6 +1147,22 @@
       "duration_ms": 273933,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "There Will Be Stars",
+        "url": "https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 318880,
+      "name": "Moi, Elsie",
+      "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1179,58 +1199,6 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "SITKA",
-        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9anne A. Malette",
-          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 257838,
-      "name": "Pleure pas pour moi",
-      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1251,6 +1219,22 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
+        "name": "SITKA",
+        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9anne A. Malette",
+          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
         "name": "Mille ouvrages mon coeur",
         "url": "https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr"
       },
@@ -1267,50 +1251,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "La hi\u00e9rarchill",
-        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 217560,
-      "name": "1, 2, 3, 4",
-      "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
-      },
-      "artists": [
-        {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
-        }
-      ],
-      "duration_ms": 299560,
-      "name": "Qtv",
-      "url": "https://open.spotify.com/track/0j8nyLW1JwaDtvO6sOobbO"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
-      },
-      "artists": [
-        {
-          "name": "Milk & Bone",
-          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
-        }
-      ],
-      "duration_ms": 208698,
-      "name": "On br\u00fblera - Spotify Singles",
-      "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1331,50 +1283,34 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Le bois",
-        "url": "https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
       },
       "artists": [
         {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
         }
       ],
-      "duration_ms": 179833,
-      "name": "Le bois",
-      "url": "https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP"
+      "duration_ms": 208698,
+      "name": "On br\u00fblera - Spotify Singles",
+      "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
     },
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+        "name": "La hi\u00e9rarchill",
+        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
         }
       ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "(les) m\u00e9andres de la soif",
-        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
-      },
-      "artists": [
-        {
-          "name": "Barrdo",
-          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
-        }
-      ],
-      "duration_ms": 153789,
-      "name": "4900$",
-      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
+      "duration_ms": 217560,
+      "name": "1, 2, 3, 4",
+      "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1395,18 +1331,50 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
       "artists": [
         {
-          "name": "Jeffrey Piton",
-          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Californie",
-      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "duration_ms": 299560,
+      "name": "Qtv",
+      "url": "https://open.spotify.com/track/0j8nyLW1JwaDtvO6sOobbO"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "(les) m\u00e9andres de la soif",
+        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
+      },
+      "artists": [
+        {
+          "name": "Barrdo",
+          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
+        }
+      ],
+      "duration_ms": 153789,
+      "name": "4900$",
+      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1427,18 +1395,34 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
       },
       "artists": [
         {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+          "name": "Jeffrey Piton",
+          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
         }
       ],
-      "duration_ms": 200005,
-      "name": "Le Tour",
-      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
+      "duration_ms": 205386,
+      "name": "Californie",
+      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "Le bois",
+        "url": "https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 179833,
+      "name": "Le bois",
+      "url": "https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "The Drudge",
-        "url": "https://open.spotify.com/album/5gLnMoG5rH3f83ZtnillpH"
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
       },
       "artists": [
         {
-          "name": "Hanorah",
-          "url": "https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo"
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
         }
       ],
-      "duration_ms": 185889,
-      "name": "The Drudge",
-      "url": "https://open.spotify.com/track/1FDZsIBVAYiNe56EwH8IWC"
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
         "name": "Pourchasser l'aube",
         "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 214720,
       "name": "Mille et un",
       "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "Chicout",
+        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
+      },
+      "artists": [
+        {
+          "name": "Chassepareil",
+          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
+        }
+      ],
+      "duration_ms": 220607,
+      "name": "Feu de for\u00eat",
+      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
         "name": "Espoir",
         "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 210177,
       "name": "Espoir",
       "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
-    },
-    {
-      "added_at": "2022-12-01 16:28:07",
-      "album": {
-        "name": "Chicout",
-        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
-      },
-      "artists": [
-        {
-          "name": "Chassepareil",
-          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
-        }
-      ],
-      "duration_ms": 220607,
-      "name": "Feu de for\u00eat",
-      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "La cascade",
-        "url": "https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo"
+        "name": "The Drudge",
+        "url": "https://open.spotify.com/album/5gLnMoG5rH3f83ZtnillpH"
       },
       "artists": [
         {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+          "name": "Hanorah",
+          "url": "https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo"
         }
       ],
-      "duration_ms": 189000,
-      "name": "La cascade",
-      "url": "https://open.spotify.com/track/2E9Tg1mtfo0JIOnca3JWm6"
+      "duration_ms": 185889,
+      "name": "The Drudge",
+      "url": "https://open.spotify.com/track/1FDZsIBVAYiNe56EwH8IWC"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2022-12-01 16:28:07",
       "album": {
-        "name": "Tatouage",
-        "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
+        "name": "La cascade",
+        "url": "https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
         }
       ],
-      "duration_ms": 179950,
-      "name": "Tatouage",
-      "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
+      "duration_ms": 189000,
+      "name": "La cascade",
+      "url": "https://open.spotify.com/track/2E9Tg1mtfo0JIOnca3JWm6"
     },
     {
       "added_at": "2022-12-01 16:28:07",
@@ -1655,6 +1639,22 @@
       "duration_ms": 171546,
       "name": "Qui a mis le feu",
       "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
+    },
+    {
+      "added_at": "2022-12-01 16:28:07",
+      "album": {
+        "name": "Au\u200b-\u200bdel\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
+        "url": "https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH"
+      },
+      "artists": [
+        {
+          "name": "Amylie",
+          "url": "https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5"
+        }
+      ],
+      "duration_ms": 247513,
+      "name": "Au\u200b-\u200bdel\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
+      "url": "https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

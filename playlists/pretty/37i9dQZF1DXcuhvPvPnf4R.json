@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 1702,
+  "num_followers": 1729,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMGRhYjVhNWRhM2UwZjM0OWRjYjg0MzQyZjMxZDAxNWU2",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDgwOTlkMzBkZWRmNzE0MjU4OGY5NzVhZDBiMTU3ZDNi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 282373,
       "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
       "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Junior M.A.F.I.A.",
-          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
-        }
-      ],
-      "duration_ms": 274440,
-      "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Gangsta (Remix)",
         "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 216000,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+        }
+      ],
+      "duration_ms": 274440,
+      "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Jimmy Cozier",
-        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
-      },
-      "artists": [
-        {
-          "name": "J. Cozier",
-          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "She's All I Got - Radio Edit",
-      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Ravers Gas - Single",
-        "url": "https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO"
+        "name": "Jimmy Cozier",
+        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
       },
       "artists": [
         {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+          "name": "J. Cozier",
+          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
         }
       ],
-      "duration_ms": 190746,
-      "name": "Ravers Gas",
-      "url": "https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP"
+      "duration_ms": 211133,
+      "name": "She's All I Got - Radio Edit",
+      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -747,6 +731,22 @@
       "duration_ms": 212200,
       "name": "Tables Will Turn",
       "url": "https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Ravers Gas - Single",
+        "url": "https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Ravers Gas",
+      "url": "https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP"
     },
     {
       "added_at": "2022-10-01 16:43:03",

@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Mon Laferte en portada. ",
-  "num_followers": 10193,
+  "num_followers": 10401,
   "original_name": "Lo mejor de EQUAL Chile 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGE1YWQyZjUxZmY1ZjJkODZmYmViMjA3ODQ2ODZlMzU4",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGI4MGUyYzJlZjNiMGJkZDc3NmQ2NjI2YmNmZGJmNmNj",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Beautiful Sadness",
+      "url": "https://open.spotify.com/track/3gCU77vVGjA80B6cxXexWA"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -187,18 +203,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Beautiful Sadness",
-      "url": "https://open.spotify.com/track/3gCU77vVGjA80B6cxXexWA"
+      "duration_ms": 172950,
+      "name": "B\u00e1ilalo Mujer",
+      "url": "https://open.spotify.com/track/7y2HbN0w7eoRU5sw97VKpi"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -235,38 +255,18 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X"
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
       },
       "artists": [
         {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
         }
       ],
-      "duration_ms": 172950,
-      "name": "B\u00e1ilalo Mujer",
-      "url": "https://open.spotify.com/track/7y2HbN0w7eoRU5sw97VKpi"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/4ygfd1lPGeyflD5NtWR8AT"
-      },
-      "artists": [
-        {
-          "name": "Amara Ignacia",
-          "url": "https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa"
-        }
-      ],
-      "duration_ms": 179650,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/10yYzYZwIaZhBLvUt7oMPh"
+      "duration_ms": 182384,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/4ygfd1lPGeyflD5NtWR8AT"
       },
       "artists": [
         {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+          "name": "Amara Ignacia",
+          "url": "https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa"
         }
       ],
-      "duration_ms": 182384,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
+      "duration_ms": 179650,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/10yYzYZwIaZhBLvUt7oMPh"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "Vida Tan Bonita",
+        "url": "https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 167106,
+      "name": "Castillo de Cristal",
+      "url": "https://open.spotify.com/track/6EKbtOGBq4tSpn8CkoDUoq"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "Chao",
         "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 250208,
       "name": "Me Atrapo",
       "url": "https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Vida Tan Bonita",
-        "url": "https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 167106,
-      "name": "Castillo de Cristal",
-      "url": "https://open.spotify.com/track/6EKbtOGBq4tSpn8CkoDUoq"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -459,58 +459,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 206646,
-      "name": "Jui$y",
-      "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Albor",
-        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 201123,
-      "name": "Esta vislumbra",
-      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Sinergia",
-        "url": "https://open.spotify.com/album/5SjeP0UHafaTMnfrzx4Q95"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Ya Es Tarde",
-      "url": "https://open.spotify.com/track/4iUxUVZpySaY1epUkDXCbh"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Rey Secreto",
         "url": "https://open.spotify.com/album/0uvDf9ljskD5hI9XxvBIJI"
       },
@@ -531,22 +479,54 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "paterson",
-        "url": "https://open.spotify.com/album/5URw6mtoVChP5GD5la6RbF"
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
       },
       "artists": [
         {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
         },
         {
-          "name": "Martina Lluvias",
-          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
         }
       ],
-      "duration_ms": 282490,
-      "name": "paterson",
-      "url": "https://open.spotify.com/track/3DUKYkLS0M2kM6m7tzjipR"
+      "duration_ms": 206646,
+      "name": "Jui$y",
+      "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Sinergia",
+        "url": "https://open.spotify.com/album/5SjeP0UHafaTMnfrzx4Q95"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Ya Es Tarde",
+      "url": "https://open.spotify.com/track/4iUxUVZpySaY1epUkDXCbh"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Bestia",
+        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
+      },
+      "artists": [
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 228065,
+      "name": "S\u00ed S\u00ed S\u00ed",
+      "url": "https://open.spotify.com/track/3xeTWr7alFHDn5ZWITHUSX"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -571,22 +551,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Bestia",
-        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
-      },
-      "artists": [
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 228065,
-      "name": "S\u00ed S\u00ed S\u00ed",
-      "url": "https://open.spotify.com/track/3xeTWr7alFHDn5ZWITHUSX"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
       },
@@ -603,6 +567,58 @@
       "duration_ms": 161341,
       "name": "Un D\u00eda Plant\u00e9 una Rosa",
       "url": "https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "Esta vislumbra",
+      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "paterson",
+        "url": "https://open.spotify.com/album/5URw6mtoVChP5GD5la6RbF"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        },
+        {
+          "name": "Martina Lluvias",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
+        }
+      ],
+      "duration_ms": 282490,
+      "name": "paterson",
+      "url": "https://open.spotify.com/track/3DUKYkLS0M2kM6m7tzjipR"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Adi\u00f3s Mi Negrito",
+        "url": "https://open.spotify.com/album/58OYosg2fG9Ykdz68filu1"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Cornejo",
+          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
+        }
+      ],
+      "duration_ms": 265752,
+      "name": "Adi\u00f3s Mi Negrito",
+      "url": "https://open.spotify.com/track/6MKjQsM77ioTbQ5idx3sLp"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -627,22 +643,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Adi\u00f3s Mi Negrito",
-        "url": "https://open.spotify.com/album/58OYosg2fG9Ykdz68filu1"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Cornejo",
-          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
-        }
-      ],
-      "duration_ms": 265752,
-      "name": "Adi\u00f3s Mi Negrito",
-      "url": "https://open.spotify.com/track/6MKjQsM77ioTbQ5idx3sLp"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 178055,
       "name": "Loco",
       "url": "https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Voy a Hacer las Cosas Lento",
+        "url": "https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 208139,
+      "name": "Voy a Hacer las Cosas Lento",
+      "url": "https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -675,22 +691,6 @@
       "duration_ms": 159158,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/7cOqDi2xyjxSNfQQlH0X8l"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Voy a Hacer las Cosas Lento",
-        "url": "https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 208139,
-      "name": "Voy a Hacer las Cosas Lento",
-      "url": "https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "Lucero",
+        "url": "https://open.spotify.com/album/4LFoct8D5qbHcGH1HVq6jP"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 243348,
+      "name": "Por Que Se Fue la Paloma",
+      "url": "https://open.spotify.com/track/75ic82G9v6jgTDjlq7jij7"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "No me dejar\u00e9 caer",
         "url": "https://open.spotify.com/album/29PpuwqvwZEOJP1eEsDmqR"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 156734,
       "name": "No me dejar\u00e9 caer",
       "url": "https://open.spotify.com/track/4pv1VaZa5hxAWsdn1NFLlE"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Lucero",
-        "url": "https://open.spotify.com/album/4LFoct8D5qbHcGH1HVq6jP"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 243348,
-      "name": "Por Que Se Fue la Paloma",
-      "url": "https://open.spotify.com/track/75ic82G9v6jgTDjlq7jij7"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        }
+      ],
+      "duration_ms": 207991,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
         "name": "Remando Al Fondo",
         "url": "https://open.spotify.com/album/3KB4oVOGMe0Pyi6AJIM0Kg"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 213333,
       "name": "Remando Al Fondo",
       "url": "https://open.spotify.com/track/7Hbvcj8TI6cH4VP0XCzqS1"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        }
-      ],
-      "duration_ms": 207991,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
     },
     {
       "added_at": "2022-11-30 13:00:00",

@@ -4,7 +4,7 @@
 
 > We hear you.
 
-521 songs - 1 day 1 hr 47 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+523 songs - 1 day 1 hr 54 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 | 2022-07-15 |  |
 | [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 | 2022-11-18 |  |
 | [Mr\. Lonely](https://open.spotify.com/track/7AyqUwYAXXzBMvH12lRUWo) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Parking Lot](https://open.spotify.com/album/3ljazEefHFWlgzR3Hbz4qG) | 2:48 | 2022-03-23 | 2022-04-17 |
-| [My American Life](https://open.spotify.com/track/2GtvxN6tjbqxPZKRNZcJ7x) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:27 | 2022-11-18 |  |
+| [My American Life](https://open.spotify.com/track/2GtvxN6tjbqxPZKRNZcJ7x) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:27 | 2022-11-18 | 2022-12-13 |
 | [MY HEAD :\(](https://open.spotify.com/track/13Qe9Ad3zLm58cIb9n4YtG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MY HEAD :\(](https://open.spotify.com/album/46Fu5oHyF6cVkhfu8QA9AY) | 1:32 | 2021-04-02 | 2022-07-14 |
 | [needle & thread](https://open.spotify.com/track/6wWflNzMVvWKvzgpgM6Oeb) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [needle & thread](https://open.spotify.com/album/0rrmT3DkwMLWW8CBK4uWfL) | 3:24 | 2021-04-02 | 2022-04-20 |
 | [Never Coming Home](https://open.spotify.com/track/417NzypnPVicWbske0doX7) | [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Never Coming Home](https://open.spotify.com/album/7mWOGsPRO497bpKlmSRMe8) | 4:00 | 2021-04-02 | 2022-07-23 |
@@ -328,6 +328,7 @@
 | [No One Gets Me \(feat\. RMR\)](https://open.spotify.com/track/0SBnx2rzXbh1Gt2WmmMX0g) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [No One Gets Me \(feat\. RMR\)](https://open.spotify.com/album/3U17Clob2dMUevoYU0t39b) | 3:22 | 2022-01-21 | 2022-04-20 |
 | [no song without you \- london session](https://open.spotify.com/track/5LvZe8erHQJvivxAQeqYPe) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [nswy: dream edits](https://open.spotify.com/album/2EafeoPywXvcSudYSeSMWO) | 3:12 | 2022-03-29 | 2022-04-07 |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2022-05-25 |  |
+| [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 |  |
 | [None of This Alone](https://open.spotify.com/track/3oC6XhD8it51GroGHUh3Ud) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [None of This Alone](https://open.spotify.com/album/7akTYYhH1O4asv7ojULTX5) | 2:52 | 2021-06-25 | 2022-07-29 |
 | [Not a Home](https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Not a Home](https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr) | 2:49 | 2022-07-15 | 2022-10-15 |
 | [not a home](https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [not a home](https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln) | 2:49 | 2022-05-20 | 2022-07-29 |
@@ -353,6 +354,7 @@
 | [Paradise](https://open.spotify.com/track/2v6ea8WZ0VzWXEbA3f4vrU) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Paradise](https://open.spotify.com/album/7Jahki7bPBwHTwlzReXHcU) | 2:46 | 2021-04-02 | 2022-05-20 |
 | [party favor](https://open.spotify.com/track/3WxmlTZ85sCYFnuIXmUAEe) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:24 | 2022-05-25 |  |
 | [Past Life](https://open.spotify.com/track/3JjY4IgdeK1w8qMBm0yWyw) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Past Life](https://open.spotify.com/album/1UYUdHAO3d6iA71X4sj4ak) | 3:01 | 2021-04-02 | 2022-04-20 |
+| [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-09 |  |
 | [perfume](https://open.spotify.com/track/0t52rXOiyAKx1ZoacxuB4B) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [perfume](https://open.spotify.com/album/5aYV9gD4D5E28B1YzuA6Al) | 2:33 | 2021-04-02 | 2022-07-22 |
 | [phone call](https://open.spotify.com/track/3pROjkqzFjsbiyMYOA1hFb) | [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C), [dhan](https://open.spotify.com/artist/5ZFGR5cnp0klB7NVzj6oCS) | [phone call](https://open.spotify.com/album/7hIML2J9zYAo3E1lNpIfrA) | 2:01 | 2021-04-02 | 2022-04-21 |
 | [Phony](https://open.spotify.com/track/5aicPq72ndCjwycEmP4EHW) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Later, Now](https://open.spotify.com/album/54ZyCWHz0T13jnSyHRVFd0) | 3:37 | 2022-11-11 | 2022-12-10 |
@@ -400,7 +402,7 @@
 | [SHOOT ME DOWN](https://open.spotify.com/track/5jLjUQIa8fV6erihJb1App) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 4:52 | 2022-03-23 | 2022-04-20 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2021-04-02 | 2022-04-16 |
 | [Show Runner 99](https://open.spotify.com/track/4G5bnCpOB99DIcOQa6QVYw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Show Runner 99](https://open.spotify.com/album/1ixXFuKaljRwvI8IEupLeQ) | 3:26 | 2021-08-27 | 2022-07-29 |
-| [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 | 2021-04-02 |  |
+| [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 | 2021-04-02 | 2022-12-13 |
 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 | 2021-04-02 | 2022-04-14 |
 | [Silhouette](https://open.spotify.com/track/0xIxUesRUXMlX1zYitECjs) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Silhouette](https://open.spotify.com/album/7EWk2u29tK8b6EMv5fVbhl) | 2:59 | 2021-04-02 | 2022-04-21 |
 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 | 2022-07-15 |  |

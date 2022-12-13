@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-211 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+213 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2020-12-08\* |  |
 | [Aquarium](https://open.spotify.com/track/1u4qLLYs866O1PArVR5pPs) | [Casino Versus Japan](https://open.spotify.com/artist/5xMtVcziLHpIwD9iNWPOM6) | [Whole Numbers Play The Basics](https://open.spotify.com/album/4HcmQ7of1IgRFzdp0dnrFY) | 4:59 | 2020-12-25 | 2021-05-27 |
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2020-12-08\* |  |
-| [Astrolabe](https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:31 | 2022-11-22 |  |
+| [Astrolabe](https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:31 | 2022-11-22 | 2022-12-13 |
 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 | 2022-09-02 |  |
 | [Autumnal](https://open.spotify.com/track/2DR3RcQLkcx9KqBEx9Raf7) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/3dHqf7HmYlEfJQNp0RL7mg) | 5:28 | 2020-12-08\* | 2021-05-27 |
 | [Awash](https://open.spotify.com/track/4vU5TfGGHeIwKVzWSov8TM) | [Manual](https://open.spotify.com/artist/57OTTQNo2lt78ydJsxwOLm) | [Awash](https://open.spotify.com/album/5G1QrK23ZwsQrKDjpbVNo7) | 5:39 | 2020-12-08\* | 2021-05-27 |
@@ -76,6 +76,7 @@
 | [Dreamt](https://open.spotify.com/track/7yzWKf2adZoNKsLu3UxXjv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 3:59 | 2020-12-08\* | 2022-07-29 |
 | [Dunes](https://open.spotify.com/track/0XY3HwzcxaP1cM1lWR61bE) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Ethereal Dream](https://open.spotify.com/album/3zt0kYKy8vVLE9Px2ZpEOn) | 2:16 | 2021-04-15 |  |
 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 | 2020-12-08\* | 2022-11-30 |
+| [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 | 2022-11-22 |  |
 | [Fade To Green](https://open.spotify.com/track/7g6H3w5ZR6LltDkD2iRISL) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Slumber](https://open.spotify.com/album/0RVAtmxNwwR7lOimtJQAvY) | 2:28 | 2022-11-22 |  |
 | [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 | 2020-12-08\* |  |
 | [Father Time](https://open.spotify.com/track/07cPfu8rikx5pkmAFzBDfC) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Father Time](https://open.spotify.com/album/34oHoVmrfHegqTJRnO6dLQ) | 3:51 | 2020-12-08\* | 2021-09-17 |
@@ -130,8 +131,8 @@
 | [Mist](https://open.spotify.com/track/0L8U0b9O7lQO9VipV3i6xN) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Mist](https://open.spotify.com/album/2ffssy6IF2Pw4741ITKhqY) | 3:30 | 2021-10-21 |  |
 | [Motion](https://open.spotify.com/track/0JExELrTTlXBvwYXJGIMtT) | [Balam Acab](https://open.spotify.com/artist/49jnSQa0nLfgkSREjJ03Az) | [Wander/Wonder](https://open.spotify.com/album/79iR8QvVwZ2abKTWrE2BLV) | 4:03 | 2020-12-08\* | 2021-09-22 |
 | [Moving](https://open.spotify.com/track/2nmmHSgj6mWaw2FasOy87z) | [Markus Floats](https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z) | [Third Album](https://open.spotify.com/album/5FJBPsg4NlggVYENdgw8OW) | 2:19 | 2020-12-08\* | 2020-12-25 |
-| [Mystery of Time](https://open.spotify.com/track/2EecYffFBqS2sTprJXabvW) | [Dopplar](https://open.spotify.com/artist/7mTlijRgUDWcMA0tQegd0D) | [Cosmic Strings](https://open.spotify.com/album/7wSfnWizxLlBLYu2HJPWkS) | 2:33 | 2020-12-08\* |  |
-| [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 | 2022-05-19 | 2022-12-06 |
+| [Mystery of Time](https://open.spotify.com/track/2EecYffFBqS2sTprJXabvW) | [Dopplar](https://open.spotify.com/artist/7mTlijRgUDWcMA0tQegd0D) | [Cosmic Strings](https://open.spotify.com/album/7wSfnWizxLlBLYu2HJPWkS) | 2:33 | 2020-12-08\* | 2022-12-13 |
+| [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 | 2022-05-19 |  |
 | [Natural Cause](https://open.spotify.com/track/30u5328ERA8OFk3qrla5m2) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:15 | 2020-12-08\* | 2021-05-27 |
 | [Navi](https://open.spotify.com/track/37XRBuSza57EcexazvYqQy) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Summer](https://open.spotify.com/album/3iEJDeVcMLzAFJToGcih34) | 1:22 | 2020-12-08\* | 2021-01-07 |
 | [Near Light](https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:28 | 2020-12-08\* | 2021-05-27 |
@@ -171,7 +172,7 @@
 | [Rêves](https://open.spotify.com/track/415qfvQLevoRRug7NsTPxy) | [Ignace Lamar](https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja) | [Rêves](https://open.spotify.com/album/5eM0EWZ2ZqFxihXtzQQirS) | 3:18 | 2021-05-27 |  |
 | [Santa Rosa](https://open.spotify.com/track/3xATEhxjTSArvaWteLLtZg) | [Trifonic](https://open.spotify.com/artist/2TDsrZZt4XXF7iQlr5l20Z) | [Ninth Wave](https://open.spotify.com/album/4NJb6SsQSl8kbTPGdMmwgp) | 6:13 | 2020-12-08\* | 2021-02-16 |
 | [sapphire soul](https://open.spotify.com/track/6nCdkMcXgi5Dgb4sdwXq77) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [ivory comet & sapphire soul](https://open.spotify.com/album/0ktKJDZnePFCxsB7FNBUEx) | 2:47 | 2022-06-16 |  |
-| [Sea of Light](https://open.spotify.com/track/5HvS3GWbrI2hzzOGqe52UG) | [Allycia Xavier](https://open.spotify.com/artist/7aO1K3P9ygDQ1k5IJrVHng) | [Sea of Light](https://open.spotify.com/album/6uMyKqYwvpqLFcRH8ueAuj) | 2:50 | 2021-10-28 |  |
+| [Sea of Light](https://open.spotify.com/track/5HvS3GWbrI2hzzOGqe52UG) | [Allycia Xavier](https://open.spotify.com/artist/7aO1K3P9ygDQ1k5IJrVHng) | [Sea of Light](https://open.spotify.com/album/6uMyKqYwvpqLFcRH8ueAuj) | 2:50 | 2021-10-28 | 2022-12-13 |
 | [Second Sun](https://open.spotify.com/track/5kM2oy5P6hK2QdYcj66ach) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/0oVZx9Ax0CduKP4UIEi9Yj) | 3:43 | 2020-12-08\* | 2021-02-20 |
 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 | 2020-12-08\* |  |
 | [Selina's Lullaby](https://open.spotify.com/track/5fuX8gwk2TGrpIKX6RR4Y3) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Selina's Lullaby](https://open.spotify.com/album/6Kx4PI0i6MxVeodtP9YgBr) | 2:18 | 2020-12-08\* |  |
@@ -217,6 +218,7 @@
 | [W.E.](https://open.spotify.com/track/3SDO8hL0wQ3Dxr6NN1CUbH) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [W.E.](https://open.spotify.com/album/3fqMLlZ31uYIz326zw9bdH) | 4:16 | 2020-12-08\* | 2021-02-20 |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* |  |
 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 | 2021-06-16 |  |
+| [Waves of Serenity \- 174 Hz](https://open.spotify.com/track/6ytsuBO5hxj5lXqeEOEujs) | [Fikret Glep](https://open.spotify.com/artist/7Bsyycg7zsa7WcegU4WMde) | [Waves of Serenity](https://open.spotify.com/album/7H0jANfu8S7xlBh4kuk5pe) | 2:18 | 2022-11-22 |  |
 | [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 | 2022-05-19 |  |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2020-12-08\* | 2021-01-07 |
 

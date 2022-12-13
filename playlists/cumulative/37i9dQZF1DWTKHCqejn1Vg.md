@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-206 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
+207 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [CANTSAY](https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [VELVETMOTH](https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx) | 3:16 | 2022-05-03 |  |
 | [Castaway](https://open.spotify.com/track/0asJ8jxqqNFT5Fxr5vNSPt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Interlude](https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK) | 3:14 | 2022-07-08 | 2022-08-17 |
 | [Castaway](https://open.spotify.com/track/4mPlvNApEXUR6UbNcQj0AY) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Interlude](https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS) | 3:14 | 2022-05-03 | 2022-07-25 |
+| [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 | 2022-12-13 |  |
 | [Change \(Feat\. sogumm\)](https://open.spotify.com/track/37u9cnlyTa27hIEPurW8EI) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 4:36 | 2022-05-03 | 2022-07-29 |
 | [Change \(feat\. sogumm\)](https://open.spotify.com/track/5SVyk4OuhHUPg7uCAOB37f) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 4:36 | 2022-10-04 | 2022-11-02 |
 | [Chit Chat Ting](https://open.spotify.com/track/3fLFTJnncqbljGsBiF9iSY) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Naeezy Herr](https://open.spotify.com/artist/2pK2yChZB3TQmkuBuMt12v) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:33 | 2022-05-03 | 2022-07-25 |
@@ -176,7 +177,7 @@
 | [STAY UP \(feat\. OLNL\)](https://open.spotify.com/track/0FGuK7FQ5uXAtVUPpPXKhu) | [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [4:04AM](https://open.spotify.com/album/2isxqvNnQwwtaqdDCkCBqz) | 4:06 | 2022-05-03 | 2022-07-14 |
 | [Stupid love songs](https://open.spotify.com/track/5679QcuvT2ZamHbyUPq4mV) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [WHY DO YOU](https://open.spotify.com/album/6YTlYnl0jbCrFrig3fXlT3) | 2:31 | 2022-05-03 | 2022-06-23 |
 | [Summer Rose](https://open.spotify.com/track/4brUMG3m8vli4aWgx5yfM5) | [OA](https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A) | [Fly me away](https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ) | 3:24 | 2022-05-03 | 2022-07-14 |
-| [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-05-03 |  |
+| [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-05-03 | 2022-12-13 |
 | [Sunset to Sunrise](https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Sunset to Sunrise](https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo) | 2:34 | 2022-07-04 | 2022-07-25 |
 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 | 2022-05-03 |  |
 | [Take a waltz](https://open.spotify.com/track/66Q4XG9xGMMibKuJmtixyn) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Sobrightttttttt](https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9) | 3:38 | 2022-06-20 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Skillet
 
-587 songs - 1 day 11 hr 18 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+589 songs - 1 day 11 hr 24 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Divided](https://open.spotify.com/track/6CJcjkTDkX3hFoTxVPXJmw) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Divided](https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY) | 4:12 | 2022-11-18 |  |
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 | 2022-10-21 | 2022-11-19 |
 | [Divisive](https://open.spotify.com/track/56FwTQ5GaxiatMwdFg1II4) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/5BcsEo6JDnVfXIzLzKzWeb) | 3:58 | 2022-10-28 | 2022-11-19 |
+| [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 | 2022-12-12 |  |
 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 | 2021-11-26 | 2022-03-26 |
 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 | 2021-08-06 | 2022-02-26 |
 | [Don't Pray For Me](https://open.spotify.com/track/5HmNls885b2Egmu60z4fo3) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Don't Pray For Me](https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf) | 3:41 | 2022-07-08 |  |
@@ -230,6 +231,7 @@
 | [Heartache](https://open.spotify.com/track/2TBDweMyj3Wen6bu9gYwrn) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Heartache](https://open.spotify.com/album/1202mNUlTJufiL8oVbS7nO) | 3:45 | 2022-06-17 | 2022-10-08 |
 | [Heathens](https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heathens](https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk) | 3:30 | 2022-05-20 | 2022-10-01 |
 | [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-12-02 |  |
+| [Hell Finds You Everywhere \(feat\. Noah Sebastian\)](https://open.spotify.com/track/6EfGrYJ8Kw4xuNRd7UzQA3) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN), [Noah Sebastian](https://open.spotify.com/artist/3w0i7biKO0q6DGVXCKzhj9) | [Hell Finds You Everywhere](https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl) | 3:24 | 2022-12-12 |  |
 | [Hell Is For Children](https://open.spotify.com/track/2Gu034eU66d5MFRKkxWEY1) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Strength](https://open.spotify.com/album/03By4D4AeAw1KPlfFt76yA) | 4:53 | 2021-09-24 | 2022-01-08 |
 | [Hey Hey Rise Up \- feat\. Andriy Khlyvnyuk of Boombox](https://open.spotify.com/track/6FsXPr00DJIGSMRLNrmmZy) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/0h8ta9KnLdwdXLcpHydfYe) | 3:26 | 2022-04-08 | 2022-05-14 |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-15 | 2022-11-19 |

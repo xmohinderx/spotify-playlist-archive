@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-204 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+205 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 | 2021-12-17 |  |
 | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H) | 3:25 | 2021-12-17 |  |
 | [Cool \- Acoustic](https://open.spotify.com/track/1q1pEif83MuO9ViKMY3jax) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Cool \(Acoustic\)](https://open.spotify.com/album/4HEV60QmHXJmehJuR79SJe) | 3:24 | 2021-12-17 | 2022-07-29 |
+| [Dirt Road \- Nashville Session](https://open.spotify.com/track/7HbRlzxSl4zjaY75QNJ169) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [The Nashville Sessions](https://open.spotify.com/album/5xkwEARs8kunLXWeEWglae) | 2:37 | 2022-12-09 |  |
 | [Don't Come Lookin' \- Live Acoustic](https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live Acoustic\)](https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6) | 3:35 | 2022-07-29 | 2022-10-02 |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\) \- Acoustic](https://open.spotify.com/track/5WlaHL9HnkhRMrVkvsLcd5) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album \(Acoustic\)](https://open.spotify.com/album/6HrXzPva9d1ucDAUO1lyS9) | 2:40 | 2021-12-17 | 2022-08-01 |
 | [Drinkin' for Two \- One Take](https://open.spotify.com/track/4lLehyULZRrOtF7mT8G5C4) | [Jordan Rager](https://open.spotify.com/artist/4XoYsecWoLIoV66HEbt365) | [Memories](https://open.spotify.com/album/2RIyH2pNBgdBkdudi7FXFt) | 3:11 | 2021-12-17 | 2022-07-10 |
@@ -206,7 +207,7 @@
 | [Wild Love](https://open.spotify.com/track/7DJRKddQ7GogZpzgFfkA0i) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Wild Love](https://open.spotify.com/album/6HdfW84BXTz10aSsMs8kZN) | 3:14 | 2021-12-17 | 2022-07-10 |
 | [Wild Palomino](https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Wild Palomino](https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv) | 3:18 | 2022-08-26 |  |
 | [Wilder Days \- Acoustic](https://open.spotify.com/track/7dkCnDAjnTNTCvpb9xMHXU) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 4:11 | 2022-08-12 |  |
-| [Wildfire \- Acoustic](https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire \(Acoustic\)](https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW) | 2:53 | 2021-12-17 |  |
+| [Wildfire \- Acoustic](https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire \(Acoustic\)](https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW) | 2:53 | 2021-12-17 | 2022-12-13 |
 | [Woman Of My Word](https://open.spotify.com/track/6F9sPxH3E2o3orwHljR43X) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5) | [Woman Of My Word](https://open.spotify.com/album/214M4oC89w5sUGGK4kSreW) | 4:55 | 2021-12-17 | 2022-07-10 |
 | [You \- Acoustic](https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [You \(Acoustic\)](https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6) | 3:23 | 2022-08-12 |  |
 | [You and Jesus \- Acoustic](https://open.spotify.com/track/2dphPYc5468yOxlGZnf2VC) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus \(Acoustic\)](https://open.spotify.com/album/7LpFZjTCMspClEBy3J5vWO) | 2:46 | 2022-05-27 | 2022-07-15 |

@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade so far\. Cover: Grimes
 
-313 songs - 20 hr 57 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+315 songs - 21 hr 5 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Come For Me](https://open.spotify.com/track/0p3Gm7ZEqV4jdsMKWsPJ8O) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Come For Me](https://open.spotify.com/album/0qqSJYvt8rtJlF1GMkRhKc) | 3:29 | 2021-11-15 | 2022-07-28 |
 | [Comeback Kid](https://open.spotify.com/track/4uwpFuqYn5wON8iRg2mnhp) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Comeback Kid](https://open.spotify.com/album/6gnT7IIyHL2nYYPsF9teBw) | 3:02 | 2021-11-15 | 2022-07-19 |
 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 | 2021-11-15 |  |
-| [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2022-09-29 |  |
+| [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2022-09-29 | 2022-12-13 |
 | [Crystalised](https://open.spotify.com/track/6rxEjkoar48SssZePbtb2x) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 3:21 | 2022-02-21 | 2022-07-24 |
 | [Cupid](https://open.spotify.com/track/3dvvQrTIzBbPh5egjpSs1n) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Love In The 4th Dimension](https://open.spotify.com/album/6A3pxUItYNmraeFxuRsCqs) | 3:43 | 2021-11-15 | 2022-07-28 |
 | [Daddy's Car](https://open.spotify.com/track/4FER9uaPmGBPvBwsWK73RC) | [Eno • Hyde](https://open.spotify.com/artist/3Rp3pcr8W9rhgF8YhHqplP) | [Someday World](https://open.spotify.com/album/4kGPUq98NXcQhvdJrqx48D) | 4:50 | 2022-02-21 | 2022-07-23 |
@@ -79,7 +79,7 @@
 | [Dead Boys](https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys](https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL) | 3:25 | 2021-11-15 | 2022-07-26 |
 | [Death in Midsummer](https://open.spotify.com/track/6PkPQn1lSYQQOiCG9rhj1n) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Death in Midsummer](https://open.spotify.com/album/00gpHTtWkXZHOIkyPDXMCc) | 4:22 | 2022-02-21 | 2022-07-29 |
 | [Death with Dignity](https://open.spotify.com/track/4fpEuKIzTLmMJnYwFU0oqr) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 3:59 | 2021-11-15 | 2022-07-28 |
-| [Death with Dignity](https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:59 | 2022-09-29 |  |
+| [Death with Dignity](https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:59 | 2022-09-29 | 2022-12-13 |
 | [Depreston](https://open.spotify.com/track/1wNtuAIM9xbMQaXRY1YFwG) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, And Sometimes I Just Sit](https://open.spotify.com/album/2pFm6OmHk5evsIRkcGpohw) | 4:52 | 2021-11-15 | 2022-07-29 |
 | [Desire Lines](https://open.spotify.com/track/3jZ0GKAZiDMya0dZPrw8zq) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/1HUMjB15ARg96KIypcGzYY) | 6:44 | 2021-11-15 | 2022-07-29 |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-02-21 |  |
@@ -141,6 +141,7 @@
 | [In a River](https://open.spotify.com/track/0qaWxVVd3KrP4WY27KWpIe) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [In a River](https://open.spotify.com/album/4T3wWtIP6KqYa0KRZiuYiG) | 3:43 | 2021-11-15 | 2022-07-24 |
 | [Inside Out](https://open.spotify.com/track/0Ss9wcXyyL86SgTJg1r9dI) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/27aGuncIbiQ520Sa1F4NuM) | 5:01 | 2021-11-15 | 2022-07-29 |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-02-21 | 2022-11-17 |
+| [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-09-29 |  |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 | 2022-02-21 |  |
 | [It's Only Life](https://open.spotify.com/track/578fUsSLc9Kp5Ob0MVjpbD) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/7bRzPsZ5ODf8STVgpFIQsS) | 4:01 | 2021-11-15 | 2022-07-21 |
 | [It's Real](https://open.spotify.com/track/1K9YlxsaqEDqTaGHOdPVRJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Days](https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb) | 2:48 | 2021-11-15 | 2022-07-28 |
@@ -221,6 +222,7 @@
 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 | 2022-02-21 |  |
 | [Run the Road](https://open.spotify.com/track/3UyVG4yc9wc3rz3Trw1iHd) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4cml5zEheYJwbRmFlieis9) | 4:22 | 2022-09-29 | 2022-11-18 |
 | [Runaway](https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 4:08 | 2022-02-21 | 2022-12-01 |
+| [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2022-09-29 |  |
 | [Rusty](https://open.spotify.com/track/0sJTNGpkDfdVQuZev2MnkK) | [Le Volume Courbe](https://open.spotify.com/artist/33ZXBbTDWd3gX0Wd0ewwxC) | [I Wish Dee Dee Ramone Was Here With Me](https://open.spotify.com/album/64unLc0XNvm8wgrIwCqbKK) | 4:29 | 2022-02-21 | 2022-07-20 |
 | [Salad Days](https://open.spotify.com/track/4keAoywVf4jxRvXU7ON0hV) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/1l9d1Zj9Iv2eOcdObVhdMy) | 2:25 | 2021-11-15 | 2022-07-29 |
 | [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 | 2022-02-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 24297,
+  "num_followers": 24300,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDY4NTYxYjUwYTEwZGU2ZmE3MWUwNzIyMDc0OWRjNjNj",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDU2MjQyM2I1OTE0NTQ4NDhjNDdjNGNmZjdlMWFlZTlk",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -303,22 +303,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "As I Lay Me Down",
         "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 184786,
       "name": "N\u00e4r vindarna viskar mitt namn",
       "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -671,22 +671,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "H\u00f6gt \u00f6ver havet",
-        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "H\u00f6gt \u00f6ver havet",
-      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Live Forever - The Album (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 182626,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "H\u00f6gt \u00f6ver havet",
+        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
+      },
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "H\u00f6gt \u00f6ver havet",
+      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -799,22 +799,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "In My Cabana",
-        "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
-      },
-      "artists": [
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "In My Cabana",
-      "url": "https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Gamla Stan",
         "url": "https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B"
       },
@@ -831,18 +815,34 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Lyssna till ditt hj\u00e4rta",
-        "url": "https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA"
+        "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
+        "url": "https://open.spotify.com/album/4gkvAo6QefcyNnTkNf9vaz"
       },
       "artists": [
         {
-          "name": "Friends",
-          "url": "https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX"
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Lyssna till ditt hj\u00e4rta",
-      "url": "https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV"
+      "duration_ms": 179706,
+      "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
+      "url": "https://open.spotify.com/track/4WXnFwrGkrGYzwCImeuob6"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "In My Cabana",
+        "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "In My Cabana",
+      "url": "https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6"
     }
   ],
   "unique_name": "Schlagerfest",

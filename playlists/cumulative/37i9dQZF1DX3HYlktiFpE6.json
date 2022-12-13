@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "House Rules",
+        "url": "https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v"
+      },
+      "artists": [
+        {
+          "name": "The Clef Hangers",
+          "url": "https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246306,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ"
+    },
+    {
+      "album": {
         "name": "The New Old Fashioned (Deluxe)",
         "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
       },
@@ -89,7 +107,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 171520,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 206880,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 131893,
       "name": "Kiss the Girl",
       "url": "https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY"

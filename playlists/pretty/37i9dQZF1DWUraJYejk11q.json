@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 447948,
+  "num_followers": 447974,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM3NTM1NywwMDAwMDAwMDc1NTIxZjBiMjA5MDNmYTg2ODhmN2UxMmQxZTRkMTFk",
+  "snapshot_id": "MTY3MDM3NTM1NywwMDAwMDAwMGZiZWE5MjE5Mzg4NmM1YzM0ZTRiNDA0MDgzMmI3Njkw",
   "tracks": [
     {
       "added_at": "2022-09-30 02:46:01",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Transactional Relationship",
+        "url": "https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 193535,
+      "name": "Transactional Relationship",
+      "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
+    },
+    {
       "added_at": "2022-08-24 01:29:10",
       "album": {
         "name": "Pause",
@@ -199,26 +215,6 @@
       "duration_ms": 289371,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
-    },
-    {
-      "added_at": "2022-11-11 06:20:07",
-      "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 287198,
-      "name": "Wall of Sleep",
-      "url": "https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV"
     },
     {
       "added_at": "2022-08-03 03:12:05",
@@ -257,20 +253,24 @@
       "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
+      "added_at": "2022-11-11 06:20:07",
       "album": {
-        "name": "Transactional Relationship",
-        "url": "https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK"
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
       "artists": [
         {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 193535,
-      "name": "Transactional Relationship",
-      "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
+      "duration_ms": 287198,
+      "name": "Wall of Sleep",
+      "url": "https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV"
     },
     {
       "added_at": "2022-01-21 20:14:08",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
-      "added_at": "2022-10-06 00:12:04",
-      "album": {
-        "name": "Puppy (Feel The Beat Mix)",
-        "url": "https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Puppy - Feel The Beat Mix",
-      "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -339,6 +323,38 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-10-06 00:12:04",
+      "album": {
+        "name": "Puppy (Feel The Beat Mix)",
+        "url": "https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Puppy - Feel The Beat Mix",
+      "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
+    },
+    {
+      "added_at": "2022-02-25 03:39:39",
+      "album": {
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
       "added_at": "2022-01-12 02:36:16",
@@ -361,6 +377,38 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
+      "added_at": "2022-08-03 03:56:04",
+      "album": {
+        "name": "Planta Dance",
+        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Planta Dance",
+      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
+    },
+    {
+      "added_at": "2022-08-13 02:30:00",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84"
+      },
+      "artists": [
+        {
+          "name": "Dainty",
+          "url": "https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr"
+        }
+      ],
+      "duration_ms": 222620,
+      "name": "Tapestry - Edit",
+      "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
+    },
+    {
       "added_at": "2022-07-08 04:48:31",
       "album": {
         "name": "Closer (Daniel Avery Edit)",
@@ -381,38 +429,6 @@
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
-      "added_at": "2022-02-25 03:39:39",
-      "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
-      "added_at": "2022-08-03 03:56:04",
-      "album": {
-        "name": "Planta Dance",
-        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Planta Dance",
-      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
-    },
-    {
       "added_at": "2022-08-19 02:33:31",
       "album": {
         "name": "Order",
@@ -427,6 +443,70 @@
       "duration_ms": 206657,
       "name": "Warm Fuzzies: The Glory",
       "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
+    },
+    {
+      "added_at": "2022-03-30 04:42:42",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2022-03-30 05:37:06",
+      "album": {
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
+      "added_at": "2022-07-28 05:59:17",
+      "album": {
+        "name": "lexicon",
+        "url": "https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9"
+      },
+      "artists": [
+        {
+          "name": "lynyn",
+          "url": "https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8"
+        }
+      ],
+      "duration_ms": 293495,
+      "name": "uja end",
+      "url": "https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef"
     },
     {
       "added_at": "2022-02-16 00:41:13",
@@ -477,38 +557,6 @@
       "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
-      "added_at": "2022-08-13 02:30:00",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84"
-      },
-      "artists": [
-        {
-          "name": "Dainty",
-          "url": "https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr"
-        }
-      ],
-      "duration_ms": 222620,
-      "name": "Tapestry - Edit",
-      "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
       "added_at": "2022-08-03 02:49:15",
       "album": {
         "name": "Shallots",
@@ -523,54 +571,6 @@
       "duration_ms": 221298,
       "name": "Shallots",
       "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
-    },
-    {
-      "added_at": "2022-03-30 05:37:06",
-      "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
-    },
-    {
-      "added_at": "2022-03-30 04:42:42",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
-      "added_at": "2022-07-28 05:59:17",
-      "album": {
-        "name": "lexicon",
-        "url": "https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9"
-      },
-      "artists": [
-        {
-          "name": "lynyn",
-          "url": "https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8"
-        }
-      ],
-      "duration_ms": 293495,
-      "name": "uja end",
-      "url": "https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef"
     },
     {
       "added_at": "2022-03-11 06:17:20",
@@ -657,54 +657,6 @@
       "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
-      "added_at": "2022-03-30 05:10:26",
-      "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
-    },
-    {
-      "added_at": "2022-02-09 04:02:41",
-      "album": {
-        "name": "Patient Zero",
-        "url": "https://open.spotify.com/album/39ih18n5FRp601HKnLJLCU"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Vitelli",
-          "url": "https://open.spotify.com/artist/0mFsbKrHaJDM5DgL8g3Ke3"
-        }
-      ],
-      "duration_ms": 506839,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG"
-    },
-    {
-      "added_at": "2022-09-21 02:18:13",
-      "album": {
-        "name": "Seez",
-        "url": "https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg"
-      },
-      "artists": [
-        {
-          "name": "Herva",
-          "url": "https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1"
-        }
-      ],
-      "duration_ms": 221632,
-      "name": "Xid",
-      "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"
-    },
-    {
       "added_at": "2022-06-20 21:26:25",
       "album": {
         "name": "compciter ep",
@@ -723,6 +675,38 @@
       "duration_ms": 291400,
       "name": "bda creature",
       "url": "https://open.spotify.com/track/6dnZv0EmSwCoBq91rFK0IH"
+    },
+    {
+      "added_at": "2022-02-09 04:02:41",
+      "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/39ih18n5FRp601HKnLJLCU"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Vitelli",
+          "url": "https://open.spotify.com/artist/0mFsbKrHaJDM5DgL8g3Ke3"
+        }
+      ],
+      "duration_ms": 506839,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG"
+    },
+    {
+      "added_at": "2022-03-30 05:10:26",
+      "album": {
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
       "added_at": "2022-04-29 18:24:26",
@@ -757,6 +741,22 @@
       "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
     },
     {
+      "added_at": "2022-09-21 02:18:13",
+      "album": {
+        "name": "Seez",
+        "url": "https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg"
+      },
+      "artists": [
+        {
+          "name": "Herva",
+          "url": "https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1"
+        }
+      ],
+      "duration_ms": 221632,
+      "name": "Xid",
+      "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"
+    },
+    {
       "added_at": "2022-04-12 02:09:40",
       "album": {
         "name": "Minena",
@@ -771,22 +771,6 @@
       "duration_ms": 275574,
       "name": "Minena",
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
-      "added_at": "2022-03-18 05:02:00",
-      "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
       "added_at": "2022-05-06 03:38:46",
@@ -813,6 +797,22 @@
       "url": "https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f"
     },
     {
+      "added_at": "2022-03-18 05:02:00",
+      "album": {
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
+      },
+      "artists": [
+        {
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
+        }
+      ],
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
+    },
+    {
       "added_at": "2022-08-31 03:28:18",
       "album": {
         "name": "Solar Plexus",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c"
     },
     {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
-    },
-    {
       "added_at": "2022-03-11 06:33:02",
       "album": {
         "name": "Yesterday Faded (Edit)",
@@ -859,6 +843,22 @@
       "duration_ms": 242784,
       "name": "Yesterday Faded - Edit",
       "url": "https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP"
+    },
+    {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     }
   ],
   "unique_name": "Genre Glitch",

@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 10928,
+  "num_followers": 10973,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGYyNDIwY2ZkZmFhODdkZTMwYzJhNDljZTFiMmI0YzI3",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDkzYjJkYmFmNzRmNDUyZDJhN2ZjMGY4YzJmMWE3ZWY4",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Dripfield",
-        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 426602,
-      "name": "Hungersite",
-      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Just a Little",
         "url": "https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7"
       },
@@ -171,6 +155,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
+      },
+      "artists": [
+        {
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+        }
+      ],
+      "duration_ms": 306840,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Joyfell",
         "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
       },
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
+        "name": "Dripfield",
+        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
       },
       "artists": [
         {
-          "name": "Lotus ",
-          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
         }
       ],
-      "duration_ms": 306840,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
+      "duration_ms": 426602,
+      "name": "Hungersite",
+      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
     },
     {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Best Kept Secrets",
+        "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
+      },
+      "artists": [
+        {
+          "name": "Ghost Light",
+          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+        }
+      ],
+      "duration_ms": 259826,
+      "name": "Keep Your Hands to Yourself",
+      "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "I Am The Moon: II. Ascension",
@@ -237,20 +253,20 @@
       "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Best Kept Secrets",
-        "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf"
       },
       "artists": [
         {
-          "name": "Ghost Light",
-          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+          "name": "Umphrey's McGee",
+          "url": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o"
         }
       ],
-      "duration_ms": 259826,
-      "name": "Keep Your Hands to Yourself",
-      "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
+      "duration_ms": 186763,
+      "name": "Hiccup",
+      "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -269,20 +285,20 @@
       "url": "https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf"
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
       },
       "artists": [
         {
-          "name": "Umphrey's McGee",
-          "url": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o"
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
         }
       ],
-      "duration_ms": 186763,
-      "name": "Hiccup",
-      "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
+      "duration_ms": 139773,
+      "name": "Stacy's on the Lake",
+      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -317,22 +333,6 @@
       "url": "https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Stacy's on the Lake",
-      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Zoom Out",
@@ -347,38 +347,6 @@
       "duration_ms": 262805,
       "name": "Zoom Out",
       "url": "https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Circles Around the Sun",
-        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
-      },
-      "artists": [
-        {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        }
-      ],
-      "duration_ms": 357053,
-      "name": "Babyman",
-      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -399,18 +367,34 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+        "name": "Circles Around the Sun",
+        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
       },
       "artists": [
         {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
         }
       ],
-      "duration_ms": 451253,
-      "name": "How Long...",
-      "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
+      "duration_ms": 357053,
+      "name": "Babyman",
+      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -427,6 +411,38 @@
       "duration_ms": 304120,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Microdosio",
+        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 331570,
+      "name": "Cubensis",
+      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 451253,
+      "name": "How Long...",
+      "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -463,22 +479,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Microdosio",
-        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 331570,
-      "name": "Cubensis",
-      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Blood from a Stone",
         "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
       },
@@ -495,6 +495,38 @@
       "duration_ms": 299479,
       "name": "Curse Lifter (feat. Derek Trucks)",
       "url": "https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Not Just a Word",
+        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 338011,
+      "name": "Not Just a Word",
+      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "The Werks",
+        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
+      },
+      "artists": [
+        {
+          "name": "The Werks",
+          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
+        }
+      ],
+      "duration_ms": 456631,
+      "name": "Duck Farm",
+      "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -531,22 +563,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "The Werks",
-        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
-      },
-      "artists": [
-        {
-          "name": "The Werks",
-          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
-        }
-      ],
-      "duration_ms": 456631,
-      "name": "Duck Farm",
-      "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Dopapod",
         "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 247106,
       "name": "Fannie",
       "url": "https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Not Just a Word",
-        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 338011,
-      "name": "Not Just a Word",
-      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Dopapod",
+        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
+      },
+      "artists": [
+        {
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+        }
+      ],
+      "duration_ms": 304826,
+      "name": "Nuff",
+      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -689,22 +705,6 @@
       "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Dopapod",
-        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 304826,
-      "name": "Nuff",
-      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
-    },
-    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Trouble Overnight",
@@ -719,22 +719,6 @@
       "duration_ms": 408773,
       "name": "Trouble Overnight",
       "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Extraction",
-        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
-      },
-      "artists": [
-        {
-          "name": "Cytrus",
-          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
-        }
-      ],
-      "duration_ms": 247206,
-      "name": "When Ya Hustle",
-      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -753,22 +737,6 @@
       "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 379640,
-      "name": "Ghost In The Machine",
-      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Off Leash",
@@ -785,20 +753,36 @@
       "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Find a Better Way",
-        "url": "https://open.spotify.com/album/2irQCliXejenCG99G8Z2od"
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
       },
       "artists": [
         {
-          "name": "The Commoners",
-          "url": "https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C"
+          "name": "Cytrus",
+          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
         }
       ],
-      "duration_ms": 275609,
-      "name": "Find a Better Way",
-      "url": "https://open.spotify.com/track/5QLYkHW64i9wdhLwplMmhb"
+      "duration_ms": 247206,
+      "name": "When Ya Hustle",
+      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 379640,
+      "name": "Ghost In The Machine",
+      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -815,6 +799,22 @@
       "duration_ms": 290150,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Time Dilates",
+        "url": "https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29"
+      },
+      "artists": [
+        {
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+        }
+      ],
+      "duration_ms": 321688,
+      "name": "Time Dilates",
+      "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
     }
   ],
   "unique_name": "Modern Jam Band",

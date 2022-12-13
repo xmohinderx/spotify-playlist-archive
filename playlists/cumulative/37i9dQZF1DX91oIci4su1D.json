@@ -1767,7 +1767,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 212741,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/3xYp6ZdiTc9CmUlbPadggJ"
@@ -2237,7 +2237,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 298809,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/4mB7gWAkOB7LLWBM7XoL6Y"
@@ -3135,6 +3135,24 @@
       "duration_ms": 266492,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD"
+    },
+    {
+      "album": {
+        "name": "Final Frontier",
+        "url": "https://open.spotify.com/album/7bvDmNHTNykKUCbyXj5Uwg"
+      },
+      "artists": [
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292557,
+      "name": "Final Frontier",
+      "url": "https://open.spotify.com/track/46g1FfId8eLl42Easxyly1"
     },
     {
       "album": {
@@ -5004,6 +5022,24 @@
     },
     {
       "album": {
+        "name": "Land of Mysteries",
+        "url": "https://open.spotify.com/album/4lIGBUc2nz6fC9D2YG0IzI"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175999,
+      "name": "Land of Mysteries",
+      "url": "https://open.spotify.com/track/14ErKs35DymuSr3N7YX7Sj"
+    },
+    {
+      "album": {
         "name": "Leave a Little Love (Club Mix)",
         "url": "https://open.spotify.com/album/0Nqfemx6roJ0N0x2GUhFNZ"
       },
@@ -6415,7 +6451,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 239062,
       "name": "Nezuko",
       "url": "https://open.spotify.com/track/1LJbqEICZeMOZ6OGjgeksi"
@@ -6869,7 +6905,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 249750,
       "name": "One Last Dance - Farius Remix",
       "url": "https://open.spotify.com/track/4RvECaSz84jyRFhOfXuahJ"

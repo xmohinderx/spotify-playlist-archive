@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Top Arabic hits are right here\. Cover: Muslim \- مُسلِم
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,349 likes - 81 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,588 likes - 81 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 2 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 |
 | 3 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 |
 | 4 | [Ga7da](https://open.spotify.com/track/2OeBH98G3LNrCybb8J9E5a) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:06 |
-| 5 | [Law Bas Nergaa](https://open.spotify.com/track/7ogQhlO9miA7gt18l0tlRT) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Hady Moamer](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [Law Bas Nergaa](https://open.spotify.com/album/7mxi6m5tjRolq6U2HTTlq2) | 2:43 |
+| 5 | [Law Bas Nergaa \(New Version \)](https://open.spotify.com/track/4ebqXyZzx1JNVMCHZ0Roxp) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Law Bas Nergaa \(New Version \)](https://open.spotify.com/album/1qVviyoS8hVaIi80u8vCBi) | 2:46 |
 | 6 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 |
 | 7 | [James Dean](https://open.spotify.com/track/1GKqff6G0zabRInKN9Vz1S) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:04 |
 | 8 | [Hatgawzek \- From Bahbk Movie](https://open.spotify.com/track/3qyKeThLCtxNIqUw18nw6K) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hatgawzek \(From Bahbk Movie\)](https://open.spotify.com/album/0yHsOQEcAbWvo30uHf0fED) | 3:09 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 80 | [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 |
 | 81 | [Ba'ad Gheyabo](https://open.spotify.com/track/2pO1mQeV6Sd9Y20HYVJYYr) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ba'ad Gheyabo](https://open.spotify.com/album/0OpsjTdA2truxxmYDDWR24) | 4:02 |
 
-Snapshot ID: `MTY2OTk4NTcyNiwwMDAwMDAwMGExNmRlMjYwNDgzMDE3MDE4NTgxMjI2Njg4NzA3NDVm`
+Snapshot ID: `MTY3MDg2ODI3OCwwMDAwMDAwMDgzZDgzZjgxY2ViZWY2YmE1MmExMDk2YTA1ZDljZjk0`

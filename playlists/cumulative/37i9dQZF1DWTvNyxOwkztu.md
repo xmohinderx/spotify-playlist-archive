@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-224 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+225 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Gekkō](https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Gekkō](https://open.spotify.com/album/1QjSMpgIv97gsI1mHHk0I2) | 3:02 | 2022-03-25 | 2022-07-28 |
 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 | 2022-08-05 |  |
 | [Glass and Plastic \(Instrumental Version\)](https://open.spotify.com/track/2yfAkyDlAzx3zuMvgC0N9g) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS) | [Glass and Plastic](https://open.spotify.com/album/6OvqhTnUPNZ2GSPzp5x8WP) | 3:08 | 2022-03-25 | 2022-04-21 |
+| [Glassy Haze](https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6) | [Kubicova](https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr) | [Glassy Haze](https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf) | 2:33 | 2022-11-25 |  |
 | [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 | 2022-11-25 |  |
 | [Goldclap](https://open.spotify.com/track/1lDEM6ESKlPj3wFBTtZ8Z8) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Fall Again](https://open.spotify.com/album/669HtfPdwIVB2sCpdF0bbU) | 3:59 | 2021-12-09 | 2022-02-21 |
 | [Halo](https://open.spotify.com/track/1p9cjLG43MuaenXlUMvzgP) | [Okwen](https://open.spotify.com/artist/4snWBwVHKKPJ4Ha9LrcLaY) | [Halo](https://open.spotify.com/album/6QofnAjTE7W1sbd1HSGqG7) | 4:18 | 2021-12-09 | 2022-02-27 |
@@ -211,7 +212,7 @@
 | [Utopia](https://open.spotify.com/track/4xRJYmi749eRPbD1TREOB9) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Utopia](https://open.spotify.com/album/6mmkJHEFlPqrtpFwbt5B8V) | 3:05 | 2021-12-09 | 2022-02-27 |
 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 | 2022-11-17 |
 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 | 2022-06-02 | 2022-10-18 |
-| [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 | 2022-11-25 |  |
+| [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 | 2022-11-25 | 2022-12-13 |
 | [Vanishing](https://open.spotify.com/track/1XePxhd6DqIDSrMcoYc94X) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh) | [Vanishing](https://open.spotify.com/album/75VTXKhMgwXqBz7fyU8XYJ) | 8:08 | 2021-12-09 | 2022-04-23 |
 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 | 2022-09-12 |  |
 | [Voices](https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Pool Party](https://open.spotify.com/album/2QwQy5RBIZoagRPUOpmAwe) | 2:47 | 2022-06-02 |  |

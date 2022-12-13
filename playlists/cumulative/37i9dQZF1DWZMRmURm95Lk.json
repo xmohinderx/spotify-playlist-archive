@@ -4250,6 +4250,32 @@
     },
     {
       "album": {
+        "name": "Sang\u00f2",
+        "url": "https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T"
+      },
+      "artists": [
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        },
+        {
+          "name": "Louis Dee",
+          "url": "https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208636,
+      "name": "Sabbie Mobili (feat. Davide Shorty)",
+      "url": "https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7"
+    },
+    {
+      "album": {
         "name": "Addio, a domani.",
         "url": "https://open.spotify.com/album/3wkBMD98Ty2XycLzeJ0enh"
       },
@@ -4773,7 +4799,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"

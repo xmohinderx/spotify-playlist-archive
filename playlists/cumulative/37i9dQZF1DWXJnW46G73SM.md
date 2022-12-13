@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: على لوكا
 
-266 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+267 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Kalam Kobar](https://open.spotify.com/track/0bBNbNMZiU5WQ8Qe5y2peh) | [Mostafa Gad](https://open.spotify.com/artist/5ASLdjUfY4styIRJ5smXmB) | [Kalam Kobar](https://open.spotify.com/album/2z2gS7oXlrbVcnffgffTFU) | 2:32 | 2022-05-18 | 2022-08-21 |
 | [Kan Mawdo3](https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:42 | 2022-01-27 | 2022-04-24 |
 | [Katr Min Orbak](https://open.spotify.com/track/25PxqBg1eC40lRZtXiHYQk) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Katr Min Orbak](https://open.spotify.com/album/3jKzcf98QNkMJrLZ9eGk8Q) | 3:07 | 2021-12-30 | 2022-03-10 |
+| [Khaleek Aneed](https://open.spotify.com/track/74LjFQrbHiRiJgXqhOrRn3) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [Khaleek Aneed](https://open.spotify.com/album/1jWBxVRTqIzB7PHhOm7c6n) | 2:45 | 2022-12-12 |  |
 | [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 | 2022-08-03 | 2022-10-27 |
 | [Khaleny Fe Hodnak](https://open.spotify.com/track/64bw7oItH3tbiWmfhKq4Vg) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Khaleny Fe Hodnak](https://open.spotify.com/album/0Vl0OtSiNJysAHGVrRVlCd) | 3:16 | 2022-01-20 | 2022-04-08 |
 | [Khalik Ma3ana](https://open.spotify.com/track/4BNlYxe0uKK7ilm1Ft4IWo) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Khalik Ma3ana](https://open.spotify.com/album/7bvk6Ma0dtsM1f0HCQZkBV) | 4:17 | 2022-04-07 | 2022-07-31 |
@@ -134,7 +135,7 @@
 | [Lama kont soghayer](https://open.spotify.com/track/4Ub9lUKMl4ae0tLDMpqCBx) | [Shady Shamel](https://open.spotify.com/artist/1vJHplJeBXGKfMzvQrldkb) | [Lama kont soghayer](https://open.spotify.com/album/4nqKCa79eGrrz2CwfIfvcs) | 3:53 | 2022-03-03 | 2022-06-21 |
 | [Lama Lama](https://open.spotify.com/track/38S0fH9jnwtYUpMXd28fNU) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Lama Lama](https://open.spotify.com/album/7Dx9UZUcqKeOyakfB84Bxw) | 3:15 | 2022-09-20 | 2022-09-22 |
 | [Latina](https://open.spotify.com/track/42d62TnY6q3qVR5RiyaEps) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Latina](https://open.spotify.com/album/7mljCWuvJRbbTazyT8R4rR) | 3:06 | 2021-12-23 | 2022-03-10 |
-| [Law Bas Nergaa](https://open.spotify.com/track/7ogQhlO9miA7gt18l0tlRT) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Hady Moamer](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [Law Bas Nergaa](https://open.spotify.com/album/7mxi6m5tjRolq6U2HTTlq2) | 2:43 | 2022-10-07 |  |
+| [Law Bas Nergaa](https://open.spotify.com/track/7ogQhlO9miA7gt18l0tlRT) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Hady Moamer](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [Law Bas Nergaa](https://open.spotify.com/album/7mxi6m5tjRolq6U2HTTlq2) | 2:43 | 2022-10-07 | 2022-12-13 |
 | [Law Bas Nergaa \(New Version \)](https://open.spotify.com/track/4ebqXyZzx1JNVMCHZ0Roxp) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Law Bas Nergaa \(New Version \)](https://open.spotify.com/album/1qVviyoS8hVaIi80u8vCBi) | 2:46 | 2022-12-01 |  |
 | [Law Betheb](https://open.spotify.com/track/1Y96JTJ72TUKLycJK2fQ3y) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Law Betheb](https://open.spotify.com/album/3XVLSCfmMiA8OxohsgoUpR) | 3:24 | 2021-12-23 | 2022-02-25 |
 | [Law Faker \- لو فاكر](https://open.spotify.com/track/0YvgaPYmXbdYd0brGlZEkI) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Law Faker \(لو فاكر\)](https://open.spotify.com/album/0zLiKpIZUGHJvMDvzjwY78) | 3:26 | 2021-12-23 | 2022-01-21 |

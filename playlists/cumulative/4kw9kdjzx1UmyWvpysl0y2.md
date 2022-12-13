@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-369 songs - 21 hr 34 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+370 songs - 21 hr 38 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Través del Tiempo Naranja](https://open.spotify.com/track/1VsQs5sy7vkeixrRmEIN91) | [Airdraw](https://open.spotify.com/artist/5aBN1E7wd2mJU0Ug8fG60K), [Jo.E](https://open.spotify.com/artist/1huIFRAUYkJ5VQ9GcXcUax) | [Océano Naranja](https://open.spotify.com/album/3QVXhWXUHXsVretMx71lb4) | 3:11 | 2021-11-19 | 2022-02-10 |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-10 |  |
 | [Addiction](https://open.spotify.com/track/0XM2m2WD4G0mpQqf3LpBGK) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Addiction](https://open.spotify.com/album/4Jf40Z8SdqGDIjDarkfMDL) | 3:03 | 2022-03-25 | 2022-06-08 |
+| [Afraid of the Dark \- hayve Remix](https://open.spotify.com/track/6TGxVTSPgXV65MCYcaFf3P) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Afraid of the Dark \(hayve Remix\)](https://open.spotify.com/album/5FSRhgzGRiuilD0okKKDct) | 4:04 | 2022-12-12 |  |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-20 | 2022-03-30 |
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
@@ -171,7 +172,7 @@
 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 | 2022-08-04 | 2022-10-19 |
 | [INEEDU](https://open.spotify.com/track/6oj95LjRQSKa5oY6aexgpa) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:33 | 2022-09-22 | 2022-11-25 |
 | [Integration Sequence](https://open.spotify.com/track/0daZirXuEz8FVBlZFu9MsE) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:58 | 2022-11-15 | 2022-11-22 |
-| [Invane](https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Invane](https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW) | 3:42 | 2022-10-13 |  |
+| [Invane](https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Invane](https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW) | 3:42 | 2022-10-13 | 2022-12-13 |
 | [it’s not easy when you’re alone](https://open.spotify.com/track/1T44fRUBJqwWjZDttsMbJv) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:09 | 2022-12-03 |  |
 | [Journey](https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Journey](https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD) | 3:06 | 2022-09-27 | 2022-11-30 |
 | [Journey To Ascendance](https://open.spotify.com/track/7vtQedqaDBjJqg2QA6aDfd) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 4:21 | 2022-11-19 | 2022-11-22 |

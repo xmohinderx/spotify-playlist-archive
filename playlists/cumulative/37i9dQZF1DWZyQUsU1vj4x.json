@@ -2894,6 +2894,28 @@
     },
     {
       "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28"
+      },
+      "artists": [
+        {
+          "name": "Storefront Church",
+          "url": "https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325443,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP"
+    },
+    {
+      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },

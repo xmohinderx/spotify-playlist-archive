@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGFlNzY4YjkzYThmMTc3MjdjNTU1ODI4NTRkMTlhYTZk",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDYyMjk0YWI2MDQ0ZTdjMGQzOTNjMWVlMTFkMGY1YmQ2",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -151,30 +151,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -215,6 +191,30 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -291,26 +291,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 229184,
-      "name": "Giant (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -327,26 +307,6 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "AV\u012aCI (01)",
-        "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Lonely Together (feat. Rita Ora)",
-      "url": "https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -371,6 +331,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "AV\u012aCI (01)",
+        "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Lonely Together (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 210226,
       "name": "The Greatest (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Giant (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 229184,
+      "name": "Giant (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -559,26 +559,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Body Back (feat. Maia Wright)",
-        "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Body Back (feat. Maia Wright)",
-      "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
         "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 215315,
       "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
       "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Body Back (feat. Maia Wright)",
+        "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "Body Back (feat. Maia Wright)",
+      "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -831,6 +831,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Solo Dance",
+        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Solo Dance",
+      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -911,50 +927,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "All Star",
-        "url": "https://open.spotify.com/album/2Es570t0nOuNYxQcdDfZXm"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Hot Shade",
-          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
-        },
-        {
-          "name": "TEN TIMES",
-          "url": "https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd"
-        },
-        {
-          "name": "whoisFIYAH",
-          "url": "https://open.spotify.com/artist/3f7MOkILh9Qh6dn0ks3vQ8"
-        }
-      ],
-      "duration_ms": 151278,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Solo Dance",
-        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Solo Dance",
-      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -999,6 +971,34 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "All Star",
+        "url": "https://open.spotify.com/album/2Es570t0nOuNYxQcdDfZXm"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+        },
+        {
+          "name": "TEN TIMES",
+          "url": "https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd"
+        },
+        {
+          "name": "whoisFIYAH",
+          "url": "https://open.spotify.com/artist/3f7MOkILh9Qh6dn0ks3vQ8"
+        }
+      ],
+      "duration_ms": 151278,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Knockout",
         "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
       },
@@ -1011,26 +1011,6 @@
       "duration_ms": 147789,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1051,6 +1031,26 @@
       "duration_ms": 208106,
       "name": "Breathe (feat. Ina Wroldsen)",
       "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
-      },
-      "artists": [
-        {
-          "name": "Refeci",
-          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
-        },
-        {
-          "name": "Michel Fannoun",
-          "url": "https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Be Someone",
         "url": "https://open.spotify.com/album/7x3X4EQy3RgIS4AGopCyEH"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 204567,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/4esEsg9IxiTAGMBQLe9XOu"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
+      },
+      "artists": [
+        {
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        },
+        {
+          "name": "Michel Fannoun",
+          "url": "https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        }
-      ],
-      "duration_ms": 130899,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "OK (The Remixes)",
         "url": "https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 184013,
       "name": "OK - Ofenbach Remix",
       "url": "https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "duration_ms": 130899,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Don't Worry (Radio Edit)",
-        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
-      },
-      "artists": [
-        {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
-        }
-      ],
-      "duration_ms": 190278,
-      "name": "Don't Worry - Radio Edit",
-      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Sun Is Shining",
         "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
       },
@@ -1463,22 +1447,18 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Too Close",
-        "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
+        "name": "Don't Worry (Radio Edit)",
+        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
       },
       "artists": [
         {
-          "name": "Ria Mae",
-          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
-        },
-        {
-          "name": "Dan Talevski",
-          "url": "https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH"
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
         }
       ],
-      "duration_ms": 147741,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
+      "duration_ms": 190278,
+      "name": "Don't Worry - Radio Edit",
+      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1507,22 +1487,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Safe Place (feat. Maximus)",
-        "url": "https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T"
+        "name": "Too Close",
+        "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
       },
       "artists": [
         {
-          "name": "Pelago",
-          "url": "https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn"
+          "name": "Ria Mae",
+          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
         },
         {
-          "name": "Maximus",
-          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+          "name": "Dan Talevski",
+          "url": "https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH"
         }
       ],
-      "duration_ms": 189867,
-      "name": "Safe Place (feat. Maximus)",
-      "url": "https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs"
+      "duration_ms": 147741,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1543,6 +1523,26 @@
       "duration_ms": 214200,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Safe Place (feat. Maximus)",
+        "url": "https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T"
+      },
+      "artists": [
+        {
+          "name": "Pelago",
+          "url": "https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn"
+        },
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        }
+      ],
+      "duration_ms": 189867,
+      "name": "Safe Place (feat. Maximus)",
+      "url": "https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs"
     },
     {
       "added_at": "2020-02-18 13:31:30",

@@ -675,10 +675,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 106666,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/69UHI9KF5JRwfKmcMNta8k"
+    },
+    {
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84023,
+      "name": "crush on you",
+      "url": "https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6"
     },
     {
       "album": {
@@ -1409,6 +1427,24 @@
     {
       "album": {
         "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96405,
+      "name": "i love being with you",
+      "url": "https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg"
+    },
+    {
+      "album": {
+        "name": "Gentle Boy",
         "url": "https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA"
       },
       "artists": [
@@ -2081,7 +2117,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 168000,
       "name": "Mindfulness",
       "url": "https://open.spotify.com/track/5BZ0yIZtKoySiBIMJK0YOP"
@@ -2701,7 +2737,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 162461,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/2W4tfxMbqiqzhfvRGTWAo5"
@@ -3499,6 +3535,24 @@
       "duration_ms": 86169,
       "name": "Tales of Pub",
       "url": "https://open.spotify.com/track/6xAhgilbQhr0jYerYnex33"
+    },
+    {
+      "album": {
+        "name": "honshu island",
+        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
+      },
+      "artists": [
+        {
+          "name": "mt. fujitive",
+          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71393,
+      "name": "tequila",
+      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
     },
     {
       "album": {

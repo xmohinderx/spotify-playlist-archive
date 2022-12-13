@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-213 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+214 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Diamond \(feat\. Jacob Hemphill of SOJA\)](https://open.spotify.com/track/6avDdJ8d5pgDg53f40kTHy) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Diamond \(feat\. Jacob Hemphill of SOJA\)](https://open.spotify.com/album/4uYwzEszNBV2a5pdaquiCP) | 4:13 | 2022-02-04 | 2022-02-07 |
 | [DJs](https://open.spotify.com/track/53jbCI3T7Enf0ts76ySNYn) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [DJs](https://open.spotify.com/album/7xMJkHig1DBtwA6um5ltM1) | 3:24 | 2021-12-10 | 2022-07-29 |
 | [Down With You](https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT) | 3:30 | 2022-08-05 | 2022-11-12 |
+| [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 | 2022-09-30 |  |
 | [Drifting In Out of Time](https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:15 | 2021-12-10 | 2022-11-27 |
 | [Earthquake Weather](https://open.spotify.com/track/5E4fq3FNmrqj9pQlD4zbrt) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Earthquake Weather](https://open.spotify.com/album/4nzGzHJW8frtilga4igCH4) | 3:25 | 2021-12-10 | 2022-07-29 |
 | [Edge of the Ocean](https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Edge of the Ocean](https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1) | 4:55 | 2022-08-15 |  |
@@ -113,7 +114,7 @@
 | [Lazy Afternoon](https://open.spotify.com/track/5JmJVj3qLsCnBsQ8IC9XLf) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Bright Side of Life](https://open.spotify.com/album/6ry84mOthM6loLKbhuiovs) | 3:30 | 2021-12-10 |  |
 | [Lemonade](https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade](https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr) | 2:51 | 2022-07-06 |  |
 | [Lemonade \(feat\. Mike Posner\)](https://open.spotify.com/track/6MjyB01eNCjBAXbXWDSvju) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade \(feat\. Mike Posner\)](https://open.spotify.com/album/6a8Q4EzInWMxhHrpWxbuAH) | 2:52 | 2022-02-04 | 2022-07-27 |
-| [Let It All Out](https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bret Bollinger](https://open.spotify.com/artist/2dmKeby7UGSfbbxX5y5aAu), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Let It All Out](https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl) | 4:35 | 2021-12-10 |  |
+| [Let It All Out](https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bret Bollinger](https://open.spotify.com/artist/2dmKeby7UGSfbbxX5y5aAu), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Let It All Out](https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl) | 4:35 | 2021-12-10 | 2022-12-13 |
 | [Life's 2 Short](https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 4:00 | 2021-12-10 |  |
 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 | 2022-07-06 |  |
 | [Lift Me Up](https://open.spotify.com/track/4ARoMobdw8Pv6idjmbQUjJ) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Lift Me Up](https://open.spotify.com/album/1aN1BvqkohdINxEHf83z3u) | 2:33 | 2021-12-10 | 2022-07-29 |

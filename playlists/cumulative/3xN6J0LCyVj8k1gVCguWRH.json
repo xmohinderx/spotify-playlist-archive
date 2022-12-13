@@ -31246,6 +31246,24 @@
     },
     {
       "album": {
+        "name": "They Can Say What They Like",
+        "url": "https://open.spotify.com/album/5hpiel9r5L9u3unhcmpqjw"
+      },
+      "artists": [
+        {
+          "name": "Kimaya Diggs",
+          "url": "https://open.spotify.com/artist/2htDUAwQ43hKvaGxAobgSB"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290951,
+      "name": "They Can Say What They Like",
+      "url": "https://open.spotify.com/track/3Pp5PFYOdZHwT3nz4iLk6H"
+    },
+    {
+      "album": {
         "name": "THEY LIKE",
         "url": "https://open.spotify.com/album/40cg0IAqsxZ17hbFIFKHK7"
       },
@@ -31895,6 +31913,24 @@
       "duration_ms": 263373,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
+    },
+    {
+      "album": {
+        "name": "Anthology of Love",
+        "url": "https://open.spotify.com/album/2d43GSz7krsgM31LekX0UB"
+      },
+      "artists": [
+        {
+          "name": "Sunny Cowell",
+          "url": "https://open.spotify.com/artist/5Vx8yHZLeIngcgEJH65uGF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252055,
+      "name": "Too Good To Be True",
+      "url": "https://open.spotify.com/track/6Du8n39SzV59stLwyGLElQ"
     },
     {
       "album": {

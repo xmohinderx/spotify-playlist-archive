@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: CIL
 
-1,095 songs - 2 day 9 hr 35 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+1,096 songs - 2 day 9 hr 38 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2022-03-04 | 2022-07-16 |
 | [Next Thing \(Loverboy\)](https://open.spotify.com/track/3pKgOC7tlm4W0sCDLWPuPE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Next Thing \(Loverboy\)](https://open.spotify.com/album/3KAvR6XKFMYWnOlC7jzevW) | 3:03 | 2021-05-15 | 2021-06-26 |
 | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/track/62GuxZfDmTAnheXJqpbTVl) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/album/1nzeHtYhJ5vVJ0EvhoJ3JT) | 2:51 | 2022-04-08 | 2022-05-20 |
+| [Nineties](https://open.spotify.com/track/7AysA92Rmw6uwTBFPfQxJ3) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52), [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Nineties](https://open.spotify.com/album/4Bi88gDSPSwmKGFqwATHmZ) | 3:30 | 2022-12-12 |  |
 | [NO HOTEL](https://open.spotify.com/track/0ZAPRZcbR0htDzrhfiOina) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [NO HOTEL](https://open.spotify.com/album/0iP3oGotyq8PNwVHm9o2fJ) | 2:26 | 2022-03-25 | 2022-04-09 |
 | [NO ONE’S IN THE ROOM](https://open.spotify.com/track/2C6QUOsR7PfEm3EpXOLvjv) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US+](https://open.spotify.com/album/6TtJmwgLMiPLePBuso4vay) | 4:08 | 2020-10-13\* | 2020-10-29 |
 | [No Ties](https://open.spotify.com/track/3c55CwwJyauL7tUHMoVyn7) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Loved You, What Happened? \(Deluxe\)](https://open.spotify.com/album/1yVrwIy3icKDiyMDBLbJDr) | 2:30 | 2022-08-19 | 2022-09-10 |

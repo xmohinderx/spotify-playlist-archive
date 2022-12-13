@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-471 songs - 1 day 2 hr 46 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+472 songs - 1 day 2 hr 49 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Central City 中の都](https://open.spotify.com/track/2nRPWDnuUxpZY90B9MHUV5) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave II](https://open.spotify.com/album/1GFoofcnejLjZfvQeQjPLH) | 2:56 | 2022-04-12 | 2022-04-14 |
 | [Change](https://open.spotify.com/track/64IOxsrXZIm0IY4ABbT22Y) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Change](https://open.spotify.com/album/5wgFBDW3fRjle5ltgDVuPM) | 2:55 | 2021-12-08 | 2022-05-20 |
 | [Cheetahs in Barcelona](https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Cheetahs in Barcelona](https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC) | 2:49 | 2022-04-12 | 2022-07-28 |
-| [CHERRY BLOSSOMS](https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [SOUL MATES](https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C) | 2:29 | 2021-12-08 | 2022-11-05 |
+| [CHERRY BLOSSOMS](https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [SOUL MATES](https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C) | 2:29 | 2021-12-08 |  |
 | [Chill City](https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 7:24 | 2022-02-27 | 2022-07-29 |
 | [Chillin' With Some Koi Fish](https://open.spotify.com/track/4wFAa3hEi4ApV5U06kT5JY) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Chillin' With Some Koi Fish](https://open.spotify.com/album/4R0PhvKPl0Ol1tvp6BAUTS) | 4:00 | 2022-01-25 | 2022-07-27 |
 | [City Nightlife \- Original Mix](https://open.spotify.com/track/4X7DNtQrK71hShiyeognoq) | [architecture in tokyo](https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Royal Club, Vol\. 3](https://open.spotify.com/album/6QY51ifImoOIngncUguYlp) | 3:36 | 2021-12-08 |  |
@@ -373,6 +373,7 @@
 | [Sonic Boom](https://open.spotify.com/track/5HooTABpv8hlCKCzJ74LTo) | [ED.](https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM), [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Sonic Boom](https://open.spotify.com/album/0iWcaH2ElYZfTJTELwwYrL) | 3:39 | 2021-12-08 | 2022-07-26 |
 | [Soul](https://open.spotify.com/track/7LoZEGOrU0h8nY6YK4fywE) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Soul](https://open.spotify.com/album/6DmxMwMs19UtWdxXwCnYr5) | 3:00 | 2021-12-08 | 2022-07-29 |
 | [SOULLL](https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye) | 2:56 | 2021-12-08 | 2022-10-20 |
+| [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 | 2022-11-04 |  |
 | [Sparky \(Original\)](https://open.spotify.com/track/04vGT4j9W8RWBRmIgHJsIL) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD) | [Sunrise](https://open.spotify.com/album/548ClvNMwySekhhDeV8nn5) | 2:28 | 2021-12-08 | 2022-07-29 |
 | [Special \- Original Mix](https://open.spotify.com/track/4SkzxyoJk7oCX4uBEPaLma) | [Chesus](https://open.spotify.com/artist/3MjemMX99kp1QLaHVQt20N) | [Monster Munch EP](https://open.spotify.com/album/3HSrY3PGXumB7OqqjjxKwH) | 7:08 | 2022-03-04 | 2022-03-12 |
 | [Square Two](https://open.spotify.com/track/7nGEutN0d98FkCfn25IjPS) | [RobClemz](https://open.spotify.com/artist/4Nkb0v2WNspZl2YD9WItri) | [Square Two](https://open.spotify.com/album/6m4ldqdG7f6GNhgrgHDRy0) | 3:48 | 2021-12-08 | 2022-07-29 |
@@ -393,7 +394,7 @@
 | [Sugar](https://open.spotify.com/track/0lTLPnOBpuHWyaLbYfbPDR) | [Doktor Plekter](https://open.spotify.com/artist/2442tig4wDqNkmv4nI1sOd) | [Regn](https://open.spotify.com/album/23MAm7Xg0U5NVHxSHyLV66) | 2:30 | 2022-04-12 | 2022-07-29 |
 | [Suki? Suki!](https://open.spotify.com/track/7uYArFrQ9ZXCNPsR6AVynH) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Suki? Suki!](https://open.spotify.com/album/2mcC1vaUheQ1Hq2zSXfQAb) | 4:55 | 2022-04-12 | 2022-04-21 |
 | [Summer Cruise](https://open.spotify.com/track/6Bijp8wdLHU6bbShrQoZiT) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Summer 99 Extended](https://open.spotify.com/album/0c8XNFUW0YGziJ6GPtahYe) | 2:36 | 2021-12-08 | 2022-07-26 |
-| [Summer Splash](https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Summer Splash](https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6) | 3:47 | 2022-08-12 |  |
+| [Summer Splash](https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Summer Splash](https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6) | 3:47 | 2022-08-12 | 2022-12-13 |
 | [Sunset](https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv) | 2:40 | 2022-06-01 |  |
 | [Sunset Drive](https://open.spotify.com/track/7fPELlJVQMXCDu3iEz3KOw) | [Fujifire](https://open.spotify.com/artist/6HWS7D9Zoa1M7FwuCWWVlc) | [Waifu Radio 2](https://open.spotify.com/album/3hCcvYsCjwyDRszRHeYy2Z) | 2:16 | 2022-01-25 | 2022-05-24 |
 | [Sunset On The Shore](https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4) | [Android Apartment](https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK) | [DaFuture Is Now](https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s) | 2:51 | 2022-04-12 |  |
@@ -420,7 +421,7 @@
 | [This Is It](https://open.spotify.com/track/2SQqNZF6ofMYk18VTu6vXt) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [B4E](https://open.spotify.com/album/6X6BP547q2EhoEsDVbwMt6) | 2:52 | 2022-07-15 | 2022-11-02 |
 | [This Is It](https://open.spotify.com/track/5DEGmMh9qyEMxQ33QshXUI) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [B4E](https://open.spotify.com/album/1HPiMWP73QOQEk0Cwx3rXg) | 2:52 | 2022-04-12 | 2022-04-19 |
 | [This Is Just a Test](https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [This Is Just a Test](https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8) | 6:03 | 2021-12-08 |  |
-| [Tidal Wave](https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Tidal Wave](https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp) | 3:23 | 2022-09-16 |  |
+| [Tidal Wave](https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Tidal Wave](https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp) | 3:23 | 2022-09-16 | 2022-12-13 |
 | [Tijuana](https://open.spotify.com/track/5sd7kMz5p770fYhcD9w4rd) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Tijuana](https://open.spotify.com/album/0pG9TNCOu6ER6CvaNgObTO) | 2:12 | 2022-07-15 | 2022-09-17 |
 | [TIMERIDER 1983](https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 3:08 | 2022-04-12 | 2022-07-19 |
 | [Together](https://open.spotify.com/track/2c8x6A7vjKlrOT6RTGIC5C) | [Matsura](https://open.spotify.com/artist/3TS2KmJU9ERw2P6ldPUG5w), [Kissmenerdygirl](https://open.spotify.com/artist/3SRa0YRBq1KCiC6EwhagEi) | [Together](https://open.spotify.com/album/5slxVBCMsUbcgSva0ytdey) | 3:24 | 2022-02-27 | 2022-04-21 |

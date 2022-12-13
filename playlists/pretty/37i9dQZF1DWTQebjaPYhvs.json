@@ -1,13 +1,125 @@
 {
   "description": "The official playlist for <a href=\"spotify:user:0ouhj3nctpqgo8bgamzte2o6o\">Paramount Network</a>'s Yellowstone.",
-  "num_followers": 116351,
+  "num_followers": 118743,
   "original_name": "Yellowstone Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ0NjMxMywwMDAwMDAwMDU4MWJiNzYzMGY1ZWM3YTI3NjkzNGUzNmY3NmZlZGVh",
+  "snapshot_id": "MTY3MDg3NDQ5NCwwMDAwMDAwMDkxYzliNzdmYmU1M2I4ZWQyNGY4ZmY4MDkwZDZlYzlm",
   "tracks": [
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Fear and Saturday Night",
+        "url": "https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 255697,
+      "name": "Nobody Knows My Trouble",
+      "url": "https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/7Fa7EcDrcGw2SUh8WjX3zo"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "After the Fire",
+        "url": "https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 179295,
+      "name": "One Good Decision",
+      "url": "https://open.spotify.com/track/2DQOL9yHgq9OLTUhyHPKm3"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Factories, Farms & Amphetamines",
+        "url": "https://open.spotify.com/album/0ActL0zLX4MYN4pOcOjm8b"
+      },
+      "artists": [
+        {
+          "name": "Myron Elkins",
+          "url": "https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Factories, Farms & Amphetamines",
+      "url": "https://open.spotify.com/track/3tAiYwZoNxsIH4uswEEoZ6"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/6pDo5cqQYdCekqJthJFFBk"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hoskins",
+          "url": "https://open.spotify.com/artist/7FSF3vuIliCSshbpPAnA7E"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "H-Town Turnaround",
+      "url": "https://open.spotify.com/track/4NE7SPLiUV96VgGmbIUqmZ"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Wrong Side Of The River",
+        "url": "https://open.spotify.com/album/3t95eQ548nZyQIsvizYOMM"
+      },
+      "artists": [
+        {
+          "name": "Myron Elkins",
+          "url": "https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "Wrong Side Of The River",
+      "url": "https://open.spotify.com/track/2qAH4Al00y0M7qzUOqAv00"
+    },
     {
       "added_at": "2022-12-06 00:12:34",
       "album": {

@@ -3170,6 +3170,28 @@
     },
     {
       "album": {
+        "name": "C\u0153ur blanc",
+        "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158813,
+      "name": "La vie de r\u00eave",
+      "url": "https://open.spotify.com/track/5joUzFnW2GLrktOQpIswU6"
+    },
+    {
+      "album": {
         "name": "Laat Dat",
         "url": "https://open.spotify.com/album/52crv8PIm3sJmJtqFOXkLU"
       },

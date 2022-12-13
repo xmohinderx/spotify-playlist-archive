@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230847,
+  "num_followers": 230842,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGE2YjY3YjYzNzNmYmU1NjNmYzQwMWM0MDkwNzJkZGIx",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDgwODAzMmNmZjdiM2E1ZDYzOWU2MjM2N2Q5NjNmMDNk",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -67,38 +67,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Retreat",
-        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
-      },
-      "artists": [
-        {
-          "name": "Sinee",
-          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
-        }
-      ],
-      "duration_ms": 171137,
-      "name": "Retreat",
-      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "A Message From Your Space Cat",
-        "url": "https://open.spotify.com/album/595Vz1BEE85V5qZFY5beiD"
-      },
-      "artists": [
-        {
-          "name": "Felix Johansson Carne",
-          "url": "https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk"
-        }
-      ],
-      "duration_ms": 306155,
-      "name": "When The Rain Came",
-      "url": "https://open.spotify.com/track/4MPDnIwhYbwqnQzkHKDp3h"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Feel It Still",
         "url": "https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t"
       },
@@ -119,6 +87,38 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "A Message From Your Space Cat",
+        "url": "https://open.spotify.com/album/595Vz1BEE85V5qZFY5beiD"
+      },
+      "artists": [
+        {
+          "name": "Felix Johansson Carne",
+          "url": "https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk"
+        }
+      ],
+      "duration_ms": 306155,
+      "name": "When The Rain Came",
+      "url": "https://open.spotify.com/track/4MPDnIwhYbwqnQzkHKDp3h"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Retreat",
+        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
+      },
+      "artists": [
+        {
+          "name": "Sinee",
+          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
+        }
+      ],
+      "duration_ms": 171137,
+      "name": "Retreat",
+      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Treat Me Right",
         "url": "https://open.spotify.com/album/5bmQcoWunv50RmZmNMj858"
       },
@@ -135,22 +135,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Wicked Hearts",
-        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
+        "name": "Montrose Ave",
+        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
       },
       "artists": [
         {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
-        },
-        {
-          "name": "Jamie Hartman",
-          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
         }
       ],
-      "duration_ms": 189136,
-      "name": "Wicked Hearts",
-      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
+      "duration_ms": 173320,
+      "name": "Montrose Ave",
+      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -187,18 +183,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Montrose Ave",
-        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
+        "name": "Wicked Hearts",
+        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
       },
       "artists": [
         {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        },
+        {
+          "name": "Jamie Hartman",
+          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
         }
       ],
-      "duration_ms": 173320,
-      "name": "Montrose Ave",
-      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
+      "duration_ms": 189136,
+      "name": "Wicked Hearts",
+      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -307,18 +307,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "The Look of Love",
-        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
+        "name": "Back To You (Joey Pecoraro Remix)",
+        "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
       },
       "artists": [
         {
-          "name": "farfetch'd",
-          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
         }
       ],
-      "duration_ms": 194429,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
+      "duration_ms": 226644,
+      "name": "Back To You - Joey Pecoraro Remix",
+      "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -387,22 +391,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Back To You (Joey Pecoraro Remix)",
-        "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
+        "name": "The Look of Love",
+        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
         }
       ],
-      "duration_ms": 226644,
-      "name": "Back To You - Joey Pecoraro Remix",
-      "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
+      "duration_ms": 194429,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
         "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "White Heart Sand",
         "url": "https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd"
       },
@@ -575,34 +575,34 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
       },
       "artists": [
         {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
         }
       ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Ever Wonder",
-        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
       "artists": [
         {
-          "name": "Linae",
-          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 147367,
-      "name": "Don't Ever Wonder",
-      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
       },
       "artists": [
         {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
         }
       ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
-      },
-      "artists": [
-        {
-          "name": "Mac Beez",
-          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "When I'm Gone",
         "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 192472,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
+      },
+      "artists": [
+        {
+          "name": "Mac Beez",
+          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
-      },
-      "artists": [
-        {
-          "name": "PANG!",
-          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Surf The Orange Water",
         "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 189880,
       "name": "Violet Breeze",
       "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
+      },
+      "artists": [
+        {
+          "name": "PANG!",
+          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Midnight Sky",
-        "url": "https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg"
-      },
-      "artists": [
-        {
-          "name": "Sol Calor",
-          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
-        }
-      ],
-      "duration_ms": 214096,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 229581,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Midnight Sky",
+        "url": "https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg"
+      },
+      "artists": [
+        {
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+        }
+      ],
+      "duration_ms": 214096,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
-      },
-      "artists": [
-        {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
-        }
-      ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Kindisch Presents: Kindisch Steps VI",
         "url": "https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy"
       },
@@ -931,6 +915,54 @@
       "duration_ms": 719414,
       "name": "Nuit d'Afrique",
       "url": "https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Follow the Sun",
+        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
+      },
+      "artists": [
+        {
+          "name": "Gnarly Gibbs",
+          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
+        }
+      ],
+      "duration_ms": 243624,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Bellevue",
+        "url": "https://open.spotify.com/album/65ncxNO2Kt96Cxwpu3tedv"
+      },
+      "artists": [
+        {
+          "name": "Isla Bonner",
+          "url": "https://open.spotify.com/artist/2rbgxJc6kAcF1PzeVrFgUo"
+        }
+      ],
+      "duration_ms": 198894,
+      "name": "Bellevue",
+      "url": "https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+      },
+      "artists": [
+        {
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -987,38 +1019,6 @@
       "duration_ms": 218584,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Follow the Sun",
-        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
-      },
-      "artists": [
-        {
-          "name": "Gnarly Gibbs",
-          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
-        }
-      ],
-      "duration_ms": 243624,
-      "name": "Follow the Sun",
-      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Bellevue",
-        "url": "https://open.spotify.com/album/65ncxNO2Kt96Cxwpu3tedv"
-      },
-      "artists": [
-        {
-          "name": "Isla Bonner",
-          "url": "https://open.spotify.com/artist/2rbgxJc6kAcF1PzeVrFgUo"
-        }
-      ],
-      "duration_ms": 198894,
-      "name": "Bellevue",
-      "url": "https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W"
     }
   ],
   "unique_name": "Aperitivo Time",

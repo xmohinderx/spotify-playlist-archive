@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Stromae
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,205 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,223 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 64 | [Crépuscule](https://open.spotify.com/track/3SqaQQ3WiaKNO64iZbotqj) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:45 |
 | 65 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 | 66 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:32 |
-| 67 | [Tu t’en iras](https://open.spotify.com/track/273vXUGkKr04KJUPvWD16Y) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Traîtrise](https://open.spotify.com/album/6bddo91xZo2y4MdeMc0Jxz) | 3:26 |
-| 68 | [IDGAF](https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES), [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [IDGAF](https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx) | 2:21 |
-| 69 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
-| 70 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
+| 67 | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 |
+| 68 | [Tu t’en iras](https://open.spotify.com/track/273vXUGkKr04KJUPvWD16Y) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Traîtrise](https://open.spotify.com/album/6bddo91xZo2y4MdeMc0Jxz) | 3:26 |
+| 69 | [IDGAF](https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES), [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [IDGAF](https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx) | 2:21 |
+| 70 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
 | 71 | [Lil Bit \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/33aow0AcXYvT1FoWNzMcqN) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 3:15 |
 | 72 | [Ciao](https://open.spotify.com/track/0aZLOxHw1ZeGYH3xDDywaO) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Ciao](https://open.spotify.com/album/61sqiWB2Mjp38tQYvwVg5B) | 3:57 |
 | 73 | [Quand la route est longue \- Radio Edit](https://open.spotify.com/track/5J60TBnpkXpncoXOjDENoV) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Quand la route est longue \(feat\. FouKi\) \[Radio Edit\]](https://open.spotify.com/album/04V5LztQcB3ltQ9BXGJMEY) | 2:54 |
 | 74 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 75 | [Les avions de Mirabel](https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Les avions de Mirabel](https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ) | 3:40 |
 
-Snapshot ID: `MTY3MDc4MDU2MSwwMDAwMDAwMDgxNzQ4ZmJhYTI2NzNjNTViZjcxMmU0MDdkNDU4ZDk1`
+Snapshot ID: `MTY3MDg1NjY4NSwwMDAwMDAwMGY5NGU3NTQ2MDExNGMyNDAyOTYyOGFlMTYyNjVmNjk4`

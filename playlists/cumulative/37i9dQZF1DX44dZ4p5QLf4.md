@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-284 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+285 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Screw My Head Back On](https://open.spotify.com/track/2tlhFFTqAcM2OgAF4NOAtY) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Len](https://open.spotify.com/artist/2iYJH0zXVSgpM6Ln6zslxj) | [Screw My Head Back On](https://open.spotify.com/album/41ipmhsYupEWd8N3rrNudY) | 2:56 | 2022-12-02 |  |
 | [sealand](https://open.spotify.com/track/0snUtOBX7IyyygQHflCUNj) | [Jon Ari](https://open.spotify.com/artist/1mIExdFD1z8x2QqX2NcKSf) | [sealand](https://open.spotify.com/album/3uoHVEX65eMnvDEsDc2IMG) | 4:18 | 2022-10-28 |  |
 | [Security Code](https://open.spotify.com/track/2ZOIl2JPKxTKNqJboeSrWd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 3:35 | 2022-10-28 |  |
+| [Send My Love](https://open.spotify.com/track/543xswdRTjGmimDJk9AlZN) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [What We Call Life](https://open.spotify.com/album/6Ifae2tRjg49lTQ9390iOD) | 4:04 | 2022-12-12 |  |
 | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/album/7tOJroeUUAj21SaBgC1DZe) | 6:27 | 2021-12-16 | 2022-12-03 |
 | [Show Me Your Soul](https://open.spotify.com/track/2QAIHt55p0lrGAIF3Ed15B) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Show Me Your Soul](https://open.spotify.com/album/3RpnwB22Lju8ZxktyHDyCa) | 4:03 | 2021-12-16 | 2022-01-14 |
 | [Sick and Tired](https://open.spotify.com/track/2qIPGkiLptLwwym8UeQgQz) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Sick and Tired](https://open.spotify.com/album/5jrRpdXIk3pHD0oDP0eAaH) | 3:20 | 2022-10-28 | 2022-12-03 |

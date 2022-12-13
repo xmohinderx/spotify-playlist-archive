@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 158508,
       "name": "After",
       "url": "https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 245643,
       "name": "Already Won",
       "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
@@ -5629,7 +5629,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 168003,
       "name": "His Side",
       "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
@@ -6113,7 +6113,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 192053,
       "name": "I Did It",
       "url": "https://open.spotify.com/track/46WvgmhHE4OE3g4oDAVrex"
@@ -10205,7 +10205,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 207876,
       "name": "PEACE OF MIND",
       "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
@@ -10747,6 +10747,24 @@
       "duration_ms": 143512,
       "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
       "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
+    },
+    {
+      "album": {
+        "name": "PROTECTION",
+        "url": "https://open.spotify.com/album/7Mucz0I1hguprVLvCEKyL4"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135680,
+      "name": "PROTECTION",
+      "url": "https://open.spotify.com/track/2M6EwbiKTPDHLtgQQR1hBR"
     },
     {
       "album": {

@@ -70,6 +70,28 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/3EanE5iTkBAnMIclLiuvMG"
+      },
+      "artists": [
+        {
+          "name": "LOCKBOX",
+          "url": "https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro"
+        },
+        {
+          "name": "Rachel Leycroft",
+          "url": "https://open.spotify.com/artist/6C6qqlV7VNMEN2jIwYJcNM"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194887,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0gJGVFeMLs9i9rVV1XVeF4"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
       },
@@ -1371,6 +1393,24 @@
       "duration_ms": 200869,
       "name": "Drift Like A Cloud, Flow Like Water",
       "url": "https://open.spotify.com/track/4eH90XBDNITj5M8TradkSS"
+    },
+    {
+      "album": {
+        "name": "Drift Like A Cloud, Flow Like Water",
+        "url": "https://open.spotify.com/album/1syy8JwtKmP9j8Yb1pVRa5"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Drift Like A Cloud, Flow Like Water",
+      "url": "https://open.spotify.com/track/5rHaDTx6Srktjqza8mLxGz"
     },
     {
       "album": {
@@ -2829,7 +2869,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 291200,
       "name": "Higher Than Heaven",
       "url": "https://open.spotify.com/track/6UdWxz9fpHsd1l7epg4jyH"
@@ -5987,7 +6027,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 196285,
       "name": "underneath",
       "url": "https://open.spotify.com/track/100ItW5hfY7iax9m74rssm"

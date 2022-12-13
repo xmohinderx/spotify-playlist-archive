@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 330147,
+  "num_followers": 330255,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMGQ3MTRiMWMyMzQzM2I0ODE4ODU0ZWU5YTRhYTQyYjBk",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMGExMDViZWJhODU0MmY0ZWNjNTRiZDMyZjFlY2Q0ODMx",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Viene de Mi",
+        "url": "https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Viene de Mi",
+      "url": "https://open.spotify.com/track/5Hs9XxMWxUj973mlLHw6BV"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
       },
@@ -251,18 +267,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Viene de Mi",
-        "url": "https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7"
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
       },
       "artists": [
         {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Viene de Mi",
-      "url": "https://open.spotify.com/track/5Hs9XxMWxUj973mlLHw6BV"
+      "duration_ms": 206148,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -287,18 +303,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
+        "name": "Serpiente Dorada",
+        "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
       },
       "artists": [
         {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
         }
       ],
-      "duration_ms": 206148,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
+      "duration_ms": 189569,
+      "name": "Serpiente Dorada",
+      "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -319,18 +335,58 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Serpiente Dorada",
-        "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
       },
       "artists": [
         {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 189569,
-      "name": "Serpiente Dorada",
-      "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
+      "duration_ms": 206895,
+      "name": "Azul Oro",
+      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/4qYVBtC9qkZpEIRZDLyUHg"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        },
+        {
+          "name": "Benjam\u00edn Vanegas",
+          "url": "https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF"
+        }
+      ],
+      "duration_ms": 221925,
+      "name": "Mama Clo",
+      "url": "https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -359,22 +415,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
       },
@@ -387,22 +427,6 @@
       "duration_ms": 230893,
       "name": "Deja",
       "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -423,22 +447,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
       "artists": [
         {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
         }
       ],
-      "duration_ms": 206895,
-      "name": "Azul Oro",
-      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -463,22 +483,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/4qYVBtC9qkZpEIRZDLyUHg"
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
       },
       "artists": [
         {
           "name": "Thornato",
           "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        },
-        {
-          "name": "Benjam\u00edn Vanegas",
-          "url": "https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF"
         }
       ],
-      "duration_ms": 221925,
-      "name": "Mama Clo",
-      "url": "https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW"
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -551,22 +567,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Bennu",
-        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Chapinero",
-      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Shika Shika / Botanas, Vol. 15",
         "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
       },
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Sonido Campechano",
-        "url": "https://open.spotify.com/album/4yCDTz9oDmbOTGnoT2VjT2"
-      },
-      "artists": [
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        },
-        {
-          "name": "Digital Charanga",
-          "url": "https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu"
-        }
-      ],
-      "duration_ms": 271128,
-      "name": "Sonido Campechano",
-      "url": "https://open.spotify.com/track/77KdCvsETlcP0DcVesil1U"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
       },
@@ -659,6 +639,42 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Sonido Campechano",
+        "url": "https://open.spotify.com/album/4yCDTz9oDmbOTGnoT2VjT2"
+      },
+      "artists": [
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        },
+        {
+          "name": "Digital Charanga",
+          "url": "https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu"
+        }
+      ],
+      "duration_ms": 271128,
+      "name": "Sonido Campechano",
+      "url": "https://open.spotify.com/track/77KdCvsETlcP0DcVesil1U"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Ostriconi",
+        "url": "https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd"
+      },
+      "artists": [
+        {
+          "name": "Yeahman",
+          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
+        }
+      ],
+      "duration_ms": 285990,
+      "name": "Sakoneta",
+      "url": "https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Te Quiero Olvidar",
         "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
       },
@@ -671,26 +687,6 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
-      },
-      "artists": [
-        {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 196998,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -711,6 +707,26 @@
       "duration_ms": 205252,
       "name": "Otun (feat. Nidia Gongora)",
       "url": "https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -783,22 +799,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Ostriconi",
-        "url": "https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd"
-      },
-      "artists": [
-        {
-          "name": "Yeahman",
-          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
-        }
-      ],
-      "duration_ms": 285990,
-      "name": "Sakoneta",
-      "url": "https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
         "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
       },
@@ -815,6 +815,26 @@
       "duration_ms": 260504,
       "name": "Tarpuricusum Sarata - Captain Planet Remix",
       "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Bleu de lune (El Buho Remix)",
+        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
+      },
+      "artists": [
+        {
+          "name": "Zoufris Maracas",
+          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Bleu de lune (El Buho Remix)",
+      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -839,22 +859,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Bleu de lune (El Buho Remix)",
-        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
+        "name": "Semillero",
+        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
       "artists": [
         {
-          "name": "Zoufris Maracas",
-          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
         },
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
         }
       ],
-      "duration_ms": 281100,
-      "name": "Bleu de lune (El Buho Remix)",
-      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
+      "duration_ms": 348009,
+      "name": "Pua",
+      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -895,26 +915,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Semillero",
-        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
-      },
-      "artists": [
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        },
-        {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
-        }
-      ],
-      "duration_ms": 348009,
-      "name": "Pua",
-      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "T\u00fa Me Llevas",
         "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
       },
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
+        "name": "Kuru Kuru",
+        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
       },
       "artists": [
         {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 231346,
-      "name": "Sendero del Monte",
-      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
+      "duration_ms": 311141,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -963,6 +963,22 @@
       "duration_ms": 220725,
       "name": "Sutileza",
       "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Sendero del Monte",
+      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Kuru Kuru",
-        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 311141,
-      "name": "Soma",
-      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "P\u00e1jaro",
-        "url": "https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 222787,
-      "name": "P\u00e1jaro",
-      "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Solpor",
         "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Enter the San",
-        "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
+        "name": "P\u00e1jaro",
+        "url": "https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP"
       },
       "artists": [
         {
-          "name": "SUPERSAN",
-          "url": "https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 199000,
-      "name": "The Corsican",
-      "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
+      "duration_ms": 222787,
+      "name": "P\u00e1jaro",
+      "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1095,6 +1079,22 @@
       "duration_ms": 283106,
       "name": "Salsa Caliente (Versi\u00f3n Aumentada)",
       "url": "https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
+      },
+      "artists": [
+        {
+          "name": "Simah",
+          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
+        }
+      ],
+      "duration_ms": 173043,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

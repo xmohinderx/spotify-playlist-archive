@@ -4,7 +4,7 @@
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-88 songs - 4 hr 48 min - not published yet
+90 songs - 4 hr 54 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Cada Diciembre](https://open.spotify.com/track/06jpTiHUJBpgXaiPvrFMLE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 2:37 | 2022-11-25 |  |
 | [Cada Diciembre](https://open.spotify.com/track/2jUDLQVevkcvu8H4BpRcmZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Navidad Con DEL](https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd) | 2:41 | 2022-11-25 |  |
 | [Cada Diciembre](https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Cada Diciembre](https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI) | 2:27 | 2022-11-25 |  |
+| [Cumbia Navideña](https://open.spotify.com/track/2zI42OfeV1hiqKor0ZR1Ou) | [Tamarindo Norteño](https://open.spotify.com/artist/08iGmnBkoG9wJxPUtoGX8n) | [Cumbia Navideña](https://open.spotify.com/album/6uOaixrTIaSIuEwIP7ofOF) | 3:02 | 2022-11-25 |  |
 | [Cumbia Sampuesana](https://open.spotify.com/track/4DT7amzC7kRipgLP0BHQhp) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Puro Cumbion](https://open.spotify.com/album/3FCRggpb1Ea1uGWvqB7YGQ) | 3:51 | 2022-11-25 |  |
 | [Cumbión Navideño](https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:27 | 2022-11-25 |  |
 | [Cómo Poder Olvidar \- Spotify Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-25 |  |
@@ -40,7 +41,7 @@
 | [En Esta Navidad](https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:00 | 2022-11-25 |  |
 | [Feliz Navidad](https://open.spotify.com/track/0Es2hHjYJqRPlQjMxm6sut) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 3:29 | 2022-11-25 |  |
 | [Feliz Navidad](https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx) | 3:02 | 2022-11-25 |  |
-| [Feliz Navidad](https://open.spotify.com/track/2iwnWECzRquTRG4LA5Wcdg) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Navidad Con DEL](https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd) | 2:34 | 2022-11-25 |  |
+| [Feliz Navidad](https://open.spotify.com/track/2iwnWECzRquTRG4LA5Wcdg) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Navidad Con DEL](https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd) | 2:34 | 2022-11-25 | 2022-12-13 |
 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 | 2022-11-25 |  |
 | [Juana La Cubana](https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 3:10 | 2022-11-25 |  |
 | [La Bala](https://open.spotify.com/track/2PsYNKGoDGJ3gRXuHICdRv) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Los Ultimos Exitos De Rigo Tovar](https://open.spotify.com/album/0QXfEvC4wzO6uj8ftQcPY8) | 6:21 | 2022-11-25 |  |
@@ -78,6 +79,7 @@
 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 | 2022-11-25 |  |
 | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Sonidos de la Navidad](https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps) | 2:15 | 2022-11-25 |  |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Kenia Ríos](https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr), [Anahi Ríos](https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa) | 2:00 | 2022-11-25 |  |
+| [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:14 | 2022-11-25 |  |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/7x545dFXOgtfLpXUyjKUoA) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:06 | 2022-11-25 | 2022-11-29 |
 | [Santa Quiero](https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV) | 3:45 | 2022-11-25 |  |
 | [Se Acerca Navidad](https://open.spotify.com/track/0SLJQuE1QvGq4Q2VWH43ZG) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Se Acerca Navidad](https://open.spotify.com/album/2QZTrlrTV3ipvIrWSChX2B) | 3:02 | 2022-11-25 |  |
@@ -93,7 +95,7 @@
 | [Ven A Cantar](https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:51 | 2022-11-25 |  |
 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Navidad Desde El Meritito Norte](https://open.spotify.com/album/1qNZCd4PLDIEEMxWzFF7ia) | 3:23 | 2022-11-25 |  |
 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/7cWMHZIakSw3ANHmNSyndX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:00 | 2022-11-25 | 2022-12-08 |
-| [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/0Elh3shPTKaiUdIU3mBYsi) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/6e1jqaPkuniJviXyD5cYzs) | 3:56 | 2022-11-25 |  |
+| [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/0Elh3shPTKaiUdIU3mBYsi) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/6e1jqaPkuniJviXyD5cYzs) | 3:56 | 2022-11-25 | 2022-12-13 |
 | [Voy A Pedirle A Santa Claus](https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Voy A Pedirle A Santa Claus](https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW) | 2:37 | 2022-11-25 |  |
 | [Ya Viene Nochebuena](https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Ya Viene Nochebuena](https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3) | 3:16 | 2022-11-25 |  |
 

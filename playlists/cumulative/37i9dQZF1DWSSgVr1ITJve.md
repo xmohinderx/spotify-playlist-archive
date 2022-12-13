@@ -2,9 +2,9 @@
 
 ### [Afro Arab](https://open.spotify.com/playlist/37i9dQZF1DWSSgVr1ITJve)
 
-> Afro culture mixed with Arab vibes\. Cover: Ali Loka.
+> Afro culture mixed with Arab vibes\. Cover: NORDO.
 
-68 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
+70 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bambina](https://open.spotify.com/track/09NO7m5tTpmYhiEL5sBPwt) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/1Kfc1pIltwwiY27TLdFwrs) | 3:20 | 2022-06-29 | 2022-10-03 |
 | [Bambina](https://open.spotify.com/track/0lOLxwEXLME2ErktCMPCqM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/4X7dvnMEgl6DU8K3QW3IYT) | 3:20 | 2022-06-29 | 2022-07-29 |
 | [Bambina](https://open.spotify.com/track/7GRkUt2D8RZJVn8uWVpa9o) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/6pVwkIiwNhL0Vd3auyMEjj) | 3:20 | 2022-07-29 |  |
-| [Bent Bledi](https://open.spotify.com/track/6pmfgLXdjDGh7yZNJm9UzE) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN) | [Bent Bledi](https://open.spotify.com/album/7fGghF4qh710J4MH17PkdD) | 3:25 | 2022-06-29 |  |
+| [Bent Bledi](https://open.spotify.com/track/6pmfgLXdjDGh7yZNJm9UzE) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN) | [Bent Bledi](https://open.spotify.com/album/7fGghF4qh710J4MH17PkdD) | 3:25 | 2022-06-29 | 2022-12-13 |
 | [Camarade](https://open.spotify.com/track/0CfObNLYtMjLl48C6mas3e) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Camarade](https://open.spotify.com/album/793etT1bYUi0QuQYKaXwjq) | 2:42 | 2022-06-29 |  |
 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 | 2022-06-29 |  |
 | [Cava](https://open.spotify.com/track/0b5kfpiTDnHLu4vjh240gW) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Cava](https://open.spotify.com/album/0jg01ov7uPakGjnNftHvvT) | 2:55 | 2022-06-29 |  |
@@ -29,7 +29,8 @@
 | [Echemaa](https://open.spotify.com/track/779HmAwLrCbbPGQXaVXUsZ) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/1M3mHlbXyEAwS3ygFxRDhS) | 2:24 | 2022-07-29 |  |
 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 | 2022-06-29 |  |
 | [El Madi](https://open.spotify.com/track/2nqE5xiKvAJgfKzDlA7Fk5) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k), [Mr Choco](https://open.spotify.com/artist/6Gm8ZCNMGwbLcM5snYUr5v) | [El Madi](https://open.spotify.com/album/1vBQ92dp5JxEDDlckKfvRk) | 3:33 | 2022-06-29 |  |
-| [Filamén](https://open.spotify.com/track/2jz4XbBHonx48cyTgvcBt5) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Filamén](https://open.spotify.com/album/7sWnujOhwvK7E3o4Xgay9l) | 4:41 | 2022-06-29 |  |
+| [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2022-12-12 |  |
+| [Filamén](https://open.spotify.com/track/2jz4XbBHonx48cyTgvcBt5) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Filamén](https://open.spotify.com/album/7sWnujOhwvK7E3o4Xgay9l) | 4:41 | 2022-06-29 | 2022-12-13 |
 | [Ghadara](https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Ghadara](https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR) | 3:02 | 2022-07-29 |  |
 | [hasta la vista.](https://open.spotify.com/track/3uwmEuilZP6sA0TLLNxd9x) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [hasta la vista.](https://open.spotify.com/album/6eOrS43L3EuwK6ZmFYRt1W) | 2:48 | 2022-06-29 |  |
 | [KaifwKaif](https://open.spotify.com/track/0Yshg5nqSx37wUIcnJZspZ) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [KaifwKaif](https://open.spotify.com/album/5BChrGS1AszY05fG7v4uSm) | 3:52 | 2022-06-29 |  |
@@ -66,13 +67,14 @@
 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 | 2022-06-29 |  |
 | [Sudan](https://open.spotify.com/track/7M7e7aCLu2dhbMzEHL1aVO) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudan](https://open.spotify.com/album/2qCIMTuoQUvvLHss2eZxUj) | 2:58 | 2022-06-29 |  |
 | [T.G.B](https://open.spotify.com/track/3Bp2O0LofCjPLQHmFSJvo3) | [Dub Afrika](https://open.spotify.com/artist/3Ygncis5SCdY1uk31LZam6) | [Quarantine Session](https://open.spotify.com/album/4HHkBLxoKHxY956qTb0sOi) | 2:47 | 2022-06-29 |  |
+| [Tab Tab](https://open.spotify.com/track/5DinnPLecFV8N9b5QuZc8D) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:15 | 2022-12-12 |  |
 | [Te Amo](https://open.spotify.com/track/2vzkvVC45Q5zZQm6WWoyfB) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Te Amo](https://open.spotify.com/album/55tZQkSyOWHKFVjrn5dzU1) | 2:55 | 2022-06-29 |  |
 | [TKT](https://open.spotify.com/track/2ET8K5jJLaCCRn7M6u2ExO) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TKT](https://open.spotify.com/album/3p7wvvIX1IdeCtuJ24aXiS) | 2:49 | 2022-06-29 |  |
 | [Wouli Liya](https://open.spotify.com/track/0mk5S6toceisTSa1C4SUZ5) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison ou Antidote \(Miel Book Edition\)](https://open.spotify.com/album/4g6eMqiCEFlivpJgII43rc) | 4:01 | 2022-10-06 | 2022-11-13 |
 | [Wouli Liya](https://open.spotify.com/track/1p3pNSpRB88Dn6w0DQGQXr) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 4:01 | 2022-06-29 |  |
 | [Wouli Liya](https://open.spotify.com/track/3I7MRe6fdlZX3GQxSNT88k) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy) | 4:01 | 2022-06-29 | 2022-07-29 |
 | [Ya la Laa](https://open.spotify.com/track/0pqGNW2u6uepefUa0L3KbA) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ya la Laa](https://open.spotify.com/album/2yrtP7DMdTELq4JoMtBZbO) | 2:36 | 2022-06-29 | 2022-07-29 |
-| [Ya La Laa](https://open.spotify.com/track/0cZ8ZtPjzOkFet9pGd7kxL) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 2:36 | 2022-06-29 |  |
+| [Ya La Laa](https://open.spotify.com/track/0cZ8ZtPjzOkFet9pGd7kxL) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 2:36 | 2022-06-29 | 2022-12-13 |
 | [Yek Yek](https://open.spotify.com/track/4FurrzPajAoNGcY4P3pu2W) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/3YB8Ew2pmNCUP7QA9FVCau) | 3:31 | 2022-06-29 |  |
 | [Zolly](https://open.spotify.com/track/1z8YwyE42mqwSASmIfRPxM) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Zolly](https://open.spotify.com/album/1MCeFq71zfZWqHzlBAresm) | 3:05 | 2022-06-29 |  |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-06-29 |  |

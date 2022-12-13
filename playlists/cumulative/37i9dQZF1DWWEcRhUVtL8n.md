@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,434 songs - 3 day 3 hr 30 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,436 songs - 3 day 3 hr 36 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [15 Minutes](https://open.spotify.com/track/4zGJ5yybuyVgXRt9yCxem1) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [15 Minutes](https://open.spotify.com/album/7ewDoS5YHftJf70LZftQGV) | 2:59 | 2021-05-05 | 2022-04-16 |
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2021-06-25 | 2022-04-16 |
 | [2000 Miles](https://open.spotify.com/track/1nWCNJX79ARq0EtXyKyiIS) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/6n0YcmOzCJniZH9M4mYrt7) | 2:59 | 2022-03-18 | 2022-07-29 |
-| [2000 Miles](https://open.spotify.com/track/6jmIH21TDBlLlszYWbc9rd) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T) | 2:59 | 2022-09-30 |  |
+| [2000 Miles](https://open.spotify.com/track/6jmIH21TDBlLlszYWbc9rd) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T) | 2:59 | 2022-09-30 | 2022-12-13 |
 | [202Ø](https://open.spotify.com/track/0GvkYGfvARyRBLK0dQV2JR) | [Caye](https://open.spotify.com/artist/3kkoYvxvV00UXPJCqMCljL) | [202Ø](https://open.spotify.com/album/2V6NsSiH2Gl307v8YhKFqZ) | 3:18 | 2020-11-13 | 2021-03-22 |
 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 | 2020-10-20 | 2022-07-29 |
 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 | 2022-06-17 |  |
@@ -130,7 +130,7 @@
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-06-02 | 2022-04-12 |
 | [battery life](https://open.spotify.com/track/7i9C0Fz89IABSEVwJTTJ4F) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [battery life](https://open.spotify.com/album/5m5DBETxSlESf5kx30pnBx) | 3:54 | 2020-10-16 | 2021-01-15 |
 | [Be Sweet](https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Be Sweet](https://open.spotify.com/album/1gEdYwz5hkFchccCnPlVyu) | 3:15 | 2021-03-06 | 2022-07-02 |
-| [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 | 2022-09-09 |  |
+| [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 | 2022-09-09 | 2022-12-13 |
 | [Beatrice](https://open.spotify.com/track/6Jvdy4iVwC03Y2Mw4M14R4) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [The Sun and Her Scorch](https://open.spotify.com/album/2gENobZzx4JDkAtCC15yrb) | 4:01 | 2020-10-13\* | 2021-06-03 |
 | [Believe](https://open.spotify.com/track/30rvG8w7qtOnsqiUk6JSvE) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ) | 4:12 | 2020-11-10 | 2021-05-26 |
 | [Belong](https://open.spotify.com/track/5BHVCWxWlSioC7ASxSyLsV) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Belong](https://open.spotify.com/album/0JH3NgJkj2IKNxHpiK0wLh) | 3:06 | 2022-08-12 | 2022-08-20 |
@@ -641,6 +641,7 @@
 | [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2022-06-14 | 2022-08-13 |
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-07 | 2022-04-15 |
 | [I Miss You, I'm Sorry](https://open.spotify.com/track/2sFFfkOzS68g4KCsTBeQdZ) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [I Miss You, I'm Sorry](https://open.spotify.com/album/4MdfuJD1AnnogWlEtcpayM) | 3:31 | 2020-10-16 | 2021-05-23 |
+| [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 | 2022-12-09 |  |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-09-24 | 2022-04-15 |
 | [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 | 2022-03-29 | 2022-04-14 |
 | [I Think I Met You In A Dream](https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Think I Met You In A Dream](https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO) | 3:09 | 2022-02-25 | 2022-08-06 |
@@ -1083,6 +1084,7 @@
 | [Sad Girl Summer](https://open.spotify.com/track/6WyCDecnLaByR2WN3BVGDQ) | [smol fish](https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v) | [Sad Girl Summer](https://open.spotify.com/album/2Kcmjgcrs002N9IPKOZvo0) | 3:06 | 2021-05-03 | 2021-05-27 |
 | [Sad To See You Happy](https://open.spotify.com/track/6ffcV0j4CLdpOE5CLLVzWm) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Sad To See You Happy](https://open.spotify.com/album/0HxhtexTu3zoF0tqhQ0gnk) | 2:54 | 2021-05-03 | 2022-04-07 |
 | [Safe Places](https://open.spotify.com/track/0877TMacBX9bM5cHZg6c3Q) | [Cassidy King](https://open.spotify.com/artist/04igiyo2E7vg7FxMxoTsIR) | [Safe Places](https://open.spotify.com/album/1bNGqBNK8ZqjmfRm843y1E) | 3:07 | 2020-10-13\* | 2020-11-20 |
+| [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 | 2022-12-09 |  |
 | [Sagittarius Superstar \(feat\. Faye Webster\)](https://open.spotify.com/track/50NIEDq6xm6K4CDp8mpcTh) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/2bWRZWNWiTjrZkAH9rW6gB) | 2:53 | 2022-11-07 | 2022-12-01 |
 | [Saltines & Gingerale](https://open.spotify.com/track/4fywIRWZFKQWBUwSBrQ271) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Saltines & Gingerale](https://open.spotify.com/album/7GGxMJrXmbPMnQ03uuJBa5) | 2:34 | 2021-06-25 | 2022-04-08 |
 | [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 | 2022-03-18 | 2022-06-01 |

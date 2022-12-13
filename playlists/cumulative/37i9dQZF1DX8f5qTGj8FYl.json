@@ -261,7 +261,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 470371,
       "name": "Bambu",
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
@@ -3327,6 +3327,32 @@
       "duration_ms": 120185,
       "name": "Stay In Your Lane",
       "url": "https://open.spotify.com/track/06rsFCBNsgVgMYXe6il6ZG"
+    },
+    {
+      "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl"
+      },
+      "artists": [
+        {
+          "name": "Magic In Threes",
+          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
+        },
+        {
+          "name": "Charles Ray",
+          "url": "https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX"
+        },
+        {
+          "name": "Troy Atkins",
+          "url": "https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120185,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3"
     },
     {
       "album": {

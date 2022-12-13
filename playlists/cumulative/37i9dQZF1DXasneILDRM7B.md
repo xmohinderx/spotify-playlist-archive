@@ -4,7 +4,7 @@
 
 > Please stand for your personal anthems\. Cover: blink\-182
 
-344 songs - 19 hr 0 min - [published](https://open.spotify.com/playlist/2378SJjdyJCwFI5oiW7u05)
+345 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/2378SJjdyJCwFI5oiW7u05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [I Don't Care \- Single Version](https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 | 2022-06-16 |  |
 | [I Don't Like Who I Was Then](https://open.spotify.com/track/1rh6RoD2Y86GqSM9S1dxlv) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [No Closer To Heaven](https://open.spotify.com/album/0kAfY3e4tuxMMAiUdLxeQi) | 3:37 | 2022-04-08 | 2022-07-28 |
 | [I Don't Love You Anymore](https://open.spotify.com/track/5bMIxG5zUEcoep6hVjHjca) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Maybe This Place Is The Same And We're Just Changing](https://open.spotify.com/album/4QKMqKqACOU0eWvzY5Rgfu) | 3:25 | 2022-04-08 | 2022-04-18 |
+| [I Just Wanna Live](https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Chronicles of Life and Death \("LIFE" version\)](https://open.spotify.com/album/6Qbaq8mJBFOV30nBMmqLxc) | 2:46 | 2022-06-16 |  |
 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:49 | 2021-09-02 |  |
 | [I Woke Up In A Car](https://open.spotify.com/track/4HUwKG0yhZgoxG5ueclBP4) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yTnFqlMOAi5zebiuqeroC) | 4:12 | 2022-04-08 | 2022-04-19 |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2021-09-02 |  |
@@ -199,7 +200,7 @@
 | [Light Up The Sky](https://open.spotify.com/track/54OYNqBE7OiyETV0dE9Fsl) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Paper Walls](https://open.spotify.com/album/3LDVAooMMtpIT0fSOYNUbk) | 3:37 | 2022-04-08 | 2022-07-21 |
 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 | 2022-04-08 |  |
 | [Like We Used To](https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t) | [On Your Side](https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV) | 3:23 | 2022-04-08 |  |
-| [Little Things](https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Charlotte](https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs) | 3:23 | 2021-09-02 |  |
+| [Little Things](https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Charlotte](https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs) | 3:23 | 2021-09-02 | 2022-12-13 |
 | [Little White Lies \(feat\. Portia Conn\)](https://open.spotify.com/track/1UV6YrBJcnm5OY1Eq2Cx2n) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M), [Portia Conn](https://open.spotify.com/artist/7rEVCVZ1bfsLp0MsI1gmyl) | [Fools and Worthless Liars \(Deluxe Edition\)](https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I) | 3:13 | 2022-04-08 | 2022-04-21 |
 | [Looking Back](https://open.spotify.com/track/1M36hJtquqBZvgLAfmVNlI) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Looking Back](https://open.spotify.com/album/65b1PsER9RSDBoelLIbMtV) | 3:49 | 2022-04-08 | 2022-04-21 |
 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 | 2022-04-08 | 2022-11-13 |

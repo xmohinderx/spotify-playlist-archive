@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,087 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,553 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 10 | [Stop Worry!](https://open.spotify.com/track/2eGKhQce5DKGqrxPEBAOa9) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Stop Worry!](https://open.spotify.com/album/5Fe2v27rNMI7lsb7gCFGF3) | 2:32 |
 | 11 | [The Hills](https://open.spotify.com/track/7zhfWs9c97sn0mEP4x8xFi) | [Mazen](https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [The Hills](https://open.spotify.com/album/0M9IK1ZESirlxB0zzzyFBe) | 3:38 |
 | 12 | [FLOAT \(feat\. Mamii\)](https://open.spotify.com/track/7JADyHONoFkZr3Re80iwLy) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Mamii](https://open.spotify.com/artist/0QPC36N4aQVrUp0NzaSXHI) | [MORE BLACK SUPERHEROES \(LIMITED EDITION\)](https://open.spotify.com/album/35kiMt5W98OpChFv4B16oF) | 2:26 |
-| 13 | [All Falls Down](https://open.spotify.com/track/2UapiJncDxSEkY1tkzZTd3) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [The Butterfly Effect](https://open.spotify.com/album/0R20agY249INealjoIvVZK) | 4:11 |
+| 13 | [All Falls Down](https://open.spotify.com/track/4KHozmLnuDoTbjPuVWPWEU) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [The Butterfly Effect](https://open.spotify.com/album/2hdwem2NSHtbU7OaqT7HqJ) | 4:11 |
 | 14 | [DILLA BAP](https://open.spotify.com/track/5CzilSE4MP5p8eUa15rd1V) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [Somebody Up There Loves Me](https://open.spotify.com/album/6U0Hys1jBHL30PSbqWY7wE) | 3:07 |
 | 15 | [Where I'm From](https://open.spotify.com/track/4igIxS2JtIbVu4tgQibkMQ) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Outside Lookin In](https://open.spotify.com/album/3u7I4Lry3Qoe4IzJrfMod2) | 3:27 |
 | 16 | [Hard to Tell](https://open.spotify.com/track/28uPa1dcEGLFf2mwXPLecy) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Hard to Tell](https://open.spotify.com/album/5Q1QLduNvWpSVEXTdgPiEB) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Not For Nothing \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Richer Than I Ever Been \(Deluxe\)](https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH) | 3:56 |
 | 100 | [Save The Best For Last \(Feat\. Rick Ross\)](https://open.spotify.com/track/4mmg0ZJlcATIM6pJQrdKVS) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:50 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGIwNzdiMzk4NTQ2Y2IwYTBkMzBlZWRkZDQ3NDEwMTkz`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDEzYjQ5NmM3M2U1ZTEzNWI2YzVhMTM4ZmI1NzhiZDFm`

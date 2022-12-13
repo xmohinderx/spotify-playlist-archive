@@ -2,9 +2,9 @@
 
 ### [Kids Music](https://open.spotify.com/playlist/0Gy1TwCxPFTMCiwxGLVkc1)
 
-> Kids music the whole family can enjoy\. Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
+> Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-82 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/1xwqNtCgsi5kgP4g07FmIb)
+83 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/1xwqNtCgsi5kgP4g07FmIb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-05-27 | 2022-10-26 |
 | [Best Dress](https://open.spotify.com/track/3EvUbBdAytE6Cywr1OZGLx) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Best Dress](https://open.spotify.com/album/2mcs399XGsrglhADN0KJ9u) | 3:11 | 2022-05-27 | 2022-10-26 |
 | [Bright Lights](https://open.spotify.com/track/76qQor3rG3Heo4TWhyZumC) | [THE SQUISH](https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP) | [Bright Lights](https://open.spotify.com/album/2boFQNrjqTeNJj9AprJ0k3) | 4:22 | 2022-10-25 |  |
-| [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 |  |
+| [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 | 2022-12-13 |
 | [Busy Puppy \- From "Disney Junior Music: Mickey Mouse Funhouse"](https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Busy Puppy \(From "Disney Junior Music: Mickey Mouse Funhouse"\)](https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU) | 2:19 | 2022-10-25 |  |
 | [Colors](https://open.spotify.com/track/4Z2hrwfZ1M1weUjJGntx8X) | [Toys and Colors](https://open.spotify.com/artist/4VQOpZxMHHLlhGH3VnGk9K) | [Colors](https://open.spotify.com/album/1ChRiPd2fBXfiFoSvtqVv1) | 2:13 | 2022-10-31 |  |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/11aNnE6AFyuYbk4bSlHKFO) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6clCHFOEINamO4FKR5s2h4) | 3:05 | 2022-05-27 | 2022-10-26 |
@@ -49,7 +49,7 @@
 | [MAGIC](https://open.spotify.com/track/6yIbOjZve4NIZXccZ0dui4) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/662UfTtnwM01ukAlJMC7Jq) | 3:46 | 2022-05-27 | 2022-10-26 |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/78TYOzHJIUkA7nOlYNAB8D) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/2CbWlOFu0F6NZYAouPfA8Q) | 2:02 | 2022-05-27 | 2022-10-26 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-05-27 | 2022-10-26 |
-| [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 | 2022-11-14 |  |
+| [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 | 2022-11-14 | 2022-12-13 |
 | [Monster Mash \- 2022](https://open.spotify.com/track/49BcwXjtSMF2c1hChSDrns) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:46 | 2022-10-25 | 2022-11-08 |
 | [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2022-05-27 | 2022-10-26 |
 | [N95](https://open.spotify.com/track/5U4l9XfIFN2P31CxDXlkdT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/5S6f7f6ucT0WWtreUEfpfY) | 3:15 | 2022-05-27 | 2022-10-26 |
@@ -83,6 +83,7 @@
 | [True Pirates We Be \(Extended\)](https://open.spotify.com/track/1Ngvtzmvnxchs8vM6aLpnQ) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure \(From "Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure"\)](https://open.spotify.com/album/29L5MnlFSoKVglrbcIvnLt) | 2:14 | 2022-10-25 |  |
 | [Tyrannosaurus Rex](https://open.spotify.com/track/57yHuOdWoFzCOfXkM67ezS) | [Daddy Donut](https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4) | [Dinosaur Songs](https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F) | 1:18 | 2022-11-14 |  |
 | [Understand](https://open.spotify.com/track/39u7AVA6dDUyEwmp0XkWMu) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/67FALVYrI6nDYJXVok1vG9) | 2:51 | 2022-05-27 | 2022-10-26 |
+| [United By The Music](https://open.spotify.com/track/5UnQqP50CLu6Rlzw27S2mI) | [THE SQUISH](https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP) | [United By The Music](https://open.spotify.com/album/3c6SLwBHPH8924a24k0x6I) | 2:56 | 2022-12-12 |  |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-27 | 2022-10-26 |
 | [VeggieTales Theme Song](https://open.spotify.com/track/1zvKLOtOsOgvYJk9yCErRL) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [VeggieTunes](https://open.spotify.com/album/5eYI49hhEFoEsJqpdWnXDx) | 1:26 | 2022-10-25 |  |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-05-27 | 2022-10-26 |

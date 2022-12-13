@@ -6274,6 +6274,24 @@
     },
     {
       "album": {
+        "name": "Love You When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184166,
+      "name": "Love You When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B"
+    },
+    {
+      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -8441,7 +8459,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 191266,
       "name": "Post Party Trauma",
       "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"

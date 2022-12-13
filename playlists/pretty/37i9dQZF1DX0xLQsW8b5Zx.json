@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 512734,
+  "num_followers": 512800,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjY4Nzc5OSwwMDAwMDAwMDEyMDgwMWIzMWI5NmY1ZTRiNTEyYzBlNWYwMDkwM2M0",
+  "snapshot_id": "MTY2NjY4Nzc5OSwwMDAwMDAwMDI0MjIzN2NjMDlhMGEwMTc5YWZhYjFiNWZkMmMwZDI4",
   "tracks": [
     {
       "added_at": "2022-09-02 07:19:55",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 144226,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Chantilly Lace",
-        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
       },
       "artists": [
         {
-          "name": "The Big Bopper",
-          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
         }
       ],
-      "duration_ms": 145266,
-      "name": "Chantilly Lace",
-      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
+      "duration_ms": 119360,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3oAWTk92mZBxKBOKf8mR5v"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -187,34 +187,18 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "12 Of His Biggest Hits",
-        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
+        "name": "Chantilly Lace",
+        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
       },
       "artists": [
         {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+          "name": "The Big Bopper",
+          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
         }
       ],
-      "duration_ms": 119360,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/3oAWTk92mZBxKBOKf8mR5v"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 129132,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
+      "duration_ms": 145266,
+      "name": "Chantilly Lace",
+      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -255,22 +239,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Forever Blue",
-        "url": "https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Baby Did A Bad Bad Thing",
-      "url": "https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
         "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
@@ -287,18 +255,34 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Built For Speed",
-        "url": "https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1"
+        "name": "Forever Blue",
+        "url": "https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY"
       },
       "artists": [
         {
-          "name": "Stray Cats",
-          "url": "https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg"
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Stray Cat Strut",
-      "url": "https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho"
+      "duration_ms": 174466,
+      "name": "Baby Did A Bad Bad Thing",
+      "url": "https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 129132,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -315,6 +299,22 @@
       "duration_ms": 126826,
       "name": "59 Ford",
       "url": "https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Built For Speed",
+        "url": "https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1"
+      },
+      "artists": [
+        {
+          "name": "Stray Cats",
+          "url": "https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Stray Cat Strut",
+      "url": "https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
+        "name": "Rock In Threes!",
+        "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
+      },
+      "artists": [
+        {
+          "name": "Black Raven",
+          "url": "https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Red Light (Spells Danger)",
+      "url": "https://open.spotify.com/track/0Ujsx46cUBEIgt1rwLl6Wc"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
         "name": "Tear It Up",
         "url": "https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 149584,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Rock In Threes!",
-        "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
-      },
-      "artists": [
-        {
-          "name": "Black Raven",
-          "url": "https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Red Light (Spells Danger)",
-      "url": "https://open.spotify.com/track/0Ujsx46cUBEIgt1rwLl6Wc"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
+        "name": "Glen Rocks",
+        "url": "https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv"
+      },
+      "artists": [
+        {
+          "name": "Glen Glenn",
+          "url": "https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Everybody's Movin'",
+      "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
         "name": "The Dance Album",
         "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 138615,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Glen Rocks",
-        "url": "https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv"
-      },
-      "artists": [
-        {
-          "name": "Glen Glenn",
-          "url": "https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Everybody's Movin'",
-      "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
-      },
-      "artists": [
-        {
-          "name": "Jerry Jaye",
-          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "Redneck Rock",
-      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "The Lennerockers and Friends",
         "url": "https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr"
       },
@@ -819,6 +803,38 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
+        "name": "Baby Come Back",
+        "url": "https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L"
+      },
+      "artists": [
+        {
+          "name": "TT Grace",
+          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
+        }
+      ],
+      "duration_ms": 201667,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jaye",
+          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "Redneck Rock",
+      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
         "name": "Melrose",
         "url": "https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz"
       },
@@ -835,18 +851,34 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Baby Come Back",
-        "url": "https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L"
+        "name": "Burn It Up",
+        "url": "https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg"
       },
       "artists": [
         {
-          "name": "TT Grace",
-          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
+          "name": "Teddy & The Tigers",
+          "url": "https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb"
         }
       ],
-      "duration_ms": 201667,
-      "name": "Baby Come Back",
-      "url": "https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0"
+      "duration_ms": 125093,
+      "name": "Tiger Twist - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Blue Jean Bop",
+        "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Bluejean Bop",
+      "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -883,18 +915,18 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Blue Jean Bop",
-        "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E"
       },
       "artists": [
         {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+          "name": "Fatboy",
+          "url": "https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT"
         }
       ],
-      "duration_ms": 142560,
-      "name": "Bluejean Bop",
-      "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
+      "duration_ms": 166040,
+      "name": "Bad News From Pretty Red Lips",
+      "url": "https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -915,50 +947,18 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E"
+        "name": "Signs & Signifiers",
+        "url": "https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ"
       },
       "artists": [
         {
-          "name": "Fatboy",
-          "url": "https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT"
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
         }
       ],
-      "duration_ms": 166040,
-      "name": "Bad News From Pretty Red Lips",
-      "url": "https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Burn It Up",
-        "url": "https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg"
-      },
-      "artists": [
-        {
-          "name": "Teddy & The Tigers",
-          "url": "https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb"
-        }
-      ],
-      "duration_ms": 125093,
-      "name": "Tiger Twist - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Bip Bop Boom!",
-        "url": "https://open.spotify.com/album/5p5AoSQkBhNtmWYESALu5x"
-      },
-      "artists": [
-        {
-          "name": "Emmy Lou and The Rhythm Boys",
-          "url": "https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Can\u00b4t Get It out of My Mind",
-      "url": "https://open.spotify.com/track/56ViwfGK5zU5UoUXup1Lqv"
+      "duration_ms": 137813,
+      "name": "Fire Bug",
+      "url": "https://open.spotify.com/track/7r5V7GyOhmcHWAv5D9YYPn"
     },
     {
       "added_at": "2022-09-02 07:19:55",

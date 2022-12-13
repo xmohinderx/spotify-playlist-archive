@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from Fresh Finds Latin this year. Cover: Estevie #SpotifyWrapped",
-  "num_followers": 168298,
+  "num_followers": 168290,
   "original_name": "Fresh Finds Latin: Best of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMGFhZjE2MmExODFiN2VjMDYxMWJiMGQ0YWVmOTMwOGEy",
+  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDgyZmVhN2E2ODUwNDY3MzAxNjI2NTk3YzVhOTkyYWM2",
   "tracks": [
     {
       "added_at": "2022-11-30 14:52:40",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Habla Claro",
-        "url": "https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH"
-      },
-      "artists": [
-        {
-          "name": "Queens Tafari",
-          "url": "https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Habla Claro",
-      "url": "https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "No Me Quieras Tanto",
         "url": "https://open.spotify.com/album/2ekefHYeeYXcfHW8e4FLEO"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 152750,
       "name": "Barquinho",
       "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Habla Claro",
+        "url": "https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH"
+      },
+      "artists": [
+        {
+          "name": "Queens Tafari",
+          "url": "https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Habla Claro",
+      "url": "https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
-      },
-      "artists": [
-        {
-          "name": "Koi Pali",
-          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
-        }
-      ],
-      "duration_ms": 190755,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s"
       },
@@ -595,38 +579,6 @@
       "duration_ms": 195918,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 247698,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "piano, piano",
-        "url": "https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7"
-      },
-      "artists": [
-        {
-          "name": "astrid",
-          "url": "https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm"
-        }
-      ],
-      "duration_ms": 141597,
-      "name": "piano, piano",
-      "url": "https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -667,6 +619,54 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
+        "name": "piano, piano",
+        "url": "https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7"
+      },
+      "artists": [
+        {
+          "name": "astrid",
+          "url": "https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm"
+        }
+      ],
+      "duration_ms": 141597,
+      "name": "piano, piano",
+      "url": "https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 247698,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
+      },
+      "artists": [
+        {
+          "name": "Koi Pali",
+          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
+        }
+      ],
+      "duration_ms": 190755,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
         "name": "dices",
         "url": "https://open.spotify.com/album/1G9Ci35tCN4zZLtitXNe7c"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 200106,
       "name": "dices",
       "url": "https://open.spotify.com/track/1k0o4QwCNf3Fv5Bspwze13"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "Dentro, Fuera",
-        "url": "https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf"
-      },
-      "artists": [
-        {
-          "name": "DPSE",
-          "url": "https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M"
-        }
-      ],
-      "duration_ms": 246852,
-      "name": "Dentro, Fuera",
-      "url": "https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -735,6 +719,22 @@
       "duration_ms": 173892,
       "name": "Sad Kirby :(",
       "url": "https://open.spotify.com/track/1VZbWHys9ky0YGBUWbcD6p"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Dentro, Fuera",
+        "url": "https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf"
+      },
+      "artists": [
+        {
+          "name": "DPSE",
+          "url": "https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M"
+        }
+      ],
+      "duration_ms": 246852,
+      "name": "Dentro, Fuera",
+      "url": "https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "AGUA CON SAL",
-        "url": "https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m"
-      },
-      "artists": [
-        {
-          "name": "cata rec",
-          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
-        }
-      ],
-      "duration_ms": 198031,
-      "name": "AGUA CON SAL",
-      "url": "https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/3xwgOghwfxD3lzpqgu1w3j"
       },
@@ -819,22 +803,34 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/7H5rIPaAVi5xBvqcq77a7a"
+        "name": "AGUA CON SAL",
+        "url": "https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m"
       },
       "artists": [
         {
-          "name": "Jesse Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3"
-        },
-        {
-          "name": "DaniDask",
-          "url": "https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd"
+          "name": "cata rec",
+          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
         }
       ],
-      "duration_ms": 171264,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/1330i3UvrgEgBJXEPPO3ba"
+      "duration_ms": 198031,
+      "name": "AGUA CON SAL",
+      "url": "https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Jardin de Rosas",
+        "url": "https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR"
+      },
+      "artists": [
+        {
+          "name": "Ramona Vee",
+          "url": "https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B"
+        }
+      ],
+      "duration_ms": 202409,
+      "name": "Jardin de Rosas",
+      "url": "https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -855,18 +851,22 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Jardin de Rosas",
-        "url": "https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR"
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/7H5rIPaAVi5xBvqcq77a7a"
       },
       "artists": [
         {
-          "name": "Ramona Vee",
-          "url": "https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B"
+          "name": "Jesse Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3"
+        },
+        {
+          "name": "DaniDask",
+          "url": "https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd"
         }
       ],
-      "duration_ms": 202409,
-      "name": "Jardin de Rosas",
-      "url": "https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C"
+      "duration_ms": 171264,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/1330i3UvrgEgBJXEPPO3ba"
     }
   ],
   "unique_name": "Fresh Finds Latin: Best of 2022",
