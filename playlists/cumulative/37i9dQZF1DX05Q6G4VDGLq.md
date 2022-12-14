@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-385 songs - 1 day 0 hr 16 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+387 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Autumn Nocturne](https://open.spotify.com/track/751ioCiRxLWziIfPWGQ6ur) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Autumn Nocturne](https://open.spotify.com/album/7KBFqb2rTLsCdjQz64bf8M) | 3:07 | 2022-08-30 |  |
 | [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 | 2022-06-28 | 2022-10-08 |
 | [Balladeering](https://open.spotify.com/track/6vrXCt6qfdKPX6ooAu6LVz) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Balladeering](https://open.spotify.com/album/28TQpx5WAwvwPDOXl1Lx8E) | 2:04 | 2022-06-28 | 2022-10-08 |
+| [Banks of Noon](https://open.spotify.com/track/2HriYFonV6QkhctkB8DMxY) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Banks of Noon](https://open.spotify.com/album/7EOxOqItUbFeCrlC4xxgfR) | 3:35 | 2022-12-08 |  |
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 |  |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-28 |  |
 | [Beautiful Love](https://open.spotify.com/track/1oT0zC6lxsNHITyexFwQIM) | [Lenox Livingroom Sessions](https://open.spotify.com/artist/2PDSuVvSKWLMFtb4j2O06t) | [VOL.1](https://open.spotify.com/album/4o4YAUFAzbwczGbbDgyrUR) | 2:36 | 2022-06-28 | 2022-10-08 |
@@ -47,7 +48,7 @@
 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 | 2022-06-28 | 2022-12-06 |
 | [Blue Moon](https://open.spotify.com/track/1SJEahRau4sLSZlPDl2bnr) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Blue Moon](https://open.spotify.com/album/50uJ5kjLlvCA5PlUTiUEir) | 4:34 | 2022-06-28 | 2022-10-08 |
 | [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2022-09-29 |  |
-| [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-06-28 |  |
+| [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-06-28 | 2022-12-14 |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-10-27 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-30 |  |
 | [Butterfly Princess](https://open.spotify.com/track/1kLzeHGRyVzACePnPikgsy) | [Midnight Sound Band](https://open.spotify.com/artist/17OGBXahBsPFrJWsHMhRzJ) | [She Stole My Heart](https://open.spotify.com/album/3VbY9AQXZ53DjldLT4sb23) | 3:39 | 2022-06-28 |  |
@@ -244,7 +245,7 @@
 | [My Little Brown Book](https://open.spotify.com/track/2txEKqhpnuwmHS7a0YBYHE) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [My Little Brown Book](https://open.spotify.com/album/1anaHcKFfGvPfqhfaAEnmy) | 3:57 | 2022-09-29 |  |
 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 | 2022-06-28 | 2022-10-28 |
 | [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 | 2022-06-28 | 2022-10-25 |
-| [My Reverie](https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [My Reverie](https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8) | 3:48 | 2022-06-28 |  |
+| [My Reverie](https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [My Reverie](https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8) | 3:48 | 2022-06-28 | 2022-12-14 |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-06-28 |  |
 | [My Simple Thing](https://open.spotify.com/track/4uP9aFwUv5lMNOlh6mKuNM) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:01 | 2022-06-28 | 2022-07-27 |
 | [My Simple Thing](https://open.spotify.com/track/1GxMQS2PB67WbWEyUPo5Ig) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:01 | 2022-06-28 | 2022-10-08 |
@@ -276,6 +277,7 @@
 | [Prelude to a Kiss](https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 5:25 | 2022-06-28 | 2022-10-08 |
 | [Quiescence](https://open.spotify.com/track/2fZD8MnLDXP10QfeYNPGHO) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [For You My Love](https://open.spotify.com/album/06PdwmlUcKbdKHGw67YCQ8) | 5:03 | 2022-06-28 | 2022-10-08 |
 | [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 | 2022-06-28 | 2022-11-09 |
+| [Quiet Weather](https://open.spotify.com/track/2raVP5fT4ktKJ6LwSEdzaJ) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Quiet Weather](https://open.spotify.com/album/2ydysgBFmevCyXKqBEjImP) | 4:22 | 2022-12-08 |  |
 | [Quietude](https://open.spotify.com/track/5AEe4vHNK8A1nkaxcAUD82) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Quietude](https://open.spotify.com/album/1sPWjfQFQLmT1N2QxaPJtc) | 4:14 | 2022-10-13 |  |
 | [Rainy Mix](https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Mix](https://open.spotify.com/album/35cS4jrVD80N8kb8WspUqV) | 4:37 | 2022-06-28 | 2022-10-08 |
 | [Reaching](https://open.spotify.com/track/1zL6ms4dZJ1l8y8F46llOv) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/7nWW2h7SFTPQJgJX0h1IMA) | 3:22 | 2022-06-28 | 2022-10-08 |

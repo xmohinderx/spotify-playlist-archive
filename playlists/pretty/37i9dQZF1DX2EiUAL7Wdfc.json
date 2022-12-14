@@ -1,15 +1,15 @@
 {
   "description": "Los temas de los \u00faltimos a\u00f1os que se convertir\u00e1n en himnos.",
-  "num_followers": 286580,
+  "num_followers": 286982,
   "original_name": "m\u00edticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDIzMzA2NiwwMDAwMDAwMDY0Mjc1MjAzNTI5ODA2NGM1OTJjMGY5MzYzZTRkMWNm",
+  "snapshot_id": "MTY3MDIzMzA2NiwwMDAwMDAwMGIyMDUxNDM2MWE0MDI3NjJkZmE3ZWFmYjA4MjNhMTFh",
   "tracks": [
     {
-      "added_at": "2022-12-13 00:44:51",
+      "added_at": "2022-12-14 00:57:26",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2022-11-17 10:25:04",
       "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
+    },
+    {
+      "added_at": "2022-11-17 10:25:04",
+      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
-    },
-    {
-      "added_at": "2022-11-17 10:25:04",
-      "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
     },
     {
       "added_at": "2022-11-17 10:25:04",
@@ -1841,7 +1841,7 @@
       "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
     },
     {
-      "added_at": "2022-12-13 00:44:51",
+      "added_at": "2022-12-14 00:57:26",
       "album": {
         "name": "Tigini (Remix)",
         "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"

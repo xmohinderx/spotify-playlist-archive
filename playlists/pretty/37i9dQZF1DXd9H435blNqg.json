@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 27989,
+  "num_followers": 28071,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDRkMDljYWE2OWY5NDc2ZDI2ZWRiYjhjMzkyNDMxNWQ0",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGY5ZDY2OTFmMzJhZTBlYjUzMjFkZDE5NWQwNjk4Mzgy",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Say the Word",
-        "url": "https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Get Yourself Some",
-      "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Color Where You Are",
         "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227300,
       "name": "Under the Big Top",
       "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Say the Word",
+        "url": "https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "Get Yourself Some",
+      "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Don't Tell Me No Lies",
-        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 147423,
-      "name": "Don't Tell Me No Lies",
-      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Homemade Disaster",
         "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 177801,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Don't Tell Me No Lies",
+        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 147423,
+      "name": "Don't Tell Me No Lies",
+      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Come On",
         "url": "https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Chocolate Samurai",
         "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Difference Between Me & You",
-        "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
-      },
-      "artists": [
-        {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Nothing but a Clich\u00e9",
-      "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 194093,
       "name": "Can't Nobody Stop Us",
       "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Difference Between Me & You",
+        "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Nothing but a Clich\u00e9",
+      "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Bottom Shelf Gin",
         "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 182293,
       "name": "Bottom Shelf Gin",
       "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
     }
   ],
   "unique_name": "Alt-Blue",

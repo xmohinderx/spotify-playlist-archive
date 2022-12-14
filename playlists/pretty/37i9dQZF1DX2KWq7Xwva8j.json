@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Camin",
-  "num_followers": 20269,
+  "num_followers": 20271,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMDBjYjI5MWMwMjUzNDdmMTcwMmU1NDc4MzdjZjEzYmY1",
+  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMDM3OWQ2YzVjYzdlMmIwMzBjNGYzZTE2OGFmZDY4MmQz",
   "tracks": [
     {
       "added_at": "2022-11-11 11:01:19",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "Moncler",
+        "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
+      },
+      "artists": [
+        {
+          "name": "Ters",
+          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
+        }
+      ],
+      "duration_ms": 186156,
+      "name": "Moncler",
+      "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "Lombard\u00eda 22",
         "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 179984,
       "name": "Inercia",
       "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Moncler",
-        "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
-      },
-      "artists": [
-        {
-          "name": "Ters",
-          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
-        }
-      ],
-      "duration_ms": 186156,
-      "name": "Moncler",
-      "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "Soy Un Desastre",
+        "url": "https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp"
+      },
+      "artists": [
+        {
+          "name": "Paloma Roll\u00e1n",
+          "url": "https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7"
+        }
+      ],
+      "duration_ms": 174623,
+      "name": "Soy Un Desastre",
+      "url": "https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "Dunas",
         "url": "https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 108250,
       "name": "Dunas",
       "url": "https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Soy Un Desastre",
-        "url": "https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp"
-      },
-      "artists": [
-        {
-          "name": "Paloma Roll\u00e1n",
-          "url": "https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7"
-        }
-      ],
-      "duration_ms": 174623,
-      "name": "Soy Un Desastre",
-      "url": "https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr"
     },
     {
       "added_at": "2022-11-11 11:01:19",

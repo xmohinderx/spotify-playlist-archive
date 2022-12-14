@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the global Afro scene\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,130 likes - 73 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,353 likes - 73 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

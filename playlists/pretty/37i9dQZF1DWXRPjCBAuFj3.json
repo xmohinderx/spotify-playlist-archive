@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Metro Boomin",
-  "num_followers": 200591,
+  "num_followers": 200603,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMGYyNDQ0NDZhYTM2ZjViYmU1NWNhNzFlN2YwMTNiYWM1",
+  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMGRiMzFlMTZiMGFhMzVjMzY5OGFlMWE0Y2UxNDY5MDg4",
   "tracks": [
     {
       "added_at": "2022-12-09 05:01:00",
@@ -103,42 +103,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Duki: Bzrp Music Sessions, Vol. 50",
-        "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 221303,
-      "name": "Duki: Bzrp Music Sessions, Vol. 50",
-      "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -159,6 +123,42 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Duki: Bzrp Music Sessions, Vol. 50",
+        "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 221303,
+      "name": "Duki: Bzrp Music Sessions, Vol. 50",
+      "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "No More Leaks",
-        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "One Up",
-      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "PETETE",
-        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 123846,
-      "name": "PETETE",
-      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "PETETE",
+        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 123846,
+      "name": "PETETE",
+      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 154997,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "Stop Breathing",
         "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "HOLIDAY",
-        "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 154997,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "Rover (feat. DTG)",
         "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
       },
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "Rien 100 Rien",
+        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "La bandite",
+      "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "Rien 100 Rien",
-        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "La bandite",
-      "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1599,40 +1599,8 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Aston Martin Truck",
-        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Aston Martin Truck",
-      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "LA Leakers Freestyle",
-        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "LA Leakers Freestyle",
-      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "Bag Talk",
-        "url": "https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5"
+        "name": "My All",
+        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
       },
       "artists": [
         {
@@ -1640,9 +1608,9 @@
           "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 147435,
-      "name": "Bag Talk",
-      "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
+      "duration_ms": 197692,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1663,18 +1631,34 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+        "name": "LA Leakers Freestyle",
+        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 161636,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+      "duration_ms": 178000,
+      "name": "LA Leakers Freestyle",
+      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1691,6 +1675,38 @@
       "duration_ms": 325333,
       "name": "This Is What I Mean",
       "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Bag Talk",
+        "url": "https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 147435,
+      "name": "Bag Talk",
+      "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1755,22 +1771,6 @@
       "duration_ms": 137107,
       "name": "Her",
       "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 197692,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
     },
     {
       "added_at": "2022-12-09 05:01:00",

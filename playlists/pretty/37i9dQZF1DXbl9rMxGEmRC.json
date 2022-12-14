@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
-  "num_followers": 408175,
+  "num_followers": 408341,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGI1MTE0NDg1MDc4YWVmNGYxNGFjY2Q4ODAxNzJlNjI1",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDlkOTVhZWI0ZWM3N2MyYmNjNGNmMDYwZGU5ZGFiYmQ2",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Black Metal",
-        "url": "https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV"
-      },
-      "artists": [
-        {
-          "name": "Venom",
-          "url": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Black Metal",
-      "url": "https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Zeal & Ardor",
         "url": "https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 183106,
       "name": "G\u00f6tterd\u00e4mmerung",
       "url": "https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Black Metal",
+        "url": "https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Black Metal",
+      "url": "https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Nemesis Divina",
-        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 385413,
-      "name": "Mother North",
-      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Lawless Darkness",
         "url": "https://open.spotify.com/album/2pQr4wN4SN9Ax3gdXDhrRz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 418213,
       "name": "Malfeitor",
       "url": "https://open.spotify.com/track/79qyNyF12jmPSLGCvPyInr"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Nemesis Divina",
+        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 385413,
+      "name": "Mother North",
+      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Sworn to the Dark",
-        "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 405866,
-      "name": "Satan's Hunger",
-      "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Kill for Satan",
         "url": "https://open.spotify.com/album/0t5fnWqUexdwd0fD5Ju4Bj"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 294893,
       "name": "Kill for Satan",
       "url": "https://open.spotify.com/track/3WdwfxDcyAe6m25InJuW91"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Sworn to the Dark",
+        "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 405866,
+      "name": "Satan's Hunger",
+      "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 380773,
+      "name": "Black Flames March",
+      "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Rituale Satanum",
         "url": "https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y"
       },
@@ -1567,38 +1583,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
-      },
-      "artists": [
-        {
-          "name": "Absu",
-          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "Pillars Of Mercy",
-      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 380773,
-      "name": "Black Flames March",
-      "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Serpent Sermon",
         "url": "https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 278400,
       "name": "Serpent Sermon",
       "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
+      },
+      "artists": [
+        {
+          "name": "Absu",
+          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "Pillars Of Mercy",
+      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
     }
   ],
   "unique_name": "Black & Dark Metal",

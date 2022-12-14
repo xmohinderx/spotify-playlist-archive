@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTjI92W86nZe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTjI92W86nZe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTjI92W86nZe)
 
-### [Corridos de la Muerte con Alfredo Olivas](https://open.spotify.com/playlist/37i9dQZF1DWTjI92W86nZe)
+### [Corridos de la Muerte](https://open.spotify.com/playlist/37i9dQZF1DWTjI92W86nZe)
 
 > El que por su gusto muere, hasta la muerte la sabe\. Las historias de nuestro México 💀🪦💐
 

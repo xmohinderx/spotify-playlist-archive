@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-472 songs - 1 day 8 hr 6 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
+473 songs - 1 day 8 hr 10 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Andamos Armados](https://open.spotify.com/track/10qNEf2NZ9ZfX1MZwCyim7) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2) | 3:56 | 2021-11-16 | 2022-07-29 |
 | [ANDRÓMEDA](https://open.spotify.com/track/3hNKWD8kkxOEJ7K90PjWri) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANDRÓMEDA](https://open.spotify.com/album/5hP0Os6zCLLnf5ADAeIVs7) | 2:51 | 2021-11-16 |  |
 | [ANDRÓMEDA](https://open.spotify.com/track/4Pa73QAWSryyKavXNyVbUA) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANDRÓMEDA](https://open.spotify.com/album/6vHWdP6O6FLKhsfzS60jtO) | 2:51 | 2021-11-16 | 2022-07-14 |
-| [Angel](https://open.spotify.com/track/6iqDsVcJghyQ1DdQcUR5ic) | [Gallego](https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC) | [Teatro Del Barrio](https://open.spotify.com/album/1jAZUMOLC4V5NdoB2HTj9u) | 4:07 | 2021-11-16 |  |
+| [Angel](https://open.spotify.com/track/6iqDsVcJghyQ1DdQcUR5ic) | [Gallego](https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC) | [Teatro Del Barrio](https://open.spotify.com/album/1jAZUMOLC4V5NdoB2HTj9u) | 4:07 | 2021-11-16 | 2022-12-14 |
 | [Angélica](https://open.spotify.com/track/0ui56MvRrVieXwbtn9ZrHc) | [Gregory Palencia](https://open.spotify.com/artist/4r49wT7fgbWKiM6UDXimL2) | [Angélica](https://open.spotify.com/album/6ImweNqoJG68xlUghWriZO) | 3:48 | 2021-11-16 | 2022-07-28 |
 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 | 2021-11-16 |  |
 | [Anochece / Manifiesto](https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 13:10 | 2021-11-16 | 2022-06-11 |
@@ -174,6 +174,7 @@
 | [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 | 2021-11-16 |  |
 | [Fieles Con Lo Vivido](https://open.spotify.com/track/3h2ga3xeFDwm0bvY0TZKXh) | [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn) | [Ley de Vida](https://open.spotify.com/album/7M5xAE8EbVBcRDX6h4ntXc) | 5:32 | 2021-11-16 | 2022-06-13 |
 | [Filo](https://open.spotify.com/track/2JoH2NqO2cRBifeSPYPeA4) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Filo](https://open.spotify.com/album/36jpX0Q9efGtJp5kJp3QnV) | 3:01 | 2021-11-16 | 2022-07-29 |
+| [Fly Chill](https://open.spotify.com/track/2N7IoT0kof97BeaQmgw8Qd) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD) | [HandMade](https://open.spotify.com/album/03pei2ys07tBBGUi0Xrly8) | 3:54 | 2021-11-16 |  |
 | [Fly Chill](https://open.spotify.com/track/6Sew8TeMH1xqABOHGeXqZ8) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD) | [HandMade](https://open.spotify.com/album/20JZleqIRtGp5fxSxIdWtb) | 3:54 | 2021-11-16 | 2022-08-02 |
 | [Food for Thought](https://open.spotify.com/track/0Z7cOxL57XE7tC4otjRWaF) | [Black Prophecy](https://open.spotify.com/artist/0YqG7oPSGv34Twf0lb5mLN) | [Legacy](https://open.spotify.com/album/5fdgZuXXOIg1otPxBw0s4g) | 4:43 | 2021-11-16 | 2022-07-07 |
 | [Forma De Vida](https://open.spotify.com/track/0AJPNghshFa2kVaC9nirXu) | [Cesarandearan](https://open.spotify.com/artist/3g3SX7D8ul0DxrOKlvjrKc) | [Cosmogonia De Un Naufrago](https://open.spotify.com/album/1dY6ULbpPcLla8gKEW6poo) | 2:43 | 2021-11-16 | 2022-07-29 |

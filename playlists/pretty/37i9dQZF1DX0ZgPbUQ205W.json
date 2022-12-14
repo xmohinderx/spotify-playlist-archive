@@ -1,12 +1,12 @@
 {
   "description": "Calm and soft sounds of Jazz to help you relax and unwind.",
-  "num_followers": 64452,
+  "num_followers": 64520,
   "original_name": "Calming Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQ2MCwwMDAwMDAwMGE3MWI1NWYwNDEyYTQ5NWM1ZDRlOTE5NzJmOGY2OWQ1",
+  "snapshot_id": "MTY3MDU0MDQ2MCwwMDAwMDAwMDQ2MWIyZTYxZjIwYjY4ZjcxMjZiYjY2MjkyOTcxNDgw",
   "tracks": [
     {
       "added_at": "2022-12-08 23:01:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "Forever Promises",
+        "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 193237,
+      "name": "Forever Promises",
+      "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Blueberry Street",
         "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 265317,
       "name": "Let's Not",
       "url": "https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "All the Stars",
-        "url": "https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV"
-      },
-      "artists": [
-        {
-          "name": "Franklin Trio",
-          "url": "https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw"
-        }
-      ],
-      "duration_ms": 328810,
-      "name": "All the Stars",
-      "url": "https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -219,6 +219,38 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "All the Stars",
+        "url": "https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV"
+      },
+      "artists": [
+        {
+          "name": "Franklin Trio",
+          "url": "https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw"
+        }
+      ],
+      "duration_ms": 328810,
+      "name": "All the Stars",
+      "url": "https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Equilibrio",
+        "url": "https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF"
+      },
+      "artists": [
+        {
+          "name": "Les trois copines",
+          "url": "https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx"
+        }
+      ],
+      "duration_ms": 151162,
+      "name": "Equilibrio",
+      "url": "https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Varenne",
         "url": "https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho"
       },
@@ -235,18 +267,18 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Forever Promises",
-        "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
+        "name": "Merry Monday",
+        "url": "https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y"
       },
       "artists": [
         {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
         }
       ],
-      "duration_ms": 193237,
-      "name": "Forever Promises",
-      "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
+      "duration_ms": 190909,
+      "name": "Merry Monday",
+      "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -263,6 +295,22 @@
       "duration_ms": 282391,
       "name": "Chances Are",
       "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Lonely as a Cloud",
+        "url": "https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11"
+      },
+      "artists": [
+        {
+          "name": "South North",
+          "url": "https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b"
+        }
+      ],
+      "duration_ms": 167071,
+      "name": "Lonely as a Cloud",
+      "url": "https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -315,38 +363,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Equilibrio",
-        "url": "https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF"
-      },
-      "artists": [
-        {
-          "name": "Les trois copines",
-          "url": "https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx"
-        }
-      ],
-      "duration_ms": 151162,
-      "name": "Equilibrio",
-      "url": "https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Merry Monday",
-        "url": "https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y"
-      },
-      "artists": [
-        {
-          "name": "Lennie Weston",
-          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Merry Monday",
-      "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Sally Waits",
         "url": "https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 158645,
       "name": "Forget About It, Al",
       "url": "https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Lonely as a Cloud",
-        "url": "https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11"
-      },
-      "artists": [
-        {
-          "name": "South North",
-          "url": "https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b"
-        }
-      ],
-      "duration_ms": 167071,
-      "name": "Lonely as a Cloud",
-      "url": "https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR"
+      },
+      "artists": [
+        {
+          "name": "Tiril Brandt",
+          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
+        }
+      ],
+      "duration_ms": 242399,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Chimes",
         "url": "https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR"
+        "name": "This Autumn",
+        "url": "https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY"
       },
       "artists": [
         {
-          "name": "Tiril Brandt",
-          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
+          "name": "James & LIsa",
+          "url": "https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg"
         }
       ],
-      "duration_ms": 242399,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
+      "duration_ms": 172802,
+      "name": "This Autumn",
+      "url": "https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -491,18 +507,18 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "This Autumn",
-        "url": "https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY"
+        "name": "Just Ourselves",
+        "url": "https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB"
       },
       "artists": [
         {
-          "name": "James & LIsa",
-          "url": "https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg"
+          "name": "Pearl Street Trio",
+          "url": "https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k"
         }
       ],
-      "duration_ms": 172802,
-      "name": "This Autumn",
-      "url": "https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G"
+      "duration_ms": 228738,
+      "name": "Just Ourselves",
+      "url": "https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -523,34 +539,18 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Just Ourselves",
-        "url": "https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB"
+        "name": "Cherry Stone",
+        "url": "https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA"
       },
       "artists": [
         {
-          "name": "Pearl Street Trio",
-          "url": "https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k"
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
         }
       ],
-      "duration_ms": 228738,
-      "name": "Just Ourselves",
-      "url": "https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC"
-      },
-      "artists": [
-        {
-          "name": "Mark Roswell Trio",
-          "url": "https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i"
-        }
-      ],
-      "duration_ms": 203348,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT"
+      "duration_ms": 203189,
+      "name": "Cherry Stone",
+      "url": "https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -571,18 +571,34 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Cherry Stone",
-        "url": "https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA"
+        "name": "Twenty Somethings",
+        "url": "https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP"
       },
       "artists": [
         {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+          "name": "The Central Park North",
+          "url": "https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY"
         }
       ],
-      "duration_ms": 203189,
-      "name": "Cherry Stone",
-      "url": "https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR"
+      "duration_ms": 152695,
+      "name": "Twenty Somethings",
+      "url": "https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC"
+      },
+      "artists": [
+        {
+          "name": "Mark Roswell Trio",
+          "url": "https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i"
+        }
+      ],
+      "duration_ms": 203348,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -651,22 +667,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Lonesome Road",
-        "url": "https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C"
-      },
-      "artists": [
-        {
-          "name": "Rainy Days Trio",
-          "url": "https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN"
-        }
-      ],
-      "duration_ms": 254676,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Deep In A Dream",
         "url": "https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 253213,
       "name": "I've Told Every Little Star",
       "url": "https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Lonesome Road",
+        "url": "https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C"
+      },
+      "artists": [
+        {
+          "name": "Rainy Days Trio",
+          "url": "https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN"
+        }
+      ],
+      "duration_ms": 254676,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -759,22 +775,6 @@
       "duration_ms": 194245,
       "name": "You're Good to Me",
       "url": "https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Twenty Somethings",
-        "url": "https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP"
-      },
-      "artists": [
-        {
-          "name": "The Central Park North",
-          "url": "https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY"
-        }
-      ],
-      "duration_ms": 152695,
-      "name": "Twenty Somethings",
-      "url": "https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "Beneath It All",
+        "url": "https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "Beneath It All",
+      "url": "https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Abeyance",
         "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 139970,
       "name": "Distant Hearts",
       "url": "https://open.spotify.com/track/7qOoWH3cUsEMfqEGcT1muE"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Beneath It All",
-        "url": "https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs"
-      },
-      "artists": [
-        {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "Beneath It All",
-      "url": "https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "The First Touch",
-      "url": "https://open.spotify.com/track/5fDmVPtwQAo45rLxKBUZod"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Steps from the Nightingale",
         "url": "https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 154681,
       "name": "Steps from the Nightingale",
       "url": "https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "The First Touch",
+      "url": "https://open.spotify.com/track/5fDmVPtwQAo45rLxKBUZod"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "Dark Eyes",
+        "url": "https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quintet",
+          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
+        }
+      ],
+      "duration_ms": 167106,
+      "name": "May Sun",
+      "url": "https://open.spotify.com/track/19JUTxqb12ibfHLhFuyYod"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Dream Logic",
         "url": "https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 261320,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/7lyyZLvFmPSVNXOcAlyNOa"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Dark Eyes",
-        "url": "https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quintet",
-          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
-        }
-      ],
-      "duration_ms": 167106,
-      "name": "May Sun",
-      "url": "https://open.spotify.com/track/19JUTxqb12ibfHLhFuyYod"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "Min B\u00e4sta V\u00e4n",
+        "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
+      },
+      "artists": [
+        {
+          "name": "Bergsundet",
+          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "Min B\u00e4sta V\u00e4n",
+      "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Times Revisited",
         "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 302813,
       "name": "Waking Dream",
       "url": "https://open.spotify.com/track/44Nuza1A4cfjOAbE65797r"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Min B\u00e4sta V\u00e4n",
-        "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
-      },
-      "artists": [
-        {
-          "name": "Bergsundet",
-          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
-        }
-      ],
-      "duration_ms": 214944,
-      "name": "Min B\u00e4sta V\u00e4n",
-      "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Arctic Riff",
-        "url": "https://open.spotify.com/album/019T87LVzoR6yBR8pYahZr"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 513293,
-      "name": "Glimmer Of Hope",
-      "url": "https://open.spotify.com/track/5CLc13Ktc8gDsDihuAqFzM"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "\u00c1n tillits",
         "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 152234,
       "name": "M\u00f3gr\u00e1",
       "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Arctic Riff",
+        "url": "https://open.spotify.com/album/019T87LVzoR6yBR8pYahZr"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 513293,
+      "name": "Glimmer Of Hope",
+      "url": "https://open.spotify.com/track/5CLc13Ktc8gDsDihuAqFzM"
     }
   ],
   "unique_name": "Calming Jazz",

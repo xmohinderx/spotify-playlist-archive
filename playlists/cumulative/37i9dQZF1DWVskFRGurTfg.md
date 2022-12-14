@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Bellakath.
 
-409 songs - 23 hr 7 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
+410 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Tu Gato Bellaco \- Remix](https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C) | [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Tu Gato Bellaco \(Remix\)](https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy) | 3:02 | 2022-11-30 |  |
 | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn) | 4:24 | 2022-12-07 |  |
 | [Tu Pollo](https://open.spotify.com/track/6XSzJ3PyaVHjyTuFvnCLlE) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Tu Pollo](https://open.spotify.com/album/3G82CjjfookH6v6RPMdFsW) | 3:04 | 2022-03-04 | 2022-10-22 |
+| [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 | 2022-12-13 |  |
 | [Turraka \- Remix](https://open.spotify.com/track/2Qv0DF1us4LhzLj0Cx9cSn) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR) | [Turraka \(Remix\)](https://open.spotify.com/album/50Apdeuj9XSYzEMyIcxunV) | 3:30 | 2021-12-17 | 2022-03-12 |
 | [Tú No Eras Así](https://open.spotify.com/track/6h1UftIKsK3dn9RJXhx4G9) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [All Star Game](https://open.spotify.com/album/7d0hMBy98bkBVRssATx4YL) | 3:00 | 2022-01-28 | 2022-05-07 |
 | [ULALA \(OHH LA LA\)](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ULALA \(OHH LA LA\)](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 | 2022-11-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 
 > Listen to A\-List tracks from RCA Records featuring music from SZA, Latto, Steve Lacy, Chris Brown, and more\. Cover: SZA
 
-[RCA Records](https://open.spotify.com/user/rcarecords) - 14,232 likes - 25 songs - 1 hr 19 min
+[RCA Records](https://open.spotify.com/user/rcarecords) - 14,230 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

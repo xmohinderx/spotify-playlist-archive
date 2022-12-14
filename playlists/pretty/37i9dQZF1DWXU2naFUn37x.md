@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Sick Luke
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,080 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,108 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 2:40 |
+| 1 | [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 2:40 |
 | 2 | [Alleluia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:40 |
 | 3 | [Sharm El Sheikh](https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Sharm El Sheikh](https://open.spotify.com/album/2nS6UzfcpGjaukHeQOiofW) | 2:05 |
 | 4 | [Take 4](https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 4](https://open.spotify.com/album/1A01OIU8IqWnFPThOxg7Cr) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [BU!](https://open.spotify.com/track/52Q2Ocg7mAG5B9LZ1szKoQ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:25 |
 | 50 | [Jersey](https://open.spotify.com/track/2vOWK3QixZ8Gab7S9vL6RS) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Jersey](https://open.spotify.com/album/29Q9PF20p26NQMIlafoXdI) | 2:18 |
 
-Snapshot ID: `MTY3MDgzNTU5MCwwMDAwMDAwMGVlNDdhMWVhNWFjMTFjMDdlMjhlYzcxYTNkZjI2ZWZh`
+Snapshot ID: `MTY3MDgzNTU5MCwwMDAwMDAwMGQ1YWU1YThkMDY3NDFhNWMwM2VkYTdjMGQzNzIzZDNm`

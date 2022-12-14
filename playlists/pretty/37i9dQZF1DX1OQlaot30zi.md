@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Marra, Tedua, Paky, Rhove, ANNA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,560 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,579 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 2 | [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 |
 | 3 | [Aqua dans la Mercedes](https://open.spotify.com/track/5SK1G2SAbNA7alM7gWbVdr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 3:29 |
 | 4 | [Bandito](https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Bandito](https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh) | 2:39 |
-| 5 | [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 2:40 |
+| 5 | [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 2:40 |
 | 6 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd) | 3:04 |
 | 7 | [Grazie la zone](https://open.spotify.com/track/5DQQfgrqgRpkUO6HXtx1jK) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 3:38 |
 | 8 | [Pula Ciao](https://open.spotify.com/track/0j6b6C1RjXJwqcgtQiaYv1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Pula Ciao](https://open.spotify.com/album/6ppGNR4fN65Zmcboef4BfT) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [Palazzi Alti](https://open.spotify.com/track/7LcHmzHY75nTeCEifk5Lnm) | [Mimmoflow](https://open.spotify.com/artist/4S7QbRmBzXhYmYv6PInaz1) | [Palazzi Alti](https://open.spotify.com/album/321SizbDOurOKrlTgO7Pyi) | 2:31 |
 | 80 | [Siberia](https://open.spotify.com/track/4ZuKpI8BgBTF4cbhkjwpqM) | [LIUK](https://open.spotify.com/artist/6xfeQJvxB1JE91mbYegsni), [LLADE](https://open.spotify.com/artist/07O2VDRdhylixj9TZzXSbI) | [Siberia](https://open.spotify.com/album/1XismlRI73hp7s0ANgZuPR) | 2:33 |
 
-Snapshot ID: `MTY3MDgzNTUwNCwwMDAwMDAwMDBjYTVjOGMyMWI3OGMzYzRhMDYyMDA3OTA5NzkwN2E0`
+Snapshot ID: `MTY3MDgzNTUwNCwwMDAwMDAwMGU1YTBmYWIxMGQwNzc2OGJjZmQxMWE5ZTllMzgzYmFi`

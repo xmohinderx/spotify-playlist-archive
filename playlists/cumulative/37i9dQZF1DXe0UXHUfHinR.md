@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Wayne Shorter
 
-513 songs - 1 day 16 hr 58 min - not published yet
+514 songs - 1 day 17 hr 1 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Joy Spring](https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [The Best Of Clifford Brown](https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L) | 3:18 | 2022-10-27 |  |
 | [Joy Spring](https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:50 | 2022-10-27 |  |
 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 | 2022-10-27 |  |
+| [Just Friends](https://open.spotify.com/track/6RqomqKVORIwNJCKNxvc3F) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:01 | 2022-12-07 |  |
 | [Just The Way You Are](https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Live In Paris](https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV) | 5:00 | 2022-10-27 |  |
 | [Kathy's Waltz](https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:47 | 2022-10-27 |  |
 | [Keep On](https://open.spotify.com/track/1GzBTeJLSh6frMPWxvNygc) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Antiphon](https://open.spotify.com/album/3joOXpEsCgg8oS1Tba7neT) | 10:47 | 2022-10-27 |  |
@@ -427,7 +428,7 @@
 | [Tell Me a Bedtime Story](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:01 | 2022-10-27 |  |
 | [Tell Me When](https://open.spotify.com/track/358K63AaaKKNFryT2zJ2Ib) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:09 | 2022-10-27 |  |
 | [Tenderly](https://open.spotify.com/track/4GexggWZGdd0ER5wBAtuwF) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:01 | 2022-10-27 |  |
-| [Tenderly](https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [An Introduction To Sarah Vaughan](https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE) | 2:31 | 2022-10-27 |  |
+| [Tenderly](https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [An Introduction To Sarah Vaughan](https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE) | 2:31 | 2022-10-27 | 2022-12-14 |
 | [That's All](https://open.spotify.com/track/53VuyKap8WiDjkrtm5d4h3) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:47 | 2022-10-27 |  |
 | [That's The Way Love Goes](https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 4:45 | 2022-10-27 |  |
 | [The Boy From Ipanema](https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [How Glad I Am](https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt) | 2:14 | 2022-10-27 |  |

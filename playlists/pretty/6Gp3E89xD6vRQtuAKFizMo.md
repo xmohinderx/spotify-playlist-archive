@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,322 likes - 60 songs - 3 hr 1 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,326 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 |
 | 2 | [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 |
 | 3 | [En Secreto](https://open.spotify.com/track/6lNd1FVwfPPmcXQM3Pr0xU) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [En Secreto](https://open.spotify.com/album/6BKh8ai1vPum2LclW1dGK1) | 2:09 |
-| 4 | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2VrERozKB6jB8hm0l6SqjM) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 |
+| 4 | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 |
 | 5 | [D House](https://open.spotify.com/track/6TKtoZBT8PGOgIP3e30hDN) | [DISTO](https://open.spotify.com/artist/1uodYnEBYYgZsExzoMeiGl) | [D House](https://open.spotify.com/album/7nIEkc3bIt0DIzUqQB3koJ) | 3:16 |
 | 6 | [All The Time](https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [All The Time](https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n) | 2:59 |
 | 7 | [Night Spot \(feat\. B Che\)](https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [B Che](https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN) | [Night Spot \(feat\. B Che\)](https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ) | 3:00 |

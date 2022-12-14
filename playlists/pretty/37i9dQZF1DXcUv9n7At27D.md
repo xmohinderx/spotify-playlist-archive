@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の冬に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,168 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,213 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 22 | [平均律クラヴィア曲集1\-10 ホ短調, BWV 855a: プレリュード](https://open.spotify.com/track/7w1mosI1qd2wrTjKpLTdVO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [シロティ](https://open.spotify.com/artist/5Cw1xnWej2I3kZEk0MqqH0), [上原琢矢](https://open.spotify.com/artist/2fKXyRn7lLoGf97tId4b85) | [シャコンヌ](https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7) | 3:26 |
 | 23 | [Osmanthus](https://open.spotify.com/track/0L8pobjqk1qgI9ukXK6qMd) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Osmanthus](https://open.spotify.com/album/2eRF381GbGdgW3mV8GGluk) | 2:08 |
 | 24 | [たゆたう燈](https://open.spotify.com/track/46KtW7HX55Xo7pDi5ps6Z4) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:20 |
-| 25 | [ピアノ・ソナタ第8番 ハ短調 作品13《悲愴》 \- 第2楽章 Adagio cantabile](https://open.spotify.com/track/6qrFxvMjfkE9eJzjIVQfdf) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Keisuke Toyama](https://open.spotify.com/artist/2dJHSfupCrIpYzUj8DOrwe) | [《ワルトシュタイン》《悲愴》《熱情》\~ベートーヴェン:ピアノ・ソナタ集](https://open.spotify.com/album/0gThCPLrji3ANbjXcHkVWG) | 4:38 |
+| 25 | [ピアノ・ソナタ第8番 ハ短調 作品13《悲愴》 \- 第2楽章 Adagio cantabile](https://open.spotify.com/track/6qrFxvMjfkE9eJzjIVQfdf) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Keisuke Toyama](https://open.spotify.com/artist/2dJHSfupCrIpYzUj8DOrwe) | [《ワルトシュタイン》《悲愴》《熱情》\~ベートーヴェン:ピアノ・ソナタ集](https://open.spotify.com/album/0gThCPLrji3ANbjXcHkVWG) | 4:38 |
 | 26 | [Berceuse](https://open.spotify.com/track/2aj9gk89sJ9Rj8kE6EfxM3) | [Armas Järnefelt](https://open.spotify.com/artist/0DDOvrV9wGcN6EPZU2KeRK), [Erkki Rautio](https://open.spotify.com/artist/0mrn7eJEcqV7KPopqH5UYy), [Izumi Tateno](https://open.spotify.com/artist/1IDW9jgQRukXDqINZyrkue) | [Finland 100 Years: Classical Music](https://open.spotify.com/album/7hCQ6pzgHwpyKFPSoS2sym) | 3:21 |
 | 27 | [Snow](https://open.spotify.com/track/7dr3ZhQmk9hZZTz5svschC) | [Tomoya Naka](https://open.spotify.com/artist/16swNvdMD5sQAXlVaHc8Hx) | [Luna e Sole](https://open.spotify.com/album/2fvASnd0fRoJeGxxVVgQmM) | 3:08 |
 | 28 | [Me Time](https://open.spotify.com/track/2wd6t9a86EJhesgMIv33FJ) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Me Time](https://open.spotify.com/album/4P0VkjOeK4srTWqEe2M8sH) | 3:30 |

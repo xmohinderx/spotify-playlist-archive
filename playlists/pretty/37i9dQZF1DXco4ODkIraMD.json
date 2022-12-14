@@ -1,12 +1,12 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: J Balvin & Bad Bunny",
-  "num_followers": 484547,
+  "num_followers": 484939,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0ODY5NywwMDAwMDAwMDAzOTk2NGFlOGViOTA3YjFkMTkxNzYyZDE3YzUyYzRj",
+  "snapshot_id": "MTY2MDc0ODY5NywwMDAwMDAwMGNmM2RiNDBjZjI4ZWU1YmE3ZDdmMDg1Yjc4MjA4MjA0",
   "tracks": [
     {
       "added_at": "2022-08-17 15:04:55",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "DUMMY BOY",
         "url": "https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 206550,
       "name": "MALA",
       "url": "https://open.spotify.com/track/4epHhc2lvhFYzMlKA23O3G"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Otro Trago (Remix)",
-        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Otro Trago - Remix",
-      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Sigue Bailandome",
         "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
       },
@@ -1227,6 +1195,38 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Otro Trago (Remix)",
+        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Otro Trago - Remix",
+      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "RITMO (Bad Boys For Life)",
         "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 214013,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "Si Supieras",
         "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 241880,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "DI LETRA",
-        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Dura",
         "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 200480,
       "name": "Dura",
       "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "DI LETRA",
+        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "La Rompe Corazones",
-        "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "La Rompe Corazones",
-      "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Los Campeones del Pueblo \"The Big Leagues\"",
         "url": "https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 229826,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "La Rompe Corazones",
+        "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "La Rompe Corazones",
+      "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 197840,
       "name": "Chillax (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2451,6 +2451,26 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Te Quemaste",
+      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
       },
@@ -2483,26 +2503,6 @@
       "duration_ms": 258600,
       "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Te Quemaste",
-      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2543,6 +2543,26 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Gyal You A Party Animal (Remix)",
+        "url": "https://open.spotify.com/album/5z2c6YpV0jFcPCsvUN2h6J"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "Gyal You A Party Animal - Remix",
+      "url": "https://open.spotify.com/track/0Rj2yNpEvXOl8yn9UOuIRs"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -2563,26 +2583,6 @@
       "duration_ms": 217129,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Gyal You A Party Animal (Remix)",
-        "url": "https://open.spotify.com/album/5z2c6YpV0jFcPCsvUN2h6J"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "Gyal You A Party Animal - Remix",
-      "url": "https://open.spotify.com/track/0Rj2yNpEvXOl8yn9UOuIRs"
     },
     {
       "added_at": "2022-08-17 15:04:55",

@@ -4927,7 +4927,7 @@
           "url": "https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg"
         }
       ],
-      "date_added": "2022-12-13",
+      "date_added": "2022-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 260338,
@@ -12481,6 +12481,24 @@
       "duration_ms": 281252,
       "name": "Truth Nugget",
       "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
+    },
+    {
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/1rvh7AKmoPg6RMMT9gDO5z"
+      },
+      "artists": [
+        {
+          "name": "Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203059,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/7uuomiEzgF5w4TPJDUvAEQ"
     },
     {
       "album": {

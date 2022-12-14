@@ -4171,7 +4171,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 114893,
       "name": "Purple Days",
       "url": "https://open.spotify.com/track/6IOsHOSYKJWZPvcu0TxOjP"
@@ -4200,6 +4200,28 @@
     },
     {
       "album": {
+        "name": "Purple Days",
+        "url": "https://open.spotify.com/album/1wyIN2PaYsXq1dFQouQjTg"
+      },
+      "artists": [
+        {
+          "name": "SP-Mato",
+          "url": "https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym"
+        },
+        {
+          "name": "Sandy Mental",
+          "url": "https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114893,
+      "name": "Purple Days",
+      "url": "https://open.spotify.com/track/6swspKnhCXVuhtjjn3CKWX"
+    },
+    {
+      "album": {
         "name": "Put Your Hands Up",
         "url": "https://open.spotify.com/album/2KHS5HCEvAzzrGKD3pHc07"
       },
@@ -4215,7 +4237,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 110655,
       "name": "Put Your Hands Up",
       "url": "https://open.spotify.com/track/0LRcMNHOeChV4UG7rLN1Xz"
@@ -4241,6 +4263,28 @@
       "duration_ms": 110655,
       "name": "Put Your Hands Up",
       "url": "https://open.spotify.com/track/3ZNY9uaSiilXtvX23JRiuM"
+    },
+    {
+      "album": {
+        "name": "Put Your Hands Up",
+        "url": "https://open.spotify.com/album/24uvsMFissUnmpb7DYLCBH"
+      },
+      "artists": [
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        },
+        {
+          "name": "Schmiddunsk",
+          "url": "https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110655,
+      "name": "Put Your Hands Up",
+      "url": "https://open.spotify.com/track/5fszgubkNixUMmqDYdXJ6L"
     },
     {
       "album": {

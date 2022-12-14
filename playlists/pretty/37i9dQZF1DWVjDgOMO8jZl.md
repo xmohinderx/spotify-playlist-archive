@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,476 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,482 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 74 | [Pasta Rossa](https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Macchie](https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh) | 3:28 |
 | 75 | [Carta Stagnola](https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT) | 2:55 |
 
-Snapshot ID: `MTY3MDU0MDQ2MCwwMDAwMDAwMDI1ZmI4YTBlYjYxYzM0OTc5ZjczMGI4Y2MxZjllYjMx`
+Snapshot ID: `MTY3MDkyNjMxNCwwMDAwMDAwMGI0YjhlMjM1MjdlZDk3MjYyMDQ3ODM0YjcxOWI0Y2Rm`

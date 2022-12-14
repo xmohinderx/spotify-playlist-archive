@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: blah\)
 
-235 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+237 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,10 @@
 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 | 2022-05-27 |  |
 | [And It's Over](https://open.spotify.com/track/1rnsLPSOHmNegyegIxoUgK) | [SURYEON](https://open.spotify.com/artist/5jyPaTMuPzds0MAd8WtxAd) | [IMPERFECT](https://open.spotify.com/album/3MuXy7w4uc8qGUWkxtDRXw) | 2:52 | 2022-06-18 | 2022-07-29 |
 | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/track/6Z7EQCTRd1xvYNQA4e8cXu) | [hyangni](https://open.spotify.com/artist/3cJZkGtAEEajyDOnbYe42O), [Telefonist](https://open.spotify.com/artist/3ICg4qSKMB3EuuEjiyuVIw) | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/album/1a91fUH02ghx9W49pD7Kfx) | 3:19 | 2022-05-27 | 2022-07-27 |
+| [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-13 |  |
 | [astroboy.](https://open.spotify.com/track/5B7K0zs5gkaueWXzgd0vk7) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [cheer up!](https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8) | 4:00 | 2022-05-27 |  |
 | [Bang Bus](https://open.spotify.com/track/6icnkKxcpcXTinKYC1k1Sl) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [Bang Bus](https://open.spotify.com/album/2mtnyGr9bJtIdr1H57bqyr) | 4:05 | 2022-05-27 | 2022-07-29 |
+| [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-13 |  |
 | [Be Grateful](https://open.spotify.com/track/3ypx2iCs9VyghLu5zuqdZ5) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1Fpaupka34rhkBJ0kwvYGd) | 2:47 | 2022-05-27 | 2022-07-25 |
 | [Be My \(feat\. Lokid\)](https://open.spotify.com/track/0cGqf70zFVKVPFq5S6vWOM) | [Uza](https://open.spotify.com/artist/2i1YHJ5ulcVQJt6zNLeSkL), [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [Be My](https://open.spotify.com/album/3U5Unwd0vnKVNWiXdMGayU) | 5:00 | 2022-07-04 | 2022-08-10 |
 | [Beautiful](https://open.spotify.com/track/2r7FeGOELjIHKIpPjLeXvd) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [SURFING](https://open.spotify.com/album/4gjhFa54JUgELzHmQoR4J1) | 3:17 | 2022-05-27 | 2022-07-29 |
@@ -129,7 +131,7 @@
 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 | 2022-07-08 |  |
 | [Lustre](https://open.spotify.com/track/4XnUCJTdssEkFj1NiIQAp7) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/0zsXyoBNYf3hRMaSu5zdEj) | 3:34 | 2022-05-27 | 2022-07-29 |
 | [M.A.D\(More And Dare\)](https://open.spotify.com/track/7An9I90u0wHgOzqOLSLMuk) | [Twomyung](https://open.spotify.com/artist/6uENO0HTR2Tt1sZzQmPKst), [Trickyneko](https://open.spotify.com/artist/5UNMeC6UjnNmJRkpVZJsHd), [howaho](https://open.spotify.com/artist/4lEQCDab4fOSiY7r0SlOhi) | [M.A.D\(More And Dare\)](https://open.spotify.com/album/4ecOiOI9m7Ey1washio0rv) | 3:36 | 2022-05-27 | 2022-07-27 |
-| [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 | 2022-05-27 |  |
+| [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 | 2022-05-27 | 2022-12-14 |
 | [maldivian night](https://open.spotify.com/track/75kuXEhMGPeiv8fhiU4z2h) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [maldivian night](https://open.spotify.com/album/184u2TOIGw3XN21212Wp1j) | 3:11 | 2022-05-27 | 2022-07-23 |
 | [Matrix<3](https://open.spotify.com/track/1fVA0U2ed6LhGC9ADynsJ7) | [Noizeegu](https://open.spotify.com/artist/6eLjOr4BzLerxxVuzLClOe) | [Matrix<3](https://open.spotify.com/album/1KEfk7HWYLhkJcItcgpVNf) | 3:06 | 2022-06-09 | 2022-07-27 |
 | [Melting Point \(Feat\. Samuel Seo\)](https://open.spotify.com/track/0RaxRKVWQTnZ31L4LfUGXt) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Summer Soundcloud](https://open.spotify.com/album/03aZUdnQGIb9bnp2kY7d7X) | 4:36 | 2022-08-19 | 2022-10-22 |
@@ -212,7 +214,7 @@
 | [Too Old to Die Young](https://open.spotify.com/track/5iI0tp0KVruemN3fYxtAHy) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Too Old to Die Young](https://open.spotify.com/album/7JTbqte3AMxeFC67F062OD) | 4:12 | 2022-06-18 | 2022-06-28 |
 | [Touch](https://open.spotify.com/track/2xSMlL2I4yhoH31tl3xCY4) | [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb) | [TOUCH](https://open.spotify.com/album/0oWu5pZekjFtOiMJverkSS) | 3:23 | 2022-08-12 | 2022-09-06 |
 | [Turtle](https://open.spotify.com/track/2NYv3in6KzvY7u08GeAWXh) | [Uyeon](https://open.spotify.com/artist/5kWXcQClcPLU6G1TPW4tXM) | [Gonna out](https://open.spotify.com/album/5RHSk68hoJY9N1SoCIv1G9) | 3:16 | 2022-05-27 | 2022-07-29 |
-| [U\-Turn](https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 1:18 | 2022-05-27 |  |
+| [U\-Turn](https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 1:18 | 2022-05-27 | 2022-12-14 |
 | [Unconditional Love](https://open.spotify.com/track/7b2UByK5M5c2mwyWtr1gMc) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 4:07 | 2022-05-27 | 2022-07-26 |
 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 | 2022-11-08 |  |
 | [Wait](https://open.spotify.com/track/2ILuzHZ3x0KUctLIpYhVAg) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7IVXJq84oVDxFmDQIHHkrR) | 4:00 | 2022-07-08 | 2022-11-14 |

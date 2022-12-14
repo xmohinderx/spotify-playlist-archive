@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330 likes - 38 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385 likes - 38 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 7 | [blackbird spring ambience](https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Blackbird Spring Ambience](https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h) | 1:42 |
 | 8 | [Close to Nature](https://open.spotify.com/track/4JJfSzfcmlUIiebTu4getf) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:19 |
 | 9 | [Midsummer Evening Birds](https://open.spotify.com/track/261ebcVGg5iiyrBIr6YL1k) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:02 |
-| 10 | [Beauty\-Bird](https://open.spotify.com/track/63bDLpi7dByFnHFQEAMCh7) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:40 |
-| 11 | [Birds In The Woods](https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Early Summer Birds Vol\. 1](https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A) | 1:41 |
+| 10 | [Birds In The Woods](https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Early Summer Birds Vol\. 1](https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A) | 1:41 |
+| 11 | [Beauty\-Bird](https://open.spotify.com/track/63bDLpi7dByFnHFQEAMCh7) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:40 |
 | 12 | [Morning in the Mist](https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM) | [Wonders of Nature](https://open.spotify.com/artist/76h7eP0k2WHIUN2MkppeVJ) | [Woodlands](https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq) | 4:31 |
 | 13 | [Morning Bird Symphony](https://open.spotify.com/track/3H33Uelf6KheaJQphvrYFz) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Morning Bird Symphony](https://open.spotify.com/album/2815kNCpMBJS3tP20pmwFh) | 2:03 |
 | 14 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 24 | [Park Bird Fountain](https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:50 |
 | 25 | [Morning Birds](https://open.spotify.com/track/6xUIF4Z4PcCPHHWi0Ljp5E) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Therapy Birds](https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai) | 3:42 |
 | 26 | [Bird\-watching](https://open.spotify.com/track/3q1utXbOrLhfUO3S1daLdE) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:58 |
-| 27 | [More Morning Birds in the Summer Forest](https://open.spotify.com/track/6I4gNasGkMLOwFgM3XMwle) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Morning Birds in the Summer Forest](https://open.spotify.com/album/2hkRiSxZxTU3BysE4oqJ9s) | 2:09 |
+| 27 | [When calm comes](https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [When Calm Comes](https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu) | 2:33 |
 | 28 | [Soothing Morning Birds](https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 3:08 |
-| 29 | [When calm comes](https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [When Calm Comes](https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu) | 2:33 |
+| 29 | [More Morning Birds in the Summer Forest](https://open.spotify.com/track/6I4gNasGkMLOwFgM3XMwle) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Morning Birds in the Summer Forest](https://open.spotify.com/album/2hkRiSxZxTU3BysE4oqJ9s) | 2:09 |
 | 30 | [Orchid Stories](https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Orchid Stories](https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V) | 3:46 |
 | 31 | [Clear Creek](https://open.spotify.com/track/4jQHltMu5EIuktvQYivjbg) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Clear Creek](https://open.spotify.com/album/7tMxYukzhoL5zCMQQif70L) | 3:20 |
 | 32 | [Early Bird Sound](https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Early Bird Sound](https://open.spotify.com/album/42ML1JDCRsl9aRWxDEy7Mv) | 2:21 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 37 | [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 |
 | 38 | [A Chit\-Chat With Nature](https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:10 |
 
-Snapshot ID: `MTY2OTAyODY3MCwwMDAwMDAwMDQzYjJlNzRkNTgxOWFiOTA0ZmU2N2Y3NDYxOGNjNDZk`
+Snapshot ID: `MTY2OTAyODY3MCwwMDAwMDAwMDIyMGI5MTNmOWMzZjM1YzZlMjlhYWRjZTc0MDBhNTVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 
 > Our editorial picks for the best gaming tracks of the year\. Cover: Lil Nas X \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,089 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 20 | [Super Gremlin](https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:20 |
 | 21 | [Wrath](https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:53 |
 | 22 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
-| 23 | [After Hours](https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb) | 2:37 |
-| 24 | [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 |
+| 23 | [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 |
+| 24 | [After Hours](https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb) | 2:37 |
 | 25 | [Fire To The Fuse](https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [Fire To The Fuse](https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL) | 3:44 |
 | 26 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 |
 | 27 | [BOW](https://open.spotify.com/track/01V6K40AZcyCVdCiEOYk9V) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [FREAKY](https://open.spotify.com/album/035gwa3Veg378UiY2p6ZwN) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WV3tIB2AIC.md) - [plain]
 | 49 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 |
 | 50 | [First Flight To Mars](https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e) | [First Flight To Mars](https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s) | 3:07 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDkyMTQxMTc5YTAyYjBlMWZhNWRkM2JjMGE0ZjJjNmQ3`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGY0NWM1ZGU2OTBlNjQ4YmFiZDJkMjAyNzhjMzQ2NmY5`

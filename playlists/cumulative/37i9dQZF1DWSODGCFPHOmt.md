@@ -4,11 +4,12 @@
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-90 songs - 4 hr 54 min - not published yet
+91 songs - 4 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 de Diciembre](https://open.spotify.com/track/19iucT8nAxsGInO2Y1somA) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 2:25 | 2022-11-25 |  |
+| [Alma Navideña](https://open.spotify.com/track/1s4c3Tun9Tlnuu2YqaEKfy) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Alma Navideña](https://open.spotify.com/album/1hXx44Rb1NKuqwZKSVHZvV) | 4:03 | 2022-11-25 |  |
 | [Alrededor del Árbol de Navidad](https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Alrededor del Árbol de Navidad](https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m) | 2:04 | 2022-11-25 |  |
 | [Amarga Navidad](https://open.spotify.com/track/1kOWMdlpetd7L5O6AtxtO9) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:06 | 2022-11-25 |  |
 | [Amarga Navidad](https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Amarga Navidad](https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF) | 3:06 | 2022-11-25 |  |
@@ -58,7 +59,7 @@
 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 | 2022-11-25 |  |
 | [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 | 2022-11-25 |  |
 | [Navidad En Mi Rancho](https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Momentos Inolvidables](https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO) | 3:59 | 2022-11-25 |  |
-| [Navidad Navidad](https://open.spotify.com/track/6F12TIRr8vhHY1kIq8JB8h) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Navidad Navidad](https://open.spotify.com/album/3gShHWa2czJY8mtv0QEXlg) | 2:31 | 2022-11-25 |  |
+| [Navidad Navidad](https://open.spotify.com/track/6F12TIRr8vhHY1kIq8JB8h) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Navidad Navidad](https://open.spotify.com/album/3gShHWa2czJY8mtv0QEXlg) | 2:31 | 2022-11-25 | 2022-12-14 |
 | [Navidad Rock](https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Navidad Rock](https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p) | 2:07 | 2022-11-25 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/1Ha7nokU33XTvjzGtrU7Hy) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [Navidad Sin Ti](https://open.spotify.com/album/6rXlCEugrnZmmfz3lbFNut) | 3:45 | 2022-11-25 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:27 | 2022-11-25 |  |

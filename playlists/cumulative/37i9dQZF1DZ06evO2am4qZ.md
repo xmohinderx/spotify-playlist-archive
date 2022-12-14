@@ -4,7 +4,7 @@
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 3 min - not published yet
+63 songs - 3 hr 7 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT) | 3:53 | 2022-10-28 | 2022-11-27 |
 | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:53 | 2022-11-26 |  |
 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 | 2022-10-28 |  |
-| [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/46b23Nj2UftnN8jSWz4VR5) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:49 | 2022-10-28 |  |
+| [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2022-12-13 |  |
+| [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/46b23Nj2UftnN8jSWz4VR5) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:49 | 2022-10-28 | 2022-12-14 |
 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 | 2022-10-28 |  |
 | [Want Not A Need \(feat\. Baby Tate\)](https://open.spotify.com/track/71sEDegC32gkp1Y0vdrAf9) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Grown](https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV) | 2:07 | 2022-10-28 |  |
 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 | 2022-11-07 | 2022-11-19 |

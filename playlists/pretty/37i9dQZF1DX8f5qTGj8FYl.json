@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 315498,
+  "num_followers": 315625,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGY2NzFhNzhkOTc4MzM1N2YyMGNiY2MyYTA2NjRjYjI1",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGNjM2RlNDgxY2NmYTM3NmQ5M2UxNDRmMzRhZGU0MjE3",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Gun Metal Grey",
+        "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Gun Metal Grey",
+      "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -231,34 +247,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Gun Metal Grey",
-        "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
+        "name": "Maze of Sounds",
+        "url": "https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6"
       },
       "artists": [
         {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Gun Metal Grey",
-      "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Unify",
-        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
-      },
-      "artists": [
+          "name": "Janko Nilovic",
+          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
+        },
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+          "name": "The Soul Surfers",
+          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
         }
       ],
-      "duration_ms": 359698,
-      "name": "Gravy Train",
-      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
+      "duration_ms": 428047,
+      "name": "Tha Boogee",
+      "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -317,24 +321,20 @@
       "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Maze of Sounds",
-        "url": "https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6"
+        "name": "Unify",
+        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
       },
       "artists": [
         {
-          "name": "Janko Nilovic",
-          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
-        },
-        {
-          "name": "The Soul Surfers",
-          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
         }
       ],
-      "duration_ms": 428047,
-      "name": "Tha Boogee",
-      "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
+      "duration_ms": 359698,
+      "name": "Gravy Train",
+      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Mt. Crushmore",
-        "url": "https://open.spotify.com/album/42HcN7hOBcnRPNgy0NMwey"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "116th St.",
-      "url": "https://open.spotify.com/track/3dyjYQhI5KTC82l0VUa6Qs"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Hang",
         "url": "https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962"
+      },
+      "artists": [
+        {
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/19pDIVteJMebeU3KrB7rYR"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Tailwinds",
         "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
       },
@@ -439,6 +439,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Mt. Crushmore",
+        "url": "https://open.spotify.com/album/42HcN7hOBcnRPNgy0NMwey"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "116th St.",
+      "url": "https://open.spotify.com/track/3dyjYQhI5KTC82l0VUa6Qs"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Our Kind of Movement",
         "url": "https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q"
       },
@@ -455,34 +471,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962"
+        "name": "KINFOLK: Postcards from Everywhere",
+        "url": "https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9"
       },
       "artists": [
         {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
         }
       ],
-      "duration_ms": 217053,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/19pDIVteJMebeU3KrB7rYR"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Bacano",
-        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 309092,
-      "name": "Open Season",
-      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
+      "duration_ms": 333304,
+      "name": "Bounce, Pts. I + II",
+      "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "KINFOLK: Postcards from Everywhere",
-        "url": "https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9"
+        "name": "Bacano",
+        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 333304,
-      "name": "Bounce, Pts. I + II",
-      "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
+      "duration_ms": 309092,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "The Golden Hour",
@@ -587,6 +571,22 @@
       "duration_ms": 223672,
       "name": "Junkyard Dunebuggy",
       "url": "https://open.spotify.com/track/7hePUwn6gsIUe6KC4ACdXB"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Basilisk",
-        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "Basilisk",
-      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Wired",
@@ -651,6 +635,22 @@
       "duration_ms": 164173,
       "name": "Head for Backstage Pass",
       "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Tej b/w Short Shrift",
+        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
+      },
+      "artists": [
+        {
+          "name": "The So Ons",
+          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
+        }
+      ],
+      "duration_ms": 328433,
+      "name": "Tej",
+      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -669,20 +669,36 @@
       "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-02-19 05:01:00",
       "album": {
-        "name": "Tej b/w Short Shrift",
-        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
+        "name": "Basilisk",
+        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
       },
       "artists": [
         {
-          "name": "The So Ons",
-          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 328433,
-      "name": "Tej",
-      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
+      "duration_ms": 269146,
+      "name": "Basilisk",
+      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 310561,
+      "name": "NDUGU",
+      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -715,22 +731,6 @@
       "duration_ms": 249933,
       "name": "Montuno Funk",
       "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 310561,
-      "name": "NDUGU",
-      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Scratch My Itch",
-        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
-      },
-      "artists": [
-        {
-          "name": "The Soul Snatchers",
-          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Do You Wanna Get Down",
-      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Groove Cubed",
         "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 412733,
       "name": "In the Groove",
       "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Scratch My Itch",
+        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
+      },
+      "artists": [
+        {
+          "name": "The Soul Snatchers",
+          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Do You Wanna Get Down",
+      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+        "name": "3 (Remastered)",
+        "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
       },
       "artists": [
         {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
+          "name": "Magic In Threes",
+          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
         }
       ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+      "duration_ms": 138533,
+      "name": "Work Tapes",
+      "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
     },
     {
       "added_at": "2021-01-15 21:11:37",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "3 (Remastered)",
-        "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
       },
       "artists": [
         {
-          "name": "Magic In Threes",
-          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
         }
       ],
-      "duration_ms": 138533,
-      "name": "Work Tapes",
-      "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Gotcha Rhythm Right Here",
-        "url": "https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0"
-      },
-      "artists": [
-        {
-          "name": "John Tropea",
-          "url": "https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2"
-        }
-      ],
-      "duration_ms": 352192,
-      "name": "Chili Wa Man",
-      "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Just Funkin' Around",
         "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
       },
@@ -1249,20 +1233,20 @@
       "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Prospect Park West",
-        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
+        "name": "Gotcha Rhythm Right Here",
+        "url": "https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0"
       },
       "artists": [
         {
-          "name": "Jerry McHoy",
-          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
+          "name": "John Tropea",
+          "url": "https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2"
         }
       ],
-      "duration_ms": 176184,
-      "name": "Prospect Park West",
-      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
+      "duration_ms": 352192,
+      "name": "Chili Wa Man",
+      "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -1285,20 +1269,20 @@
       "url": "https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Funkafized Plus",
-        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
+        "name": "Prospect Park West",
+        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
       },
       "artists": [
         {
-          "name": "Boston Horns",
-          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
+          "name": "Jerry McHoy",
+          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
         }
       ],
-      "duration_ms": 299000,
-      "name": "Funkafized",
-      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
+      "duration_ms": 176184,
+      "name": "Prospect Park West",
+      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 302288,
       "name": "Bunny Hop",
       "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Funkafized Plus",
+        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
+      },
+      "artists": [
+        {
+          "name": "Boston Horns",
+          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Funkafized",
+      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
       "added_at": "2021-11-26 05:01:00",

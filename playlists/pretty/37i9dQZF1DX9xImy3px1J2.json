@@ -1,12 +1,12 @@
 {
   "description": "Questa \u00e8 la tua notte, balla fino al mattino tra hit dance e ritmi latini.",
-  "num_followers": 302793,
+  "num_followers": 302781,
   "original_name": "Fino Al Mattino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4MzQ4NCwwMDAwMDAwMGViNjZmNjE2OGM0MDhlNjA4ZDRhNDA2OTgzYmY2N2Iw",
+  "snapshot_id": "MTY3MDU4MzQ4NCwwMDAwMDAwMGVhMDI4MTIwOGEwZmE2MTM5MjVlNTBlNDcwODExYzNh",
   "tracks": [
     {
       "added_at": "2022-12-09 10:58:04",
@@ -911,18 +911,22 @@
     {
       "added_at": "2022-12-09 10:58:04",
       "album": {
-        "name": "Giovani Wannabe",
-        "url": "https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 212966,
-      "name": "Giovani Wannabe",
-      "url": "https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy"
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
     },
     {
       "added_at": "2022-12-09 10:58:04",
@@ -967,22 +971,18 @@
     {
       "added_at": "2022-12-09 10:58:04",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+        "name": "Giovani Wannabe",
+        "url": "https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
         }
       ],
-      "duration_ms": 138819,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+      "duration_ms": 212966,
+      "name": "Giovani Wannabe",
+      "url": "https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy"
     },
     {
       "added_at": "2022-12-09 10:58:04",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2022-12-09 10:58:04",
       "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
+    },
+    {
+      "added_at": "2022-12-09 10:58:04",
+      "album": {
         "name": "We Could Be Together (feat. Daddy DJ)",
         "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 149642,
       "name": "We Could Be Together",
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
-    },
-    {
-      "added_at": "2022-12-09 10:58:04",
-      "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
     },
     {
       "added_at": "2022-12-09 10:58:04",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2022-12-09 10:58:04",
       "album": {
-        "name": "Michelle Pfeiffer (feat. Tony Effe)",
-        "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 180774,
-      "name": "Michelle Pfeiffer (feat. Tony Effe)",
-      "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
-    },
-    {
-      "added_at": "2022-12-09 10:58:04",
-      "album": {
         "name": "Turn Me On (feat. Vula)",
         "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
+    },
+    {
+      "added_at": "2022-12-09 10:58:04",
+      "album": {
+        "name": "Michelle Pfeiffer (feat. Tony Effe)",
+        "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 180774,
+      "name": "Michelle Pfeiffer (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
     },
     {
       "added_at": "2022-12-09 10:58:04",

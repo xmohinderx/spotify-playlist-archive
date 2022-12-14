@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: The Cool Greenhouse",
-  "num_followers": 252333,
+  "num_followers": 252414,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3ODcyNiwwMDAwMDAwMGVjMDk4ODgxOGQ3NzQ1NzNkZDg4YjJhNWZkYjI0NWJm",
+  "snapshot_id": "MTY3MDk1ODU5MiwwMDAwMDAwMGJkZDQyMGZmOWQzNTQzZTI0NmZiMGYxODg1Nzc3NTQy",
   "tracks": [
     {
       "added_at": "2022-11-18 13:38:26",
@@ -23,6 +23,38 @@
       "duration_ms": 261384,
       "name": "Fingers of Steel",
       "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
+    },
+    {
+      "added_at": "2022-12-13 19:09:52",
+      "album": {
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "duration_ms": 160896,
+      "name": "Dazzling",
+      "url": "https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
+        "name": "Sod's Toastie",
+        "url": "https://open.spotify.com/album/25WIUYxIhGxeXSipIvxYFd"
+      },
+      "artists": [
+        {
+          "name": "The Cool Greenhouse",
+          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Get Unjaded",
+      "url": "https://open.spotify.com/track/2SG9JJ08AAhwS993F6srEj"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -203,6 +235,22 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 226678,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
         "name": "Street Worms",
         "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
       },
@@ -235,18 +283,18 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 226678,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
+      "duration_ms": 230121,
+      "name": "Magic of Meghan",
+      "url": "https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -283,22 +331,6 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 230121,
-      "name": "Magic of Meghan",
-      "url": "https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
         "name": "When I Have Fears",
         "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
       },
@@ -311,6 +343,22 @@
       "duration_ms": 146978,
       "name": "Don't Cling To Life",
       "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -343,22 +391,6 @@
       "duration_ms": 463545,
       "name": "Beautiful Blue Sky",
       "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
-        "name": "Punk Rock Loser",
-        "url": "https://open.spotify.com/album/5TeSxqNuv7aMSdz8P5WEqj"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 237980,
-      "name": "Punk Rock Loser",
-      "url": "https://open.spotify.com/track/6cHHjw1pDDw2OiSXYSRpxb"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -475,6 +507,22 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
+        "name": "Punk Rock Loser",
+        "url": "https://open.spotify.com/album/5TeSxqNuv7aMSdz8P5WEqj"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 237980,
+      "name": "Punk Rock Loser",
+      "url": "https://open.spotify.com/track/6cHHjw1pDDw2OiSXYSRpxb"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
         "name": "Debonair",
         "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
@@ -507,18 +555,18 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
         }
       ],
-      "duration_ms": 212910,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
+      "duration_ms": 347506,
+      "name": "Good morning (red)",
+      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -535,22 +583,6 @@
       "duration_ms": 303133,
       "name": "Adore",
       "url": "https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        }
-      ],
-      "duration_ms": 347506,
-      "name": "Good morning (red)",
-      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -591,22 +623,6 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
-        "name": "Tennis",
-        "url": "https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr"
-      },
-      "artists": [
-        {
-          "name": "Courting",
-          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
         "name": "LOGGERHEAD",
         "url": "https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk"
       },
@@ -627,6 +643,22 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
+        "name": "Tennis",
+        "url": "https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
         "name": "Dogrel",
         "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
@@ -639,6 +671,22 @@
       "duration_ms": 105515,
       "name": "Big",
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -671,22 +719,6 @@
       "duration_ms": 196000,
       "name": "Little Fix",
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 279817,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -755,6 +787,22 @@
     {
       "added_at": "2022-11-18 13:38:26",
       "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 204354,
+      "name": "Best Behavior",
+      "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
+    },
+    {
+      "added_at": "2022-11-18 13:38:26",
+      "album": {
         "name": "Holding Hands with Jamie",
         "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
       },
@@ -783,22 +831,6 @@
       "duration_ms": 160884,
       "name": "Paying The Price",
       "url": "https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        }
-      ],
-      "duration_ms": 204354,
-      "name": "Best Behavior",
-      "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
     },
     {
       "added_at": "2022-11-18 13:38:26",
@@ -863,38 +895,6 @@
       "duration_ms": 178654,
       "name": "Avoidarama",
       "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
-        "name": "Concorde",
-        "url": "https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 363773,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk"
-    },
-    {
-      "added_at": "2022-11-18 13:38:26",
-      "album": {
-        "name": "Drunk Tank Pink (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Nigel Hitter",
-      "url": "https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX"
     }
   ],
   "unique_name": "Post Punk",

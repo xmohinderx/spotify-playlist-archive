@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-117 songs - 7 hr 11 min - not published yet
+118 songs - 7 hr 15 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Sea Lions](https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pink Balloon / Sea Lions](https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0) | 5:19 | 2022-12-06 |  |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-11-08 | 2022-11-12 |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2022-10-20 |  |
-| [Slow Dance](https://open.spotify.com/track/2O2bw4CwYnvPuOAH5RVlDF) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 3:33 | 2022-12-06 |  |
+| [Slow Dance](https://open.spotify.com/track/2O2bw4CwYnvPuOAH5RVlDF) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 3:33 | 2022-12-06 | 2022-12-14 |
 | [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-11-08 | 2022-11-16 |
 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 | 2022-11-17 |  |
 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 | 2022-10-20 | 2022-11-09 |
@@ -122,6 +122,7 @@
 | [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 | 2022-11-22 |  |
 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 | 2022-11-19 |  |
 | [微熱 \(秋\)](https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱 \(秋\) / Honesty \(Session 1\)](https://open.spotify.com/album/45vKG9pi5lln4SsNdHTqSQ) | 4:58 | 2022-11-15 | 2022-11-17 |
+| [時計は眠い](https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [時計は眠い](https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB) | 4:28 | 2022-12-13 |  |
 | [最上の出逢い](https://open.spotify.com/track/0M7AkOqC8A00VWeoBU4C1d) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [最上の出逢い](https://open.spotify.com/album/6OtMHAOP4Ku8DTyKYGv3MY) | 4:52 | 2022-10-20 | 2022-11-09 |
 | [未来のこと](https://open.spotify.com/track/6cYzQkwsO6StfGaSdH1nmk) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [未来のこと](https://open.spotify.com/album/6IZcWgH4YcB4ydbxDVZ9Fc) | 5:53 | 2022-10-20 | 2022-11-09 |
 | [紫陽花の庭](https://open.spotify.com/track/6akOpGJcktIeKmtqK8LXdh) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Calyx](https://open.spotify.com/album/30u7TBjP17nCKURG0tkmwl) | 2:34 | 2022-10-20 | 2022-10-26 |

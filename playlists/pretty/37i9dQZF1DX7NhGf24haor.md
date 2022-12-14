@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: AXMO x DJ Junior
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,467 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,553 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Brothers by Blade](https://open.spotify.com/track/5tNPQ5KQPdE5ZJFOKK3ojR) | [Neolux](https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ) | [Brothers by Blade](https://open.spotify.com/album/1aIB9ydxgzx6NuBZi9GHLS) | 3:48 |
 | 100 | [The Limelight](https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [The Limelight](https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j) | 4:32 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDkxNzJlYjM4ZGRmZWQ4MGY2ZjMwMjMzMTE5OGRiMzk0`
+Snapshot ID: `MTY3MDkyNDYwOCwwMDAwMDAwMDI2NDk1MTA4MDQ5YWM2ZjdiNmE1YWExMWVjOGM1YmIx`

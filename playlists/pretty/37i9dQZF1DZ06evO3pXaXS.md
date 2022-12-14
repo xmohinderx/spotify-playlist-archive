@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,746 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,856 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 42 | [Landlord](https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:07 |
 | 43 | [Friends](https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:36 |
 
-Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDA5MzhhY2U3YWM2OTA2M2JlMThmMTQ4MTUxMTJlNDcyNw==`
+Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDA5MzQwMDJiYTlhYWYzNGQ0ZThmMmQwMmYxYWY5YjMzOA==`

@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 61785,
+  "num_followers": 61920,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU3MzkzNSwwMDAwMDAwMGU3ZGNjMzVlMjYxMTYxYjNjOTQyZDY0NDM1YzU2ZTli",
+  "snapshot_id": "MTY3MDU3MzkzNSwwMDAwMDAwMDFjN2Q1MTcyNWEzZjU2ZGIwYTliZGViMzFmZTIzZDg2",
   "tracks": [
     {
       "added_at": "2022-12-08 23:01:00",
@@ -731,8 +731,8 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Songs: The Art of the Trio, Vol. 3",
-        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
+        "name": "Your Mother Should Know",
+        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
       },
       "artists": [
         {
@@ -740,9 +740,25 @@
           "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Exit Music",
-      "url": "https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ"
+      "duration_ms": 138213,
+      "name": "Your Mother Should Know",
+      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 342951,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 342951,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
+      "duration_ms": 267279,
+      "name": "Blackbird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -795,22 +811,6 @@
       "duration_ms": 209106,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 267279,
-      "name": "Blackbird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -867,8 +867,8 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Your Mother Should Know",
-        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
+        "name": "Songs: The Art of the Trio, Vol. 3",
+        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
       },
       "artists": [
         {
@@ -876,25 +876,9 @@
           "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 138213,
-      "name": "Your Mother Should Know",
-      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "These Are The Vistas",
-        "url": "https://open.spotify.com/album/3iVI9khuzGp8ohGEJLUi6Q"
-      },
-      "artists": [
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Flim",
-      "url": "https://open.spotify.com/track/73dk1Hmi0bDX9IMYISFuac"
+      "duration_ms": 263933,
+      "name": "Exit Music",
+      "url": "https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -919,6 +903,22 @@
       "duration_ms": 494222,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/3j6a1cE8SnCoIHmsuMQ84P"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "These Are The Vistas",
+        "url": "https://open.spotify.com/album/3iVI9khuzGp8ohGEJLUi6Q"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Flim",
+      "url": "https://open.spotify.com/track/73dk1Hmi0bDX9IMYISFuac"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 334560,
+      "name": "High And Dry - Live On The South Bank Show / 2014",
+      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Stockholm Underground",
         "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 303807,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 334560,
-      "name": "High And Dry - Live On The South Bank Show / 2014",
-      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "What Took You so Long",
-        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 271922,
-      "name": "We Don\u00b4t Need Another Hero",
-      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "In My Element",
         "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 523613,
       "name": "Maiden Voyage / Everything In Its Right Place",
       "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "What Took You so Long",
+        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 271922,
+      "name": "We Don\u00b4t Need Another Hero",
+      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Basie's Beatle Bag",
-        "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "A Hard Day's Night",
-      "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
         "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
       },
@@ -1419,6 +1403,38 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Basie's Beatle Bag",
+        "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "A Hard Day's Night",
+      "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 205502,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
       },
       "artists": [
         {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 205502,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Jazz Volume: Herbie Hancock",
-        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "You Should Have Told Me",
         "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
@@ -1583,18 +1583,26 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Who Used To Dance",
-        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
+        "name": "Remember to Remember",
+        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
       "artists": [
         {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+          "name": "Claudio Cusmano",
+          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
+        },
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
         }
       ],
-      "duration_ms": 413240,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
+      "duration_ms": 305631,
+      "name": "Sorry Seems to Be the Hardest Word",
+      "url": "https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1611,6 +1619,22 @@
       "duration_ms": 157200,
       "name": "Can't Buy Me Love",
       "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Who Used To Dance",
+        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 413240,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1699,30 +1723,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Remember to Remember",
-        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cusmano",
-          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
-        },
-        {
-          "name": "Nello Toscano",
-          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
-        },
-        {
-          "name": "Enzo Zirilli",
-          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
-        }
-      ],
-      "duration_ms": 305631,
-      "name": "Sorry Seems to Be the Hardest Word",
-      "url": "https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
       },
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "My Working Class Hero",
-        "url": "https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf"
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
       },
       "artists": [
         {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
         }
       ],
-      "duration_ms": 282235,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf"
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
     }
   ],
   "unique_name": "Jazz Covers",

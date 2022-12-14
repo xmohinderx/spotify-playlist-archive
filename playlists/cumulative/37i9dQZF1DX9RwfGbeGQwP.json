@@ -5179,6 +5179,32 @@
     {
       "album": {
         "name": "Endless Sunday",
+        "url": "https://open.spotify.com/album/0uuy7OctUEaabOwiY87al5"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        },
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Endless Sunday",
+      "url": "https://open.spotify.com/track/07dyGFh2pczE8rWeM6ITXx"
+    },
+    {
+      "album": {
+        "name": "Endless Sunday",
         "url": "https://open.spotify.com/album/5znFt36cNTe6uFw7sJIS0R"
       },
       "artists": [
@@ -5223,7 +5249,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 160000,
       "name": "Endless Sunday",
       "url": "https://open.spotify.com/track/7iMsunTwjcYuJcekmrY8ys"
@@ -6095,10 +6121,32 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 176613,
       "name": "Footage",
       "url": "https://open.spotify.com/track/36BSGS2T4HaBbPZGzff8tW"
+    },
+    {
+      "album": {
+        "name": "Footage",
+        "url": "https://open.spotify.com/album/4xm8p3FeYHFJEyoAT51IRt"
+      },
+      "artists": [
+        {
+          "name": "Floating Anarchy",
+          "url": "https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d"
+        },
+        {
+          "name": "Willis.",
+          "url": "https://open.spotify.com/artist/6meMGWf2GUrmsl3lFvEYQN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Footage",
+      "url": "https://open.spotify.com/track/7xjWwi7gtg2Xri1CkBt2aE"
     },
     {
       "album": {
@@ -9175,10 +9223,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 122000,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/4Y7BreihfaHl1W9QU9h6J0"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/4Ao7BFLOnWMcKYwvSoqafW"
+      },
+      "artists": [
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/64mMxY35INA35D0dcXKNGq"
     },
     {
       "album": {
@@ -12129,6 +12195,24 @@
     {
       "album": {
         "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4k3iJ5fUl56bqnJ6t9Pog4"
+      },
+      "artists": [
+        {
+          "name": "Rebornn.",
+          "url": "https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144083,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1E9MSPVa7lS8gvP51Fzqdz"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4jiL3huicySFF2n56ch3vN"
       },
       "artists": [
@@ -12157,7 +12241,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 144083,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/4MfwBOK3adag7V3zPLsAYB"

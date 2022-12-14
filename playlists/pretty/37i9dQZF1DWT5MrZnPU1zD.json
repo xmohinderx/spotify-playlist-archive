@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1641947,
+  "num_followers": 1642043,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGNlYmY5YmY2OWI4YzE0NTgzZTdiZmMzMjlmNWRlOWY3",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDlhYTJkOGE5MDk2NWE5ZDVhYzhlMjFiYTAzMWEzNmMz",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -813,6 +813,22 @@
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Ain\u2019t Safe (feat. Don Toliver)",
@@ -831,22 +847,6 @@
       "duration_ms": 166514,
       "name": "Ain\u2019t Safe (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -981,20 +981,20 @@
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 182533,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
+      "duration_ms": 114580,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1013,20 +1013,20 @@
       "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "No More Leaks",
-        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 114580,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2"
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1043,6 +1043,22 @@
       "duration_ms": 161636,
       "name": "Detox",
       "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "ONLY BUILT 4 DIAMOND LINKS",
+        "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "2 Million Up",
+      "url": "https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1065,38 +1081,6 @@
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "ONLY BUILT 4 DIAMOND LINKS",
-        "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
-      },
-      "artists": [
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "2 Million Up",
-      "url": "https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Bikini Bottom",
-        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Bikini Bottom",
-      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Nail Tech",
@@ -1113,24 +1097,20 @@
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
-        "url": "https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP"
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 178041,
-      "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
-      "url": "https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx"
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1155,6 +1135,26 @@
       "duration_ms": 221538,
       "name": "Hold That Heat (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
+        "url": "https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
+      "url": "https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1511,30 +1511,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        }
-      ],
-      "duration_ms": 244853,
-      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Waddup (feat. Polo G)",
         "url": "https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9"
       },
@@ -1573,6 +1549,30 @@
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "hibachi (feat. Kodak Black & 21 Savage)",
-      "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq"
       },
@@ -1643,6 +1619,22 @@
       "duration_ms": 179148,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 151285,
+      "name": "NO TRENDS",
+      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1667,18 +1659,62 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
       "artists": [
         {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 151285,
-      "name": "NO TRENDS",
-      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
+      "duration_ms": 170413,
+      "name": "hibachi (feat. Kodak Black & 21 Savage)",
+      "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 188371,
+      "name": "Damn Homie (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/1KxdG2javZzd9GPdQjrQZS"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1723,6 +1759,42 @@
       "duration_ms": 181355,
       "name": "Dead Shot (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "MOB",
+        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "Wonderful Wayne & Jackie Boy",
+      "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Where The Shooters Be",
+        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 117481,
+      "name": "Vanish Mode",
+      "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1785,58 +1857,6 @@
       "url": "https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Where The Shooters Be",
-        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 117481,
-      "name": "Vanish Mode",
-      "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "MOB",
-        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "Wonderful Wayne & Jackie Boy",
-      "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Sheikh Talk",
-        "url": "https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 160256,
-      "name": "Sheikh Talk",
-      "url": "https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Blockchain",
@@ -1857,40 +1877,20 @@
       "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 188371,
-      "name": "Damn Homie (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/1KxdG2javZzd9GPdQjrQZS"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Haitian Scarface",
-        "url": "https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP"
+        "name": "Sheikh Talk",
+        "url": "https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 145245,
-      "name": "Haitian Scarface",
-      "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
+      "duration_ms": 160256,
+      "name": "Sheikh Talk",
+      "url": "https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG"
     },
     {
       "added_at": "2022-09-23 04:00:00",

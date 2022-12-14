@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,866 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,800 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 25 | [FOR MY PEOPLE](https://open.spotify.com/track/7CzWRneYi3P7dZqJM0SkUs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 3:52 |
 | 26 | [Love's In Need Of Love Today](https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:05 |
 | 27 | [MIDDLE CHILD](https://open.spotify.com/track/2b5scDVCDxVsLalecDLAo2) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:33 |
-| 28 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 |
-| 29 | [Otherside Of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
+| 28 | [Otherside Of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
+| 29 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 |
 | 30 | [Self](https://open.spotify.com/track/5rNqaOOSNGrYtMo4sLDXU6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 1:34 |
 | 31 | [Slippin' Into Darkness](https://open.spotify.com/track/1jcTfIiBUz35bBqgHYItP6) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Greatest Hits](https://open.spotify.com/album/2k28jFjuu7dR4jgUV6RHI3) | 3:47 |
 | 32 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 60 | [True To The Game](https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 4:10 |
 
-Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDdiNTI1YTMzNWQ2YzY1YWUyNTYzY2E3NTVmNWNhNmVk`
+Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDNiNzExZDIxNTQzNmY2ODE0NmY0ODcxYjcxYjY0NGVl`

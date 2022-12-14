@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Marra, Tedua, Paky, Rhove, ANNA e tanti altri.
 
-1,066 songs - 2 day 0 hr 56 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+1,067 songs - 2 day 0 hr 59 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [AU REVOIR](https://open.spotify.com/track/5saimMS1xQ1K6pMKnwWAjp) | [Ilypocomale](https://open.spotify.com/artist/6Gxu96uCNDRK67SqWA7KIj), [coffi](https://open.spotify.com/artist/6jLdUX0GBA4b413D9PVhnP), [PiccoloKappa!](https://open.spotify.com/artist/5mhLgRTZcKZr29mC8aau2Q) | [POCOMALE](https://open.spotify.com/album/3Zo5EsJGkSlbrxSRcQXFD6) | 2:29 | 2022-08-18 | 2022-09-16 |
 | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/track/5R6CBDrtdq73zYmSs3BgTR) | [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Dreno](https://open.spotify.com/artist/2fUb7chMl4K5DQ3NwX2GgW) | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/album/1StOOfB2TRMIYzHQaq6kNU) | 2:26 | 2022-09-29 | 2022-10-11 |
 | [AU REVOIR \(feat\. Guè, Rose Villain, JVLI\)](https://open.spotify.com/track/05vUar73P3iMZUr40QLJWT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:21 | 2022-05-10 | 2022-05-27 |
-| [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 2:40 | 2022-12-01 |  |
+| [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 2:40 | 2022-12-01 | 2022-12-14 |
+| [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 2:40 | 2022-12-12 |  |
 | [AURORA](https://open.spotify.com/track/5IUQU6NEdfAy2wpPvDeIdm) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [PAIN PARTY](https://open.spotify.com/album/62lhmg0YnpPe7yXY7F4JNA) | 3:12 | 2022-05-19 | 2022-06-03 |
 | [AUTOMATIC](https://open.spotify.com/track/2TZ4jSGbgVx5Yo7Su5sl77) | [Geno](https://open.spotify.com/artist/6FOJR0D9TwMl37EmWCPUTl) | [AUTOMATIC](https://open.spotify.com/album/22ZMiHNQRqdoG7RvYYVHxw) | 2:20 | 2022-07-07 | 2022-07-22 |
 | [AUTOSTOP](https://open.spotify.com/track/5VHCKZj4U8B2uxgV1ep0pI) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [AUTOSTOP](https://open.spotify.com/album/08axqrdrj5kYIBJt3nLQ3Y) | 3:09 | 2022-10-27 | 2022-11-25 |

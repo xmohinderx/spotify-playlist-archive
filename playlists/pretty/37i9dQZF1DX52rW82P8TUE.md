@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,805 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,852 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 30 | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg) | 3:33 |
 | 31 | [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 |
 | 32 | [Sapo Abençoado](https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 3:06 |
-| 33 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 |
+| 33 | [Com Jesus](https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [Com Jesus](https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60) | 2:58 |
 | 34 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 |
 | 35 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 |
 | 36 | [Jesus Me Ama Tanto](https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX) | [Arieta Magrini](https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5), [Metodista Kids](https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa) | [Jesus Me Ama Tanto](https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc) | 3:56 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 40 | [Obra do Criador \- Ao Vivo](https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw) | [Louvor Videira Kids](https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu) | [Comigo Sonhou](https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV) | 3:07 |
 | 41 | [Na Trilha da Criação](https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335) | [Margem Norte Kids](https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa) | [Na Trilha da Criação](https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW) | 2:38 |
 | 42 | [Meu Amigão do Peito](https://open.spotify.com/track/7kpsitoqNZGXXvxUtFg4Qj) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Meu Amigão do Peito](https://open.spotify.com/album/1CUbAbluxubTfpGKXg5BgA) | 3:52 |
-| 43 | [Com Jesus](https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [Com Jesus](https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60) | 2:58 |
+| 43 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 |
 | 44 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
 | 45 | [Galileia](https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Galileia](https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV) | 2:37 |
 | 46 | [A Tua Graça](https://open.spotify.com/track/58PgmYUic0mM7Qwi297ZG3) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [A Tua Graça](https://open.spotify.com/album/2gcCOA0Zi0ntszohuIbxVj) | 2:25 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 48 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
 | 49 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 
-Snapshot ID: `MTY2NTcyNzE3OCwwMDAwMDAwMDUzNDUxZmFmZjQ2NWM0MTUxOGYyNmM0ZjEyZDRlNDRi`
+Snapshot ID: `MTY2NTcyNzE3OCwwMDAwMDAwMDE0ZDQzNTI4Y2Q4ZDNlMmMwYWIyZDczYjgxZjdhODIz`

@@ -3723,6 +3723,28 @@
     {
       "album": {
         "name": "Rolling Down the Road",
+        "url": "https://open.spotify.com/album/5ykum1DnzuEwqXg5IWCtpp"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Rolling Down the Road",
+      "url": "https://open.spotify.com/track/0yhi622ykvVQdSHsAzXd0J"
+    },
+    {
+      "album": {
+        "name": "Rolling Down the Road",
         "url": "https://open.spotify.com/album/5yBaPe9qmfalOLsRyJfmIQ"
       },
       "artists": [
@@ -3737,7 +3759,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 122000,
       "name": "Rolling Down the Road",
       "url": "https://open.spotify.com/track/6S1p0yGzPBOR6miNkXTnrt"

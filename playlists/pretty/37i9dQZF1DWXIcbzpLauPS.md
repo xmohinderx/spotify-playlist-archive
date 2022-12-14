@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: The Amity Affliction
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,449 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,540 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 13 | [Pain Remains III: In a Sea of Fire](https://open.spotify.com/track/6wgKN7mUq1CvQBnQKzjeKt) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 9:12 |
 | 14 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 |
 | 15 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 |
-| 16 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
-| 17 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 |
+| 16 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 |
+| 17 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
 | 18 | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l) | 2:44 |
 | 19 | [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 |
 | 20 | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 50 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 |
 | 51 | [Losing You](https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Losing You](https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb) | 3:18 |
 | 52 | [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 |
-| 53 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 |
-| 54 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 |
+| 53 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 |
+| 54 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 |
 | 55 | [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 |
 | 56 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
 | 57 | [Your Love I'll Never Need](https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Your Love I'll Never Need](https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2) | 3:20 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 62 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 |
 | 63 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 |
 | 64 | [Miscreation](https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Miscreation](https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2) | 3:33 |
-| 65 | [Be Someone](https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Be Someone](https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv) | 3:20 |
-| 66 | [Alone](https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Alone](https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69) | 3:17 |
+| 65 | [Alone](https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Alone](https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69) | 3:17 |
+| 66 | [Be Someone](https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Be Someone](https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv) | 3:20 |
 | 67 | [Suffocate](https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv) | [Execution Day](https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z) | [Suffocate](https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C) | 3:47 |
 | 68 | [Damage Done](https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk) | 3:27 |
 | 69 | [Dedication To Flesh](https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [No Hope 'Til Now](https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [No Hope 'Til Now](https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed) | 3:59 |
 | 75 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDgzNTY4Nzk3MjJmMTk4MTQ4ZjU4YTIyZDI0YjM0MzAx`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGIyMTJlM2Q4M2E1NTAxN2Q3M2Y2Zjg2Y2NmM2RhYzhk`

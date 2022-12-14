@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,243 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,336 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 16 | [La Marcha De Zacatecas](https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg) | 3:01 |
 | 17 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
 | 18 | [El son de la negra](https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:59 |
-| 19 | [El Sinaloense](https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 1:45 |
-| 20 | [Virgencita de Zapopan](https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 1](https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y) | 3:35 |
+| 19 | [Virgencita de Zapopan](https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 1](https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y) | 3:35 |
+| 20 | [El Sinaloense](https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 1:45 |
 | 21 | [El Viajero](https://open.spotify.com/track/4qb8QUWJCrW3hHuUcSSvmC) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:36 |
 | 22 | [Copitas Copotas](https://open.spotify.com/track/4Cx4gl9qwnfwmhntA4kDEL) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 1:57 |
 | 23 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/4euwnQbnoDNtXQ5LKNb07t) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete, Trio Calaveras y Silvestre Vargas](https://open.spotify.com/album/2QV8SOTtZ3APYWXwBjpNy8) | 2:25 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 63 | [Rancho grande](https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 2:36 |
 | 64 | [Juan Charrasqueado \- Remastered](https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Viva México \(Remastered\)](https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz) | 3:28 |
 | 65 | [La Vaquilla Colorada](https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9) | 2:17 |
-| 66 | [El polvorete](https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 4:05 |
+| 66 | [Puro Cachanilla](https://open.spotify.com/track/37Z8i6jx0D7Tw9VBaB1QeL) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:19 |
 | 67 | [El Herradero \- Remastered](https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:13 |
-| 68 | [Puro Cachanilla](https://open.spotify.com/track/37Z8i6jx0D7Tw9VBaB1QeL) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:19 |
+| 68 | [El polvorete](https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 4:05 |
 | 69 | [El Pajaro Carpintero](https://open.spotify.com/track/2iSHhdoHxagu8wQZcLn8N0) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS) | 2:54 |
 | 70 | [El Mezcalito](https://open.spotify.com/track/48ksr3js6Hb2cKdmUiZlzF) | [Mariachi Nuevo Tecalitlan](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Sones](https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn) | 3:04 |
 | 71 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 99 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
 | 100 | [El Hidalguense](https://open.spotify.com/track/5vozBkZkjmew8kVuPxWOnY) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [RCA 100 Anos De Musica \- Segunda Parte](https://open.spotify.com/album/2uJqbXKxHtQHoeU6CK0RvY) | 3:17 |
 
-Snapshot ID: `MTY2MzAwMzk3NCwwMDAwMDAwMDEyZmRiM2JjMmNkYWFkNmIwYjgwODM5MzYyNGU1ZGFh`
+Snapshot ID: `MTY2MzAwMzk3NCwwMDAwMDAwMGQ2YTgxZGZhMmIwOTI0Y2QyYWIyMDhmZWExMGM1OWM2`

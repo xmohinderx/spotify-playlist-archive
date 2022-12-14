@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 145515,
+  "num_followers": 145593,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQ2MCwwMDAwMDAwMDQwNTliZGY3MWNmYmE4MzFmMjcwOTRjZGRjZjM1ODZm",
+  "snapshot_id": "MTY3MDU0MDQ2MCwwMDAwMDAwMDgyZjJiMjQ3YzEyMDQwZDMyMGUzNDI4ZmZjZjk0NTIx",
   "tracks": [
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Doin Ya Thang",
-        "url": "https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2"
-      },
-      "artists": [
-        {
-          "name": "Oliver Dollar",
-          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
-        }
-      ],
-      "duration_ms": 415417,
-      "name": "Doin Ya Thang",
-      "url": "https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Spotlight (feat. Sarah Ikumu)",
         "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 175475,
       "name": "Spotlight (feat. Sarah Ikumu)",
       "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Doin Ya Thang",
+        "url": "https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2"
+      },
+      "artists": [
+        {
+          "name": "Oliver Dollar",
+          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
+        }
+      ],
+      "duration_ms": 415417,
+      "name": "Doin Ya Thang",
+      "url": "https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Good Woman (Edit)",
-        "url": "https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 215768,
-      "name": "Good Woman - Edit",
-      "url": "https://open.spotify.com/track/69gBITZ6WnJFUIe1b2EMeg"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Stuck On Repeat",
         "url": "https://open.spotify.com/album/0zDkq6Hpkyd1j3a4pcXomo"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 186479,
       "name": "Stuck On Repeat",
       "url": "https://open.spotify.com/track/0Ib2lnmQqbAzuHNkGtYtNC"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Good Woman (Edit)",
+        "url": "https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 215768,
+      "name": "Good Woman - Edit",
+      "url": "https://open.spotify.com/track/69gBITZ6WnJFUIe1b2EMeg"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Lay It On Me",
-        "url": "https://open.spotify.com/album/2BdsJUemIZQAcxmNG0z8yL"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Guy Burns",
-          "url": "https://open.spotify.com/artist/6AS3IV2KvA4SZ1GAayMWmU"
-        }
-      ],
-      "duration_ms": 170258,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/2EfhczOa9X8ju9hg5IWEQD"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Heat (feat. Nathan Thomas)",
         "url": "https://open.spotify.com/album/3SmqyGukt1Dl17Mo4E1i2W"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 264679,
       "name": "Heat (feat. Nathan Thomas)",
       "url": "https://open.spotify.com/track/7rja0ZIAxyb0WoERq8Jpfz"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Lay It On Me",
+        "url": "https://open.spotify.com/album/2BdsJUemIZQAcxmNG0z8yL"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Guy Burns",
+          "url": "https://open.spotify.com/artist/6AS3IV2KvA4SZ1GAayMWmU"
+        }
+      ],
+      "duration_ms": 170258,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/2EfhczOa9X8ju9hg5IWEQD"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "Higher Than You",
+        "url": "https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Higher Than You",
+      "url": "https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Diving Into Minds",
         "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
       },
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Stand By Me",
-        "url": "https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        }
-      ],
-      "duration_ms": 174435,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Bon Bini EP",
         "url": "https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF"
       },
@@ -1727,6 +1727,22 @@
       "duration_ms": 389133,
       "name": "OK - Cool - Aight feat. Conquer Jones",
       "url": "https://open.spotify.com/track/1Fp1C2kQBNPNL7nWgQ7hVs"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "duration_ms": 174435,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Higher Than You",
-        "url": "https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        }
-      ],
-      "duration_ms": 192755,
-      "name": "Higher Than You",
-      "url": "https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Jumpin' (Wh0 Remix)",
         "url": "https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P"
       },
@@ -1931,38 +1931,6 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
-        "name": "Life So Bright EP",
-        "url": "https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 306377,
-      "name": "Life So Bright",
-      "url": "https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Testify / Can't U",
-        "url": "https://open.spotify.com/album/2dtu0vms59TWMfLYCfzuit"
-      },
-      "artists": [
-        {
-          "name": "Sameed",
-          "url": "https://open.spotify.com/artist/0wnRXxrm2uHNau9KLzQONa"
-        }
-      ],
-      "duration_ms": 353899,
-      "name": "Dusty Jazz",
-      "url": "https://open.spotify.com/track/3JpvBva0TwiWMVFebNqtTL"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
         "name": "Spirit of House",
         "url": "https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ"
       },
@@ -1979,6 +1947,22 @@
       "duration_ms": 191500,
       "name": "Spirit of House",
       "url": "https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Testify / Can't U",
+        "url": "https://open.spotify.com/album/2dtu0vms59TWMfLYCfzuit"
+      },
+      "artists": [
+        {
+          "name": "Sameed",
+          "url": "https://open.spotify.com/artist/0wnRXxrm2uHNau9KLzQONa"
+        }
+      ],
+      "duration_ms": 353899,
+      "name": "Dusty Jazz",
+      "url": "https://open.spotify.com/track/3JpvBva0TwiWMVFebNqtTL"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -2027,6 +2011,22 @@
       "duration_ms": 144761,
       "name": "Higher (feat. your friend polly)",
       "url": "https://open.spotify.com/track/7t6Q4FkHC53gXmLLP8OKNu"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
+        "name": "Life So Bright EP",
+        "url": "https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 306377,
+      "name": "Life So Bright",
+      "url": "https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "R U",
+        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "R U",
+      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Petu EP",
         "url": "https://open.spotify.com/album/29wgJs8snld8eLbNkcjI70"
       },
@@ -2143,26 +2163,6 @@
       "duration_ms": 644413,
       "name": "Swimming Places",
       "url": "https://open.spotify.com/track/77cTXHD1QjXpoMDBysPU0Y"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "R U",
-        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "Gene Farris",
-          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "R U",
-      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
     },
     {
       "added_at": "2022-12-08 23:01:00",
@@ -2615,6 +2615,22 @@
     {
       "added_at": "2022-12-08 23:01:00",
       "album": {
+        "name": "Jungle Trip (Edit Versions)",
+        "url": "https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Jungle Trip - Edit",
+      "url": "https://open.spotify.com/track/4LpjBeeKDhUQiFTyS87y8u"
+    },
+    {
+      "added_at": "2022-12-08 23:01:00",
+      "album": {
         "name": "Underground Is My Home (Remix)",
         "url": "https://open.spotify.com/album/1qHrzuLwX9ip1sNSkcjgW9"
       },
@@ -2635,22 +2651,6 @@
       "duration_ms": 360960,
       "name": "Underground Is My Home - Crazibiza Remix",
       "url": "https://open.spotify.com/track/3Ncgj12Qf2bmw6FAStRUB4"
-    },
-    {
-      "added_at": "2022-12-08 23:01:00",
-      "album": {
-        "name": "Jungle Trip (Edit Versions)",
-        "url": "https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg"
-      },
-      "artists": [
-        {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Jungle Trip - Edit",
-      "url": "https://open.spotify.com/track/4LpjBeeKDhUQiFTyS87y8u"
     },
     {
       "added_at": "2022-12-08 23:01:00",

@@ -494,6 +494,28 @@
     },
     {
       "album": {
+        "name": "Give Him Praise",
+        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Give Him Praise",
+      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
+    },
+    {
+      "album": {
         "name": "God of Miracles",
         "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
@@ -814,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Joy (Reason)",
+        "url": "https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141531,
+      "name": "Joy (Reason)",
+      "url": "https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV"
+    },
+    {
+      "album": {
         "name": "The Glory Experience (Songs of Zion)",
         "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
@@ -1101,7 +1141,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 437345,
       "name": "No Other God",
       "url": "https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0"
@@ -1491,7 +1531,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 211456,
       "name": "Shower Me",
       "url": "https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6"

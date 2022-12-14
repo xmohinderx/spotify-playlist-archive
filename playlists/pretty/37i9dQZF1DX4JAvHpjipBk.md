@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from SZA, Lana Del Rey, Paramore, Polo G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,013,662 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,014,819 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 45 | [Sea Lions](https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pink Balloon / Sea Lions](https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0) | 5:19 |
 | 46 | [Bloodline](https://open.spotify.com/track/5FTLND6hUgY705Qm6UDTzc) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL) | [Bloodline](https://open.spotify.com/album/074vL5RcgE67xFiCIayJF4) | 3:31 |
 | 47 | [FORWARD](https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [FORWARD](https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT) | 2:16 |
-| 48 | [Miss U Already](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
+| 48 | [Miss U Already \(feat\. NoCap\)](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
 | 49 | [BNB](https://open.spotify.com/track/2t9TWyicvzrXqbwdPaBk3c) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [BNB](https://open.spotify.com/album/3hseLB6x5CdTGePQgIc2Sf) | 2:54 |
 | 50 | [COOK UP](https://open.spotify.com/track/2yUAogxEgxEHBGG3zw57x9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [COOK UP](https://open.spotify.com/album/1DiX91mf1oiNuLmtJWYYqi) | 2:09 |
 | 51 | [Ain't No Love \(feat\. Thunder Bklu\)](https://open.spotify.com/track/6KZBYWtLf9MzG9Jn1EC901) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Thunder Bklu](https://open.spotify.com/artist/0ZJp0vTPxjm7Mu5hDDlKqs) | [The D.O.A\. Tape \(Care Package\)](https://open.spotify.com/album/6fKx0UeCduyu1piUvBZJqg) | 1:43 |

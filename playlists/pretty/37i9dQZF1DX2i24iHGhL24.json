@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niki",
-  "num_followers": 84392,
+  "num_followers": 84476,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGUxYTc2YTVhMDM2MDYxZmYyNDJkZDlmZDEwZGI1MGE5",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDQ4ZGE2ZGE4ZGQwZWQwZDViZGRlMTMyM2ZjYTlkYzdh",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 254725,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Imagine Dragons (Spotify Sessions)",
         "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 303433,
       "name": "Blank Space/Stand By Me - Live From Spotify London",
       "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 254725,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Despacito",
-        "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
-      },
-      "artists": [
-        {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
-        },
-        {
-          "name": "Leroy Sanchez",
-          "url": "https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5"
       },
@@ -819,46 +799,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "A Million Dreams",
-        "url": "https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS"
+        "name": "Despacito",
+        "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
       },
       "artists": [
         {
-          "name": "Ravi Adelekan & Friends",
-          "url": "https://open.spotify.com/artist/6x2xTBq8OgKYfkUIEOUbeS"
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
         },
         {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
-        },
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        },
-        {
-          "name": "Jimmy Somerville",
-          "url": "https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7"
-        },
-        {
-          "name": "Olugbenga",
-          "url": "https://open.spotify.com/artist/6z3dK1jUpHKWeiKeiVQOlB"
+          "name": "Leroy Sanchez",
+          "url": "https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn"
         }
       ],
-      "duration_ms": 289276,
-      "name": "A Million Dreams",
-      "url": "https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY"
+      "duration_ms": 170454,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -911,6 +867,50 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "A Million Dreams",
+        "url": "https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS"
+      },
+      "artists": [
+        {
+          "name": "Ravi Adelekan & Friends",
+          "url": "https://open.spotify.com/artist/6x2xTBq8OgKYfkUIEOUbeS"
+        },
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        },
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        },
+        {
+          "name": "Jimmy Somerville",
+          "url": "https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7"
+        },
+        {
+          "name": "Olugbenga",
+          "url": "https://open.spotify.com/artist/6z3dK1jUpHKWeiKeiVQOlB"
+        }
+      ],
+      "duration_ms": 289276,
+      "name": "A Million Dreams",
+      "url": "https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 248449,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Mirrors (Acoustic)",
         "url": "https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 319750,
       "name": "Sign Of The Times - Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 248449,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
         "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
       },
@@ -1135,22 +1119,6 @@
       "duration_ms": 178284,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1171,6 +1139,38 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 274830,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Industry Baby",
         "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "When You Love Someone",
         "url": "https://open.spotify.com/album/2zC9v0aYykenekxCJD9DRd"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 225186,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/7bxcHHBpto3NgHAMeGCKFH"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Covers from Home",
+        "url": "https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Covers from Home",
-        "url": "https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
         "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 194595,
       "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
       "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Ocean Eyes (Acoustic)",
+        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
+      },
+      "artists": [
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Ocean Eyes (Acoustic)",
+      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Ocean Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
       "artists": [
         {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Ocean Eyes (Acoustic)",
-      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1660,17 +1676,17 @@
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
       "artists": [
         {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
         }
       ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1687,22 +1703,6 @@
       "duration_ms": 167933,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Where My Girls At",
-        "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
-      },
-      "artists": [
-        {
-          "name": "VENUS",
-          "url": "https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID"
-        }
-      ],
-      "duration_ms": 164526,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "everywhere",
         "url": "https://open.spotify.com/album/1gkBtk4uRf9h4iUBXbPnxL"
       },
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Where My Girls At",
+        "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
+      },
+      "artists": [
+        {
+          "name": "VENUS",
+          "url": "https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID"
+        }
+      ],
+      "duration_ms": 164526,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Praise You",
         "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
       },
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Love on Top",
-        "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
-      },
-      "artists": [
-        {
-          "name": "Sophie Rose",
-          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Love on Top",
-      "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 238439,
       "name": "Complicated - Spotify Singles",
       "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Love on Top",
+        "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Love on Top",
+      "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 244315,
+      "name": "Stay - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "If I Ain't Got You",
         "url": "https://open.spotify.com/album/05xqadEYFt4VvusqQACQ4E"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 190169,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/60Upg4NK79iFTP77w9O6E7"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 244315,
-      "name": "Stay - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "I\u2019m With You",
-        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "I\u2019m With You",
-      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Wedding Songs",
         "url": "https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 231308,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "I\u2019m With You",
+        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "I\u2019m With You",
+      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/6h9bC3nDWad10hG7b5UCbd"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 146668,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/6Ngyk6TvmMeXqxlgdq0u9f"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/24BosB3DMNzQlOTsThPuhk"
-      },
-      "artists": [
-        {
-          "name": "Jennel Garcia",
-          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
-        }
-      ],
-      "duration_ms": 217041,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/3j9q9MpY5FNofZqlS8XyZZ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Dynamite (from \"Emily in Paris\" Soundtrack)",
         "url": "https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 122822,
       "name": "Dynamite - from \"Emily in Paris\" Soundtrack",
       "url": "https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/24BosB3DMNzQlOTsThPuhk"
+      },
+      "artists": [
+        {
+          "name": "Jennel Garcia",
+          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
+        }
+      ],
+      "duration_ms": 217041,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/3j9q9MpY5FNofZqlS8XyZZ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2611,6 +2611,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "TROLLS Holiday In Harmony",
         "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
       },
@@ -2639,22 +2655,6 @@
       "duration_ms": 156200,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 299280,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2747,6 +2747,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/1sYANjZE2z9Ta9Ag56LFpv"
       },
@@ -2779,22 +2795,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/3GmA1W7zAKUtEUpLjX8pFQ"
       },
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Under the Bridge",
-        "url": "https://open.spotify.com/album/1OpakNwTaeLg5kXV0a21Ab"
-      },
-      "artists": [
-        {
-          "name": "AFTRHOURS",
-          "url": "https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5"
-        }
-      ],
-      "duration_ms": 140645,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3CLyuBt19RhZ6phMIrpB8H"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "The One That Got Away (Acoustic)",
         "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 217884,
       "name": "The One That Got Away - Acoustic",
       "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Under the Bridge",
+        "url": "https://open.spotify.com/album/1OpakNwTaeLg5kXV0a21Ab"
+      },
+      "artists": [
+        {
+          "name": "AFTRHOURS",
+          "url": "https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5"
+        }
+      ],
+      "duration_ms": 140645,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3CLyuBt19RhZ6phMIrpB8H"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2911,6 +2911,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
+      },
+      "artists": [
+        {
+          "name": "COSIMA",
+          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Arcade (Acoustic Cover)",
         "url": "https://open.spotify.com/album/5DVgSeCgxDTFm9PU81dpQt"
       },
@@ -2939,22 +2955,6 @@
       "duration_ms": 232682,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6E1RZSFubdubakeTubBwtq"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
-      },
-      "artists": [
-        {
-          "name": "COSIMA",
-          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "All The Things She Said",
-        "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
-      },
-      "artists": [
-        {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
-        }
-      ],
-      "duration_ms": 199874,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "positions",
         "url": "https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 145961,
       "name": "positions",
       "url": "https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "All The Things She Said",
+        "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "duration_ms": 199874,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym"
     },
     {
       "added_at": "2022-12-02 05:00:00",

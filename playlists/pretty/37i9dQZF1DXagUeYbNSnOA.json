@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from Fresh Finds Latin this year. Cover: Estevie #SpotifyWrapped",
-  "num_followers": 168290,
+  "num_followers": 168292,
   "original_name": "Fresh Finds Latin: Best of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDgyZmVhN2E2ODUwNDY3MzAxNjI2NTk3YzVhOTkyYWM2",
+  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMGQ1MGE5YzM5NzdjMTZiNGZlOWVkZDI4YmM1NzkyMDFm",
   "tracks": [
     {
       "added_at": "2022-11-30 14:52:40",
@@ -599,90 +599,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Mensaje",
-        "url": "https://open.spotify.com/album/2B1828MpJLzTAK78spqdC8"
-      },
-      "artists": [
-        {
-          "name": "Pema",
-          "url": "https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D"
-        },
-        {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        }
-      ],
-      "duration_ms": 172682,
-      "name": "Mensaje",
-      "url": "https://open.spotify.com/track/5Bi1US6c5cYjj5r8O6Iok0"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "piano, piano",
-        "url": "https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7"
-      },
-      "artists": [
-        {
-          "name": "astrid",
-          "url": "https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm"
-        }
-      ],
-      "duration_ms": 141597,
-      "name": "piano, piano",
-      "url": "https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 247698,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
-      },
-      "artists": [
-        {
-          "name": "Koi Pali",
-          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
-        }
-      ],
-      "duration_ms": 190755,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "dices",
-        "url": "https://open.spotify.com/album/1G9Ci35tCN4zZLtitXNe7c"
-      },
-      "artists": [
-        {
-          "name": "San Marcos",
-          "url": "https://open.spotify.com/artist/5Lr96GHiv4KqLl2IvpPouE"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "dices",
-      "url": "https://open.spotify.com/track/1k0o4QwCNf3Fv5Bspwze13"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/7uxrgNDgbXTS2RoP81ACqG"
       },
@@ -703,6 +619,90 @@
       "duration_ms": 218838,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/59iDxn0HIxHIcTZW4poFj7"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "piano, piano",
+        "url": "https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7"
+      },
+      "artists": [
+        {
+          "name": "astrid",
+          "url": "https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm"
+        }
+      ],
+      "duration_ms": 141597,
+      "name": "piano, piano",
+      "url": "https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Mensaje",
+        "url": "https://open.spotify.com/album/2B1828MpJLzTAK78spqdC8"
+      },
+      "artists": [
+        {
+          "name": "Pema",
+          "url": "https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        }
+      ],
+      "duration_ms": 172682,
+      "name": "Mensaje",
+      "url": "https://open.spotify.com/track/5Bi1US6c5cYjj5r8O6Iok0"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 247698,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "dices",
+        "url": "https://open.spotify.com/album/1G9Ci35tCN4zZLtitXNe7c"
+      },
+      "artists": [
+        {
+          "name": "San Marcos",
+          "url": "https://open.spotify.com/artist/5Lr96GHiv4KqLl2IvpPouE"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "dices",
+      "url": "https://open.spotify.com/track/1k0o4QwCNf3Fv5Bspwze13"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
+      },
+      "artists": [
+        {
+          "name": "Koi Pali",
+          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
+        }
+      ],
+      "duration_ms": 190755,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
     },
     {
       "added_at": "2022-11-30 14:52:40",

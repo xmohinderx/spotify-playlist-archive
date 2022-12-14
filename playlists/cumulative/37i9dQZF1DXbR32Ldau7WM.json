@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: Keisuke Kuwata(\u6851\u7530\u4f73\u7950)",
+  "description": "The biggest rock artists in Japan right now! Cover: The Birthday",
   "name": "Big in Japan",
   "published_playlist_ids": [
     "58cr9qiZRcBgGXeUmGq6P3"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 206304,
       "name": "Bayside Lover",
       "url": "https://open.spotify.com/track/28hG6uREADxqxdfg7mQUzC"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 219360,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 262000,
       "name": "DADADADA!!",
       "url": "https://open.spotify.com/track/5GKUID6YTAM4ps2u5Urw6t"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 249206,
       "name": "Don't Think Twice (It's not over)",
       "url": "https://open.spotify.com/track/0T3axpUT39q4DJ7aIzxYFN"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 196573,
       "name": "Drive Far",
       "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 238412,
       "name": "Everything With You",
       "url": "https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t"
@@ -1745,7 +1745,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 262947,
       "name": "In The Air, In The Error",
       "url": "https://open.spotify.com/track/4JWcLsPrJPaSxBzvX8nNaO"
@@ -1925,7 +1925,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 179706,
       "name": "Just",
       "url": "https://open.spotify.com/track/648ultx75M4zzMpS7YDgVs"
@@ -2437,7 +2437,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 149160,
       "name": "Memeshikute - 2022ryukogo ver.",
       "url": "https://open.spotify.com/track/1jcBBNlvrLSvfZJThCz3oe"
@@ -2455,7 +2455,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 305000,
       "name": "MERRY X'MAS IN SUMMER",
       "url": "https://open.spotify.com/track/2U99CkOaKJ000EV8GqMS1E"
@@ -4742,6 +4742,24 @@
     },
     {
       "album": {
+        "name": "Adjusted",
+        "url": "https://open.spotify.com/album/3vi50McgHideZ6Ke8dBCzz"
+      },
+      "artists": [
+        {
+          "name": "LOW IQ 01",
+          "url": "https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247134,
+      "name": "When the Ship Rolls In",
+      "url": "https://open.spotify.com/track/6IUulBDi2zoxZoTlDXLuRe"
+    },
+    {
+      "album": {
         "name": "Wife",
         "url": "https://open.spotify.com/album/5zMPAuweyhdfG57mxRK9QD"
       },
@@ -4789,7 +4807,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-07",
+      "date_removed": null,
       "duration_ms": 255733,
       "name": "You Are My Best",
       "url": "https://open.spotify.com/track/1S8HitXF4ktuZBBgHeNPOB"
@@ -4991,7 +5009,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 320166,
       "name": "\u3044\u3064\u304b\u4f55\u51e6\u304b\u3066\u3099(I FEEL THE ECHO)",
       "url": "https://open.spotify.com/track/68RX2vrRi2cEFd6rThCtWr"
@@ -5485,7 +5503,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 223520,
       "name": "\u30ae\u30e0\u30ec\u30c3\u30c8\u306b\u306f\u65e9\u3059\u304e\u308b",
       "url": "https://open.spotify.com/track/4kRNvgIaeVI3jMzQY85Pio"
@@ -5735,7 +5753,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-07",
+      "date_removed": null,
       "duration_ms": 196960,
       "name": "\u30b9\u30ab\u30a4\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/76JZBSd8oq8USE4gRwdxtz"
@@ -6207,7 +6225,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 261252,
       "name": "\u30e9\u30b9\u30c8\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/09Dc0ak1c1wJHL1fEzh9oy"
@@ -6769,7 +6787,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 257159,
       "name": "\u5996",
       "url": "https://open.spotify.com/track/5es17R7PLDy4hRq6wEDhcg"
@@ -6917,7 +6935,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 234866,
       "name": "\u60b2\u3057\u3044\u6c17\u6301\u3061(Just a man in love)",
       "url": "https://open.spotify.com/track/14evwICDoy0d36Nat7hsUT"
@@ -7613,7 +7631,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 224399,
       "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
       "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"
@@ -7649,7 +7667,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 246506,
       "name": "\u7dd1\u9152",
       "url": "https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU"
@@ -7829,7 +7847,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 255026,
       "name": "\u975e\u516c\u8a8d",
       "url": "https://open.spotify.com/track/0yJ5rcOr4IgaoXIkQJwha6"

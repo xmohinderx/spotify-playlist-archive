@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist! Cover: Iron Maiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,381,311 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,382,019 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 66 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 |
 | 67 | [Wild Child](https://open.spotify.com/track/3iC3Numiy9P3AkF7iioKmx) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [The Last Command](https://open.spotify.com/album/6208JTIcyn2wSRjiRXMTUv) | 5:12 |
 | 68 | [In My Darkest Hour \- Remastered](https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 6:26 |
-| 69 | [Kings of Metal](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 3:43 |
-| 70 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 |
+| 69 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 |
+| 70 | [Kings of Metal](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 3:43 |
 | 71 | [Killed by Death](https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse](https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba) | 4:39 |
 | 72 | [Modern Day Cowboy](https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Mechanical Resonance](https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI) | 5:18 |
 | 73 | [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 99 | [Fast as a Shark](https://open.spotify.com/track/204523f9MSgEfc0oDJycNS) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Restless And Wild](https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX) | 3:48 |
 | 100 | [Armed and Ready \- 2000 Remaster](https://open.spotify.com/track/4r299IW4ua73XaiXYFtLwP) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Michael Schenker Group](https://open.spotify.com/album/6QqK1XqWiU2fSVuLUXgdeR) | 4:09 |
 
-Snapshot ID: `MTY2OTkxMjQ3MiwwMDAwMDAwMGFiYTY5OTllMjdjMjVkYzFjZTdlMzU2ZDZlNGNkN2Rm`
+Snapshot ID: `MTY2OTkxMjQ3MiwwMDAwMDAwMGQzYWEyYWNlNDFkNWVjZmQ2ZTUwYjI3ODllODQzNWRl`

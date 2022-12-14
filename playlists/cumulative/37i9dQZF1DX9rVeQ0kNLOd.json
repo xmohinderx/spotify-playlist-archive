@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 220000,
       "name": "1g\u306e\u8a50\u6b3a",
       "url": "https://open.spotify.com/track/44R5LHXgkxEPqW1P6PhkLE"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 206933,
       "name": "Amber - DJ Mitsu the Beats Remix",
       "url": "https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B"
@@ -97,10 +97,28 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 171566,
       "name": "BE MY BABY",
       "url": "https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA"
+    },
+    {
+      "album": {
+        "name": "Beyond the mirage",
+        "url": "https://open.spotify.com/album/72Ij6AYsePnNuOBAwmBauM"
+      },
+      "artists": [
+        {
+          "name": "Hannah Warm",
+          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254147,
+      "name": "Beyond the mirage",
+      "url": "https://open.spotify.com/track/5qmD8to3Qoajb9WBCXtvFf"
     },
     {
       "album": {
@@ -133,7 +151,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 160000,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/6FEXVKbPtuW2D7Q1EbAFyo"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 227234,
       "name": "filter",
       "url": "https://open.spotify.com/track/5iZkaBAyiwCL3UrX3kjbyP"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 195852,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 177073,
       "name": "Picnic In The Park",
       "url": "https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-07",
+      "date_removed": null,
       "duration_ms": 201683,
       "name": "S.S.S.",
       "url": "https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN"
@@ -913,6 +931,24 @@
       "duration_ms": 216111,
       "name": "September",
       "url": "https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp"
+    },
+    {
+      "album": {
+        "name": "set me free",
+        "url": "https://open.spotify.com/album/7999p1sHV2i321TKGjmTXU"
+      },
+      "artists": [
+        {
+          "name": "Kaoruko",
+          "url": "https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "set me free",
+      "url": "https://open.spotify.com/track/3CXll77W7YrXHo0jTQfm4t"
     },
     {
       "album": {
@@ -1099,7 +1135,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 283858,
       "name": "Whales",
       "url": "https://open.spotify.com/track/4kPrGI5LIy7YV4juPMu43r"
@@ -1207,7 +1243,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 172250,
       "name": "\u3053\u3093\u306b\u3061\u306f",
       "url": "https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z"
@@ -1229,6 +1265,24 @@
       "duration_ms": 172250,
       "name": "\u3053\u3093\u306b\u3061\u306f",
       "url": "https://open.spotify.com/track/4OYvYvyVtFyHWomlIulGhU"
+    },
+    {
+      "album": {
+        "name": "\u305d\u308c\u3067\u3082\u660e\u65e5\u306f",
+        "url": "https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245232,
+      "name": "\u305d\u308c\u3067\u3082\u660e\u65e5\u306f",
+      "url": "https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt"
     },
     {
       "album": {
@@ -1283,6 +1337,28 @@
       "duration_ms": 165880,
       "name": "\u3082\u3046\u3084\u3060",
       "url": "https://open.spotify.com/track/6XvwT19TXr53ilA62B44E4"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30fc\u30e2\u30f3\u30c9 (feat. \u308a\u308a\u3042\u3002)",
+        "url": "https://open.spotify.com/album/2TkMaI5NbwgnwodW7L4hgQ"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        },
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273131,
+      "name": "\u30a2\u30fc\u30e2\u30f3\u30c9 - feat. \u308a\u308a\u3042\u3002",
+      "url": "https://open.spotify.com/track/5j3gYRcISt5cbd6VFLBXOv"
     },
     {
       "album": {
@@ -1351,7 +1427,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 219211,
       "name": "\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7"
@@ -1427,7 +1503,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 268500,
       "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0"

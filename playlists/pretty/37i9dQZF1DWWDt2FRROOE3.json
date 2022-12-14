@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 4499,
+  "num_followers": 4508,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMGUwZmJhMjk4M2FmMjAwMDZjZTAyODdkMjQ2MzQ3NzE1",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDU2MTczNzg2NzI0NmFjZGE5YjhjZTQxOWUyMzRkNTI4",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Sonidos de Jalisco, Vol. 3",
-        "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Rock-O",
-          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
-        }
-      ],
-      "duration_ms": 281133,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/6gJdDsFkT70iWUxgCsLId7"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "Exitos De Los Chicos De London (Instrumental)",
         "url": "https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 117186,
       "name": "We Will Rock You - Instrumental",
       "url": "https://open.spotify.com/track/40qLT0EWRDmmC6inQjcpag"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Sonidos de Jalisco, Vol. 3",
+        "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Rock-O",
+          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/6gJdDsFkT70iWUxgCsLId7"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -351,18 +351,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Sonidos De Jalisco, Vol. 2",
-        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
+        "name": "Exitos De Los Chicos De Liverpool (Instrumental)",
+        "url": "https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu"
       },
       "artists": [
         {
-          "name": "Mariachi Rock-O",
-          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
+          "name": "Los Mariachis",
+          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
         }
       ],
-      "duration_ms": 282013,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6CY37aBltN0vfdi1SNAkfk"
+      "duration_ms": 147120,
+      "name": "Eleanor Rigby - Instrumental",
+      "url": "https://open.spotify.com/track/7ME99GPDI0U0nGIGqzaJ1t"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Exitos De Los Chicos De Liverpool (Instrumental)",
-        "url": "https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu"
+        "name": "Sonidos De Jalisco, Vol. 2",
+        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
       },
       "artists": [
         {
-          "name": "Los Mariachis",
-          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
+          "name": "Mariachi Rock-O",
+          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
         }
       ],
-      "duration_ms": 147120,
-      "name": "Eleanor Rigby - Instrumental",
-      "url": "https://open.spotify.com/track/7ME99GPDI0U0nGIGqzaJ1t"
+      "duration_ms": 282013,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6CY37aBltN0vfdi1SNAkfk"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -463,18 +463,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Sonidos De Jalisco, Vol. 2",
-        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
+        "name": "Exitos Instrumentales",
+        "url": "https://open.spotify.com/album/5Jrvf6K3Q6Yfh8RstOvZMg"
       },
       "artists": [
         {
-          "name": "Mariachi Rock-O",
-          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
+          "name": "Los Mariachis",
+          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
         }
       ],
-      "duration_ms": 214040,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/23hc5fmduszPzhAzxS8zD0"
+      "duration_ms": 209920,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/3mdNVVkCKv9f7ltR7emGUA"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -575,8 +575,8 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Sonidos de Jalisco, Vol. 3",
-        "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
+        "name": "Sonidos De Jalisco, Vol. 2",
+        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
       },
       "artists": [
         {
@@ -584,25 +584,9 @@
           "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Proud Mary",
-      "url": "https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Exitos Instrumentales",
-        "url": "https://open.spotify.com/album/5Jrvf6K3Q6Yfh8RstOvZMg"
-      },
-      "artists": [
-        {
-          "name": "Los Mariachis",
-          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/3mdNVVkCKv9f7ltR7emGUA"
+      "duration_ms": 214040,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/23hc5fmduszPzhAzxS8zD0"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -619,6 +603,22 @@
       "duration_ms": 303855,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/5lytAucRHbRuQMJ8udxehD"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Sonidos de Jalisco, Vol. 3",
+        "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Rock-O",
+          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb"
+        "name": "Exitos De Los Chicos De Liverpool (Instrumental)",
+        "url": "https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu"
       },
       "artists": [
         {
-          "name": "Metalachi",
-          "url": "https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6"
+          "name": "Los Mariachis",
+          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
         }
       ],
-      "duration_ms": 265032,
-      "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7"
+      "duration_ms": 167880,
+      "name": "Michelle - Instrumental",
+      "url": "https://open.spotify.com/track/3QSpwlTu9gXxyrUAVKwzDh"
     }
   ],
   "unique_name": "Mariachi Covers",

@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-748 songs - 1 day 18 hr 50 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+749 songs - 1 day 18 hr 53 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Gary Ashby](https://open.spotify.com/track/30erf27MriGIsvb4rzria6) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Gary Ashby](https://open.spotify.com/album/5dxQzy2zP6VnJ8jTKYufRZ) | 2:10 | 2022-09-16 |  |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-28 | 2022-03-27 |
 | [Georgia](https://open.spotify.com/track/4kAukfZAOOx5dokpv25dX7) | [Family Jools](https://open.spotify.com/artist/2D2dkAs69ZoWgiMmj4Cszl) | [Georgia](https://open.spotify.com/album/7M7QmGFuwCRN4elD0AO0YC) | 3:31 | 2021-04-30 | 2022-04-21 |
-| [Germaphobe](https://open.spotify.com/track/7etS3cjv6GvXvLmpdNDMS0) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Germaphobe](https://open.spotify.com/album/0HpqNDpCRilFNZso1M2XJX) | 4:20 | 2022-12-13 |  |
+| [Germaphobe](https://open.spotify.com/track/7etS3cjv6GvXvLmpdNDMS0) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Germaphobe](https://open.spotify.com/album/0HpqNDpCRilFNZso1M2XJX) | 4:20 | 2022-12-12 |  |
 | [Get Better](https://open.spotify.com/track/4Ds6iA52kcODdy2CObnC2m) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Get Better](https://open.spotify.com/album/0stRso4qR86U0gBcmTpvae) | 4:11 | 2022-03-04 | 2022-04-15 |
 | [get high, breathe underwater \(\#3\)](https://open.spotify.com/track/2Vb9FyBDN3XctFwyaJjhDT) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [get high, breathe underwater \(\#3\)](https://open.spotify.com/album/7ijrwr6y3YBGtZt4RZeQTP) | 3:51 | 2022-07-15 | 2022-07-30 |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2022-05-19 | 2022-08-27 |
@@ -688,6 +688,7 @@
 | [True Killer](https://open.spotify.com/track/7eSfIu95cqJGrDH5Nyr0fR) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [Gymnastics](https://open.spotify.com/album/1fHozeTsMeD2qq3ivDY8tA) | 1:22 | 2021-06-02 | 2022-04-16 |
 | [True Love](https://open.spotify.com/track/67qECmW0iXpWA7tnClskbH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/7h3a2tSmHjJXXqnQGbiuTf) | 4:11 | 2021-10-02 | 2022-04-29 |
 | [Truth Nugget](https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 4:41 | 2021-03-05 | 2022-04-29 |
+| [Try](https://open.spotify.com/track/7uuomiEzgF5w4TPJDUvAEQ) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Try](https://open.spotify.com/album/1rvh7AKmoPg6RMMT9gDO5z) | 3:23 | 2022-12-13 |  |
 | [Tungs](https://open.spotify.com/track/4WYwP4V2SGCUXJGEha0ODM) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [You Are Going to Hate This](https://open.spotify.com/album/6HPeu1jcBnHNuzDlHAddc8) | 2:50 | 2022-04-29 | 2022-07-23 |
 | [tunnels](https://open.spotify.com/track/0eyAqg3viU4tRH9aGYfQLF) | [saturn 17](https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq) | [tunnels](https://open.spotify.com/album/5KoX3aCqCu1r7QHgl4orSv) | 3:05 | 2022-12-07 |  |
 | [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2021-08-27 | 2022-04-20 |

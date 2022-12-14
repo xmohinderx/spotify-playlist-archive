@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 279085,
+  "num_followers": 279238,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NTQxMiwwMDAwMDAwMDdlNzE2ZTg2MmEzYmM1ZTQ2MWRjMTA5MTJkNzMwMTll",
+  "snapshot_id": "MTY2OTM4NTQxMiwwMDAwMDAwMDJhNzk3MGU5YmM5OWI5ODliMTdiODUyZjE4YWRhZDZm",
   "tracks": [
     {
       "added_at": "2022-11-11 09:37:05",
@@ -147,30 +147,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Whistle (feat. Bertie Scott)",
-        "url": "https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
-        },
-        {
-          "name": "Bertie Scott",
-          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
-        }
-      ],
-      "duration_ms": 140156,
-      "name": "Whistle (feat. Bertie Scott)",
-      "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6"
       },
@@ -191,6 +167,30 @@
       "duration_ms": 156000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Whistle (feat. Bertie Scott)",
+        "url": "https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "duration_ms": 140156,
+      "name": "Whistle (feat. Bertie Scott)",
+      "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
     },
     {
-      "added_at": "2022-12-13 01:21:51",
+      "added_at": "2022-12-14 01:01:18",
       "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
         "name": "Nobody To Love (with Loren Gray)",
         "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 146372,
       "name": "Nobody To Love (with Loren Gray)",
       "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -851,26 +851,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "Croell",
-          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Little Do You Know",
         "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 194091,
       "name": "Little Do You Know",
       "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "Croell",
+          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
         "name": "123 (Dolly Song) (feat. Karma Child)",
         "url": "https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 141652,
       "name": "123 (Dolly Song) feat. Karma Child",
       "url": "https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
-      },
-      "artists": [
-        {
-          "name": "HIMATE",
-          "url": "https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc"
-        },
-        {
-          "name": "Dwin",
-          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
-        }
-      ],
-      "duration_ms": 139322,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "T\u00f3xica",
         "url": "https://open.spotify.com/album/0yBwP7KmTOqkzhLDzUfQRe"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 140000,
       "name": "T\u00f3xica",
       "url": "https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
+      },
+      "artists": [
+        {
+          "name": "HIMATE",
+          "url": "https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc"
+        },
+        {
+          "name": "Dwin",
+          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
+        }
+      ],
+      "duration_ms": 139322,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
+      },
+      "artists": [
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "RED5",
+          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
         "name": "redruM (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 176785,
       "name": "redruM - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
-      },
-      "artists": [
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "RED5",
-          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
     },
     {
       "added_at": "2022-11-11 09:37:05",

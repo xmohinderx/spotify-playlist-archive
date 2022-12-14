@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,899 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,128 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 72 | [En El Mar De Tu Gracia](https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [A Partir De Hoy](https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN) | 3:33 |
 | 73 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
 | 74 | [Sobre Mí](https://open.spotify.com/track/5QINbr4C1Qufiqj0WOGF4V) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Sobre Mi](https://open.spotify.com/album/1CXlie7i26wGMJlpUXh2Pv) | 5:45 |
-| 75 | [Soy Libre](https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:30 |
+| 75 | [Él Es Vida](https://open.spotify.com/track/2VmzoU0QqN8jLRbdSkxvao) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [No Puedo Callar](https://open.spotify.com/album/2ebN5IUSFeey8NJ2MQACla) | 4:31 |
 
-Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMGFmNzkwMzZlODE5Njk0MjM2ZjJlOWU2ZDZhOTEzODBh`
+Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDY5MDk2OTJjZTJkMzM2NmU0YjJhYzY3NjhjZTk5ZTUw`

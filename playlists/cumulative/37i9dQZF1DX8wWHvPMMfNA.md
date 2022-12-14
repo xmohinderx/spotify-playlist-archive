@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-249 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/2tOQPPwScgMTueE1ReWTmP)
+250 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/2tOQPPwScgMTueE1ReWTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-24 |  |
 | [Blue And Sentimental](https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Count Basie](https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x) | 2:26 | 2021-12-16 | 2022-08-18 |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2021-12-16 | 2022-05-11 |
-| [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-11-11 |  |
+| [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-11-11 | 2022-12-14 |
 | [Blues For Daryl](https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 3:31 | 2021-12-16 | 2022-11-11 |
 | [Blues In The Night \- Short Version](https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 5:57 | 2021-12-16 | 2022-11-11 |
 | [Body & Soul](https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:50 | 2021-12-16 | 2022-11-11 |
@@ -233,6 +233,7 @@
 | [Time And Again](https://open.spotify.com/track/3ewiw4NXq7VPVGMzgufYtE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 4:40 | 2021-12-16 | 2022-07-29 |
 | [Time And Again](https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson For Lovers \(Deluxe Edition\)](https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv) | 4:40 | 2022-06-29 | 2022-11-11 |
 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-11-11 |  |
+| [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-11-11 |  |
 | [Vi drar till fjället](https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Vi drar till fjället](https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP) | 2:50 | 2022-11-11 | 2022-12-13 |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 18481,
+  "num_followers": 18521,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDc4YjA2ZmFlMjg4MTZhZDUwYjQ0YzIwMGMxOGI3NTNk",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDViZWU1NTMxNGQ2ZWZiNjkwZmQwMTg4ZjY0OTM4ZDU1",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "This Is the Blues! Vol. 7 (Mono Version)",
+        "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Gordon",
+          "url": "https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l"
+        }
+      ],
+      "duration_ms": 192011,
+      "name": "Me and My Gin",
+      "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Journeys To The Heart Of The Blues",
         "url": "https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 183866,
       "name": "Mean Old Train",
       "url": "https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "This Is the Blues! Vol. 7 (Mono Version)",
-        "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Gordon",
-          "url": "https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l"
-        }
-      ],
-      "duration_ms": 192011,
-      "name": "Me and My Gin",
-      "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
     },
     {
       "added_at": "2022-05-13 10:49:08",

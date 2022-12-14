@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: RM.
 
-359 songs - 18 hr 51 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+360 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/4ZB2yAZyPHI6SHdFPPT9sa) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/album/4hY1TaqQxOL2aBAWvAI111) | 2:41 | 2022-05-27 | 2022-07-29 |
 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 | 2022-05-27 | 2022-07-29 |
 | [INSOMNIA](https://open.spotify.com/track/1KfhDYbODqQoclom9Izd5u) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq), [Kyra Z](https://open.spotify.com/artist/1igjPRdGajoTLco5Zn3sPz) | [INSOMNIA](https://open.spotify.com/album/2tTZqMSUcxBmZ1NobJSZqX) | 3:39 | 2022-07-08 | 2022-07-21 |
-| [Introspection Reimagined](https://open.spotify.com/track/1zQnPw58ITvKYIhk5lvlDV) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 5:02 | 2022-05-27 |  |
+| [Introspection Reimagined](https://open.spotify.com/track/1zQnPw58ITvKYIhk5lvlDV) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 5:02 | 2022-05-27 | 2022-12-14 |
 | [Issues](https://open.spotify.com/track/7DscinmgmQGwSblBKjrGy7) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [3TERNITY](https://open.spotify.com/album/3boXTQdSoIt4RCJqXWArsx) | 2:30 | 2022-05-27 | 2022-06-21 |
 | [ITIM](https://open.spotify.com/track/2akEAk7cu3FNtIzNUMtfX2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [ITIM](https://open.spotify.com/album/5KvLMStgJsZiYziduNFOIh) | 3:02 | 2022-05-27 | 2022-07-28 |
 | [Joker \(Feat\. JAMIE\)](https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bucket List](https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB) | 3:19 | 2022-05-27 | 2022-08-27 |
@@ -359,6 +359,7 @@
 | [You Are \(feat\. Corinne Bailey Rae & UMI\)](https://open.spotify.com/track/3f0SgNOjVjUW7BTv79WgX3) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [You Are \(feat\. Corinne Bailey Rae & UMI\)](https://open.spotify.com/album/75evbAxtFFu951JESaYEyM) | 3:57 | 2022-05-27 | 2022-08-27 |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-05-27 |  |
 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 | 2022-09-16 |  |
+| [Yours](https://open.spotify.com/track/1aNm7Q5mRuv0MUd7ZeS1Df) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Yours](https://open.spotify.com/album/29V6Dh3psH6MpH3tSc9cSg) | 2:22 | 2022-11-18 |  |
 | [Yours](https://open.spotify.com/track/2t4olQUck1cDjsVQetHRRq) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Yours](https://open.spotify.com/album/1gIBYdEod4n4Z499kQTc2o) | 2:22 | 2022-05-27 | 2022-12-03 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 | 2022-11-04 |  |

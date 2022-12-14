@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=UTT3bcuCSsSC4ccPiHXUUQ">Kwesta</a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=vNDh6AeASLmaaZR9h249Rw">Kabza De Small</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,878 likes - 64 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,932 likes - 64 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Drugdealer",
-  "num_followers": 387829,
+  "num_followers": 387930,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg3MTI1NCwwMDAwMDAwMGQ2M2I0MGQyNzBmZmM1NTJjYjBlODQ1OWM1NzZlN2Ey",
+  "snapshot_id": "MTY3MDg3MTI1NCwwMDAwMDAwMGUwODc5ZDIzMWQ0MjhiOWU1NmJjNTIzYzUwMWZiYjE2",
   "tracks": [
     {
       "added_at": "2022-12-12 18:54:14",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
         "name": "Consolation Prize",
         "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 164224,
       "name": "zombie girl",
       "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -943,26 +943,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Love Factory",
-        "url": "https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Katy J Pearson",
-          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
-        }
-      ],
-      "duration_ms": 319777,
-      "name": "Love Factory",
-      "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "See the World",
         "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Love Factory",
+        "url": "https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+        }
+      ],
+      "duration_ms": 319777,
+      "name": "Love Factory",
+      "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Show Up",
-        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Show Up",
-      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "Among Horses III",
         "url": "https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 123000,
       "name": "Francis",
       "url": "https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Show Up",
+        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Show Up",
+      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Shadowglow",
-        "url": "https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 214748,
-      "name": "Brooklyn Baby",
-      "url": "https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Shadowglow",
+        "url": "https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 214748,
+      "name": "Brooklyn Baby",
+      "url": "https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Fun House",
-        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 173303,
-      "name": "Just to Hear You (feat. Perfume Genius)",
-      "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "I'm Not Sorry, I Was Just Being Me",
         "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 209603,
       "name": "All Being Fine",
       "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Fun House",
+        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 173303,
+      "name": "Just to Hear You (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Wayfinder",
-        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
+        "name": "Quitters",
+        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
       },
       "artists": [
         {
-          "name": "Boy Scouts",
-          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
         }
       ],
-      "duration_ms": 182012,
-      "name": "That's Life Honey",
-      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -2087,34 +2087,18 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Quitters",
-        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
+        "name": "Wayfinder",
+        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
       },
       "artists": [
         {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+          "name": "Boy Scouts",
+          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
         }
       ],
-      "duration_ms": 208911,
-      "name": "Rubberneckers",
-      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
-      },
-      "artists": [
-        {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
-        }
-      ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+      "duration_ms": 182012,
+      "name": "That's Life Honey",
+      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -2131,6 +2115,22 @@
       "duration_ms": 198173,
       "name": "It Must Be Someone Else\u2019s Fault",
       "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+      },
+      "artists": [
+        {
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+        }
+      ],
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 203547,
-      "name": "Doobie Bronson",
-      "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 168000,
       "name": "August",
       "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 203547,
+      "name": "Doobie Bronson",
+      "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/0b4TocuPShTGNAFy5tZx73"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 253928,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/3zaFz69Xfh3EnN9f1S0Nd3"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/0b4TocuPShTGNAFy5tZx73"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 253928,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/3zaFz69Xfh3EnN9f1S0Nd3"
     },
     {
       "added_at": "2022-12-12 18:54:14",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2022-12-12 18:54:14",
       "album": {
-        "name": "Nick Waterhouse",
-        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
-      },
-      "artists": [
-        {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "I Feel an Urge Coming On",
-      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
-    },
-    {
-      "added_at": "2022-12-12 18:54:14",
-      "album": {
         "name": "Spin It Faster",
         "url": "https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 236217,
       "name": "Spin It Faster",
       "url": "https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO"
+    },
+    {
+      "added_at": "2022-12-12 18:54:14",
+      "album": {
+        "name": "Nick Waterhouse",
+        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "I Feel an Urge Coming On",
+      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
     },
     {
       "added_at": "2022-12-12 18:54:14",

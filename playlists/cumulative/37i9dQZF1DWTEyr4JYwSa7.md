@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-317 songs - 17 hr 13 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
+318 songs - 17 hr 16 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All I Want For Christmas Is You](https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [All I Want For Christmas Is You](https://open.spotify.com/album/3kc2Y4D6VJzCgpD7Nd1rHs) | 3:04 | 2021-12-17 | 2022-11-15 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-17 |  |
 | [Amoureux](https://open.spotify.com/track/4YvF9F72EMjqelsz380ytc) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Noël \# 1](https://open.spotify.com/album/1Gn7pjm8t9Mr3YZjlTa9oA) | 3:05 | 2021-12-17 | 2022-07-27 |
-| [Angel](https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK) | 2:31 | 2021-12-17 |  |
+| [Angel](https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK) | 2:31 | 2021-12-17 | 2022-12-14 |
 | [Angel](https://open.spotify.com/track/4yvhsSIcQvMmcwyExJvVja) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/5cIGSAUXb0LAjseafd3s0V) | 2:31 | 2021-12-17 | 2022-09-30 |
 | [Another Year Has Gone By](https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:24 | 2021-12-17 |  |
 | [Another Year Has Gone By](https://open.spotify.com/track/2SMjAnTaaJJjcXpLe9oPTw) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 3:24 | 2021-12-17 | 2022-07-11 |
@@ -62,6 +62,7 @@
 | [Christmas Day](https://open.spotify.com/track/15Du9zZKEO923xPiJqj35d) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Greatest Hits](https://open.spotify.com/album/3sHCnKzDBCJrAwdYw0nfvB) | 4:02 | 2021-12-17 |  |
 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 | 2021-12-17 |  |
 | [Christmas Kisses](https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z) | 3:27 | 2021-12-17 | 2022-07-29 |
+| [Christmas Kisses](https://open.spotify.com/track/5LG0ZOxFnRrkib5uVzbBEi) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP) | 3:27 | 2022-12-02 |  |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-17 |  |
 | [Christmas on My Mind](https://open.spotify.com/track/4fF3Vo7XYnHFXvyWD7sv2k) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas on My Mind](https://open.spotify.com/album/74wMlK9OHpQVJrFOmGsmMD) | 3:47 | 2022-11-14 |  |
 | [Combien de Noël ?](https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Chante et raconte 25 décembre](https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT) | 2:46 | 2021-12-17 | 2022-07-28 |

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjI92W86nZe.md) - [plain](/playlists/plain/37i9dQZF1DWTjI92W86nZe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTjI92W86nZe)
 
-### [Corridos de la Muerte con Alfredo Olivas](https://open.spotify.com/playlist/37i9dQZF1DWTjI92W86nZe)
+### [Corridos de la Muerte](https://open.spotify.com/playlist/37i9dQZF1DWTjI92W86nZe)
 
 > El que por su gusto muere, hasta la muerte la sabe\. Las historias de nuestro México 💀🪦💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,664 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,857 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjI92W86nZe.md) - [plain]
 | 49 | [Vuela y Vuela](https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Vuela y Vuela](https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l) | 3:01 |
 | 50 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 |
 
-Snapshot ID: `MTY3MDYyMDU5OSwwMDAwMDAwMGU4ZmZmYjk5ZWNmYTUyZGNlZTlhZGNkOGU5Yjg5MDI4`
+Snapshot ID: `MTY3MDk0ODYwNywwMDAwMDAwMDNkOGIxNDZhZDUwYmEwNjExNTQyMzczZWViMTIwOTFm`

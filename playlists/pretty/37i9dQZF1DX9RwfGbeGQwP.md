@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,713 likes - 500 songs - 18 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,017 likes - 500 songs - 18 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 102 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 |
 | 103 | [L A P I S L A Z U L I](https://open.spotify.com/track/6dxxq8txtOlSMwZwZPHScG) | [Joel Loopez](https://open.spotify.com/artist/3l7zH3g5Z7QnHAiIYKZu6u) | [舎](https://open.spotify.com/album/2Knj3Ym8f7FWeZSQV8APA9) | 3:05 |
 | 104 | [Jupiter](https://open.spotify.com/track/5jT5sIQECE9clU4sFN6tDo) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Jupiter](https://open.spotify.com/album/3vUF1ShmQPXJ2ZnaMz59MJ) | 1:57 |
-| 105 | [Nostalgia](https://open.spotify.com/track/4MfwBOK3adag7V3zPLsAYB) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Nostalgia](https://open.spotify.com/album/2YrwIXcs62pL1yoekzlRRq) | 2:24 |
+| 105 | [Nostalgia](https://open.spotify.com/track/1E9MSPVa7lS8gvP51Fzqdz) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Nostalgia](https://open.spotify.com/album/4k3iJ5fUl56bqnJ6t9Pog4) | 2:24 |
 | 106 | [Jam Session](https://open.spotify.com/track/7JdntyivTxgRfo8znylPhG) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [Kjetil Jerve](https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A) | [Jam Session](https://open.spotify.com/album/1XUxUYJYSdLWB4fGsgMtl0) | 2:44 |
 | 107 | [Silky Pleasure](https://open.spotify.com/track/6rQLn8guB7YKWIzLqPHtDc) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Silky Pleasure](https://open.spotify.com/album/3w0R961rJLP7OLMJsKdPIo) | 2:22 |
 | 108 | [Heartfelt](https://open.spotify.com/track/4rAE5sjSsxtSl3p0qy5NYu) | [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Heartfelt](https://open.spotify.com/album/2a5Q5Ea0F4Oboq4hQesN7o) | 2:08 |
@@ -206,7 +206,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 196 | [Driftwood](https://open.spotify.com/track/6dkFwu9Z7HUuz69P2Nr6yF) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Driftwood](https://open.spotify.com/album/0A6bH7eWnye4Pe25YdCv6g) | 2:19 |
 | 197 | [Follow the Earworm, Pt\. 2](https://open.spotify.com/track/6PE0ixuVYAMneUCm6aknmc) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr) | [Automated Improvisation](https://open.spotify.com/album/1Ohw6AOhIhhYojNRWl9UbL) | 3:09 |
 | 198 | [Elevator Jazz](https://open.spotify.com/track/50sMOSMjts7Bb1spwweTUu) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Elevator Jazz](https://open.spotify.com/album/0EaI5LcG7IunT55ufaDduH) | 2:36 |
-| 199 | [Last Night](https://open.spotify.com/track/4Y7BreihfaHl1W9QU9h6J0) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Last Night](https://open.spotify.com/album/7K0IErHOScjU80EtqFbE7A) | 2:02 |
+| 199 | [Last Night](https://open.spotify.com/track/64mMxY35INA35D0dcXKNGq) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Last Night](https://open.spotify.com/album/4Ao7BFLOnWMcKYwvSoqafW) | 2:02 |
 | 200 | [Green Skies](https://open.spotify.com/track/5ibKJmLuZNOhwK3iWlKciv) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Green Skies](https://open.spotify.com/album/7qfdV8DqvN8tZIvKNeVfJg) | 2:20 |
 | 201 | [Nostalgia](https://open.spotify.com/track/21huKjQlBFcumcRIwhFWG1) | [Teau](https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Nostalgia](https://open.spotify.com/album/4HFk3XAwn2CwQb0i8Dw3xg) | 2:25 |
 | 202 | [Now or Never](https://open.spotify.com/track/3KOdSAFAouynkqzRd5cNtT) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Now or Never](https://open.spotify.com/album/7jJicDiVXaWohB828hThv0) | 2:18 |
@@ -384,7 +384,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 374 | [extra air](https://open.spotify.com/track/6cwopXxD0cUYOo3g03GUUF) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh) | [extra air](https://open.spotify.com/album/71yot0UAbs7UWxTQh4VCWw) | 2:49 |
 | 375 | [Backhome](https://open.spotify.com/track/6sRDG18KiJrhoQuZJbTZi5) | [tatuí](https://open.spotify.com/artist/1h4sBiq6QUcJXyoUZDJCUu) | [Backhome](https://open.spotify.com/album/3g12yPQDZGTOsoyw6c676z) | 2:39 |
 | 376 | [Sunbrella](https://open.spotify.com/track/6Ss1nHw2s3FZ7lhEXVViwA) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Sunbrella](https://open.spotify.com/album/78WSKg5OXPMBQ71N58gKw7) | 1:53 |
-| 377 | [Endless Sunday](https://open.spotify.com/track/7iMsunTwjcYuJcekmrY8ys) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Endless Sunday](https://open.spotify.com/album/5rrajnGyVsz2roAPrki7c2) | 2:40 |
+| 377 | [Endless Sunday](https://open.spotify.com/track/07dyGFh2pczE8rWeM6ITXx) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Endless Sunday](https://open.spotify.com/album/0uuy7OctUEaabOwiY87al5) | 2:40 |
 | 378 | [Treetop Bar](https://open.spotify.com/track/7aRtwRAhUhfYRgSEkCZudh) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Treetop Bar](https://open.spotify.com/album/3VVzDjClaJQFA3c0LeOnq7) | 2:14 |
 | 379 | [Aqua Bar](https://open.spotify.com/track/2fMjuehxqKJQml8jitq4Xd) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93) | [Aqua Bar](https://open.spotify.com/album/1ZBxF4yICm5p5i3gwqBW4F) | 1:33 |
 | 380 | [Augusta Mediterranea](https://open.spotify.com/track/7mMqsuqwo3kSSb4GGdLGLf) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Augusta Mediterranea](https://open.spotify.com/album/5N1uC5gH6uDvkYOdyPijXs) | 2:32 |
@@ -414,7 +414,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 404 | [Super You](https://open.spotify.com/track/2g5fv1seKIZUBrRuRHKM6p) | [Superglue](https://open.spotify.com/artist/7BqBBLHGWZquOBSunMwRsp), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Super You](https://open.spotify.com/album/3oww42x1eb2hxPdp82KpW8) | 2:39 |
 | 405 | [Waving Gods](https://open.spotify.com/track/30A2EwuEQeJppU550PumGT) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Jazzmatic 3 Jazzstrumentals](https://open.spotify.com/album/5DQVOe8ayIf99axGEQS0uU) | 3:22 |
 | 406 | [True Gentleman](https://open.spotify.com/track/3x1nDdG2C94iFi6eIjbNlO) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Solomon Alber](https://open.spotify.com/artist/2DZlO7jiqsJB04ZBntEKNY) | [True Gentleman](https://open.spotify.com/album/0pvumH5O8H2HRpkmFfIfDk) | 1:53 |
-| 407 | [Footage](https://open.spotify.com/track/36BSGS2T4HaBbPZGzff8tW) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Willis.](https://open.spotify.com/artist/6meMGWf2GUrmsl3lFvEYQN) | [Footage](https://open.spotify.com/album/5V7TfY1lcLEopMaPmumnoC) | 2:56 |
+| 407 | [Footage](https://open.spotify.com/track/7xjWwi7gtg2Xri1CkBt2aE) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Willis.](https://open.spotify.com/artist/6meMGWf2GUrmsl3lFvEYQN) | [Footage](https://open.spotify.com/album/4xm8p3FeYHFJEyoAT51IRt) | 2:56 |
 | 408 | [Call Me](https://open.spotify.com/track/4pYVF9dsO5IgVOASSEcl0f) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/5gD7kNZm1FBZjUDmj9zhW4) | 2:22 |
 | 409 | [Madrid Rooftops](https://open.spotify.com/track/23YCK4La8rdnMaCJsKmASn) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Madrid Rooftops](https://open.spotify.com/album/7xc78kT0G37voamAL8lvxE) | 1:42 |
 | 410 | [California Sunshine](https://open.spotify.com/track/6dBWrMyp2MVq5i2TOv0wEl) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [California Sunshine](https://open.spotify.com/album/0oF6z4m4wE8BAI4A2wYVgZ) | 1:32 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Happy 35](https://open.spotify.com/track/5GJGmY77aFrnD12H125nMS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Happy 35](https://open.spotify.com/album/3KIu2RcUaixIF4SzNU9TSD) | 2:35 |
 | 500 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 |
 
-Snapshot ID: `MTY3MDU4Nzg3MywwMDAwMDAwMGYzMTE5ODM1NjY1ZWQ4ZTJjOWY4MDY0MTVkYTNlMGEw`
+Snapshot ID: `MTY3MDU4Nzg3MywwMDAwMDAwMGQ2ZDkwMDhlYjEwM2UzNDNlOWYzZTAwMmZmYzllOWJm`

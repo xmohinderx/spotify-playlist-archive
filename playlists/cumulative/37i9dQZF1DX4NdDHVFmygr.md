@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-191 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+193 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 | 2022-03-10 |  |
 | [Hyati Ana](https://open.spotify.com/track/0UvW5kLHvjzN4YsHGM0oai) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Hyati Ana](https://open.spotify.com/album/3ATnydBE42x10NtDiXe4mt) | 2:51 | 2021-12-25 | 2022-02-25 |
 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 | 2022-10-25 | 2022-11-22 |
+| [INE INE](https://open.spotify.com/track/03O73RwxB4Ja3hBYRU6T0c) | [Holako](https://open.spotify.com/artist/2UKayx5zeeZ8oQh3ETChjE) | [INE INE](https://open.spotify.com/album/3pm2vCjNT2qFFU18cLkYkj) | 3:06 | 2022-12-13 |  |
 | [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 | 2022-11-25 |  |
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2021-12-25 | 2022-04-08 |
 | [Jabha Fraso](https://open.spotify.com/track/5lS1g9BokChTZaLbymsxbz) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Jabha Fraso](https://open.spotify.com/album/6vUgmqUiOCNQT7HBGJt859) | 3:19 | 2022-05-10 | 2022-06-25 |
@@ -131,7 +132,7 @@
 | [Mamacita](https://open.spotify.com/track/4P8HPmYPNCNxqHlYMovXRv) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [G.O.A.T](https://open.spotify.com/album/6NiSCshnU058O2fJ03ahDc) | 3:18 | 2022-03-05 | 2022-05-27 |
 | [Mankhalik Matkhalini](https://open.spotify.com/track/7IxGDdtOCXlgsnZGtQCL8P) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Yousra](https://open.spotify.com/artist/2hCrlLMEy5nMm00yVVOY6h) | [Mankhalik Matkhalini](https://open.spotify.com/album/5l8TksASDKz7pmNFIt77gh) | 3:31 | 2021-12-25 | 2022-01-28 |
 | [Marfoud](https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Marfoud](https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p) | 3:23 | 2021-12-25 | 2022-03-15 |
-| [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2021-12-25 |  |
+| [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2021-12-25 | 2022-12-14 |
 | [Mmi Lalla](https://open.spotify.com/track/7nsSXzC5emf376CWUkn8Sw) | [Khalifa](https://open.spotify.com/artist/19qkQqETJstZ0IOcVoZhUJ) | [Mmi Lalla](https://open.spotify.com/album/7yIchg5XojEvKS3lYnZd4L) | 3:27 | 2022-01-24 | 2022-04-16 |
 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 | 2022-10-26 |  |
 | [Moulat Taj \- Delali](https://open.spotify.com/track/6MGvR6zRaMnBi4sejIANew) | [Atif Zinachi](https://open.spotify.com/artist/29R5LaRZ6ceDKec9pYJU8o) | [Moulat Taj \(Delali\)](https://open.spotify.com/album/3EYxGv2x4HKpr1vpugqB9y) | 3:03 | 2022-08-09 | 2022-09-03 |
@@ -149,6 +150,7 @@
 | [Oui Oui](https://open.spotify.com/track/6RSzvqWsZHJi0Gd6y6RE5f) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Oui Oui](https://open.spotify.com/album/7pfjDS1yHElsYKni049KL8) | 3:04 | 2022-05-23 | 2022-10-31 |
 | [Papa](https://open.spotify.com/track/4nl8f2KRGtXZvpRe2aQbgw) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Papa](https://open.spotify.com/album/4xhwAhfQE2613qIp7kEhN0) | 2:41 | 2022-12-04 |  |
 | [Porfavor](https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Porfavor](https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs) | 2:45 | 2021-12-25 | 2022-03-04 |
+| [Premier amour](https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour](https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv) | 3:08 | 2022-12-13 |  |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 | 2022-09-02 |
 | [S7aba](https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [S7aba](https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7) | 2:56 | 2022-06-09 | 2022-07-17 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-01-18 | 2022-05-10 |
@@ -178,7 +180,7 @@
 | [Ya Bent Nass](https://open.spotify.com/track/3p6p3ZoO8raP3s4bxI7Z2B) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Ya Bent Nass](https://open.spotify.com/album/7etlW0csrc4pTaLA55M1cH) | 3:02 | 2022-07-19 |  |
 | [Ya Bent Nass](https://open.spotify.com/track/2s5o3Di1s0dWOkL1iYnTJl) | [Zamane](https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Ya Bent Nass](https://open.spotify.com/album/2tFxYpE665zTN9sL4qVizP) | 3:06 | 2022-05-26 | 2022-06-21 |
 | [YA DENIA](https://open.spotify.com/track/0hIi9hpHl4P9wJmVRYeVaN) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [YA DENIA](https://open.spotify.com/album/74PxzvwyTg2wdXEIse476z) | 2:57 | 2021-12-25 | 2022-06-10 |
-| [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2021-12-25 |  |
+| [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2021-12-25 | 2022-12-14 |
 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 | 2021-12-25 | 2022-12-08 |
 | [YA LE3DOUWA](https://open.spotify.com/track/66Zvytz9Du8eXZIXXLS8Ea) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [YA LE3DOUWA](https://open.spotify.com/album/5wkvSfHw9t6Vien59gb48s) | 3:27 | 2022-11-07 |  |
 | [Ya Mimti](https://open.spotify.com/track/2jfL7XAGZLzgmRxtIOcsvk) | [Yasser Yasmeriz](https://open.spotify.com/artist/6GyiX7RSRTB9h30oWbDYci) | [Ya Mimti](https://open.spotify.com/album/2HxEy2VOZmLLkpK00i462N) | 3:14 | 2022-03-04 | 2022-03-15 |

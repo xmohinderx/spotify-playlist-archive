@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 276936,
+  "num_followers": 277042,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4MTk2MiwwMDAwMDAwMDc3NjM3YTM0MWFlNzk3MTJkNGU5OTg5NjAzNTM5N2Vj",
+  "snapshot_id": "MTY2OTM4MTk2MiwwMDAwMDAwMDgzNDI0ZGNhZjUwZGE1NTY1ZWRmZGJkMjgzMmMwYTcy",
   "tracks": [
     {
       "added_at": "2022-11-16 11:12:48",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
-      "added_at": "2022-12-13 00:39:23",
+      "added_at": "2022-12-14 01:10:39",
       "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
-      "added_at": "2022-12-13 00:39:23",
+      "added_at": "2022-12-14 01:10:39",
       "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 288880,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "Vanished",
-        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
-      },
-      "artists": [
-        {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
     },
     {
-      "added_at": "2022-12-13 00:39:23",
+      "added_at": "2022-12-14 01:10:39",
       "album": {
         "name": "Immersion / Distance",
         "url": "https://open.spotify.com/album/2gBcnYz9kcl370rUijue7r"
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
         "name": "Finja",
         "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 218226,
       "name": "Finja",
       "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
-      },
-      "artists": [
-        {
-          "name": "MEUTE",
-          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
-        }
-      ],
-      "duration_ms": 467086,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
         "name": "Wellenl\u00e4nge",
         "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 200389,
       "name": "Tacken",
       "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
+      },
+      "artists": [
+        {
+          "name": "MEUTE",
+          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
+        }
+      ],
+      "duration_ms": 467086,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X"
-      },
-      "artists": [
-        {
-          "name": "Effemar",
-          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
-        }
-      ],
-      "duration_ms": 192972,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
         "name": "Eolian",
         "url": "https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 381965,
       "name": "Eolian",
       "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X"
+      },
+      "artists": [
+        {
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+        }
+      ],
+      "duration_ms": 192972,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "The Tribe",
-        "url": "https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk"
-      },
-      "artists": [
-        {
-          "name": "Mark Tarmonea",
-          "url": "https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn"
-        }
-      ],
-      "duration_ms": 508091,
-      "name": "The Tribe",
-      "url": "https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
         "name": "Home (Remixes)",
         "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 334867,
       "name": "Holy - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "The Tribe",
+        "url": "https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk"
+      },
+      "artists": [
+        {
+          "name": "Mark Tarmonea",
+          "url": "https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn"
+        }
+      ],
+      "duration_ms": 508091,
+      "name": "The Tribe",
+      "url": "https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
+      },
+      "artists": [
+        {
+          "name": "Ante Perry",
+          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
+        }
+      ],
+      "duration_ms": 333223,
+      "name": "Quarantine - Original",
+      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "False Gods EP (Short Edits)",
         "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
       },
@@ -1171,6 +1187,22 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 352240,
+      "name": "Love We Found",
+      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "Unconditional Love",
         "url": "https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H"
       },
@@ -1187,38 +1219,6 @@
       "duration_ms": 377305,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "Quarantine",
-        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
-      },
-      "artists": [
-        {
-          "name": "Ante Perry",
-          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
-        }
-      ],
-      "duration_ms": 333223,
-      "name": "Quarantine - Original",
-      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 352240,
-      "name": "Love We Found",
-      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "Eyes Alive",
-        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
+        "name": "AvA",
+        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
       },
       "artists": [
         {
-          "name": "HVOB",
-          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
         }
       ],
-      "duration_ms": 365069,
-      "name": "Eyes Alive",
-      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
+      "duration_ms": 287986,
+      "name": "AvA",
+      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
     }
   ],
   "unique_name": "Afterhours",

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14836,
+  "num_followers": 14848,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGU0MzAzMjhmZDY1MWE0ZDQ3MDgwODFmOGQzNWRjMjA0",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGM5M2IyYzBlMzYwNmU1MDIwMTdjMDcyNjdjY2RlNWIz",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -783,6 +783,34 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
+        "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
+      "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Pump the Brakes (LP Giobbi Remix)",
         "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
       },
@@ -819,34 +847,6 @@
       "duration_ms": 188575,
       "name": "Get Out My Head - Todd Terry Remix",
       "url": "https://open.spotify.com/track/6TmxmvREJqrc1JaZVTzwCL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
-        "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
-      "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Underwater (Dombresky Remix)",
-        "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
-      },
-      "artists": [
-        {
-          "name": "Anabel Englund",
-          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Underwater - Dombresky Remix",
-      "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Where The Lights Are Low (TCTS Remix)",
         "url": "https://open.spotify.com/album/0nygPueuIT8Z6s12xrBDnW"
       },
@@ -1779,6 +1755,30 @@
       "duration_ms": 178064,
       "name": "Where The Lights Are Low - TCTS Remix",
       "url": "https://open.spotify.com/track/6wYgm3Bo3cEkubgH3ilXXa"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Underwater (Dombresky Remix)",
+        "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
+      },
+      "artists": [
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Underwater - Dombresky Remix",
+      "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Set Me Free (feat. MAX) [Martin Ikin Remix]",
         "url": "https://open.spotify.com/album/3s0XyHRWHzvB3oIApjgA7H"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 218571,
       "name": "Set Me Free (feat. MAX) - Martin Ikin Remix",
       "url": "https://open.spotify.com/track/6XUYshCcziLPUlsECcPXn3"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1935,6 +1935,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "1 Day 2 Nights (Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 134892,
+      "name": "1 Day 2 Nights - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 207785,
       "name": "Watch Your Step (Picard Brothers Remix)",
       "url": "https://open.spotify.com/track/0FG75O6h2uy6Xjxe1fK63N"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "1 Day 2 Nights (Billen Ted Remix)",
-        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 134892,
-      "name": "1 Day 2 Nights - Billen Ted Remix",
-      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2375,22 +2375,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+        "name": "Paradise (Wh0 Remix)",
+        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
         }
       ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
+      "duration_ms": 222720,
+      "name": "Paradise - Wh0 Remix",
+      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
     }
   ],
   "unique_name": "mint Remix",

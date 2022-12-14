@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,097 likes - 102 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,313 likes - 102 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 9 | [Spread Thin](https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 3:22 |
 | 10 | [My Luv Freestyle](https://open.spotify.com/track/45V6vfnJyC6Pmi1H4jFPZU) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 3:46 |
 | 11 | [Your Love Is Dangerous](https://open.spotify.com/track/1sSirMADazMg5vdkpdQgy0) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [TANTRA](https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK) | 2:49 |
-| 12 | [Miss U Already](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
+| 12 | [Miss U Already \(feat\. NoCap\)](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
 | 13 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
 | 14 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 | 15 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 |

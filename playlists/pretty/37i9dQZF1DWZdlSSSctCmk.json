@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 82596,
+  "num_followers": 82630,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5NDYyNiwwMDAwMDAwMDdmMzE2MjRmZTc1N2EwNWVkNWVhM2NhY2U4MjczNDRl",
+  "snapshot_id": "MTY2MjM5NDYyNiwwMDAwMDAwMDU5YjdlMmQ5MTg4NjNjNWFmNTMzMjZiNzY2NmNkZWUy",
   "tracks": [
     {
       "added_at": "2022-09-05 16:17:05",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 278029,
+      "name": "Tienat\u00e9",
+      "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "Talkie Walkie",
         "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 189760,
       "name": "El Layali",
       "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 278029,
-      "name": "Tienat\u00e9",
-      "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "The Best Of Cheryl Lynn: Got To Be Real",
-        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        },
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
-      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -927,8 +907,28 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "The Best Of Cheryl Lynn: Got To Be Real",
+        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
+      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ"
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
         }
       ],
-      "duration_ms": 387593,
-      "name": "All Inclusive",
-      "url": "https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN"
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1032,7 +1032,7 @@
       "added_at": "2022-09-05 16:17:05",
       "album": {
         "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+        "url": "https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
         }
       ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+      "duration_ms": 387593,
+      "name": "All Inclusive",
+      "url": "https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Icare",
-        "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
-      },
-      "artists": [
-        {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
-        },
-        {
-          "name": "Bertrand Burgalat",
-          "url": "https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "Icare",
-      "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Indoor Fireworks (Re-Release)",
         "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 505453,
       "name": "Caf\u00e9 de Flore",
       "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Icare",
+        "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Bertrand Burgalat",
+          "url": "https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7"
+        }
+      ],
+      "duration_ms": 222631,
+      "name": "Icare",
+      "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
-      },
-      "artists": [
-        {
-          "name": "Antena",
-          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Midnight Voyage",
         "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 357500,
       "name": "Gobi",
       "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+      },
+      "artists": [
+        {
+          "name": "Antena",
+          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "When We On",
         "url": "https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM"
       },
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        }
-      ],
-      "duration_ms": 262281,
-      "name": "Caf\u00e9 Com Leite",
-      "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "RAS",
         "url": "https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 691760,
       "name": "4:20",
       "url": "https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Single Malt",
+        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
+      },
+      "artists": [
+        {
+          "name": "TOSZ",
+          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Single Malt - Radio Edit",
+      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Single Malt",
-        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
       },
       "artists": [
         {
-          "name": "TOSZ",
-          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
         }
       ],
-      "duration_ms": 169180,
-      "name": "Single Malt - Radio Edit",
-      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1539,22 +1555,6 @@
       "duration_ms": 406200,
       "name": "Alone - Paradise",
       "url": "https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "AO Longo Do Rio",
-      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 428234,
-      "name": "Josephine - French Edit",
-      "url": "https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 448352,
       "name": "Impossible Island",
       "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 428234,
+      "name": "Josephine - French Edit",
+      "url": "https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh"
     }
   ],
   "unique_name": "Balearic Beats",

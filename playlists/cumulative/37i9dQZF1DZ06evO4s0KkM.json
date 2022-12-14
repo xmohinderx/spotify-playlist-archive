@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 183306,
       "name": "Black Velvet Band",
       "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 264473,
       "name": "Fields of Athenry",
       "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 234133,
       "name": "Paying My Way",
       "url": "https://open.spotify.com/track/4pMCoGppWrT0gL8oHvBfrV"
@@ -696,6 +696,24 @@
     },
     {
       "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131315,
+      "name": "Ten Times More",
+      "url": "https://open.spotify.com/track/4Wc4TZ1uXhiHm24DdRCDPo"
+    },
+    {
+      "album": {
         "name": "Ten Times More",
         "url": "https://open.spotify.com/album/1bhVg5b0MVqF120jXHGz7U"
       },
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 131315,
       "name": "Ten Times More",
       "url": "https://open.spotify.com/track/6ICSBwJIVzU7d5JnuUzmau"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 182913,
       "name": "Waters Are A'risin",
       "url": "https://open.spotify.com/track/5Vj1Tsd7aTFt1AVPVQySqL"

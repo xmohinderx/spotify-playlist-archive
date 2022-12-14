@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,351 likes - 182 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,372 likes - 182 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 49 | [Easy Cheese](https://open.spotify.com/track/4rnf2QpPSzkxLlbFxxXgK0) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK) | [Easy Cheese](https://open.spotify.com/album/2XLsbqEwMJUGfr2Xgi9PWg) | 5:35 |
 | 50 | [Elegua](https://open.spotify.com/track/3JKfpG7unjgUxjOVAVdxa3) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Elegua](https://open.spotify.com/album/6OxA3z3EOvhbEfPMQbM9Ka) | 2:02 |
 | 51 | [Anywhere](https://open.spotify.com/track/0eHG8d8vt9Od9fGU6mnrCL) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Anywhere](https://open.spotify.com/album/7IKpVNi7hkPwUYP6lAvPnD) | 1:34 |
-| 52 | [Limitless Romance](https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/6M1TTWauVFCg2mIvPDmvXf) | 2:25 |
+| 52 | [Limitless Romance](https://open.spotify.com/track/7H6q2iavCpGfPM7anKkmLl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/51DG6QyIympPsj5KUQQTqh) | 2:25 |
 | 53 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 |
 | 54 | [Nocturn Doubts](https://open.spotify.com/track/5zVTc85gPq1ncILKdK9vXc) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Night Times](https://open.spotify.com/album/7wIa2SC3g2x4YvVzTFO3xd) | 2:18 |
 | 55 | [Ripples to Shore](https://open.spotify.com/track/3hIyjMuHctZZ0e3pcCzNcA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Aiguille](https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu) | [Alone at Dusk](https://open.spotify.com/album/2M24MgxeKXbrPBY1GYppfF) | 2:53 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 181 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 182 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MTY3MDU5MDU3MiwwMDAwMDAwMGM3NmVkYTUxZmYxNTU0NDMwNDE4ODE2YWY2ZjZhNTU0`
+Snapshot ID: `MTY3MDU5MDU3MiwwMDAwMDAwMDM1ZGYwYzJiOTgzNDU2YmY0NzNlZGM3OGUxYWQxNDRk`

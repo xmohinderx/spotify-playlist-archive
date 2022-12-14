@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-218 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
+219 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Lá Vem os Homens](https://open.spotify.com/track/6h1C2xxnuSkmlERRD0AyYC) | [Rabo de Galo](https://open.spotify.com/artist/24ZoZillGXp904OBleohIj), [Ubunto](https://open.spotify.com/artist/5jCuYiMEooO3wIxXhzCquh), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Ainda Atrás do Pôr do Sol](https://open.spotify.com/album/6LrYdWiPIT35E4wk11pPKd) | 3:56 | 2022-03-14 | 2022-07-20 |
 | [Maceió](https://open.spotify.com/track/30sg1pdAXLKpKvrrQOaF9z) | [Túlio](https://open.spotify.com/artist/1hQUeaDm4mZ5lMHlg82TiD) | [Maceió](https://open.spotify.com/album/7ePrwAIxXvhV9Id9Wia836) | 3:03 | 2022-02-04 | 2022-09-15 |
 | [Mais de Nós](https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Mais de Nós](https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC) | 2:54 | 2022-02-04 |  |
-| [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 | 2022-08-19 |  |
+| [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 | 2022-08-19 | 2022-12-14 |
 | [Mais uma de Carnaval](https://open.spotify.com/track/6k8PAIzeAC6wcyaptR2j1B) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [Mais uma de Carnaval](https://open.spotify.com/album/7m6keRuXSLhirRhf4PHQq3) | 2:50 | 2022-02-04 | 2022-07-27 |
 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 | 2022-02-04 |  |
 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 |  |
@@ -214,6 +214,7 @@
 | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW) | 2:50 | 2022-02-04 | 2022-11-17 |
 | [Tudo Trocado \- Acústico](https://open.spotify.com/track/584Mm2GiAkRpvX27eel5LI) | [Dingo Bells](https://open.spotify.com/artist/3pnpaEYzaDj5zJluhXbVrG) | [Acústico](https://open.spotify.com/album/7zVTnQJTj9r19AqAu7kHNv) | 3:24 | 2022-02-04 | 2022-07-14 |
 | [Vamo Nessa](https://open.spotify.com/track/5saQVDB2mjXrG1Reydn8R5) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4) | [Vamo Nessa](https://open.spotify.com/album/2kZfJddWKGPy1rkt9DbrpA) | 4:00 | 2022-03-22 | 2022-06-03 |
+| [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 | 2022-12-14 |  |
 | [Veneno \(Veleno\)](https://open.spotify.com/track/0xHCij5oGSgaaQf7qWnATZ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Veneno \(Veleno\)](https://open.spotify.com/album/6hDnXpjZawrXJYGyUU905K) | 4:59 | 2022-02-04 | 2022-07-29 |
 | [Vento de Oyá](https://open.spotify.com/track/7ckg3GYQzSSSM9KneDvtr7) | [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh) | [Vento de Oyá](https://open.spotify.com/album/6GpiX5KX1USmhVVYmz2nvE) | 3:11 | 2022-03-22 | 2022-07-23 |
 | [Venus Com Jasmim](https://open.spotify.com/track/06DqJsk2kYMnFQBi7sOoDD) | [Leo Fressato](https://open.spotify.com/artist/0CnYTlcwb3tBVt7S9F4xg8) | [Vênus Com Jasmim](https://open.spotify.com/album/5LPrzYhrWClyamrYKgMw6o) | 4:06 | 2022-02-04 | 2022-07-27 |

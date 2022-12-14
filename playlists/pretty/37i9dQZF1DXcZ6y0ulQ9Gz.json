@@ -1,12 +1,12 @@
 {
   "description": "The best of Indie in one place. Cover: Steve Lacy",
-  "num_followers": 26411,
+  "num_followers": 26421,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDRmYTYyYWFmYmJjY2FiMjVmZWI2MjIwYTJjMGNmZDhl",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGM4NjllYzE3NTZlOTc5M2YzNTkzMGY3ZjUwMjhjMmU1",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Friends That Break Your Heart",
         "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 195905,
       "name": "Coming Back (feat. SZA)",
       "url": "https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "color theory",
-        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "circle the drain",
-      "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "color theory",
+        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 280213,
+      "name": "circle the drain",
+      "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "La vita nuova",
-        "url": "https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 260876,
-      "name": "People, I've been sad",
-      "url": "https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Vickie",
         "url": "https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 223944,
       "name": "Vickie",
       "url": "https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "La vita nuova",
+        "url": "https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 260876,
+      "name": "People, I've been sad",
+      "url": "https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 220332,
+      "name": "Bound",
+      "url": "https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 158617,
       "name": "Working for the Knife",
       "url": "https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 220332,
-      "name": "Bound",
-      "url": "https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo"
     },
     {
       "added_at": "2022-11-11 05:00:00",

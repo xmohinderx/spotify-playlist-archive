@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Rich Homie Quan
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,963 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,978 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 12 | [Purge Me](https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:16 |
 | 13 | [Better Days 2 \(Pain In The Ghetto\)](https://open.spotify.com/track/2KQrHFHMLiToEoSyNCyCkQ) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Better Days 2 \(Pain In The Ghetto\)](https://open.spotify.com/album/25gVtjurDgtCiz6nt0W4ZM) | 3:01 |
 | 14 | [Chief](https://open.spotify.com/track/7MN2fQ1oMGvhKf0NQolm9R) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 2:49 |
-| 15 | [Miss U Already](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
+| 15 | [Miss U Already \(feat\. NoCap\)](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
 | 16 | [Eastside \(with Lil Tjay\) \- Remix](https://open.spotify.com/track/7zOoDCREaLK0mFa478jmlH) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [LaZy, but i have goals \(Banned From Vermont\)](https://open.spotify.com/album/4Sfiv5MRybl90Z4iloexTy) | 2:37 |
 | 17 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2Ebn0K5I06J09d9GmzNNkU) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/0P23gdec7VQ44s1dZaxWLv) | 2:56 |
 | 18 | [Tez & Tone 1](https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Tez & Tone 1](https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd) | 3:50 |

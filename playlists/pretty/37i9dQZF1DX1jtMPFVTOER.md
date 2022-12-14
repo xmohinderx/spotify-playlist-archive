@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: DOMi & JD BECK
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,042 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,158 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 |
 | 2 | [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 |
 | 3 | [Daylight](https://open.spotify.com/track/5Flg2sCDHIBGevslsbSqUm) | [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Daylight](https://open.spotify.com/album/0NjVS54AvP3q9cr7G6Z2oA) | 4:18 |
-| 4 | [Shy](https://open.spotify.com/track/0g2CWgmpAPL2oUX6PhIxHQ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj) | [Park](https://open.spotify.com/album/0cvBy16KIq84WFKliCbpx7) | 2:36 |
+| 4 | [Shy](https://open.spotify.com/track/4p4V4sjILJRmzRyE3taP6m) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj) | [Park](https://open.spotify.com/album/714GHMkc56vatUwbcfXk92) | 2:36 |
 | 5 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 |
 | 6 | [Fever](https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Black Radio \(Deluxe Edition\)](https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C) | 6:48 |
 | 7 | [Blood & Sweat](https://open.spotify.com/track/5WZZYtYn8LFsq4AOkK5ME0) | [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Blood & Sweat](https://open.spotify.com/album/14QIlmtyL5yGjQYKHtq3Cs) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 3:10 |
 | 100 | [Miss Chance](https://open.spotify.com/track/1xvUVh7FMV7ur57qLLp7C3) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Home](https://open.spotify.com/album/4OYo1ajrOD65jcMsR7Zohq) | 4:12 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGFiY2Q3NmVkMDQ1OTY1YjdiNDQ1ZjJiMjcyMzMyY2Rl`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDdjYjE4Mjc2YmJkODI0YjgzNDIxMTc5NDgxMGQ1MTQ3`

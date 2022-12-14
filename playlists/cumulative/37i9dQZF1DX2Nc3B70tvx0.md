@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: brakence
 
-1,351 songs - 3 day 8 hr 54 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,352 songs - 3 day 8 hr 57 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1208,7 +1208,7 @@
 | [Tomcat Disposables](https://open.spotify.com/track/3Co6zjPlUCDgm8jDOhG5EE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Tomcat Disposables](https://open.spotify.com/album/46PVFb16arY86SVnnRmzET) | 5:58 | 2022-05-06 | 2022-05-14 |
 | [Tommy](https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tommy](https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu) | 3:33 | 2021-11-19 | 2022-03-11 |
 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2022-05-19 | 2022-07-29 |
-| [Tongo Barra](https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Tongo Barra](https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN) | 5:33 | 2022-09-09 |  |
+| [Tongo Barra](https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Tongo Barra](https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN) | 5:33 | 2022-09-09 | 2022-12-14 |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2022-09-16 | 2022-12-06 |
 | [Too Dead Inside](https://open.spotify.com/track/3xpjud2OuXqfbzLve7j0OV) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 3:25 | 2022-02-18 | 2022-04-21 |
 | [Too Dead Inside](https://open.spotify.com/track/5fzFsmKy3ey9HHkUxrKYhW) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Too Dead Inside](https://open.spotify.com/album/0zPUzIJvszvVPkiQ6wZXyA) | 3:25 | 2022-01-21 | 2022-03-05 |
@@ -1320,6 +1320,7 @@
 | [Wide Open Spaces](https://open.spotify.com/track/0otqLHZ2jLAFYu1LLOZzy8) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Wide Open Spaces](https://open.spotify.com/album/77ETBs8gKb44SezIbEMOp9) | 5:01 | 2021-05-22 | 2021-10-05 |
 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 | 2022-02-17 |  |
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2021-05-22 | 2022-04-07 |
+| [willow](https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [willow](https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv) | 3:32 | 2022-12-07 |  |
 | [Window](https://open.spotify.com/track/3uTs3FopDp2M8oG4HpqtBh) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Window](https://open.spotify.com/album/4WdDyijYvAB6H5RIZTnCVj) | 2:58 | 2022-06-03 | 2022-07-28 |
 | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/track/0OSXUt035Kkf1wFsmy33jX) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/album/3iXCkfY0J6eZJsE1jOlhcT) | 3:05 | 2021-09-02 | 2022-04-09 |
 | [Wisdom Tooth](https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Wisdom Tooth](https://open.spotify.com/album/2jYjKxGdqTg4kiz8MTLmd5) | 2:36 | 2021-12-02 | 2022-03-27 |

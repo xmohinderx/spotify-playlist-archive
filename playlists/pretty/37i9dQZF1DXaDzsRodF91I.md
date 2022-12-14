@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,336 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,443 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 65 | [Such Great Heights](https://open.spotify.com/track/5CPpdV3Ef56AonsLzbbqsY) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Such Great Heights](https://open.spotify.com/album/0PHQkrAEglK6EpcEDF24N2) | 3:23 |
 | 66 | [Watermelon Sugar](https://open.spotify.com/track/3RAzJMkJ8CfcYKhBd4jkBd) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Watermelon Sugar](https://open.spotify.com/album/2UIqSGy3mJrKvAynN2y3Lj) | 3:51 |
 | 67 | [Substitute](https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 2:45 |
-| 68 | [Erase Me](https://open.spotify.com/track/3iYuh64szQA0C0UV6cVe5S) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb), [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp) | [Erase Me](https://open.spotify.com/album/0ElKoOgZ9nlb5GW0nKX9X7) | 3:27 |
-| 69 | [Just What I Needed](https://open.spotify.com/track/1ZhMrafxgoBuLxf5CF1vrH) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:44 |
+| 68 | [Just What I Needed](https://open.spotify.com/track/1ZhMrafxgoBuLxf5CF1vrH) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:44 |
+| 69 | [Erase Me](https://open.spotify.com/track/3iYuh64szQA0C0UV6cVe5S) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb), [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp) | [Erase Me](https://open.spotify.com/album/0ElKoOgZ9nlb5GW0nKX9X7) | 3:27 |
 | 70 | [God's Plan](https://open.spotify.com/track/3xoQ3tTYJffg1xnxq6DUeX) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [God's Plan](https://open.spotify.com/album/2XON3q0rxChJJmPFbxXchs) | 3:09 |
 | 71 | [Your Love](https://open.spotify.com/track/4TKXwzlxzqUeG2Rk9JfQZh) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Your Love](https://open.spotify.com/album/0XPEgk2PMqXJJsqMLAEqx9) | 3:36 |
 | 72 | [Youngblood](https://open.spotify.com/track/4p45ziVRdZu8vRIHbklfY0) | [Colour & Shade](https://open.spotify.com/artist/0Kp0fg86lfOzSBpM3CafS8) | [Youngblood](https://open.spotify.com/album/11edJDSbJOQ09CnqJUp2fi) | 3:46 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 74 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/4dUedvWuuvVMW5qwdGfyrE) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/4USDJ3abnqMqHJxL2IRgPu) | 3:23 |
 | 75 | [Peace Signs](https://open.spotify.com/track/7LlDiLN477LKJ5XbCt61LE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Peace Signs](https://open.spotify.com/album/33oM16jRGfm4QzDalm6kFi) | 3:08 |
 | 76 | [Treat You Better](https://open.spotify.com/track/18af6i5FTYmaA4hZIgHcxU) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Treat You Better](https://open.spotify.com/album/54FrEL61hWG3qKQK07lnbR) | 3:07 |
-| 77 | [Don't Stop Me Now](https://open.spotify.com/track/6tUejaw8c0HZDg9TM4lXXf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Don't Stop Me Now](https://open.spotify.com/album/1YwulgouNoPhGJ3qLB511P) | 3:20 |
-| 78 | [Losing My Religion](https://open.spotify.com/track/6wLbbFtRtoWoVXB3PEOHwW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Losing My Religion](https://open.spotify.com/album/5DrlVXdnx3j7ZL6ZEuvbW2) | 4:28 |
+| 77 | [Losing My Religion](https://open.spotify.com/track/6wLbbFtRtoWoVXB3PEOHwW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Losing My Religion](https://open.spotify.com/album/5DrlVXdnx3j7ZL6ZEuvbW2) | 4:28 |
+| 78 | [Don't Stop Me Now](https://open.spotify.com/track/6tUejaw8c0HZDg9TM4lXXf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Don't Stop Me Now](https://open.spotify.com/album/1YwulgouNoPhGJ3qLB511P) | 3:20 |
 | 79 | [Better Now](https://open.spotify.com/track/6FKo9Wvp9XPLlicjMmGjjf) | [The Animal In Me](https://open.spotify.com/artist/6hyAYqBdxyramm4W9TB7R0) | [Better Now](https://open.spotify.com/album/340cO1YuhIGhjDznigJyDM) | 4:05 |
 | 80 | [What Went Wrong](https://open.spotify.com/track/6b6GTsdxRM7vm1f61LDO6r) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I) | [What Went Wrong](https://open.spotify.com/album/64Xl98jaXY2UwGAl5pj8tu) | 3:17 |
 | 81 | [Welcome to the Black Parade](https://open.spotify.com/track/36CYOzebYcdwKFI0hVQoGV) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Welcome to the Black Parade](https://open.spotify.com/album/35Kb6h06xzxyzDFsPro6zQ) | 5:03 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 83 | [A.M\. 180](https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [A.M\. 180](https://open.spotify.com/album/2rP57VRk7u0JDiLKW9TbNz) | 3:03 |
 | 84 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 |
 | 85 | [Santeria](https://open.spotify.com/track/0FTHyxBgSKvK2d45djO8E4) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [The House That Bradley Built \(Deluxe Edition\)](https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg) | 3:09 |
-| 86 | [So Done](https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [So Done](https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv) | 1:59 |
-| 87 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
-| 88 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
+| 86 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
+| 87 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
+| 88 | [So Done](https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [So Done](https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv) | 1:59 |
 | 89 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
 | 90 | [Adore You](https://open.spotify.com/track/520z2yumDjdc18QvmWk5vM) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Covers, Vol\. 5](https://open.spotify.com/album/6SFXA3Oo0WxQmcqucfHPVm) | 3:29 |
 | 91 | [Gives You Hell](https://open.spotify.com/track/14jFxgA3tyHWwG3x5n3dkZ) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 |
 | 100 | [I Don't Love You](https://open.spotify.com/track/5M9KGQXFPLFiSRC9Oo99JX) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I Don't Love You](https://open.spotify.com/album/5PPYEQoCKFqmR1a6RTPVlJ) | 3:51 |
 
-Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDBjMzE5OTNkNGFiMWEzMmNkMDI4NjFkYmUzMDQ5NDc3`
+Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDc4Y2E1ZmUwYzM4YTE3ZDY5MDRjMTAzNTY2YjBhODIy`

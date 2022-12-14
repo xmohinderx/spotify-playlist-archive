@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,370 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,504 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 41 | [Help Me Mama](https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Storm](https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG) | 3:05 |
 | 42 | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz) | [Sonia Leigh](https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSRLxg), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S), [Rob the Man](https://open.spotify.com/artist/3jO133hmnKXdj74oUVnEyr) | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf) | 3:22 |
 | 43 | [Dark River](https://open.spotify.com/track/0b9sQP9v5pqIHOG2bEJhRu) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/72vwwazB0Mccfmaev230zw) | 3:24 |
-| 44 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 |
-| 45 | [Name on a Matchbook](https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj) | [Springtime Carnivore](https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S) | [Springtime Carnivore](https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO) | 4:16 |
-| 46 | [Moonrise](https://open.spotify.com/track/5NcrIQBZQDI5ngzOU06S54) | [WILDWOOD](https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V) | [Moonrise](https://open.spotify.com/album/3xdz6wjuFKBPjCWoj0W7Dh) | 3:43 |
+| 44 | [Name on a Matchbook](https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj) | [Springtime Carnivore](https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S) | [Springtime Carnivore](https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO) | 4:16 |
+| 45 | [Moonrise](https://open.spotify.com/track/5NcrIQBZQDI5ngzOU06S54) | [WILDWOOD](https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V) | [Moonrise](https://open.spotify.com/album/3xdz6wjuFKBPjCWoj0W7Dh) | 3:43 |
+| 46 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 |
 | 47 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 |
 | 48 | [Let You Let Me Down](https://open.spotify.com/track/7KK4Fhe0GpGIQk2QqWWYaG) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Lighter](https://open.spotify.com/album/73zETkOw0tap79gXPZGS7a) | 3:07 |
 | 49 | [Serious Love](https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Serious Love](https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I) | 4:13 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 65 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 | 66 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 |
 | 67 | [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 |
-| 68 | [This World](https://open.spotify.com/track/3ttKMMwWGBcp08UWhtdqd7) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Selah Sue](https://open.spotify.com/album/4QodEuQxjtrNR9htVuaUYr) | 4:44 |
-| 69 | [Left With Someone Else](https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM) | 3:15 |
-| 70 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
+| 68 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
+| 69 | [This World](https://open.spotify.com/track/3ttKMMwWGBcp08UWhtdqd7) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Selah Sue](https://open.spotify.com/album/4QodEuQxjtrNR9htVuaUYr) | 4:44 |
+| 70 | [Left With Someone Else](https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM) | 3:15 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDYzYzJkMTYyYmQ0MDMyYTQzYjkxZWY4MTBiNWI1Y2M1`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGQ3YjVmMzA1OGIxOWQ0ZGYzZTZiYTE3M2VmZDcyYzI0`

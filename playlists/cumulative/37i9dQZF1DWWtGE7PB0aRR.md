@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-115 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
+116 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Goin' Down Slow](https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 8:20 | 2021-04-22 |  |
 | [Gotta Get to Know You](https://open.spotify.com/track/0nORptIh3WnyVEkcYcQJRo) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat](https://open.spotify.com/album/436NeoRUt1APoubE867iBx) | 7:43 | 2021-04-22 | 2022-07-29 |
 | [Harmonica](https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff), [Jack Bruce](https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Gonks Go Beat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i) | 2:49 | 2021-04-22 |  |
-| [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 | 2021-04-22 |  |
+| [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 | 2021-04-22 | 2022-12-14 |
 | [Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh](https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [The Climax Blues Band Plays On](https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka) | 4:26 | 2021-04-22 |  |
 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 | 2021-04-22 |  |
 | [Home](https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Home](https://open.spotify.com/album/46jRgQN63M7lI9PphL7R3T) | 6:31 | 2022-03-25 |  |
@@ -94,6 +94,7 @@
 | [Sittin' And Thinkin' \- Mono Version](https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Their First LP \(Mono Version\)](https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT) | 2:57 | 2021-04-22 | 2022-10-08 |
 | [So Tired of Living](https://open.spotify.com/track/5NzKWVIBmPJ0xp7VP0c2rn) | [Malone Sibun](https://open.spotify.com/artist/0m2ru7d9GvCPhRMV9Pf1yH) | [Come Together](https://open.spotify.com/album/5J9IEJ8AfBEuFKzNHaV7aF) | 6:29 | 2022-03-25 | 2022-07-21 |
 | [Someday Baby Blues](https://open.spotify.com/track/0KkRdukZsl1Fzc56pgorCd) | [Jo Ann Kelly](https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG) | [Blues & Gospel \(Rare & Unreleased Recordings\)](https://open.spotify.com/album/1X6zfC44u7x4iDVrrX1bo9) | 3:36 | 2021-04-22 | 2022-10-21 |
+| [Someday Baby Blues](https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L) | [Jo Ann Kelly](https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG) | [Blues & Gospel \(Rare & Unreleased Recordings\)](https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi) | 3:36 | 2021-04-22 |  |
 | [Songs Of Yesterday](https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Free](https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay) | 3:35 | 2021-04-22 |  |
 | [Still A Fool \- Single Edit](https://open.spotify.com/track/3svcU5KjgpSI3SPiRca07X) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/7cpe5iNefJ5Orj6hqnX3py) | 4:11 | 2021-04-22 | 2022-11-13 |
 | [Still A Fool \- Single Edit](https://open.spotify.com/track/5eNJCDSPdmK77fa5ZDmwgp) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/6ZAAQLTn3YE3mOe7E7XWfJ) | 4:11 | 2021-04-22 | 2022-07-29 |

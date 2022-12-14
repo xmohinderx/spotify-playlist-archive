@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 
 > Classic rockabilly and early rock 'n' roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,612 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,615 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 31 | [Sunglasses After Dark](https://open.spotify.com/track/0VL7bjfwdWsGOOwhGjEe7c) | [Dwight Pullen](https://open.spotify.com/artist/7jYk8W0dRSn0ivkerR9le2) | [Sunglasses After Dark](https://open.spotify.com/album/4zT5QSeTSk1iudy09RlCp8) | 2:08 |
 | 32 | [Believe What You Say \- Remastered](https://open.spotify.com/track/2Cr8d39cOPBWzmVKwcjmmP) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:05 |
 | 33 | [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 |
-| 34 | [Grandaddy's Rockin'](https://open.spotify.com/track/5XTKNlsQKuozZ44degiPhc) | [Mac Curtis](https://open.spotify.com/artist/4Ey70byCWxRScdGvCVgNJs) | [Blue Jean Heart](https://open.spotify.com/album/1YDTA3tRPAABZbLlas52tu) | 2:05 |
-| 35 | [One Hand Loose](https://open.spotify.com/track/1uYlKhktrgikytcB1UQZYs) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [His Complete King Recordings](https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC) | 2:24 |
+| 34 | [One Hand Loose](https://open.spotify.com/track/1uYlKhktrgikytcB1UQZYs) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [His Complete King Recordings](https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC) | 2:24 |
+| 35 | [Grandaddy's Rockin'](https://open.spotify.com/track/5XTKNlsQKuozZ44degiPhc) | [Mac Curtis](https://open.spotify.com/artist/4Ey70byCWxRScdGvCVgNJs) | [Blue Jean Heart](https://open.spotify.com/album/1YDTA3tRPAABZbLlas52tu) | 2:05 |
 | 36 | [Rock House](https://open.spotify.com/track/36YXD9jFfw446zqlOVGFD2) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:03 |
 | 37 | [Good Rockin' Tonight](https://open.spotify.com/track/6k3FE2tlTymnsPMTkL8slE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [A Date With Elvis](https://open.spotify.com/album/2OBpjUGDDEluQzrp8vwtyi) | 2:11 |
 | 38 | [Brand New Cadillac](https://open.spotify.com/track/0CJ3EmwyofCmDljpoKecQR) | [Vince Taylor & His Playboys](https://open.spotify.com/artist/1NnCrPjtSLFHulsEZdLSEg) | [British Beat Before The Beatles 1955\-1962](https://open.spotify.com/album/0eDIvG3ep58ZKfox9KojyE) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 49 | [I Got a Rocket in My Pocket \- Remastered Single Version](https://open.spotify.com/track/3Qx5VIqbesK1ByTLuXcddr) | [Jimmy Lloyd](https://open.spotify.com/artist/1ngT1mR10aJjFgMmSF5mvB) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:19 |
 | 50 | [Pink Thunderbird](https://open.spotify.com/track/3NenvURev5mcCecxsUoWI2) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:32 |
 
-Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMGZmNGVhMzZlMzQ1YjBmYjNmZTVmZDA0NWQxYjdhM2Ew`
+Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDZkYmJmNjIxYjc2MzdhZGE4ZTMyMDliNzBjOWM1MTg3`

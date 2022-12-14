@@ -4,7 +4,7 @@
 
 > Some of the worlds most beautiful love songs.
 
-368 songs - 1 day 1 hr 15 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
+369 songs - 1 day 1 hr 17 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Please Forgive Me](https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW) | 5:55 | 2022-08-26 | 2022-11-13 |
 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 | 2021-02-01 | 2022-07-29 |
 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 | 2022-05-30 |  |
+| [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 | 2022-12-13 |  |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-02 |  |
 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 | 2021-02-01 |  |
 | [Read All About It, Pt\. III](https://open.spotify.com/track/30BsewEJZPxfuLNAlZPFje) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 4:43 | 2021-10-16\* | 2021-11-19 |
@@ -331,10 +332,10 @@
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2021-02-01 |  |
 | [Underneath Your Clothes](https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:44 | 2022-05-30 |  |
 | [Underneath Your Clothes](https://open.spotify.com/track/6biR1gMwcN71SDt3Eh4eEu) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Servicio De Lavandería](https://open.spotify.com/album/62F8unRY46ZDR2EE5ag5Z5) | 3:44 | 2021-02-01 | 2022-07-29 |
-| [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-12-09 |  |
+| [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-12-08 |  |
 | [Up Where We Belong](https://open.spotify.com/track/0Co8hKbjUy273NrGliGdWZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best of Joe Cocker](https://open.spotify.com/album/7aP5c3ADIf5bmA1G80C4Cc) | 3:53 | 2021-02-01 | 2022-07-29 |
 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 | 2022-05-30 |  |
-| [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2021-02-01 |  |
+| [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2021-02-01 | 2022-12-14 |
 | [What A Difference A Day Makes](https://open.spotify.com/track/5vfhrRAnmyJps6mborpakx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Fly Me To The Moon...The Great American Songbook Volume V \(Deluxe Version\)](https://open.spotify.com/album/7ilPivIyDt1DF8QOz2usD1) | 3:22 | 2021-02-01 | 2022-11-13 |
 | [What Hurts The Most](https://open.spotify.com/track/6Qgva9AMxlkf7MWkLUkdFH) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5uvQNw5Jr0aYdIStUYmX6o) | 3:34 | 2021-10-16\* | 2021-11-19 |
 | [When a Man Loves a Woman](https://open.spotify.com/track/1rLYWSXPrJGWnlGlSwPEia) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Essential Michael Bolton](https://open.spotify.com/album/5Vv7ZpPJK3g53DqeDl0Ijv) | 3:50 | 2021-02-01 | 2022-11-13 |

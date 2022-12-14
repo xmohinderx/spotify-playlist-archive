@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 150870,
       "name": "4 Da Soul",
       "url": "https://open.spotify.com/track/03rVniGkPV7YRJi9vJpXSK"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 150870,
       "name": "4 Da Soul",
       "url": "https://open.spotify.com/track/6sZ2gVfJjgTCq5exxWtMEX"
@@ -2265,6 +2265,28 @@
     {
       "album": {
         "name": "After Hours",
+        "url": "https://open.spotify.com/album/6UxaNjQNGTzpn0IMpzLgD8"
+      },
+      "artists": [
+        {
+          "name": "Adrian Planitz",
+          "url": "https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa"
+        },
+        {
+          "name": "Guy Rickard",
+          "url": "https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141038,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/0Jt2wyECFeOfuUiRp2dCjz"
+    },
+    {
+      "album": {
+        "name": "After Hours",
         "url": "https://open.spotify.com/album/28EUILlARi1zHbQksDAAKw"
       },
       "artists": [
@@ -2301,7 +2323,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 141038,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/7k0mF0WeDNQHB90Buixjiq"
@@ -5871,10 +5893,32 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 113000,
       "name": "Autumn Theory",
       "url": "https://open.spotify.com/track/6T7GXGXmc5kJfMaRcGt0SW"
+    },
+    {
+      "album": {
+        "name": "Autumn Theory",
+        "url": "https://open.spotify.com/album/63evII2ogRMRVuIns9rQlT"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        },
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "Autumn Theory",
+      "url": "https://open.spotify.com/track/7hFVjyCCaIG5cJxzW5wb7l"
     },
     {
       "album": {
@@ -11931,10 +11975,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 105652,
       "name": "Bustlin",
       "url": "https://open.spotify.com/track/1Oh6zWkBgLNNtcesHOjNVH"
+    },
+    {
+      "album": {
+        "name": "Park",
+        "url": "https://open.spotify.com/album/714GHMkc56vatUwbcfXk92"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105652,
+      "name": "Bustlin",
+      "url": "https://open.spotify.com/track/3E1OZ6HADnBsBdI1BYggXq"
     },
     {
       "album": {
@@ -15917,10 +15983,32 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 240000,
       "name": "Cloud Remedy > Transfix",
       "url": "https://open.spotify.com/track/540vTJ91yPORku40HTTJhi"
+    },
+    {
+      "album": {
+        "name": "Cloud Remedy: Transfix",
+        "url": "https://open.spotify.com/album/7AhghaoPtRbY3qFLWqHLOb"
+      },
+      "artists": [
+        {
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
+        },
+        {
+          "name": "fat jon",
+          "url": "https://open.spotify.com/artist/5Fmr3KeGe2IAVFmMxUq1sD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Cloud Remedy: Transfix",
+      "url": "https://open.spotify.com/track/11gVEKWmCPGVelsVeI8hdu"
     },
     {
       "album": {
@@ -37123,10 +37211,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 121519,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/3VnTYbhehXmcufGKWZFQZs"
+    },
+    {
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/7wXjkNjLdUzzItVuU7DzlE"
+      },
+      "artists": [
+        {
+          "name": "Smuv",
+          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121519,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/7hHfDHtbVbkSMdPwemURvo"
     },
     {
       "album": {
@@ -44315,10 +44421,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 166965,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3yur9yNvyf5c0yJ9FQPk0Q"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/7IuwuVP6KQdp5Q0QeVX4Ph"
+      },
+      "artists": [
+        {
+          "name": "IROCC",
+          "url": "https://open.spotify.com/artist/1L9GWi65XjnjeGrT4ryGId"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166965,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5fdEEylG6EbyoaPCF4JOlz"
     },
     {
       "album": {
@@ -44351,10 +44475,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 122000,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/4Y7BreihfaHl1W9QU9h6J0"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/4Ao7BFLOnWMcKYwvSoqafW"
+      },
+      "artists": [
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/64mMxY35INA35D0dcXKNGq"
     },
     {
       "album": {
@@ -58455,10 +58597,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 135212,
       "name": "Nugroove",
       "url": "https://open.spotify.com/track/218j9hzZ1vvhzhVvYUQUyI"
+    },
+    {
+      "album": {
+        "name": "Nugroove",
+        "url": "https://open.spotify.com/album/7u36UlVfdQzN94UKHGGXWI"
+      },
+      "artists": [
+        {
+          "name": "Lamar Azul",
+          "url": "https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135212,
+      "name": "Nugroove",
+      "url": "https://open.spotify.com/track/2lpMUlkx1huRffYHzMyNra"
     },
     {
       "album": {
@@ -59023,7 +59183,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 88721,
       "name": "Ocean View",
       "url": "https://open.spotify.com/track/0LFzgSKP24gseuRIyNVscZ"
@@ -59049,6 +59209,28 @@
       "duration_ms": 88721,
       "name": "Ocean View",
       "url": "https://open.spotify.com/track/1IpwvY8aLOFoAG2juSicEs"
+    },
+    {
+      "album": {
+        "name": "Ocean View",
+        "url": "https://open.spotify.com/album/6uK8FIZnrpKQVJbTje1MEN"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88721,
+      "name": "Ocean View",
+      "url": "https://open.spotify.com/track/6JDSGWs98OUa4qEfuzHhmf"
     },
     {
       "album": {
@@ -63677,6 +63859,24 @@
     {
       "album": {
         "name": "plants are forever",
+        "url": "https://open.spotify.com/album/1lEJe29k26cZOwgBJdgjBi"
+      },
+      "artists": [
+        {
+          "name": "Pleij",
+          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "plants are forever",
+      "url": "https://open.spotify.com/track/1uQGEndcxMDQQnbZlEU1mn"
+    },
+    {
+      "album": {
+        "name": "plants are forever",
         "url": "https://open.spotify.com/album/1OfUDDMDtxfvhSwhf6eF7p"
       },
       "artists": [
@@ -63687,7 +63887,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 129229,
       "name": "plants are forever",
       "url": "https://open.spotify.com/track/6vqDkuOIvE2cYFbkG81v1s"
@@ -67235,10 +67435,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 178886,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/1X1AsQHt0GdsIG046qoAMV"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/3dcsLFbkuCRO6fpgf3XeQN"
+      },
+      "artists": [
+        {
+          "name": "illuZion",
+          "url": "https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178886,
+      "name": "Resurrection",
+      "url": "https://open.spotify.com/track/2YHz6Vamqq7fNKdEwXHLpw"
     },
     {
       "album": {
@@ -71109,6 +71327,24 @@
     {
       "album": {
         "name": "Shape",
+        "url": "https://open.spotify.com/album/20odQgHpucqurWxbT3JX8O"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108921,
+      "name": "Shape",
+      "url": "https://open.spotify.com/track/4vctnDV4Kft8buepkkUOI9"
+    },
+    {
+      "album": {
+        "name": "Shape",
         "url": "https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C"
       },
       "artists": [
@@ -71119,7 +71355,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 108921,
       "name": "Shape",
       "url": "https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL"
@@ -78099,10 +78335,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 124000,
       "name": "Sun Riding",
       "url": "https://open.spotify.com/track/5fHANX6mHrq1zs6LG6MGQx"
+    },
+    {
+      "album": {
+        "name": "Sun Riding",
+        "url": "https://open.spotify.com/album/6TwIoLPG5oAK1gbb7ePGHi"
+      },
+      "artists": [
+        {
+          "name": "Snowji",
+          "url": "https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Sun Riding",
+      "url": "https://open.spotify.com/track/6hDLCD886XNIkyAIBFC9UO"
     },
     {
       "album": {
@@ -83215,10 +83469,32 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 102106,
       "name": "Tiembos",
       "url": "https://open.spotify.com/track/15kAUM71M76eRKIgZH13Uw"
+    },
+    {
+      "album": {
+        "name": "Tiembos",
+        "url": "https://open.spotify.com/album/7dioJzvU7p3sC90DJSfr3D"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "Ricardo Schneider",
+          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102106,
+      "name": "Tiembos",
+      "url": "https://open.spotify.com/track/1EOXIZ4z3mxrc0IiJ4JCzm"
     },
     {
       "album": {
@@ -88107,6 +88383,28 @@
     {
       "album": {
         "name": "Visions",
+        "url": "https://open.spotify.com/album/6E6pdSvWGTifYikdGMToe9"
+      },
+      "artists": [
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        },
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/0Z0HZIWiMncaC7yjdYvPT7"
+    },
+    {
+      "album": {
+        "name": "Visions",
         "url": "https://open.spotify.com/album/24sgzPerGELENqWkResPu1"
       },
       "artists": [
@@ -88143,7 +88441,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 152195,
       "name": "Visions",
       "url": "https://open.spotify.com/track/749Tgcfu5kN30BAvMUTXOZ"

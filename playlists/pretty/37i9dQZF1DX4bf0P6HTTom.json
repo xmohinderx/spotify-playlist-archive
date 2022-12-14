@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 125707,
+  "num_followers": 125793,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMGEzM2M5YmY4ZjAwZWEyODc4MzhlOTczNzEwMDA0ZDcy",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDUzOTQwMzYxNWUxZDRkNGJmODE3YjA0MDk2NTZhZmEx",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Ton-Ton Macoute!",
-        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jenkins",
-          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Down Along The Cove",
-      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "No Other",
         "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 391773,
       "name": "Strength of Strings",
       "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Ton-Ton Macoute!",
+        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jenkins",
+          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Down Along The Cove",
+      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Slippin Away",
-        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
-      },
-      "artists": [
-        {
-          "name": "Chris Hillman",
-          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Step on Out",
-      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "The Desert Rose Band",
         "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 177706,
       "name": "Love Reunited",
       "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Slippin Away",
+        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
+      },
+      "artists": [
+        {
+          "name": "Chris Hillman",
+          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Step on Out",
+      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
     },
     {
       "added_at": "2020-08-05 15:52:11",

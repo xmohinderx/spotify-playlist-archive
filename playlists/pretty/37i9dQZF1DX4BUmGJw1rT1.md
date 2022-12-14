@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,963 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,023 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 40 | [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 |
 | 41 | [Pulling Down The Ride](https://open.spotify.com/track/1rFeL11BESHiNemWysu9eE) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7hhxms8KCwlQCWffIJpN9b) | 2:40 |
 | 42 | [Singing the Blues](https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Promise of a Brand New Day](https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q) | 3:45 |
-| 43 | [Country Boy](https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 5:44 |
-| 44 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [The Midnight Band](https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR) | [Don't Let the Green Grass Fool You](https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A) | 3:45 |
+| 43 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [The Midnight Band](https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR) | [Don't Let the Green Grass Fool You](https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A) | 3:45 |
+| 44 | [Country Boy](https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 5:44 |
 | 45 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 |
 | 46 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 |
 | 47 | [Stormy Monday](https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Live At Blues Alley](https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy) | 5:49 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 55 | [Stay High](https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO) | [solace](https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9) | [Stay High](https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY) | 1:53 |
 | 56 | [Does Anybody Know](https://open.spotify.com/track/7HpL4czETBCPqzQhr97eR1) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 3:28 |
 | 57 | [A Quitter Never Wins](https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio) | 5:56 |
-| 58 | [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 |
-| 59 | [Don't Explain](https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 4:34 |
-| 60 | [No Other Way](https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 4:25 |
+| 58 | [Don't Explain](https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 4:34 |
+| 59 | [No Other Way](https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 4:25 |
+| 60 | [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 |
 | 61 | [You and Your Friend](https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [On Every Street \(Remaster\)](https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ) | 5:59 |
 | 62 | [I Know \- 2008 Remaster](https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:47 |
 | 63 | [Set Me Free](https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB) | [Soulmate](https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk) | [Moving On](https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP) | 4:55 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 68 | [Lonely Fool](https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ) | [John Lyons](https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2) | [John Lyons Band](https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh) | 7:18 |
 | 69 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 |
 | 70 | [Need Your Love So Bad \- 2002 Digital Remaster](https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [The Platinum Collection](https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl) | 7:53 |
-| 71 | [All the Way](https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Take Your Shoes Off](https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh) | 5:11 |
-| 72 | [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 |
+| 71 | [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 |
+| 72 | [All the Way](https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Take Your Shoes Off](https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh) | 5:11 |
 | 73 | [Hell To Pay](https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 4:42 |
 | 74 | [He Was a Friend of Mine](https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [He Was a Friend of Mine](https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8) | 3:17 |
 | 75 | [If Heaven Is A Hotel](https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Strange Time To Be Alive](https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA) | 3:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 97 | [Sunday](https://open.spotify.com/track/6acPKN6yeFBa9vhME9RwIN) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:44 |
 | 98 | [Downtown](https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Downtown](https://open.spotify.com/album/0nMJLE97CCbuE9KivHRBle) | 3:42 |
 | 99 | [Destiny](https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:17 |
-| 100 | [Fortunate Few](https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:25 |
+| 100 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 |
 
-Snapshot ID: `MTY2ODcxMTQ0NiwwMDAwMDAwMGMyZmFmMTdkNGQ2OTM5ZGZkMzg4NzM3NDQzM2NlY2E2`
+Snapshot ID: `MTY2ODcxMTQ0NiwwMDAwMDAwMGRkZGMwM2IwYzdmMTNlMzllYjNiODkxNWE4NWQ2N2Nm`

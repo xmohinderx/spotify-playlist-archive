@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1038801,
+  "num_followers": 1039206,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDY1N2Y0OWQ0ZmM2YjMwZTlkMDM4MWQ5MDRlODk0MjQx",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGZkODQ2YzY3MmVkMTU2ZjExYTg1ZTY2MzAzMWQ2OTc0",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -199,6 +199,26 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Center of Attention",
+        "url": "https://open.spotify.com/album/2VXkgdiXFunIO581a4vqcR"
+      },
+      "artists": [
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "name": "InI",
+          "url": "https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj"
+        }
+      ],
+      "duration_ms": 276373,
+      "name": "Grown Man Sport",
+      "url": "https://open.spotify.com/track/6hANdvhL9H7bkESqIVeVIZ"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "So...How's Your Girl?",
         "url": "https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 337200,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Center of Attention",
-        "url": "https://open.spotify.com/album/2VXkgdiXFunIO581a4vqcR"
-      },
-      "artists": [
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        },
-        {
-          "name": "InI",
-          "url": "https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj"
-        }
-      ],
-      "duration_ms": 276373,
-      "name": "Grown Man Sport",
-      "url": "https://open.spotify.com/track/6hANdvhL9H7bkESqIVeVIZ"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "and the Anonymous Nobody...",
-        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 279754,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "MOVIN'",
         "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "and the Anonymous Nobody...",
+        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 279754,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -559,8 +559,8 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 271373,
-      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
-      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
+      "duration_ms": 260693,
+      "name": "Dog It",
+      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Don't Feed the Birds",
+        "url": "https://open.spotify.com/album/0CpFxcoFV9MHFVI7M8a2Qt"
+      },
+      "artists": [
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        },
+        {
+          "name": "byJ.",
+          "url": "https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws"
+        }
+      ],
+      "duration_ms": 173181,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/0t89zjm5vxQCuW4jkOfT93"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Jazzmatazz Volume II: The New Reality",
         "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
       },
@@ -639,6 +659,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
+      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
@@ -651,42 +687,6 @@
       "duration_ms": 221333,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 260693,
-      "name": "Dog It",
-      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Don't Feed the Birds",
-        "url": "https://open.spotify.com/album/0CpFxcoFV9MHFVI7M8a2Qt"
-      },
-      "artists": [
-        {
-          "name": "Ben Beal",
-          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
-        },
-        {
-          "name": "byJ.",
-          "url": "https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws"
-        }
-      ],
-      "duration_ms": 173181,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/0t89zjm5vxQCuW4jkOfT93"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -723,54 +723,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Blazing Arrow",
-        "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
-      },
-      "artists": [
-        {
-          "name": "Blackalicious",
-          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Make You Feel That Way",
-      "url": "https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -799,6 +751,54 @@
       "duration_ms": 226933,
       "name": "Standing There",
       "url": "https://open.spotify.com/track/11qPxILRaVPoLVgVajD82l"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Blazing Arrow",
+        "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
+      },
+      "artists": [
+        {
+          "name": "Blackalicious",
+          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Make You Feel That Way",
+      "url": "https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "New Day (feat. Illa J)",
-        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
-      },
-      "artists": [
-        {
-          "name": "Abstract Orchestra",
-          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
-        },
-        {
-          "name": "Illa J",
-          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
-        }
-      ],
-      "duration_ms": 145051,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Green Street (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
       },
@@ -1495,26 +1475,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Tulips",
-        "url": "https://open.spotify.com/album/6Oa2B45zimQ8lfbknds32G"
+        "name": "New Day (feat. Illa J)",
+        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
       "artists": [
         {
-          "name": "Damu The Fudgemunk",
-          "url": "https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM"
+          "name": "Abstract Orchestra",
+          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
         },
         {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
-        },
-        {
-          "name": "Raw Poetic",
-          "url": "https://open.spotify.com/artist/0bFq0sqBE7i1056yjI7z5M"
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
         }
       ],
-      "duration_ms": 334374,
-      "name": "Tulips",
-      "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
+      "duration_ms": 145051,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1539,6 +1515,30 @@
       "duration_ms": 242747,
       "name": "Go So Far",
       "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Tulips",
+        "url": "https://open.spotify.com/album/6Oa2B45zimQ8lfbknds32G"
+      },
+      "artists": [
+        {
+          "name": "Damu The Fudgemunk",
+          "url": "https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM"
+        },
+        {
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+        },
+        {
+          "name": "Raw Poetic",
+          "url": "https://open.spotify.com/artist/0bFq0sqBE7i1056yjI7z5M"
+        }
+      ],
+      "duration_ms": 334374,
+      "name": "Tulips",
+      "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Three/Three",
         "url": "https://open.spotify.com/album/5YWh19vM9DvHTJ8cvqPRBf"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+      },
+      "artists": [
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -1719,6 +1719,90 @@
       "duration_ms": 136785,
       "name": "DOOM",
       "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Late Night Link",
+        "url": "https://open.spotify.com/album/5ROL6IqcFzRv6lm68RzsSo"
+      },
+      "artists": [
+        {
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Harvey Whyte",
+          "url": "https://open.spotify.com/artist/0oixhuMlcSB9H0TociqrsI"
+        },
+        {
+          "name": "Luke RV",
+          "url": "https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Late Night Link",
+      "url": "https://open.spotify.com/track/1xa2CuAx4iD2tVq2SNlQG6"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        },
+        {
+          "name": "Miles Bonny",
+          "url": "https://open.spotify.com/artist/3SAMS1olAlq6wJ8Y7CApjs"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/5LTX3uM6PySQIMPZALHZaI"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "City All Stars (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7qVlqy2oyNjSDb8COORG0f"
+      },
+      "artists": [
+        {
+          "name": "PENPALS",
+          "url": "https://open.spotify.com/artist/5h3ft4SBafRVuuoH4iVYS5"
+        },
+        {
+          "name": "EMERLD",
+          "url": "https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp"
+        }
+      ],
+      "duration_ms": 180290,
+      "name": "The Stars My Destination",
+      "url": "https://open.spotify.com/track/5mEktxj3u61Q9tM5ZfPuMP"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1767,46 +1851,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "C.Tappin",
-          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
-        },
-        {
-          "name": "Miles Bonny",
-          "url": "https://open.spotify.com/artist/3SAMS1olAlq6wJ8Y7CApjs"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/5LTX3uM6PySQIMPZALHZaI"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Here to Dance",
         "url": "https://open.spotify.com/album/1vD6M6qLLZLxIVwCLZUbML"
       },
@@ -1823,50 +1867,6 @@
       "duration_ms": 187133,
       "name": "Here to Dance",
       "url": "https://open.spotify.com/track/7zMCN5xWeA8cWMehBnvNBL"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "City All Stars (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7qVlqy2oyNjSDb8COORG0f"
-      },
-      "artists": [
-        {
-          "name": "PENPALS",
-          "url": "https://open.spotify.com/artist/5h3ft4SBafRVuuoH4iVYS5"
-        },
-        {
-          "name": "EMERLD",
-          "url": "https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp"
-        }
-      ],
-      "duration_ms": 180290,
-      "name": "The Stars My Destination",
-      "url": "https://open.spotify.com/track/5mEktxj3u61Q9tM5ZfPuMP"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Late Night Link",
-        "url": "https://open.spotify.com/album/5ROL6IqcFzRv6lm68RzsSo"
-      },
-      "artists": [
-        {
-          "name": "KeepVibesNear",
-          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
-        },
-        {
-          "name": "Harvey Whyte",
-          "url": "https://open.spotify.com/artist/0oixhuMlcSB9H0TociqrsI"
-        },
-        {
-          "name": "Luke RV",
-          "url": "https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Late Night Link",
-      "url": "https://open.spotify.com/track/1xa2CuAx4iD2tVq2SNlQG6"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Soul Survivor",
+        "url": "https://open.spotify.com/album/6aUbIlHtJf14LG1bdy8caf"
+      },
+      "artists": [
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "name": "Vinia Mojica",
+          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+        }
+      ],
+      "duration_ms": 304933,
+      "name": "Mind Blowin' (feat. Vinia Mojica)",
+      "url": "https://open.spotify.com/track/1foIqCKbgzB1czR3SgoEjK"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Minneapolis",
         "url": "https://open.spotify.com/album/7AcKzD0NIQAPrhpSlwA0g9"
       },
@@ -1987,26 +2007,6 @@
       "duration_ms": 189770,
       "name": "Minneapolis",
       "url": "https://open.spotify.com/track/5P9t8UuNOTbEC7PqKPAckz"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Soul Survivor",
-        "url": "https://open.spotify.com/album/6aUbIlHtJf14LG1bdy8caf"
-      },
-      "artists": [
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        },
-        {
-          "name": "Vinia Mojica",
-          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
-        }
-      ],
-      "duration_ms": 304933,
-      "name": "Mind Blowin' (feat. Vinia Mojica)",
-      "url": "https://open.spotify.com/track/1foIqCKbgzB1czR3SgoEjK"
     },
     {
       "added_at": "2022-12-08 23:00:00",

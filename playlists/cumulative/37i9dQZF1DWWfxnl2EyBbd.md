@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-374 songs - 1 day 6 hr 37 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+375 songs - 1 day 6 hr 40 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Based On Gustav](https://open.spotify.com/track/03CuJU4nQBANkiHpRrazC9) | [Sir Roland Hanna Trio](https://open.spotify.com/artist/0nZO7OnpC74SRJQDxTWf7O) | [Apres Un Reve](https://open.spotify.com/album/1hbf0va1E55xuy2vssn0D3) | 6:36 | 2022-02-10 | 2022-11-21 |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-11-12 |  |
 | [Being There](https://open.spotify.com/track/3Tx609w6szOPbdas8CYdSt) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Ground](https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu) | 4:11 | 2022-02-10 |  |
+| [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 | 2022-12-08 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-11-12 |  |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
 | [Blame It on My Youth](https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Blame It on My Youth](https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl) | 8:06 | 2022-02-18 | 2022-07-29 |
@@ -132,7 +133,7 @@
 | [I Surrender Dear](https://open.spotify.com/track/5Ruwfqx4jMonaaF1z6RA3n) | [Billy Lester](https://open.spotify.com/artist/66egz5VrR7JGpVmlzZrBBt) | [From Scratch](https://open.spotify.com/album/4CfhVVsp9OlDdqartoyZP3) | 6:01 | 2022-02-18 | 2022-11-18 |
 | [I Thought About You](https://open.spotify.com/track/5YZSSALNBr1ifeIsXs2hqs) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 4:01 | 2022-02-10 | 2022-12-06 |
 | [I Wish I Knew](https://open.spotify.com/track/2W6JLNB4tOiP6dZBQE1ANE) | [Alan Broadbent](https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1), [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [You and the Night and the Music](https://open.spotify.com/album/2bFn7LQRuAa7RmWQLkBNFb) | 8:53 | 2022-02-10 | 2022-11-09 |
-| [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-11-12 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-11-12 | 2022-12-14 |
 | [I'll Know](https://open.spotify.com/track/2OQiiPnoC7h2v3UprQa3zP) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 5:12 | 2022-02-10 | 2022-12-06 |
 | [I'll Take Romance](https://open.spotify.com/track/0QPlQSzKFeCaUUsTKI5l3H) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Take Romance](https://open.spotify.com/album/3P6Gr9HoWa95zNt5TKb62t) | 3:46 | 2022-11-17 |  |
 | [I'll Tell You When I Understand](https://open.spotify.com/track/0c0dPCcW7KU6SKChawzOCf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [I'll Tell You When I Understand](https://open.spotify.com/album/1ZHRZhPFBCY3y8cXq1K78l) | 3:06 | 2022-12-01 |  |

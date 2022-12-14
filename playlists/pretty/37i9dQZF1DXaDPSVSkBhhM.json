@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 56934,
+  "num_followers": 56945,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMDBjMTVhNGUzNGRhM2YwYTc0ZjIwZWI5NjA3ZjQ4Y2Rj",
+  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMDYzNzkxMjZlYzk5ZWQ5M2M5MGE5ZWI1MTc0ZTgyYWQ0",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "La teor\u00eda de los septenios",
-        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
-      },
-      "artists": [
-        {
-          "name": "Da Skate",
-          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
-        }
-      ],
-      "duration_ms": 151757,
-      "name": "No olvides de enfocarte siempre en lo importante",
-      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Disparos",
         "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 229500,
       "name": "Disparos",
       "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "La teor\u00eda de los septenios",
+        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
+      },
+      "artists": [
+        {
+          "name": "Da Skate",
+          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
+        }
+      ],
+      "duration_ms": 151757,
+      "name": "No olvides de enfocarte siempre en lo importante",
+      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
     },
     {
       "added_at": "2022-10-01 18:54:42",

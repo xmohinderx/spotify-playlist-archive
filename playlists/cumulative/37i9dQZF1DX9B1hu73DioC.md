@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-563 songs - 1 day 10 hr 23 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+564 songs - 1 day 10 hr 26 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2022-07-25 |  |
 | [Hey, Ma](https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:36 | 2020-10-16 | 2022-05-05 |
 | [High](https://open.spotify.com/track/1Azvp5Y5rOiFBPLXlOxGfy) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [High](https://open.spotify.com/album/5Nb5lpQAmZqoUNvCjiQIr9) | 3:37 | 2021-06-07 | 2022-04-19 |
-| [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2022-12-10 |  |
+| [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2022-12-09 |  |
 | [High Beams](https://open.spotify.com/track/33aO3exOKzz0EtN1Web9oN) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [High Beams](https://open.spotify.com/album/0Z3dnKulGDg97zHhomkppb) | 3:30 | 2021-08-27 | 2022-07-29 |
 | [Hold Me Down](https://open.spotify.com/track/7j3F83W8dkm10ujNwC0wRJ) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Hold Me Down](https://open.spotify.com/album/4F3OWtzqKabuavxA3rzEAA) | 3:23 | 2022-03-07 | 2022-04-20 |
 | [Holding On](https://open.spotify.com/track/2WZwPv9no6rPUSLTABF1uy) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [In a Heartbeat](https://open.spotify.com/album/0PAFBKP82cxNYTM05Ca8jp) | 3:46 | 2020-10-16 | 2022-04-17 |
@@ -331,6 +331,7 @@
 | [Maybe Not](https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Maybe Not](https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25) | 2:50 | 2022-05-20 | 2022-05-24 |
 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 | 2020-10-20 | 2022-11-27 |
 | [Me and My Husband](https://open.spotify.com/track/5ErtQGRKEibK2WHaA729O8) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:17 | 2020-12-31 | 2021-01-15 |
+| [Mercy](https://open.spotify.com/track/4VZbrCVlI5piIPDqPqCmwD) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs), [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [Mercy](https://open.spotify.com/album/4D0K6xwqS0a7TdTYY5Ls54) | 3:13 | 2022-12-09 |  |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-19 |  |
 | [Message \(Better Days\)](https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Message \(Better Days\)](https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO) | 3:34 | 2022-07-15 | 2022-11-13 |
 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 | 2022-07-25 | 2022-12-08 |
@@ -379,7 +380,7 @@
 | [ocean view](https://open.spotify.com/track/7ossJoAkwNcV8pFzIyBb9j) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ocean view](https://open.spotify.com/album/7xFL9NJq1twMOpD7XmIYQn) | 2:54 | 2021-06-04 | 2022-06-19 |
 | [Oh](https://open.spotify.com/track/6ReBkFK1eXFS5rvmv6uDnu) | [Dancing On Tables](https://open.spotify.com/artist/0onRfrkoTz3yrMeP2Ymhhc) | [Oh](https://open.spotify.com/album/4ACRSTw84mvOyr7UNYu4ZU) | 3:27 | 2020-10-05\* | 2020-10-06 |
 | [Okay](https://open.spotify.com/track/3a1FmKNt5614MLAh7KeWTb) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Okay](https://open.spotify.com/album/4zuOje7GYsDwFL3ZkAxJ4W) | 2:03 | 2021-08-27 | 2022-05-18 |
-| [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2020-11-17 |  |
+| [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2020-11-17 | 2022-12-14 |
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2022-11-11 |  |
 | [On Ice](https://open.spotify.com/track/4GgIUzrjuTFQ00C2jGKIRr) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [On Ice](https://open.spotify.com/album/24TVy5RXnynUdVAhiCA2VS) | 2:47 | 2020-10-20 | 2022-06-01 |
 | [On Your Journey](https://open.spotify.com/track/3jjE958MLus6IZaJK7k08x) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [On Your Journey](https://open.spotify.com/album/2tunt1ak3tuPd924f4t5Ld) | 2:58 | 2021-09-10 | 2022-04-21 |

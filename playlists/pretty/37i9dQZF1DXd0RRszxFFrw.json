@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 43602,
+  "num_followers": 43629,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDkzYWE5ZTY1NjllZmY1MmEwMzdhN2U3NDljNmFkMzli",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDM5Mzc2NzdiOGFlZjNiM2M1MDM0NzhiZjBiZDE0YjUz",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
-      },
-      "artists": [
-        {
-          "name": "Francisco T\u00e1rrega",
-          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
-        },
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
-        }
-      ],
-      "duration_ms": 108053,
-      "name": "Adelita",
-      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Cucchi, Flavio: American Portraits",
         "url": "https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 134893,
       "name": "7 Spanish songs (7 Canciones Sefaradies): No. 3. En la mar ay una torre",
       "url": "https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "duration_ms": 108053,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Cinque Terre",
+        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Cinque Terre",
+      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 131182,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Cinque Terre",
-        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Cinque Terre",
-      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -699,18 +699,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Blue Bossa",
-        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
       },
       "artists": [
         {
-          "name": "Denisinho",
-          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
+          "name": "Gerardo Tamez",
+          "url": "https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF"
+        },
+        {
+          "name": "Terceto De Guitarras De La Ciudad De Mexico",
+          "url": "https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV"
         }
       ],
-      "duration_ms": 181498,
-      "name": "Black Orpheus",
-      "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
+      "duration_ms": 219786,
+      "name": "Tierra Mestiza",
+      "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -747,22 +751,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
+        "name": "Blue Bossa",
+        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
       "artists": [
         {
-          "name": "Gerardo Tamez",
-          "url": "https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF"
-        },
-        {
-          "name": "Terceto De Guitarras De La Ciudad De Mexico",
-          "url": "https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV"
+          "name": "Denisinho",
+          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
         }
       ],
-      "duration_ms": 219786,
-      "name": "Tierra Mestiza",
-      "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
+      "duration_ms": 181498,
+      "name": "Black Orpheus",
+      "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
     },
     {
       "added_at": "2022-10-27 22:01:00",

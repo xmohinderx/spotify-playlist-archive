@@ -4,11 +4,12 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-123 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
+124 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2022-05-17 |  |
+| [Ab Mori Chhaad De](https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ab Mori Chhaad De](https://open.spotify.com/album/5pf1eQ4E1YMSJvVLBecgVx) | 4:17 | 2022-12-13 |  |
 | [Ae Ri Sakhi](https://open.spotify.com/track/5p54INLXgza6Do7nTsFPpG) | [kSaya](https://open.spotify.com/artist/4N8z2CTrbGkT50OoGj3Z2P), [Pooja Gaitonde](https://open.spotify.com/artist/7h7RCEJXdzbsEulBquEQJW), [Prasad Gaitonde](https://open.spotify.com/artist/6OKKST2lo5Q4zOpmOLS7ja) | [Ae Ri Sakhi](https://open.spotify.com/album/4AZg2InQrYXVO1LZOK7zuH) | 4:14 | 2022-05-17 |  |
 | [Ae Savere](https://open.spotify.com/track/29AxH9bh65FCT0qodirEFm) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Archana Kamath Hegdekar](https://open.spotify.com/artist/6btgQtc8ir0wUCRC3D0U4y) | [Ae Savere](https://open.spotify.com/album/7nflHS59pB01xW0Ox4lx5V) | 4:47 | 2022-05-17 |  |
 | [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/track/5a40BRFDUlmbv5P9F6IIXs) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/album/4r8Xz5RxDO7MV0oG50tSdQ) | 3:08 | 2022-05-17 |  |
@@ -86,7 +87,7 @@
 | [Nirvana](https://open.spotify.com/track/6AIMkgFs253hoN9dLa5NA6) | [SoundGuySam](https://open.spotify.com/artist/46kwfZuv8Zp5s1lmeOvjTw), [Vāhaka](https://open.spotify.com/artist/2fNCMrjJFeeQVLhdS4tE8m) | [Nirvana](https://open.spotify.com/album/0JqNvIfu12IkoCUVBWn9iN) | 3:00 | 2022-05-17 |  |
 | [One Family](https://open.spotify.com/track/6U4MqwWt8qkyLAZREUN2YN) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Lonnie Park](https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N), [Alexis D'souza](https://open.spotify.com/artist/33vRHKiT2D7oiHPwOeJLT5) | [One Family](https://open.spotify.com/album/783ROhokY1Rxp2LOiV5V71) | 4:00 | 2022-09-23 | 2022-11-13 |
 | [One Family \(Live\)](https://open.spotify.com/track/1jDSX9yXzRyvkZSlwsOBbg) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Shiva \- Ricky Kej Live in India](https://open.spotify.com/album/6Pex7upO82T6FsWCXMBac6) | 4:00 | 2022-05-17 | 2022-09-04 |
-| [One Family \(Live\)](https://open.spotify.com/track/5H5BQEnXcHV349qCuwm5Gy) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Shiva \- Ricky Kej Live in India](https://open.spotify.com/album/2nLzw4gKPSvjuubgf4NyaG) | 4:00 | 2022-07-12 |  |
+| [One Family \(Live\)](https://open.spotify.com/track/5H5BQEnXcHV349qCuwm5Gy) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Shiva \- Ricky Kej Live in India](https://open.spotify.com/album/2nLzw4gKPSvjuubgf4NyaG) | 4:00 | 2022-07-12 | 2022-12-14 |
 | [Ooch Apaar](https://open.spotify.com/track/14jmLovqc2rOc2KDqwd8Yw) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/10QCudlJoZPHcoPBDTc1mA) | 7:00 | 2022-07-12 |  |
 | [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 | 2022-08-23 |
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |

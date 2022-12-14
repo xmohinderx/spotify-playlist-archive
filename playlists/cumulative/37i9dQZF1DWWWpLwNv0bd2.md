@@ -2,7 +2,7 @@
 
 ### [Latest Romance Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Love Tunes.<br/>Cover : Prince
+> Check out the Latest Love Tunes.<br/>Cover : Vaathi
 
 99 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 

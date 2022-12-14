@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 98973,
+  "num_followers": 99468,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMDJmOTVkZTU0MzI4MjQxOWYyZjgzN2E2MmEwMmE5MjFi",
+  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMDI0YWQxODkwZDE5OTJhZDYyNDk1Njc4YmZkM2RjZGM0",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Flaws",
-        "url": "https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 176071,
-      "name": "Ivy & Gold",
-      "url": "https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Journal of Ardency",
         "url": "https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 225306,
       "name": "Journal of Ardency",
       "url": "https://open.spotify.com/track/6GEIpzW14NtOjqHejbcSRE"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Flaws",
+        "url": "https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 176071,
+      "name": "Ivy & Gold",
+      "url": "https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe"
     },
     {
       "added_at": "2021-10-05 08:40:49",

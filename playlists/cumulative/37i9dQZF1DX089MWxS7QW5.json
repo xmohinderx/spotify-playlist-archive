@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 274586,
       "name": "Beautiful (feat. Sam Kim)",
       "url": "https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 208293,
       "name": "Hidden Castle",
       "url": "https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 180000,
       "name": "How To Love (Feat.Paul Kim)",
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
@@ -1941,7 +1941,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 191537,
       "name": "Out of My Intention",
       "url": "https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi"
@@ -2126,6 +2126,24 @@
     },
     {
       "album": {
+        "name": "Strike",
+        "url": "https://open.spotify.com/album/1z1oGlLPH3tg6F2plDuF6t"
+      },
+      "artists": [
+        {
+          "name": "HANYE",
+          "url": "https://open.spotify.com/artist/76Qu3bKsPh71Tzt5Sj2DQL"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "Strike",
+      "url": "https://open.spotify.com/track/0Djk0AVUiqZX4Y8txXwcNF"
+    },
+    {
+      "album": {
         "name": "SummerSweet",
         "url": "https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp"
       },
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 150250,
       "name": "SummerSweet",
       "url": "https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi"
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 224946,
       "name": "Wash me",
       "url": "https://open.spotify.com/track/11xruTNYBtkgJVuc7ebgvW"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 204000,
       "name": "White Lie (feat. GI$T)",
       "url": "https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70"
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 140866,
       "name": "Why (Feat. Hoody)",
       "url": "https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82"
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 194739,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J"

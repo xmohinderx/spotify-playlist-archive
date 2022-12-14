@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,716 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,752 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 28 | [Suna no Onna](https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(Remastered 2017\)](https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt) | 3:55 |
 | 29 | [こぬか雨](https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0) | [Ginji Ito](https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY) | [デッドリイ・ドライブ \(40周年記念デラックス・エディション\)](https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ) | 5:54 |
 | 30 | [I SAY WHO](https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:13 |
-| 31 | [ピンク・シャドウ](https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [SUMMER KNOWS](https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c) | 4:41 |
+| 31 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
 | 32 | [愛の炎](https://open.spotify.com/track/6ZrnDMPu4wRgRLgmYzoL1c) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [Let's Do It](https://open.spotify.com/album/3XaoPCKp7aRJN8666rx394) | 4:07 |
 | 33 | [ON THE SEASHORE](https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 6:11 |
-| 34 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
+| 34 | [ピンク・シャドウ](https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [SUMMER KNOWS](https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c) | 4:41 |
 | 35 | [ソバカスのある少女](https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 3:29 |
 | 36 | [てぃーんず ぶるーす](https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7) | [Shinji Harada](https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1) | [Feel Happy 2007 \~Debut 30th Anniversary\~](https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB) | 3:47 |
 | 37 | [私自身](https://open.spotify.com/track/7iyfmOUN6wBobBPXVRdWvR) | [Ayumi Ishida](https://open.spotify.com/artist/3rLmQHQ3X5rCN55IhqPFnX), [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [アワー・コネクション](https://open.spotify.com/album/6bSYfNaRLzYBsmHDBwHjM1) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [この軽い感じが…](https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE) | [今井裕](https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF) | [A COOL EVENING](https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3) | 6:07 |
 | 50 | [シンプル・ラブ](https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42) | [Junko Ohashi & Minoya Central Station](https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM) | [RAINBOW](https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE) | 3:47 |
 
-Snapshot ID: `MTY2ODU2MDE0NSwwMDAwMDAwMDVlNDgyNTcwMWEwYmJhNDAxYjRhNjRhMmFhMjI1NDRm`
+Snapshot ID: `MTY2ODU2MDE0NSwwMDAwMDAwMDI5MWEwOWI1ODM1ZTA3Yjg5ZjE1NzlhYzcyNTQyNDFm`

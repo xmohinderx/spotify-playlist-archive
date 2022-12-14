@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : joysad
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,780 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,791 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 37 | [Rodéo](https://open.spotify.com/track/6AIU6Vfq4p1y1ZKUQlF0N3) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [Rodéo](https://open.spotify.com/album/17Q0l5T1bJKgBSHt3Kz4X6) | 3:04 |
 | 38 | [J'la connais, Pt\. 1](https://open.spotify.com/track/7qTRcNu0nqDyjM7cWofXqT) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [J'la connais, Pt\. 1](https://open.spotify.com/album/6CodUHcAHp1KsNY2zPyDKA) | 3:34 |
 | 39 | [Fascinant](https://open.spotify.com/track/0dth6miXmg495OA7IAhQSZ) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Fascinant](https://open.spotify.com/album/5PNZdbRpC6mzLSHy2rgjBC) | 2:42 |
-| 40 | [Alita \(feat\. Rounhaa\)](https://open.spotify.com/track/2QpRNqd5FP0XQqRCYl2wno) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Sean](https://open.spotify.com/artist/4FVOcSxCCvonNnyHWvJzhb), [Leith](https://open.spotify.com/artist/2ymudkZ7TlHbLUNV59nm9G), [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe) | [Le soleil se lèvera à l'Ouest](https://open.spotify.com/album/59tsNmPW5twlP1slvr7Lz9) | 3:58 |
+| 40 | [Alita \(feat\. Rounhaa\)](https://open.spotify.com/track/2QpRNqd5FP0XQqRCYl2wno) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C), [Leith](https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT), [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe) | [Le soleil se lèvera à l'Ouest](https://open.spotify.com/album/59tsNmPW5twlP1slvr7Lz9) | 3:58 |
 | 41 | [GUCCI \(feat\. F430\) \[jet\]](https://open.spotify.com/track/3K88jIpeWTdAQYRyqfitHD) | [S\-Pion](https://open.spotify.com/artist/3lcaxkgcJetq348VioG0s6), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Solide](https://open.spotify.com/album/0yoNKisaw3XF1u6iDZig6S) | 2:18 |
 | 42 | [Noir](https://open.spotify.com/track/6xMcRSrzPJJMpH5oYDHiJk) | [ONZ](https://open.spotify.com/artist/2cHLzuB7J9TfkwTMFmTe5E), [yung g](https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7) | [OPAQUE](https://open.spotify.com/album/4Nkl8GoDDewl9lcvuyVqdk) | 2:46 |
 | 43 | [COUPÉ](https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i) | [TLZ Clan](https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp) | [COUPÉ](https://open.spotify.com/album/2LNG7f47uJJAZcgiVZlHEY) | 2:58 |

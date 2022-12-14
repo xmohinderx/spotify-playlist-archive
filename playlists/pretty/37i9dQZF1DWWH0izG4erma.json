@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: HARDY",
-  "num_followers": 490766,
+  "num_followers": 491096,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDUxZmM0MWFlMzBlYTlhM2NhMTJlMzFhYjU2Y2YwOTYz",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDRhYzg1OGE5NmE1OGQ4M2VkMjEyMWU1YzQ2ZGU2MDc0",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Crazy Angels",
+        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Crazy Angels",
+      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 257079,
       "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
       "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Crazy Angels",
-        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Crazy Angels",
-      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 183403,
       "name": "In Love With My Problems (feat. Jon Pardi)",
       "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/3sxQbGjZ069MiXljzJTMsT"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Still a Few Cowboys Left",
         "url": "https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 194186,
       "name": "Still a Few Cowboys Left",
       "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "duration_ms": 210532,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Backslider",
-        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
       },
       "artists": [
         {
-          "name": "Elvie Shane",
-          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 210532,
-      "name": "Sundress",
-      "url": "https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK"
+      "duration_ms": 264240,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/3sxQbGjZ069MiXljzJTMsT"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Whiskey in a Wine Glass",
+        "url": "https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ"
+      },
+      "artists": [
+        {
+          "name": "Whelan Stone",
+          "url": "https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW"
+        }
+      ],
+      "duration_ms": 187885,
+      "name": "Whiskey in a Wine Glass",
+      "url": "https://open.spotify.com/track/2KIlRbwYuRiD1U7DFceJK2"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Pickin\u2019 Up Girls (feat. The Cadillac Three)",
         "url": "https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Whiskey in a Wine Glass",
-        "url": "https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ"
+        "name": "For the Birds",
+        "url": "https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx"
       },
       "artists": [
         {
-          "name": "Whelan Stone",
-          "url": "https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW"
+          "name": "Read Southall Band",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
         }
       ],
-      "duration_ms": 187885,
-      "name": "Whiskey in a Wine Glass",
-      "url": "https://open.spotify.com/track/2KIlRbwYuRiD1U7DFceJK2"
+      "duration_ms": 254090,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1595,22 +1611,6 @@
       "duration_ms": 230411,
       "name": "Huckleberry",
       "url": "https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "For the Birds",
-        "url": "https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx"
-      },
-      "artists": [
-        {
-          "name": "Read Southall Band",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        }
-      ],
-      "duration_ms": 254090,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "COUNTRY FUZZ",
-        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 184619,
-      "name": "Labels",
-      "url": "https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Black Magic Lady",
         "url": "https://open.spotify.com/album/4TEphoROa5MStn7cVNEGMc"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 287835,
       "name": "Black Magic Lady",
       "url": "https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "COUNTRY FUZZ",
+        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 184619,
+      "name": "Labels",
+      "url": "https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU"
     }
   ],
   "unique_name": "Country Rocks",

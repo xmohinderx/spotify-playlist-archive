@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 72427,
+  "num_followers": 72496,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGJhZDEyMDQ3NDMxZDM0NjczYjZkNWU2ZmQyODA4OGY0",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGYzOGE2ZThiYWY0Yzc1NTc5Yzg3YWU0YTg2NzI4MjI2",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -383,6 +383,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Charlie Parker Memorial, Vol. 2",
+        "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Billie's Bounce - Original",
+      "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 311813,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Charlie Parker Memorial, Vol. 2",
-        "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Billie's Bounce - Original",
-      "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -499,18 +499,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
+        "name": "The Savoy 10-inch LP Collection",
+        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
       },
       "artists": [
         {
-          "name": "Charlie Parker Quintet",
-          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 166613,
-      "name": "Blues For Alice",
-      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
+      "duration_ms": 180533,
+      "name": "Cheryl",
+      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -531,22 +535,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Savoy 10-inch LP Collection",
-        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
+        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Charlie Parker Quintet",
+          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Cheryl",
-      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+      "duration_ms": 166613,
+      "name": "Blues For Alice",
+      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
     },
     {
       "added_at": "2020-10-12 18:15:54",

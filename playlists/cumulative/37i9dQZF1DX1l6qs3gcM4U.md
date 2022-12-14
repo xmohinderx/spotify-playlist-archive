@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.
 
-281 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
+282 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [S'apitou](https://open.spotify.com/track/6DBpfXVlshm41vlnUIc0RL) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [DJ Nilson](https://open.spotify.com/artist/71pH8gMX4QzfxUfY1MMmoN) | [S'apitou](https://open.spotify.com/album/2G20nv24mp39VjRtegQ0GT) | 3:04 | 2022-06-24 | 2022-07-05 |
 | [Santiago](https://open.spotify.com/track/6n2wC4XVCaSVpJMxBPrJMN) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Newborn](https://open.spotify.com/album/2e4NJhy245HEz7npStshbg) | 2:56 | 2021-12-10 | 2022-07-28 |
 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 | 2021-12-10 |  |
-| [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 | 2022-11-04 |  |
+| [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 | 2022-11-04 | 2022-12-14 |
 | [Se Eu Pudesse](https://open.spotify.com/track/1Fpz7A3F56VQKfqz1KhGF5) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/1LvNFjKKFeCHlHkvB6Tdte) | 3:17 | 2021-12-10 | 2022-07-28 |
 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 | 2021-12-10 |  |
 | [Segredo](https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Segredo](https://open.spotify.com/album/0da7PRnY1SCzqWPJt5dtjv) | 3:50 | 2021-12-10 | 2022-07-28 |
@@ -241,6 +241,7 @@
 | [Somos 1](https://open.spotify.com/track/6GiWB6KR7UF0GnmMHlwgjK) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2), [Holijone](https://open.spotify.com/artist/71TfMnBIjqe2lJelLSfwTe) | [Best Of](https://open.spotify.com/album/6hLqMjq9C5MsgEXb2CWMid) | 4:04 | 2022-05-13 | 2022-05-24 |
 | [Soulmate](https://open.spotify.com/track/75wx16w6wsRycn3BlXgBGi) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Soulmate](https://open.spotify.com/album/33kIoOZDcVSoeZmDa2nuKY) | 2:53 | 2022-03-11 | 2022-04-20 |
 | [Sozinha Comigo](https://open.spotify.com/track/0Brl3FrVHMVQQWGenhMNgX) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Paerl](https://open.spotify.com/artist/2lo3Dku8TMdoRCQS3NEUbz), [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Sozinha Comigo](https://open.spotify.com/album/64Q6PKNmPCLW7eunei5Cf5) | 3:51 | 2021-12-10 | 2022-07-29 |
+| [Spadja Pé](https://open.spotify.com/track/77GqJV1VlOmOYuiKKOsSR1) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Spadja Pé](https://open.spotify.com/album/44eEnwTHqdpyDswxubqcWn) | 3:26 | 2022-12-09 |  |
 | [Sufri](https://open.spotify.com/track/1vd6txAL5vKVC0E4coywI4) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Sufri](https://open.spotify.com/album/4VAr6Sgblk74GHpakDjZuq) | 3:15 | 2022-02-18 | 2022-05-14 |
 | [Suleban](https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [RED](https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff) | 3:20 | 2021-12-10 |  |
 | [Super Mulher](https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Super Mulher](https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5) | 3:52 | 2021-12-10 | 2022-07-29 |

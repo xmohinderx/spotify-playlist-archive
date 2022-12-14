@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1073778,
+  "num_followers": 1075345,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGQ3MjRhY2ZmMjA0MGVjZjIyNzI5MGJjNmM5ZTZkZmE5",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGVlMDQzMDljODViYThiMDM0YTM1ODQ0MGRlZTRmMmUx",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "recently",
-        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 161929,
-      "name": "rises the moon",
-      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+      "duration_ms": 180853,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "recently",
+        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
         }
       ],
-      "duration_ms": 180853,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+      "duration_ms": 161929,
+      "name": "rises the moon",
+      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Coffee Breath",
-        "url": "https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE"
-      },
-      "artists": [
-        {
-          "name": "Sofia Mills",
-          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Coffee Breath",
-      "url": "https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "tape for when i'm sad",
         "url": "https://open.spotify.com/album/1EeYJrmjXcqx5PCZWu6WV1"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 84176,
       "name": "i don't feel part of the world anymore",
       "url": "https://open.spotify.com/track/11iiMB7TmFTtaXT4YJAltw"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Coffee Breath",
+        "url": "https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE"
+      },
+      "artists": [
+        {
+          "name": "Sofia Mills",
+          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Coffee Breath",
+      "url": "https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 184011,
+      "name": "more",
+      "url": "https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "ALLERGIC",
         "url": "https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f"
       },
@@ -1361,20 +1377,20 @@
       "url": "https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
         }
       ],
-      "duration_ms": 184011,
-      "name": "more",
-      "url": "https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK"
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1411,22 +1427,6 @@
       "duration_ms": 178480,
       "name": "I Can't Hate You",
       "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1533,6 +1533,22 @@
       "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Safe.",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Love Flew Away",
         "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 130279,
       "name": "Friends Don't Keep Secrets",
       "url": "https://open.spotify.com/track/63krJmqmJJ5j0bbWCfibuY"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     }
   ],
   "unique_name": "idk.",

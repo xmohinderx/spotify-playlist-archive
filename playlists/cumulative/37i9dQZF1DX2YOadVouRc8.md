@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-118 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
+119 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,9 +92,10 @@
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2022-06-09 |  |
 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-06-09 | 2022-10-01 |
 | [Peace Of Mind](https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Peace Of Mind](https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP) | 3:28 | 2022-06-09 |  |
+| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2022-12-13 |  |
 | [Pulling Up](https://open.spotify.com/track/2GHj2JqqPPByrkduQEQBYw) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [OTR Vol.2](https://open.spotify.com/album/6YbuBOhChrDQBd8jeIvhjj) | 3:03 | 2022-06-09 | 2022-11-19 |
 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 | 2022-11-04 |  |
-| [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 | 2022-06-09 |  |
+| [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 | 2022-06-09 | 2022-12-14 |
 | [Rosemary](https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed) | 3:08 | 2022-06-09 |  |
 | [SAME AS YOU](https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 2:50 | 2022-06-09 |  |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 |  |

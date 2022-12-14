@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 152342,
+  "num_followers": 152370,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDIzZjRjOTRjZTQ1YTY3YWUzZTJiNDZlZTFhMTczODU3",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGEyNjJlYjI0OWJhMzBmYzEwMzBhMDgyYjdlMTgzYjhm",
   "tracks": [
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Mi Ultima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Altamirano",
-          "url": "https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx"
-        }
-      ],
-      "duration_ms": 364226,
-      "name": "Dios a la Una",
-      "url": "https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Desde Adentro",
         "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 293186,
       "name": "La Tempranera",
       "url": "https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Mi Ultima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Altamirano",
+          "url": "https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx"
+        }
+      ],
+      "duration_ms": 364226,
+      "name": "Dios a la Una",
+      "url": "https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE"
     },
     {
       "added_at": "2022-02-21 19:44:42",

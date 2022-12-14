@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: Sade",
-  "num_followers": 3046275,
+  "num_followers": 3047301,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxODQ1NCwwMDAwMDAwMDUyMTJjNzBmNjZiNDAxMjA3MmI3ZjM3NmVmZjU2Zjhk",
+  "snapshot_id": "MTY2OTkxODQ1NCwwMDAwMDAwMGQ0YzIyZjU1ODI3MmJkNWMzZTMwNzBmMzVhMTdkYzNh",
   "tracks": [
     {
       "added_at": "2022-10-27 04:00:00",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Jade To The Max",
-        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
-      },
-      "artists": [
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
-    },
-    {
       "added_at": "2022-10-27 04:00:00",
       "album": {
         "name": "Love Deluxe",
@@ -923,6 +907,22 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
         "name": "Personal Conversation",
         "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Tyrese",
@@ -971,6 +955,22 @@
       "duration_ms": 290600,
       "name": "Sweet Lady",
       "url": "https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
     },
     {
       "added_at": "2022-07-28 15:25:39",

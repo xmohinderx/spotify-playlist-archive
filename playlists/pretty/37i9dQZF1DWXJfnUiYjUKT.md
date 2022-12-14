@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,030 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,203 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 36 | [Sea Lions](https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pink Balloon / Sea Lions](https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0) | 5:19 |
 | 37 | [Reality Television](https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [001](https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt) | 2:45 |
 | 38 | [Runaway](https://open.spotify.com/track/4c70PG49Nuw2LKaMwECqvv) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Runaway](https://open.spotify.com/album/1oF9fD7FtJVOffaB1Zplxk) | 2:30 |
-| 39 | [Miss U Already](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
+| 39 | [Miss U Already \(feat\. NoCap\)](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
 | 40 | [Síntomas de Soltera](https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Síntomas de Soltera](https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x) | 4:01 |
 | 41 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 |
 | 42 | [I Like](https://open.spotify.com/track/6zaoVw156UmdL8D3xOwggX) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [I Like](https://open.spotify.com/album/1NVTjDBAJGzgkCgnj9Mkuo) | 1:51 |

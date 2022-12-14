@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 125697,
+  "num_followers": 125908,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMDZiYzZiMTAyZmEzN2EwZDg2NDBkNTg0ZWQ4NGI5YTdm",
+  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMGZjNDU5NzhiMThhOTU0ZjBkZjUxYTBiZjFiZGVmYWVl",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -261,22 +261,6 @@
       "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
-    },
-    {
       "added_at": "2022-09-11 03:45:48",
       "album": {
         "name": "CLEARING",
@@ -291,6 +275,22 @@
       "duration_ms": 180000,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP"
+    },
+    {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -395,26 +395,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2022-08-31 05:00:32",
@@ -469,26 +469,6 @@
       "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
-      "added_at": "2022-09-22 17:52:51",
-      "album": {
-        "name": "The Order of the Rain",
-        "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "The Order of the Rain",
-      "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
-    },
-    {
       "added_at": "2022-08-13 00:53:45",
       "album": {
         "name": "Go On",
@@ -507,6 +487,26 @@
       "duration_ms": 286640,
       "name": "Go On",
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
+    {
+      "added_at": "2022-09-22 17:52:51",
+      "album": {
+        "name": "The Order of the Rain",
+        "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "The Order of the Rain",
+      "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
     },
     {
       "added_at": "2022-09-12 20:31:51",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -571,22 +587,6 @@
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2022-03-16 16:59:09",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Moot!",
+        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
+      },
+      "artists": [
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
+        }
+      ],
+      "duration_ms": 297239,
+      "name": "Right is Alright, Wrong is to Belong",
+      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
+    },
+    {
       "added_at": "2022-09-12 20:45:15",
       "album": {
         "name": "Just a moment",
@@ -743,22 +759,6 @@
       "duration_ms": 202040,
       "name": "Just a moment",
       "url": "https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Moot!",
-        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
-      },
-      "artists": [
-        {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
-        }
-      ],
-      "duration_ms": 297239,
-      "name": "Right is Alright, Wrong is to Belong",
-      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
       "added_at": "2022-09-11 03:49:06",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "As The Love Continues",
-        "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 310120,
-      "name": "Dry Fantasy",
-      "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
-    },
-    {
       "added_at": "2022-10-05 14:12:30",
       "album": {
         "name": "Gloss",
@@ -823,6 +807,22 @@
       "duration_ms": 145641,
       "name": "Gloss",
       "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "As The Love Continues",
+        "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 310120,
+      "name": "Dry Fantasy",
+      "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Room For The Moon",
         "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 338371,
       "name": "Plans",
       "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU"
     },
     {
       "added_at": "2022-03-30 04:28:53",
@@ -1037,20 +1037,24 @@
       "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
-      "added_at": "2022-09-29 00:40:57",
+      "added_at": "2022-09-27 21:46:39",
       "album": {
-        "name": "Shining Armor",
-        "url": "https://open.spotify.com/album/3le5wcPXJ8BLF948CQDk4n"
+        "name": "Las Tres Hermanas",
+        "url": "https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9"
       },
       "artists": [
         {
-          "name": "Mamalarky",
-          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+          "name": "De Juepuchas",
+          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
+        },
+        {
+          "name": "Las \u00c1\u00f1ez",
+          "url": "https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9"
         }
       ],
-      "duration_ms": 159480,
-      "name": "Shining Armor",
-      "url": "https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG"
+      "duration_ms": 229000,
+      "name": "Las Tres Hermanas",
+      "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -1067,22 +1071,6 @@
       "duration_ms": 369231,
       "name": "Unpeopled Space",
       "url": "https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
       "added_at": "2022-09-29 01:39:00",
@@ -1103,6 +1091,38 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
+      "added_at": "2022-09-29 00:40:57",
+      "album": {
+        "name": "Shining Armor",
+        "url": "https://open.spotify.com/album/3le5wcPXJ8BLF948CQDk4n"
+      },
+      "artists": [
+        {
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "Shining Armor",
+      "url": "https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Heartlow",
         "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 218925,
       "name": "Heartlow - Edit",
       "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
-    },
-    {
-      "added_at": "2022-09-27 21:46:39",
-      "album": {
-        "name": "Las Tres Hermanas",
-        "url": "https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9"
-      },
-      "artists": [
-        {
-          "name": "De Juepuchas",
-          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
-        },
-        {
-          "name": "Las \u00c1\u00f1ez",
-          "url": "https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Las Tres Hermanas",
-      "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
       "added_at": "2022-09-15 12:45:34",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
-      "added_at": "2022-09-21 02:36:16",
-      "album": {
-        "name": "Face The Music",
-        "url": "https://open.spotify.com/album/3X5l6ObXrQxDgwsCvGpOzt"
-      },
-      "artists": [
-        {
-          "name": "Lolina",
-          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
-        }
-      ],
-      "duration_ms": 460945,
-      "name": "Face The Music",
-      "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Fiesta",
@@ -1379,6 +1363,22 @@
       "duration_ms": 186580,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/1cj2R6d4t9S2qBNUOcSt0t"
+    },
+    {
+      "added_at": "2022-09-21 02:36:16",
+      "album": {
+        "name": "Face The Music",
+        "url": "https://open.spotify.com/album/3X5l6ObXrQxDgwsCvGpOzt"
+      },
+      "artists": [
+        {
+          "name": "Lolina",
+          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
+        }
+      ],
+      "duration_ms": 460945,
+      "name": "Face The Music",
+      "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
     },
     {
       "added_at": "2022-03-11 04:34:08",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
     },
     {
-      "added_at": "2022-07-14 12:42:06",
-      "album": {
-        "name": "Mapa",
-        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
-      },
-      "artists": [
-        {
-          "name": "Sundarbans",
-          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
-        }
-      ],
-      "duration_ms": 175849,
-      "name": "Mapa",
-      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
-    },
-    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Sunken Lupine",
@@ -1515,6 +1499,22 @@
       "duration_ms": 406162,
       "name": "Sunken Lupine",
       "url": "https://open.spotify.com/track/45Gj8HBuOtMjooXu3pLEOt"
+    },
+    {
+      "added_at": "2022-07-14 12:42:06",
+      "album": {
+        "name": "Mapa",
+        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
+      },
+      "artists": [
+        {
+          "name": "Sundarbans",
+          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
+        }
+      ],
+      "duration_ms": 175849,
+      "name": "Mapa",
+      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
       "added_at": "2022-08-25 19:38:46",

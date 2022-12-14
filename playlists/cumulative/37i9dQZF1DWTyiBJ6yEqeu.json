@@ -1676,6 +1676,24 @@
     },
     {
       "album": {
+        "name": "Close Eyes (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143769,
+      "name": "Close Eyes - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
+    },
+    {
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -8399,7 +8417,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"

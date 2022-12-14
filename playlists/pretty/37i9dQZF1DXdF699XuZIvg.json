@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 559935,
+  "num_followers": 560126,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2MTA0NCwwMDAwMDAwMGZjNGE5YzdlZWMyMjMzMzVlZWFhZGY1NGFhYzVkZTY2",
+  "snapshot_id": "MTY2NjM2MTA0NCwwMDAwMDAwMDQ2OWFiYzZiZmMyNTJhYmQwMjEwMzE2OTk1ZmFhYzYy",
   "tracks": [
     {
       "added_at": "2022-10-21 14:04:04",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        }
+      ],
+      "duration_ms": 219522,
+      "name": "Black and Red",
+      "url": "https://open.spotify.com/track/1DJVvKIX6niMWGUitYkM1f"
+    },
+    {
+      "added_at": "2022-10-21 14:04:04",
+      "album": {
         "name": "Erase You",
         "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 279306,
       "name": "Killed by Death",
       "url": "https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt"
-    },
-    {
-      "added_at": "2022-10-21 14:04:04",
-      "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
-      },
-      "artists": [
-        {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
-        }
-      ],
-      "duration_ms": 219522,
-      "name": "Black and Red",
-      "url": "https://open.spotify.com/track/1DJVvKIX6niMWGUitYkM1f"
     },
     {
       "added_at": "2022-10-21 14:04:04",

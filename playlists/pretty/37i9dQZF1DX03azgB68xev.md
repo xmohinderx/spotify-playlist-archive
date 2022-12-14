@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,111 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,109 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 60 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 |
 | 61 | [I Got You](https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:01 |
 | 62 | [Save Me \- Bonus Track](https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:23 |
-| 63 | [When You Speak](https://open.spotify.com/track/4K1pUPcKmm4hTfm23iJxhU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/4rHimJnaeT1UUWiSPq2kwy) | 2:59 |
+| 63 | [Just Like God](https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:03 |
 | 64 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
-| 65 | [Just Like God](https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:03 |
+| 65 | [When You Speak](https://open.spotify.com/track/4K1pUPcKmm4hTfm23iJxhU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/4rHimJnaeT1UUWiSPq2kwy) | 2:59 |
 | 66 | [Energía \- Remix](https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Energía \(Remix\)](https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx) | 4:26 |
 | 67 | [Roses](https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Roses](https://open.spotify.com/album/6lhTeH73cwlgrdtOS4PXLF) | 3:11 |
 | 68 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
 | 69 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 | 70 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
 
-Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMDBkZGE5MjFjNmIxNjUxODUzY2VjMjZjZDhiZTJiMjA2`
+Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMDc2NzAwMGU5OWEzMzIzYmRjMjM0ZDQ1YjA5YWIwMTYy`

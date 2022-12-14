@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a pleasant drive.",
-  "num_followers": 198486,
+  "num_followers": 198508,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2MTA3NTc3NywwMDAwMDAwMDY4ZjFiY2RiZTk3MDkxNjFmZGRkOTIwNGRkOTlmMTM5",
+  "snapshot_id": "MTU2MTA3NTc3NywwMDAwMDAwMGI2OTI2NTA2NjhkY2Y4YmZmN2Y5MDNhMjRmNGEwOGM2",
   "tracks": [
     {
       "added_at": "2019-06-21 00:09:37",
@@ -27,22 +27,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -175,22 +175,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Cheers to the Fall",
         "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 234106,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "On How Life Is",
-        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 204712,
       "name": "Paris in the Rain",
       "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "On How Life Is",
+        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Up from Below",
-        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Falling Like The Stars",
         "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 212720,
       "name": "Falling Like The Stars",
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Up from Below",
+        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "The World From The Side Of The Moon",
+        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 209693,
+      "name": "Gone, Gone, Gone",
+      "url": "https://open.spotify.com/track/56sxN1yKg1dgOZXBcAHkJG"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "Some Mad Hope",
         "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
       },
@@ -1939,22 +1955,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "The World From The Side Of The Moon",
-        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 209693,
-      "name": "Gone, Gone, Gone",
-      "url": "https://open.spotify.com/track/56sxN1yKg1dgOZXBcAHkJG"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/1ciAVKFdlpLi2eGDlXv6Bo"
       },
@@ -2003,6 +2003,22 @@
       "duration_ms": 286386,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "The World From The Side Of The Moon",
+        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2083,22 +2099,6 @@
       "duration_ms": 168520,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "The World From The Side Of The Moon",
-        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 196055,
       "name": "Honeybee",
       "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Train",
-        "url": "https://open.spotify.com/album/01aoYWjhjshlHf5vJNYb03"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "Meet Virginia",
-      "url": "https://open.spotify.com/track/4ocbH5ZJqajZIpUrqRUoue"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
       },
@@ -2663,6 +2647,22 @@
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Train",
+        "url": "https://open.spotify.com/album/01aoYWjhjshlHf5vJNYb03"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "Meet Virginia",
+      "url": "https://open.spotify.com/track/4ocbH5ZJqajZIpUrqRUoue"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -3203,22 +3203,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Something to Be",
-        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Ever the Same",
-      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Cover Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz"
       },
@@ -3251,18 +3235,18 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "My Private Nation",
-        "url": "https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1"
+        "name": "Something to Be",
+        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
         }
       ],
-      "duration_ms": 242200,
-      "name": "Calling All Angels",
-      "url": "https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB"
+      "duration_ms": 256600,
+      "name": "Ever the Same",
+      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -3279,6 +3263,22 @@
       "duration_ms": 208000,
       "name": "Honest",
       "url": "https://open.spotify.com/track/6KjbNLbRjuoa8rEq5yNA6H"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "My Private Nation",
+        "url": "https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "Calling All Angels",
+      "url": "https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB"
     }
   ],
   "unique_name": "Mellow Drive",

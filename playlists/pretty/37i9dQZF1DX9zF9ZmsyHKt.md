@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,266 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,298 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 |
 | 2 | [menina solta](https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [menina solta](https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR) | 2:30 |
 | 3 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
-| 4 | [Infiel \- Ao Vivo](https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 3:21 |
-| 5 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
+| 4 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
+| 5 | [Infiel \- Ao Vivo](https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 3:21 |
 | 6 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
 | 7 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
 | 8 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 16 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 17 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 |
 | 18 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
-| 19 | [Catedral](https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Zélia Duncan](https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl) | 2:50 |
-| 20 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
+| 19 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
+| 20 | [Catedral](https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Zélia Duncan](https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl) | 2:50 |
 | 21 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 22 | [Quem de nós Dois \(La Mia Storia Tra Le Dita\)](https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Rita Joana Iracema Carolina](https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK) | 5:05 |
 | 23 | [Minha Felicidade](https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte \(álbum Comentado\)](https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS) | 3:49 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 91 | [Coração](https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l) | [É o Que Temos](https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ) | 4:08 |
 | 92 | [Clareana](https://open.spotify.com/track/6QhseSwPVZ4QEusjnrCx9C) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Feminina](https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi) | 2:50 |
 | 93 | [Saudade](https://open.spotify.com/track/0JCHY20eQD4FvXmoTPwCXz) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Little Electric Chicken Heart](https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP) | 3:40 |
-| 94 | [Hitzão da Porra](https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Hitzão da Porra](https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ) | 2:12 |
-| 95 | [Você Pra Mim](https://open.spotify.com/track/2vqdtqRq1EY4cMwX9FkDCz) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh) | 4:27 |
+| 94 | [Você Pra Mim](https://open.spotify.com/track/2vqdtqRq1EY4cMwX9FkDCz) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh) | 4:27 |
+| 95 | [Hitzão da Porra](https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Hitzão da Porra](https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ) | 2:12 |
 | 96 | [Essa Vista](https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:52 |
 | 97 | [É Isso Aí](https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [É Isso Aí](https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U) | 3:21 |
 | 98 | [Acabou](https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Acabou](https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR) | 2:59 |
 | 99 | [Eu Amo Você](https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [TODXS](https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b) | 4:29 |
-| 100 | [Azul Moderno](https://open.spotify.com/track/01JLpmg9UguUoJS7AmlzqA) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/3ocMFmdWIfjrfNdHVFQ41I) | 3:54 |
+| 100 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
 
-Snapshot ID: `MTY2NTcyMDg1NywwMDAwMDAwMGQ4ZjNhZDMyZDI1ODM4OWMxMzE5OGZlMzAxMTRmMWFl`
+Snapshot ID: `MTY2NTcyMDg1NywwMDAwMDAwMDk4YzVlNWU5MjBlODkwNDYzMTVhNjc4ZGFjYzA3NDYw`

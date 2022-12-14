@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,908 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,882 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 25 | [In Dulci Jubilo](https://open.spotify.com/track/5Al7jcNFVr6sPXmO2jZpjX) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [In Dulci Jubilo](https://open.spotify.com/album/6g98k09O6i2x5RDn4hOPWQ) | 3:39 |
 | 26 | [I Wonder as I Wander](https://open.spotify.com/track/4MgmjwYiDDj7h0MZF8Km5m) | [Barron Ryan](https://open.spotify.com/artist/4gj7WndN1VykJMR3z4j9to) | [I Wonder as I Wander](https://open.spotify.com/album/5djuC60i0uFWvVhYbGLvOe) | 4:46 |
 | 27 | [Coventry Carol](https://open.spotify.com/track/6MX93EaPA2m5YtMOxSlyvv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Coventry Carol](https://open.spotify.com/album/3gNj1pBbG3MbswEnpdMDSl) | 3:29 |
-| 28 | [O Come All Ye Faithful](https://open.spotify.com/track/6lNQuXMNa4qdkny0gzgbeV) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [A Cello Christmas](https://open.spotify.com/album/0pciEObXXUDRudyHwJrgj7) | 2:32 |
+| 28 | [Oh Come All Ye Faithful](https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Oh Come All Ye Faithful](https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k) | 2:32 |
 | 29 | [The First Noel](https://open.spotify.com/track/0f9O0RNskatv4lzUK6axjy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 3:44 |
 | 30 | [I Saw Three Ships](https://open.spotify.com/track/4DHmQW2gtRc4Gx991GZrsS) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [I Saw Three Ships](https://open.spotify.com/album/7zV7gDophcjhvTynWSI9ju) | 2:28 |
 | 31 | [Santa Tell Me](https://open.spotify.com/track/2DCxWF4de4snGIze8xKw15) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Santa Tell Me](https://open.spotify.com/album/0OB5qNV3Nk6lbZpWNQI8jA) | 2:47 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 47 | [The Christmas Song](https://open.spotify.com/track/2ZqwIozv140VtUIcKllHQJ) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [The Christmas Song](https://open.spotify.com/album/1b1lifPc4Un5xuO9LJjcdd) | 3:15 |
 | 48 | [Feliz Navidad](https://open.spotify.com/track/6fdLagw34w7uPH65UpGe7y) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 4:23 |
 
-Snapshot ID: `MTY2OTk1MzYwMCwwMDAwMDAwMGRlZmZkODZlZjE2ZGFiMmNjZDRmYTBiNWM5ODlmM2Y0`
+Snapshot ID: `MTY2OTk1MzYwMCwwMDAwMDAwMDc0NDJhNmJiYWFhZDk5NDk0M2E3NmNiZjIwYzBiNTU4`

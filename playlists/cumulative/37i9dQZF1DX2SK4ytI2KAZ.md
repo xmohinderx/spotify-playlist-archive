@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-413 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+414 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 | 2022-06-27 |  |
 | [Love Is Mystical](https://open.spotify.com/track/4RJnzmVL12aIuWpMoXu2u4) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Love Is Mystical](https://open.spotify.com/album/5gmi6GYczChNiZSBdwtjBo) | 3:34 | 2022-03-11 | 2022-04-14 |
 | [Loveblood \- EP Version](https://open.spotify.com/track/2XfUjv7NEpUhOkpuiLCGZq) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [EP I](https://open.spotify.com/album/4GbJxHFVaQqyLIG7jH1sFX) | 4:04 | 2022-03-11 | 2022-04-18 |
-| [Malibu](https://open.spotify.com/track/10QrzyQVmkvx8BfnbiP41s) | [DD WALKER](https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS) | [Malibu](https://open.spotify.com/album/5MoZD1SHXuO11cZRqfB3C1) | 4:27 | 2022-10-07 |  |
+| [Malibu](https://open.spotify.com/track/10QrzyQVmkvx8BfnbiP41s) | [DD WALKER](https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS) | [Malibu](https://open.spotify.com/album/5MoZD1SHXuO11cZRqfB3C1) | 4:27 | 2022-10-07 | 2022-12-14 |
 | [Malibu](https://open.spotify.com/track/5oWqt7bB2RfNdRXLAweBKk) | [DD WALKER](https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS) | [Malibu](https://open.spotify.com/album/1kixbq1b85DJOqAk9p1l3X) | 4:27 | 2021-03-10 | 2022-07-29 |
 | [Malibu](https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Malibu](https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T) | 2:47 | 2022-07-29 |  |
 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 | 2021-03-10 |  |
@@ -405,6 +405,7 @@
 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-05-27 |  |
 | [Why Did You Run?](https://open.spotify.com/track/2xrRl0h13K2kqBpJN6P98Y) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9) | 3:53 | 2022-06-27 | 2022-12-03 |
 | [Why Did You Run?](https://open.spotify.com/track/3IMh0b6bFDuFNB7F0E0A9h) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Why Did You Run?](https://open.spotify.com/album/4sQoMHf0N0lmmpKwHFUrmj) | 3:53 | 2021-03-10 | 2022-07-13 |
+| [Why Did You Run?](https://open.spotify.com/track/4ascbpJ8eelgihjwUnmgwY) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 3:53 | 2022-10-07 |  |
 | [Wild](https://open.spotify.com/track/2F1Da8WqpBe5FGkRckppsC) | [Royal Teeth](https://open.spotify.com/artist/1niOQVlqnlW8hFqKSlbx7p) | [Act Naturally](https://open.spotify.com/album/2h8gvXkde0zvU7RTAI6j9h) | 4:33 | 2022-03-11 | 2022-04-21 |
 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-08-12 |  |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-04-29 | 2022-08-18 |

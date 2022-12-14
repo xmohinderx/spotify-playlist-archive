@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Yılın favori keşifleri\. Kapak: Beliz
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,692 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,707 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 7 | [Dans Edelim](https://open.spotify.com/track/1fwHzdxgmPFO9KTsCLB4IG) | [Buğra Pakbeşe](https://open.spotify.com/artist/3k86ZKtGHT82j6dbTAOnuU) | [Dans Edelim](https://open.spotify.com/album/7qcTVMsyqMnNusdQXf1pRP) | 3:35 |
 | 8 | [mavera](https://open.spotify.com/track/2OWy7ZHPxa3Rk1KP0vtsvN) | [Anıl Ulusoy](https://open.spotify.com/artist/4GiOCNBFYdYJ0e7trjiOaO), [Ibrahim Babayev](https://open.spotify.com/artist/3iBtFNr5qLRTtRtABm844Z) | [mavera](https://open.spotify.com/album/0qnmTvrrIvCy3Hkh7R1iRV) | 4:15 |
 | 9 | [Rüzgar](https://open.spotify.com/track/1SYMpOQoHGkPpU7c92honV) | [Lavta](https://open.spotify.com/artist/0j81DyR8CkOy6rGQzorqGa) | [Rüzgar](https://open.spotify.com/album/0b1a3Qmaph2uZmsHbIkKSD) | 2:49 |
-| 10 | [Güzel Günler](https://open.spotify.com/track/0Z36iZcJKIs8kDca3BBSMS) | [kerem](https://open.spotify.com/artist/5e0UFmjGemojlO14QuYZaV) | [Güzel Günler](https://open.spotify.com/album/1v8fw62iGJgfdqmmK3izZw) | 2:50 |
+| 10 | [Güzel Günler](https://open.spotify.com/track/4T3Vy9VPf6rFDtABvtYMKF) | [kerem](https://open.spotify.com/artist/5e0UFmjGemojlO14QuYZaV) | [Güzel Günler](https://open.spotify.com/album/7wSIvYq24UuY6CR8FqdyoW) | 2:50 |
 | 11 | [Bitmez Geceler](https://open.spotify.com/track/2JI3I3M3Nf4diqcGAaygCN) | [Bunfyah](https://open.spotify.com/artist/0chdiUtdJBgB8LKgE7od4N), [Cemre Arca](https://open.spotify.com/artist/46WhZAVIUhaGA0JidvlSgd) | [Bitmez Geceler](https://open.spotify.com/album/31yM1uCA2jPDxicLZmGlTC) | 5:48 |
 | 12 | [Okyanus](https://open.spotify.com/track/56HfqltadDCsQwNQpJ4puW) | [Kimera](https://open.spotify.com/artist/4T4Iw2jsjHVIYirEEZLfVm) | [Okyanus](https://open.spotify.com/album/4X7bzLUHwOXdLysKbdGnfR) | 2:42 |
 | 13 | [Kayıp Kalpler](https://open.spotify.com/track/0Vlm5upXlCBfXSEBd5E5Dk) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [Kayıp Kalpler](https://open.spotify.com/album/6prZZfS2XcFNYd0E7fHU56) | 2:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Gitgide Küçülüyorum](https://open.spotify.com/track/6eH32L0EqVhgUtv7dUXfxQ) | [Mesra](https://open.spotify.com/artist/3PUodAqBgw4qOl7Ln91J1B) | [Gitgide Küçülüyorum](https://open.spotify.com/album/6tM6ecnqDcCrCKOhYKsZv1) | 2:44 |
 | 75 | [Kız Güzel \- Acoustic Version](https://open.spotify.com/track/173Baezc2qopQ9IA75fQb5) | [Poşetimde Bir Somon](https://open.spotify.com/artist/0xoItt17FzjFLC3SyNFibQ) | [Kız Güzel \(Acoustic Version\)](https://open.spotify.com/album/4b8yWfe8Pd4qtcTU3I4VhE) | 3:04 |
 
-Snapshot ID: `MTY2OTgyMzU5OSwwMDAwMDAwMDMyMDljMzk4MTc0MzNhMWEwN2ZlODlhNDBlMGU5YmU1`
+Snapshot ID: `MTY2OTgyMzU5OSwwMDAwMDAwMDhhZjk5MDkyNWI4OTJiYzU2ZmZmZjQ3YmJlZjkwODM5`

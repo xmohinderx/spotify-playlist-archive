@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,497 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,617 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 28 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 |
 | 29 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 |
 | 30 | [Paké](https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Paké](https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA) | 3:40 |
-| 31 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 |
-| 32 | [Batom](https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Batom](https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7) | 3:32 |
+| 31 | [Batom](https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Batom](https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7) | 3:32 |
+| 32 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 |
 | 33 | [Clima](https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Clima](https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX) | 4:03 |
 | 34 | [Magico](https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Sem Limite](https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB) | 3:57 |
 | 35 | [Nha Mos](https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nha Mos](https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0) | 3:16 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 72 | [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 |
 | 73 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
 | 74 | [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 |
-| 75 | [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 |
+| 75 | [Spadja Pé](https://open.spotify.com/track/77GqJV1VlOmOYuiKKOsSR1) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Spadja Pé](https://open.spotify.com/album/44eEnwTHqdpyDswxubqcWn) | 3:26 |
 | 76 | [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 |
 | 77 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 |
 | 78 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 |
-| 79 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 |
-| 80 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 |
+| 79 | [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 |
+| 80 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 |
 
-Snapshot ID: `MTY3MDU0NDAwMCwwMDAwMDAwMDVlNzA0MDIxMzUwYjEwM2QxYjFiN2ZmOTdmNWQyNjk3`
+Snapshot ID: `MTY3MDU0NDAwMCwwMDAwMDAwMDFiNDgwNjVmNGZmNDYzY2RmMDIxNWNmZjE0NzY2NTRj`

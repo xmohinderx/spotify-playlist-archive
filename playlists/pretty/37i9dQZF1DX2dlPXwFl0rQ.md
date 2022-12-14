@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Marisol Terrazas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,410 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,445 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 45 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 |
 | 46 | [Te Aprovechas](https://open.spotify.com/track/4IBhHhbBSGRGrP6wXzRK2v) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6) | 3:07 |
 | 47 | [Si Tu Te Vas](https://open.spotify.com/track/0zt7aMpLsOcckqSxqedrwt) | [Jennifer Peña](https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf) | [Mis 20 Éxitos](https://open.spotify.com/album/3qI4cBRQr7DIMOEY7eXfHn) | 3:04 |
-| 48 | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3) | 3:02 |
-| 49 | [Cómo Te Olvido](https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 4:17 |
-| 50 | [Lo Que A Usted Le Falta](https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Lo Que A Usted Le Falta](https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts) | 2:48 |
-| 51 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
+| 48 | [Cómo Te Olvido](https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 4:17 |
+| 49 | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3) | 3:02 |
+| 50 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
+| 51 | [Lo Que A Usted Le Falta](https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Lo Que A Usted Le Falta](https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts) | 2:48 |
 | 52 | [Que Poquito Me Conoces](https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:30 |
 | 53 | [Con La Misma Piedra](https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6) | 3:39 |
 | 54 | [Hazme Tuya](https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Hazme Tuya](https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI) | 2:24 |
-| 55 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 |
-| 56 | [Y Sigues Siendo Tú](https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Y Sigues Siendo Tú](https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7) | 3:31 |
+| 55 | [Y Sigues Siendo Tú](https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Y Sigues Siendo Tú](https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7) | 3:31 |
+| 56 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 |
 | 57 | [Dos Botellas De Mezcal](https://open.spotify.com/track/28QfOZ6Z3ozknIq5g1Tf5C) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Dos Botellas De Mezcal](https://open.spotify.com/album/1GreuGxkG2mQaEqkU5w4Yg) | 3:23 |
 | 58 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 |
 | 59 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
 | 100 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 
-Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMDRmNWE3ZTIxZDdhODQ4NmFkMWM5ZWQ2OGMwOTBjMjBh`
+Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMDhmYWE5MTE4MDdhNDFhNTNlN2VlYTE4OTdjZjc4ODBj`

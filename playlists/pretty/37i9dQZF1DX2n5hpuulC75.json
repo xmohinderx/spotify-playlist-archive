@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 243978,
+  "num_followers": 244011,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGJiMWNiZGY5MWVmMmEyNGE3ZTM4ZTI4YzIyZGY5OWVj",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDA2MDZiMTdmZTk1ZTc3ZWVkNTVlZjQ0MDczMWQ1NWI1",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -215,6 +215,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Where Will We Go, Pt. 2",
+        "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 299839,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Feel It Still (The Remixes)",
         "url": "https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1"
       },
@@ -235,38 +251,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Where Will We Go, Pt. 2",
-        "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 299839,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Aromanticism",
-        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 188557,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Theres Still Us",
         "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 157384,
       "name": "I'm sorry",
       "url": "https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Aromanticism",
+        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 188557,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -323,6 +323,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE"
+      },
+      "artists": [
+        {
+          "name": "Mishegas",
+          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+        }
+      ],
+      "duration_ms": 192364,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Old Compilation 3",
         "url": "https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE"
-      },
-      "artists": [
-        {
-          "name": "Mishegas",
-          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
-        }
-      ],
-      "duration_ms": 192364,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "When U Go",
-        "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 212724,
-      "name": "When U Go - Edit",
-      "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Green Twins",
         "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 225360,
       "name": "Bet She Looks Like You",
       "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "When U Go",
+        "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 212724,
+      "name": "When U Go - Edit",
+      "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -519,22 +519,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Ayahuasca",
         "url": "https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6"
       },
@@ -565,6 +549,22 @@
       "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
     },
     {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "another time (world$tar money)",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "Your Own Truth",
@@ -615,6 +599,22 @@
       "duration_ms": 293613,
       "name": "Your Own Truth",
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",

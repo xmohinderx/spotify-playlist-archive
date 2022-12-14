@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 ### [Latest Romance Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Love Tunes.<br/>Cover : Prince
+> Check out the Latest Love Tunes.<br/>Cover : Vaathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,494 likes - 52 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,582 likes - 52 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 51 | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/track/2fln1y4AGWnEclguilGaca) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/album/1eBXLAdEXKoXPYZiyQtcuD) | 4:07 |
 | 52 | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/track/5TCmpwdXWcTvUvX52tHuOa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/album/5wGTuwwxCEhotwZpDTs6nL) | 3:01 |
 
-Snapshot ID: `MTY3MDMzMjUzNCwwMDAwMDAwMDg3ZTYwMjFlNzAyNDc4ZGY0NGY2MTc0Njg3NjA2Mjlh`
+Snapshot ID: `MTY3MDkzMjU1NSwwMDAwMDAwMDg1YzBhNmFiNWMxNjY3MjYzMjBhNjAyM2Y3ZDkyMjg5`

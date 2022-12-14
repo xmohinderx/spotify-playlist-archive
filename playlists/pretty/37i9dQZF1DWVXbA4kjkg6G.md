@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,669 likes - 75 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,091 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 23 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
 | 24 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 |
 | 25 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 |
-| 26 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
-| 27 | [Journey to Arnhemland](https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 5:22 |
-| 28 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |
-| 29 | [Sabrosa](https://open.spotify.com/track/3yOhl93toXcntCqDtAI7iL) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The In Sound From Way Out!](https://open.spotify.com/album/0nA01XOVBUoi1zDVVYKz4i) | 3:32 |
+| 26 | [Journey to Arnhemland](https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 5:22 |
+| 27 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
+| 28 | [Sabrosa](https://open.spotify.com/track/3yOhl93toXcntCqDtAI7iL) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The In Sound From Way Out!](https://open.spotify.com/album/0nA01XOVBUoi1zDVVYKz4i) | 3:32 |
+| 29 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |
 | 30 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:07 |
 | 31 | [Timber](https://open.spotify.com/track/5jby7celTQUoYjAht8peNh) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Let Us Play](https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH) | 4:32 |
 | 32 | [Modular Mix](https://open.spotify.com/track/4NsBEdmbgu9u8cH21ycyBv) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Premiers Symptômes](https://open.spotify.com/album/3g9O7pvuaaFRvdzsoSJXVc) | 5:59 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 72 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
 | 73 | [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 |
 | 74 | [ESSENTIAL DUB](https://open.spotify.com/track/7HMSAvaWG8k1BDHidNBIEd) | [MAJOR FORCE PRODUCTIONS](https://open.spotify.com/artist/5Z99aXhW98nAr8Y6SLF08c) | [MAJOR FORCE RARE TRACKS](https://open.spotify.com/album/2iwcIsLMS4YqlW0h4OwgDd) | 4:58 |
-| 75 | [Black Jesus](https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
+| 75 | [City Lights \- City of Starsigns](https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX) | [Patrick Pulsinger](https://open.spotify.com/artist/3MXePESrFifdxyENQfsaid) | [Dogmatic Sequences, Vol\. 2](https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi) | 5:58 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMGUyNWUwNjNmODc3M2EzMzgyZTM0YWI3OWYxZjg2ZjU2`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMGE2MzBlNjVlYWEzZmVhMzc0MmU1ZTkzZGVjNmVjMDBh`

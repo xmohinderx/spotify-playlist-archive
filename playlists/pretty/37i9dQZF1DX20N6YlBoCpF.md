@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=b\-Urtz3dTsCCO4iRJ6qBLQ">Gerhard Steyn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,998 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,024 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

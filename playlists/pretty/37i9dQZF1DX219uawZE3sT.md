@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,486 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,531 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 47 | [Amor \(Amor, amor, amor\)](https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:42 |
 | 48 | [Por Amarte \(Destilando Amor\)](https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enamorado](https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne) | 3:49 |
 | 49 | [Mi tesoro](https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mi tesoro](https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY) | 3:29 |
-| 50 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:14 |
-| 51 | [Mi Corazón Es Tuyo](https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [Kaay](https://open.spotify.com/artist/2SvbyJMDoNgCJIYpQiFx5v) | [Desequilibrio](https://open.spotify.com/album/1HqNCyE4T5lD1R1CYnE4Se) | 3:02 |
+| 50 | [Mi Corazón Es Tuyo](https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [Kaay](https://open.spotify.com/artist/2SvbyJMDoNgCJIYpQiFx5v) | [Desequilibrio](https://open.spotify.com/album/1HqNCyE4T5lD1R1CYnE4Se) | 3:02 |
+| 51 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:14 |
 | 52 | [En Su Lugar](https://open.spotify.com/track/4w5F6hkJO5Gr1h0tDDPbg1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:46 |
 | 53 | [Amor Real](https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:05 |
 | 54 | [Mentira](https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Solo Bolero](https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch) | 4:43 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 58 | [Amor Gitano](https://open.spotify.com/track/1Kd5Qj9kicqjCw1BjWRzH0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:48 |
 | 59 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 |
 | 60 | [A Dónde Va Nuestro Amor \- Versión Telenovela](https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [De Días y de Noches \(En Vivo\) \(Centro Cultural Roberto Cantoral\)](https://open.spotify.com/album/1M80e2cT0RjwiumdKlk4aw) | 3:31 |
-| 61 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
-| 62 | [Poco A Poco](https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO) | [Jeremías](https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E) | [Jeremías](https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1) | 4:23 |
+| 61 | [Poco A Poco](https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO) | [Jeremías](https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E) | [Jeremías](https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1) | 4:23 |
+| 62 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
 | 63 | [Dime](https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB) | [Aranza](https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB) | [Mirada de Mujer](https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3) | 2:59 |
 | 64 | [Tres palabras](https://open.spotify.com/track/67HOYnFs2hqbKKRNz0YfY8) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Luis Miguel \(Edición De Lujo\)](https://open.spotify.com/album/3MpbAt21ozNGRmmLCmP2ed) | 2:55 |
 | 65 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [Corazón Que Miente](https://open.spotify.com/track/4f7bWZTU5RDLAnD3DkLScO) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazón Que Miente](https://open.spotify.com/album/1mWGwFqEGAfvm6qh8PAOgr) | 3:20 |
 | 70 | [Se Dice de Mi \(Yo Soy Betty la Fea\) \(Versión Completa\)](https://open.spotify.com/track/6oq52sFxdbZn9JOJPXcNSc) | [Yolanda Rayo](https://open.spotify.com/artist/6huV8wdNiXy3qqVuvXAquU) | [Se Dice de Mi, Yo Soy Betty la Fea.](https://open.spotify.com/album/58XAbuYyEa6UV5wIuEgN2x) | 2:25 |
 
-Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDcwNjU3NGIyNzIwYzY2ZWRlZmZjYjJmYjE2ZGZiMDI3`
+Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDJmMTMwMmJjMTAwNjllZDU3YjZiM2NkY2ZiODdkOTI4`

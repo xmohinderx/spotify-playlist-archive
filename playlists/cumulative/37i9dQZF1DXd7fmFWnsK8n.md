@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-118 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/1uSHSuxOWBP2EXOAgcFytc)
+119 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/1uSHSuxOWBP2EXOAgcFytc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 | 2022-06-09 |  |
 | [Ache](https://open.spotify.com/track/0gaM0xYRyVebGj1YPx608K) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:06 | 2022-06-09 | 2022-09-21 |
 | [Bang!Bang!Bang!](https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Bang!Bang!Bang!](https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg) | 4:21 | 2022-06-09 |  |
+| [BLACK TlGER](https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Źenit \- EP](https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS) | 3:48 | 2022-12-13 |  |
 | [Boys & Girls](https://open.spotify.com/track/17cQxYJ2mcanjoPMwDYAxz) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Opus](https://open.spotify.com/album/6Z3MIv6zLb1bk2aOMGbGsi) | 4:06 | 2022-06-14 | 2022-07-23 |
 | [Crescent rise](https://open.spotify.com/track/4eFTSvQq9wmNZ1lW1YLZJd) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Crescent rise](https://open.spotify.com/album/3YZZ5tD78xFEa1C9YbOgmC) | 5:36 | 2022-06-09 | 2022-07-29 |
 | [Dancing∞BEAT!!](https://open.spotify.com/track/16uBIBXoHbN9fIMLgDIKoP) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:47 | 2022-06-14 | 2022-07-10 |
@@ -93,7 +94,7 @@
 | [Unbalance Shadow](https://open.spotify.com/track/7wgBmjTYT4rD1mSbmur4KG) | [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25), [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:21 | 2022-06-09 |  |
 | [Up to the nines](https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [Up to the nines](https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI) | 3:51 | 2022-06-09 |  |
 | [VALIANT](https://open.spotify.com/track/424AgS6PRyYRbIWrD8IZR8) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [VARIANT](https://open.spotify.com/album/5n3Xy8ZGY9kRNJ1TGpq2VV) | 3:11 | 2022-06-09 | 2022-07-23 |
-| [Viva! Fantastic Life!!!!!!!](https://open.spotify.com/track/1cEUUpMv30fWDebbB2yVrQ) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:06 | 2022-06-09 |  |
+| [Viva! Fantastic Life!!!!!!!](https://open.spotify.com/track/1cEUUpMv30fWDebbB2yVrQ) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:06 | 2022-06-09 | 2022-12-14 |
 | [WiSH VOYAGE](https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:07 | 2022-06-09 |  |
 | [WONDER LiGHT](https://open.spotify.com/track/3DxQteR3hlJvFGR3NrH7IL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WONDER LiGHT](https://open.spotify.com/album/2IrYnafy5p44G36o8eDvJs) | 3:27 | 2022-10-04 |  |
 | [ZONE OF OVERLAP](https://open.spotify.com/track/3G7t21C567I2ryejOVX2ue) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Bang!Bang!Bang!](https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg) | 4:01 | 2022-06-09 | 2022-10-05 |

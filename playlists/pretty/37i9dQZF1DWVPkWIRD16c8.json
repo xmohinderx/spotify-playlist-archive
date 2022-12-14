@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 29787,
+  "num_followers": 29809,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGMwZTE3YmRjMzI4ZDAxNTA1YWIzNjUyYmVmMzdiZTZk",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDU0MGVmYmY3YTE5MTZjZGFiZjVhMWE1OGUxZDNiZTgw",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -739,6 +739,26 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Fill This Place (Live)",
+        "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        },
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "duration_ms": 248854,
+      "name": "I'm Listening - Radio Version",
+      "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 214665,
       "name": "Me Without You",
       "url": "https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Fill This Place (Live)",
-        "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 248854,
-      "name": "I'm Listening - Radio Version",
-      "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
     },
     {
       "added_at": "2019-11-20 07:28:20",

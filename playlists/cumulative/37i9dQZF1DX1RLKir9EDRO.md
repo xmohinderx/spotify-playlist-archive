@@ -4,7 +4,7 @@
 
 > Yılın favori keşifleri\. Kapak: Beliz
 
-254 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+255 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Günahlar Sırtımda](https://open.spotify.com/track/1PlQMvA5TbVghFRnnGT5Xd) | [Noransi](https://open.spotify.com/artist/2s6SS529g8w7H7QePDgUoO), [Michelly Possu](https://open.spotify.com/artist/3Xel3jD7uU48RbuVAEgj0t), [Info](https://open.spotify.com/artist/4WvfRQtWShkLA2RpnhNYHo) | [Günahlar Sırtımda](https://open.spotify.com/album/0qHG6uxbX5XVbW3WRDRCOX) | 3:41 | 2022-01-19 | 2022-03-01 |
 | [Güneş](https://open.spotify.com/track/5YsZwuniZPYn632y4s5X6J) | [Furkan Cavus](https://open.spotify.com/artist/1wv2oVX9UfB1GEMkBuHZJi), [Melisa Zey](https://open.spotify.com/artist/1FNdc4PQxmYAWMG7tp5t4D) | [Güneş](https://open.spotify.com/album/1MNXcUd6Mi0c2js512GVyJ) | 3:13 | 2022-07-19 | 2022-12-01 |
 | [Güz Günü](https://open.spotify.com/track/0NFEgeBl5CQ1fTtP71cElv) | [Evtheband](https://open.spotify.com/artist/5WXSTYgeLCWQ97p4HPLweA) | [Güz Günü](https://open.spotify.com/album/3Fuel5hpyqGKp793uivNsf) | 4:41 | 2021-12-03 | 2022-07-20 |
-| [Güzel Günler](https://open.spotify.com/track/0Z36iZcJKIs8kDca3BBSMS) | [kerem](https://open.spotify.com/artist/5e0UFmjGemojlO14QuYZaV) | [Güzel Günler](https://open.spotify.com/album/1v8fw62iGJgfdqmmK3izZw) | 2:50 | 2022-05-05 |  |
+| [Güzel Günler](https://open.spotify.com/track/0Z36iZcJKIs8kDca3BBSMS) | [kerem](https://open.spotify.com/artist/5e0UFmjGemojlO14QuYZaV) | [Güzel Günler](https://open.spotify.com/album/1v8fw62iGJgfdqmmK3izZw) | 2:50 | 2022-05-05 | 2022-12-14 |
+| [Güzel Günler](https://open.spotify.com/track/4T3Vy9VPf6rFDtABvtYMKF) | [kerem](https://open.spotify.com/artist/5e0UFmjGemojlO14QuYZaV) | [Güzel Günler](https://open.spotify.com/album/7wSIvYq24UuY6CR8FqdyoW) | 2:50 | 2022-11-30 |  |
 | [Hadi Dans Et](https://open.spotify.com/track/5Cs6Ri9CbFFhEwKXLfRvek) | [Eskiden](https://open.spotify.com/artist/5X2OLX4RRILnFXKoCRm5PZ) | [Hadi Dans Et](https://open.spotify.com/album/5mh8vl3lQfQuVileKyfmLW) | 4:00 | 2022-04-15 |  |
 | [Halime Gülüyorum](https://open.spotify.com/track/1iTR5IyKMwKVfy8cUO16e8) | [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Olmuyor Böyle](https://open.spotify.com/album/0UKC1bSDFuCunQZudf6jnt) | 3:47 | 2021-12-03 | 2022-04-16 |
 | [Hatıran](https://open.spotify.com/track/00vwINV7uhO3jTT3IjrINc) | [Frozen Clouds](https://open.spotify.com/artist/0M3LK8CPC8luVRntRVHwAp), [3pillie](https://open.spotify.com/artist/2weWfVL0xj5ceW9iubSltS) | [Hatıran](https://open.spotify.com/album/0zIYztETFlwvaxBvOzp2K7) | 4:43 | 2022-09-20 | 2022-12-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,231 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,257 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 30 | [Sleepless Nights \(feat\. Phoelix\)](https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:59 |
 | 31 | [no sense](https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [no sense](https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li) | 2:50 |
 | 32 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 |
-| 33 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9) | 3:22 |
-| 34 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 |
+| 33 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 |
+| 34 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9) | 3:22 |
 | 35 | [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 |
 | 36 | [Scoring](https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [TwoFr 2](https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK) | 3:05 |
 | 37 | [Shhh](https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Shhh](https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 49 | [Too Much to Ask](https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz) | 3:47 |
 | 50 | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub) | 3:55 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGUyZTAzZTNjZDdkYTUzZGVlNjVhZGQ5NTk1MmQ4NGMy`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGY4NDkyMDk4NThiMGE3Mzg4NWM3YzNmM2NmYTliZjNk`

@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-97 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
+99 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2022-03-11 |  |
 | [Full Moon](https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI) | 3:02 | 2022-03-11 |  |
 | [Go to Sleep My Teddy Bear](https://open.spotify.com/track/2frrIhxZdD67NYk0bX4Uai) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [Songs For Children, Vol\. 2](https://open.spotify.com/album/1xM7IU1K3OrgJrAGvs67Tc) | 1:19 | 2022-03-11 |  |
-| [Golden Slumbers](https://open.spotify.com/track/4wDjXh9DyUisZAZ7V2EVb7) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Golden Slumbers](https://open.spotify.com/album/26HS7AIvR0Sb1smgYK98xt) | 2:15 | 2022-03-11 |  |
+| [Golden Slumbers](https://open.spotify.com/track/4wDjXh9DyUisZAZ7V2EVb7) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Golden Slumbers](https://open.spotify.com/album/26HS7AIvR0Sb1smgYK98xt) | 2:15 | 2022-03-11 | 2022-12-14 |
+| [Golden Slumbers](https://open.spotify.com/track/4zSTcxSkj1SuHXoB0inmMj) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Dreams](https://open.spotify.com/album/7ncEZ4CS2B8estE57JkkG1) | 2:15 | 2022-03-11 |  |
 | [Good Night](https://open.spotify.com/track/4dsDamCdYIyxQhKg5y7W39) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs & Lullabies](https://open.spotify.com/album/0TmJVpPygubYNn8dMsmtsY) | 2:32 | 2022-03-11 |  |
 | [Good Night](https://open.spotify.com/track/6XIVXKOjICtiAsbet18HND) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 3:48 | 2022-03-11 |  |
 | [Goodnight](https://open.spotify.com/track/2xUJOHPTKldZ6RdgqVT7gf) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa) | 3:20 | 2022-03-11 | 2022-07-29 |
@@ -88,7 +89,8 @@
 | [Somewhere Only We Know](https://open.spotify.com/track/1gjzrOrBfjv21A6Ol9GhcY) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Christmas: The Collection \(50 of the Greatest Original Xmas Hits\)](https://open.spotify.com/album/7bwBbFF8jfX6zqudzmxF2l) | 3:28 | 2022-03-11 |  |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/43Q4KALeZvDtLxH7GztgeK) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby, Vol.2](https://open.spotify.com/album/1cjgBwwG52o3cZQOyMcjZT) | 2:55 | 2022-03-11 |  |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/0RCaO2RKZSXsaDk8bpatpi) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby, Vol\. 2](https://open.spotify.com/album/0jAoTfUdILoNxyxEuEZJpm) | 2:55 | 2022-03-11 | 2022-07-29 |
-| [Somewhere Over the Rainbow](https://open.spotify.com/track/7mYEKvsWn7I9kPoW079vEL) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/6FI2xG0L76ow41nQTWcEPg) | 2:51 | 2022-03-11 |  |
+| [Somewhere Over the Rainbow](https://open.spotify.com/track/7jfoeT6J6bLHf6rgksNS6F) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/6llW0Vf3YYuvnWC64o9cIB) | 2:51 | 2022-03-11 |  |
+| [Somewhere Over the Rainbow](https://open.spotify.com/track/7mYEKvsWn7I9kPoW079vEL) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/6FI2xG0L76ow41nQTWcEPg) | 2:51 | 2022-03-11 | 2022-12-14 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 | 2022-03-11 |  |
 | [The Goodnight Song](https://open.spotify.com/track/4P2Na81VGRFOA9Gf7BykUX) | [Blake Wonders](https://open.spotify.com/artist/1EeQbJWCTnmZ5Np6QBEWxu) | [The Goodnight Song](https://open.spotify.com/album/2FINMH50M6gjbZ82Zuptp4) | 3:06 | 2022-03-11 |  |
 | [Three Little Birds](https://open.spotify.com/track/3PmyRCChFNofwqZNd8spmM) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5) | [It's a Big World](https://open.spotify.com/album/0YvbQAofFp33MyqSF6bO9w) | 3:42 | 2022-03-11 |  |

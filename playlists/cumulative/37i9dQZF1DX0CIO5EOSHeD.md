@@ -2,9 +2,9 @@
 
 ### [Lo\-fi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
 
-> Slacker jams\. Cover: Eyedress
+> Slacker jams\. Cover: d4vd
 
-332 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+334 songs - 17 hr 54 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,13 +33,13 @@
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-30 |  |
 | [Apex](https://open.spotify.com/track/7iKBBvHlTccAOg62uOC0jx) | [Melis](https://open.spotify.com/artist/2KocQ1sDusS8f9Gppxew1g) | [Apex](https://open.spotify.com/album/5MRcdjmdGpvovXlF63NVz6) | 4:09 | 2020-10-27\* | 2021-02-26 |
 | [Arp\-87](https://open.spotify.com/track/0VdOve6hETT3KF9u4v1QQ1) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Arp\-87](https://open.spotify.com/album/7FoR9yVEiQEp5DgXcCz6Sa) | 2:49 | 2020-10-27\* | 2022-10-19 |
-| [Arp\-87](https://open.spotify.com/track/5On6JIPxzzvVZ40ViSzydm) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Arp\-87](https://open.spotify.com/album/3XEUvW827y0tEadUoLhssf) | 2:49 | 2022-09-13 |  |
+| [Arp\-87](https://open.spotify.com/track/5On6JIPxzzvVZ40ViSzydm) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Arp\-87](https://open.spotify.com/album/3XEUvW827y0tEadUoLhssf) | 2:49 | 2022-09-13 | 2022-12-14 |
 | [Artbook](https://open.spotify.com/track/3hDg7qkEQjEdfYz9nbewvs) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Artbook](https://open.spotify.com/album/0GcS4KiaFb2Xm0cVF7skIM) | 2:50 | 2021-09-25 | 2022-07-09 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2021-08-11 | 2022-11-13 |
 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 | 2022-09-13 |  |
 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 | 2022-09-13 |  |
 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-09-18 | 2022-09-09 |
-| [Attention](https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN) | 2:46 | 2021-05-21 |  |
+| [Attention](https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN) | 2:46 | 2021-05-21 | 2022-12-14 |
 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 | 2021-08-22 |  |
 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2021-05-22 | 2022-11-14 |
 | [backseat](https://open.spotify.com/track/2ivpTUIMtk6YUWmEGEfbpN) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [backseat](https://open.spotify.com/album/7nYjwblIZN4P6q597kmjNO) | 3:17 | 2021-10-29 | 2022-07-29 |
@@ -77,6 +77,7 @@
 | [Changing](https://open.spotify.com/track/21ivnWB0BI4ufevCj5SqyQ) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Changing](https://open.spotify.com/album/6RzesJqEgRAREVaMIRU9Ve) | 3:47 | 2020-10-27\* | 2022-07-28 |
 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 | 2022-03-30 |  |
 | [Clouded](https://open.spotify.com/track/5MO5nWUWyfmSbIzOAq9zXD) | [Swim Mountain](https://open.spotify.com/artist/0k03iT1wmiddzXpZD2spn7) | [Clouded](https://open.spotify.com/album/77ysxSuObtPndrSOiPHR4Z) | 3:23 | 2020-10-27\* | 2021-02-26 |
+| [Cold Like Me](https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife \(Deluxe\)](https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc) | 3:02 | 2022-12-13 |  |
 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 | 2022-02-03 |  |
 | [cool kid](https://open.spotify.com/track/7Iq3WKDjRaGyYjaAZr0Lcx) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [cool kid](https://open.spotify.com/album/2AXY3PdfKoLLcIHtEfPSZN) | 4:02 | 2021-06-19 | 2022-07-22 |
 | [Dance In Room Song](https://open.spotify.com/track/52sDdbKEy6OQbv36sU2lSD) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:51 | 2022-02-03 |  |
@@ -185,6 +186,7 @@
 | [Late Smoke](https://open.spotify.com/track/1bAMwlbkQSpHYQB34VsV6B) | [crytothemoon](https://open.spotify.com/artist/0FKZcqak2HXauS8TvS9u6g) | [Late Smoke](https://open.spotify.com/album/7gRDfW6TOP8cBlbbdQAXzg) | 2:27 | 2020-10-27\* | 2022-07-27 |
 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 | 2022-03-30 |  |
 | [Laying out Your Web](https://open.spotify.com/track/2RQbHBSGpU3CmkHUBEWIYJ) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Laying out Your Web](https://open.spotify.com/album/4kK8DRKFsGxfOCAgggFSzt) | 3:00 | 2020-11-27 | 2022-07-29 |
+| [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 | 2022-12-13 |  |
 | [Little Miss \(lo\-fi\)](https://open.spotify.com/track/3FBNno5v7wqN7vBO3jzuxs) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Little Miss \(lo\-fi\)](https://open.spotify.com/album/4jgPtir9bInMQoqxo1MTTY) | 2:48 | 2022-03-17 | 2022-07-26 |
 | [Locked Up Pt\. 1](https://open.spotify.com/track/3jhwRS4l4oeKR3qsWV6hLU) | [Yessam](https://open.spotify.com/artist/4MBxbyCsunGarK30GdEz90) | [Emotional](https://open.spotify.com/album/4bBX3BXmopgqaW9X49dEe3) | 3:15 | 2021-07-11 | 2022-05-20 |
 | [loml](https://open.spotify.com/track/52ybxykd8QLTOrOt4T9lkx) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [loml](https://open.spotify.com/album/0oCkYtSrevUiBonNbvUwZu) | 2:40 | 2021-10-23 | 2022-06-11 |

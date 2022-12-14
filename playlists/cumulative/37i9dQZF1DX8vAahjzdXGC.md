@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Keisya Levronka
 
-14,211 songs - 33 day 23 hr 16 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+14,212 songs - 33 day 23 hr 21 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3185,7 +3185,7 @@
 | [Don't Be Shy Hurt Me More](https://open.spotify.com/track/4r5R4cHq6L0dWzu3jpJm5m) | [Baskoro Teguh](https://open.spotify.com/artist/4NoTFibZl5Z9hh9z0Qqwg3), [Bandesa Mardisson](https://open.spotify.com/artist/1adPSX9vVNn07UQm6nQKRU) | [Don't Be Shy Hurt Me More](https://open.spotify.com/album/66hfTuCXEtcG6Dxn4ySyTf) | 3:52 | 2021-12-23 | 2021-12-31 |
 | [Don't Blame It On Love](https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Don't Blame It On Love](https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv) | 3:17 | 2021-06-25 | 2021-07-02 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-27 | 2022-02-04 |
-| [Don't Break My Heart Again !](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again !](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 | 2022-12-08 |  |
+| [Don't Break My Heart Again!](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again!](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 | 2022-12-08 |  |
 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 | 2021-09-03 | 2021-09-10 |
 | [Don't Call Me](https://open.spotify.com/track/4bjyJV8VRlEEMWxq2fhRGS) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Don't Call Me](https://open.spotify.com/album/1bW5ZZqDPzDruiVAcW9vIj) | 2:44 | 2020-09-25 | 2020-10-02 |
 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 | 2021-02-26 | 2021-03-06 |
@@ -13801,7 +13801,8 @@
 | [With You](https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [With You](https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN) | 2:53 | 2022-10-20 | 2022-10-28 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-28 | 2022-05-06 |
 | [With You \(Baby\)](https://open.spotify.com/track/1kro5ZC8DTYz42Y1YO1bTp) | [Dhipa Pramudya](https://open.spotify.com/artist/1ChgMF6QgfNquRkguZopoQ), [Wern Records](https://open.spotify.com/artist/7tlcxAPjBzanUPa0aaUKqY) | [With You \(Baby\)](https://open.spotify.com/album/2sMDdmYbq7GQ92gNc9RlrD) | 2:41 | 2020-12-18 | 2020-12-25 |
-| [WITH YOU \- TC/TC](https://open.spotify.com/track/3bve5HCAhW1LANewmTmb2m) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/7bgPPiVyDh38iln4l0wIo7) | 4:52 | 2022-12-08 |  |
+| [WITH YOU \- TC/TC](https://open.spotify.com/track/03oQVOKI33bkJFUOv7ERle) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/4ZInl14znkzy0u6OQBgmxZ) | 4:52 | 2022-12-08 |  |
+| [WITH YOU \- TC/TC](https://open.spotify.com/track/3bve5HCAhW1LANewmTmb2m) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/7bgPPiVyDh38iln4l0wIo7) | 4:52 | 2022-12-08 | 2022-12-14 |
 | [without me \(sera\)](https://open.spotify.com/track/3Fo63qSrhe1mJNdn9m33LW) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [without me \(sera\)](https://open.spotify.com/album/6tuz5NorXINANet6zv1qM1) | 3:39 | 2022-05-12 | 2022-05-20 |
 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 | 2022-05-26 | 2022-06-03 |
 | [Without You](https://open.spotify.com/track/0fFop1LLWTCEk3iiALwTQ9) | [Mbvert](https://open.spotify.com/artist/334kF0JVdGgEddfEO4Lftl) | [Without You](https://open.spotify.com/album/3rCmCqe7ezh4XL1mNV33ns) | 3:05 | 2020-12-11 | 2020-12-18 |
@@ -14176,7 +14177,7 @@
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2022-11-17 | 2022-11-25 |
 | [僕と僕](https://open.spotify.com/track/3lSrh4kBSDHvPeRigb07Z2) | [Takaya Kawasaki](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [カレンダー](https://open.spotify.com/album/1T18qFuxU67pmxaZWQRY3f) | 4:55 | 2021-12-16 | 2021-12-24 |
 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 | 2021-01-23 | 2021-01-29 |
-| [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 | 2022-12-08 |  |
+| [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Utada Hikaru](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 | 2022-12-08 |  |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-25 | 2022-09-02 |
 | [君に夢中](https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [君に夢中](https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA) | 4:17 | 2021-11-26 | 2021-12-03 |
 | [君の声 \(Your voice\)](https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [iKON JAPAN TOUR 2022 \[FLASHBACK\] \(Live\)](https://open.spotify.com/album/2vvQxmQOjAgMrlU1MT0qcC) | 3:20 | 2022-10-13 | 2022-10-21 |

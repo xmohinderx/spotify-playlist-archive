@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,442 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,459 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 6 | [La Canción de Linyera](https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 4:45 |
 | 7 | [Voy a Apagar la Luz](https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8) | [Julia Vari](https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky) | [Adoro](https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf) | 5:27 |
 | 8 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 |
-| 9 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 |
+| 9 | [Caminos de Ayer](https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E), [Fernando Zenaido Maldonado](https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv) | [Blues](https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox) | 2:59 |
 | 10 | [Slow Down](https://open.spotify.com/track/0Y7tyEIEU53veA4CSclkYx) | [Juan Pedro Organ Trio](https://open.spotify.com/artist/6yBn06PNNg00t9Ac2VZrod) | [Advice from a Cat](https://open.spotify.com/album/2KIcHA2MmEM4mGjtT1JVn1) | 7:50 |
-| 11 | [Caminos de Ayer](https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E), [Fernando Zenaido Maldonado](https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv) | [Blues](https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox) | 2:59 |
-| 12 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 |
+| 11 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 |
+| 12 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 |
 | 13 | [Mambo en Sax](https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dilo! Homenaje a Pérez Prado](https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY) | 3:15 |
 | 14 | [Suite Yusef Lateef](https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Guillaume Pouget](https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE) | [Kumoi](https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU) | 2:07 |
 | 15 | [Naila](https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 5:03 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 19 | [Breakfast At Tiffany's](https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd) | [Abraham Laboriel](https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW) | [Guidum](https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx) | 2:47 |
 | 20 | [Advice from a Cat](https://open.spotify.com/track/7bOCfp28AAuLbA2OREiMfF) | [Juan Pedro Organ Trio](https://open.spotify.com/artist/6yBn06PNNg00t9Ac2VZrod) | [Advice from a Cat](https://open.spotify.com/album/2KIcHA2MmEM4mGjtT1JVn1) | 6:02 |
 | 21 | [Dejé mi amor en San Francisco \(I Left My Heart in San Francisco\)](https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp) | [Tommy Rodriguez Y Su Saxofon Magico](https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 1:53 |
-| 22 | [To Chick](https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 5:35 |
-| 23 | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg) | [Magos Herrera](https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz) | 4:14 |
+| 22 | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg) | [Magos Herrera](https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz) | 4:14 |
+| 23 | [To Chick](https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 5:35 |
 | 24 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr) | [Cuco Valtierra](https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa) | [Bonita](https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb) | 2:40 |
 | 25 | [Al son de la marimba](https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 6:10 |
 | 26 | [Fíjate Que Suave \- Remastered 2018](https://open.spotify.com/track/1o597QjfCG2jZRVYUxXUpv) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil \(Remastered 2018\)](https://open.spotify.com/album/5znSMHPjGTn0JtDtexRTzT) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 49 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
 | 50 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
 
-Snapshot ID: `MTY2OTkzMzk2OSwwMDAwMDAwMDYzMTM5NDk4NTc1YzNhODVlZTZlMGU4ZGRkOWUyYmQ5`
+Snapshot ID: `MTY2OTkzMzk2OSwwMDAwMDAwMGVmODJhMWU1NTYyZmJiNTVlMTAxZGNhMWM3NDQ0NmFi`

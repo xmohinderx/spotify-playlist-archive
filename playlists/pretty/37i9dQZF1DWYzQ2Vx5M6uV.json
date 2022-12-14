@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Oxlade, Camila Cabello\n",
-  "num_followers": 101227,
+  "num_followers": 101275,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDUyM2JkZmRiYTE5NmI3ZTg0MmJiNTlmZGVjYTA5Yzk3",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDU4ODM2ZTRmNGQyOTk0MThjNjI2YWZlMmFmNDllYWQy",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1223,34 +1223,6 @@
     {
       "added_at": "2022-12-08 01:11:58",
       "album": {
-        "name": "Diggy Dee (Remix)",
-        "url": "https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        },
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Tarik Jazzy T Thompson",
-          "url": "https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "Diggy Dee - Remix",
-      "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
-    },
-    {
-      "added_at": "2022-12-08 01:11:58",
-      "album": {
         "name": "Son of the City",
         "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
       },
@@ -1275,6 +1247,34 @@
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
+    },
+    {
+      "added_at": "2022-12-08 01:11:58",
+      "album": {
+        "name": "Diggy Dee (Remix)",
+        "url": "https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Tarik Jazzy T Thompson",
+          "url": "https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "Diggy Dee - Remix",
+      "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
     },
     {
       "added_at": "2022-12-08 01:11:58",

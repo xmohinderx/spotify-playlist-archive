@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
-  "num_followers": 467725,
+  "num_followers": 467739,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGQ5MGYxMzNmNzZhZWQ0ZGQ4YTk2Y2RkOGJjYjNmYTZj",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDFmNTAzZTg4ZWJjMDhhZGM4YWU1MzcyOGMyNzkzZTc1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "NUDES",
-        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 235871,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 185421,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "NUDES",
+        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 235871,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 264930,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "To Emmylou",
         "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 223133,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 264930,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Boots Of Spanish Leather",
+        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 282173,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Boots Of Spanish Leather",
-        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 282173,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
       },
@@ -969,6 +969,26 @@
       "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
     },
     {
+      "added_at": "2022-12-14 01:06:38",
+      "album": {
+        "name": "Crooked Tree (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 212251,
+      "name": "Dire Wolf - Bonus Track",
+      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "The Covers",
@@ -991,26 +1011,6 @@
       "duration_ms": 196537,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
-    },
-    {
-      "added_at": "2022-12-13 01:33:54",
-      "album": {
-        "name": "Crooked Tree (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 212251,
-      "name": "Dire Wolf - Bonus Track",
-      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Hit 'Em up Style",
-      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "I Remember Everything",
         "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 156146,
       "name": "I Remember Everything",
       "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Hit 'Em up Style",
+      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Covers, Ch. 1",
+        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
+      },
+      "artists": [
+        {
+          "name": "The Sweeplings",
+          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Don't Dream It's Over / Everything Is Free",
         "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 222008,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Covers, Ch. 1",
-        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
-      },
-      "artists": [
-        {
-          "name": "The Sweeplings",
-          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "The Age Of Worry",
@@ -1555,6 +1539,22 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 234917,
+      "name": "Lakes of Pontchartrain (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
         "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 222996,
       "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
       "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 234917,
-      "name": "Lakes of Pontchartrain (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Girl From The North Country",
-      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Tea, Milk & Honey",
         "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Girl From The North Country",
+      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     },
     {
       "added_at": "2022-10-14 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,669,464 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,670,236 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 34 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
 | 35 | [Taboo](https://open.spotify.com/track/155PWUwfoYw5mcQOGdzh1w) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 |
 | 36 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 |
-| 37 | [Situationship](https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Situationship](https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF) | 2:56 |
-| 38 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 |
+| 37 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 |
+| 38 | [Situationship](https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Situationship](https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF) | 2:56 |
 | 39 | [EVERYTHING I WANT](https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [EVERYTHING I WANT](https://open.spotify.com/album/1Gd8Sz4vEV0Px55RPugWSe) | 2:18 |
-| 40 | [Blü Moon](https://open.spotify.com/track/5fMURyUIFKXqvGM89YPcaA) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Blü Moon](https://open.spotify.com/album/0QfoZb8MSbOoR6vdRs1WLr) | 3:09 |
-| 41 | [Another](https://open.spotify.com/track/1C6xuOPHkIpmgHWgjyoiTI) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
+| 40 | [Another](https://open.spotify.com/track/1C6xuOPHkIpmgHWgjyoiTI) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
+| 41 | [Blü Moon](https://open.spotify.com/track/5fMURyUIFKXqvGM89YPcaA) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Blü Moon](https://open.spotify.com/album/0QfoZb8MSbOoR6vdRs1WLr) | 3:09 |
 | 42 | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0) | 2:45 |
 | 43 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF) | 3:47 |
 | 44 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 47 | [Caliber](https://open.spotify.com/track/1VGVO4i8FqTaZlr9mXzAwa) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz) | 3:02 |
 | 48 | [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/5shQWg4uYedbUEoqnwG5ds) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:47 |
 | 49 | [Good Good](https://open.spotify.com/track/02adJbZO7bHXJjboTwph45) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Good Good](https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI) | 3:45 |
-| 50 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 |
+| 50 | [Bed Friend \(feat\. Queen Naija\)](https://open.spotify.com/track/0NeBH6OPQMBJMcmhRoCUmv) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Bed Friend](https://open.spotify.com/album/4yddao1MpTLxHNHoSupTpP) | 3:01 |
 
-Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMDUwOTZiZTM3NDZlMzEzZTU2ZTUyZGVlMjczNjBlZTI5`
+Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMDMzMzkzMTdjZmYxMjc2ZjZkZjk3MjVjMGZmMjY5ZjIx`

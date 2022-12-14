@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Florence + The Machine",
-  "num_followers": 506473,
+  "num_followers": 506630,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA2OTA4MywwMDAwMDAwMDM3Nzg5ZGI3NGU4NDVkNjgwZDk2MDI1ZWNjM2I5NTA2",
+  "snapshot_id": "MTY0ODA2OTA4MywwMDAwMDAwMDg2OWRiYzdiNzJhMGVmNDE1ZTY1NDgzNDQ1NGZiMmFh",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "Stay Flo",
-      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 265263,
       "name": "Photo ID",
       "url": "https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "Stay Flo",
+      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -911,6 +911,30 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 206465,
+      "name": "Me & My Dog",
+      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
       },
@@ -939,30 +963,6 @@
       "duration_ms": 268213,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 206465,
-      "name": "Me & My Dog",
-      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "Ritual Union",
         "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
       },
@@ -1107,30 +1131,6 @@
       "duration_ms": 280213,
       "name": "circle the drain",
       "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Bunny Is A Rider",
-        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Bunny Is A Rider",
-      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+        "name": "Bunny Is A Rider",
+        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 265920,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
+      "duration_ms": 197480,
+      "name": "Bunny Is A Rider",
+      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "Look at it in the Light",
         "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 141743,
       "name": "Yards / Gardens",
       "url": "https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Liz Phair",
-        "url": "https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT"
-      },
-      "artists": [
-        {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Why Can't I?",
-      "url": "https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 213253,
       "name": "North",
       "url": "https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Liz Phair",
+        "url": "https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT"
+      },
+      "artists": [
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "Why Can't I?",
+      "url": "https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Soft Sounds from Another Planet",
-        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/5wNnopxjgSKVvHTIcBpV8Q"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Road Head",
-      "url": "https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL"
+      "duration_ms": 208395,
+      "name": "Keeping Your Head Up",
+      "url": "https://open.spotify.com/track/6lyjWvSUgYtX26zfrQ6gn8"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1551,34 +1551,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/5wNnopxjgSKVvHTIcBpV8Q"
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 208395,
-      "name": "Keeping Your Head Up",
-      "url": "https://open.spotify.com/track/6lyjWvSUgYtX26zfrQ6gn8"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "The Bones of What You Believe",
-        "url": "https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "The Mother We Share",
-      "url": "https://open.spotify.com/track/2FV7Exjr70J652JcGucCtE"
+      "duration_ms": 195106,
+      "name": "Road Head",
+      "url": "https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+        "name": "The Bones of What You Believe",
+        "url": "https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
+      "duration_ms": 191293,
+      "name": "The Mother We Share",
+      "url": "https://open.spotify.com/track/2FV7Exjr70J652JcGucCtE"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1627,6 +1611,22 @@
       "duration_ms": 217284,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
     }
   ],
   "unique_name": "EQUAL Indie",

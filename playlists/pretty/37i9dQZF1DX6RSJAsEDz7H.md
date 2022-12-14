@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,956 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,960 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 86 | [Addi Truth](https://open.spotify.com/track/16mH65QIZ8hnw5fBrNGvjS) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Reggae Love Songs Deluxe Edition](https://open.spotify.com/album/5Xq1pzNYcBB6ZwUZryBHlu) | 3:01 |
 | 87 | [Mus Come A Road](https://open.spotify.com/track/29jj7PVkiwP1FGl5PmJK5w) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Strictly The Best Vol\. 39](https://open.spotify.com/album/6kIKelbTTvno4eox4grwOG) | 3:32 |
 | 88 | [Odd Ras](https://open.spotify.com/track/3O1IYPRXD9I48MSOvMtYjH) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronixx"Odd Ras" Single](https://open.spotify.com/album/0gfvRkr7DnRKbsdVNXpzhZ) | 2:59 |
-| 89 | [\(It Won’t Be Long\) And I’ll Be Hating You \- Original Gusto Recordings](https://open.spotify.com/track/4wbHM56BWvQbLz4GT2cgOG) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Original Billboard Hits \(Original Gusto Recordings\)](https://open.spotify.com/album/4K7P6mqbgd0TnqnFDNXXQP) | 2:30 |
+| 89 | [\(It Won’t Be Long\) And I’ll Be Hating You](https://open.spotify.com/track/4wbHM56BWvQbLz4GT2cgOG) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Original Billboard Hits](https://open.spotify.com/album/4K7P6mqbgd0TnqnFDNXXQP) | 2:30 |
 | 90 | [Queen Of Hearts](https://open.spotify.com/track/6R6ib5FgDYlG0rPA9c5DVv) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice](https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc) | 3:25 |
 | 91 | [The Helicopter Tune \- Rennie Pilgrem Tribal Mix](https://open.spotify.com/track/0t6o8h8UnKIxGAzHXH1QKf) | [Deep blue](https://open.spotify.com/artist/0N1AChd9JXrtoczyW8PzZM), [Rennie Pilgrem](https://open.spotify.com/artist/1VBK6k7rguirRwA4IlSxhN) | [Touching Bass \(Continuous DJ Mix by DJ Rap\)](https://open.spotify.com/album/2Lvd6sAK7lquIS3XlPfZGG) | 5:14 |
 | 92 | [Impacto](https://open.spotify.com/track/6Whz0X5fTmsTMrWuFTBp60) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:05 |

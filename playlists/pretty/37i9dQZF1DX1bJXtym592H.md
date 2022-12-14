@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,109 likes - 128 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,149 likes - 128 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 48 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 |
 | 49 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 |
 | 50 | [why it can't be](https://open.spotify.com/track/2OtHVCoDfgVML6XtAOyBaF) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [why it can't be](https://open.spotify.com/album/5BC8qtNQap7ekRV5LaV6jW) | 3:04 |
-| 51 | [la donna e la chitarra](https://open.spotify.com/track/06F8Fnl3zIJ8Fy4IlKJSz3) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/7nYLq5Mq6zbO4Zuzdxy7Ka) | 1:45 |
+| 51 | [la donna e la chitarra](https://open.spotify.com/track/2e94pHYImdJE6wgMLHaA9l) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/3stfQyN1Aq78m0W42lG2xS) | 1:45 |
 | 52 | [Coastal](https://open.spotify.com/track/2NTImx9Yk0jNzKUg1Ht8wU) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Coastal](https://open.spotify.com/album/7CeETykLYmpfU49DdCMxgc) | 2:08 |
 | 53 | [Space Fern](https://open.spotify.com/track/1Rh6LJdVGmt2A3GKGT1KFN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Midnight Glow, Vol\. 2](https://open.spotify.com/album/5OY4f2lUocQL384e0qV8ow) | 1:49 |
 | 54 | [Like You](https://open.spotify.com/track/0wycCZ0b3g2NoqZV9OtCaM) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Like You / Meant To Be](https://open.spotify.com/album/6itlc8l0JwpO0z4wvShTTt) | 3:00 |
 | 55 | [Trippy](https://open.spotify.com/track/5ptaiocEr3tO4jk4HGEm7E) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Trippy](https://open.spotify.com/album/7LDh5wRNAFQK8UkE61z0fn) | 2:54 |
-| 56 | [Cruisin](https://open.spotify.com/track/10bEN2SCU2gelIp3UkaVOd) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/0ElJODIKCD7IMk1qx6g5YD) | 2:51 |
+| 56 | [Cruisin](https://open.spotify.com/track/71HwYl1J3sYcMAIvoHczQ9) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/2y72j8cLcPUTBIdbX8lgiE) | 2:51 |
 | 57 | [Redefine](https://open.spotify.com/track/3myirb6fcmRT8eeSZV1poe) | [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Redefine](https://open.spotify.com/album/3I2ZTGS4Pqk6xPvN3MrN6Y) | 2:24 |
 | 58 | [The Pappas](https://open.spotify.com/track/0n7UVP6hEStbS96Uugnyzs) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Abracadabra](https://open.spotify.com/album/46HcVEDXqFXCD0uIbiqL0I) | 3:44 |
 | 59 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 127 | [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 |
 | 128 | [60’s Adventure](https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 3:01 |
 
-Snapshot ID: `MTY3MDU5MjExMywwMDAwMDAwMGE5YTQ1N2UwOThlM2M4ZTk1MWFhNTM1NmJlNGQyNzU1`
+Snapshot ID: `MTY3MDU5MjExMywwMDAwMDAwMDMxYTY1MzE0NmJkYzk2YThmMjc4N2I0YTYyMjEyYmJl`

@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Polo G, Lil Durk, Moneybagg Yo and more\. Cover: A Boogie Wit Da Hoodie
 
-1,965 songs - 3 day 20 hr 5 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,966 songs - 3 day 20 hr 7 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1283,6 +1283,7 @@
 | [PAIN!](https://open.spotify.com/track/3pqXhSXgasqhTf865mbpYi) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [PAIN!](https://open.spotify.com/album/7lxeegF1y69PXsUXWiLVvf) | 1:38 | 2022-12-02 | 2022-12-10 |
 | [Pandemic Flow](https://open.spotify.com/track/4gEgs7S6XAT4dxgOXaMYJ9) | [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Long Live DJ Shay](https://open.spotify.com/album/0L9rBwT5kUeKlwg7HOqwUU) | 3:37 | 2022-09-09 | 2022-09-17 |
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-03-26 |
+| [Pape Talk](https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Paint the City \(Gangsta Grillz\)](https://open.spotify.com/album/3M1RUPna1fFjxNd9I0Vo0l) | 2:09 | 2022-12-13 |  |
 | [Paper Route \(ft\. Young Dolph\)](https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Mention My Name](https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB) | 3:23 | 2022-04-10 | 2022-04-29 |
 | [Paralyzed](https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Paralyzed](https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT) | 2:47 | 2022-01-28 | 2022-02-05 |
 | [Paranoid](https://open.spotify.com/track/1kmIRT9WMaYH47ON57W0jB) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Paranoid](https://open.spotify.com/album/1RKb5pqSU8hBpXYOkS7Tii) | 2:12 | 2022-05-13 | 2022-05-20 |

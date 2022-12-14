@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Lady Gaga & Ariana Grande",
-  "num_followers": 627017,
+  "num_followers": 626991,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk0OTcxMywwMDAwMDAwMDFjY2NlMDA0MjI2OGUyMGE0Yjk1ZTFmZTRjYmEwM2Ix",
+  "snapshot_id": "MTY1ODk0OTcxMywwMDAwMDAwMGY2NWRjMjUyYzdiNWI1OWM3NzEzZDJkYjA3MTU0Zjdi",
   "tracks": [
     {
       "added_at": "2022-06-01 06:00:00",
@@ -449,26 +449,6 @@
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
-      "added_at": "2021-06-01 06:00:00",
-      "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
-    },
-    {
       "added_at": "2022-06-01 06:00:00",
       "album": {
         "name": "Electra Heart (Deluxe)",
@@ -499,6 +479,26 @@
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2021-06-01 06:00:00",

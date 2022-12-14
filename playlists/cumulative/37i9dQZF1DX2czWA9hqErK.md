@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-421 songs - 23 hr 48 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+422 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [nobody but me](https://open.spotify.com/track/0digQGlIq6x0wXxkJiNqBh) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:54 | 2022-03-25 | 2022-04-20 |
 | [Nocturnal](https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Nocturnal](https://open.spotify.com/album/3QB4VboOQHb2iNP7ObBltP) | 4:22 | 2021-12-16 | 2022-04-25 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-11 | 2022-07-29 |
-| [nowhere to hide](https://open.spotify.com/track/7xxMS1SNunq6HeBjqiswid) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [nowhere to hide](https://open.spotify.com/album/22uIeW2YT5GtSjg6Tc5zh0) | 2:51 | 2022-03-25 |  |
+| [nowhere to hide](https://open.spotify.com/track/7xxMS1SNunq6HeBjqiswid) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [nowhere to hide](https://open.spotify.com/album/22uIeW2YT5GtSjg6Tc5zh0) | 2:51 | 2022-03-25 | 2022-12-14 |
 | [NUMB](https://open.spotify.com/track/4J4IxNIFuulURHUKLGZezs) | [Fya Fox](https://open.spotify.com/artist/7iHKEFusxmUf4LhQcYsZqL) | [NUMB](https://open.spotify.com/album/79HMdlzfBNYRU9W4RpmDu9) | 2:57 | 2022-01-17 | 2022-07-14 |
 | [Oblivion](https://open.spotify.com/track/09q4ALH4QxYkoBaPFy4AKg) | [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Oblivion](https://open.spotify.com/album/6P6bvjFhmPgPYMCt8YTpca) | 3:18 | 2022-01-17 | 2022-01-26 |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-12-16 | 2022-01-06 |
@@ -354,6 +354,7 @@
 | [Something Better](https://open.spotify.com/track/7fOm21YavgLjP7ocs6hrG5) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Something Better](https://open.spotify.com/album/4WHtwKJY1SGHl6yWldPY6n) | 3:55 | 2022-03-25 | 2022-04-16 |
 | [Something Like I Love You](https://open.spotify.com/track/2MaTW2Q1HcL51RvY3Vr27X) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Something Like I Love You](https://open.spotify.com/album/3eFh8oUlBJH3JcMnmKVzp9) | 2:20 | 2022-03-25 | 2022-07-29 |
 | [Something Sentimental](https://open.spotify.com/track/6mnqCMfVvuXz1rN7upr13S) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Something Sentimental](https://open.spotify.com/album/08J3jHocUai4q6KiCCCOlE) | 3:18 | 2021-12-16 | 2022-03-07 |
+| [Something to Someone \- Piano](https://open.spotify.com/track/5LMMHLhxyicdWm3uEdbNrV) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/26WEpGNBMTJE5jyRcMtE01) | 3:03 | 2022-12-02 |  |
 | [Something to Someone \- Piano](https://open.spotify.com/track/5YLGr2aXsNZWpZmwQiaX7H) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone \(Piano\)](https://open.spotify.com/album/2es7Wvv9mh7IK9K874jQJW) | 3:03 | 2022-08-02 | 2022-11-30 |
 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2021-12-16 | 2022-02-15 |
 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-03-29 | 2022-10-22 |

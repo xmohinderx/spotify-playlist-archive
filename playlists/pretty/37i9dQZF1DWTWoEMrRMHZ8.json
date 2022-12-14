@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Majur",
-  "num_followers": 329085,
+  "num_followers": 329135,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MzA4OSwwMDAwMDAwMDc2OGNlNTM0ODI3NmQ0YzJlNTMxNmM1YzA4YTFjYTBm",
+  "snapshot_id": "MTY3MDU2MzA4OSwwMDAwMDAwMGYyMzhmMGNkNDFlNmZmNWZhYzhlYTVlNjZiNTUzNjhj",
   "tracks": [
     {
       "added_at": "2022-12-09 05:18:09",
@@ -431,22 +431,18 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
-        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
+        "name": "Argumento - Spotify Singles",
+        "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 233391,
-      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
-      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
+      "duration_ms": 203319,
+      "name": "Argumento - Spotify Singles",
+      "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -467,18 +463,22 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Argumento - Spotify Singles",
-        "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
+        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
+        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
         }
       ],
-      "duration_ms": 203319,
-      "name": "Argumento - Spotify Singles",
-      "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
+      "duration_ms": 233391,
+      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
+      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Aposta",
-        "url": "https://open.spotify.com/album/1cb98k7ng0tmg4dRBq77OB"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        },
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Aposta",
-      "url": "https://open.spotify.com/track/1fzPRqUPmOL823vG6r9rPg"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
         "name": "Dia Branco",
         "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 147899,
       "name": "Dia Branco",
       "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "Aposta",
+        "url": "https://open.spotify.com/album/1cb98k7ng0tmg4dRBq77OB"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Aposta",
+      "url": "https://open.spotify.com/track/1fzPRqUPmOL823vG6r9rPg"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1047,6 +1047,26 @@
       "duration_ms": 202549,
       "name": "Teimosa",
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "Bloco do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1I9x0dmslyXBNhj3pfDj4h"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7j6o7nPDkvQMtNQWyChADe"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1179,26 +1199,6 @@
       "duration_ms": 168681,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "Bloco do Silva #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1I9x0dmslyXBNhj3pfDj4h"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Sozinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/7j6o7nPDkvQMtNQWyChADe"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1407,18 +1407,22 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "A Palo Seco (Radio Edit)",
-        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
+        "name": "Lua e Estrela",
+        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
       "artists": [
         {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+        },
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
         }
       ],
-      "duration_ms": 215660,
-      "name": "A Palo Seco - Radio Edit",
-      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
+      "duration_ms": 219098,
+      "name": "Lua e Estrela",
+      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1443,22 +1447,58 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Lua e Estrela",
-        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
+        "name": "A Palo Seco (Radio Edit)",
+        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
       },
       "artists": [
         {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
         }
       ],
-      "duration_ms": 219098,
-      "name": "Lua e Estrela",
-      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+      "duration_ms": 215660,
+      "name": "A Palo Seco - Radio Edit",
+      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "Verdade na Fonte",
+        "url": "https://open.spotify.com/album/54z94yuZnjKyjLr8L7IIis"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "Paulinho Moska",
+          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
+        }
+      ],
+      "duration_ms": 146368,
+      "name": "Verdade na Fonte",
+      "url": "https://open.spotify.com/track/6CJxnUAe55awtxHblQXGML"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
+        "name": "Sangue Latino",
+        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Spindel",
+          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 187934,
+      "name": "Sangue Latino",
+      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1499,26 +1539,6 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Verdade na Fonte",
-        "url": "https://open.spotify.com/album/54z94yuZnjKyjLr8L7IIis"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        },
-        {
-          "name": "Paulinho Moska",
-          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
-        }
-      ],
-      "duration_ms": 146368,
-      "name": "Verdade na Fonte",
-      "url": "https://open.spotify.com/track/6CJxnUAe55awtxHblQXGML"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
         "name": "Se N\u00e3o For Amor",
         "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
       },
@@ -1539,22 +1559,18 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
-        "name": "Sangue Latino",
-        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
+        "name": "Ano Que Vem",
+        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
       },
       "artists": [
         {
-          "name": "Roberta Spindel",
-          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
         }
       ],
-      "duration_ms": 187934,
-      "name": "Sangue Latino",
-      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
+      "duration_ms": 179656,
+      "name": "Ano Que Vem",
+      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1587,26 +1603,6 @@
       "duration_ms": 196614,
       "name": "Alagados",
       "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        },
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
-        }
-      ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2022-12-09 05:18:09",
@@ -1711,6 +1707,26 @@
     {
       "added_at": "2022-12-09 05:18:09",
       "album": {
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        }
+      ],
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2022-12-09 05:18:09",
+      "album": {
         "name": "T\u00f4",
         "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 247802,
       "name": "Coment\u00e1rios a Respeito de Belchior",
       "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
-    },
-    {
-      "added_at": "2022-12-09 05:18:09",
-      "album": {
-        "name": "Ano Que Vem",
-        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 179656,
-      "name": "Ano Que Vem",
-      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
     },
     {
       "added_at": "2022-12-09 05:18:09",

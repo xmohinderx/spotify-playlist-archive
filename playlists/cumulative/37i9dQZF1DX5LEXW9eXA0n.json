@@ -8848,6 +8848,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278533,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/1xzC5lmJfG21PJBAeQaBam"
+    },
+    {
+      "album": {
         "name": "That Night",
         "url": "https://open.spotify.com/album/519egerFaLsZ4V7I4RTjjA"
       },

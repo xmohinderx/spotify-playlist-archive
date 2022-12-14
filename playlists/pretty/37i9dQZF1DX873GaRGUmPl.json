@@ -1,12 +1,12 @@
 {
   "description": "The best alternative songs of the decade so far. Cover: Grimes",
-  "num_followers": 847386,
+  "num_followers": 847863,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxNzkwMCwwMDAwMDAwMGQzNDQ4ZTc5ZWM0NDkzNjE4OTE5MTY3NzkzMjgxNDBl",
+  "snapshot_id": "MTY2ODcxNzkwMCwwMDAwMDAwMDg3MWJlMjI4ZTM0YTM3M2YzMTc5NDZkNTc5NGE4ZWJi",
   "tracks": [
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "What Went Down",
         "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
       },
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Broken Bells",
-        "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 232200,
-      "name": "The High Road",
-      "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
+      "duration_ms": 145893,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+        "name": "Broken Bells",
+        "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 145893,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022"
+      "duration_ms": 232200,
+      "name": "The High Road",
+      "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
     },
     {
       "added_at": "2022-09-29 15:30:40",

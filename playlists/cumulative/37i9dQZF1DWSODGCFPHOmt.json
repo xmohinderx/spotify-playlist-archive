@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "Alma Navide\u00f1a",
+        "url": "https://open.spotify.com/album/1hXx44Rb1NKuqwZKSVHZvV"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243290,
+      "name": "Alma Naviden\u0303a",
+      "url": "https://open.spotify.com/track/1s4c3Tun9Tlnuu2YqaEKfy"
+    },
+    {
+      "album": {
         "name": "Alrededor del \u00c1rbol de Navidad",
         "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
       },
@@ -957,7 +975,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 151053,
       "name": "Navidad Navidad",
       "url": "https://open.spotify.com/track/6F12TIRr8vhHY1kIq8JB8h"

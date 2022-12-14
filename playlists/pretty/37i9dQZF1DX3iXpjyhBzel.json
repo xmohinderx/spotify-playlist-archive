@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Anderson Freire",
-  "num_followers": 876381,
+  "num_followers": 876720,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NjQ0MiwwMDAwMDAwMGYyOWRjNzViZWVkOGExNzY4MzUyNjI2MmFhNjQwMjMw",
+  "snapshot_id": "MTY3MDU2NjQ0MiwwMDAwMDAwMDJjODk4Nzk1YTFlYzNkNjU1NmU0ZTNmMzgzNDlkNTNi",
   "tracks": [
     {
       "added_at": "2022-12-09 06:14:02",
@@ -887,18 +887,22 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "A Resposta",
-        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
+        "name": "N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/0SAlbW5iw08FjHuAj6I65U"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
         }
       ],
-      "duration_ms": 265565,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
+      "duration_ms": 351176,
+      "name": "N\u00e1ufrago",
+      "url": "https://open.spotify.com/track/7DUs3Bi0639PMeAnBAIUOT"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -919,22 +923,18 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
-        "name": "N\u00e1ufrago",
-        "url": "https://open.spotify.com/album/0SAlbW5iw08FjHuAj6I65U"
+        "name": "A Resposta",
+        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 351176,
-      "name": "N\u00e1ufrago",
-      "url": "https://open.spotify.com/track/7DUs3Bi0639PMeAnBAIUOT"
+      "duration_ms": 265565,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
     },
     {
       "added_at": "2022-12-09 06:14:02",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+    },
+    {
+      "added_at": "2022-12-09 06:14:02",
+      "album": {
         "name": "Sol da Justi\u00e7a",
         "url": "https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w"
       },
@@ -1419,6 +1435,26 @@
     {
       "added_at": "2022-12-09 06:14:02",
       "album": {
+        "name": "Creio em Ti (Creo En Ti)",
+        "url": "https://open.spotify.com/album/2QzlblpX1Yz6yYviCdizZF"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 322478,
+      "name": "Creio em Ti (Creo En Ti)",
+      "url": "https://open.spotify.com/track/6fsEESlFy3NxaIBSOrUbZm"
+    },
+    {
+      "added_at": "2022-12-09 06:14:02",
+      "album": {
         "name": "Eu Cuido De Voc\u00ea",
         "url": "https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL"
       },
@@ -1451,42 +1487,6 @@
       "duration_ms": 507229,
       "name": "L\u00e1grimas (Ao Vivo)",
       "url": "https://open.spotify.com/track/1Zj96oaWZXVgfBHH6g8rli"
-    },
-    {
-      "added_at": "2022-12-09 06:14:02",
-      "album": {
-        "name": "Creio em Ti (Creo En Ti)",
-        "url": "https://open.spotify.com/album/2QzlblpX1Yz6yYviCdizZF"
-      },
-      "artists": [
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 322478,
-      "name": "Creio em Ti (Creo En Ti)",
-      "url": "https://open.spotify.com/track/6fsEESlFy3NxaIBSOrUbZm"
-    },
-    {
-      "added_at": "2022-12-09 06:14:02",
-      "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": "2022-12-09 06:14:02",

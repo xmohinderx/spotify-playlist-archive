@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,362 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,389 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 52 | [Stand Your Ground](https://open.spotify.com/track/238Owc9WvZ4HsUD57bcq8o) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 3:29 |
 | 53 | [FINAL FANTASY XIII\-2 \- Wishes \-](https://open.spotify.com/track/50BlgWI61TOVUE1Pc37yKm) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:56 |
 | 54 | [Living Legacy](https://open.spotify.com/track/6OVTAgBSJrevOKaiO9KXbn) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 8:47 |
-| 55 | [Opening](https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:09 |
+| 55 | [The Beginning of the End](https://open.spotify.com/track/1GhottKACE62L2Sq24LFmW) | [Takeharu Ishimoto](https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9) | [FINAL FANTASY Type\-0 HD Original Soundtrack](https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa) | 4:27 |
 | 56 | [Locus](https://open.spotify.com/track/74h5EcwWQRyWwQG6ZcRYEd) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 8:55 |
-| 57 | [The Beginning of the End](https://open.spotify.com/track/1GhottKACE62L2Sq24LFmW) | [Takeharu Ishimoto](https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9) | [FINAL FANTASY Type\-0 HD Original Soundtrack](https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa) | 4:27 |
+| 57 | [Opening](https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:09 |
 | 58 | [Run !!](https://open.spotify.com/track/1jcYcW06CNvqtWoZrd8LdV) | [Junya Nakano](https://open.spotify.com/artist/6MmPy3kU5brlgFNlQP5ACa) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:40 |
 | 59 | [「A Brief Respite」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/4rAlkpLQOA7rPKKKsqdSrN) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 0:54 |
 | 60 | [Full Speed Ahead](https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:54 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 66 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 |
 | 67 | [Sunset Path](https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 5:43 |
 | 68 | [Luca](https://open.spotify.com/track/0ZWbnEsONhMZI7gpKOFMcu) | [Junya Nakano](https://open.spotify.com/artist/6MmPy3kU5brlgFNlQP5ACa) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:41 |
-| 69 | [The Ark](https://open.spotify.com/track/52owa26O52mjroTJTfnHGI) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:31 |
-| 70 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
+| 69 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
+| 70 | [The Ark](https://open.spotify.com/track/52owa26O52mjroTJTfnHGI) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:31 |
 | 71 | [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 |
 | 72 | [Kimi ga Irukara \- Long Version](https://open.spotify.com/track/1imcmfDpv4X4MO2tbYxMaY) | [Sayuri Sugawara](https://open.spotify.com/artist/5GpBU9V9SOJoWjZ6l1VMNa) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 6:22 |
 | 73 | [EPISODE IGNIS \- The Main Theme](https://open.spotify.com/track/449Oasrv2je2rsDaTp7dkS) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Answers](https://open.spotify.com/track/1aXqHzRaSr9obayyq6Xg6b) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Before Meteor: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0z7zOKNRHFIBwbuQttQQVc) | 7:08 |
 | 100 | [Dragonsong](https://open.spotify.com/track/0UVvQQdoeJeH7aDcgh9dVL) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 5:42 |
 
-Snapshot ID: `MTYxNDg2Nzg4MCwwMDAwMDAwMDc0YWQyYzkxNWUyOGExMDQ5OGI0NWQ2ZmQ1ZDMwMTQ0`
+Snapshot ID: `MTYxNDg2Nzg4MCwwMDAwMDAwMDkxNTg3NzY3NTJhODUxYWM1YWM3NGFkMzZlODEzOTRm`

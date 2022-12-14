@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 56261,
+  "num_followers": 56307,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDdjNzk1YzgyMDRlMmVkZjg3Mzc2ODA4ZTYzMTBiODhj",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDEzZmIwZDNkM2NiNTI3YWI1MWU5ODVmNmJiNWQ1YWNm",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Lonesome Dreams",
-        "url": "https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "I.",
         "url": "https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 286293,
       "name": "Nothing's Gonna Hurt You Baby",
       "url": "https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Lonesome Dreams",
+        "url": "https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Fitzpleasure",
-      "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 190613,
       "name": "Hollywood Forever Cemetery Sings",
       "url": "https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Fitzpleasure",
+      "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Happy To You",
-        "url": "https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Paddling Out",
-      "url": "https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Beacon",
         "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 236440,
       "name": "Sleep Alone",
       "url": "https://open.spotify.com/track/5nZTvs242o6FWluCfmZZAM"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Happy To You",
+        "url": "https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Paddling Out",
+      "url": "https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "lofticries",
-      "url": "https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 236413,
       "name": "Breathing Underwater",
       "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "lofticries",
+      "url": "https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1547,22 +1547,6 @@
       "duration_ms": 262293,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3US6iSyLP2uS07gjjU2ZkG"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Mondo",
-        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
       "artists": [
         {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
         }
       ],
-      "duration_ms": 168626,
-      "name": "American Daydream",
-      "url": "https://open.spotify.com/track/2r0lAM25q5tJE1H4SesviY"
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1647,6 +1631,22 @@
       "duration_ms": 251453,
       "name": "Next Year",
       "url": "https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Mondo",
+        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "American Daydream",
+      "url": "https://open.spotify.com/track/2r0lAM25q5tJE1H4SesviY"
     }
   ],
   "unique_name": "Best of Indie 2012",

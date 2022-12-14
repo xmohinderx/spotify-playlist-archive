@@ -1086,6 +1086,28 @@
     },
     {
       "album": {
+        "name": "Sur la selle",
+        "url": "https://open.spotify.com/album/1mGq7FkXTO8q0hhkk2xojY"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Sur la selle",
+      "url": "https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4"
+    },
+    {
+      "album": {
         "name": "Ta7t Jna7i",
         "url": "https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN"
       },

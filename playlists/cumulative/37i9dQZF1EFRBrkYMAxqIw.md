@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-82 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
+85 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bounce](https://open.spotify.com/track/6uipQY1DKk611P3uOOePUb) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:17 | 2022-05-25 |  |
 | [Boys Do Cry](https://open.spotify.com/track/1gK4smjjI1rJWH8KzStaRI) | [CC Clarke](https://open.spotify.com/artist/3XS9mpXg2gu96uOeogDn1y) | [Boys Do Cry](https://open.spotify.com/album/1Y9CHStZf17ywRzOYAhYhC) | 2:46 | 2022-05-25 |  |
 | [Bubblegum](https://open.spotify.com/track/0u93AbXE2aa27pcNTERZN7) | [Djamila](https://open.spotify.com/artist/2Dh0kFL1Dosd9G17HwrkKc) | [Bubblegum](https://open.spotify.com/album/7AJv9yvZ0DFeVYphAsrxyi) | 3:20 | 2022-05-25 |  |
+| [Conversations With Strangers](https://open.spotify.com/track/4vDKWs9yLXTJz7SBSO0jsP) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations With Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:35 | 2022-12-13 |  |
 | [Cruel](https://open.spotify.com/track/7FNf2WOOaJ1Bx6wrjqhCba) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Cruel](https://open.spotify.com/album/01fIJhjWikBCQ8iMSapF30) | 3:11 | 2022-05-25 |  |
 | [Curious](https://open.spotify.com/track/6APT6IH8fpzcnnPiI76XBH) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Curious](https://open.spotify.com/album/1hjSD6LF98EBRSQrL3Py88) | 3:38 | 2022-05-25 |  |
 | [Day Dream](https://open.spotify.com/track/4O5NmwwKzpQkuUUUz0V3TN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:25 | 2022-05-25 |  |
@@ -59,9 +60,11 @@
 | [On My Way](https://open.spotify.com/track/1hkM6wr47hVWSEK6EY4nAl) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [On My Way](https://open.spotify.com/album/5mG78aHvHhVs0KR7FYK3vv) | 3:01 | 2022-05-25 | 2022-06-12 |
 | [On My Way \(Rain or Shine Remix\)](https://open.spotify.com/track/4dVxY7muQS2QYy0bjhM7df) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Rain or Shine](https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g) | [On My Way \(Remixes\)](https://open.spotify.com/album/4NtbltmozSWfZ4ZfRPXCLL) | 4:00 | 2022-06-11 |  |
 | [Only The Gods \(feat\. Anabel Englund\)](https://open.spotify.com/track/6oSWam6C5d0HyUS4bVNVqN) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Only the Gods / Better on My Own \(feat\. Anabel Englund\)](https://open.spotify.com/album/4gaWk8Dxttn5CvKAN5kRYR) | 4:37 | 2022-05-25 |  |
+| [Origami](https://open.spotify.com/track/4SSceW5MNDzaBhM5Q94XkN) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Origami](https://open.spotify.com/album/0aEeSjBNqWxayXCEeaKRi2) | 3:19 | 2022-12-13 |  |
 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 | 2022-05-25 |  |
 | [Peace of Mind](https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh) | 2:57 | 2022-10-18 |  |
 | [Peace of Mind](https://open.spotify.com/track/7eAwdGGl9sihvZtvomgz9l) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/6D0GK3nbND87zH81x0Unqr) | 2:57 | 2022-05-25 | 2022-10-19 |
+| [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 | 2022-12-13 |  |
 | [Queen Of The Night \- From The Voice Of Germany](https://open.spotify.com/track/5idzZY9eDzlh4JbZqVHgei) | [Mary Summer](https://open.spotify.com/artist/5JPLyJCt5tWeHZc33Rs7OD) | [Queen Of The Night \(From The Voice Of Germany\)](https://open.spotify.com/album/6DvJhjNeDzqdqTCkQ7BpOO) | 3:53 | 2022-05-25 |  |
 | [React](https://open.spotify.com/track/0GWYApQBwErVPkyXYCTJjI) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq) | 3:24 | 2022-05-25 | 2022-10-14 |
 | [React](https://open.spotify.com/track/2KHWuIEL5peYokB3HoLY4m) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/1kApiZqAxZ1xwJQNwwyl7T) | 3:24 | 2022-10-13 |  |

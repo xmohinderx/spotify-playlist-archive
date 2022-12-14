@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "WINTER TRACKS -\u51ac\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290386,
+      "name": "ORION",
+      "url": "https://open.spotify.com/track/5hwhF9mnsPRQvJBSbZRoUG"
+    },
+    {
+      "album": {
         "name": "ClariS 10th Anniversary BEST - Green Star -",
         "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
       },
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 284346,
       "name": "\u660e\u65e5\u3001\u6625\u304c\u6765\u305f\u3089",
       "url": "https://open.spotify.com/track/28E0uOrw97kb28l1lqSuWk"

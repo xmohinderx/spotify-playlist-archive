@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,427 likes - 103 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,543 likes - 103 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 87 | [Jeux d'enfants, Op\. 22 WD 56: 3\. La poupée](https://open.spotify.com/track/39bzKYAYfHRtK32nEnQilM) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Piano Fantasy: Music For Two Pianos](https://open.spotify.com/album/7kpU3pdejLKSjMDaNgJsJv) | 2:21 |
 | 88 | [Nostalgie \(Version for Cello & Piano\)](https://open.spotify.com/track/1avrCd0iZnk13X9G2oDuXp) | [Vaja Azarashvili](https://open.spotify.com/artist/0usVJrLFw1xvuSxGjBogO8), [Alexander Suleiman](https://open.spotify.com/artist/51uTGBKyp1ZpDTyqCpHfQN), [Irma Issakadze](https://open.spotify.com/artist/7CzUbHVCshfmBxrsJpG7Zg) | [Vaja Azarashvili: Days Go By](https://open.spotify.com/album/4jJo2t2vf237kyi9fliCzt) | 2:49 |
 | 89 | [Moments musicaux, Op\. 16: No\. 5 in D\-Flat Major\. Adagio sostenuto](https://open.spotify.com/track/0bab37ruzDN54ax5SOFIlH) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Beethoven \- Rachmaninov \- Miyoshi](https://open.spotify.com/album/26Uf3UzOyJWK5Kj9BNb8CQ) | 3:43 |
-| 90 | [perceptions](https://open.spotify.com/track/0ew9S7tvZPx57vVN9Dhz8v) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nocturnes](https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4) | 3:38 |
+| 90 | [perceptions](https://open.spotify.com/track/0ew9S7tvZPx57vVN9Dhz8v) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nostalgia](https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4) | 3:38 |
 | 91 | [Alicia](https://open.spotify.com/track/7oWt2fCsyMjSflhyrdX29V) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Fredrik Lindborg](https://open.spotify.com/artist/24j6pokEgGNNoSAgic8E40), [Kjell Öhman](https://open.spotify.com/artist/6zu51Bz8hwBfYzvqu8FUlK), [Kenji Rabson](https://open.spotify.com/artist/1r0bXRQ6z2ggJzKJgENUkD), [Moussa Fadera](https://open.spotify.com/artist/1WVCN6X1myUXbLPWuVqW78) | [Happening](https://open.spotify.com/album/6tdrLGWgElgj8ZCrtqIZeh) | 2:58 |
 | 92 | [Sadko: Hindu Song \(arr\. N\. Mercz\): Hindu Song from the Opera 'Sadko'](https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC) | [Nora Mercz](https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb), [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Janos Balint](https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6) | [Flute and Harp](https://open.spotify.com/album/33MNfDsswl60MN5B526hI2) | 3:32 |
 | 93 | [Piano Sonata No\. 8 in C Minor, Op\. 13 "Pathétique": II\. Adagio cantabile](https://open.spotify.com/track/2MA6EUDm6EYmeRbT9QP8cX) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Jenő Jandó](https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7) | [Beethoven: Piano Sonatas Nos\. 8, 14 and 23](https://open.spotify.com/album/6gPBMSpe6fgRr34Z60g0LS) | 4:42 |

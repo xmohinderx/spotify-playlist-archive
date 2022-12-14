@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-259 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
+260 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2022-07-22 | 2022-11-08 |
 | [GIOVANNA HARDCORE](https://open.spotify.com/track/1Pq4fhffDugNRDMBNj0F5q) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [IL CIELO NON È UN LIMITE](https://open.spotify.com/album/4can9KYB8xVGw5y77OyZMX) | 3:06 | 2022-05-06 | 2022-06-18 |
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-05-17 | 2022-07-22 |
+| [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-09 |  |
 | [Guardami le spalle](https://open.spotify.com/track/45bzNquqVbyzteTbqd2DDG) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Guardami le spalle](https://open.spotify.com/album/3LvcaWgt3K3nKZxPYM3xwq) | 2:44 | 2022-07-22 | 2022-07-28 |
 | [Hace Calor \- Remix](https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor \(Remix\)](https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF) | 4:07 | 2022-06-10 | 2022-11-09 |
 | [hand crushed by a mallet](https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:06 | 2022-05-20 | 2022-07-24 |
@@ -171,7 +172,7 @@
 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2022-06-01 |  |
 | [Panino del McDonald's](https://open.spotify.com/track/2D2jmpApyIrHu6ogyLzbVP) | [GM](https://open.spotify.com/artist/5QmzgBwtBqgKuIvvPNi4OT) | [Panino del McDonald's](https://open.spotify.com/album/1g3Tmy5XMVCt7KyPpZ1YxF) | 3:20 | 2022-05-06 | 2022-07-28 |
 | [Perros](https://open.spotify.com/track/7tTY5P7VCYjbLrzz4a2Ec4) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [OskMusic](https://open.spotify.com/artist/7DwoTvpZ9ud91WLvUkoxP2) | [Perros](https://open.spotify.com/album/5cX3Gsaq2Cc8J7ImJW9JPk) | 2:16 | 2022-05-06 | 2022-07-24 |
-| [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 | 2022-07-22 |  |
+| [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 | 2022-07-22 | 2022-12-14 |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2022-05-06 | 2022-07-29 |
 | [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-10-12 | 2022-11-20 |
 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 | 2022-11-09 | 2022-12-10 |

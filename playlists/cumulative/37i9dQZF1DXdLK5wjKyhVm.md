@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-246 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
+247 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Rise Again](https://open.spotify.com/track/4dq1rCUzCvoTfuRJqXTYht) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Rise Again](https://open.spotify.com/album/4SrpfT8emJPxmzksq53m8o) | 2:27 | 2022-09-09 |  |
 | [Rise And Shine](https://open.spotify.com/track/2NpPNpDJG4g1Txp98TiRsx) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Rise And Shine](https://open.spotify.com/album/54I6z4GWxePYQZ4ZCXAhok) | 2:14 | 2022-09-23 |  |
 | [Rituals](https://open.spotify.com/track/3oNTmujNA8EevpYxWO1G6H) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Rituals](https://open.spotify.com/album/3Q1jF9FT8iQYOwGnKQ5aK9) | 2:16 | 2022-09-09 |  |
-| [Rolling Down the Road](https://open.spotify.com/track/6S1p0yGzPBOR6miNkXTnrt) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Rolling Down the Road](https://open.spotify.com/album/5yBaPe9qmfalOLsRyJfmIQ) | 2:02 | 2022-11-11 |  |
+| [Rolling Down the Road](https://open.spotify.com/track/0yhi622ykvVQdSHsAzXd0J) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Rolling Down the Road](https://open.spotify.com/album/5ykum1DnzuEwqXg5IWCtpp) | 2:02 | 2022-12-09 |  |
+| [Rolling Down the Road](https://open.spotify.com/track/6S1p0yGzPBOR6miNkXTnrt) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Rolling Down the Road](https://open.spotify.com/album/5yBaPe9qmfalOLsRyJfmIQ) | 2:02 | 2022-11-11 | 2022-12-14 |
 | [rooibos](https://open.spotify.com/track/3nXix3ekYTh1LAYxmpcMZQ) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [rooibos](https://open.spotify.com/album/4hkW6DiANxyOHha2fCsBZZ) | 2:29 | 2022-11-11 |  |
 | [Running Roads](https://open.spotify.com/track/1gQQk1XUWePlcnv818bGmH) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Running Roads](https://open.spotify.com/album/1wLOevqYNBzUNuElPzz8DI) | 2:38 | 2022-10-28 |  |
 | [Saved For Sunset](https://open.spotify.com/track/100UDnuT6X9MbK8aw4yc2P) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [chillhop beat tapes: Allem Iversom x little blue](https://open.spotify.com/album/36nRa64qcyArmmRA640GQi) | 2:41 | 2022-10-28 |  |

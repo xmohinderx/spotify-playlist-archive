@@ -1798,6 +1798,24 @@
     },
     {
       "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/0NI5j63Y83dEQWItn3tHIg"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/3L9rTnMdVeqX3CqAaGQh4E"
+    },
+    {
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
       },
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 246396,
       "name": "Come Inside Of My Heart",
       "url": "https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU"
@@ -4475,10 +4493,28 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 270594,
       "name": "Jopay",
       "url": "https://open.spotify.com/track/5W1v9jC51rDMKevEjqgKZ4"
+    },
+    {
+      "album": {
+        "name": "Mayonnaise - (15th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/1gmmeHgA3hmvm2yBuuScVm"
+      },
+      "artists": [
+        {
+          "name": "Mayonnaise",
+          "url": "https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270603,
+      "name": "Jopay",
+      "url": "https://open.spotify.com/track/0p7s2EXYWLca0UOdQyQrNN"
     },
     {
       "album": {

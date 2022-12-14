@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 447974,
+  "num_followers": 447977,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM3NTM1NywwMDAwMDAwMGZiZWE5MjE5Mzg4NmM1YzM0ZTRiNDA0MDgzMmI3Njkw",
+  "snapshot_id": "MTY3MDM3NTM1NywwMDAwMDAwMDRhMjFhMDliNDNiYzkzZGY5YjQ5MWI0NWUyNDg5ZDMz",
   "tracks": [
     {
       "added_at": "2022-09-30 02:46:01",
@@ -325,38 +325,6 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
-      "added_at": "2022-10-06 00:12:04",
-      "album": {
-        "name": "Puppy (Feel The Beat Mix)",
-        "url": "https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Puppy - Feel The Beat Mix",
-      "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
-    },
-    {
-      "added_at": "2022-02-25 03:39:39",
-      "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
       "added_at": "2022-01-12 02:36:16",
       "album": {
         "name": "This Is An Advertisement",
@@ -377,20 +345,52 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
-      "added_at": "2022-08-03 03:56:04",
+      "added_at": "2022-10-06 00:12:04",
       "album": {
-        "name": "Planta Dance",
-        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
+        "name": "Puppy (Feel The Beat Mix)",
+        "url": "https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Planta Dance",
-      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
+      "duration_ms": 216000,
+      "name": "Puppy - Feel The Beat Mix",
+      "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
+    },
+    {
+      "added_at": "2022-03-30 04:42:42",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
+      "added_at": "2022-02-25 03:39:39",
+      "album": {
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
       "added_at": "2022-08-13 02:30:00",
@@ -407,6 +407,38 @@
       "duration_ms": 222620,
       "name": "Tapestry - Edit",
       "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
+    },
+    {
+      "added_at": "2022-08-03 03:56:04",
+      "album": {
+        "name": "Planta Dance",
+        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Planta Dance",
+      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
+    },
+    {
+      "added_at": "2022-08-19 02:33:31",
+      "album": {
+        "name": "Order",
+        "url": "https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Warm Fuzzies: The Glory",
+      "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
     },
     {
       "added_at": "2022-07-08 04:48:31",
@@ -429,36 +461,20 @@
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
-      "added_at": "2022-08-19 02:33:31",
+      "added_at": "2022-07-28 05:59:17",
       "album": {
-        "name": "Order",
-        "url": "https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA"
+        "name": "lexicon",
+        "url": "https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9"
       },
       "artists": [
         {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+          "name": "lynyn",
+          "url": "https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8"
         }
       ],
-      "duration_ms": 206657,
-      "name": "Warm Fuzzies: The Glory",
-      "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
-    },
-    {
-      "added_at": "2022-03-30 04:42:42",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+      "duration_ms": 293495,
+      "name": "uja end",
+      "url": "https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -493,20 +509,20 @@
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
-      "added_at": "2022-07-28 05:59:17",
+      "added_at": "2022-07-15 05:34:07",
       "album": {
-        "name": "lexicon",
-        "url": "https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9"
+        "name": "GRIT.",
+        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
       },
       "artists": [
         {
-          "name": "lynyn",
-          "url": "https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8"
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
         }
       ],
-      "duration_ms": 293495,
-      "name": "uja end",
-      "url": "https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef"
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
       "added_at": "2022-02-16 00:41:13",
@@ -539,22 +555,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2022-07-15 05:34:07",
-      "album": {
-        "name": "GRIT.",
-        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
       "added_at": "2022-08-03 02:49:15",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "So",
-        "url": "https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 279501,
-      "name": "So",
-      "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
-    },
-    {
       "added_at": "2022-06-20 21:26:25",
       "album": {
         "name": "compciter ep",
@@ -675,6 +659,22 @@
       "duration_ms": 291400,
       "name": "bda creature",
       "url": "https://open.spotify.com/track/6dnZv0EmSwCoBq91rFK0IH"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "So",
+        "url": "https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 279501,
+      "name": "So",
+      "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
       "added_at": "2022-02-09 04:02:41",

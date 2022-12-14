@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,974 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,983 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,34 +29,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 | 19 | [clever](https://open.spotify.com/track/7qNnUhpCnFBjOM37bysD0H) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:19 |
 | 20 | [忘れてもいいよ](https://open.spotify.com/track/4BbNUcHFb4ijbX1RYFDaU7) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU) | 4:39 |
 | 21 | [border](https://open.spotify.com/track/1ZVZKOmy9RS4GhJ5Epj5MN) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 〜SINGLE BEST 1st〜](https://open.spotify.com/album/4QRz46oz5smqLdihwyl2bX) | 4:27 |
-| 22 | [シグナル](https://open.spotify.com/track/768HgRPmiEeeVKB5URxOJt) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 3:44 |
+| 22 | [スノーライト](https://open.spotify.com/track/0Kb74cofcnavVwe4Tpcdv9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [WINTER TRACKS \-冬のうた\-](https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n) | 4:23 |
 | 23 | [コネクト \-2017\-](https://open.spotify.com/track/13gcdbzfAArRm6RDhijxM7) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:30 |
-| 24 | [Surely](https://open.spotify.com/track/4NF9qpz2QP5IRdwZLdtsWC) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [カラフル](https://open.spotify.com/album/3PWVzMnK8ZtdanDMssCIeN) | 4:21 |
+| 24 | [シグナル](https://open.spotify.com/track/768HgRPmiEeeVKB5URxOJt) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 3:44 |
 | 25 | [君の知らない物語](https://open.spotify.com/track/4LggOGijGZuwoiYBXKoPM0) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SHIORI](https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q) | 5:41 |
-| 26 | [スノーライト](https://open.spotify.com/track/0Kb74cofcnavVwe4Tpcdv9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [WINTER TRACKS \-冬のうた\-](https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n) | 4:23 |
+| 26 | [Surely](https://open.spotify.com/track/4NF9qpz2QP5IRdwZLdtsWC) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [カラフル](https://open.spotify.com/album/3PWVzMnK8ZtdanDMssCIeN) | 4:21 |
 | 27 | [ひらひら ひらら](https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 5:13 |
 | 28 | [ループ](https://open.spotify.com/track/6PGD1qYRbfRcVIWBJ97Eup) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU) | 3:54 |
 | 29 | [アイヲウタエ](https://open.spotify.com/track/4qfhuChuz77EaZrqKgwHEA) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SHIORI](https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q) | 4:03 |
 | 30 | [PRIMALove](https://open.spotify.com/track/0C0S6SJcJlAkPQHBT1qo7U) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:15 |
-| 31 | [瞳の中のローレライ](https://open.spotify.com/track/0GxGhggqr0zvTiFb5yEC4z) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:13 |
-| 32 | [irony \-season 02\-](https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:19 |
-| 33 | [カラフル \-2017\-](https://open.spotify.com/track/1yGtzIGEap6EE5jsRly23m) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:33 |
-| 34 | [nexus](https://open.spotify.com/track/1j6UfYcCYnSJa1FpdFBMEr) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:51 |
-| 35 | [PRECIOUS](https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:27 |
-| 36 | [Twinkle Twinkle](https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Twinkle Twinkle](https://open.spotify.com/album/7ti4tcjdsbO4J9aENCzaoX) | 3:50 |
-| 37 | [Summer Delay](https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:14 |
-| 38 | [Gravity](https://open.spotify.com/track/31FWbJsuaaqqk87RwYRqNg) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:12 |
-| 39 | [Clear Sky](https://open.spotify.com/track/4hyUMlOse5Cs037QohpGFM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:22 |
-| 40 | [Sweet Holic](https://open.spotify.com/track/5jIa584Dyf6YzMFUsdWRkq) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/2DvBe1kVqRuZHzsVNZOu1p) | 3:47 |
-| 41 | [Mermaid](https://open.spotify.com/track/20iLkzds9JViZjGm7BZQB2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:10 |
-| 42 | [アネモネ](https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:32 |
-| 43 | [STEP \-season 02\-](https://open.spotify.com/track/4jPW4GbHYbgWrNEpoS2mES) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:16 |
-| 44 | [Wake Up](https://open.spotify.com/track/2bQTmdOKGgqO2OT2jEVf1g) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:13 |
-| 45 | [missing you](https://open.spotify.com/track/40AUDiMUMRhyx0IzQWY7MD) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:55 |
-| 46 | [treasure](https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:20 |
+| 31 | [irony \-season 02\-](https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:19 |
+| 32 | [瞳の中のローレライ](https://open.spotify.com/track/0GxGhggqr0zvTiFb5yEC4z) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:13 |
+| 33 | [nexus](https://open.spotify.com/track/1j6UfYcCYnSJa1FpdFBMEr) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:51 |
+| 34 | [PRECIOUS](https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:27 |
+| 35 | [カラフル \-2017\-](https://open.spotify.com/track/1yGtzIGEap6EE5jsRly23m) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:33 |
+| 36 | [Summer Delay](https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:14 |
+| 37 | [Twinkle Twinkle](https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Twinkle Twinkle](https://open.spotify.com/album/7ti4tcjdsbO4J9aENCzaoX) | 3:50 |
+| 38 | [Clear Sky](https://open.spotify.com/track/4hyUMlOse5Cs037QohpGFM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:22 |
+| 39 | [Gravity](https://open.spotify.com/track/31FWbJsuaaqqk87RwYRqNg) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:12 |
+| 40 | [Mermaid](https://open.spotify.com/track/20iLkzds9JViZjGm7BZQB2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:10 |
+| 41 | [Sweet Holic](https://open.spotify.com/track/5jIa584Dyf6YzMFUsdWRkq) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/2DvBe1kVqRuZHzsVNZOu1p) | 3:47 |
+| 42 | [STEP \-season 02\-](https://open.spotify.com/track/4jPW4GbHYbgWrNEpoS2mES) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:16 |
+| 43 | [アネモネ](https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:32 |
+| 44 | [missing you](https://open.spotify.com/track/40AUDiMUMRhyx0IzQWY7MD) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:55 |
+| 45 | [treasure](https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:20 |
+| 46 | [Wake Up](https://open.spotify.com/track/2bQTmdOKGgqO2OT2jEVf1g) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:13 |
 | 47 | [nexus \-season 02\-](https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:54 |
-| 48 | [冬空花火](https://open.spotify.com/track/6eArFjBGBVdWlCwOIZzmi5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [PRIMALove](https://open.spotify.com/album/5Qq5eR5DCQczvzzLV7e1LX) | 4:29 |
-| 49 | [タッチ](https://open.spotify.com/track/6FnQ5TUNu8DJxKJDwYeFJR) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS \-夏のうた\-](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 3:07 |
-| 50 | [明日、春が来たら](https://open.spotify.com/track/28E0uOrw97kb28l1lqSuWk) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SPRING TRACKS \-春のうた\-](https://open.spotify.com/album/75iexQXsMr2LPouyL45o8U) | 4:44 |
+| 48 | [ORION](https://open.spotify.com/track/5hwhF9mnsPRQvJBSbZRoUG) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [WINTER TRACKS \-冬のうた\-](https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n) | 4:50 |
+| 49 | [冬空花火](https://open.spotify.com/track/6eArFjBGBVdWlCwOIZzmi5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [PRIMALove](https://open.spotify.com/album/5Qq5eR5DCQczvzzLV7e1LX) | 4:29 |
+| 50 | [タッチ](https://open.spotify.com/track/6FnQ5TUNu8DJxKJDwYeFJR) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS \-夏のうた\-](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 3:07 |
 
-Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDAxODI4MzkwNjFmYmM4YmFiZmEzMTU4ZmY1NjkwNWY3ZA==`
+Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDA3YWRjZmM3ZjRmZmZkZTkwZDUwMjEyMjQ0MmU0MWFkYQ==`

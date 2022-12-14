@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,511 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,525 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 37 | [Cobarde, Cobarde](https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 4:19 |
 | 38 | [Un Beso y una Flor](https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh) | 4:34 |
 | 39 | [La Quiero a Morir / Si Algún Día la Vez](https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ) | 6:33 |
-| 40 | [Mi Novia, Mi Amante y Mujer](https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Otro Dia Mas Sin Verte](https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP) | 4:47 |
-| 41 | [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 |
+| 40 | [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 |
+| 41 | [Mi Novia, Mi Amante y Mujer](https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Otro Dia Mas Sin Verte](https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP) | 4:47 |
 | 42 | [Asesina](https://open.spotify.com/track/4GBckDRx31bcHW13OCV61W) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:45 |
 | 43 | [Un Buen Perdedor](https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Exclusivo](https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM) | 4:47 |
 | 44 | [Con los Ojos Cerrados](https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Milly & Company](https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 59 | [Maldita Sea](https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC) | 4:15 |
 | 60 | [Dicen](https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Majao Majao](https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo) | 4:45 |
 
-Snapshot ID: `MTYzNDY2NDUwMiwwMDAwMDAwMDdlMDc4NmExMjdmMTcwOWJkZmVlZmZjYmFmMzRhYjVj`
+Snapshot ID: `MTYzNDY2NDUwMiwwMDAwMDAwMDAzOTJmNDBiMmU1MTdiNWQyZGU5ZTQ0ZTBjYjQzMDRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,765 likes - 350 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,990 likes - 350 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 96 | [Slowdown](https://open.spotify.com/track/2IpmQO6mPAmx3StyIDpqKe) | [landq](https://open.spotify.com/artist/1RbHqyLEOuXC9fy1me1VFJ) | [Slowdown](https://open.spotify.com/album/4BIBrBkF0tGLUsid8qR738) | 2:09 |
 | 97 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 |
 | 98 | [In Bloom](https://open.spotify.com/track/6uxits25W76rYLfFshJKvs) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [In Bloom](https://open.spotify.com/album/6OjWvKpu6EoPGlnNaO5WXb) | 2:30 |
-| 99 | [Shape](https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C) | 1:48 |
+| 99 | [Shape](https://open.spotify.com/track/4vctnDV4Kft8buepkkUOI9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/20odQgHpucqurWxbT3JX8O) | 1:48 |
 | 100 | [Constellations](https://open.spotify.com/track/5RFKFFRvfkD1dit5DB6bfW) | [Yinoluu](https://open.spotify.com/artist/4hxXN5tCtr28dBaKTsCYii) | [Constellations](https://open.spotify.com/album/5R9aCPjyp8MF2cZ5THlw2E) | 2:40 |
 | 101 | [debris](https://open.spotify.com/track/2BW8p88UBLM5iegKDq6shW) | [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [debris](https://open.spotify.com/album/0YPSDgFj9PGi3cVD5ED52E) | 2:03 |
 | 102 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 |
@@ -317,7 +317,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 307 | [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 |
 | 308 | [8th grade high](https://open.spotify.com/track/7bnOjrsU23UQk9lof4OLTg) | [junyii.](https://open.spotify.com/artist/5V9nIniPnGHfOIEQrPiAre), [Chill Children](https://open.spotify.com/artist/1HIUSy6Z18XvHfvsGPSWYx) | [8th grade high](https://open.spotify.com/album/7v0ygWKnudUMhHGa0kcnm3) | 1:32 |
 | 309 | [Exomoon](https://open.spotify.com/track/4FLT1TsEUpJeme07ITfMkn) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Exomoon](https://open.spotify.com/album/2OzIqe33YRwCqjuS3rmjK3) | 2:14 |
-| 310 | [Quiet Times](https://open.spotify.com/track/0lnaNbGICvWHQwQzE5jYO8) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/3Zf3qc9skmzkSI4heGer1R) | 1:42 |
+| 310 | [Quiet Times](https://open.spotify.com/track/7vlCRsIyOonWCUOVe8dIwV) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/6kOYFW2TyGOf3iyNN1LChY) | 1:42 |
 | 311 | [Pause](https://open.spotify.com/track/1wbCJkX2qff7wTqVHou8Ow) | [Mi Ka](https://open.spotify.com/artist/7rbh86THQLpEnUvTQ9lAL4) | [Pause](https://open.spotify.com/album/4YkSDC2P672kF8PfVpMeXY) | 2:54 |
 | 312 | [Blessings](https://open.spotify.com/track/4hE1uYOJZy6UPe1mTGQBhK) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Blessings](https://open.spotify.com/album/5vgWOjahlIwxaVgsKDqE7k) | 2:18 |
 | 313 | [Lazy Dreams](https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Lazy Dreams](https://open.spotify.com/album/0dsR4JBGi6wYvVh8NF9PB9) | 2:12 |
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 349 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 |
 | 350 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 |
 
-Snapshot ID: `MTY3MDU5MDQyMiwwMDAwMDAwMDdjZWYyMDI4NDQ2ZTFkNzhjOWFmOTVhYWMxMDBkNTNi`
+Snapshot ID: `MTY3MDU5MDQyMiwwMDAwMDAwMDkwZDg3ZjFlN2UxY2ZmYzNkODUxNWVmYmNiYzNiOWZm`

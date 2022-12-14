@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,436 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,493 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 43 | [Ghetto Love](https://open.spotify.com/track/4lzkcjVC7xT3HBIg2PjJ30) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto Love](https://open.spotify.com/album/2HEw2wkLTBWlbk8lGSqnY2) | 3:18 |
 | 44 | [Shayo](https://open.spotify.com/track/37KRtNYpPJ2tK6UcT8PGr0) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Diamond in the Rough](https://open.spotify.com/album/6t7hQNIVpEOG7Lpk5rJIYZ) | 2:52 |
 | 45 | [Sponono](https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE) | 6:35 |
-| 46 | [Opo \(feat\. Wizkid\)](https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 |
-| 47 | [Only You \(feat\. WizKid, Offset & J Balvin\)](https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:38 |
+| 46 | [Only You \(feat\. WizKid, Offset & J Balvin\)](https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:38 |
+| 47 | [Opo \(feat\. Wizkid\)](https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 |
 | 48 | [Omo Olomo](https://open.spotify.com/track/52dfPXnhw6T9PJZ839w169) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Omo Olomo](https://open.spotify.com/album/6EQxI2JlN9WV4hXWCbdhfl) | 3:03 |
 | 49 | [Boom \(feat\. MOTi, Ty Dolla $ign, Wizkid & Kranium\)](https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 3:06 |
 | 50 | [Final \(Baba Nla\)](https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Final \(Baba Nla\) \- Single](https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t) | 2:40 |
 
-Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDAwNTkyNDYzZjkyOGU2ZWRmMjVkMjJmZDcxNWQ1NTFiYw==`
+Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDAzMDEwYzE3NThiNDA4NjllMTZlNGRlOGU4MDhkMjJjNg==`

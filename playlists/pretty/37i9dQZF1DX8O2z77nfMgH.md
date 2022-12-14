@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,006 likes - 62 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,041 likes - 62 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Mama Tierra \- Remix](https://open.spotify.com/track/1jmQeaAlxVChvEboUSMzCN) | [Dominguez](https://open.spotify.com/artist/2IRmJI4wIQeUemGfcF4orF), [Toledo](https://open.spotify.com/artist/2edDMZSglhNmjytJPdkSbZ) | [Mama Tierra \(Remix\)](https://open.spotify.com/album/1JGIZmUyEekR8enlVVra1G) | 3:09 |
 | 55 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 |
 | 56 | [Amazona Endemoniada](https://open.spotify.com/track/4XZpANNjqgCcAHx3wD0P0y) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Amazona Endemoniada](https://open.spotify.com/album/07BTJJhAKp7rJZSKLbzwJf) | 3:28 |
-| 57 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 |
+| 57 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 |
 | 58 | [Para Lennon e McCartney / Citação: O Vento](https://open.spotify.com/track/5wWVluHjM6PUU68gNSkbYm) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Para Lennon e McCartney / Citação: O Vento](https://open.spotify.com/album/6XN1f9w4y3OuBqu0t2Qwe2) | 3:48 |
 | 59 | [Não Mente pra Ela](https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:55 |
 | 60 | [Sem Ar / A Vida É Mesmo Assim / Pouco a Pouco \- Ao Vivo](https://open.spotify.com/track/5qj3fyI8C4QmH4tbGju1Xj) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Belo In Concert \(Espaço das Américas\) \[Ao Vivo\]](https://open.spotify.com/album/0N3LO3B14tMafJK7WBkmio) | 5:04 |

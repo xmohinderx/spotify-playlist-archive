@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5183,
+  "num_followers": 5214,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MDA5MywwMDAwMDAwMDFiODM4YTJjNzBmM2EwYjA1ODExMzY4MTg1MDY4Yzc3",
+  "snapshot_id": "MTYxNTQ4MDA5MywwMDAwMDAwMDFmZDFiMTUzNmQ4Y2QxMDgxZGQ5YWE0MjgzODg2NGNk",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Chapter 5",
+        "url": "https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 228937,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "BORN AGAIN",
-        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 260832,
-      "name": "December",
-      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "White",
         "url": "https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 249226,
       "name": "Eternal Love",
       "url": "https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "BORN AGAIN",
+        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 260832,
+      "name": "December",
+      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -495,22 +511,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "We are the future",
-      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Choose My Life-U - The 5th Album",
         "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 228000,
       "name": "Just A Feeling - Original Version",
       "url": "https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "We are the future",
+      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -543,34 +559,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "280KM SPEED",
-        "url": "https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 193085,
-      "name": "\uac80\uc740 \uace0\uc591\uc774 \ub124\ub85c",
-      "url": "https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Chapter 5",
-        "url": "https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "duration_ms": 228937,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7"
+      "duration_ms": 243488,
+      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
+      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+        "name": "280KM SPEED",
+        "url": "https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI"
       },
       "artists": [
         {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
         }
       ],
-      "duration_ms": 243488,
-      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
-      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
+      "duration_ms": 193085,
+      "name": "\uac80\uc740 \uace0\uc591\uc774 \ub124\ub85c",
+      "url": "https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        }
-      ],
-      "duration_ms": 233966,
-      "name": "\ub09c \ub110 \uc6d0\ud574",
-      "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK"
       },
@@ -703,18 +687,34 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Com` Back",
-        "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 232160,
-      "name": "Com` Back",
-      "url": "https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8"
+      "duration_ms": 219978,
+      "name": "\ud574\ubcc0\uc758 \uc5ec\uc778",
+      "url": "https://open.spotify.com/track/42TBLoQJ4aETzku6qEg3NF"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 233966,
+      "name": "\ub09c \ub110 \uc6d0\ud574",
+      "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -735,18 +735,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+        "name": "Com` Back",
+        "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
       },
       "artists": [
         {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
         }
       ],
-      "duration_ms": 219978,
-      "name": "\ud574\ubcc0\uc758 \uc5ec\uc778",
-      "url": "https://open.spotify.com/track/42TBLoQJ4aETzku6qEg3NF"
+      "duration_ms": 232160,
+      "name": "Com` Back",
+      "url": "https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        }
-      ],
-      "duration_ms": 187259,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Cyber Yoo Sueng Jun",
         "url": "https://open.spotify.com/album/3jrD9RUkQcrFZpy2dZL5sD"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 234066,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/5NEyoTXkeo2L6UkRgRgSKD"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 187259,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Jinusean",
-        "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 243910,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/1XZHPuWHpyaVRsgOW2OVoB"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Come Come Come baby",
         "url": "https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 231888,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Jinusean",
+        "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 243910,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/1XZHPuWHpyaVRsgOW2OVoB"
     },
     {
       "added_at": "2021-03-11 16:28:13",

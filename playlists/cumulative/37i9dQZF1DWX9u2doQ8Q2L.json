@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "\u70b9\u63cf",
+        "url": "https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf"
+      },
+      "artists": [
+        {
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258146,
+      "name": "blur and flower",
+      "url": "https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ"
+    },
+    {
+      "album": {
         "name": "BOUNCE DANCE (Ill Japonia remix)",
         "url": "https://open.spotify.com/album/4XhQpW4vMlheVHB1ZNpyP5"
       },
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 210079,
       "name": "dead2me.",
       "url": "https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3"
@@ -1538,6 +1556,28 @@
     },
     {
       "album": {
+        "name": "Drowning (feat. J.O.Y)",
+        "url": "https://open.spotify.com/album/04dAftkDJfXYsM9GF3tnXN"
+      },
+      "artists": [
+        {
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+        },
+        {
+          "name": "J.O.Y",
+          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279512,
+      "name": "Drowning (feat. J.O.Y)",
+      "url": "https://open.spotify.com/track/1cRUDjkjbNzIgmWvr7I7Ku"
+    },
+    {
+      "album": {
         "name": "Les Mis\u00e9 blue",
         "url": "https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs"
       },
@@ -1633,8 +1673,8 @@
       },
       "artists": [
         {
-          "name": "\u5b87\u591a\u7530\u30d2\u30ab\u30eb",
-          "url": "https://open.spotify.com/artist/6MMLp7FXx1mewrxMaLr85Y"
+          "name": "Utada Hikaru",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
       "date_added": "2022-12-08",
@@ -3455,7 +3495,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 150697,
       "name": "Me Today",
       "url": "https://open.spotify.com/track/0NFUUAKVL0d6SpqJVwwGNx"
@@ -3499,6 +3539,24 @@
       "duration_ms": 328937,
       "name": "Michael Mann",
       "url": "https://open.spotify.com/track/4jq0Xk5OSi22HpG8gaVy63"
+    },
+    {
+      "album": {
+        "name": "Midnight Inclusion",
+        "url": "https://open.spotify.com/album/6peKRsEDyhcbArzx9S0RWl"
+      },
+      "artists": [
+        {
+          "name": "Mashiro Shirakami",
+          "url": "https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224544,
+      "name": "Midnight Inclusion",
+      "url": "https://open.spotify.com/track/6Q1azlryOoKMGl8hOTL6oY"
     },
     {
       "album": {
@@ -3993,7 +4051,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 216634,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/620i08CTZIo1K9ycN144lg"
@@ -4545,6 +4603,24 @@
       "duration_ms": 249062,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6crmtADvci3cPjB2jjjVqm"
+    },
+    {
+      "album": {
+        "name": "fab",
+        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219033,
+      "name": "Ravel",
+      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
     },
     {
       "album": {
@@ -6357,7 +6433,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 201111,
       "name": "Trust the Change",
       "url": "https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR"
@@ -7129,7 +7205,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 156000,
       "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 - \u306a\u3093\u306b\u3082",
       "url": "https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV"
@@ -7427,6 +7503,24 @@
       "duration_ms": 202875,
       "name": "\u30b7\u30e7\u30fc\u30c8\u30b7\u30e7\u30fc\u30c8",
       "url": "https://open.spotify.com/track/0NZcinfdZ1THF9YaFaigid"
+    },
+    {
+      "album": {
+        "name": "\u967d\u6c17\u306a\u4f11\u65e5",
+        "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "\u30b9\u30c6\u30f3\u30c9\u306e\u591c",
+      "url": "https://open.spotify.com/track/0m0KEWllO59oDfHdYAiyV3"
     },
     {
       "album": {
@@ -7989,7 +8083,7 @@
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
+          "name": "Utada Hikaru",
           "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],

@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Tasha Cobbs Leonard",
-  "num_followers": 31528,
+  "num_followers": 31612,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU3Mzk3NiwwMDAwMDAwMDVjNDk3MzkzZGFkNWI1MTZlZTkxYzljZDg3NGJlZjQ0",
+  "snapshot_id": "MTY2NDU3Mzk3NiwwMDAwMDAwMDRkYWQwZDkzZTM2ZjhmYjEwZWUyMjRmNTdjMzI2YjA1",
   "tracks": [
     {
       "added_at": "2022-09-30 21:39:36",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 405912,
+      "name": "He Understands",
+      "url": "https://open.spotify.com/track/4e8QBO7h3dqLmPukNuE6Qi"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
         "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
         "url": "https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 344325,
       "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 405912,
-      "name": "He Understands",
-      "url": "https://open.spotify.com/track/4e8QBO7h3dqLmPukNuE6Qi"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "Breakthrough: The Exodus (Live)",
-        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
-      },
-      "artists": [
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        }
-      ],
-      "duration_ms": 518057,
-      "name": "All Of My Help - Live",
-      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
         "name": "Hard Times (feat. Mali Music)",
         "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 205333,
       "name": "Hard Times (feat. Mali Music)",
       "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
+        "name": "Breakthrough: The Exodus (Live)",
+        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "duration_ms": 518057,
+      "name": "All Of My Help - Live",
+      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
+        "name": "Lift Me Again (Acoustic)",
+        "url": "https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 216055,
+      "name": "Lift Me Again - Acoustic",
+      "url": "https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
         "name": "GREAT IS YOUR FAITHFULNESS",
         "url": "https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "Lift Me Again (Acoustic)",
-        "url": "https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR"
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
       },
       "artists": [
         {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         }
       ],
-      "duration_ms": 216055,
-      "name": "Lift Me Again - Acoustic",
-      "url": "https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv"
+      "duration_ms": 270750,
+      "name": "Holy Essence",
+      "url": "https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -863,38 +879,6 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 270750,
-      "name": "Holy Essence",
-      "url": "https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 186337,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
         "name": "Not Forgotten",
         "url": "https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 284000,
       "name": "Not Forgotten",
       "url": "https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 186337,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
+      },
+      "artists": [
+        {
+          "name": "Matthews Ntlele",
+          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 212615,
       "name": "NO WORRIES",
       "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
-      },
-      "artists": [
-        {
-          "name": "Matthews Ntlele",
-          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "I's On Him",
-        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
-      },
-      "artists": [
-        {
-          "name": "Jay Violet",
-          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "I's On Him",
-      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
         "name": "Keep Me",
         "url": "https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52"
       },
@@ -1079,22 +1059,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "Praise and Protest",
-        "url": "https://open.spotify.com/album/5wU3uNmNLd7crGbr8yM175"
+        "name": "I's On Him",
+        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
       },
       "artists": [
         {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+          "name": "Jay Violet",
+          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
         },
         {
-          "name": "Sharon Irving",
-          "url": "https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt"
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
         }
       ],
-      "duration_ms": 217940,
-      "name": "Our Psalm 23",
-      "url": "https://open.spotify.com/track/0BJsVtSnHdhzKIWDwJ0cub"
+      "duration_ms": 181416,
+      "name": "I's On Him",
+      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -1115,6 +1095,26 @@
       "duration_ms": 137064,
       "name": "GOD'S LOVE",
       "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
+        "name": "Praise and Protest",
+        "url": "https://open.spotify.com/album/5wU3uNmNLd7crGbr8yM175"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Sharon Irving",
+          "url": "https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt"
+        }
+      ],
+      "duration_ms": 217940,
+      "name": "Our Psalm 23",
+      "url": "https://open.spotify.com/track/0BJsVtSnHdhzKIWDwJ0cub"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "God of Dreams",
-        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "I Was Loved",
-        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
+        "name": "God of Dreams",
+        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
       },
       "artists": [
         {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
         }
       ],
-      "duration_ms": 281880,
-      "name": "I Was Loved",
-      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
+      "duration_ms": 161454,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -1399,6 +1383,22 @@
       "duration_ms": 627926,
       "name": "This Is What It Looks Like - Live",
       "url": "https://open.spotify.com/track/4b7YOF5Pe8YaQ7ReIPf3gk"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
+        "name": "I Was Loved",
+        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
+      },
+      "artists": [
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "I Was Loved",
+      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
     },
     {
       "added_at": "2022-09-30 21:39:36",

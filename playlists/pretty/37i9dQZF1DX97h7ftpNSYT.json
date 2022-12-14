@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Meek Mill",
-  "num_followers": 114816,
+  "num_followers": 115029,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGZkODE3N2E5NTk3NDVjNzE1NGY3ODUzNjkwMGJmMDg3",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDY1MDY4NmFkNzMwMGYzYjdiYmZjNjMzNzE4Mzc4NTNk",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255378,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 220486,
       "name": "High Fashion (feat. Mustard)",
       "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255378,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1791,46 +1791,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
-      },
-      "artists": [
-        {
-          "name": "Rich Gang",
-          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 269693,
-      "name": "Lifestyle",
-      "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Slime Season 3",
-        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Digits",
-      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Drip Season 3 (Deluxe)",
         "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
@@ -1851,6 +1811,46 @@
       "duration_ms": 199011,
       "name": "Oh Okay (feat. Young Thug & Lil Baby)",
       "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Slime Season 3",
+        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Digits",
+      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
+      },
+      "artists": [
+        {
+          "name": "Rich Gang",
+          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 269693,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
     },
     {
       "added_at": "2022-11-18 05:00:00",

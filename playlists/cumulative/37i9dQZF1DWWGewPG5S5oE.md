@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: H ZETTRIO
 
-84 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/7J6KTI9ttmEPnJtwsQFdN5)
+85 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/7J6KTI9ttmEPnJtwsQFdN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Lucky Cookie](https://open.spotify.com/track/1Mv9PQtywsX4dzfJzgmiC2) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Lucky Cookie](https://open.spotify.com/album/4cZqvtPsv9aEw0L8UHDTsE) | 3:52 | 2022-11-15 |  |
 | [MASQUERADE!](https://open.spotify.com/track/7COeUxxiLP2GqTIzOvCZhK) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [MASQUERADE!](https://open.spotify.com/album/4Z7AfRdyvxpPPH837iTaXS) | 3:48 | 2022-09-06 | 2022-10-05 |
 | [Midnight Crisp](https://open.spotify.com/track/44egUa8FkT17spwSFvQis6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG) | 5:26 | 2022-09-06 |  |
+| [Mile in the green](https://open.spotify.com/track/6SBIYkYegPIhLjgsO9KPpY) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Spice rhythm](https://open.spotify.com/artist/5lmsbZAumn8MwK6llKn4Kx) | [Mile in the green](https://open.spotify.com/album/73U232pI9TANrWBWEdgLe0) | 7:03 | 2022-12-13 |  |
 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 | 2022-09-06 |  |
 | [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 | 2022-09-06 |  |
 | [Mr.Kelp](https://open.spotify.com/track/78AsSev9SxDU4H1TNOpeQr) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Mr.Kelp](https://open.spotify.com/album/397OakmJY7vTlw15J9b1dK) | 3:56 | 2022-10-11 | 2022-11-16 |
@@ -79,7 +80,7 @@
 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 | 2022-09-06 |  |
 | [アイ・ミス・ユー](https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [ムード・インディゴ](https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM) | 4:47 | 2022-09-06 | 2022-10-11 |
 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 | 2022-09-06 |  |
-| [スパルタカス\~愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 | 2022-11-15 |  |
+| [スパルタカス\~愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 | 2022-11-15 | 2022-12-14 |
 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 | 2022-09-06 |  |
 | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/track/68Kxl8innv2zWN3epatGk9) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/album/3Ykac9AA0n5R2QiodHXmxq) | 5:12 | 2022-09-27 | 2022-10-26 |
 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 | 2022-09-06 |  |

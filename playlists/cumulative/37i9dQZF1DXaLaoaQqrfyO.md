@@ -4,7 +4,7 @@
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-236 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/2VTzOCqf9seV9cXRnrcZT1)
+237 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/2VTzOCqf9seV9cXRnrcZT1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [American Teen](https://open.spotify.com/track/16mOynxbHDGdGWKErK5LO5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/397yLdCylWx9zTgt2mqpxd) | 4:10 | 2021-03-15 | 2022-07-29 |
 | [Animal \(10th Anniversary Edition\) \- Acoustic](https://open.spotify.com/track/0ZXSZYdrNLu2hciAxcp3ml) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Animal \(10th Anniversary Edition\) \[Acoustic\]](https://open.spotify.com/album/3hmvvdnwa7pVLnqI6KEAIj) | 4:11 | 2021-03-15 | 2022-07-08 |
 | [Anna Sun](https://open.spotify.com/track/0B1ir19jaWI1KNDbWbXwEZ) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon \(Expanded Edition\)](https://open.spotify.com/album/3Bpb5jmMbmqddRmfQjmJlU) | 5:21 | 2021-03-15 | 2022-07-29 |
+| [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 | 2021-03-15 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2021-03-15 | 2022-11-25 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2021-03-15 |  |
 | [Arm's Length](https://open.spotify.com/track/7jdBp6gDHrCK0YVKuqrU8d) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Bloo](https://open.spotify.com/album/0TFdDTdVMTm0u5VkbAumE1) | 3:20 | 2021-03-15 | 2022-07-09 |
@@ -68,7 +69,7 @@
 | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [2.0](https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH) | 4:40 | 2021-03-15 |  |
 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 | 2021-03-15 | 2022-07-29 |
 | [Diane Young](https://open.spotify.com/track/5M66BjyDzijqQPLNbyujAt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/6rhe02ppDhYAvPmavWeBkZ) | 2:40 | 2021-03-15 | 2022-07-07 |
-| [Die Young](https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:30 | 2021-03-15 |  |
+| [Die Young](https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:30 | 2021-03-15 | 2022-12-14 |
 | [Dirty Paws](https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:38 | 2021-03-15 |  |
 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 | 2021-03-15 |  |
 | [Dog Days Are Over](https://open.spotify.com/track/6dux5viG3Ku3IefPx3gFNT) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Between Two Lungs](https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh) | 4:12 | 2021-03-15 | 2022-07-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 524758,
+  "num_followers": 524964,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNjAwMCwwMDAwMDAwMDNjOTdkOGE4OTE1MzVjODBmMzNhZTQ3NGMxODFmMDcw",
+  "snapshot_id": "MTY2ODcyNjAwMCwwMDAwMDAwMGVjZWJjZjNiMTljZjRkZGI3MDg1ZmIzNzdmYjlkMDg2",
   "tracks": [
     {
       "added_at": "2022-11-17 23:00:00",
@@ -143,18 +143,22 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+        "name": "Stockholmsvy",
+        "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 295454,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
+      "duration_ms": 161396,
+      "name": "Stockholmsvy",
+      "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -175,22 +179,18 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Stockholmsvy",
-        "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 161396,
-      "name": "Stockholmsvy",
-      "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+      "duration_ms": 295454,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Rose Pink Cadillac",
-      "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 187388,
       "name": "Certainty",
       "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Rose Pink Cadillac",
+      "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
+        "name": "Curls",
+        "url": "https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 252080,
       "name": "Permanent Way",
       "url": "https://open.spotify.com/track/4ewgXAEfRGjay6kmYSfbfW"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
-        "name": "Curls",
-        "url": "https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -507,6 +507,22 @@
       "duration_ms": 167333,
       "name": "Only For A Moment",
       "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -599,22 +615,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 265410,
-      "name": "August 10",
-      "url": "https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 156786,
       "name": "Same Light",
       "url": "https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 265410,
+      "name": "August 10",
+      "url": "https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Golden Rope",
-        "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
-      },
-      "artists": [
-        {
-          "name": "Bulgarian Cartrader",
-          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
-        }
-      ],
-      "duration_ms": 220275,
-      "name": "Golden Rope",
-      "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 219562,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Golden Rope",
+        "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
+      },
+      "artists": [
+        {
+          "name": "Bulgarian Cartrader",
+          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
+        }
+      ],
+      "duration_ms": 220275,
+      "name": "Golden Rope",
+      "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Chin Up",
-        "url": "https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 265213,
-      "name": "Chin Up",
-      "url": "https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Bathroom Light",
         "url": "https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 188266,
       "name": "Bathroom Light",
       "url": "https://open.spotify.com/track/71glNHT4FultOqlau4zrFf"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Chin Up",
+        "url": "https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "Chin Up",
+      "url": "https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Ocean Wide",
-        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
-      },
-      "artists": [
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 184515,
-      "name": "Ocean Wide",
-      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Through Water",
         "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 188800,
       "name": "Speaking of the End",
       "url": "https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Ocean Wide",
+        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 184515,
+      "name": "Ocean Wide",
+      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 226165,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Welcome To Kookoo Island",
-        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 226165,
-      "name": "Belo Horizonte",
-      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Rio Grande",
         "url": "https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3"
       },
@@ -1263,6 +1263,26 @@
       "duration_ms": 216506,
       "name": "One Evening",
       "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "No Goodbye",
+        "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "No Goodbye",
+      "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1311,26 +1331,6 @@
       "duration_ms": 284653,
       "name": "Isn't Ever A Day",
       "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
-        "name": "No Goodbye",
-        "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "No Goodbye",
-      "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "This Here Island",
-        "url": "https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "This Here Island",
-      "url": "https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Cartoon People",
         "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 213539,
       "name": "Cartoon People",
       "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "This Here Island",
+        "url": "https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 243498,
+      "name": "This Here Island",
+      "url": "https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh"
     },
     {
       "added_at": "2022-11-17 23:00:00",

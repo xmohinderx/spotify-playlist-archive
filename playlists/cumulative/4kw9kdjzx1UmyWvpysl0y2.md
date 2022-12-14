@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-370 songs - 21 hr 38 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+371 songs - 21 hr 42 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 | 2022-05-10 |
 | [Murda](https://open.spotify.com/track/2FZgVtcQhxPTeWJw7TZy3q) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Murda](https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1) | 3:00 | 2021-11-19 | 2022-02-09 |
 | [My Heart’s on Fire](https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Qvckslvr](https://open.spotify.com/artist/59dor9AF3qBCxesH4MKQ6M) | [My Heart’s on Fire](https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2) | 3:11 | 2022-10-27 |  |
+| [My Mind \- Badjokes Remix](https://open.spotify.com/track/3wEYYSOSwCF7iSA7b2Cf9b) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD) | [Introspection \(Remixes\)](https://open.spotify.com/album/2u680EuTLOLYxNnEUet4lu) | 4:11 | 2022-12-13 |  |
 | [My Mind \- Badjokes Remix](https://open.spotify.com/track/7uF9c7MgOQryPCXa7We2xM) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD) | [My Mind \(Badjokes Remix\)](https://open.spotify.com/album/2ddkGLWOrggjL1zFn2pXZL) | 4:11 | 2022-11-25 |  |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-02-17 | 2022-04-29 |
 | [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 | 2022-10-19 |  |
@@ -295,7 +296,7 @@
 | [SICKO](https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 1:45 | 2022-10-20 |  |
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 | 2022-07-08 |
 | [Sky](https://open.spotify.com/track/3W6vWG13TkIE12QTdCSfUT) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Sky](https://open.spotify.com/album/4SHvglDiEuw5FKPshkQ9Hi) | 3:36 | 2022-10-29 |  |
-| [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 | 2022-10-14 |  |
+| [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 | 2022-10-14 | 2022-12-14 |
 | [SLEEPER](https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 2:52 | 2022-10-20 |  |
 | [Slip Away](https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ), [Kid Spirit](https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A) | [Slip Away](https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9) | 3:22 | 2022-10-18 |  |
 | [Smile](https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Lalo](https://open.spotify.com/artist/2of5gwyLkBz7D4phC09h3f) | [Smile](https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2) | 3:25 | 2022-09-08 | 2022-11-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,174 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,180 likes - 75 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 32 | [It Was Only a Dream](https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Night Drive](https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i) | 5:58 |
 | 33 | [Gemini](https://open.spotify.com/track/3FrhNWIcRxrPFFcqFernIp) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:56 |
 | 34 | [\#4](https://open.spotify.com/track/0FxUnU4EjDoDGRiFuVjyBH) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:39 |
-| 35 | [Eleven](https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 3:14 |
+| 35 | [This Isn't You](https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 2:23 |
 | 36 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 |
 | 37 | [Don't Forget](https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Die of The Waters](https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf) | 3:06 |
-| 38 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 |
+| 38 | [The Price of Failure](https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [I Am the Night](https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd) | 6:21 |
 | 39 | [Ones Atop the Unknown](https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:37 |
-| 40 | [The Price of Failure](https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [I Am the Night](https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd) | 6:21 |
+| 40 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 |
 | 41 | [\#5](https://open.spotify.com/track/4HBo946zIZAYhyzlZ7hfGo) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 8:55 |
 | 42 | [Acid Rain on Broken Rooftops](https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Music for an Empty Metropolis](https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo) | 4:38 |
 | 43 | [Now Night Her Course Began](https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE) | [Sephiroth](https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo) | [Draconian Poetry](https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp) | 9:03 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 47 | [The Experience Of Swimming \- 2003 Digital Remaster](https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Gentlemen Take Polaroids](https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW) | 4:04 |
 | 48 | [Sick Times](https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:16 |
 | 49 | [dlp 2.1](https://open.spotify.com/track/6rGCDGnhg2ztHpV7bT2dG2) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 10:50 |
-| 50 | [Vortex](https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 4:44 |
+| 50 | [Neon Dawn](https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V) | 5:22 |
 | 51 | [\#6](https://open.spotify.com/track/6ucdKYdgqPpt5c7QqPAAN1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 3:31 |
-| 52 | [Neon Dawn](https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V) | 5:22 |
+| 52 | [Vortex](https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 4:44 |
 | 53 | [Under the Midnight Sun](https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/2vGukamccOX7WCqir66kWT) | 3:42 |
 | 54 | [Babel](https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7) | [The Word as Power](https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy) | 10:01 |
 | 55 | [Prepare the Stage of Night](https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Cities Last Broadcast](https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4) | [Black Corner Den](https://open.spotify.com/album/10flibooBjjwWKy02B5obV) | 4:24 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 72 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 |
 | 73 | [Ambulance Chase](https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:58 |
 | 74 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 |
-| 75 | [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 |
+| 75 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
 
-Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMDhlMjdjMzliYjI5YTc4YzAwYTFjMTJhZjU1ZGQ0Mzk4`
+Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMGZhMDFmNTI3OWVmZDEyMjI0YjdhYmFmMmY2MTg0ZGYy`

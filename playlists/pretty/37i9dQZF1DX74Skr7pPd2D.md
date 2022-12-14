@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,718 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,725 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 39 | [Dancing In The Dark](https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:35 |
 | 40 | [Summer Samba \(So Nice\)](https://open.spotify.com/track/3EpJ36yrwkPvlUXKeQa7ca) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) | 3:06 |
 | 41 | [Caravan](https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 9:40 |
-| 42 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |
-| 43 | [River](https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 5:24 |
+| 42 | [River](https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 5:24 |
+| 43 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |
 | 44 | [Jive At Six](https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 4:11 |
 | 45 | [Reverend Green](https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [The Very Best Of Jeff Lorber](https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg) | 4:22 |
 | 46 | [Soul Sauce](https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC) | 2:27 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 55 | [BR Blues](https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 3:09 |
 | 56 | [A Simple Tune](https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 4:11 |
 | 57 | [I Wished On The Moon \- Stereo Version](https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [The Genius Of Coleman Hawkins \(Expanded Edition\)](https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz) | 3:37 |
-| 58 | [Brother? Can You Spare A Dime?](https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [You Gotta Pay The Band](https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP) | 6:45 |
-| 59 | [Stella By Starlight](https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Conversations With Myself](https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv) | 4:50 |
-| 60 | [Noche De Ronda](https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:40 |
+| 58 | [Stella By Starlight](https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Conversations With Myself](https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv) | 4:50 |
+| 59 | [Noche De Ronda](https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:40 |
+| 60 | [Brother? Can You Spare A Dime?](https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [You Gotta Pay The Band](https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP) | 6:45 |
 | 61 | [Bye Bye Blackbird](https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 6:42 |
 | 62 | [Ruint](https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 2:31 |
 | 63 | [Movin' Wes \- Pt\. 1](https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Movin' Wes](https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [Blue Moon](https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 4:00 |
 | 100 | [I'll Close My Eyes](https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [Grady Tate](https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 3:23 |
 
-Snapshot ID: `MTYxOTY5MTI1NCwwMDAwMDAwMGU4YTc1NzI5OGM5NDA3ODI0YWZmMzY0MDkzMTVmODQz`
+Snapshot ID: `MTYxOTY5MTI1NCwwMDAwMDAwMDYyMDY2MWE0MzAxNmEyZmQ0ZjU0NzhiNjYxYTVlMTYz`

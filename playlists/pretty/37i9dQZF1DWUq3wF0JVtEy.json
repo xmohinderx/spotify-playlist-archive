@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 873494,
+  "num_followers": 873756,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDNmM2MzMjI4MDQzOWJmMWJkNTMyMDI3MzUwOWY1MmMw",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGUzMzgyMzYxYmU3ZWM4MGY0ZTg2ZTEwODliZDk0Mzcx",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "No Diggity",
         "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 218880,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 140184,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 140184,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        }
+      ],
+      "duration_ms": 242343,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Turn Off The Lights (Cloonee Remix)",
         "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 198754,
       "name": "Turn Off The Lights - Cloonee Remix",
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Welcome to the Club",
-        "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Stonebank",
-          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
-        }
-      ],
-      "duration_ms": 242343,
-      "name": "Welcome to the Club",
-      "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
+      },
+      "artists": [
+        {
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+        },
+        {
+          "name": "Rell Rock",
+          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall) [Cat Dealers Remix]",
         "url": "https://open.spotify.com/album/04pL6T3KzbzyT5bKnvQsjl"
       },
@@ -1443,22 +1463,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
+        "name": "Something's about to go down",
+        "url": "https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK"
       },
       "artists": [
         {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
-        },
-        {
-          "name": "Rell Rock",
-          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
         }
       ],
-      "duration_ms": 180480,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+      "duration_ms": 215090,
+      "name": "Something's about to go down",
+      "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 191285,
       "name": "Get It",
       "url": "https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Something's about to go down",
-        "url": "https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 215090,
-      "name": "Something's about to go down",
-      "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "How it is",
-        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "How it is",
-      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Grimestar",
         "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
+        "name": "How it is",
+        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
       },
       "artists": [
         {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         }
       ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
+      "duration_ms": 181935,
+      "name": "How it is",
+      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "shit i like",
         "url": "https://open.spotify.com/album/26tPz3DGl0Hno8muVnjfx3"
       },
@@ -1767,6 +1767,22 @@
       "duration_ms": 230046,
       "name": "shit i like",
       "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Make Trouble",
+        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1799,22 +1815,6 @@
       "duration_ms": 238085,
       "name": "Forever",
       "url": "https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Make Trouble",
-        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
-      },
-      "artists": [
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Good For Me",
-        "url": "https://open.spotify.com/album/1oZPiBv5jwpMui671bdwPp"
-      },
-      "artists": [
-        {
-          "name": "Chester Young",
-          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Good For Me",
-      "url": "https://open.spotify.com/track/4ajYMWEIDhn78UDHxIIK4s"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Make a Living",
         "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 177798,
       "name": "Make a Living",
       "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Good For Me",
+        "url": "https://open.spotify.com/album/1oZPiBv5jwpMui671bdwPp"
+      },
+      "artists": [
+        {
+          "name": "Chester Young",
+          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/4ajYMWEIDhn78UDHxIIK4s"
     },
     {
       "added_at": "2022-12-02 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,606 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,697 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 24 | [Honky Tonkin'](https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Honky Tonkin \(Expanded Undubbed Edition\)](https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU) | 2:46 |
 | 25 | [The Golden Rocket](https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [The Essential Hank Snow](https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE) | 2:45 |
 | 26 | [Deep In the Heart of Texas](https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:43 |
-| 27 | [Ida Red](https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:20 |
-| 28 | [Roly\-Poly](https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:28 |
+| 27 | [Roly\-Poly](https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:28 |
+| 28 | [Ida Red](https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:20 |
 | 29 | [Mind Your Own Business](https://open.spotify.com/track/00prInR3FA2xwKCzUVhISD) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Honky Tonkin \(Expanded Undubbed Edition\)](https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU) | 2:56 |
 | 30 | [Deck Of Cards](https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 3:05 |
 | 31 | [One Has My Name \(The Other Has My Heart\) \- 1948 Single](https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Vintage Collections](https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU) | 2:48 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 54 | [New San Antonio Rose](https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [The Essential Bob Wills And His Texas Playboys](https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa) | 2:36 |
 | 55 | [I Love You So Much It Hurts](https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Columbia Country Classics Volume 2: Honky Tonk Heroes](https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L) | 2:41 |
 | 56 | [Invisible Stripes](https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ) | [Eddie Noack](https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp) | [Psycho \- The K\-Ark and Allstar Recordings 1962\-1969](https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6) | 2:20 |
-| 57 | [Born to Lose](https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY) | [Ted Daffan's Texans](https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq) | [Columbia Country Classics Volume 1: The Golden Age](https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V) | 2:39 |
-| 58 | [Slowpoke](https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM) | [Pee Wee King](https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2) | [Country Hoedown](https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId) | 2:56 |
+| 57 | [Slowpoke](https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM) | [Pee Wee King](https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2) | [Country Hoedown](https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId) | 2:56 |
+| 58 | [Born to Lose](https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY) | [Ted Daffan's Texans](https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq) | [Columbia Country Classics Volume 1: The Golden Age](https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V) | 2:39 |
 | 59 | [Mule Skinner Blues \(Blue Yodel \#8\)](https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:41 |
 | 60 | [So, Round, So Firm, So Fully Packed](https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [The Very Best Of](https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr) | 2:58 |
 | 61 | [Texarkana Baby](https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Sioux city sue](https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv) | [Hoosier Hot Shots](https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph) | [Everybody Stomp \- Rag Time](https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL) | 2:52 |
 | 70 | [Heavy Traffic Ahead](https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:51 |
 
-Snapshot ID: `MTY1ODY5MzA5OSwwMDAwMDAwMDQ5ZjcxNjQ0YjRjZjA3NjY2ZDA5YjAwYjgzMjA4N2Yy`
+Snapshot ID: `MTY1ODY5MzA5OSwwMDAwMDAwMDA1NjRlN2Y1NjBmOTIyNzBhZDdkNjU2MGFlYWQ0Nzcy`

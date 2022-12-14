@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,731 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,785 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 28 | [Esther](https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 3:12 |
 | 29 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 |
 | 30 | [Rainfall \(Praise You\) \- Nathan Dawe Remix](https://open.spotify.com/track/36VkLBq245WRvM9pVjpQNY) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Rainfall \(Praise You\) \[Nathan Dawe Remix\]](https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K) | 2:17 |
-| 31 | [Foreign Language](https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Foreign Language](https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo) | 4:04 |
+| 31 | [Foreign Language](https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s) | [Foreign Language](https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo) | 4:04 |
 | 32 | [Sundream](https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas \(Light / Dark Deluxe Edition\)](https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47) | 4:35 |
 | 33 | [Lights Go Down \(with SIDEPIECE\)](https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:03 |
 | 34 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 |

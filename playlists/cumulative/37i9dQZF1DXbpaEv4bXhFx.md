@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-191 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
+192 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Rainy Saturday](https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Rainy Saturday](https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2) | 4:04 | 2022-06-20 | 2022-08-14 |
 | [Remind](https://open.spotify.com/track/6saQVRL70Dfs25G0y3S6M9) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Remind](https://open.spotify.com/album/1cli5zZQ2oP31DTO4U8Ybg) | 3:13 | 2022-06-20 | 2022-07-13 |
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2022-06-20 | 2022-12-03 |
+| [ride](https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 3:48 | 2022-11-03 |  |
 | [Run from you](https://open.spotify.com/track/71p6LjYrskpmZa7hvWKHtn) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Run from you](https://open.spotify.com/album/0s3ZnlwcovdIAm1OuWnPn2) | 3:57 | 2022-06-20 | 2022-07-23 |
 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 | 2022-07-08 |  |
 | [Salt Rain](https://open.spotify.com/track/21Zxpp28GSLJIsQujNDQxy) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:36 | 2022-06-20 | 2022-07-29 |
@@ -183,7 +184,7 @@
 | [When It Rains](https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [When It Rains](https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ) | 3:14 | 2022-08-19 | 2022-09-03 |
 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/45R8aMTK1suFXTraQCzVRe) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/album/7cndGLg8JUods3cbsLJvII) | 4:32 | 2022-06-20 | 2022-07-29 |
 | [When It Rains In Night](https://open.spotify.com/track/0C2tTlEGYQnUAVgbtJ68MB) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Thumbs Up!](https://open.spotify.com/album/6AjfY47ASqK3OjjaPxTqaH) | 4:04 | 2022-08-13 |  |
-| [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 | 2022-06-20 |  |
+| [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 | 2022-06-20 | 2022-12-14 |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2022-06-20 |  |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-07-26 |
 | [XXLove](https://open.spotify.com/track/6PFaG6SDFJ9SwrXX6rPBYU) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [XXLove](https://open.spotify.com/album/0breiCTj1nIZwIS261yCPu) | 3:19 | 2022-06-20 | 2022-07-29 |

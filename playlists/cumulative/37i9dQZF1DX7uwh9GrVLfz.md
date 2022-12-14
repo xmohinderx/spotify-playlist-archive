@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: LOW IQ 01
 
-471 songs - 1 day 1 hr 49 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+473 songs - 1 day 1 hr 56 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Life Is A Suspense](https://open.spotify.com/track/72bDB4wY8ztaIG4MJqP5an) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 2:48 | 2022-05-19 | 2022-07-28 |
 | [Light](https://open.spotify.com/track/6Icm9TrCRGE8My2nskUeiD) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [etc.works3](https://open.spotify.com/album/7sCrpXgXyEPQxA6xgebVIv) | 2:45 | 2022-05-17 | 2022-07-17 |
 | [LIGHT AND SHADOW](https://open.spotify.com/track/1s082mgoEEsahrOBoPQSFu) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [SOULS](https://open.spotify.com/album/3uxRIkRdH2sKNoEMqEYK7t) | 2:09 | 2022-05-17 | 2022-07-29 |
-| [Look Back in Anger](https://open.spotify.com/track/7wMDLzxtaAcshebbQsacFn) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [Look Back in Anger](https://open.spotify.com/album/1PcdkMR2ta8lbLnelAl4WB) | 4:33 | 2022-11-01 |  |
+| [Look Back in Anger](https://open.spotify.com/track/7wMDLzxtaAcshebbQsacFn) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [Look Back in Anger](https://open.spotify.com/album/1PcdkMR2ta8lbLnelAl4WB) | 4:33 | 2022-11-01 | 2022-12-14 |
 | [LOSERS WIN LAST](https://open.spotify.com/track/6ZYpueou9LMzTm2qAy0T8G) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [SMILE](https://open.spotify.com/album/5MpZ339ChGKMvQ8umDo1n6) | 2:14 | 2022-06-28 | 2022-07-17 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/5kgoZGkBpXfmOWdfjUA4Tx) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [Lyin' Ass Bitch](https://open.spotify.com/album/6gGMooIW9FGPLa5c5XOxmK) | 4:14 | 2022-07-19 | 2022-09-15 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/2OaRpaOjDXXrExzWADia0L) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [doubt!](https://open.spotify.com/album/2cGhirXNELjlW5NhPBxdSp) | 4:15 | 2022-05-12 | 2022-07-29 |
@@ -253,6 +253,7 @@
 | [Simp](https://open.spotify.com/track/31vkkcXzYE3A7bSKfxemS6) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [Simp](https://open.spotify.com/album/31hzFNxPq3yCYKhIZTa4Pd) | 2:02 | 2022-05-17 | 2022-07-05 |
 | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/track/713QsTBsZ0YQbWrAbZ31Pq) | [For A Reason](https://open.spotify.com/artist/7xKhPv4ap1useGKUaLLh7q) | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/album/3GgSgMFsq1TUV0zYT9tcqo) | 2:50 | 2022-05-12 | 2022-07-23 |
 | [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2022-05-12 |  |
+| [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2022-12-13 |  |
 | [Sleep](https://open.spotify.com/track/6QeU2s3F49pefIGevH0Xcv) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 3:34 | 2022-06-07 | 2022-07-20 |
 | [Slow and steady](https://open.spotify.com/track/3eoivmlvkK9jtgnbAajU4B) | [39degrees](https://open.spotify.com/artist/2sA5clRvdaIZg82RoKYJfy) | [Singles\(June,2022\)](https://open.spotify.com/album/6jZML5zhuUhpybwu4ul8V7) | 3:01 | 2022-06-28 | 2022-07-29 |
 | [Smiles For Miles](https://open.spotify.com/track/6pVvomIJKjAe25SswHayZn) | [COUNTRY YARD](https://open.spotify.com/artist/7zAPELMruolERj0vMJGp76) | [Greatest Not Hits](https://open.spotify.com/album/3Dp7XOglofCbvlgXGP8Wc7) | 2:45 | 2022-05-12 | 2022-07-24 |
@@ -327,6 +328,7 @@
 | [We're going on](https://open.spotify.com/track/1pxSmjAmKp7mtBhOeCtdcb) | [SEPTALUCK](https://open.spotify.com/artist/5SzyFQjwKUq5jq3qeENnZo) | [WAKE A POP! PUNK!! vol.3](https://open.spotify.com/album/0D4tbW8HaOowj16ePH4hxB) | 4:11 | 2022-05-12 | 2022-07-27 |
 | [What We Love, What We Hate](https://open.spotify.com/track/7n5OEftd14mvPLpENYk5el) | [Meaning](https://open.spotify.com/artist/2xx4c1IV8WZlp5z8tuSZNh) | [150](https://open.spotify.com/album/57h12JoIb2hkcRRMq4LkzA) | 4:33 | 2022-05-12 | 2022-07-25 |
 | [Wheel of Life](https://open.spotify.com/track/7iRgD7HUORnoDIAufQBP1u) | [Foad](https://open.spotify.com/artist/4UCLjQ44hZDS1kLx2cf1Uk) | [Returner](https://open.spotify.com/album/3XKQybhJn3gHWto5UfXCFa) | 5:07 | 2022-07-21 | 2022-07-23 |
+| [When the Ship Rolls In](https://open.spotify.com/track/6IUulBDi2zoxZoTlDXLuRe) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Adjusted](https://open.spotify.com/album/3vi50McgHideZ6Ke8dBCzz) | 4:07 | 2022-12-13 |  |
 | [Whistle](https://open.spotify.com/track/5EJlRKWkHK2MrXQYiTcJl2) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [SCAtegory](https://open.spotify.com/album/3hoGg8akRjWHeU1fpI3byQ) | 2:30 | 2022-05-12 |  |
 | [White Flag](https://open.spotify.com/track/1S7w82YQnNXBahXcEBl45y) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt) | [WHITE FLAGS](https://open.spotify.com/album/6OwhjvKw3iLXjA5cOUzPxv) | 3:33 | 2022-05-12 | 2022-07-16 |
 | [Wonderful Song](https://open.spotify.com/track/70Uro20X1C3cR64LDtQlbq) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Brand New Page / Wonderful Song](https://open.spotify.com/album/2REnOFvoeiH21zOW8Y8tIn) | 2:43 | 2022-05-12 | 2022-07-28 |
@@ -427,7 +429,7 @@
 | [女生徒](https://open.spotify.com/track/44x9LuHftRTvQcBysBqaui) | [ジョズエ](https://open.spotify.com/artist/3hHyAPKqKkciTod3I07ofN) | [しゃべるなポーラ](https://open.spotify.com/album/4E7vQguiYVRQktOsnbtFvW) | 3:01 | 2022-05-17 | 2022-07-23 |
 | [孤独のエール](https://open.spotify.com/track/410YjkVGqiqywYYb5kzVut) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [チャリーズ・エンジェル](https://open.spotify.com/album/2UGOD4IJzfSerfa0340Eli) | 4:49 | 2022-05-12 | 2022-07-29 |
 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 | 2022-07-21 |  |
-| [彗星](https://open.spotify.com/track/7IP4KLRpBHMlt8ItnmcIwq) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [シエラのように](https://open.spotify.com/album/0luH7u81HrQytGR9HHRDKs) | 1:51 | 2022-05-17 |  |
+| [彗星](https://open.spotify.com/track/7IP4KLRpBHMlt8ItnmcIwq) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [シエラのように](https://open.spotify.com/album/0luH7u81HrQytGR9HHRDKs) | 1:51 | 2022-05-17 | 2022-12-14 |
 | [心の旅](https://open.spotify.com/track/5ZCJoQGMeMyPSeq9Q0bbkl) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 3:27 | 2022-05-12 |  |
 | [心の銃](https://open.spotify.com/track/0Fk248BqI822A40zhw5iGy) | [ANARCHY](https://open.spotify.com/artist/65PLMuXMHef9HcEW5AamYy) | [亜無亜危異 都市](https://open.spotify.com/album/4fbwOtm9zF6VM9lA9yDPVm) | 2:31 | 2022-05-19 | 2022-07-08 |
 | [応援歌](https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [勝手にロックンロール](https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ) | 5:29 | 2022-05-12 | 2022-07-12 |

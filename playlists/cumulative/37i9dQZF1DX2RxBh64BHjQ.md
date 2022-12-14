@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3OoC54nEM3Xl7Kn5hsDdpg">Finesse2tymes</a>
 
-830 songs - 1 day 13 hr 43 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+831 songs - 1 day 13 hr 45 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [Overdose](https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Overdose](https://open.spotify.com/album/1HOEz50Or66Kp1W4CE9c3C) | 2:08 | 2022-12-02 |  |
 | [Overseas](https://open.spotify.com/track/4vs8wFsbctZBuuzJxZnmPz) | [Jay Bezzy](https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Overseas](https://open.spotify.com/album/04uP1i16kH1FXkf0YUYmxk) | 2:11 | 2021-12-03 | 2022-02-19 |
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-03-18 |
+| [Pape Talk](https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Paint the City \(Gangsta Grillz\)](https://open.spotify.com/album/3M1RUPna1fFjxNd9I0Vo0l) | 2:09 | 2022-12-13 |  |
 | [Paper Route \(ft\. Young Dolph\)](https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Mention My Name](https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB) | 3:23 | 2022-05-27 | 2022-08-20 |
 | [Paralyzed](https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Paralyzed](https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT) | 2:47 | 2022-01-28 | 2022-03-12 |
 | [Paraphernalia 2.0 \(feat\. G Herbo\)](https://open.spotify.com/track/5vGKgOsISQNVqAjIRwdry5) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Paraphernalia 2.0 \(feat\. G Herbo\)](https://open.spotify.com/album/5salZxwbYxM9BF54yeI6vf) | 2:25 | 2022-12-09 |  |

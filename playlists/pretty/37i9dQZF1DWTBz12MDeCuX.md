@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 102 Boyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,457 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,639 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Toilette](https://open.spotify.com/track/6syx4va6ghrzzet1XMoNDO) | [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR), [Duke102](https://open.spotify.com/artist/0xsJ8Ai6YxQyu67QZhSQhz), [Stacks102](https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv), [Kkuba102](https://open.spotify.com/artist/4fc3ii0Q4S0O9C7O9XRTxz) | [Toilette](https://open.spotify.com/album/5AM71NmYm6c733RFmnW2Ik) | 3:26 |
-| 2 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 |
-| 3 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 |
+| 1 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 |
+| 2 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 |
+| 3 | [Toilette](https://open.spotify.com/track/6syx4va6ghrzzet1XMoNDO) | [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR), [Duke102](https://open.spotify.com/artist/0xsJ8Ai6YxQyu67QZhSQhz), [Stacks102](https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv), [Kkuba102](https://open.spotify.com/artist/4fc3ii0Q4S0O9C7O9XRTxz) | [Toilette](https://open.spotify.com/album/5AM71NmYm6c733RFmnW2Ik) | 3:26 |
 | 4 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 |
 | 5 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 |
 | 6 | [Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [Sick & Tired](https://open.spotify.com/artist/2kg0dvxtCnkrfP7vf39w4D), [Asterio](https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght) | [Nur ein Wort](https://open.spotify.com/album/2qS9UJHDrxUTJHrAHXCQRH) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 100 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDE2MDE1OWZlNWZkNWZhZWI5MTk1ZjJhNjE3MmY0OGJj`
+Snapshot ID: `MTY3MDkyMzExNywwMDAwMDAwMGFmM2MwZTFlYmQ4ZDllNGMwYzgxZTYwMmVmMTZiMDI0`

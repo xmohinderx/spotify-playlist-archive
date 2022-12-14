@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 731092,
+  "num_followers": 731223,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI1NTE3NSwwMDAwMDAwMDc5YTZkZGMzNzI5ZTFhNDhjZDk3ZWY4NjVhOWM5NGY2",
+  "snapshot_id": "MTY3MDI1NTE3NSwwMDAwMDAwMDI4NjUzNDljMDZhNDQwNDJmMzU4MTQ2MTZhNjkyYTI3",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
     },
     {
-      "added_at": "2022-09-23 04:06:59",
-      "album": {
-        "name": "Stereo Driver",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Stereo Driver",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Good & Plenty",
@@ -667,6 +651,22 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2022-09-23 04:06:59",
+      "album": {
+        "name": "Stereo Driver",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Stereo Driver",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
-    },
-    {
       "added_at": "2022-09-30 04:06:57",
       "album": {
         "name": "Make Me Say It Again, Girl",
@@ -1115,6 +1099,22 @@
       "duration_ms": 314424,
       "name": "Make Me Say It Again, Girl",
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Angels & Queens",
+        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
     },
     {
       "added_at": "2022-09-09 04:08:19",

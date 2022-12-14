@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 5861,
+  "num_followers": 5887,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDgxMjJiMTY5YzBhYmI1Y2U2YzkwZGI3MmZkZGE3ODIy",
+  "snapshot_id": "MTY3MDkzNjQ0NywwMDAwMDAwMDgwZDViMjZjMDYyODBlZmU0OGJiMzk0NDVhMDQyMGQy",
   "tracks": [
     {
       "added_at": "2022-10-28 12:47:19",
@@ -379,18 +379,30 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+        "name": "Good & Plenty (Remix)",
+        "url": "https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
         }
       ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+      "duration_ms": 204705,
+      "name": "Good & Plenty - Remix",
+      "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
     },
     {
       "added_at": "2022-11-25 07:34:34",
@@ -447,70 +459,18 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Good & Plenty (Remix)",
-        "url": "https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Good & Plenty - Remix",
-      "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
-    },
-    {
-      "added_at": "2022-08-05 07:52:38",
-      "album": {
         "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
       "artists": [
         {
           "name": "Fireboy DML",
           "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 232155,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -535,6 +495,38 @@
       "duration_ms": 249773,
       "name": "Scenic Drive (feat. Ari Lennox & Smino)",
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": "2022-12-14 01:09:33",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -619,6 +611,30 @@
       "duration_ms": 196712,
       "name": "mmadu",
       "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
+    },
+    {
+      "added_at": "2022-08-05 07:52:38",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 232155,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -869,26 +885,6 @@
       "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
     },
     {
-      "added_at": "2022-09-09 10:14:03",
-      "album": {
-        "name": "Handle Me (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 167735,
-      "name": "Handle Me (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
-    },
-    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "Sinner",
@@ -907,6 +903,26 @@
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2022-09-09 10:14:03",
+      "album": {
+        "name": "Handle Me (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 167735,
+      "name": "Handle Me (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
     },
     {
       "added_at": "2022-11-18 11:28:54",
@@ -1045,6 +1061,22 @@
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
+    },
+    {
       "added_at": "2022-09-30 06:22:18",
       "album": {
         "name": "Love (feat. Adekunle Gold)",
@@ -1065,6 +1097,22 @@
       "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
     },
     {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
       "added_at": "2022-07-22 04:39:56",
       "album": {
         "name": "If I Get Caught",
@@ -1079,22 +1127,6 @@
       "duration_ms": 186114,
       "name": "If I Get Caught",
       "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1131,22 +1163,6 @@
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1205,6 +1221,26 @@
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 139586,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
+    },
+    {
       "added_at": "2022-10-21 05:58:07",
       "album": {
         "name": "TROUBLE - A COLORS SHOW",
@@ -1257,26 +1293,6 @@
       "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 139586,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
-    },
-    {
       "added_at": "2022-09-19 07:33:37",
       "album": {
         "name": "Miss My Dawgs",
@@ -1311,26 +1327,6 @@
       "duration_ms": 183453,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj"
-    },
-    {
-      "added_at": "2022-11-18 11:28:54",
-      "album": {
-        "name": "All My Days",
-        "url": "https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP"
-      },
-      "artists": [
-        {
-          "name": "Killertunes",
-          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
-        },
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/052blcya1EJNErdYq2HHbA"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1371,6 +1367,26 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
+    },
+    {
+      "added_at": "2022-11-18 11:28:54",
+      "album": {
+        "name": "All My Days",
+        "url": "https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP"
+      },
+      "artists": [
+        {
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/052blcya1EJNErdYq2HHbA"
     },
     {
       "added_at": "2022-08-26 09:38:47",
@@ -1431,26 +1447,6 @@
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
-    },
-    {
-      "added_at": "2022-08-05 07:52:38",
-      "album": {
-        "name": "Sounds of My World (Deluxe)",
-        "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 152523,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
     }
   ],
   "unique_name": "Cocoa Butter ",

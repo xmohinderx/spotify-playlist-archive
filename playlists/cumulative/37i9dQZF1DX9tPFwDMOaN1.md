@@ -4,7 +4,7 @@
 
 > Let's turn ON the movement! Cover: MINHO
 
-219 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+220 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-22 | 2022-06-25 |
 | [MAKE U DANCE](https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [MAKE U DANCE](https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep) | 2:37 | 2021-12-13 | 2021-12-24 |
 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 | 2022-07-13 | 2022-09-09 |
-| [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 | 2022-07-18 |  |
+| [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 | 2022-07-18 | 2022-12-14 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-18 | 2022-07-29 |
 | [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2021-12-13 | 2022-01-06 |
 | [MERRY\-GO\-ROUND \(Feat\. Zion.T, Wonstein\) \(Prod\. Slom\)](https://open.spotify.com/track/2eLe81VDUQ5f0xFfc9cMWz) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 10 Episode 2](https://open.spotify.com/album/1wp620RExm0tih8QSvfmf0) | 4:09 | 2021-12-13 | 2022-01-17 |
@@ -206,12 +206,13 @@
 | [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-02-28 | 2022-04-09 |
 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 | 2021-12-13 | 2022-07-07 |
 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 | 2022-01-05 | 2022-01-28 |
-| [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-15 |  |
+| [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-15 | 2022-12-14 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-13 | 2022-01-27 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-24 | 2022-11-11 |
 | [Ven para](https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : AWAKE](https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb) | 3:14 | 2022-03-08 | 2022-04-18 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-17 | 2022-10-18 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-10 | 2022-03-10 |
+| [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-13 |  |
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-24 | 2022-10-08 |
 | [Who Are You \(Feat\. SEULGI of Red Velvet\)](https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Who Are You](https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL) | 2:59 | 2022-01-03 | 2022-02-11 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-04 |  |

@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Madd
 
-63 songs - 3 hr 23 min - not published yet
+64 songs - 3 hr 26 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Started from the bottom](https://open.spotify.com/track/0EAA24o0ORdGsMnFPRPq9e) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 4:01 | 2022-11-14 |  |
 | [Sucré Salé](https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS) | 2:20 | 2022-11-14 |  |
 | [SUPER NANA](https://open.spotify.com/track/5lNiW5yNPQnjWe9CHAMhoe) | [YEAH HUSS!](https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [SUPER NANA](https://open.spotify.com/album/6OctgQC5OPss9hNieHZ2lb) | 2:17 | 2022-11-14 |  |
+| [Sur la selle](https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Sur la selle](https://open.spotify.com/album/1mGq7FkXTO8q0hhkk2xojY) | 2:48 | 2022-12-13 |  |
 | [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 | 2022-11-14 |  |
 | [Taline](https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm) | 2:56 | 2022-11-14 |  |
 | [Tchin Tchin](https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:31 | 2022-11-14 |  |

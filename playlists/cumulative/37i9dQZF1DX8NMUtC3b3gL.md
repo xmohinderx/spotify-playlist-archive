@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-262 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+263 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Leaks](https://open.spotify.com/track/7LrHklAwWYsUNoFAwWDkDp) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Leaks](https://open.spotify.com/album/1YF3DE75jwhTCNwEYl2CsP) | 2:51 | 2022-07-29 | 2022-09-30 |
 | [Let's Downgrade!](https://open.spotify.com/track/3xIjrwRT9LFeMjKAO9NPGy) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Let's Downgrade!](https://open.spotify.com/album/1L1VolV9sQvMotcKQ9JJC3) | 2:21 | 2022-06-24 |  |
 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 | 2022-05-27 | 2022-11-20 |
-| [Limitless Romance](https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/6M1TTWauVFCg2mIvPDmvXf) | 2:25 | 2022-11-11 |  |
+| [Limitless Romance](https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/6M1TTWauVFCg2mIvPDmvXf) | 2:25 | 2022-11-11 | 2022-12-14 |
+| [Limitless Romance](https://open.spotify.com/track/7H6q2iavCpGfPM7anKkmLl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/51DG6QyIympPsj5KUQQTqh) | 2:25 | 2022-12-09 |  |
 | [lindo](https://open.spotify.com/track/66NcL7vEfkRz5iTd78h24f) | [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR), [Tau](https://open.spotify.com/artist/2tV1Ys5GAXL47UahBxq8hB) | [lindo](https://open.spotify.com/album/58glJDDiyNwRMHyaXFMwU8) | 2:16 | 2022-12-09 |  |
 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 | 2022-05-27 |  |
 | [Long Way Home](https://open.spotify.com/track/4B0rDSA8jga7wjmKaSIHYj) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2) | [A Walk in Summer](https://open.spotify.com/album/0DxdMoaCtNOXENBnyf4nl1) | 2:56 | 2022-06-24 | 2022-09-03 |

@@ -1368,6 +1368,24 @@
     },
     {
       "album": {
+        "name": "INE INE",
+        "url": "https://open.spotify.com/album/3pm2vCjNT2qFFU18cLkYkj"
+      },
+      "artists": [
+        {
+          "name": "Holako",
+          "url": "https://open.spotify.com/artist/2UKayx5zeeZ8oQh3ETChjE"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "INE INE",
+      "url": "https://open.spotify.com/track/03O73RwxB4Ja3hBYRU6T0c"
+    },
+    {
+      "album": {
         "name": "SOS (Chapitre 3)",
         "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
       },
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 249707,
       "name": "MILANO",
       "url": "https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM"
@@ -2759,6 +2777,24 @@
       "duration_ms": 165600,
       "name": "Porfavor",
       "url": "https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5"
+    },
+    {
+      "album": {
+        "name": "Premier amour",
+        "url": "https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv"
+      },
+      "artists": [
+        {
+          "name": "Nour",
+          "url": "https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188408,
+      "name": "Premier amour",
+      "url": "https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P"
     },
     {
       "album": {
@@ -3319,7 +3355,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 209309,
       "name": "Ya Hmed",
       "url": "https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf"

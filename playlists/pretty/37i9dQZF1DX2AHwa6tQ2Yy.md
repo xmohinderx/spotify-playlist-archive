@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,792 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,810 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 42 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 |
 | 43 | [Falling in Love Again](https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:50 |
 | 44 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
-| 45 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
-| 46 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
+| 45 | [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 |
+| 46 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
 | 47 | [No Flowers](https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [No Flowers](https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs) | 3:04 |
-| 48 | [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 |
+| 48 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
 | 49 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 |
 | 50 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
 | 51 | [Oil & Water](https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 3:12 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 64 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 |
 | 65 | [Heaven](https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Encore](https://open.spotify.com/album/0yDrekG6pJ1jJyzc1wi9rK) | 3:28 |
 | 66 | [With You](https://open.spotify.com/track/06kvUr3p93vBQT1n1Dv3Se) | [Rellek Brown](https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME) | [With You](https://open.spotify.com/album/11Tq32iGErxMwUQqpYom5r) | 3:11 |
-| 67 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 |
-| 68 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 |
-| 69 | [Got Me \(Feelin' Like\)](https://open.spotify.com/track/5tZXAxvk8Zfe1p6Pd78kqa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Got Me \(Feelin' Like\)](https://open.spotify.com/album/19WNAHNH5e9e55hMbKcJ5q) | 3:24 |
+| 67 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
+| 68 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 |
+| 69 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 |
 | 70 | [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 |
 
-Snapshot ID: `MTY3MDQ3Nzc2NSwwMDAwMDAwMGYwZTc1ZDk1OWViOWYyZWU3ZTlmYmFiMWI3MmMxYzU1`
+Snapshot ID: `MTY3MDQ3Nzc2NSwwMDAwMDAwMGY5YTZjZDYyZWEyNDdmZmYzMWQ2OTIwYmViZTNkNTVm`

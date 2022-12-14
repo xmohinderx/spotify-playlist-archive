@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,007 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,295 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 4 | [Passion](https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:18 |
 | 5 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 |
 | 6 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 |
-| 7 | [spin you round](https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN) | [Rocco](https://open.spotify.com/artist/2wR54LqhJdRd30JGhzbJBX) | [spin you round](https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK) | 2:06 |
+| 7 | [spin you round](https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK) | 2:06 |
 | 8 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 |
 | 9 | [Empty Air](https://open.spotify.com/track/0uDk3TAVnAQXQmsrEuZHbc) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [I Don't Like Roses](https://open.spotify.com/album/58syBUrmo8UCiWFF2BuszZ) | 3:00 |
 | 10 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 |

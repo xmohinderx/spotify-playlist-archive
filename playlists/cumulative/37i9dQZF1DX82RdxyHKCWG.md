@@ -4,7 +4,7 @@
 
 > As novidades e estrelas do pop que estão explodindo no Spotify\. ✨ Foto: SZA
 
-368 songs - 19 hr 4 min - [published](https://open.spotify.com/playlist/3wdKHKFrfBQB4tWK10E8xH)
+369 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/3wdKHKFrfBQB4tWK10E8xH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 | 2022-10-14 | 2022-10-22 |
 | [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-19 | 2022-09-03 |
 | [Fun Tonight \- Pabllo Vittar Remix](https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:20 | 2022-05-23 | 2022-09-10 |
+| [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-12-13 |  |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-05-23 | 2022-09-24 |
 | [golden hour \- Shirley Setia Remix](https://open.spotify.com/track/1cWiqwPAOLRrXQ8SqfqsZU) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Shirley Setia](https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI) | [golden hour \(Shirley Setia Remix\)](https://open.spotify.com/album/5Ski0Ppta6ZwgVIWa8NA5q) | 3:30 | 2022-12-02 |  |
 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 | 2022-10-28 |  |

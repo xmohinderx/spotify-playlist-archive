@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Jay Glavany
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,824 likes - 54 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,859 likes - 54 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

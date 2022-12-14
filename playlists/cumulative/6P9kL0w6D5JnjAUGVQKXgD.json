@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jonasu, Karen Harding, Kriss Reeve, Biscits",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jonasu, Karen Harding, Biscits, Kriss Reeve",
   "name": "EDM Top 100",
   "published_playlist_ids": [
     "0Ntnl9seA6EX8wAm2l1oSO"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 177524,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
@@ -20305,7 +20305,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 308642,
       "name": "Project T - Original Mix",
       "url": "https://open.spotify.com/track/4NRyVCNxLelhs9ZqRzbjjp"
@@ -21019,7 +21019,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 171428,
       "name": "Rhythm Is A Dancer",
       "url": "https://open.spotify.com/track/3hY80yJLjl2VgYLjn1aLVp"
@@ -28677,6 +28677,28 @@
       "duration_ms": 161634,
       "name": "Wild Feelings",
       "url": "https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6"
+    },
+    {
+      "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "album": {

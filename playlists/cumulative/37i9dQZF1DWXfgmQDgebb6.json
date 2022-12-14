@@ -208,6 +208,24 @@
     },
     {
       "album": {
+        "name": "Neap Paradise",
+        "url": "https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N"
+      },
+      "artists": [
+        {
+          "name": "Shin Hae Gyeong",
+          "url": "https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251693,
+      "name": "Aspirin Overdose",
+      "url": "https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA"
+    },
+    {
+      "album": {
         "name": "cheer up!",
         "url": "https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8"
       },
@@ -241,6 +259,24 @@
       "duration_ms": 245000,
       "name": "Bang Bus",
       "url": "https://open.spotify.com/track/6icnkKxcpcXTinKYC1k1Sl"
+    },
+    {
+      "album": {
+        "name": "be around me",
+        "url": "https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG"
+      },
+      "artists": [
+        {
+          "name": "PARKJIWOO",
+          "url": "https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176190,
+      "name": "be around me",
+      "url": "https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt"
     },
     {
       "album": {
@@ -2513,7 +2549,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 129255,
       "name": "MAGO",
       "url": "https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu"
@@ -4111,7 +4147,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 78106,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO"

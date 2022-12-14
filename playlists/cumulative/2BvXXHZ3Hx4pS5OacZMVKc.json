@@ -3086,6 +3086,28 @@
     },
     {
       "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/3BOwQFiUMdG0eTmfQuiJgJ"
+      },
+      "artists": [
+        {
+          "name": "Zack Merci",
+          "url": "https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI"
+        },
+        {
+          "name": "Nieko",
+          "url": "https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3IyziM0cSPmHfTLH3dB8Dw"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW"
       },

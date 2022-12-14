@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 3843,
+  "num_followers": 3871,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDQ3NTA2ODI3ZDcwZjNiZTZmMTVlNDBkMzY0MWExMTk2",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDgwN2JiYTIzOTliNTAyYTYzNzA5MzhkYjgzODNlYmQw",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -27,30 +27,6 @@
       "duration_ms": 512182,
       "name": "All In You",
       "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"
-    },
-    {
-      "added_at": "2022-11-17 00:58:03",
-      "album": {
-        "name": "Welcome To The Party",
-        "url": "https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO"
-      },
-      "artists": [
-        {
-          "name": "Sam Deep",
-          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        },
-        {
-          "name": "De Mthuda",
-          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
-        }
-      ],
-      "duration_ms": 382300,
-      "name": "Ngaphakathi",
-      "url": "https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -79,6 +55,30 @@
       "duration_ms": 433299,
       "name": "I Never Thought (Soulful Remix)",
       "url": "https://open.spotify.com/track/0OM8CxsdhxnRidlrc1Z1nM"
+    },
+    {
+      "added_at": "2022-11-17 00:58:03",
+      "album": {
+        "name": "Welcome To The Party",
+        "url": "https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
+        }
+      ],
+      "duration_ms": 382300,
+      "name": "Ngaphakathi",
+      "url": "https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
     },
     {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "3 By 3",
+        "url": "https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV"
+      },
+      "artists": [
+        {
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
+        }
+      ],
+      "duration_ms": 392304,
+      "name": "Day And Night (Mmawe) - Original Mix",
+      "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
@@ -651,22 +667,6 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "3 By 3",
-        "url": "https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV"
-      },
-      "artists": [
-        {
-          "name": "Chymamusique",
-          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
-        }
-      ],
-      "duration_ms": 392304,
-      "name": "Day And Night (Mmawe) - Original Mix",
-      "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -979,22 +979,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Ndoyiswe",
-        "url": "https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq"
+        "name": "Enemies By Monday",
+        "url": "https://open.spotify.com/album/5zHZUfKSjM3kmpcjnj9CQp"
       },
       "artists": [
         {
-          "name": "Hypaphonik",
-          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
-        },
-        {
-          "name": "Bamtho Imbongi",
-          "url": "https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX"
+          "name": "Graham Deep",
+          "url": "https://open.spotify.com/artist/3PMsRDsMJopoHrverCOp1R"
         }
       ],
-      "duration_ms": 325593,
-      "name": "Ndoyiswe",
-      "url": "https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w"
+      "duration_ms": 408426,
+      "name": "Schr\u00f6dinger's Cat",
+      "url": "https://open.spotify.com/track/0rXVfF7ICT4NpN0p3PfUb0"
     }
   ],
   "unique_name": "Deep House Session",

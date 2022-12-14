@@ -4,7 +4,7 @@
 
 > Relax to the sounds of acoustic blues and folk...
 
-90 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/2SbTfjlboeBgZrjdgbkYSX)
+91 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/2SbTfjlboeBgZrjdgbkYSX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 | 2021-12-17 |  |
 | [Hesitation Theme and Variation Blues](https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 2:22 | 2021-12-17 |  |
 | [Hurt Me](https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO) | [Jackson Lynch](https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb) | [Hurt Me](https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB) | 2:35 | 2021-12-17 | 2022-07-29 |
+| [I'm Ready](https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/33kr65x9D148InPeYYIloG) | 2:17 | 2022-11-25 |  |
 | [I'm Ready](https://open.spotify.com/track/4QM6qrv9YWRW4RoXzKlE1X) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/2WAU3S7XbRV3DPSaC00woq) | 2:17 | 2021-12-17 | 2022-07-28 |
 | [I'm Ready](https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a) | 2:17 | 2022-07-12 | 2022-12-01 |
 | [Imaginational Anthem](https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W) | [Max Ochs](https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI) | [Hooray For Another Day](https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx) | 4:24 | 2021-12-17 | 2022-11-19 |
@@ -64,7 +65,7 @@
 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 | 2022-07-12 |  |
 | [New Anthem](https://open.spotify.com/track/28Ekirkj9Tf0TwChnvcCWI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/1aHOjEzsRAgR3AyDeDWOhZ) | 2:34 | 2021-12-17 | 2022-07-29 |
 | [New Anthem](https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R) | 2:34 | 2022-07-12 |  |
-| [Night After Sidewalk](https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 3:34 | 2021-12-17 |  |
+| [Night After Sidewalk](https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 3:34 | 2021-12-17 | 2022-12-14 |
 | [Orange County Serenade](https://open.spotify.com/track/4jw7C3myL67kCqREaJ906E) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 3:32 | 2021-12-17 | 2022-07-28 |
 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/3ceu61cumgwBG11W6fUVvJ) | 5:39 | 2022-07-12 | 2022-12-06 |
 | [Plains Of Waterloo / James Connolly](https://open.spotify.com/track/4LQTu75E30lxao3W0FSXbS) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/3neRUS7AJfbMdtSdEFTZQg) | 5:39 | 2021-12-17 | 2022-07-29 |

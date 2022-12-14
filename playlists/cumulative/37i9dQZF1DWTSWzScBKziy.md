@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-177 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
+178 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Safe](https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 4:38 | 2022-10-29 |  |
 | [Same God \- Radio Version](https://open.spotify.com/track/2nidf7ZSu4eyL0jYpA6vrE) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Same God \(Radio Version\)](https://open.spotify.com/album/0ivlHXQulyGY24zM2nHTV5) | 4:24 | 2022-10-29 |  |
 | [Satisfied](https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Satisfied](https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax) | 3:17 | 2022-10-29 |  |
-| [Say Amen](https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:36 | 2022-05-27 |  |
+| [Say Amen](https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:36 | 2022-05-27 | 2022-12-14 |
 | [Secret Place](https://open.spotify.com/track/5JQ1uGXqZSbEnabW64psrB) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Secret Place](https://open.spotify.com/album/1D5UImCRj2c5oLZXoO5ZP4) | 5:07 | 2022-05-27 | 2022-10-30 |
 | [Secrets](https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Secrets](https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw) | 3:46 | 2022-05-27 | 2022-10-30 |
 | [Show Up Choose Love \(feat\. Jon Reddick\)](https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Show Up Choose Love](https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC) | 3:32 | 2022-10-29 |  |
@@ -161,6 +161,7 @@
 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 | 2022-05-27 | 2022-10-30 |
 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 | 2022-10-29 |  |
 | [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Goodness](https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR) | 3:45 | 2022-10-29 |  |
+| [The Great Awakening](https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Great Awakening](https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7) | 3:30 | 2022-10-29 |  |
 | [The Healing](https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [The Healing](https://open.spotify.com/album/2rp4zkcLtJfaet6Yhc6YpZ) | 3:49 | 2022-05-27 |  |
 | [The Lion Still Roars](https://open.spotify.com/track/5zT6mPJHo9juu0gG5NKLrb) | [Shelly E\. Johnson](https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67) | [The Lion Still Roars](https://open.spotify.com/album/1DkUR3quzk0JN8tI9QlbDe) | 4:39 | 2022-05-27 | 2022-10-30 |
 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 | 2022-10-29 |  |

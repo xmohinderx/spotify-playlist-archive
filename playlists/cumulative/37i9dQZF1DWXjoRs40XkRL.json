@@ -30,6 +30,32 @@
     },
     {
       "album": {
+        "name": "Ab Mori Chhaad De",
+        "url": "https://open.spotify.com/album/5pf1eQ4E1YMSJvVLBecgVx"
+      },
+      "artists": [
+        {
+          "name": "Muheet Bharti",
+          "url": "https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ"
+        },
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+        },
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257424,
+      "name": "Ab Mori Chhaad De",
+      "url": "https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf"
+    },
+    {
+      "album": {
         "name": "Ae Ri Sakhi",
         "url": "https://open.spotify.com/album/4AZg2InQrYXVO1LZOK7zuH"
       },
@@ -1599,7 +1625,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 240136,
       "name": "One Family (Live)",
       "url": "https://open.spotify.com/track/5H5BQEnXcHV349qCuwm5Gy"

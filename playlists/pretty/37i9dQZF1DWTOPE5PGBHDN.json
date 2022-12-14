@@ -1,12 +1,12 @@
 {
   "description": "Para las mujeres que le dan duro al  gym. \u00a1A quemar grasa con este playlist!",
-  "num_followers": 85020,
+  "num_followers": 85146,
   "original_name": "Sin Lipo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDRkNTAzODc5YjRlMjIyM2RmYzc5ZTdmZmM2ZDNmMWE2",
+  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMGIyYTRkMzQwODEwOGZjNTEwMmY5Yjk5Yjg4YWJlZmEx",
   "tracks": [
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 226532,
+      "name": "Sigues Con El",
+      "url": "https://open.spotify.com/track/1XxmTx7ZzI2xLvS8SqlXs9"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "El Androide",
         "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
       },
@@ -1067,30 +1091,6 @@
       "duration_ms": 235746,
       "name": "X (feat. Maluma & Ozuna) - Remix",
       "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 226532,
-      "name": "Sigues Con El",
-      "url": "https://open.spotify.com/track/1XxmTx7ZzI2xLvS8SqlXs9"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1515,30 +1515,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "No Lo Trates",
-        "url": "https://open.spotify.com/album/4K6B1KumSxNR0SfbLk66N9"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "No Lo Trates",
-      "url": "https://open.spotify.com/track/4gqMVEJSaL5nNeKj5WmVoT"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "Mi Error (Remix)",
         "url": "https://open.spotify.com/album/5mG7RptOZno8N5iuCezmbz"
       },
@@ -1563,6 +1539,30 @@
       "duration_ms": 315862,
       "name": "Mi Error - Remix",
       "url": "https://open.spotify.com/track/0lbhKycRyqkOMKZ6thzfU4"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "No Lo Trates",
+        "url": "https://open.spotify.com/album/4K6B1KumSxNR0SfbLk66N9"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "No Lo Trates",
+      "url": "https://open.spotify.com/track/4gqMVEJSaL5nNeKj5WmVoT"
     },
     {
       "added_at": "2020-07-02 17:35:53",

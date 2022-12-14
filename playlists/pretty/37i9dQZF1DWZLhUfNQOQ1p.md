@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,842 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,841 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 12 | [Anyone](https://open.spotify.com/track/2jdObkXiyca07k9r6UwqaL) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Summer Crush](https://open.spotify.com/album/7u3rOTDTne8OfLdo79a0Go) | 3:06 |
 | 13 | [Save Tonight](https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Save Tonight](https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0) | 3:18 |
 | 14 | [Give Me a Light](https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu) | [Jay Arrow](https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89) | [Give Me a Light](https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA) | 3:15 |
-| 15 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
+| 15 | [Swept Away](https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Fading Nights](https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA) | 5:46 |
 | 16 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 |
-| 17 | [Swept Away](https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Fading Nights](https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA) | 5:46 |
+| 17 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
 | 18 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
 | 19 | [Before the Parade](https://open.spotify.com/track/59toTGL3M0Qyhl8UsWlZbM) | [The Lancelot](https://open.spotify.com/artist/3wy6NtyqVhXqpm32LHZNNJ) | [Before the Parade](https://open.spotify.com/album/1KuuarXiaBMsTySJ3IFB8J) | 3:55 |
 | 20 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 51 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
 | 52 | [Midnight Sky](https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Midnight Sky](https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg) | 3:34 |
 | 53 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
-| 54 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 |
+| 54 | [Bellevue](https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W) | [Isla Bonner](https://open.spotify.com/artist/2rbgxJc6kAcF1PzeVrFgUo) | [Bellevue](https://open.spotify.com/album/65ncxNO2Kt96Cxwpu3tedv) | 3:18 |
 | 55 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
-| 56 | [Bellevue](https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W) | [Isla Bonner](https://open.spotify.com/artist/2rbgxJc6kAcF1PzeVrFgUo) | [Bellevue](https://open.spotify.com/album/65ncxNO2Kt96Cxwpu3tedv) | 3:18 |
+| 56 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 |
 | 57 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
 | 58 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
 | 59 | [Crying Wolf](https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Leda](https://open.spotify.com/artist/5fPiq0Rr9INjEZICiUMc7O) | [Crying Wolf](https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L) | 3:38 |
 | 60 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDgwODAzMmNmZjdiM2E1ZDYzOWU2MjM2N2Q5NjNmMDNk`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMGVlNzkzY2ViYWI0ZTJlOGVlMDE4N2RlOWFmMjcxMzE1`

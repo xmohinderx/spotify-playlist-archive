@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s. Cover: Deftones",
-  "num_followers": 714381,
+  "num_followers": 715049,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzYzMjgwMSwwMDAwMDAwMDFiNTQ3ZTQ4ZDU1YzkxOTUzYzJhZjU4ZjdjMjU3NGU2",
+  "snapshot_id": "MTY2NzYzMjgwMSwwMDAwMDAwMGNlYmNmMzEyYmY3MWUwY2JhYmVkNTdiMWMxZjczMTky",
   "tracks": [
     {
       "added_at": "2022-10-05 16:18:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "La Sexorcisto: Devil Music Volume 1",
-        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Thunder Kiss '65",
-      "url": "https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "La Sexorcisto: Devil Music Volume 1",
+        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Thunder Kiss '65",
+      "url": "https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Balls To Picasso (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
+        "name": "Tomb Of The Mutilated",
+        "url": "https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb"
       },
       "artists": [
         {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+          "name": "Cannibal Corpse",
+          "url": "https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n"
         }
       ],
-      "duration_ms": 384013,
-      "name": "Tears of the Dragon - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
+      "duration_ms": 242760,
+      "name": "Hammer Smashed Face",
+      "url": "https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Tomb Of The Mutilated",
-        "url": "https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb"
+        "name": "Balls To Picasso (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
       },
       "artists": [
         {
-          "name": "Cannibal Corpse",
-          "url": "https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n"
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
         }
       ],
-      "duration_ms": 242760,
-      "name": "Hammer Smashed Face",
-      "url": "https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ"
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
-      },
-      "artists": [
-        {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Stone the Crow",
-      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Coal Chamber",
         "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 254693,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Stone the Crow",
+      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Blues for the Red Sun",
-        "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "Green Machine",
-      "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 208666,
       "name": "Slave to the Grind",
       "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Blues for the Red Sun",
+        "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "Green Machine",
+      "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Monkey Business",
+      "url": "https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "Rust In Peace (Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -1423,38 +1439,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "Counterfeit",
-      "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Monkey Business",
-      "url": "https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "March Or Die",
         "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 275160,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "La Sexorcisto: Devil Music Volume 1",
-        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 381640,
-      "name": "Welcome To Planet Motherfucker/ Psychoholic Slag",
-      "url": "https://open.spotify.com/track/5x8YLkZvKQDmZsD4cnCO06"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Clutch",
         "url": "https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 391240,
       "name": "Spacegrass",
       "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "La Sexorcisto: Devil Music Volume 1",
+        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 381640,
+      "name": "Welcome To Planet Motherfucker/ Psychoholic Slag",
+      "url": "https://open.spotify.com/track/5x8YLkZvKQDmZsD4cnCO06"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Sound of White Noise - Expanded Edition",
-        "url": "https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 296306,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Souls of Black",
         "url": "https://open.spotify.com/album/3CFswsRArMIduymEMdBaHi"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 202493,
       "name": "Souls of Black",
       "url": "https://open.spotify.com/track/5zAN2OQJsmcBVG1oO5QroD"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Sound of White Noise - Expanded Edition",
+        "url": "https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 296306,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Urban Discipline",
-        "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
-      },
-      "artists": [
-        {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Punishment",
-      "url": "https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "The Ritual",
         "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 330226,
       "name": "Electric Crown",
       "url": "https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Urban Discipline",
+        "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Punishment",
+      "url": "https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Do We Speak A Dead Language?",
-        "url": "https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt"
-      },
-      "artists": [
-        {
-          "name": "Downset",
-          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
-        }
-      ],
-      "duration_ms": 144266,
-      "name": "Empower",
-      "url": "https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Force Of Habit (Reissue)",
         "url": "https://open.spotify.com/album/4z1C1YmKvYoM7cJysMXo74"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 287666,
       "name": "Good Day To Die",
       "url": "https://open.spotify.com/track/2rKz4ihTRHCD0RpNaO1ANJ"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Do We Speak A Dead Language?",
+        "url": "https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt"
+      },
+      "artists": [
+        {
+          "name": "Downset",
+          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "Empower",
+      "url": "https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Point Blank",
-        "url": "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU"
-      },
-      "artists": [
-        {
-          "name": "Nailbomb",
-          "url": "https://open.spotify.com/artist/4Q6EFOghPrRjdwsF4p7Nzm"
-        }
-      ],
-      "duration_ms": 310493,
-      "name": "Cockroaches",
-      "url": "https://open.spotify.com/track/6jIVLU8ewF4pWLojWLUca1"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Wolverine Blues",
         "url": "https://open.spotify.com/album/1CZwyjL96gGx4PryOIFNYn"
       },
@@ -2095,18 +2079,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Cause of Death (Reissue)",
-        "url": "https://open.spotify.com/album/79fVRZLnIqS3FytTLfTBT4"
+        "name": "Point Blank",
+        "url": "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU"
       },
       "artists": [
         {
-          "name": "Obituary",
-          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+          "name": "Nailbomb",
+          "url": "https://open.spotify.com/artist/4Q6EFOghPrRjdwsF4p7Nzm"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Chopped in Half",
-      "url": "https://open.spotify.com/track/01cGujYWGF7JchJLSgf6Ta"
+      "duration_ms": 310493,
+      "name": "Cockroaches",
+      "url": "https://open.spotify.com/track/6jIVLU8ewF4pWLojWLUca1"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2123,6 +2107,22 @@
       "duration_ms": 373200,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Cause of Death (Reissue)",
+        "url": "https://open.spotify.com/album/79fVRZLnIqS3FytTLfTBT4"
+      },
+      "artists": [
+        {
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Chopped in Half",
+      "url": "https://open.spotify.com/track/01cGujYWGF7JchJLSgf6Ta"
     },
     {
       "added_at": "2022-10-05 16:18:11",

@@ -1,12 +1,12 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 308698,
+  "num_followers": 308682,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "MTkxMCw4ZTBjYTVjMDMyM2YzNmY3ODYwOWQ5YjA2MWI5Y2IwYWU0ZTUyOTQ1",
+  "snapshot_id": "MTkxMyw5MDQyMjk5YWQzNmVlODE4NGJiZmQ3YThjNTk4ZGQwZThjMmJmZjY3",
   "tracks": [
     {
       "added_at": "2022-12-08 08:14:43",
@@ -27,6 +27,38 @@
       "duration_ms": 160714,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
+    },
+    {
+      "added_at": "2022-12-13 13:10:07",
+      "album": {
+        "name": "The Bass",
+        "url": "https://open.spotify.com/album/7GULruW31yLKnR1jQcJorV"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 228963,
+      "name": "The Bass",
+      "url": "https://open.spotify.com/track/1DNQGhU81aEM9bv2PHiALA"
+    },
+    {
+      "added_at": "2022-12-13 13:10:07",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/7u9TgGnwpshe0OqBbLGPsS"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3sC0pWBqh3zHXJ7pu13MMI"
     },
     {
       "added_at": "2022-12-03 00:19:40",
@@ -115,6 +147,30 @@
       "duration_ms": 122480,
       "name": "Good People",
       "url": "https://open.spotify.com/track/31YHoSHFbOu4wOgg34skBq"
+    },
+    {
+      "added_at": "2022-12-13 13:10:07",
+      "album": {
+        "name": "Sicko Drop (Claudinho Brasil Remix)",
+        "url": "https://open.spotify.com/album/1RZKaqedt3r09PaDCZtaCc"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        },
+        {
+          "name": "Claudinho Brasil",
+          "url": "https://open.spotify.com/artist/41ggHbtYARi4S4JtbeRrYY"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Sicko Drop - Claudinho Brasil Remix",
+      "url": "https://open.spotify.com/track/3Z7UmZWV0qyY7nK076Bqxe"
     },
     {
       "added_at": "2022-12-03 00:19:40",

@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 273758,
+  "num_followers": 273807,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI1NDc1OSwwMDAwMDAwMGE4MGNiMWQ2ZGNkOWViYmExMzZjMWVlMGI0NWM1ZmVj",
+  "snapshot_id": "MTY3MDI1NDc1OSwwMDAwMDAwMGU1OTZiYzExOGJhNGZjZDc0NTc2MDFmN2ZmN2U1ZDg3",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
+      },
+      "artists": [
+        {
+          "name": "BOY",
+          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 188694,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
-      },
-      "artists": [
-        {
-          "name": "BOY",
-          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -705,6 +705,30 @@
       "url": "https://open.spotify.com/track/5bt5mhA34P1Dncbik5EGeJ"
     },
     {
+      "added_at": "2022-12-05 15:39:19",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        }
+      ],
+      "duration_ms": 262714,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Paul",
@@ -735,30 +759,6 @@
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
-    },
-    {
-      "added_at": "2022-12-05 15:39:19",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        }
-      ],
-      "duration_ms": 262714,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
     },
     {
       "added_at": "2022-11-11 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 842928,
+  "num_followers": 843345,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMyODU1NSwwMDAwMDAwMDE2NzM4ZTQzZDY1YWQ2ZGQzMTU2MjliYzNhYjRiZDdl",
+  "snapshot_id": "MTY3MDMyODU1NSwwMDAwMDAwMDA4NzI0YjZmMWI2Y2VjYjZlNDdlOTZjMTQyYTMyZGM3",
   "tracks": [
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Sunrise European Single",
-        "url": "https://open.spotify.com/album/2gGRaRaEHSywDFAhQUfdGP"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/0jGVEPscW8KmqktoHqv2Pa"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Sunrise European Single",
+        "url": "https://open.spotify.com/album/2gGRaRaEHSywDFAhQUfdGP"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0jGVEPscW8KmqktoHqv2Pa"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Toothache / Zoom",
-        "url": "https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1"
-      },
-      "artists": [
-        {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Toothache",
-      "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "The Long Way Home",
         "url": "https://open.spotify.com/album/1bBcuPUK7dnJjiS70izzw5"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 197886,
       "name": "You're the Reason Why",
       "url": "https://open.spotify.com/track/1zpw3YUidzLjf8h92LFNmw"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Toothache / Zoom",
+        "url": "https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1"
+      },
+      "artists": [
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Fool to Love",
-      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "The Ecleftic -2 Sides II A Book",
         "url": "https://open.spotify.com/album/3FDZZk861xfI9wPNAlgrhm"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 259333,
       "name": "911 (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/28hgx2bWXcaBJeC9zVwrBq"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Fool to Love",
+      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "To Each His Own",
+      "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 202938,
       "name": "Tender Rose",
       "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "To Each His Own",
-      "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/3nPTKsx1v2lGffS8IRJZYA"
-      },
-      "artists": [
-        {
-          "name": "Elias Boussnina",
-          "url": "https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/3LgPy7zNzoSl2VKjx1o0Pp"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Feng Shui",
         "url": "https://open.spotify.com/album/4kgZWpYtNIay03B0OdYW53"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 180900,
       "name": "Feng Shui",
       "url": "https://open.spotify.com/track/1end0EyKQFFKX8l3Z0wmyo"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "duration_ms": 218027,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd"
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/3nPTKsx1v2lGffS8IRJZYA"
       },
       "artists": [
         {
-          "name": "Kubla",
-          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+          "name": "Elias Boussnina",
+          "url": "https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU"
         }
       ],
-      "duration_ms": 218027,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
+      "duration_ms": 202560,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/3LgPy7zNzoSl2VKjx1o0Pp"
     },
     {
       "added_at": "2022-12-02 12:00:00",

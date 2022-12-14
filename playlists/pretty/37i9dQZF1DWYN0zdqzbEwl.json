@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Man\u00e1",
-  "num_followers": 4059423,
+  "num_followers": 4059852,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyNzc0MSwwMDAwMDAwMGE0ZjY3ZjIxNmMzODBmYWEzMjI4ZjQ2MWJmYzRlNmVm",
+  "snapshot_id": "MTY2MTkyNzc0MSwwMDAwMDAwMDZkNTM0OGE0YmE4MjQ5NTE0ODE4OTU1N2ZiODMwMjNi",
   "tracks": [
     {
       "added_at": "2022-08-31 06:35:41",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 288066,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2022-08-31 06:35:41",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
         "name": "Rocanrol Bumerang",
         "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 270680,
       "name": "Venezia",
       "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
     },
     {
       "added_at": "2022-08-31 06:35:41",

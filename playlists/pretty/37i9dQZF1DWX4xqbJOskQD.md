@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,375 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 12 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
 | 13 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs Of The 1950s\. Volume One](https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB) | 2:21 |
 | 14 | [It's A Blue World](https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU) | [The Four Freshmen](https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9) | [Voices In Modern](https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8) | 2:58 |
-| 15 | [Tea for Two \(with Axel Stordahl & His Orchestra\)](https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Axel Stordahl And His Orchestra](https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl) | [Tea For Two \(with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio\)](https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv) | 3:11 |
+| 15 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |
 | 16 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
-| 17 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |
+| 17 | [Tea for Two \(with Axel Stordahl & His Orchestra\)](https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Axel Stordahl And His Orchestra](https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl) | [Tea For Two \(with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio\)](https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv) | 3:11 |
 | 18 | [Have You Heard](https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [Hits Singles: Collectors Series](https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH) | 2:31 |
 | 19 | [Moments To Remember](https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 3:15 |
 | 20 | [Since I Don't Have You](https://open.spotify.com/track/5m1bCro6fYB2Vl6aRGCMpJ) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk), [Vogel](https://open.spotify.com/artist/5ut4Nqc0hRian2yV4JVlgK), [Rock](https://open.spotify.com/artist/2KTDVOTp2crzV4KBe16SgW), [Beaumont](https://open.spotify.com/artist/3f1Bssm6hGHLgYWK8BUKHb), [Verscharen](https://open.spotify.com/artist/0CFChyoPc33nvms5fFylfV) | [Doo Wop: Hits](https://open.spotify.com/album/58JdpTiup8BkfmblgsMMr1) | 2:38 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 44 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 | 45 | [It's Sand, Man!](https://open.spotify.com/track/1mhOW7fYuOTEv1oJxqgXJG) | [Jon Hendricks](https://open.spotify.com/artist/2Kn5swSfLmUU2WEJVlQvJY), [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy), [Lambert, Hendricks & Ross](https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg) | [Sing A Song Of Basie](https://open.spotify.com/album/2TmARLhB8VuTpm7y1nhrY7) | 2:27 |
 
-Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMDg1YTczOTBlM2MxMGZmYTAwZjgzMDk4MjQ5NDc5YWNl`
+Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMGY4NDIwMjQ2NjM1ZGYxYjkwYTMzODI3OTBiOWViYjFj`

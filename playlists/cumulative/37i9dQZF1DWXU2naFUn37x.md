@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Sick Luke
 
-181 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+182 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 | 2022-07-07 | 2022-07-15 |
 | [Aqua dans la Mercedes](https://open.spotify.com/track/5SK1G2SAbNA7alM7gWbVdr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 3:29 | 2022-12-08 |  |
 | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/track/5yIVCbjYf85Ixuc8ybba6s) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/album/5Caup6PGNwKut6KiyaZP5j) | 2:48 | 2022-05-11 | 2022-06-03 |
-| [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 2:40 | 2022-12-01 |  |
+| [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 2:40 | 2022-12-01 | 2022-12-14 |
+| [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 2:40 | 2022-12-12 |  |
 | [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2022-10-24 | 2022-10-28 |
 | [Auto tedesca](https://open.spotify.com/track/1rXqb6AK9Sd0ZG1nPOAbrW) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 2:39 | 2022-11-09 |  |
 | [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-08-26 | 2022-10-26 |

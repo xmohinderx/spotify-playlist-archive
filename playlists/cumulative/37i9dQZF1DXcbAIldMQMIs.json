@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "indie pop when ur crushing ",
+  "description": "Indie pop when ur crushing",
   "name": "text me back",
   "published_playlist_ids": [
     "2Dx9G9DAtIF5EVp17A9kKu"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 102468,
       "name": "80's makeout session",
       "url": "https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 211865,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/29wrhqZUPQFPjREFM6vayu"
@@ -574,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+    },
+    {
+      "album": {
         "name": "batman",
         "url": "https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN"
       },
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 186781,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 262231,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
@@ -1032,6 +1050,28 @@
     },
     {
       "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "CAN'T GET OVER YOU (feat. Clams Casino)",
+      "url": "https://open.spotify.com/track/39oeKRgsLeynDIbWuXyA47"
+    },
+    {
+      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
       },
@@ -1043,10 +1083,46 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
+    },
+    {
+      "album": {
+        "name": "Cayendo (Side A - Acoustic)",
+        "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Cayendo (Side A - Acoustic)",
+      "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
+    },
+    {
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "album": {
@@ -2148,6 +2224,24 @@
     },
     {
       "album": {
+        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
+        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
+    },
+    {
+      "album": {
         "name": "Harry Styles",
         "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
@@ -2163,6 +2257,24 @@
       "duration_ms": 211960,
       "name": "From the Dining Table",
       "url": "https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6"
+    },
+    {
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "album": {
@@ -2787,7 +2899,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 194133,
       "name": "Kenny",
       "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
@@ -3180,6 +3292,24 @@
     },
     {
       "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4oU7ZVhl83heRjeobpGFIN"
       },
@@ -3227,7 +3357,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 170000,
       "name": "nothing else i could do",
       "url": "https://open.spotify.com/track/6qtoHId8ZoJ3J5JG6eOqJB"
@@ -3616,6 +3746,24 @@
     },
     {
       "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+    },
+    {
+      "album": {
         "name": "Second Base",
         "url": "https://open.spotify.com/album/1CpVfieiYFzxzbiwckVBbl"
       },
@@ -3843,7 +3991,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 157522,
       "name": "sorry haha i fell asleep",
       "url": "https://open.spotify.com/track/4EzVsSkEdO7JJRe80MxtQk"
@@ -3919,10 +4067,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 187415,
       "name": "Stella Brown",
       "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
+    },
+    {
+      "album": {
+        "name": "Not Your Muse (Deluxe)",
+        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255986,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
     },
     {
       "album": {
@@ -4552,6 +4718,24 @@
     },
     {
       "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -4675,7 +4859,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 174357,
       "name": "YEAH RIGHT",
       "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"

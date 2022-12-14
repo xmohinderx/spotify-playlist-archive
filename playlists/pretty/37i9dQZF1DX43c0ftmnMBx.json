@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 195786,
+  "num_followers": 195891,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDU0ODA1NjY5MTA0MTc2YTAyMzYzM2VhZDA5NmMzNWRm",
+  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDNlNzE4MmQ5ZThlZDMwNGFlNTdjYjQ2NmJiNzA3YWFj",
   "tracks": [
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Bachatas Pal' Pueblo: Mas Pueblo Que Nunca",
-        "url": "https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "El Profesor",
-      "url": "https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "Obl\u00edgame",
         "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 233706,
       "name": "Me Duele La Cabeza",
       "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "Bachatas Pal' Pueblo: Mas Pueblo Que Nunca",
+        "url": "https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "El Profesor",
+      "url": "https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w"
+        "name": "Pa' Que Te Duela",
+        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Busca un Confidente",
-      "url": "https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ"
+      "duration_ms": 215874,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Pa' Que Te Duela",
-        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
+        "name": "1",
+        "url": "https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w"
       },
       "artists": [
         {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 215874,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"
+      "duration_ms": 235000,
+      "name": "Busca un Confidente",
+      "url": "https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Uniquehits",
-        "url": "https://open.spotify.com/album/26va0BYB9jWj7c7vtEKuHx"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/6wxv5GFsir64vZzYzihoFM"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
         }
       ],
-      "duration_ms": 240573,
-      "name": "Ese Hombre Soy Yo",
-      "url": "https://open.spotify.com/track/4A20TRyeqAkxhkdWlASegH"
+      "duration_ms": 205000,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/57d0Lp2QxoP6myHm5n2RbR"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/6wxv5GFsir64vZzYzihoFM"
+        "name": "Uniquehits",
+        "url": "https://open.spotify.com/album/26va0BYB9jWj7c7vtEKuHx"
       },
       "artists": [
         {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/57d0Lp2QxoP6myHm5n2RbR"
+      "duration_ms": 240573,
+      "name": "Ese Hombre Soy Yo",
+      "url": "https://open.spotify.com/track/4A20TRyeqAkxhkdWlASegH"
     },
     {
       "added_at": "2022-10-25 23:01:25",

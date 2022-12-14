@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,494 likes - 200 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,649 likes - 200 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 131 | [the one](https://open.spotify.com/track/5itVHY5qJliSdZ7h9wWZVj) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [the one](https://open.spotify.com/album/4gwFHcEJ4CD95yzZjnnJ36) | 1:36 |
 | 132 | [Switch](https://open.spotify.com/track/0cYvmlZCNXdvsjs7GRXFQh) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Switch](https://open.spotify.com/album/3Le3nB2KAzsZHJsFrqf01y) | 1:46 |
 | 133 | [Head Nod](https://open.spotify.com/track/28nvmtm4Bzo7hrg3oxo9aZ) | [Leo Franciozi](https://open.spotify.com/artist/1gYlugboAAJJz7RfLquAHr), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Head Nod](https://open.spotify.com/album/1TNMj0sSWK5LlHspmjuwHw) | 1:48 |
-| 134 | [Put Your Hands Up](https://open.spotify.com/track/0LRcMNHOeChV4UG7rLN1Xz) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Put Your Hands Up](https://open.spotify.com/album/2KHS5HCEvAzzrGKD3pHc07) | 1:50 |
+| 134 | [Put Your Hands Up](https://open.spotify.com/track/5fszgubkNixUMmqDYdXJ6L) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Put Your Hands Up](https://open.spotify.com/album/24uvsMFissUnmpb7DYLCBH) | 1:50 |
 | 135 | [Jazz Cellar](https://open.spotify.com/track/6V6haaNGt4EJnKjDyY79gK) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Jazz Cellar](https://open.spotify.com/album/3TkEwoZYHfplE1jlbgIAEf) | 2:35 |
 | 136 | [My Soul](https://open.spotify.com/track/7gqSHdGVonjieyd54VlJ9i) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90) | [My Soul](https://open.spotify.com/album/3Bk12ozkZtrazgap2EkotO) | 1:47 |
 | 137 | [dreams](https://open.spotify.com/track/5MpAjIMjT9eXrC1Ya7uMle) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [dreams](https://open.spotify.com/album/3NCZ2g3bQSyi5cjMKHw5F3) | 3:14 |
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 185 | [Elysian Park](https://open.spotify.com/track/4xHkvSBotbywoO6s7jifIz) | [Blzzn](https://open.spotify.com/artist/6AhOUa1YcUtj6KjNx4LQ5E) | [City Walk](https://open.spotify.com/album/1xa6vCfUYkEKDzgZaCUGCH) | 2:26 |
 | 186 | [Coves](https://open.spotify.com/track/4eMrVEWUgbd7CSeD1TDQuy) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Coves](https://open.spotify.com/album/5CktapTCXcKqzkC87d9jXr) | 2:45 |
 | 187 | [Lagoon](https://open.spotify.com/track/2uIwZfq0rC5EsKgEpWl6Pk) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Lagoon](https://open.spotify.com/album/2h2f1UgdOBIfZAkmmdIyaH) | 3:07 |
-| 188 | [Purple Days](https://open.spotify.com/track/6IOsHOSYKJWZPvcu0TxOjP) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3), [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Purple Days](https://open.spotify.com/album/1eNm8ZQlCC0kC9hxOlbiyM) | 1:54 |
+| 188 | [Purple Days](https://open.spotify.com/track/6swspKnhCXVuhtjjn3CKWX) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Purple Days](https://open.spotify.com/album/1wyIN2PaYsXq1dFQouQjTg) | 1:54 |
 | 189 | [Edinburgh slang](https://open.spotify.com/track/6dXurVV82jPnWs5cuaN0Vt) | [Mz Boom Bap](https://open.spotify.com/artist/2VuJVhDHZtxhw4Ue1jN8kL) | [Edinburgh slang](https://open.spotify.com/album/7DdYxJN9CQSky3dcaQJXko) | 3:42 |
 | 190 | [Surfing Spot](https://open.spotify.com/track/1KqmTIMj2N9Swjp0md4dLb) | [Jmss](https://open.spotify.com/artist/36SBg8t2alILgIBtN5V2Jb) | [Surfing Spot](https://open.spotify.com/album/1HuI8TDziraZva1JdCzLJj) | 1:52 |
 | 191 | [Stallone](https://open.spotify.com/track/4yS1f5mRw7WpewybCK30NH) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Stallone](https://open.spotify.com/album/5rGVab7VkQioQOBIwnQgEu) | 2:23 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 199 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 |
 | 200 | [money planet](https://open.spotify.com/track/5t13y5FjGJtfhbQzgitlgD) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/1r95Feyxpoia1LvkPy5Tvc) | 1:44 |
 
-Snapshot ID: `MTY3MDU5MDgyMSwwMDAwMDAwMDI5YjlhOTdjNWE3MzVmN2QyZDA1NjJmNjA4NjA3ODMw`
+Snapshot ID: `MTY3MDU5MDgyMSwwMDAwMDAwMDE1MDc0ZGU2MDAxZjQ5M2QzMGZhOGNiNmEwOTYwMTdj`

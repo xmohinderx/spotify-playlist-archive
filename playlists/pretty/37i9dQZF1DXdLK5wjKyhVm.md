@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,289 likes - 209 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,932 likes - 209 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 117 | [Early Morning](https://open.spotify.com/track/6qxuSObaNZ0ihaXxNwTtsg) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Early Morning](https://open.spotify.com/album/5CBWIfUEbgNUTW5U0i80Jb) | 2:10 |
 | 118 | [Blue Moon Boys](https://open.spotify.com/track/0OkPqjJ4mJNZZbcwW1pzzv) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Blue Moon Boys](https://open.spotify.com/album/6fTZl1fGfyGQx88rUCWOaJ) | 2:54 |
 | 119 | [Tea Leaves](https://open.spotify.com/track/7LINIBYL3Nqc4tK7mmmWsx) | [littlehouse](https://open.spotify.com/artist/2FNVpme1c5oaaSp8ubShra), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Tea Leaves](https://open.spotify.com/album/6kWCwBJw2tWfoVWP5gGJAv) | 2:06 |
-| 120 | [Rolling Down the Road](https://open.spotify.com/track/6S1p0yGzPBOR6miNkXTnrt) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Rolling Down the Road](https://open.spotify.com/album/5yBaPe9qmfalOLsRyJfmIQ) | 2:02 |
+| 120 | [Rolling Down the Road](https://open.spotify.com/track/0yhi622ykvVQdSHsAzXd0J) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Rolling Down the Road](https://open.spotify.com/album/5ykum1DnzuEwqXg5IWCtpp) | 2:02 |
 | 121 | [Tea Time](https://open.spotify.com/track/6XYaIOhT9WYBo5PXcVL567) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Tea Time](https://open.spotify.com/album/2OlDVuUHQTg8JM4DjPYxxL) | 1:43 |
 | 122 | [hyperōon](https://open.spotify.com/track/5If8IfFFoKb0gAiT7OHV10) | [solae](https://open.spotify.com/artist/0k8mD0prjdPcC9HRtTuRr4) | [pneuma](https://open.spotify.com/album/3uKoJL14ttBrgoSNAvOjJt) | 1:25 |
 | 123 | [Cadillac Moon](https://open.spotify.com/track/5FL8WNc3o0Y457aP6P2XxF) | [Juna](https://open.spotify.com/artist/1v8lZNkqxJzsn8KsRGDsUm) | [Cadillac Moon](https://open.spotify.com/album/2ZGsDR8rXrJxINXoM4KIxs) | 1:33 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 208 | [Sun Day](https://open.spotify.com/track/5EIrJ59T18nnpxDBBn1yjJ) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Sun Day](https://open.spotify.com/album/1VjeX2hkfm4FZxixjy4I9A) | 1:54 |
 | 209 | [Remember That](https://open.spotify.com/track/7eCNgZU8r9GmyOJYA9q5oS) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Remember That](https://open.spotify.com/album/1iRAG8gw95qM7v6PGz18qH) | 2:21 |
 
-Snapshot ID: `MTY3MDU0NDA2MCwwMDAwMDAwMGU5YmUxZTVhZmUxZjNkYjZjOGFiNmExNmYyZjlhYTIz`
+Snapshot ID: `MTY3MDU0NDA2MCwwMDAwMDAwMGQ5NDNhYzkwM2UyODE0ZTYzNzU1MmJhNWViNWQ2Zjhh`

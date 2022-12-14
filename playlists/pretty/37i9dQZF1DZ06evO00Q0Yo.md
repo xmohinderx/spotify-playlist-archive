@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,430 likes - 41 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,440 likes - 41 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 26 | [Like That Bitch](https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 3:23 |
 | 27 | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/track/206CWNlXy1wLw3nchSDWJA) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/2J48yzicpveqFUaKRWWkq1) | 3:36 |
 | 28 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 |
-| 29 | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/track/5IVPl9SbDAe28LCRHBNpBa) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/album/7CpjNiYREFDviV1IpdoSfq) | 3:10 |
-| 30 | [HOT \(with Sean Paul & Flo Milli\) \- Remix](https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [HOT \(Remix\)](https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp) | 3:25 |
+| 29 | [HOT \(with Sean Paul & Flo Milli\) \- Remix](https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [HOT \(Remix\)](https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp) | 3:25 |
+| 30 | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/track/5IVPl9SbDAe28LCRHBNpBa) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/album/7CpjNiYREFDviV1IpdoSfq) | 3:10 |
 | 31 | [My Attitude](https://open.spotify.com/track/75nCGDsQW8BQsCXQrhFmoK) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [My Attitude](https://open.spotify.com/album/7Gmi73lktv864xchbOA5PZ) | 2:27 |
 | 32 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 |
 | 33 | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/track/1tV2tvirWkLkBhj2y2j5ZU) | [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/album/6D0Sma90a30imii8y1y0kN) | 3:09 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 40 | [Eat It Up](https://open.spotify.com/track/2zeHX4bX8RxeaLDgdn90RA) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Eat It Up](https://open.spotify.com/album/2DwPROREroAzr1bDDO4up8) | 2:32 |
 | 41 | [Back It Up](https://open.spotify.com/track/23LAuKGYTIW6rrCiZqvDZG) | [Trap Beckham](https://open.spotify.com/artist/5AK2gJtEA2SWI9lBywSZjN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Back It Up](https://open.spotify.com/album/5JEiyCKJvndbtLtj9fSmA3) | 3:05 |
 
-Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDBhYjNhZWExNDYxZWU1OWM5ZmQ0NmNkM2JlYjJiZjRlYQ==`
+Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDA4MWEyNzc5OTlhMzE4ZmYxNmVkMmM2NTRjNjA3Y2UyNQ==`

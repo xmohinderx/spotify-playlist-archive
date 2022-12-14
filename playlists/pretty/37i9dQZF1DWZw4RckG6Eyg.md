@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,249 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,389 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 25 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 |
 | 26 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 |
 | 27 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 |
-| 28 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 |
-| 29 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 |
+| 28 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 |
+| 29 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 |
 | 30 | [Pata Pata Saguquka](https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Pata Pata Saguquka](https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB) | 5:25 |
-| 31 | [High\-Speed Kissing](https://open.spotify.com/track/6ljkm9d4eYGQFYX7PxR6h5) | [Lake Malawi](https://open.spotify.com/artist/4UXTIkBW9t9Lcx3xtlaifs), [We Are Domi](https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S) | [High\-Speed Kissing](https://open.spotify.com/album/1y5Kw8PeJnz99ctZzWFrlU) | 3:08 |
-| 32 | [We Don't Talk](https://open.spotify.com/track/2J2GFKTxSMVI31YoJBpM56) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [We Don't Talk](https://open.spotify.com/album/1el8dDQugKcj9nvQkgFE3m) | 3:25 |
+| 31 | [We Don't Talk](https://open.spotify.com/track/2J2GFKTxSMVI31YoJBpM56) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [We Don't Talk](https://open.spotify.com/album/1el8dDQugKcj9nvQkgFE3m) | 3:25 |
+| 32 | [High\-Speed Kissing](https://open.spotify.com/track/6ljkm9d4eYGQFYX7PxR6h5) | [Lake Malawi](https://open.spotify.com/artist/4UXTIkBW9t9Lcx3xtlaifs), [We Are Domi](https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S) | [High\-Speed Kissing](https://open.spotify.com/album/1y5Kw8PeJnz99ctZzWFrlU) | 3:08 |
 | 33 | [Sugar Rush](https://open.spotify.com/track/3zB53lzbPCY8GVcTwn39ag) | [lowe](https://open.spotify.com/artist/0ASFVsyFHBICfm61Gb4KLU), [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Sugar Rush](https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr) | 2:46 |
 | 34 | [don't jump the gun](https://open.spotify.com/track/5A4IUiCLfZAjEME2QPgf8P) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [don't jump the gun](https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T) | 2:35 |
 | 35 | [Another Sketch](https://open.spotify.com/track/5GrRMVHfh3fnPERa4MCJDl) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:50 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 41 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 |
 | 42 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 |
 | 43 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
-| 44 | [Mott St](https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE) | 2:55 |
-| 45 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 |
-| 46 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
+| 44 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
+| 45 | [Mott St](https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE) | 2:55 |
+| 46 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 |
 | 47 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 |
 | 48 | [Rain](https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo) | [Deco](https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc) | [Rain](https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr) | 3:23 |
 | 49 | [Be Alright](https://open.spotify.com/track/7xo4uV0Cv226hBBXMXQFqS) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Be Alright](https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU) | 3:34 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 55 | [Distant Shouts](https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Distant Shouts](https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY) | 3:10 |
 | 56 | [Mi Amor](https://open.spotify.com/track/43LaVZm8uQN9RIj2j5JxCn) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/4qHKbdVCVJXbhXKrt2m1mE) | 2:38 |
 | 57 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
-| 58 | [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 |
-| 59 | [Baby You’re the One I Need](https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Baby You’re the One I Need](https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6) | 2:43 |
+| 58 | [Baby You’re the One I Need](https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Baby You’re the One I Need](https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6) | 2:43 |
+| 59 | [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 |
 | 60 | [Preacher](https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:17 |
-| 61 | [Congratulations](https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:13 |
-| 62 | [Enemy](https://open.spotify.com/track/2DvqIw0ToR8GriSbvlA4Ws) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:42 |
-| 63 | [Golden Air](https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Golden Air](https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J) | 5:42 |
-| 64 | [Allure](https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Enjoy Your Stay](https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk) | 3:10 |
+| 61 | [Enemy](https://open.spotify.com/track/2DvqIw0ToR8GriSbvlA4Ws) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:42 |
+| 62 | [Congratulations](https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:13 |
+| 63 | [Allure](https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Enjoy Your Stay](https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk) | 3:10 |
+| 64 | [Golden Air](https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Golden Air](https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J) | 5:42 |
 | 65 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
 | 66 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 |
 | 67 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 74 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
 | 75 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 |
 
-Snapshot ID: `MTY2OTgyNTc2NSwwMDAwMDAwMGUxNDA3MGY3MWE0ZjM0OWI1OGYxYzZiMmJiNTM1N2E4`
+Snapshot ID: `MTY2OTgyNTc2NSwwMDAwMDAwMDlhOTU5ZTdjNThkZmI1NjZhYzRkOGUwNTM5NGQ0YTQ2`

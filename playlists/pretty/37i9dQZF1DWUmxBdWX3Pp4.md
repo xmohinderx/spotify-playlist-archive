@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Arcangel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,857 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,201 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

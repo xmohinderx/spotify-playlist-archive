@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 80 | [We're Not Friends](https://open.spotify.com/track/4v9L9xPXgoZnYoI204IBrE) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:50 |
 | 81 | [Hey Cutie](https://open.spotify.com/track/4eUJJtvEwDn45jG0gZdLdZ) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [The DeAndre Way \(Deluxe Explicit Version\)](https://open.spotify.com/album/0uOv76Q0q8w5PtiazPiq5z) | 3:15 |
 | 82 | [Solo](https://open.spotify.com/track/37CtAzYl5Ci5y5wPEEcHFU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:53 |
-| 83 | [Again](https://open.spotify.com/track/3uqwJF9yjcOrzY3weJqxU3) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:22 |
-| 84 | [Hurt for Long](https://open.spotify.com/track/5Zo2q2qGbGMzPURPXqOqlX) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:17 |
+| 83 | [Hurt for Long](https://open.spotify.com/track/5Zo2q2qGbGMzPURPXqOqlX) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:17 |
+| 84 | [Again](https://open.spotify.com/track/3uqwJF9yjcOrzY3weJqxU3) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:22 |
 | 85 | [Gotta Luv It](https://open.spotify.com/track/5BwvaW05K2lLDUcli2uzUU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Gotta Luv It](https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z) | 3:13 |
 | 86 | [Comfort Me](https://open.spotify.com/track/3XoAsVgJYuKboiaY7njdPd) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [10\-18](https://open.spotify.com/album/04AEJ2LgvsgEIVWcnu6enG) | 3:48 |
 | 87 | [Slave \(feat\. Eskeerdo\)](https://open.spotify.com/track/2sg4tl6k14jvHzEVHB9cfS) | [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC), [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [God, Money, War](https://open.spotify.com/album/6fZLItAImf0KyRzAI7F2NF) | 2:54 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 106 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 107 | [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 |
 
-Snapshot ID: `Mjc4NDgyMjUsMDAwMDAwMDAzYTIzYzBhN2MzYjMxZTU2NjA1N2M1NjM5MWJkYmYxYQ==`
+Snapshot ID: `Mjc4NDk2NjUsMDAwMDAwMDA1ZjcyOTc1Mzk2YmJmMzc3ZTZlM2I0ODA3OTQzNWI5ZA==`

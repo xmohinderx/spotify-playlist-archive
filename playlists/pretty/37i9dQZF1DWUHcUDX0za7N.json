@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 12952,
+  "num_followers": 12995,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDM3YTBkNzgyZWNjMWNmMDQxZDA1ODg3YTFiMDZjZjZl",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDExN2EwZmZiZGY1NjljZjM0NmYwMzdkNjgzNmY4YTQ2",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -901,26 +901,6 @@
       "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
     },
     {
-      "added_at": "2022-12-02 04:54:11",
-      "album": {
-        "name": "Naira to Pounds",
-        "url": "https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr"
-      },
-      "artists": [
-        {
-          "name": "Zoro",
-          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Naira to Pounds",
-      "url": "https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1"
-    },
-    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Manhattan",
@@ -939,6 +919,26 @@
       "duration_ms": 161379,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
+    },
+    {
+      "added_at": "2022-12-02 04:54:11",
+      "album": {
+        "name": "Naira to Pounds",
+        "url": "https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr"
+      },
+      "artists": [
+        {
+          "name": "Zoro",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Naira to Pounds",
+      "url": "https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1281,42 +1281,6 @@
       "url": "https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Ikebe",
-        "url": "https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek"
-      },
-      "artists": [
-        {
-          "name": "DJ Madengo",
-          "url": "https://open.spotify.com/artist/0tfwCQAV8i4yWS9ZEPZ1QF"
-        },
-        {
-          "name": "Terri",
-          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Ikebe",
-      "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Another Me",
-      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Ball Till We Fall",
@@ -1335,6 +1299,42 @@
       "duration_ms": 143220,
       "name": "Ball Till We Fall",
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Ikebe",
+        "url": "https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek"
+      },
+      "artists": [
+        {
+          "name": "DJ Madengo",
+          "url": "https://open.spotify.com/artist/0tfwCQAV8i4yWS9ZEPZ1QF"
+        },
+        {
+          "name": "Terri",
+          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Ikebe",
+      "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
     },
     {
       "added_at": "2022-06-09 23:00:00",

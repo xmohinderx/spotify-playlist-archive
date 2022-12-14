@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Midian Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,789 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,885 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 17 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
 | 18 | [Confio em Ti](https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Confio em Ti](https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB) | 4:12 |
 | 19 | [Sol da Justiça](https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Sol da Justiça](https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w) | 5:41 |
-| 20 | [Eu Cuido De Você](https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Eu Cuido De Você](https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL) | 5:01 |
-| 21 | [Vem \- Ao Vivo](https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms) | 9:31 |
+| 20 | [Vem \- Ao Vivo](https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms) | 9:31 |
+| 21 | [Eu Cuido De Você](https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Eu Cuido De Você](https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL) | 5:01 |
 | 22 | [Sou Teu Deus](https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sou Teu Deus](https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1) | 4:50 |
 | 23 | [Não Foi Por Acaso \(Ao Vivo\)](https://open.spotify.com/track/26rZyPR1gWgrVVY2G78Lki) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Não Foi Por Acaso \(Ao Vivo\)](https://open.spotify.com/album/6tkKiFMnNjmdF3RwQQLZ2x) | 4:41 |
 | 24 | [Deus Está Fazendo](https://open.spotify.com/track/2y9ZH3fIZoiH01RlhlmmCA) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Deus Está Fazendo](https://open.spotify.com/album/2uKU4wUFcZKOW6LpNrQcBn) | 4:26 |
 | 25 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
-| 26 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 |
+| 26 | [Vinde A Mim](https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Vinde A Mim](https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun) | 5:29 |
 | 27 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
-| 28 | [Vinde A Mim](https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Vinde A Mim](https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun) | 5:29 |
+| 28 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 |
 | 29 | [Sou um Milagre](https://open.spotify.com/track/4aA3PDel1koEbggFsSOVKz) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Sou um Milagre](https://open.spotify.com/album/4ZgjRKu5PlGIcAfbWzMNly) | 7:46 |
 | 30 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
 | 31 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 51 | [Fiel A Mim](https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 2](https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs) | 3:59 |
 | 52 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
 | 53 | [És Tudo](https://open.spotify.com/track/03z3mYVTDYDKwKamZzyGKj) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [És Tudo](https://open.spotify.com/album/19Y22lkGCbo2gDuFuC3t4k) | 4:57 |
-| 54 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 |
-| 55 | [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 |
+| 54 | [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 |
+| 55 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 |
 | 56 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
 | 57 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 |
 | 58 | [Teu Falar \- Ao Vivo](https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU) | [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi) | 6:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 74 | [Raridade \(Ao Vivo\)](https://open.spotify.com/track/2j5ZnD3cpAvVpxduF0PmvG) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Raridade \(Ao Vivo\)](https://open.spotify.com/album/15ICKAPYvESqJvrlRkmdpv) | 3:48 |
 | 75 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 
-Snapshot ID: `MTY3MDU2NjQ4OCwwMDAwMDAwMGJmMmM2YTQ4ZjY2OWVhYjJiNzY1ODc1NjdhZWI0MGQ0`
+Snapshot ID: `MTY3MDU2NjQ4OCwwMDAwMDAwMGQ2ZTM3OGY0OTIyYWVkYmE2OTc1M2I3MDc1OGE1YzJh`

@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-193 songs - 12 hr 35 min - not published yet
+196 songs - 12 hr 44 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Gushtose](https://open.spotify.com/track/0d0s4aEVoWcO8DyoRVBdCm) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Gushtose](https://open.spotify.com/album/2O4yQ8clSD8CC5s1eDd1p6) | 4:17 | 2022-10-31 | 2022-11-05 |
 | [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2022-12-08 |  |
 | [Hide & Seek](https://open.spotify.com/track/1QsZGlLxvzISodQJeVF8wT) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Nonsens](https://open.spotify.com/artist/09GJU4jF4zhNfN72mTyMCi) | [Hide & Seek](https://open.spotify.com/album/4og9aWRMdUApceZpBldJY4) | 3:49 | 2022-10-15 | 2022-11-01 |
+| [Higher](https://open.spotify.com/track/3sC0pWBqh3zHXJ7pu13MMI) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [Higher](https://open.spotify.com/album/7u9TgGnwpshe0OqBbLGPsS) | 2:55 | 2022-12-13 |  |
 | [Hold Me Close](https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Hold Me Close](https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU) | 3:19 | 2022-12-03 |  |
 | [House Magic](https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY) | [Peter Schumann](https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I) | [Deeper Conversations EP](https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR) | 8:01 | 2022-11-04 | 2022-11-13 |
 | [Howl \- Logic1000 Remix](https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Howl \(Logic1000 Remix\)](https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq) | 4:49 | 2022-10-31 | 2022-11-05 |
@@ -151,6 +152,7 @@
 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 | 2022-11-12 | 2022-11-19 |
 | [Serenity](https://open.spotify.com/track/4ZR3XNIrJ1LmuTshprKkXX) | [The Cyclist](https://open.spotify.com/artist/0rnH8BQH2nKlVXBLaCRH92) | [STP](https://open.spotify.com/album/62OtZ7BTU2EJRvBPqqcW29) | 7:02 | 2022-12-03 |  |
 | [Sharratt](https://open.spotify.com/track/5lv4cvyaPSIKNgKwMLdnaS) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 3:51 | 2022-11-04 | 2022-11-13 |
+| [Sicko Drop \- Claudinho Brasil Remix](https://open.spotify.com/track/3Z7UmZWV0qyY7nK076Bqxe) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Claudinho Brasil](https://open.spotify.com/artist/41ggHbtYARi4S4JtbeRrYY) | [Sicko Drop \(Claudinho Brasil Remix\)](https://open.spotify.com/album/1RZKaqedt3r09PaDCZtaCc) | 2:41 | 2022-12-13 |  |
 | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm) | 3:33 | 2022-11-12 | 2022-11-19 |
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/2mAAcTJ5ZiEGBqhIrmy2Pq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/2uTvIR4Bp09TvCEBAix1Rf) | 4:08 | 2022-11-18 | 2022-12-03 |
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 | 2022-11-12 | 2022-11-19 |
@@ -166,6 +168,7 @@
 | [Talkin](https://open.spotify.com/track/7LPgv7LJ4AgBLsamOzsBh0) | [DJ Hanzel](https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Talkin](https://open.spotify.com/album/4lVS9OPZ5WVCR4FVNmBKus) | 3:31 | 2022-10-31 | 2022-11-05 |
 | [Temperature](https://open.spotify.com/track/5wrbv0M46yx1gcC4t8QQBL) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Temperature](https://open.spotify.com/album/28olOVuLQDVY7XLH6W4USG) | 3:27 | 2022-10-31 | 2022-11-05 |
 | [The Afterparty](https://open.spotify.com/track/1aZttEL3yR3m62Q9fuyodP) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [The Afterparty](https://open.spotify.com/album/5YFSxS1xEs83YHjhemd6aB) | 2:25 | 2022-12-03 |  |
+| [The Bass](https://open.spotify.com/track/1DNQGhU81aEM9bv2PHiALA) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Bass](https://open.spotify.com/album/7GULruW31yLKnR1jQcJorV) | 3:48 | 2022-12-13 |  |
 | [The City Is Mine](https://open.spotify.com/track/4RVrxCfTWV5ti3uNj4HQhJ) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Black Marble](https://open.spotify.com/album/2ghv8mmhJRmTwUyqRxD52D) | 2:10 | 2022-12-03 |  |
 | [The Fool](https://open.spotify.com/track/3NlfzmdtOxVP1raeI5C3fj) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Fantasy](https://open.spotify.com/album/1rDjHlur6uZheIHpBdmLEF) | 4:01 | 2022-11-18 | 2022-12-03 |
 | [The Gallery](https://open.spotify.com/track/0osP6pSaVm56Q14TYPu87N) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Alex Arcoleo](https://open.spotify.com/artist/1Al565vLrClijuyyPwapim) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:30 | 2022-12-03 |  |

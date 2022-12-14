@@ -2,7 +2,7 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: TREASURE
+> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: ITZY
 
 440 songs - 1 day 0 hr 18 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 

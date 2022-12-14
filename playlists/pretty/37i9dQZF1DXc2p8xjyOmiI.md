@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Corridones pa' quemarle las patas al Diablo 😈 En portada: Cartel de Santa & Los Dos Carnales
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,751 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,099 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

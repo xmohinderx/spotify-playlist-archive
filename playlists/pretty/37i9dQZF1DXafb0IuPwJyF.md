@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  東京スカパラダイスオーケストラ & 石原慎也\(Saucy Dog\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,229 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,602 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 2 | [Subtitle](https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/12sWDwrDnaBl0EagZU4sXV) | 5:05 |
 | 3 | [Stardom](https://open.spotify.com/track/7gdbaUPut1M0ewKOSAqvyW) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Stardom](https://open.spotify.com/album/5zieK5I6FAIjUR3I3OYThE) | 3:37 |
 | 4 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
-| 5 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [宇多田ヒカル](https://open.spotify.com/artist/6MMLp7FXx1mewrxMaLr85Y) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 |
+| 5 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Utada Hikaru](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 |
 | 6 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 7 | [Ima Wo Ikirunoda.](https://open.spotify.com/track/2TfgEnBBdBvQl7fdMX1Nqy) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Ima Wo Ikirunoda.](https://open.spotify.com/album/27P7OClUEHrPiybgPxdA7y) | 4:34 |
 | 8 | [クリスマスイブ](https://open.spotify.com/track/1g6Elo93E6SecrU4iVJXpA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [クリスマスイブ](https://open.spotify.com/album/4PNo67FkFcvATpEhXEvYLT) | 3:53 |

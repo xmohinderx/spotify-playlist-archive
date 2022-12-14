@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 167533,
       "name": "celeste feat. Haruno",
       "url": "https://open.spotify.com/track/1sqmG9MPr7oBAPPVSku4LQ"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 223200,
       "name": "Did You See the Sunrise?",
       "url": "https://open.spotify.com/track/2qqy2umtwCzXXrdhnlH6ll"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 279795,
       "name": "Fuyuumi feat. Keina Suda",
       "url": "https://open.spotify.com/track/6UhJvLFqPF8jG29jsK7AYe"
@@ -1879,6 +1879,24 @@
       "duration_ms": 222253,
       "name": "LAG",
       "url": "https://open.spotify.com/track/3mNm8AXQ72Btp0ZsI2XwKl"
+    },
+    {
+      "album": {
+        "name": "round trip",
+        "url": "https://open.spotify.com/album/7vBnslfLvLLfDFG0awdRDF"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "lien",
+      "url": "https://open.spotify.com/track/4G1cGMc2EtRGwzDXHwJPnL"
     },
     {
       "album": {
@@ -4740,6 +4758,24 @@
     },
     {
       "album": {
+        "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/78LviRv4SqpOPVviIkuUhh"
+      },
+      "artists": [
+        {
+          "name": "FAKE TYPE.",
+          "url": "https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174613,
+      "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/4MlLArk7t8WzNgJWP58yUy"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30a4\u30d7\u30ea\u30eb",
         "url": "https://open.spotify.com/album/3iL2VkEt1Z1GsTDRA2YaHG"
       },
@@ -5557,7 +5593,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 246677,
       "name": "\u30c0\u30f3\u30dc\u30fc\u30eb\u306e\u8272 - Rock Sound",
       "url": "https://open.spotify.com/track/7GtbO5Yi0RQPXh1dy7hzl2"
@@ -5905,6 +5941,24 @@
       "duration_ms": 166000,
       "name": "\u30d0\u30b0\u3063\u3066\u306a\u3044?",
       "url": "https://open.spotify.com/track/5pUxiIcfmJsMMs3zY3m4SM"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30c3\u30af\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/7qAXEyZd9MGPM2Ho2Foto3"
+      },
+      "artists": [
+        {
+          "name": "SUIREN",
+          "url": "https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228439,
+      "name": "\u30d0\u30c3\u30af\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/5A8W9xqsTQmbIM9h567QDF"
     },
     {
       "album": {
@@ -7053,6 +7107,24 @@
       "duration_ms": 174920,
       "name": "\u5206\u8eab",
       "url": "https://open.spotify.com/track/3hmCw7M1KL5tXnI0RksmJK"
+    },
+    {
+      "album": {
+        "name": "\u5316\u3051\u732b",
+        "url": "https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167733,
+      "name": "\u5316\u3051\u732b",
+      "url": "https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9"
     },
     {
       "album": {
@@ -8343,7 +8415,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 290289,
       "name": "\u6625\u6ce5\u68d2",
       "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
@@ -8493,6 +8565,24 @@
       "duration_ms": 335516,
       "name": "\u671d\u306e\u5728\u308a\u51e6\u3078 - feat. \u304f\u308d\u304f\u3082, \u718a\u4e95\u6238\u82b1",
       "url": "https://open.spotify.com/track/40aLau31S8iuddEJnUt33Y"
+    },
+    {
+      "album": {
+        "name": "\u672a\u5b8c\u6210\u30ec\u30be\u30ca\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/1DzIMGIEW7zwkT1JKVBMSB"
+      },
+      "artists": [
+        {
+          "name": "meiyo",
+          "url": "https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175129,
+      "name": "\u672a\u5b8c\u6210\u30ec\u30be\u30ca\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/2xp8nv9MiUCQWSaA4HvnfV"
     },
     {
       "album": {

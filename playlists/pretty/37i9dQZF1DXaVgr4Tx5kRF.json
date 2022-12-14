@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 571642,
+  "num_followers": 571807,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMDNhYjg0MDRmNTY2MjJiN2QyYmFkZjQ2NjYyZjYwMDYy",
+  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMGNkYzBmM2JmNzE0M2Y4YjRhZGUzMTczZGUyOTIxYmI5",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "All Change",
-        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Walkaway",
-      "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 240120,
       "name": "The Universal",
       "url": "https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "All Change",
+        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
+      },
+      "artists": [
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Walkaway",
+      "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "House Of Love",
         "url": "https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+        "name": "All Change",
+        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
       },
       "artists": [
         {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+      "duration_ms": 217293,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -651,22 +667,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
-      },
-      "artists": [
-        {
-          "name": "Republica",
-          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/2QsbjNai1nFSl0xFOyV0F7"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "All Change",
-        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
       },
       "artists": [
         {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
+          "name": "Republica",
+          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
         }
       ],
-      "duration_ms": 217293,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
+      "duration_ms": 301533,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
     },
     {
       "added_at": "2022-05-04 17:11:49",

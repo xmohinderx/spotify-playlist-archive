@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=2HgKz2LQRDmlX\_TiWvxZsg"> Kold AF</a>
 
-157 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
+158 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Loud](https://open.spotify.com/track/7ti7kLqyFSubl97L5jqKQi) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:27 | 2022-06-30 |  |
 | [Love](https://open.spotify.com/track/08r8dLobzYIZLrlKlf5zzI) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 4:10 | 2022-06-30 |  |
 | [Love Me](https://open.spotify.com/track/5OG3fwH8vjE3pU6FwFVI5x) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Love Me](https://open.spotify.com/album/4NSFkhmvAQIaXL9f1Qw57e) | 3:18 | 2022-09-29 |  |
-| [Love Sick](https://open.spotify.com/track/5jahNLedLxT9dTBcgb6hMn) | [Kwabsmah](https://open.spotify.com/artist/7zHkgmNbakU3qbOTVxYnYT) | [Love Sick](https://open.spotify.com/album/3TnN0O1Q5BPdNzxbHgVncD) | 2:43 | 2022-11-15 |  |
+| [Love Sick](https://open.spotify.com/track/5jahNLedLxT9dTBcgb6hMn) | [Kwabsmah](https://open.spotify.com/artist/7zHkgmNbakU3qbOTVxYnYT) | [Love Sick](https://open.spotify.com/album/3TnN0O1Q5BPdNzxbHgVncD) | 2:43 | 2022-11-15 | 2022-12-14 |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 |  |
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 | 2022-11-19 |
 | [Migraine](https://open.spotify.com/track/3CBPgAhZ8XnRxzLfksRS5Q) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Spy Shitta The EP](https://open.spotify.com/album/2vE9kJqmDwx4yICL2RPbqD) | 3:32 | 2022-10-28 |  |
@@ -124,6 +124,7 @@
 | [Omalicha](https://open.spotify.com/track/5f8X74uHDBh0eFOL7g4CWt) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [Omalicha](https://open.spotify.com/album/6SlEjoDoVojyRAkQuZhTxJ) | 3:45 | 2022-06-30 | 2022-12-02 |
 | [Paradise \(All Over Me\)](https://open.spotify.com/track/4LLpSnnyjPQt0PB2DkitWD) | [Ifé](https://open.spotify.com/artist/5bwayITcleftVQyaj7TnSa) | [Paradise \(All Over Me\)](https://open.spotify.com/album/1pkqwPvn9FoiIGUqTSxi10) | 3:04 | 2022-11-25 |  |
 | [Pata Pata \(Remix\)](https://open.spotify.com/track/0UeFuD5wYxDx5hXuLxKcwp) | [Stainless](https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Pata Pata \(Remix\)](https://open.spotify.com/album/7jhzt3S0DnHb6E4uSqCOe0) | 3:04 | 2022-08-18 | 2022-10-22 |
+| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2022-12-13 |  |
 | [Perfect for You](https://open.spotify.com/track/0eT2eNReYnqqwmBpnNkLV8) | [Majesty Lyn](https://open.spotify.com/artist/5ZETERIwOXfWYCBljWg3Hk), [Waye](https://open.spotify.com/artist/4xB0OZoxh4Kv0dbn4YDT4v) | [Perfect for You](https://open.spotify.com/album/52q1z24xP20oeiQWUR1Cav) | 3:03 | 2022-09-29 | 2022-11-04 |
 | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/track/02N7PICytyxQIB83WNtxC8) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/album/10SAFauFQQneSjEe47W0hw) | 2:33 | 2022-10-28 |  |
 | [Please](https://open.spotify.com/track/1Pqx8ch3QEQrJJendsvq7p) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg) | [Becoming](https://open.spotify.com/album/02KVxtR1TIKvWxhxXBDsyF) | 2:53 | 2022-11-04 |  |

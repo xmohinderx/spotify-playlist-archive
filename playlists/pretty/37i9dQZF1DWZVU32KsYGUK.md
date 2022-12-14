@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style, elegant music for your fancy dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,504 likes - 198 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,539 likes - 198 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sun Rays](https://open.spotify.com/track/1zYeaGszUkDyQd0Rk2jUX1) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [Sun Rays](https://open.spotify.com/album/4HOCxe4I0644Rcm9AQZ9BD) | 1:40 |
 | 2 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 |
-| 3 | [Focus](https://open.spotify.com/track/0t79I6vistFsiQRjgmBwQM) | [Neo Sullivan](https://open.spotify.com/artist/4U48BWVAwfjaSf6NZEzGgl) | [Focus](https://open.spotify.com/album/1qu13W0HoRtE9YuMwWsos5) | 1:04 |
+| 3 | [Focus](https://open.spotify.com/track/0t79I6vistFsiQRjgmBwQM) | [Richard Noé](https://open.spotify.com/artist/2UV329FQE9wMJptQNSthf1) | [Focus](https://open.spotify.com/album/1qu13W0HoRtE9YuMwWsos5) | 1:04 |
 | 4 | [Canterbury](https://open.spotify.com/track/6EfKuo9oF2YC3OGyzzAWcL) | [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P) | [Academia Aesthetics](https://open.spotify.com/album/6ezqP3eQs8u8jqQ9WWfq3S) | 1:28 |
 | 5 | [Dustsceawung](https://open.spotify.com/track/6nA3Rq6zvadWTW8H9wuoS8) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Dustsceawung](https://open.spotify.com/album/5VEskKPrAs8A43c0Vn6cQ9) | 1:52 |
 | 6 | [Tournesols](https://open.spotify.com/track/7lssMgk6U5ikJZ8yxt3xw0) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Tournesols](https://open.spotify.com/album/4jq8FPznCCPIAIkI2hCFzS) | 2:32 |

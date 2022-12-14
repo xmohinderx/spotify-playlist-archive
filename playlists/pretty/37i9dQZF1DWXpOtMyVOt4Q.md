@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,798 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,859 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 9 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
 | 10 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
 | 11 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
-| 12 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
-| 13 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
-| 14 | [One Last Time](https://open.spotify.com/track/6IC0untdEsc2PeKcQgZWN9) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/2rZTW31z0d1DhCztQr21b2) | 2:20 |
+| 12 | [One Last Time](https://open.spotify.com/track/6IC0untdEsc2PeKcQgZWN9) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/2rZTW31z0d1DhCztQr21b2) | 2:20 |
+| 13 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
+| 14 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 15 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
 | 16 | [Breeze](https://open.spotify.com/track/7qBHJ0nXHHsoOtqKwfkF35) | [Mvdb](https://open.spotify.com/artist/0hleYpwrJSPEh2pCRTU0AY) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:35 |
-| 17 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
-| 18 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 |
-| 19 | [Counter Attack Mankind](https://open.spotify.com/track/238xYmosbRii3JrPUFIUtF) | [Feora](https://open.spotify.com/artist/1CrlOWdMRMmEkDbivpWVxn) | [Counter Attack Mankind](https://open.spotify.com/album/1qW6KDoQYiVTJAvSOTtimE) | 2:19 |
-| 20 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 |
-| 21 | [Fireflies](https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb) | 4:58 |
+| 17 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 |
+| 18 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
+| 19 | [Fireflies](https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb) | 4:58 |
+| 20 | [Counter Attack Mankind](https://open.spotify.com/track/238xYmosbRii3JrPUFIUtF) | [Feora](https://open.spotify.com/artist/1CrlOWdMRMmEkDbivpWVxn) | [Counter Attack Mankind](https://open.spotify.com/album/1qW6KDoQYiVTJAvSOTtimE) | 2:19 |
+| 21 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 |
 | 22 | [A Gloomy Night](https://open.spotify.com/track/7ogQ3ATYnACdIjSXXesBKF) | [Voron](https://open.spotify.com/artist/5NmGxnoqCncZYg2TbfC1hN) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:20 |
 | 23 | [Panacea](https://open.spotify.com/track/7KBoQnlle2lUerygFSk0iJ) | [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq) | [Hyper Light Drifter](https://open.spotify.com/album/0uYATlPpnvkSvsjxWg8ZB3) | 6:04 |
 | 24 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 45 | [Byte into an Apple](https://open.spotify.com/track/2yrmWG0ppPgLS5roqMruJP) | [Alpha Room](https://open.spotify.com/artist/0u3vSXLtwN75J1AlhuXpMk) | [Byte into an Apple](https://open.spotify.com/album/1JgMUjHWidmXNlfNWHiLEr) | 3:15 |
 | 46 | [settled down.](https://open.spotify.com/track/7KFQ0LrtvHkiR0aSZKscjF) | [mr\. okane](https://open.spotify.com/artist/6sQtzwpgvnWhyi9yi6pfxE) | [OKANE 金 1](https://open.spotify.com/album/5bal2BUbu8l191xGDxQ8AK) | 1:45 |
 | 47 | [jade tower](https://open.spotify.com/track/7ERaRrb9qbmnvbAbBQvqgA) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [New Game +](https://open.spotify.com/album/44CDggTdui1svEdyck7NOT) | 1:39 |
-| 48 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
-| 49 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
-| 50 | [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 |
+| 48 | [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 |
+| 49 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
+| 50 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
 
-Snapshot ID: `MTY2OTE0NTgyMCwwMDAwMDAwMDM1OWMxYjg0ZjYxMzFiMGY2MzJhYTZmY2U5NGFmODI1`
+Snapshot ID: `MTY2OTE0NTgyMCwwMDAwMDAwMDY0NjE4YjkyNDc0NzdiOGM5Y2QwZWFjOWYwNDhjMmJl`

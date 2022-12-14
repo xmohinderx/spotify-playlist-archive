@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 246723,
+  "num_followers": 246762,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDBmOWM4YjJhNzlkOThkOWZkZTQ3OWU0Y2JhZGVjZjA4",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGNmNzViZDM3ODY1NGQ5NDM1M2MxMDRhY2JhZmIxNDVh",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Notion - EP",
-        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Can You Afford To Lose Me?",
         "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 133773,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Notion - EP",
+        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 307613,
       "name": "Body",
       "url": "https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "one hand on the steering wheel the other sewing a garden",
-        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
       },
       "artists": [
         {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 211522,
-      "name": "hurt",
-      "url": "https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy"
+      "duration_ms": 182062,
+      "name": "Boxing Day Blues",
+      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1391,6 +1391,22 @@
       "duration_ms": 208242,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "one hand on the steering wheel the other sewing a garden",
+        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 211522,
+      "name": "hurt",
+      "url": "https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Boxing Day Blues",
-      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "My Love Is Cool",
         "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 187933,
       "name": "Turn To Dust",
       "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Planet (i)",
+        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 236610,
+      "name": "I\u2019ll Go Running",
+      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 242893,
       "name": "I Don't Want to Let You Down",
       "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Planet (i)",
-        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 236610,
-      "name": "I\u2019ll Go Running",
-      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
     },
     {
       "added_at": "2022-09-16 04:00:00",

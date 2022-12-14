@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2278,
+  "num_followers": 2285,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDNhNjNkMzc0OWFmZDllNDY5NWI0YWY1ZDZhNDM1ZDgy",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDVkN2E2Yzg5ZmZlMTg1MjY0YmQ0YzQ1YWYwMjVkMTVm",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -503,18 +503,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Tribesmen",
-        "url": "https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk"
+        "name": "Quiribi (Yamil Remix)",
+        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
       },
       "artists": [
         {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+          "name": "Rosalinda de la Espada",
+          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
+        },
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
         }
       ],
-      "duration_ms": 437556,
-      "name": "Tribesmen - Original Mix",
-      "url": "https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY"
+      "duration_ms": 366093,
+      "name": "Quiribi - Yamil Remix",
+      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -535,22 +539,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Quiribi (Yamil Remix)",
-        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
+        "name": "Tribesmen",
+        "url": "https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk"
       },
       "artists": [
         {
-          "name": "Rosalinda de la Espada",
-          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
-        },
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
         }
       ],
-      "duration_ms": 366093,
-      "name": "Quiribi - Yamil Remix",
-      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
+      "duration_ms": 437556,
+      "name": "Tribesmen - Original Mix",
+      "url": "https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY"
     },
     {
       "added_at": "2021-10-08 15:53:55",

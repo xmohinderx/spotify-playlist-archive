@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "Audrey's Christmas Rewind",
+        "url": "https://open.spotify.com/album/7fDSJl22e3oDb0L6tiAS4S"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jeffery",
+          "url": "https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K"
+        },
+        {
+          "name": "Jadah Marie",
+          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133611,
+      "name": "Audrey's Christmas Rewind",
+      "url": "https://open.spotify.com/track/41EBsCOnEjg6j9l72fFtRf"
+    },
+    {
+      "album": {
         "name": "Bring on Christmas Day",
         "url": "https://open.spotify.com/album/40jWI7gm77i5F32eXQiIwK"
       },
@@ -269,6 +291,24 @@
       "duration_ms": 188333,
       "name": "Christmas Is Coming",
       "url": "https://open.spotify.com/track/5adIYznGmdO5b0cSwJZrjb"
+    },
+    {
+      "album": {
+        "name": "Mickey Saves Christmas (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7pRegyKmNmsJN1UkB77iIu"
+      },
+      "artists": [
+        {
+          "name": "Mickey Saves Christmas - Cast",
+          "url": "https://open.spotify.com/artist/7jsEWApcTNGDyVHlYm9QZh"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139919,
+      "name": "Christmas Is Nearly Here",
+      "url": "https://open.spotify.com/track/3q2EkP9QIXLAW0VNM8QZTx"
     },
     {
       "album": {

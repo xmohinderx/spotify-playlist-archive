@@ -4790,6 +4790,28 @@
     },
     {
       "album": {
+        "name": "can't let go",
+        "url": "https://open.spotify.com/album/0eJLW1pzlUvY8Ail8FUlji"
+      },
+      "artists": [
+        {
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+        },
+        {
+          "name": "es.cher",
+          "url": "https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145850,
+      "name": "can't let go",
+      "url": "https://open.spotify.com/track/0jKeoIwVWNbQSVMulsz6E1"
+    },
+    {
+      "album": {
         "name": "cannot handle",
         "url": "https://open.spotify.com/album/65aTjj9ySB6kg7rrE1A7RE"
       },
@@ -20010,7 +20032,7 @@
         },
         {
           "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+          "url": "https://open.spotify.com/artist/1NLgX5GAA6HTCc6OW65Cvs"
         }
       ],
       "date_added": "2022-12-09",

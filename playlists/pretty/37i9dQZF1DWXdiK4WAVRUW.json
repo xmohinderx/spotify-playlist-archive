@@ -1,12 +1,12 @@
 {
   "description": "The most memorable country hits from the 2010s. Cover: Chris Stapleton",
-  "num_followers": 371227,
+  "num_followers": 371836,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcwMzMwMSwwMDAwMDAwMDEwYTA1ODU3MTAxMjY5NGU1Mzg4NTIyYmMxY2I3ZjIz",
+  "snapshot_id": "MTY1ODcwMzMwMSwwMDAwMDAwMDdkMDQxOWU1YjU4NmUxNjllMTUyMTM3YzgzNDRhNzNk",
   "tracks": [
     {
       "added_at": "2022-07-24 22:55:01",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
+        "name": "Life At Best",
+        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Crazy Girl",
+      "url": "https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 197253,
       "name": "Up Down (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/3EWMoDIm6lzuR0zQKtuCJX"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
-        "name": "Life At Best",
-        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Crazy Girl",
-      "url": "https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "RISER",
-        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Drunk On A Plane",
-      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Current Mood",
         "url": "https://open.spotify.com/album/23cuZhPWDfX1uKD4qwuv7t"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 224293,
       "name": "Hard To Love",
       "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Drunk On A Plane",
+      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Cowboy Casanova",
-      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Seasons Change",
         "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
       },
@@ -2359,18 +2343,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Chillin' It",
-      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+      "duration_ms": 236786,
+      "name": "Cowboy Casanova",
+      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2387,6 +2371,22 @@
       "duration_ms": 198266,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Chillin' It",
+      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
     },
     {
       "added_at": "2022-07-24 22:55:01",

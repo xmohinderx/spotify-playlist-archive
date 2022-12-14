@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-189 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
+190 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 | 2022-07-01 |  |
 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 | 2022-08-12 |  |
 | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/track/5qR6Na1PE0Q2s0i2nkvmER) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/album/05hx91BgMBOcBKxR0QdwmZ) | 6:06 | 2022-07-01 | 2022-07-29 |
-| [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 | 2022-07-01 |  |
+| [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 | 2022-07-01 | 2022-12-14 |
 | [Angst](https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:44 | 2022-07-01 |  |
 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 | 2022-08-12 |  |
 | [Anti\-Social Masochistic Rage \[ASMR\]](https://open.spotify.com/track/0VrXpPSNlwKep3otvmw9iX) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 3:13 | 2022-07-01 |  |
@@ -153,6 +153,7 @@
 | [Prototype](https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz) | [The Silverblack](https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r) | [Prototype 6:17](https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM) | 3:28 | 2022-07-01 |  |
 | [PUMPED UP KICKS](https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PUMPED UP KICKS](https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO) | 4:31 | 2022-07-01 |  |
 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 | 2022-07-01 |  |
+| [Rabenherz](https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim \(Deluxe Edition\)](https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY) | 3:12 | 2022-12-01 |  |
 | [Rabenherz](https://open.spotify.com/track/2oar4Dbwg8UzuqyVU4gQZl) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim](https://open.spotify.com/album/4iz7rIBmCZaLIEgjV9MzgI) | 3:12 | 2022-07-01 | 2022-11-20 |
 | [Rabenherz](https://open.spotify.com/track/1hxyyWzyCGZAwiHyZ8pmGT) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Rabenherz](https://open.spotify.com/album/44yxIx9NWMYjrlPvDg4vQL) | 3:15 | 2022-07-01 | 2022-07-28 |
 | [Radio](https://open.spotify.com/track/1D3oQLA2xghgE1agGmDlPT) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Radio](https://open.spotify.com/album/0mm3Hm8e1zYNuU2np9l2ZS) | 4:37 | 2022-07-01 | 2022-07-29 |

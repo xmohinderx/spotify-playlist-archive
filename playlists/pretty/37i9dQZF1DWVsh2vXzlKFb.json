@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 263162,
+  "num_followers": 263141,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDdkZjkxMTJhMDVmNzRmYzExMjhkNTFhMWJjZTMxN2Q5",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDBiYmQyYjg2MDRlZjBlMDE0MzI1ZWRjZDM2NmE5NjYw",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Wet Dream",
-        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140083,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 182040,
       "name": "All Of The Time",
       "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Wet Dream",
+        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140083,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 178150,
       "name": "Bad Dream Baby",
       "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Glitra",
-        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
-      },
-      "artists": [
-        {
-          "name": "Brijs",
-          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Mol y Sol",
-      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Taking Over The Sun",
         "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 229113,
       "name": "Taking Over The Sun",
       "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Glitra",
+        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
+      },
+      "artists": [
+        {
+          "name": "Brijs",
+          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Mol y Sol",
+      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Cyclorama",
-        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 408800,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Nobody's Home",
         "url": "https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 233960,
       "name": "NW3",
       "url": "https://open.spotify.com/track/3NSBOLzrxMri9OEyxYeWov"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Cyclorama",
+        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 408800,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "I'm Allergic To Dogs!",
-        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 196562,
-      "name": "Woo!",
-      "url": "https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Mercurial World",
         "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "I'm Allergic To Dogs!",
+        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 196562,
+      "name": "Woo!",
+      "url": "https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1559,6 +1559,22 @@
       "duration_ms": 206960,
       "name": "Heavenly Maybe",
       "url": "https://open.spotify.com/track/1eiR1ZQMYxyqHY9cXm0RgT"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145324,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 253940,
       "name": "Sending Me Ur Loving",
       "url": "https://open.spotify.com/track/1QwhWld3yDy65MJCeBelCp"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 145324,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
       "added_at": "2022-08-25 23:00:00",

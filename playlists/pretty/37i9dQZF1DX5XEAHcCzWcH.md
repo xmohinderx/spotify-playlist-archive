@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,481 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,521 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 58 | [Dices Blues](https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC) | [Big Chief Ellis](https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW) | [Classic Piano Blues from Smithsonian Folkways](https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL) | 4:58 |
 | 59 | [My Baby's Gone](https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29) | [Lazy Bill Lucas](https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq) | [Best of Blues Vol\. 6: Postwar Chicago Blues III \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ) | 2:46 |
 | 60 | [Early In The Morning](https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [SUN STUDIO STORY](https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m) | 4:32 |
-| 61 | [Mean Old Train](https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57), [Giles Robson](https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3) | [Journeys To The Heart Of The Blues](https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z) | 3:03 |
-| 62 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
+| 61 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
+| 62 | [Mean Old Train](https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57), [Giles Robson](https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3) | [Journeys To The Heart Of The Blues](https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z) | 3:03 |
 | 63 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 | 64 | [Some Nerve](https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [The Blues Singer](https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK) | 3:05 |
 
-Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDc4YjA2ZmFlMjg4MTZhZDUwYjQ0YzIwMGMxOGI3NTNk`
+Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDViZWU1NTMxNGQ2ZWZiNjkwZmQwMTg4ZjY0OTM4ZDU1`

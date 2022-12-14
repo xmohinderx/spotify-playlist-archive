@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,196 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,202 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 24 | [Bonus Mosh Pt\. II](https://open.spotify.com/track/29zr7yJcEHQpCXz8aAZWOb) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:06 |
 | 25 | [Bullet With Butterfly Wings](https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Bullet With Butterfly Wings](https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG) | 4:32 |
 | 26 | [Call Me In The Morning](https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:59 |
-| 27 | [Flicker, Fade](https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 4:33 |
+| 27 | [Better Homes And Gardens](https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:54 |
 | 28 | [New Again](https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:33 |
 | 29 | [Call Come Running](https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 3:12 |
 | 30 | [You Got Me](https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:21 |
-| 31 | [Better Homes And Gardens](https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:54 |
+| 31 | [Flicker, Fade](https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 4:33 |
 | 32 | [Swing](https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:26 |
 | 33 | [My Name Is Jonas](https://open.spotify.com/track/5824RecoRviXjWRAYNuFyM) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [My Name Is Jonas](https://open.spotify.com/album/0Amv7DoAWRHE1nPS2LGXmw) | 3:16 |
 | 34 | [Faith \(When I Let You Down\)](https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 49 | [Mutual Head Club \- Demo](https://open.spotify.com/track/5UYNFezTaq71mYe6dfu9LO) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 3:21 |
 | 50 | [Fences](https://open.spotify.com/track/4XtYWu7zHWqBOBgjVbgd74) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 3:37 |
 
-Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDAwYTk1ZTViYTFmMmU1NjkyMDAwNGNjY2Y0MjM4NGJiMQ==`
+Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDAyMzhmODU0YmRhZDE0NGMyMjVjOWQ0OWE2MzY1MmFiOQ==`

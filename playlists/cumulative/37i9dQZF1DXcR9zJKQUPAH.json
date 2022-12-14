@@ -1105,6 +1105,24 @@
     {
       "album": {
         "name": "Lost in You",
+        "url": "https://open.spotify.com/album/3wTzHcPe5EkkpLiecOj7ZZ"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "Lost in You",
+      "url": "https://open.spotify.com/track/5BIY4jMiYsp5QKKE05AXUF"
+    },
+    {
+      "album": {
+        "name": "Lost in You",
         "url": "https://open.spotify.com/album/5c9otgSaGE52UfeQ4Eq3zH"
       },
       "artists": [
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 217586,
       "name": "Oh Devil",
       "url": "https://open.spotify.com/track/1kcfGBb6kSrGqNIMW7rAlB"

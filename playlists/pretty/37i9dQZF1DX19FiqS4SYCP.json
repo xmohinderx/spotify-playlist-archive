@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140972,
+  "num_followers": 140979,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NjY2MiwwMDAwMDAwMGQxYTY4MzA4YzhlYTQ0MmE3NmJlMWQwYzYwMTZkMDA0",
+  "snapshot_id": "MTY3MDQ1NjY2MiwwMDAwMDAwMDdiM2ExODcyYzg2OGU5ZDNmZTQ5ZDgwMDQ3Y2JkZDg1",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Ni Un Beso",
-        "url": "https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp"
-      },
-      "artists": [
-        {
-          "name": "Adassa",
-          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Ni Un Beso",
-      "url": "https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Por Una Cantina",
         "url": "https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 208596,
       "name": "Por Una Cantina",
       "url": "https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Ni Un Beso",
+        "url": "https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp"
+      },
+      "artists": [
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Ni Un Beso",
+      "url": "https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Sweet City Style",
-        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
-      },
-      "artists": [
-        {
-          "name": "Anjelique",
-          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Nunca Me Imagine",
         "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
       },
@@ -403,22 +387,6 @@
       "duration_ms": 167507,
       "name": "Nunca Me Imagine",
       "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Caballero Jr",
-          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -439,6 +407,38 @@
       "duration_ms": 197965,
       "name": "Me Dec\u00edas",
       "url": "https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Caballero Jr",
+          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Sweet City Style",
+        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
+      },
+      "artists": [
+        {
+          "name": "Anjelique",
+          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Ni Todo el Dinero",
+        "url": "https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR"
+      },
+      "artists": [
+        {
+          "name": "MARISELA HERNANDEZ",
+          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
+        }
+      ],
+      "duration_ms": 189231,
+      "name": "Ni Todo el Dinero",
+      "url": "https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Ni Todo el Dinero",
-        "url": "https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR"
-      },
-      "artists": [
-        {
-          "name": "MARISELA HERNANDEZ",
-          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "Ni Todo el Dinero",
-      "url": "https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Acu\u00e9rdate",
         "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 182080,
       "name": "Acu\u00e9rdate - Radio Edit",
       "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mentias",
-        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
-      },
-      "artists": [
-        {
-          "name": "Brooke T",
-          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
-        }
-      ],
-      "duration_ms": 199870,
-      "name": "Mentias",
-      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Desastre Natural",
         "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
+        "name": "Mentias",
+        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
       },
       "artists": [
         {
-          "name": "Lydia Castillo",
-          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
+          "name": "Brooke T",
+          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
         }
       ],
-      "duration_ms": 220003,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
+      "duration_ms": 199870,
+      "name": "Mentias",
+      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -791,6 +775,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
+      },
+      "artists": [
+        {
+          "name": "Lydia Castillo",
+          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
+        }
+      ],
+      "duration_ms": 220003,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Final De Tu Amor",
         "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "El Besito",
-        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
-      },
-      "artists": [
-        {
-          "name": "Laura Linda",
-          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
-        }
-      ],
-      "duration_ms": 180651,
-      "name": "El Besito",
-      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Trampa De Amor",
         "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 161610,
       "name": "Trampa De Amor",
       "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "El Besito",
+        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
+      },
+      "artists": [
+        {
+          "name": "Laura Linda",
+          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
+        }
+      ],
+      "duration_ms": 180651,
+      "name": "El Besito",
+      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
     },
     {
       "added_at": "2022-09-15 18:41:23",

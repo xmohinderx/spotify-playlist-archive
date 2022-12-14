@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869,009 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,869,289 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 72 | [Religión](https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Religión](https://open.spotify.com/album/59M5urdBBastXOof10375B) | 3:40 |
 | 73 | [Just As I Am \(feat\. Prince Royce & Chris Brown\)](https://open.spotify.com/track/1iKMpywaaihrz8gqaRqzp1) | [Spiff TV](https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Just As I Am \(feat\. Prince Royce & Chris Brown\)](https://open.spotify.com/album/38khkjfE0TzKuweRce2PCl) | 3:44 |
 | 74 | [Tengo un Amor](https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Toby Love](https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG) | 4:18 |
-| 75 | [Vocales de amor](https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx) | 5:10 |
-| 76 | [Soy Yo](https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Soy Yo](https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU) | 3:49 |
+| 75 | [Soy Yo](https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Soy Yo](https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU) | 3:49 |
+| 76 | [Vocales de amor](https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx) | 5:10 |
 | 77 | [En Todo Fuiste la Mejor](https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:49 |
 | 78 | [El Verde de Tus Ojos](https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Y Los Claveles Mios](https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68) | 3:56 |
 | 79 | [Hablame De Ti](https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Hablame De Ti](https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn) | 4:27 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 91 | [En Cada Aniversario](https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX), [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Duos Entre Amigos](https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC) | 4:05 |
 | 92 | [La Victima](https://open.spotify.com/track/0d1v3Dux5AhQm2TCJMASxZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:05 |
 | 93 | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv) | 3:48 |
-| 94 | [Si Acaso Vuelves](https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Acaso Vuelves](https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3) | 3:03 |
-| 95 | [Por Tu Culpa](https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Tu Culpa](https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7) | 3:21 |
+| 94 | [Por Tu Culpa](https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Tu Culpa](https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7) | 3:21 |
+| 95 | [Si Acaso Vuelves](https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Acaso Vuelves](https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3) | 3:03 |
 | 96 | [Don Juan & Cupido](https://open.spotify.com/track/13Dm4KwsIxVVlAYXMR31xp) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Don Juan & Cupido](https://open.spotify.com/album/4KC31PfZSQ53iKKyexuKUx) | 3:45 |
 | 97 | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/track/6JD9rQMWvkYCTOCjt8w0oz) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/album/6E0w7lk0RQrHtUGX2uOgA8) | 3:43 |
 | 98 | [Tú y Yo](https://open.spotify.com/track/1zEYHf3IwnsTl5CihyAbcQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:30 |
-| 99 | [Me Provocas](https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD) | [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Me Provocas](https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ) | 3:23 |
-| 100 | [Antes del Lunes](https://open.spotify.com/track/6yVGk00COgjDJbHELkO109) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:42 |
+| 99 | [Por Favor](https://open.spotify.com/track/7md4w7QFuWT2mFRcNSJyuA) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Favor](https://open.spotify.com/album/33KEBf8NwF0YfSZqcNoVAP) | 3:43 |
+| 100 | [Me Provocas](https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD) | [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Me Provocas](https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ) | 3:23 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDUxMWE0NGM1MjdhNWQ2ZTI3N2IzZTM0NDVmYWFmMDE0`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGFiZmUxYmY1ZmE1MDlkNjQ2YjAyM2EzYjZkNTkxZDY0`

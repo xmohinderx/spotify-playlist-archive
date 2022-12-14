@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: The Amity Affliction",
-  "num_followers": 859449,
+  "num_followers": 859540,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDgzNTY4Nzk3MjJmMTk4MTQ4ZjU4YTIyZDI0YjM0MzAx",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGIyMTJlM2Q4M2E1NTAxN2Q3M2Y2Zjg2Y2NmM2RhYzhk",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0qE46rBnn5oz96RaAfnZHv"
     },
     {
-      "added_at": "2022-12-13 00:27:00",
+      "added_at": "2022-12-14 01:07:39",
       "album": {
         "name": "nuBlood (feat. Fame On Fire)",
         "url": "https://open.spotify.com/album/4z8wwx2xRFIrk9DJY9Aw7u"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX"
     },
     {
-      "added_at": "2022-12-13 00:27:00",
+      "added_at": "2022-12-14 01:07:39",
       "album": {
         "name": "Colorblind EP",
         "url": "https://open.spotify.com/album/29M640Q87avBIyyLC1rWlT"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/4ADgspuZLhlsiAijC9oDAR"
     },
     {
-      "added_at": "2022-12-13 00:27:00",
+      "added_at": "2022-12-14 01:07:39",
       "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/78EFhqgH0Ho0EfcWvqWi3w"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/6gWUB6hS6SuyvaKzYAltn8"
     },
     {
-      "added_at": "2022-12-13 00:27:00",
+      "added_at": "2022-12-14 01:07:39",
       "album": {
         "name": "Echo (Deluxe Version)",
         "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Deceivers",
-        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "The Watcher",
-      "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 204000,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "The Watcher",
+      "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "White Washed & Composure 2022",
-        "url": "https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 237168,
-      "name": "White Washed - 2022",
-      "url": "https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Coffin",
         "url": "https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 264306,
       "name": "Aching Longing",
       "url": "https://open.spotify.com/track/49UQKQom802JUWPq63lxEb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "White Washed & Composure 2022",
+        "url": "https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 237168,
+      "name": "White Washed - 2022",
+      "url": "https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Be Someone",
-        "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
-      },
-      "artists": [
-        {
-          "name": "Banks Arcade",
-          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 197538,
       "name": "Alone",
       "url": "https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Be Someone",
+        "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
     },
     {
       "added_at": "2022-12-02 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Nicki Minaj, Maluma, Myriam Fares
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,403 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,506 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 5 | [Higher \(Breathe Easy\)](https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3) | [ABRI](https://open.spotify.com/artist/0HaOYwL5NsXcaTGebbW06I) | [Higher \(Breathe Easy\)](https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN) | 3:26 |
 | 6 | [Hala Walla](https://open.spotify.com/track/4eEFZc50WNQxyrJWY9jCru) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [Hala Walla](https://open.spotify.com/album/04kLge4bJNgLW6Hot5Dik3) | 2:47 |
 | 7 | [Is She](https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg) | [Rama](https://open.spotify.com/artist/38XCa5T2vison2QekvDvWN) | [A 249 Experience Vol.2](https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF) | 2:10 |
-| 8 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 |
-| 9 | [Challenge](https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL) | 1:54 |
-| 10 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
-| 11 | [THANK GOD](https://open.spotify.com/track/1o6JHLSAtNsIj8AgAvDxXX) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [WELCOME TO THE JUNGLE \(Deluxe\)](https://open.spotify.com/album/78c0MqaiVSdxo38fjv0vcp) | 3:30 |
-| 12 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 |
+| 8 | [Challenge](https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL) | 1:54 |
+| 9 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
+| 10 | [THANK GOD](https://open.spotify.com/track/1o6JHLSAtNsIj8AgAvDxXX) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [WELCOME TO THE JUNGLE \(Deluxe\)](https://open.spotify.com/album/78c0MqaiVSdxo38fjv0vcp) | 3:30 |
+| 11 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 |
+| 12 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 |
 | 13 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 |
 | 14 | [Grounding Place](https://open.spotify.com/track/5k42ev7lFesuG1UAlrKT3l) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Grounding Place](https://open.spotify.com/album/0mHtsfh7zOubxpNTDVzXKP) | 3:46 |
 | 15 | [Hostage](https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b) | [Areej](https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef) | [GBOF EP](https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 |
 | 50 | [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 |
 
-Snapshot ID: `MTY3MDg2MzYyMiwwMDAwMDAwMDVhOTk1NzE2MWY2NmU1N2NiYzNlODAyYjU0YmMyMTU1`
+Snapshot ID: `MTY3MDkyMDYyNSwwMDAwMDAwMDAyMTViYjgzZWY2ZjE0MjA1NjA2NTlhY2M2MWFmNWQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,954 likes - 51 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,963 likes - 51 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 29 | [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 |
 | 30 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
 | 31 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
-| 32 | [Inclusion](https://open.spotify.com/track/3rLe832ZEZfpBmkgXGSrtX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:55 |
-| 33 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 |
+| 32 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 |
+| 33 | [Inclusion](https://open.spotify.com/track/3rLe832ZEZfpBmkgXGSrtX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:55 |
 | 34 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
 | 35 | [1/2 \- Remastered 2004](https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 12:07 |
 | 36 | [EPICA EXTENSION](https://open.spotify.com/track/09hBZZsubpheGh5pVriiQY) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [EPICA EXTENSION](https://open.spotify.com/album/6xGS4skTi0ZUyzyqIUDocs) | 4:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 50 | [Small Craft on a Milk Sea](https://open.spotify.com/track/7GTzB4QUfO0oXfvzwtKBom) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 1:48 |
 | 51 | [Golden Hours \- 2004 Digital Remaster](https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 4:00 |
 
-Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDA5YzVlOTIyN2I2MmUzZDAwOTA3ZGRkYTAwMmRiMmZjNw==`
+Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDA0ZGUzNGY4ZWFlZDllY2YwYzU4MzBmMmMyZTgxMWQxMg==`

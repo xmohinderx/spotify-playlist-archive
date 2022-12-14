@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2556,
+  "num_followers": 2561,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMGVhYmIyNmM2OTM5NWM3MDhjYzE0ZWQyYzE3OWJlYTcw",
+  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMGIxOWJjMDY2NjE4ZDA2ZDljZjBlYjc2OWY5ZWFjZWYy",
   "tracks": [
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Infectious (Til Infinity)",
+      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "SAVED MY LIFE",
         "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 229106,
       "name": "SAVED MY LIFE (Prod. Kidstone)",
       "url": "https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "MALIK THE CACTUS FLOWER",
-        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Infectious (Til Infinity)",
-      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "Show Me the Money 6 Episode 3",
-        "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
+        "name": "Independent Music",
+        "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
       },
       "artists": [
         {
-          "name": "Ja Mezz",
-          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
-        },
-        {
-          "name": "Dok2, Jay Park",
-          "url": "https://open.spotify.com/artist/2ihyiMD4W5L1cfnqDwlDlQ"
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
         }
       ],
-      "duration_ms": 254793,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
+      "duration_ms": 242022,
+      "name": "Story of someone I know",
+      "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1503,6 +1499,26 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "Show Me the Money 6 Episode 3",
+        "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
+      },
+      "artists": [
+        {
+          "name": "Ja Mezz",
+          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
+        },
+        {
+          "name": "Dok2, Jay Park",
+          "url": "https://open.spotify.com/artist/2ihyiMD4W5L1cfnqDwlDlQ"
+        }
+      ],
+      "duration_ms": 254793,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
         "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 210923,
       "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
       "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "Independent Music",
-        "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
-      },
-      "artists": [
-        {
-          "name": "CHOILB",
-          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
-        }
-      ],
-      "duration_ms": 242022,
-      "name": "Story of someone I know",
-      "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "Call Me Gray",
         "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 273267,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 140411,
+      "name": "dreamin'",
+      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 291066,
       "name": "111%",
       "url": "https://open.spotify.com/track/6XsK88k4pe30cx5as6z7xq"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "natural high",
-        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 140411,
-      "name": "dreamin'",
-      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
     },
     {
       "added_at": "2022-11-03 09:17:29",

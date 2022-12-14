@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Lucky Daye
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,062 likes - 115 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,495 likes - 115 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

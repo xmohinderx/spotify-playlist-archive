@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Mauro Henrique
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,963 likes - 70 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,016 likes - 70 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 51 | [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 |
 | 52 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 |
 | 53 | [Mateus 6:6](https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [Mateus 6:6](https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH) | 4:53 |
-| 54 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
-| 55 | [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 |
+| 54 | [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 |
+| 55 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
 | 56 | [Artifício](https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc) | [Marcelo Sissá](https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3) | [Artifício](https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC) | 3:12 |
 | 57 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 |
 | 58 | [Sua Glória](https://open.spotify.com/track/3LbpF0O7PyFNhz1pZyjFsB) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Sua Glória](https://open.spotify.com/album/6K1HD84eh9d8xLSEjOzyAU) | 7:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Essência](https://open.spotify.com/track/6NWnC1i5JJsuqcO94XkpzF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Essência](https://open.spotify.com/album/4o9nv6ts5TjlhYSQXMIxJ7) | 4:29 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MTY3MDU2NzA4MSwwMDAwMDAwMDI0ZWUwNTFkMjJlZWYxZmVmOGE3NTE3NDQ0OTE1NjM1`
+Snapshot ID: `MTY3MDU2NzA4MSwwMDAwMDAwMGE4N2M0ZmUwZWZjOTI2Y2VmMTU1ZmZhNGVjNWUyYjM4`

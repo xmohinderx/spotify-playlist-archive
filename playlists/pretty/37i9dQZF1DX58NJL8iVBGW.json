@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 527292,
+  "num_followers": 527466,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGZjNDhjMGMwNTkwYjQ4Y2E2YWZmOTgwZDM1MWQyNjFk",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDE0ODU4ZmY0YzE5ZjdkZTFkNWNmM2I3N2E4MTgwY2Jj",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Beat the Devil's Tattoo",
-      "url": "https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 191000,
       "name": "Fingers To The Bone",
       "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Beat the Devil's Tattoo",
+      "url": "https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Live at the Old Quarter, Houston, Texas",
         "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 164440,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "An Honest Man",
         "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 246177,
       "name": "An Honest Man",
       "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "I'm Not Your Man",
+        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Oh, Willie, Please...",
-        "url": "https://open.spotify.com/album/1AC9fNwrEd9EnssjD5Krzl"
-      },
-      "artists": [
-        {
-          "name": "Vandaveer",
-          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
-        }
-      ],
-      "duration_ms": 228958,
-      "name": "Pretty Polly",
-      "url": "https://open.spotify.com/track/1JHXH2EWYksXdE9CRGTzQ3"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "From Eden EP",
         "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "I'm Not Your Man",
-        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
+        "name": "Oh, Willie, Please...",
+        "url": "https://open.spotify.com/album/1AC9fNwrEd9EnssjD5Krzl"
       },
       "artists": [
         {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+          "name": "Vandaveer",
+          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
+      "duration_ms": 228958,
+      "name": "Pretty Polly",
+      "url": "https://open.spotify.com/track/1JHXH2EWYksXdE9CRGTzQ3"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Real Gone (Remastered)",
-        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "How's It Gonna End",
-      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Nobody knows.",
         "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 279733,
       "name": "Too Dry To Cry",
       "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Real Gone (Remastered)",
+        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "How's It Gonna End",
+      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
     },
     {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Blood Money (Anniversary Edition)",
@@ -1471,6 +1455,22 @@
       "duration_ms": 292112,
       "name": "All The World Is Green - Live",
       "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 193866,
-      "name": "O Death (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
+      "duration_ms": 216538,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
     }
   ],
   "unique_name": "Southern Gothic",

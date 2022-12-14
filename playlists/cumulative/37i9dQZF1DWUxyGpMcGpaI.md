@@ -4,7 +4,7 @@
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
 
-35 songs - 1 hr 20 min - not published yet
+36 songs - 1 hr 23 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [crawler](https://open.spotify.com/track/0dSraK0BNXyvBfVs2hPORz) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 1:59 | 2022-11-22 |  |
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-06 |  |
 | [destroy them all](https://open.spotify.com/track/799DzJfCCwm4ubIysTYzOK) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 1:03 | 2022-10-25 |  |
+| [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2022-12-13 |  |
 | [dream..\. come true?](https://open.spotify.com/track/0CreM2us2Cy9LD6R1bBnrg) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 1:43 | 2022-11-22 |  |
 | [edge of chainsaw](https://open.spotify.com/track/2fOPkvOguFiHA7CQgZg7N5) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 3:10 | 2022-10-25 |  |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 |  |

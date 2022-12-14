@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Ant\u00eda Mu\u00ed\u00f1o.",
-  "num_followers": 98916,
+  "num_followers": 98985,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGQ3NTQ4ZjFhZmMxMDc2MGM2NzE4NzcwMzE5ZWUzMzgz",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGNhY2E5NTk3Y2Q2OTIyZmZjNDU3YTA1ZDQ5NjUzMmNh",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -527,6 +527,46 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Civilizado Como Los Animales",
+        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
+      "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/119lk8kg6xyDPTvdlHXq9z"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        }
+      ],
+      "duration_ms": 263072,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1sEL2I1NRU2GZk5nS4ydxD"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -551,46 +591,6 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/119lk8kg6xyDPTvdlHXq9z"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        }
-      ],
-      "duration_ms": 263072,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1sEL2I1NRU2GZk5nS4ydxD"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Civilizado Como Los Animales",
-        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
-      "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "La Mirada",
-        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "La Mirada",
-      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 181798,
       "name": "El Tiempo Est\u00e1 Despu\u00e9s",
       "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "La Mirada",
+        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "La Mirada",
+      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Las Curanderas",
         "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -959,18 +943,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 187328,
       "name": "El Palmar",
       "url": "https://open.spotify.com/track/4XgtH8XgnB6NWxX3e5gr6U"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
-      },
-      "artists": [
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Nin\u0303a de mis ojos",
-      "url": "https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 161342,
       "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music",
       "url": "https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
+      },
+      "artists": [
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Nin\u0303a de mis ojos",
+      "url": "https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Hierbas Para la Tristeza",
+        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
+      },
+      "artists": [
+        {
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
+        }
+      ],
+      "duration_ms": 166112,
+      "name": "Hierbas",
+      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Rumba en Cahuita",
         "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
       },
@@ -1339,26 +1355,6 @@
       "duration_ms": 167752,
       "name": "Rumba en Cahuita",
       "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "Un D\u00eda Lo Encontr\u00e9",
-      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Hierbas Para la Tristeza",
-        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
       "artists": [
         {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 166112,
-      "name": "Hierbas",
-      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
+      "duration_ms": 180778,
+      "name": "Un D\u00eda Lo Encontr\u00e9",
+      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "te quiero (Alicia)",
+        "url": "https://open.spotify.com/album/1n3FCMHmZ4ENi1FPkgbFqY"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "te quiero (Alicia)",
+      "url": "https://open.spotify.com/track/4QPXlzBpwLwEqDnoMHZePB"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Aho Uhal",
         "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
       },
@@ -1591,38 +1607,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "te quiero (Alicia)",
-        "url": "https://open.spotify.com/album/1n3FCMHmZ4ENi1FPkgbFqY"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "te quiero (Alicia)",
-      "url": "https://open.spotify.com/track/4QPXlzBpwLwEqDnoMHZePB"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Nunha Estrela",
-        "url": "https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 232125,
-      "name": "Nunha Estrela",
-      "url": "https://open.spotify.com/track/3cssoNGnWQ3ckzsmZhL4GY"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Nunha Estrela",
+        "url": "https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 232125,
+      "name": "Nunha Estrela",
+      "url": "https://open.spotify.com/track/3cssoNGnWQ3ckzsmZhL4GY"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
-      },
-      "artists": [
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Cuchara Chueca",
         "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 271200,
       "name": "Alma Sola",
       "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
+      },
+      "artists": [
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
     },
     {
       "added_at": "2022-12-02 05:00:00",

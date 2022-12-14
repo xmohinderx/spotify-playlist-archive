@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,655 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,668 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 9 | [Because I only see you](https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Whats wrong with secretary kim OST Part.5](https://open.spotify.com/album/0DScQIKugPfaNgB2iGp7Mu) | 3:40 |
 | 10 | [An Ordinary Day](https://open.spotify.com/track/2RzUXBM4M82BfsGriLx8mk) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw) | 4:34 |
 | 11 | [The Only One](https://open.spotify.com/track/6rCuyj1AxaO78VcbDpCfjZ) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [18 again, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3iBLhqtk0UhCtLAIZXPFth) | 4:02 |
-| 12 | [이럴거면 그러지말지 Shouldn't Have… \(feat\. Young K\)](https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [이럴거면 그러지말지 Shouldn't Have…](https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL) | 3:32 |
-| 13 | [구애 \(求愛\) Propose](https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 \(求愛\) Propose](https://open.spotify.com/album/0Kkbekrv59RZxdbbZ6ICyZ) | 3:33 |
+| 12 | [구애 \(求愛\) Propose](https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 \(求愛\) Propose](https://open.spotify.com/album/0Kkbekrv59RZxdbbZ6ICyZ) | 3:33 |
+| 13 | [이럴거면 그러지말지 Shouldn't Have… \(feat\. Young K\)](https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [이럴거면 그러지말지 Shouldn't Have…](https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL) | 3:32 |
 | 14 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
 | 15 | [Don’t Like Her](https://open.spotify.com/track/5DZMjcAMca1rT2dD9dYdCg) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 4:17 |
 | 16 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 |
-| 17 | [Three of Us \(With Sing Si Kyung\)](https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sing Si Kyung](https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:45 |
-| 18 | [I hope I cross your mind](https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [I hope I cross your mind](https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg) | 3:36 |
+| 17 | [I hope I cross your mind](https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [I hope I cross your mind](https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg) | 3:36 |
+| 18 | [Three of Us \(With Sing Si Kyung\)](https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sing Si Kyung](https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:45 |
 | 19 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
 | 20 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
 | 21 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 |
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 28 | [Love you \(bye\)](https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Love you \(bye\)](https://open.spotify.com/album/2wI45sUbr1MIpzKWrbUBtJ) | 3:39 |
 | 29 | [If You Were Me](https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14](https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT) | 4:24 |
 | 30 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
-| 31 | [Where Love Begins](https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Eccentric chef moon \(Original Television Soundtrack\) Part.4](https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U) | 3:39 |
-| 32 | [Alone](https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE) | 3:48 |
+| 31 | [Alone](https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE) | 3:48 |
+| 32 | [Where Love Begins](https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Eccentric chef moon \(Original Television Soundtrack\) Part.4](https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U) | 3:39 |
 | 33 | [동경](https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5) | 5:15 |
 | 34 | [One\-Sided Love](https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:52 |
 | 35 | [Even though I hate you, I love you \(Special Track\)](https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 5:25 |
 | 36 | [Tattoo](https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [AMY](https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo) | 3:19 |
 | 37 | [Jewel \(feat\. KURO\)](https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Jewel \(feat\. KURO\)](https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b) | 3:01 |
 | 38 | [Love Me Once Again](https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RE:PLAYLIST Vol.3](https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa) | 4:24 |
-| 39 | [A lonely song](https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF) | [I'll](https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs) | [A lonely song](https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba) | 3:45 |
-| 40 | [to him](https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [19to20](https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1) | 3:39 |
+| 39 | [to him](https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [19to20](https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1) | 3:39 |
+| 40 | [A lonely song](https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF) | [I'll](https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs) | [A lonely song](https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba) | 3:45 |
 | 41 | [Her](https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd) | [Her](https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t) | 4:09 |
 | 42 | [Wanna be her](https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr) | 4:11 |
 | 43 | [화분 \- 알렉스 Version](https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 49 | [Eul \(feat\. Gyeong Je Hwan\)](https://open.spotify.com/track/7d3e2N9vHD1nJc50Q0HAmf) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Seoul Vibes, Pt\. 6](https://open.spotify.com/album/0aQUxppY2FjNgIGJQm8ote) | 3:23 |
 | 50 | [Unrequited Love](https://open.spotify.com/track/4qCoekl5BaHK9aYc54C2tX) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [IGNITION \(SPECIAL EDITION\)](https://open.spotify.com/album/2yrJ8f0QF3nBRAmZg0Bsm0) | 3:49 |
 
-Snapshot ID: `MTY2MDgzMjczMiwwMDAwMDAwMDlhZGY0ZDQyNTc0Y2Y3ZWUzYmQ0ZTlmMjM4ZGVhYjBk`
+Snapshot ID: `MTY2MDgzMjczMiwwMDAwMDAwMDkzYWNiMzQ1ZjdkOGFjZWViYTFhNmQzZDFhYWE1OTll`

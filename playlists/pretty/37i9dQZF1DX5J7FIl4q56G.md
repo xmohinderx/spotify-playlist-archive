@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Suicide Silence
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,983 likes - 53 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,091 likes - 53 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

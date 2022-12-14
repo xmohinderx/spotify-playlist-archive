@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 973877,
+  "num_followers": 973872,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDE2M2EyMjRmNzMzODE0MDZkYTJjZDczNzAzMTQxNTFk",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGE1MTUyMjQyYmEwNDRlN2M3NjU3ZDJhYzgxNDcyMTA3",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Jude's Song",
+        "url": "https://open.spotify.com/album/6rp0vpNf14iZJ1QCDJfHo9"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 137079,
+      "name": "Jude's Song",
+      "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Best Day of My Life",
@@ -607,22 +623,6 @@
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Jude's Song",
-        "url": "https://open.spotify.com/album/6rp0vpNf14iZJ1QCDJfHo9"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        }
-      ],
-      "duration_ms": 137079,
-      "name": "Jude's Song",
-      "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "emotionally unavailable",
-        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 182958,
-      "name": "we're not kids anymore",
-      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Sidelines",
@@ -767,6 +751,22 @@
       "duration_ms": 187918,
       "name": "Like All My Friends",
       "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 182958,
+      "name": "we're not kids anymore",
+      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "getting into",
-        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
-      },
-      "artists": [
-        {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "getting into",
-      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
-    },
-    {
       "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Venting to Strangers",
@@ -903,6 +887,22 @@
       "duration_ms": 152437,
       "name": "Venting to Strangers",
       "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "getting into",
+        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "getting into",
+      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Two Places at Once (Part I)",
-        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Two Places at Once",
-      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Sunday Crossword",
@@ -1015,6 +999,22 @@
       "duration_ms": 184827,
       "name": "Sunday Crossword",
       "url": "https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Two Places at Once (Part I)",
+        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Two Places at Once",
+      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1117,20 +1117,20 @@
       "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Better Version",
-        "url": "https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd"
+        "name": "georgia got colder",
+        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 173893,
-      "name": "Better Version",
-      "url": "https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU"
+      "duration_ms": 210186,
+      "name": "georgia",
+      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1165,20 +1165,20 @@
       "url": "https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ"
     },
     {
-      "added_at": "2022-12-02 05:01:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "georgia got colder",
-        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
+        "name": "Better Version",
+        "url": "https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 210186,
-      "name": "georgia",
-      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
+      "duration_ms": 173893,
+      "name": "Better Version",
+      "url": "https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU"
     },
     {
       "added_at": "2022-05-13 04:02:00",

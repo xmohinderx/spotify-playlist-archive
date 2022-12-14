@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation ",
-  "num_followers": 11066,
+  "num_followers": 11065,
   "original_name": "Father's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDIwNDUyMTIzMGQ0Yzg5ZWU3NGY3YzQxMjdhMzUyMGVl",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDY0N2M3MzlkZDdiZDg3OGU4MmZhZDY1MjdkNGZhOGI4",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Verities & Balderdash",
-        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
-      },
-      "artists": [
-        {
-          "name": "Harry Chapin",
-          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
-        }
-      ],
-      "duration_ms": 222951,
-      "name": "Cat's in the Cradle",
-      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Heavier Things",
         "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Verities & Balderdash",
+        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+      },
+      "artists": [
+        {
+          "name": "Harry Chapin",
+          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+        }
+      ],
+      "duration_ms": 222951,
+      "name": "Cat's in the Cradle",
+      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "I Loved Her First",
-        "url": "https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f"
-      },
-      "artists": [
-        {
-          "name": "Heartland",
-          "url": "https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "I Loved Her First",
-      "url": "https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Dance With My Father",
         "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 266000,
       "name": "Dance With My Father",
       "url": "https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "I Loved Her First",
+        "url": "https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f"
+      },
+      "artists": [
+        {
+          "name": "Heartland",
+          "url": "https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "I Loved Her First",
+      "url": "https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 128173,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 221653,
       "name": "My Old Man",
       "url": "https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 128173,
+      "name": "Papa's Got A Brand New Bag",
+      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
     },
     {
       "added_at": "2022-06-09 16:13:45",

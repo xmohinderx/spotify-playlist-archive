@@ -4,7 +4,7 @@
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-77 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
+78 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Skywalker OG](https://open.spotify.com/track/6oHUNQtaMKhVmQWhFoPdir) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/5cOC0HfuZKWDGaB8Oyz0PI) | 1:54 | 2022-10-14 |  |
 | [Summertime](https://open.spotify.com/track/79MSVviX2SqqLS6murFaYB) | [tape joe](https://open.spotify.com/artist/6t74VJqVmYEY5V2be6sz9K), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Summertime](https://open.spotify.com/album/3QfHGlmwMjOtY78hmNcuhq) | 3:35 | 2022-10-14 |  |
 | [Sunshine](https://open.spotify.com/track/5flCtFDMbtxnbc33pekd92) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/5UWKVYrWjt1MrnUrQehaZ4) | 2:12 | 2022-07-22 | 2022-11-20 |
-| [Sunshine](https://open.spotify.com/track/6hfkvmDhYHiaN7SR8A6DiR) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/5fkugNa58jJck6DctP5J4C) | 2:12 | 2022-10-14 |  |
+| [Sunshine](https://open.spotify.com/track/6f2imXhHCuzHNG74VNRowk) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/2leXozJUh9X7VhlWf8hbpk) | 2:12 | 2022-12-09 |  |
+| [Sunshine](https://open.spotify.com/track/6hfkvmDhYHiaN7SR8A6DiR) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/5fkugNa58jJck6DctP5J4C) | 2:12 | 2022-10-14 | 2022-12-14 |
 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 | 2022-07-22 |  |
 | [The Come up \(Instrumental\)](https://open.spotify.com/track/54AYyM0mxzfC7exwSSr3UU) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Greatest Beats \(Instrumentals\)](https://open.spotify.com/album/66JOOuwoKp7ACuHidfD5Nx) | 3:07 | 2022-07-22 |  |
 | [The Light \- Instrumental Version](https://open.spotify.com/track/6RQdGCiHnoWPpTAfI97hUR) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Dat's That Shit! \(An Exclusive Collection of Rare Instrumentals from the Dat Vault\)](https://open.spotify.com/album/5gBjsO4i4OjLKWvwezXdIo) | 3:11 | 2022-07-22 |  |

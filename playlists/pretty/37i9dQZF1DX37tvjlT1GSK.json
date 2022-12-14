@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Gemelos de Sinaloa en portada. ",
-  "num_followers": 707427,
+  "num_followers": 707507,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzY3MiwwMDAwMDAwMGU4NDIxMGM2YjkxZjEzY2VmNTE0NTE3NjY5ZGJjOTlj",
+  "snapshot_id": "MTY2OTk1NzY3MiwwMDAwMDAwMDJiN2RjNmY1MGM3OWQ2NGE1MjAzNGY0OWZmYjEwMDNj",
   "tracks": [
     {
       "added_at": "2022-12-02 05:07:52",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 176497,
+      "name": "Por Enamorarme",
+      "url": "https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
         "name": "Corridones Belicones Duetos",
         "url": "https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "La Suerte",
-        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 176497,
-      "name": "Por Enamorarme",
-      "url": "https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "Hombre Afortunado",
         "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Perro Abandonado",
-        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 211198,
-      "name": "Perro Abandonado",
-      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "Labios de Cereza",
         "url": "https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 214500,
       "name": "Labios de Cereza",
       "url": "https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "Perro Abandonado",
+        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 211198,
+      "name": "Perro Abandonado",
+      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Triste",
-        "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 166124,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "Corridos y Sentimientos (Vol 2)",
         "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
       },
@@ -983,6 +963,22 @@
       "duration_ms": 130250,
       "name": "Y Es Que Contigo",
       "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174405,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1007,18 +1003,38 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "El Chaman",
-        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 174405,
-      "name": "El Chaman",
-      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "Triste",
+        "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 166124,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1039,22 +1055,6 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 188917,
       "name": "Sembrando",
       "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Empezar de Nuevo",
-        "url": "https://open.spotify.com/album/6J6C7D6kL82ie5XKRTUqrK"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 227509,
-      "name": "Empezar de Nuevo",
-      "url": "https://open.spotify.com/track/7hCT8qcGvyVr0FQmpoCI93"
-    },
-    {
-      "added_at": "2022-12-02 05:07:52",
-      "album": {
         "name": "GXLE 3",
         "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 206000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj"
+    },
+    {
+      "added_at": "2022-12-02 05:07:52",
+      "album": {
+        "name": "Empezar de Nuevo",
+        "url": "https://open.spotify.com/album/6J6C7D6kL82ie5XKRTUqrK"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 227509,
+      "name": "Empezar de Nuevo",
+      "url": "https://open.spotify.com/track/7hCT8qcGvyVr0FQmpoCI93"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1479,22 +1479,18 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Porque No Esta De Mas (En Vivo)",
-        "url": "https://open.spotify.com/album/6B0WdTGPO2O4XlluKcnc5K"
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 228706,
-      "name": "Porque No Esta De Mas (En Vivo)",
-      "url": "https://open.spotify.com/track/7KYx8ouGzjSCPIL9cNhO4Y"
+      "duration_ms": 187447,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1515,18 +1511,22 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+        "name": "Porque No Esta De Mas (En Vivo)",
+        "url": "https://open.spotify.com/album/6B0WdTGPO2O4XlluKcnc5K"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
+      "duration_ms": 228706,
+      "name": "Porque No Esta De Mas (En Vivo)",
+      "url": "https://open.spotify.com/track/7KYx8ouGzjSCPIL9cNhO4Y"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "Dinero, Fama y Poder",
-        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
+        "name": "El JR 01",
+        "url": "https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
         }
       ],
-      "duration_ms": 154115,
-      "name": "Dinero, Fama y Poder",
-      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
+      "duration_ms": 242785,
+      "name": "El JR 01",
+      "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
     },
     {
       "added_at": "2022-12-02 05:07:52",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2022-12-02 05:07:52",
       "album": {
-        "name": "El JR 01",
-        "url": "https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT"
+        "name": "Dinero, Fama y Poder",
+        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 242785,
-      "name": "El JR 01",
-      "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
+      "duration_ms": 154115,
+      "name": "Dinero, Fama y Poder",
+      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
     },
     {
       "added_at": "2022-12-02 05:07:52",

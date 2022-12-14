@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,641 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,649 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 38 | [Running Through The Cyber World \- CAP\-JAMS ver.](https://open.spotify.com/track/78mZSjQnanUOHxMCdth4hX) | [カプチューン](https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR) | [ONE](https://open.spotify.com/album/1F6EOzOlqnV7k7c4qQFvDc) | 4:07 |
 | 39 | [Graveyard](https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [Ghosts 'n Goblins Resurrection Original Soundtrack](https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu) | 1:42 |
 | 40 | [長曾我部元親のテーマ](https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 2:06 |
-| 41 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
-| 42 | [SENGOKU BASARA](https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [SENGOKU BASARA 15th Anniversary BEST](https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB) | 1:57 |
+| 41 | [SENGOKU BASARA](https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [SENGOKU BASARA 15th Anniversary BEST](https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB) | 1:57 |
+| 42 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
 | 43 | [暴砂の巨城/オディバトラス](https://open.spotify.com/track/1Tc7rnUznYbFfyGZOPVnLJ) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [モンスターハンター フロンティアG オリジナル・サウンドトラック](https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE) | 5:34 |
 | 44 | [解放レゾナンス The Soar](https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d), [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [E.X.TROOPERS \- END OF CONVERSATION](https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F) | 4:58 |
 | 45 | [Shinsekai](https://open.spotify.com/track/0uUyffcPYS5HGkQrOK9TpJ) | [Chikara Aoshima](https://open.spotify.com/artist/5PT7zMXQaj5nipuNJ0Zfvx) | [SHINSEKAI Into the Depths Hidden Tracks](https://open.spotify.com/album/4J34Ttmtw29MOBVMdNgRM0) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Save Theme](https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:19 |
 | 50 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 
-Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMDdiMDlhNDk3NmQ0MzgxZjA0MWM2NjAzMjExMmI1MGUx`
+Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMDcxOThiZTJjM2QxMDkwM2EyM2U5M2U0Mjc2ODFiM2I1`

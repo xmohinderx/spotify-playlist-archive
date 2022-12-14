@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,504 likes - 32 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,508 likes - 32 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 27 | [Catacomb](https://open.spotify.com/track/57ZTyoRXlwQrhXZuq0cfCQ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Catacomb](https://open.spotify.com/album/6rMTnk6gBiqzqKIvn1Ruj1) | 3:44 |
 | 28 | [Point Of Demarkation](https://open.spotify.com/track/6v3MSw7N5mKTgKFjXtTwFo) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Diamanté](https://open.spotify.com/album/6lk1L7N4hCcDnNMaHKhAMf) | 4:21 |
 | 29 | [Schaffino](https://open.spotify.com/track/1dYBzV2cObLLx8SLqx4hWT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 2:48 |
-| 30 | [Ebroglio](https://open.spotify.com/track/6lXXFgQwctMBep5lEWX7Ei) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 2:47 |
-| 31 | [Communication Drive\-in](https://open.spotify.com/track/3F3kBSAsSongfPxmwF83ln) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 1:44 |
+| 30 | [Communication Drive\-in](https://open.spotify.com/track/3F3kBSAsSongfPxmwF83ln) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 1:44 |
+| 31 | [Ebroglio](https://open.spotify.com/track/6lXXFgQwctMBep5lEWX7Ei) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 2:47 |
 | 32 | [Ticklish](https://open.spotify.com/track/2mNBIB5IaWgCl9HPYrr5YM) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 4:35 |
 
-Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDA1N2Y2ZWMzNjFiZjEyMGQ0NDA1ZjU0YTI2MTUwOTI0OQ==`
+Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDBlMjdjZmRhZmNiNTBmZjAwOWE5OTYyOTc5Mjg5ZmU3YQ==`

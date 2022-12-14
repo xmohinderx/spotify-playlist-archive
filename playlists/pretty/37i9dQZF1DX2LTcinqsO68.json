@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Iron Maiden",
-  "num_followers": 2381311,
+  "num_followers": 2382019,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMGFiYTY5OTllMjdjMjVkYzFjZTdlMzU2ZDZlNGNkN2Rm",
+  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMGQzYWEyYWNlNDFkNWVjZmQ2ZTUwYjI3ODllODQzNWRl",
   "tracks": [
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Kings of Metal",
-      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "Winger",
         "url": "https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 245266,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Kings of Metal",
+      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
     },
     {
       "added_at": "2022-10-25 17:33:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,443 likes - 217 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,482 likes - 217 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 182 | [Palm Beach](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Palm Beach](https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE) | 2:45 |
 | 183 | [Andlegur](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 3:33 |
 | 184 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 |
-| 185 | [suddenly](https://open.spotify.com/track/2In6PrEuJro3m27l29YTG3) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4bKj6LaBsp7wog0ZeYro6j) | 3:35 |
+| 185 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
 | 186 | [mountain](https://open.spotify.com/track/2ESkSYaMnGAUy8gDba6Yg5) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/4FuF8OKCgjUFDV3OdEbus9) | 1:54 |
 | 187 | [Ocean](https://open.spotify.com/track/3Qn6hKeGqsjMHD899nIeY3) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Ocean](https://open.spotify.com/album/1uDJvmhHdkbR049xwpkOEF) | 1:55 |
 | 188 | [Yin Yan Tonic](https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Yin Yan Tonic](https://open.spotify.com/album/2cGFqAL2ttK8IrsC3s7n3U) | 2:50 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 216 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 |
 | 217 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MTY3MDU5NDkyNCwwMDAwMDAwMGJkZjY5MjZlYjM3ODZiOGE2OTExY2U2MGE4MmM2NGE0`
+Snapshot ID: `MTY3MDU5NDkyNCwwMDAwMDAwMDlkODkxZDBhODY4NGNkYzU3ODMzMTE1NTliMzhiMDk1`

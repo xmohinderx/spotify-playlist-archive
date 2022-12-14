@@ -4,7 +4,7 @@
 
 > Les hits du moment sont ici\. Cover : Mocci
 
-129 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
+130 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 | 2022-05-12 | 2022-09-07 |
 | [Enty Hayaty](https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Enty Hayaty](https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN) | 4:15 | 2022-05-12 | 2022-07-14 |
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-07-23 | 2022-10-28 |
+| [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 | 2022-12-13 |  |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2022-05-12 | 2022-05-31 |
 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 | 2022-12-05 |  |
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-24 | 2022-10-27 |

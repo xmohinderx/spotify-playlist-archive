@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,418 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,726 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 33 | [Stay Away](https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:11 |
 | 34 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 |
 | 35 | [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 |
-| 36 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 |
-| 37 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 36 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 37 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 |
 | 38 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 |
-| 39 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 |
-| 40 | [Love To Last](https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 2:43 |
+| 39 | [Love To Last](https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 2:43 |
+| 40 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 |
 | 41 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 |
 | 42 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 |
 | 43 | [Don’t You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 46 | [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 |
 | 47 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 |
 | 48 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
-| 49 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 |
-| 50 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 |
+| 49 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 |
+| 50 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 |
 | 51 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
 | 52 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 |
 | 53 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 63 | [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 |
 | 64 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
 | 65 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 |
-| 66 | [I'm Broke](https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Tell 'Em What Your Name Is!](https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J) | 4:07 |
-| 67 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
+| 66 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
+| 67 | [I'm Broke](https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Tell 'Em What Your Name Is!](https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J) | 4:07 |
 | 68 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 |
 | 69 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 |
 | 70 | [It Rains Love](https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s) | 3:55 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGVmYzExZmM5OWYzYTBlNDcwYmIwNDlkOTQyOWZjNTU0`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDhhNmRiZTY2ZTIzZGNmMDliZWQ2NDMyYWZkY2Q1OWEy`

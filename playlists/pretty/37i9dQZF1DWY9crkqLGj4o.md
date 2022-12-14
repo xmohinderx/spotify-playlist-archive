@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,008 likes - 70 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,261 likes - 70 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,20 +35,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 25 | [Meu Barquinho](https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B) | [Meu Barquinho](https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0) | 4:47 |
 | 26 | [Que Amor É Esse](https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Que Amor É Esse](https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd) | 7:00 |
 | 27 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
-| 28 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
-| 29 | [Era Eu](https://open.spotify.com/track/4eYx3jlorPAz7qXo9husK5) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 4:32 |
+| 28 | [Era Eu](https://open.spotify.com/track/4eYx3jlorPAz7qXo9husK5) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 4:32 |
+| 29 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
 | 30 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 |
 | 31 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 |
 | 32 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
 | 33 | [Hey, Pai \- Ao Vivo](https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:44 |
-| 34 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
+| 34 | [Yeshua](https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yeshua](https://open.spotify.com/album/5CJfvaEHC43XbIFCDRN97k) | 5:43 |
 | 35 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 |
-| 36 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |
-| 37 | [Yeshua](https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yeshua](https://open.spotify.com/album/5CJfvaEHC43XbIFCDRN97k) | 5:43 |
+| 36 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
+| 37 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |
 | 38 | [Faz Um Milagre Em Mim \(Como Zaqueu, Eu Quero Subir\) \- Ao Vivo](https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w) | 5:24 |
 | 39 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |
-| 40 | [Quero Conhecer Jesus](https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ) | [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [O Fogo Nunca Dorme](https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei) | 6:00 |
-| 41 | [Me Leva Pra Casa](https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T) | [Israel Subira](https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU) | [Me Leva Pra Casa](https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD) | 7:45 |
+| 40 | [Me Leva Pra Casa](https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T) | [Israel Subira](https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU) | [Me Leva Pra Casa](https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD) | 7:45 |
+| 41 | [Quero Conhecer Jesus](https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ) | [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [O Fogo Nunca Dorme](https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei) | 6:00 |
 | 42 | [Lindo És + Só Quero Ver Você \- Ao Vivo](https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Livres ao Vivo em São Paulo](https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C) | 7:27 |
 | 43 | [Deus de Detalhes](https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Esconderijo](https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh) | 4:56 |
 | 44 | [Caminho no Deserto](https://open.spotify.com/track/6T6P23pVlhZdY2apyAtL1O) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Caminho no Deserto](https://open.spotify.com/album/54C7SYkNSCVdvih743HKDZ) | 5:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Sobre as Águas \- Ao Vivo](https://open.spotify.com/track/78jqNs62Tfo3sIxCL2IIpI) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Marca da Promessa](https://open.spotify.com/album/2ZXfO81fbFK9PJLNT1qjFz) | 5:49 |
 | 70 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 |
 
-Snapshot ID: `MTY2NDg5ODUwMiwwMDAwMDAwMGRjOWU0NzE1MTZmMDBiNDA0ZTVmOTU3MjIwZTc4ZWM0`
+Snapshot ID: `MTY2NDg5ODUwMiwwMDAwMDAwMDQ3OGExNGU4ZTJiOTc1YzM5M2UwMDU1ZTU4NDMwNjUz`

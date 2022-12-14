@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: SZA
 
-4,135 songs - 9 day 11 hr 23 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+4,136 songs - 9 day 11 hr 27 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -930,7 +930,7 @@
 | [DOMO \(dancing on my own\)](https://open.spotify.com/track/2xLqIPEPpG5VbpC3eQnHLM) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [DOMO \(dancing on my own\)](https://open.spotify.com/album/7uWOzh0qX7ny9zALiRGNb2) | 3:10 | 2022-11-10 | 2022-11-18 |
 | [Don't](https://open.spotify.com/track/54XEKEtqGf1id0Dj0yVNyX) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Feelin' Like](https://open.spotify.com/album/6aHqtqYMafUMboxW0xMhdM) | 2:45 | 2022-09-15 | 2022-09-23 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-27 | 2022-02-04 |
-| [Don't Break My Heart Again !](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again !](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 | 2022-12-08 |  |
+| [Don't Break My Heart Again!](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again!](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 | 2022-12-08 |  |
 | [Don't Call Me A Friend](https://open.spotify.com/track/42CbU4IOINfy3jqXJa2BUQ) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Don't Call Me A Friend](https://open.spotify.com/album/0nqRDLcgNPQyuDHaFWH4EX) | 2:36 | 2022-02-24 | 2022-03-04 |
 | [Don't Call My Name](https://open.spotify.com/track/1Wl0PHg18FW7sFQEoZdVxC) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Don't Call My Name](https://open.spotify.com/album/27JCyPptqVqBAouVzNgns9) | 3:02 | 2022-02-03 | 2022-02-11 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-26 | 2022-06-03 |
@@ -3907,7 +3907,8 @@
 | [Witches](https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f) | 3:51 | 2022-05-12 | 2022-05-20 |
 | [With You](https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [With You](https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN) | 2:53 | 2022-10-20 | 2022-10-28 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-28 | 2022-05-06 |
-| [WITH YOU \- TC/TC](https://open.spotify.com/track/3bve5HCAhW1LANewmTmb2m) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/7bgPPiVyDh38iln4l0wIo7) | 4:52 | 2022-12-08 |  |
+| [WITH YOU \- TC/TC](https://open.spotify.com/track/03oQVOKI33bkJFUOv7ERle) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/4ZInl14znkzy0u6OQBgmxZ) | 4:52 | 2022-12-08 |  |
+| [WITH YOU \- TC/TC](https://open.spotify.com/track/3bve5HCAhW1LANewmTmb2m) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/7bgPPiVyDh38iln4l0wIo7) | 4:52 | 2022-12-08 | 2022-12-14 |
 | [without me \(sera\)](https://open.spotify.com/track/3Fo63qSrhe1mJNdn9m33LW) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [without me \(sera\)](https://open.spotify.com/album/6tuz5NorXINANet6zv1qM1) | 3:39 | 2022-05-12 | 2022-05-20 |
 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 | 2022-05-26 | 2022-06-03 |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-08 | 2022-09-16 |
@@ -4036,7 +4037,7 @@
 | [冰海旅人](https://open.spotify.com/track/2FcA8LmvKW1H6Iv5rGwHyv) | [李承鉉](https://open.spotify.com/artist/5Be8Bg2wxTczUEnMQxEaqa) | [Three More Words](https://open.spotify.com/album/7FOKI9rkqA24QI0k46whzd) | 4:01 | 2022-01-20 | 2022-01-28 |
 | [冷戰](https://open.spotify.com/track/74Dm5HXwc5r9ORcC3xS7gg) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [冷戰](https://open.spotify.com/album/0VS3ovCOEohUpPDu4Iqvsi) | 4:54 | 2022-08-18 | 2022-08-26 |
 | [分手吧 \- 滾石40 滾石撞樂隊 40團拚經典 \(原唱:張震嶽\)](https://open.spotify.com/track/1hkJUyfsZ6aw7TeHjW4t2r) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi), [希有樂團 SHI's Band](https://open.spotify.com/artist/0kL1KcSDxMjRrZ3fbi9ukA) | [滾石40 滾石撞樂隊 40團拚經典 \- 分手吧](https://open.spotify.com/album/6D572SCckABG1akpUPhI2Q) | 5:00 | 2021-12-23 | 2021-12-31 |
-| [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 | 2022-12-08 |  |
+| [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Utada Hikaru](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 | 2022-12-08 |  |
 | [勇氣光圈](https://open.spotify.com/track/3ltbTwLjxDuNhZ33w6XFwZ) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [勇氣光圈](https://open.spotify.com/album/5JL6CdZ1mUF8I1XNNmRfTS) | 3:42 | 2022-07-07 | 2022-07-15 |
 | [厌倦厌倦 \(feat\. Juice Boy\)](https://open.spotify.com/track/7mLfi3ysLn7UpeALHB6w98) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [厌倦厌倦 \(feat\. Juice Boy\)](https://open.spotify.com/album/71g4mXQADVcwS3YMQ7G1Cq) | 3:27 | 2022-07-28 | 2022-08-05 |
 | [只用一次 \- 火鳳燎原20周年紀念曲](https://open.spotify.com/track/087k2johZmWS3YqG4YF53n) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [只用一次 \(火鳳燎原20周年紀念曲\)](https://open.spotify.com/album/52X64ehn2Y4Nh4fylOdx5W) | 3:28 | 2022-07-28 | 2022-08-05 |

@@ -1,13 +1,29 @@
 {
   "description": "All the New Joints featuring Polo G, Lil Durk, Moneybagg Yo and more. Cover: A Boogie Wit Da Hoodie",
-  "num_followers": 192276,
+  "num_followers": 192423,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NDkxNiwwMDAwMDAwMDFiYThmZDQ5MDg5YzUzMWI4MDNiOThmZmIxOWVkODc5",
+  "snapshot_id": "MTY3MDg5ODE5MiwwMDAwMDAwMDI5NjRiYjI0OTU2ODNhODQ1MzVkYmFkNjc0MjEyOWVi",
   "tracks": [
+    {
+      "added_at": "2022-12-09 05:20:57",
+      "album": {
+        "name": "Hanging With Wolves",
+        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Hanging With Wolves",
+      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
+    },
     {
       "added_at": "2022-12-09 05:07:16",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 197692,
       "name": "My All",
       "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
-    },
-    {
-      "added_at": "2022-12-09 05:20:57",
-      "album": {
-        "name": "Hanging With Wolves",
-        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -147,6 +147,26 @@
       "duration_ms": 163205,
       "name": "Miss My Dawgs (with Lil Wayne)",
       "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
+    },
+    {
+      "added_at": "2022-12-13 02:23:12",
+      "album": {
+        "name": "Paint the City (Gangsta Grillz)",
+        "url": "https://open.spotify.com/album/3M1RUPna1fFjxNd9I0Vo0l"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 129018,
+      "name": "Pape Talk",
+      "url": "https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG"
     },
     {
       "added_at": "2022-12-09 05:00:00",

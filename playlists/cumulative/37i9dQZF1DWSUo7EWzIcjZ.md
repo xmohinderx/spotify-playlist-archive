@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-377 songs - 1 day 3 hr 47 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+378 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [En el Fin de Semana](https://open.spotify.com/track/4djMEKq1oCMjUGrRNLNJt9) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengue Hits Clásicos de Oro](https://open.spotify.com/album/5m0rT0gH2hJ4tkxRXi2izV) | 4:15 | 2021-02-02 | 2022-07-24 |
 | [Enamorado de Ella](https://open.spotify.com/track/2C9UWCuysy7CdAAkhqKjNa) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [16 Merengues de Oro](https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd) | 4:32 | 2021-02-02 |  |
 | [Enamorar](https://open.spotify.com/track/1vyT9DmHU1KcDuKqp0z0Az) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Otro Dia Mas Sin Verte](https://open.spotify.com/album/5XPcciaGBqmXPcMngAMgCC) | 4:03 | 2021-02-02 | 2022-07-27 |
-| [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 | 2021-02-02 |  |
+| [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 | 2021-02-02 | 2022-12-14 |
+| [Enamorar](https://open.spotify.com/track/5PCqIB29DYyOj1glBryH3t) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Sandy Reyes y su orquesta](https://open.spotify.com/album/2Q3rZtrvUQMcAFfUtH2KwG) | 4:05 | 2021-02-02 |  |
 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:58 | 2021-02-02 | 2022-07-29 |
 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/20js1xS9eDxHcHVoVQASPO) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:58 | 2021-02-02 |  |
 | [Entre Tu Y Yo](https://open.spotify.com/track/2mInd0Utcfprbtb1k2U3ez) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:34 | 2021-02-02 | 2022-07-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Thalía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,919 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,969 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 46 | [Tus Besos](https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Tus Besos](https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42) | 3:02 |
 | 47 | [Tan Bonita](https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Tan Bonita](https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj) | 3:03 |
 | 48 | [Yo Soy](https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Yo Soy](https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2) | 2:49 |
-| 49 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 |
-| 50 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
+| 49 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
+| 50 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 |
 
-Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMDEyN2JjMTVlMzhmMmY1YjNmN2U4NzRlZDUwOGViNWNl`
+Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMDc0ODQ1NGJiYTE3M2IzMzU4NzhjMDMzMmJhOWNkYjk0`

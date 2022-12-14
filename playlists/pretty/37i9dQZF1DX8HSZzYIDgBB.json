@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 27529,
+  "num_followers": 27550,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDI0YWUwODdhODEwMzgwYTQxNDc2MzczYjBhMGY1NWYz",
+  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDRmYWRiYzk5YjY1ODU1MTFlNDE2NDk1NjBlZDc4ZDA5",
   "tracks": [
     {
       "added_at": "2022-09-16 04:50:01",
@@ -317,6 +317,26 @@
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
+      "added_at": "2022-09-30 04:06:25",
+      "album": {
+        "name": "Coraz\u00f3n Usado",
+        "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Isabel Aladro",
+          "url": "https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607"
+        }
+      ],
+      "duration_ms": 232241,
+      "name": "Coraz\u00f3n Usado",
+      "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
+    },
+    {
       "added_at": "2022-07-11 18:35:10",
       "album": {
         "name": "Morena",
@@ -339,26 +359,6 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
-    },
-    {
-      "added_at": "2022-09-30 04:06:25",
-      "album": {
-        "name": "Coraz\u00f3n Usado",
-        "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Isabel Aladro",
-          "url": "https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607"
-        }
-      ],
-      "duration_ms": 232241,
-      "name": "Coraz\u00f3n Usado",
-      "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
     },
     {
       "added_at": "2022-07-13 15:48:37",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
     },
     {
-      "added_at": "2022-09-02 05:18:03",
-      "album": {
-        "name": "la noche de ayer",
-        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 255591,
-      "name": "la noche de ayer",
-      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
-    },
-    {
       "added_at": "2022-01-17 15:56:36",
       "album": {
         "name": "Sal de Mar",
@@ -527,6 +511,22 @@
       "duration_ms": 206590,
       "name": "Sal de Mar",
       "url": "https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez"
+    },
+    {
+      "added_at": "2022-09-02 05:18:03",
+      "album": {
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -565,20 +565,20 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
-      "added_at": "2022-08-19 02:11:47",
+      "added_at": "2022-04-20 18:21:19",
       "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
       },
       "artists": [
         {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
         }
       ],
-      "duration_ms": 185350,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2022-04-09 05:10:17",
@@ -597,20 +597,20 @@
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
     },
     {
-      "added_at": "2022-04-20 18:21:19",
+      "added_at": "2022-08-19 02:11:47",
       "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
       "artists": [
         {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
         }
       ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
+      "duration_ms": 185350,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD"
     },
     {
-      "added_at": "2021-11-10 05:48:01",
-      "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
-    },
-    {
       "added_at": "2022-07-13 15:48:37",
       "album": {
         "name": "Belmont",
@@ -1107,6 +1091,22 @@
       "duration_ms": 168939,
       "name": "Un Manhattan",
       "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"
+    },
+    {
+      "added_at": "2021-11-10 05:48:01",
+      "album": {
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
       "added_at": "2022-04-12 02:37:18",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
-      "added_at": "2022-09-15 12:46:11",
-      "album": {
-        "name": "Joyas",
-        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 172402,
-      "name": "Joyas",
-      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Qui\u00e9n Podr\u00e1 Saberlo",
@@ -1179,6 +1163,22 @@
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW"
+    },
+    {
+      "added_at": "2022-09-15 12:46:11",
+      "album": {
+        "name": "Joyas",
+        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 172402,
+      "name": "Joyas",
+      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
     },
     {
       "added_at": "2022-07-11 18:36:36",
@@ -1285,6 +1285,22 @@
       "url": "https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G"
     },
     {
+      "added_at": "2022-03-03 23:20:33",
+      "album": {
+        "name": "Collar de Perlas",
+        "url": "https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM"
+      },
+      "artists": [
+        {
+          "name": "MONTESCO",
+          "url": "https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb"
+        }
+      ],
+      "duration_ms": 269544,
+      "name": "Collar de Perlas",
+      "url": "https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Ild\u00e9 Pa\u2019 Beberte",
@@ -1321,20 +1337,24 @@
       "url": "https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy"
     },
     {
-      "added_at": "2022-03-03 23:20:33",
+      "added_at": "2022-03-04 03:54:51",
       "album": {
-        "name": "Collar de Perlas",
-        "url": "https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM"
+        "name": "Mujer del Desierto",
+        "url": "https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG"
       },
       "artists": [
         {
-          "name": "MONTESCO",
-          "url": "https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "WX//CLTV",
+          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
         }
       ],
-      "duration_ms": 269544,
-      "name": "Collar de Perlas",
-      "url": "https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl"
+      "duration_ms": 210372,
+      "name": "Mujer del Desierto",
+      "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
     },
     {
       "added_at": "2022-07-25 03:37:28",
@@ -1355,26 +1375,6 @@
       "duration_ms": 185440,
       "name": "Pa' Siempre No Es Na",
       "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
-    },
-    {
-      "added_at": "2022-03-04 03:54:51",
-      "album": {
-        "name": "Mujer del Desierto",
-        "url": "https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "WX//CLTV",
-          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Mujer del Desierto",
-      "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
     },
     {
       "added_at": "2022-08-08 21:56:18",
@@ -1409,20 +1409,20 @@
       "url": "https://open.spotify.com/track/6OOmsVhtxm6wTvupGDvq9V"
     },
     {
-      "added_at": "2022-07-25 03:37:28",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Contenta",
-        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
+        "name": "Coidar dunhas Colmeas",
+        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
       },
       "artists": [
         {
-          "name": "Malamala",
-          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+          "name": "N\u00e9boa",
+          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
         }
       ],
-      "duration_ms": 215347,
-      "name": "Contenta",
-      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
+      "duration_ms": 238069,
+      "name": "Coidar dunhas Colmeas",
+      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1441,20 +1441,20 @@
       "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
+      "added_at": "2022-07-25 03:37:28",
       "album": {
-        "name": "Coidar dunhas Colmeas",
-        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
+        "name": "Contenta",
+        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
       },
       "artists": [
         {
-          "name": "N\u00e9boa",
-          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
         }
       ],
-      "duration_ms": 238069,
-      "name": "Coidar dunhas Colmeas",
-      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
+      "duration_ms": 215347,
+      "name": "Contenta",
+      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
       "added_at": "2022-09-11 03:47:52",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "El Vacile Del T\u00edo",
+        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "El Vacile Del T\u00edo",
+      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 222333,
       "name": "El Cabr\u00f3n - Radio Edit",
       "url": "https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "El Vacile Del T\u00edo",
-        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "El Vacile Del T\u00edo",
-      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1645,6 +1645,22 @@
       "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
     },
     {
+      "added_at": "2022-01-21 16:05:39",
+      "album": {
+        "name": "Plata y Coral",
+        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        }
+      ],
+      "duration_ms": 240491,
+      "name": "Plata y Coral",
+      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
+    },
+    {
       "added_at": "2022-07-15 04:48:04",
       "album": {
         "name": "Ultramar",
@@ -1663,22 +1679,6 @@
       "duration_ms": 264837,
       "name": "Ultramar",
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
-    },
-    {
-      "added_at": "2022-01-21 16:05:39",
-      "album": {
-        "name": "Plata y Coral",
-        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 240491,
-      "name": "Plata y Coral",
-      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
     },
     {
       "added_at": "2022-01-13 00:41:05",

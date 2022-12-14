@@ -1,79 +1,15 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 82514,
+  "num_followers": 82529,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUxMTYwMCwwMDAwMDAwMDk5MWNkOTQ1NzhlYjA3OTlkMWU0NDJjOWE2ZjM4MTZm",
+  "snapshot_id": "MTY3MDk0MzYwMCwwMDAwMDAwMDQzODg2MjhkMjcyMTRlYmM0NjhiYzkxZTI0ZGRiMWQw",
   "tracks": [
     {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "Chase After",
-        "url": "https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS"
-      },
-      "artists": [
-        {
-          "name": "Keishi Tanaka",
-          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Slow Dance",
-      "url": "https://open.spotify.com/track/2O2bw4CwYnvPuOAH5RVlDF"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "The World",
-        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "Seventeen Going Under (Live Deluxe)",
-        "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Little Bull Of Blithe",
-      "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
-        "url": "https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
@@ -89,23 +25,55 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+        "name": "The World",
+        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+      "duration_ms": 186453,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "Seventeen Going Under (Live Deluxe)",
+        "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Little Bull Of Blithe",
+      "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Until I Found You",
         "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
@@ -121,23 +89,23 @@
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Praying for July - Spotify Singles",
-        "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 186159,
-      "name": "Praying for July - Spotify Singles",
-      "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -157,7 +125,39 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "Praying for July - Spotify Singles",
+        "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 186159,
+      "name": "Praying for July - Spotify Singles",
+      "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "...Nothing Like The Sun (Expanded Edition)",
         "url": "https://open.spotify.com/album/4NulPUAJ3mgNc7A0yohd2z"
@@ -177,39 +177,7 @@
       "url": "https://open.spotify.com/track/1U8XRvf5z5wbnVFQHd14ph"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered 2009",
-      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "Binetsu (Autumn) / Honesty (Session 1)",
-        "url": "https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp"
-      },
-      "artists": [
-        {
-          "name": "UA",
-          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
-        }
-      ],
-      "duration_ms": 298292,
-      "name": "Binetsu (Autumn)",
-      "url": "https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "SYML",
         "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
@@ -225,23 +193,23 @@
       "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "So Much Wine",
-        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
+        "name": "Binetsu (Autumn) / Honesty (Session 1)",
+        "url": "https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
         }
       ],
-      "duration_ms": 243600,
-      "name": "So Much Wine",
-      "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
+      "duration_ms": 298292,
+      "name": "Binetsu (Autumn)",
+      "url": "https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
@@ -257,23 +225,23 @@
       "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "HELP EVER HURT COVER",
-        "url": "https://open.spotify.com/album/1AHbVBPlzsI0k18agZQ6zr"
+        "name": "\u6642\u8a08\u306f\u7720\u3044",
+        "url": "https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Beautiful Hummingbird",
+          "url": "https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4"
         }
       ],
-      "duration_ms": 220466,
-      "name": "Close to you",
-      "url": "https://open.spotify.com/track/02QcM5pBEymkl6gXb4RHex"
+      "duration_ms": 268173,
+      "name": "\u6642\u8a08\u306f\u7720\u3044",
+      "url": "https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
@@ -289,23 +257,23 @@
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "\u97f3\u30bf\u30a4\u30e0",
-        "url": "https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW"
+        "name": "HELP EVER HURT COVER",
+        "url": "https://open.spotify.com/album/1AHbVBPlzsI0k18agZQ6zr"
       },
       "artists": [
         {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 277293,
-      "name": "\u5bb6\u65cf\u306e\u98a8\u666f",
-      "url": "https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE"
+      "duration_ms": 220466,
+      "name": "Close to you",
+      "url": "https://open.spotify.com/track/02QcM5pBEymkl6gXb4RHex"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
@@ -325,23 +293,23 @@
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Japan",
-        "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
+        "name": "\u97f3\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW"
       },
       "artists": [
         {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 216299,
-      "name": "Japan",
-      "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
+      "duration_ms": 277293,
+      "name": "\u5bb6\u65cf\u306e\u98a8\u666f",
+      "url": "https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
@@ -357,23 +325,23 @@
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "grace",
-        "url": "https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3"
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
       },
       "artists": [
         {
-          "name": "Nezumi Coo",
-          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 183374,
-      "name": "grace",
-      "url": "https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ"
+      "duration_ms": 216299,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "IT'S YOU (feat. keshi)",
         "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
@@ -393,23 +361,23 @@
       "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Pink Balloon / Sea Lions",
-        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
+        "name": "grace",
+        "url": "https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Nezumi Coo",
+          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
         }
       ],
-      "duration_ms": 319480,
-      "name": "Sea Lions",
-      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
+      "duration_ms": 183374,
+      "name": "grace",
+      "url": "https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
@@ -425,23 +393,23 @@
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Know.",
-        "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
+        "name": "Pink Balloon / Sea Lions",
+        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 245186,
-      "name": "Let's See What The Night Can Do",
-      "url": "https://open.spotify.com/track/3dglCYsVMjPbDlU2CC9Vq7"
+      "duration_ms": 319480,
+      "name": "Sea Lions",
+      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "beside you",
         "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
@@ -457,23 +425,23 @@
       "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+        "name": "Know.",
+        "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 217480,
-      "name": "Almost (Sweet Music)",
-      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
+      "duration_ms": 245186,
+      "name": "Let's See What The Night Can Do",
+      "url": "https://open.spotify.com/track/3dglCYsVMjPbDlU2CC9Vq7"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
@@ -489,7 +457,39 @@
       "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
+      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "You're The Man",
         "url": "https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854"
@@ -509,23 +509,23 @@
       "url": "https://open.spotify.com/track/6aRMFfRv2LyCh3FS8TFhct"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 233733,
-      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
-      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+      "duration_ms": 425653,
+      "name": "Hey Jude - Remastered 2015",
+      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
         "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
@@ -541,39 +541,7 @@
       "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "I'm Not In Love (Edit)",
-        "url": "https://open.spotify.com/album/3CgRVSjpSnD9g08WQCLytz"
-      },
-      "artists": [
-        {
-          "name": "Monique Klemann",
-          "url": "https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf"
-        }
-      ],
-      "duration_ms": 205095,
-      "name": "I'm Not In Love - Edit",
-      "url": "https://open.spotify.com/track/6AZ4O5q9B4nMQVghTfTBe3"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
@@ -593,7 +561,39 @@
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "I'm Not In Love (Edit)",
+        "url": "https://open.spotify.com/album/3CgRVSjpSnD9g08WQCLytz"
+      },
+      "artists": [
+        {
+          "name": "Monique Klemann",
+          "url": "https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf"
+        }
+      ],
+      "duration_ms": 205095,
+      "name": "I'm Not In Love - Edit",
+      "url": "https://open.spotify.com/track/6AZ4O5q9B4nMQVghTfTBe3"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Vincent",
         "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
@@ -609,23 +609,23 @@
       "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 425653,
-      "name": "Hey Jude - Remastered 2015",
-      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+      "duration_ms": 211763,
+      "name": "Hold My Girl",
+      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "You're The Man",
         "url": "https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854"
@@ -645,71 +645,7 @@
       "url": "https://open.spotify.com/track/5Wgoa3syX7zZvFoIIhR1US"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "Love Will Find A Way",
-        "url": "https://open.spotify.com/album/58ZQBOe0sMe9ZpPKgjDR9p"
-      },
-      "artists": [
-        {
-          "name": "Philip Bailey",
-          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
-        }
-      ],
-      "duration_ms": 290133,
-      "name": "You're Everything",
-      "url": "https://open.spotify.com/track/676yPpKx9leVQWf5vFSvS7"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211763,
-      "name": "Hold My Girl",
-      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
-      "album": {
-        "name": "Old School (Acoustic)",
-        "url": "https://open.spotify.com/album/1yHzPtoin3VLu2h72Y3dW5"
-      },
-      "artists": [
-        {
-          "name": "Josie Dunne",
-          "url": "https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq"
-        }
-      ],
-      "duration_ms": 216007,
-      "name": "Old School - Acoustic",
-      "url": "https://open.spotify.com/track/1Vd2VTgJs2ej0Y6VGKnNqh"
-    },
-    {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
@@ -725,23 +661,23 @@
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Corners",
-        "url": "https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM"
+        "name": "Love Will Find A Way",
+        "url": "https://open.spotify.com/album/58ZQBOe0sMe9ZpPKgjDR9p"
       },
       "artists": [
         {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb"
+      "duration_ms": 290133,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/676yPpKx9leVQWf5vFSvS7"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
@@ -757,23 +693,23 @@
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Therfu",
-        "url": "https://open.spotify.com/album/1ruMmXTfZ5PZjZdDy6GeUc"
+        "name": "Old School (Acoustic)",
+        "url": "https://open.spotify.com/album/1yHzPtoin3VLu2h72Y3dW5"
       },
       "artists": [
         {
-          "name": "Turley Richards",
-          "url": "https://open.spotify.com/artist/7p1G13q6CeIPXLf7yhPN9e"
+          "name": "Josie Dunne",
+          "url": "https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq"
         }
       ],
-      "duration_ms": 216693,
-      "name": "You Might Need Somebody",
-      "url": "https://open.spotify.com/track/0ojCFgI78aJ33qskR7WpYx"
+      "duration_ms": 216007,
+      "name": "Old School - Acoustic",
+      "url": "https://open.spotify.com/track/1Vd2VTgJs2ej0Y6VGKnNqh"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
@@ -801,23 +737,23 @@
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "Hell's Kitchen Angel",
-        "url": "https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc"
+        "name": "Corners",
+        "url": "https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
         }
       ],
-      "duration_ms": 223846,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f"
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Falling Like The Stars",
         "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
@@ -833,23 +769,23 @@
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
-        "name": "I Built A Friend (2020)",
-        "url": "https://open.spotify.com/album/31s5CRYvua6xU9c2n7H8PJ"
+        "name": "Therfu",
+        "url": "https://open.spotify.com/album/1ruMmXTfZ5PZjZdDy6GeUc"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "Turley Richards",
+          "url": "https://open.spotify.com/artist/7p1G13q6CeIPXLf7yhPN9e"
         }
       ],
-      "duration_ms": 176693,
-      "name": "I Built A Friend (2020)",
-      "url": "https://open.spotify.com/track/68XhCrBajUR64h6wv4eYYW"
+      "duration_ms": 216693,
+      "name": "You Might Need Somebody",
+      "url": "https://open.spotify.com/track/0ojCFgI78aJ33qskR7WpYx"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
@@ -865,7 +801,23 @@
       "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "Hell's Kitchen Angel",
+        "url": "https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 223846,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
@@ -881,7 +833,23 @@
       "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "I Built A Friend (2020)",
+        "url": "https://open.spotify.com/album/31s5CRYvua6xU9c2n7H8PJ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "I Built A Friend (2020)",
+      "url": "https://open.spotify.com/track/68XhCrBajUR64h6wv4eYYW"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Fire On Fire (From \"Watership Down\")",
         "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
@@ -897,7 +865,7 @@
       "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
@@ -913,7 +881,23 @@
       "url": "https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Almost (Sweet Music)",
+      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Dark in the City",
         "url": "https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB"
@@ -929,7 +913,7 @@
       "url": "https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
@@ -949,7 +933,7 @@
       "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Walked Through Hell",
         "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
@@ -965,7 +949,23 @@
       "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
+      "album": {
+        "name": "So Much Wine",
+        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "So Much Wine",
+      "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
+    },
+    {
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "I'm So Happy",
         "url": "https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7"
@@ -985,7 +985,7 @@
       "url": "https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
-      "added_at": "2022-12-08 15:00:00",
+      "added_at": "2022-12-13 15:00:00",
       "album": {
         "name": "Love Someone",
         "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"

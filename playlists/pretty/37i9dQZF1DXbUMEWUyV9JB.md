@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de esta cumbia! Cover: Los Ángeles Azules.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,417 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,486 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 51 | [El Piropo \- Versión Sonidera](https://open.spotify.com/track/1rjRdZ3OptBUnvL0ImiltE) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:51 |
 | 52 | [Destilando Amor](https://open.spotify.com/track/4aeteklsGBPXRfZPKN4NS5) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 3:39 |
 | 53 | [Ángel Malvado](https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 5:05 |
-| 54 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 |
-| 55 | [Que nadie sepa mi sufrir \(Amor de mis amores\)](https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Zaida y su Sonora La Tremenda](https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:19 |
+| 54 | [Que nadie sepa mi sufrir \(Amor de mis amores\)](https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Zaida y su Sonora La Tremenda](https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:19 |
+| 55 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 |
 | 56 | [El Colesterol](https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [30 Exitos Inolvidables](https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA) | 2:26 |
 | 57 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 |
 | 58 | [Sabes A Chocolate](https://open.spotify.com/track/4KCIR5WfyhPPeTy8KQzMXf) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [A.B\. Quintanilla III Presents Kumbia Kings Greatest Hits "Album Versions"](https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ) | 3:47 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 80 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 | 81 | [Bonita y Mentirosa \(with Yahir\) \- En Vivo](https://open.spotify.com/track/7z4wQKhuzm8bfRD1sGiVKN) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Homenaje a la Música Tropical \(En Vivo\)](https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx) | 3:42 |
 | 82 | [Te Voy A Conquistar](https://open.spotify.com/track/6OyXy9MzQmHelQ06faSjMU) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [NZO](https://open.spotify.com/artist/6SWdWsEfebEsNwD1dYKj2d) | [Te Voy A Conquistar](https://open.spotify.com/album/1sDXcM414HAxpoB36OLB1I) | 3:46 |
-| 83 | [Mujer](https://open.spotify.com/track/4rKfmTqHICMuF6BgnkuPUc) | [Super Potro](https://open.spotify.com/artist/2Sy0bHKXNzWtKSY5xxCnw9) | [Todos Sus Éxitos](https://open.spotify.com/album/6I7UoYzV2l0cQPPMi1fHGK) | 3:20 |
-| 84 | [La Cobra](https://open.spotify.com/track/3aSYVIS5nC3hrFK368flZt) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Veinte Años De Sabrosura](https://open.spotify.com/album/0GrxrRK6JBw0hyEVG7EJWo) | 3:09 |
+| 83 | [La Cobra](https://open.spotify.com/track/3aSYVIS5nC3hrFK368flZt) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Veinte Años De Sabrosura](https://open.spotify.com/album/0GrxrRK6JBw0hyEVG7EJWo) | 3:09 |
+| 84 | [Mujer](https://open.spotify.com/track/4rKfmTqHICMuF6BgnkuPUc) | [Super Potro](https://open.spotify.com/artist/2Sy0bHKXNzWtKSY5xxCnw9) | [Todos Sus Éxitos](https://open.spotify.com/album/6I7UoYzV2l0cQPPMi1fHGK) | 3:20 |
 | 85 | [Chiquilla](https://open.spotify.com/track/4RcN7qGRs4OfbI8cHmqQiL) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [From KK To Kumbia All\-Starz](https://open.spotify.com/album/16cRWklmy1DIKkYufsAJMb) | 3:30 |
 | 86 | [He Creído](https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 4:21 |
 | 87 | [No te pertenece \- Radio Edit](https://open.spotify.com/track/61d67uSTg6cBHopUve5hsS) | [Klazykeroz](https://open.spotify.com/artist/1scdd3RHOCWx72TOGGEBHs) | [No te pertenece \(Radio Edit\)](https://open.spotify.com/album/4OHH9wtBsz0yqCEpIzQHUo) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 99 | [Paloma Ajena](https://open.spotify.com/track/65uUNFe02bXVS4KydSSYOE) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Sólo Éxitos](https://open.spotify.com/album/6Kg07PFyPcAMUu0Tey9Qk1) | 4:12 |
 | 100 | [La Cumbia de la Cerveza](https://open.spotify.com/track/12CjTBrIidxLSgam2iOw2o) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Grandes Exitos Originales](https://open.spotify.com/album/0AhjOKoGXJiGqt9MJ3PAUP) | 2:47 |
 
-Snapshot ID: `MTY3MDQ1OTc0NSwwMDAwMDAwMDI3MWJmYTYyYzk5Y2VhYzA4MzRlOWQ3ZjM1YWU2OWQ2`
+Snapshot ID: `MTY3MDQ1OTc0NSwwMDAwMDAwMGQyYjUzMjMyMzMzNzY1NDZhZTFkOTYzYzBlYzcxNmRl`

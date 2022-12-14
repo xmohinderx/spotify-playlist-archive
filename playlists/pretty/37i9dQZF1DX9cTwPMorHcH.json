@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 52369,
+  "num_followers": 52427,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMGJiYjY4NjFjODJkMDQwN2VkNWM0OTMwYmI0YmFhNzMw",
+  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMGVlOTM3MTYxNDMxZjc3NzA4NzBhNWRiMWU1YTZkYzQy",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Ultimate Santana",
-        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 204333,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Ultimate Santana",
+        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Koko Taylor",
-        "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Koko Taylor",
+        "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Baby, Please Come Home (Bonus Version)",
+        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Just a Game",
+      "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Power Of The Pontchartrain",
         "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 248035,
       "name": "Outside Of This Town",
       "url": "https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Baby, Please Come Home (Bonus Version)",
-        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Just a Game",
-      "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1517,6 +1517,22 @@
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Sons",
+        "url": "https://open.spotify.com/album/7cIZqD2nH2CXlAGG1jrNP6"
+      },
+      "artists": [
+        {
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        }
+      ],
+      "duration_ms": 186884,
+      "name": "Burn Bright",
+      "url": "https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e"
+    },
+    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Catfish",
@@ -1535,22 +1551,6 @@
       "duration_ms": 231000,
       "name": "Catfish",
       "url": "https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Sons",
-        "url": "https://open.spotify.com/album/7cIZqD2nH2CXlAGG1jrNP6"
-      },
-      "artists": [
-        {
-          "name": "The Heavy",
-          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
-        }
-      ],
-      "duration_ms": 186884,
-      "name": "Burn Bright",
-      "url": "https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "TajMo",
-        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 301373,
-      "name": "Don't Leave Me Here",
-      "url": "https://open.spotify.com/track/1pDwZmpFoPyPTApIgCLwHS"
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     }
   ],
   "unique_name": "Blues Drive",

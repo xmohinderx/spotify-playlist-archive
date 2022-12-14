@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 10807,
+  "num_followers": 10817,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGY1ODQ0YWQzZGEyZDA3YjY4NTJhMmQ3NTQwNzYxNmVk",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDdlZjRiOTRmM2U1NDU2NzYxMGZhYWI1NDEyNDMwZDBl",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Moten Swing",
+      "url": "https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Soular Energy",
         "url": "https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+        "name": "Brass Shout",
+        "url": "https://open.spotify.com/album/4J45qykVYkRLFMQGdQEJGn"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Moten Swing",
-      "url": "https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA"
+      "duration_ms": 310480,
+      "name": "Autumn Leaves - Remastered 2007",
+      "url": "https://open.spotify.com/track/0SHa5TRydRy8RCEova7OkA"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -543,22 +559,6 @@
       "duration_ms": 300506,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/55se4FQGLvhYMOeNxdElaS"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Brass Shout",
-        "url": "https://open.spotify.com/album/4J45qykVYkRLFMQGdQEJGn"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Autumn Leaves - Remastered 2007",
-      "url": "https://open.spotify.com/track/0SHa5TRydRy8RCEova7OkA"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Oscar Peterson Trio Plus One",
+        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 315893,
+      "name": "Mack The Knife",
+      "url": "https://open.spotify.com/track/4tJb85eDxIIm2frcwb8PAG"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Brass/Trio",
         "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 387000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Oscar Peterson Trio Plus One",
-        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 315893,
-      "name": "Mack The Knife",
-      "url": "https://open.spotify.com/track/4tJb85eDxIIm2frcwb8PAG"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Like Someone In Love",
-        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 484333,
-      "name": "Like Someone In Love - Rudy Van Gelder Edition, 2004 Remaster",
-      "url": "https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 216693,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 484333,
+      "name": "Like Someone In Love - Rudy Van Gelder Edition, 2004 Remaster",
+      "url": "https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Another Workout",
-        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 483946,
-      "name": "Hello, Young Lovers - Remastered 2006",
-      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Lee Konitz Meets Jimmy Giuffre",
         "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Another Workout",
+        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 483946,
+      "name": "Hello, Young Lovers - Remastered 2006",
+      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Verve Jazz Masters 50",
         "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 389733,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Nights Of Ballads & Blues",
         "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 304333,
       "name": "Star Eyes",
       "url": "https://open.spotify.com/track/4KNkkhjjYXyJMzq5fRi1gm"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 389733,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Saxophone Supremacy",
-        "url": "https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt Quartet",
-          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
-        }
-      ],
-      "duration_ms": 230120,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 457186,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Saxophone Supremacy",
+        "url": "https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt Quartet",
+          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
+        }
+      ],
+      "duration_ms": 230120,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj"
     },
     {
       "added_at": "2022-12-08 23:00:00",

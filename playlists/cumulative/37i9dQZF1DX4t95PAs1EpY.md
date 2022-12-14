@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-332 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+333 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [DaylightZ \- Forest Version](https://open.spotify.com/track/4CApZ8VcoaUFLHmi94y1ey) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [DaylightZ](https://open.spotify.com/album/4vnuKbIQy1gtw4ao29JCzl) | 2:04 | 2022-06-24 |  |
 | [Days End](https://open.spotify.com/track/72fw7BBXK1IWsoNJCFcSFr) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Manocchs](https://open.spotify.com/artist/7nuSdpLse2KEipMvQ1hWEc) | [Days End](https://open.spotify.com/album/293Ituc1s1BgexGopqrP72) | 1:56 | 2022-09-02 |  |
 | [dead reckoning](https://open.spotify.com/track/1HPRFECUZyvqlTsVcnVQqL) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [abstract mapping](https://open.spotify.com/album/3wnY9D1Dl69OohA8MtkU2z) | 1:48 | 2021-12-07 |  |
+| [Don Lemon](https://open.spotify.com/track/1RKxZAiUKVL6XbGBYOMa2F) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/0lghRrVZ6xapTaVWyzIdzQ) | 1:44 | 2022-12-09 |  |
 | [Don Lemon](https://open.spotify.com/track/3MZM6vRRO8f459kxgEULg8) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/2Mcpr3klMbn0OOC5sslBUc) | 1:44 | 2022-05-27 | 2022-11-20 |
-| [Don Lemon](https://open.spotify.com/track/521mFtWavZtZFz85CLoXx3) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/0Psg7qHlT0bf53XQzcouAq) | 1:44 | 2022-11-11 |  |
+| [Don Lemon](https://open.spotify.com/track/521mFtWavZtZFz85CLoXx3) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/0Psg7qHlT0bf53XQzcouAq) | 1:44 | 2022-11-11 | 2022-12-14 |
 | [Dream Tunnel](https://open.spotify.com/track/0gyDK00aAkv2Cj5MiDdRDV) | [Alpacca](https://open.spotify.com/artist/6I1hzKZBbWpAwZjGXBI9uA), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Dream Tunnel](https://open.spotify.com/album/1em9TDR3pNUlMSG7VixHbC) | 2:30 | 2022-10-07 |  |
 | [Dreaming](https://open.spotify.com/track/070NMc5haOwLbYjZp69uHf) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [Dreaming](https://open.spotify.com/album/7knFAl2Q5H42tVLblWKfjG) | 2:30 | 2022-11-25 |  |
 | [Dreaming](https://open.spotify.com/track/2sAueBql5AeZv5lbgIoCmw) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Dreaming](https://open.spotify.com/album/0OFCOApz7zlibihMfLmnyf) | 2:31 | 2021-12-07 | 2022-05-20 |

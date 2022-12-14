@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Dani Torres en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,178 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,180 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 15 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 |
 | 16 | [Bien Bebé](https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4) | 2:43 |
 | 17 | [Me Dolió](https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2) | 2:43 |
-| 18 | [Las de Octubre](https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Las de Octubre](https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td) | 2:45 |
+| 18 | [Mal Mal Mal](https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5) | 3:48 |
 | 19 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
-| 20 | [Mal Mal Mal](https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5) | 3:48 |
+| 20 | [Las de Octubre](https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Las de Octubre](https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td) | 2:45 |
 | 21 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 |
 | 22 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
 | 23 | [Tas Clara](https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tas Clara](https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc) | 3:50 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 41 | [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 |
 | 42 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 |
 | 43 | [La Duda](https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H) | [La Duda](https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm) | 3:21 |
-| 44 | [SI SE DA](https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [J E A N](https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF) | [SI SE DA](https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L) | 3:32 |
-| 45 | [LUZ APAGÁ](https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [ANA SOCLASH](https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs) | [LUZ APAGÁ](https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0) | 2:57 |
+| 44 | [LUZ APAGÁ](https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [ANA SOCLASH](https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs) | [LUZ APAGÁ](https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0) | 2:57 |
+| 45 | [SI SE DA](https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [J E A N](https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF) | [SI SE DA](https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L) | 3:32 |
 | 46 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 |
 | 47 | [Pa' Siempre](https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz) | [Daniel Vargas](https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5) | [Pa' Siempre](https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM) | 2:19 |
 | 48 | [Loco Demente](https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Loco Demente](https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv) | 3:38 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 54 | [Loquera](https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK), [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Loquera](https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev) | 3:14 |
 | 55 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 |
 
-Snapshot ID: `MTY3MDQ0MzA1NiwwMDAwMDAwMDRmNmJjZDk2Nzg0NDIxMGVhODgwMjE5ZTU0MzUxY2Q5`
+Snapshot ID: `MTY3MDQ0MzA1NiwwMDAwMDAwMDcyNWRhNDEyMGE1N2Q4NjM4ODZlMzkwMDNhNzhjMmMz`

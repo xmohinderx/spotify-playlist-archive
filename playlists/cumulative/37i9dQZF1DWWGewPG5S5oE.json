@@ -680,6 +680,28 @@
     },
     {
       "album": {
+        "name": "Mile in the green",
+        "url": "https://open.spotify.com/album/73U232pI9TANrWBWEdgLe0"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "Spice rhythm",
+          "url": "https://open.spotify.com/artist/5lmsbZAumn8MwK6llKn4Kx"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423445,
+      "name": "Mile in the green",
+      "url": "https://open.spotify.com/track/6SBIYkYegPIhLjgsO9KPpY"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
@@ -1453,7 +1475,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 260560,
       "name": "\u30b9\u30d1\u30eb\u30bf\u30ab\u30b9~\u611b\u306e\u30c6\u30fc\u30de",
       "url": "https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc"

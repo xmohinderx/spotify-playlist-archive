@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 131147,
+  "num_followers": 131420,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYwMDI4MywwMDAwMDAwMDc2NmU5MTEyOGM1ZmQwZDA1MjZkODljZjIzNDk0N2Ey",
+  "snapshot_id": "MTY3MDYwMDI4MywwMDAwMDAwMDM2ZThmNGFhZDk0NjZlZjNkNDNmNDVlMjg3NzFmNWE1",
   "tracks": [
     {
       "added_at": "2022-12-09 15:38:03",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
+        "name": "Don't Hang The Mistletoe",
+        "url": "https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l"
+      },
+      "artists": [
+        {
+          "name": "Jojo Mason",
+          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
+        }
+      ],
+      "duration_ms": 197167,
+      "name": "Don't Hang The Mistletoe",
+      "url": "https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG"
+    },
+    {
+      "added_at": "2022-12-09 15:38:03",
+      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 180573,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
-    },
-    {
-      "added_at": "2022-12-09 15:38:03",
-      "album": {
-        "name": "Don't Hang The Mistletoe",
-        "url": "https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l"
-      },
-      "artists": [
-        {
-          "name": "Jojo Mason",
-          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
-        }
-      ],
-      "duration_ms": 197167,
-      "name": "Don't Hang The Mistletoe",
-      "url": "https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs"
-      },
-      "artists": [
-        {
-          "name": "Ryland James",
-          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
-        }
-      ],
-      "duration_ms": 197229,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5"
-    },
-    {
-      "added_at": "2022-12-09 15:38:03",
-      "album": {
         "name": "Rockin\u2019 Around the Christmas Tree",
         "url": "https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq"
       },
@@ -919,6 +903,38 @@
       "duration_ms": 207792,
       "name": "Coming Home (For Christmas)",
       "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
+    },
+    {
+      "added_at": "2022-12-09 15:38:03",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs"
+      },
+      "artists": [
+        {
+          "name": "Ryland James",
+          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
+        }
+      ],
+      "duration_ms": 197229,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5"
+    },
+    {
+      "added_at": "2022-12-09 15:38:03",
+      "album": {
+        "name": "604 Records: The Second Noel",
+        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "Mittens",
+      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -955,18 +971,18 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
-        "name": "604 Records: The Second Noel",
-        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "CARYS",
+          "url": "https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU"
         }
       ],
-      "duration_ms": 251800,
-      "name": "Mittens",
-      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
+      "duration_ms": 176788,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -983,22 +999,6 @@
       "duration_ms": 142658,
       "name": "two christmases",
       "url": "https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS"
-    },
-    {
-      "added_at": "2022-12-09 15:38:03",
-      "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ"
-      },
-      "artists": [
-        {
-          "name": "CARYS",
-          "url": "https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU"
-        }
-      ],
-      "duration_ms": 176788,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
-        "name": "A Walk Off the Earth Christmas",
-        "url": "https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 135840,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/0IukEGWvArmeQc2O3s3ZUY"
-    },
-    {
-      "added_at": "2022-12-09 15:38:03",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/6cHWO6sSqfJ0WIRA6yiJ6B"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 187968,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/7IguZUbEN3K37mQ2lTI4Uq"
+    },
+    {
+      "added_at": "2022-12-09 15:38:03",
+      "album": {
+        "name": "A Walk Off the Earth Christmas",
+        "url": "https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 135840,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0IukEGWvArmeQc2O3s3ZUY"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
-        "name": "The Last Christmas (We Ever Spend Apart)",
-        "url": "https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24"
+        "name": "Please Come Home For Christmas",
+        "url": "https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr"
       },
       "artists": [
         {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
         }
       ],
-      "duration_ms": 207581,
-      "name": "The Last Christmas (We Ever Spend Apart)",
-      "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
+      "duration_ms": 179160,
+      "name": "Please Come Home For Christmas",
+      "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
-        "name": "Please Come Home For Christmas",
-        "url": "https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr"
+        "name": "The Last Christmas (We Ever Spend Apart)",
+        "url": "https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24"
       },
       "artists": [
         {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
         }
       ],
-      "duration_ms": 179160,
-      "name": "Please Come Home For Christmas",
-      "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
+      "duration_ms": 207581,
+      "name": "The Last Christmas (We Ever Spend Apart)",
+      "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -1299,38 +1299,6 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
-        "name": "River City Christmas",
-        "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
-      },
-      "artists": [
-        {
-          "name": "Crash Test Dummies",
-          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p"
-    },
-    {
-      "added_at": "2022-12-09 15:38:03",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Do You Hear What I Hear?",
-      "url": "https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4"
-    },
-    {
-      "added_at": "2022-12-09 15:38:03",
-      "album": {
         "name": "Christmas Kisses",
         "url": "https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP"
       },
@@ -1347,18 +1315,18 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
-        "name": "Bring Me Cheer",
-        "url": "https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl"
+        "name": "River City Christmas",
+        "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
       },
       "artists": [
         {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+          "name": "Crash Test Dummies",
+          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
         }
       ],
-      "duration_ms": 145973,
-      "name": "Bring Me Cheer",
-      "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
+      "duration_ms": 219666,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -1379,6 +1347,22 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4"
+    },
+    {
+      "added_at": "2022-12-09 15:38:03",
+      "album": {
         "name": "Don't You Know It's Christmas",
         "url": "https://open.spotify.com/album/2mxIzdveUmWmDNedhS7qh4"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 217746,
       "name": "Don't You Know It's Christmas",
       "url": "https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG"
+    },
+    {
+      "added_at": "2022-12-09 15:38:03",
+      "album": {
+        "name": "Bring Me Cheer",
+        "url": "https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "duration_ms": 145973,
+      "name": "Bring Me Cheer",
+      "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
+        "name": "Someday at Christmas",
+        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 186890,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
+    },
+    {
+      "added_at": "2022-12-09 15:38:03",
+      "album": {
         "name": "Christmas Wish",
         "url": "https://open.spotify.com/album/6z284o61vNmsgZT29q0agY"
       },
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2022-12-09 15:38:03",
       "album": {
-        "name": "Someday at Christmas",
-        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
+        "name": "They Don\u2019t Make Them Like That Anymore",
+        "url": "https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt"
       },
       "artists": [
         {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
         }
       ],
-      "duration_ms": 186890,
-      "name": "Someday at Christmas",
-      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
+      "duration_ms": 216320,
+      "name": "It Came Upon a Midnight Clear",
+      "url": "https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0"
     },
     {
       "added_at": "2022-12-09 15:38:03",
@@ -1667,22 +1683,6 @@
       "duration_ms": 160807,
       "name": "Season's Greetings",
       "url": "https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya"
-    },
-    {
-      "added_at": "2022-12-09 15:38:03",
-      "album": {
-        "name": "They Don\u2019t Make Them Like That Anymore",
-        "url": "https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "It Came Upon a Midnight Clear",
-      "url": "https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0"
     },
     {
       "added_at": "2022-12-09 15:38:03",

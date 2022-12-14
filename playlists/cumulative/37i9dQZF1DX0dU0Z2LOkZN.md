@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-310 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+312 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,10 +222,12 @@
 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 | 2021-11-11 |  |
 | [Priddy](https://open.spotify.com/track/45WLGoZ4j4x7jFBRZzrzcR) | [Fasion](https://open.spotify.com/artist/5uhPMkoNEzwhbfAw5UzAUg) | [Priddy](https://open.spotify.com/album/2QcQv4BizwMYpohZ9md2u5) | 3:10 | 2021-11-11 |  |
 | [Puff and Chill](https://open.spotify.com/track/28C6s5ChOKy6V5ELuIDIcj) | [Ray Normandie](https://open.spotify.com/artist/2UrFVD7tQJPkzbN4dWHO3D), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Puff and Chill](https://open.spotify.com/album/3yHOhlQpVpghfrg2DKWLoq) | 2:18 | 2022-10-15 |  |
-| [Purple Days](https://open.spotify.com/track/6IOsHOSYKJWZPvcu0TxOjP) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3), [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Purple Days](https://open.spotify.com/album/1eNm8ZQlCC0kC9hxOlbiyM) | 1:54 | 2022-11-11 |  |
+| [Purple Days](https://open.spotify.com/track/6IOsHOSYKJWZPvcu0TxOjP) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3), [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Purple Days](https://open.spotify.com/album/1eNm8ZQlCC0kC9hxOlbiyM) | 1:54 | 2022-11-11 | 2022-12-14 |
 | [Purple Days](https://open.spotify.com/track/40tohqXWMJjaveY7CMINTW) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Purple Days](https://open.spotify.com/album/5NwqGSu5TetGHhlVKHlBl0) | 1:54 | 2022-07-29 | 2022-11-20 |
-| [Put Your Hands Up](https://open.spotify.com/track/0LRcMNHOeChV4UG7rLN1Xz) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Put Your Hands Up](https://open.spotify.com/album/2KHS5HCEvAzzrGKD3pHc07) | 1:50 | 2022-11-11 |  |
+| [Purple Days](https://open.spotify.com/track/6swspKnhCXVuhtjjn3CKWX) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Purple Days](https://open.spotify.com/album/1wyIN2PaYsXq1dFQouQjTg) | 1:54 | 2022-12-09 |  |
+| [Put Your Hands Up](https://open.spotify.com/track/0LRcMNHOeChV4UG7rLN1Xz) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Put Your Hands Up](https://open.spotify.com/album/2KHS5HCEvAzzrGKD3pHc07) | 1:50 | 2022-11-11 | 2022-12-14 |
 | [Put Your Hands Up](https://open.spotify.com/track/3ZNY9uaSiilXtvX23JRiuM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Put Your Hands Up](https://open.spotify.com/album/11C2S518ovqt7LhLsb3ryj) | 1:50 | 2022-10-28 | 2022-11-24 |
+| [Put Your Hands Up](https://open.spotify.com/track/5fszgubkNixUMmqDYdXJ6L) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Put Your Hands Up](https://open.spotify.com/album/24uvsMFissUnmpb7DYLCBH) | 1:50 | 2022-12-09 |  |
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2022-02-17 |  |
 | [Queen's Flower](https://open.spotify.com/track/6s1G9bpphtB9E4OijfWslZ) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Queen's Flower](https://open.spotify.com/album/5bzw7GhCjD3ewcq0Pgng2M) | 2:22 | 2022-08-19 | 2022-10-29 |
 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2021-11-11 |  |

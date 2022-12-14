@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,898,113 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,898,761 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 23 | [If You Want Blood \(You've Got It\)](https://open.spotify.com/track/7zscdQe9CjzXnqT3P1Ey7K) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 4:34 |
 | 24 | [Jailbreak](https://open.spotify.com/track/5UKeFkVeUfvP6S43I8s9mt) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | ['74 Jailbreak](https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y) | 4:40 |
 | 25 | [War Machine](https://open.spotify.com/track/5YnNWHKCJaJKwbagXDb5Uf) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 3:09 |
-| 26 | [Are You Ready](https://open.spotify.com/track/7A1odihHBrI8n9k0Fefh2j) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:10 |
+| 26 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
 | 27 | [Girls Got Rhythm](https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:23 |
-| 28 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
+| 28 | [Are You Ready](https://open.spotify.com/track/7A1odihHBrI8n9k0Fefh2j) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:10 |
 | 29 | [What Do You Do for Money Honey](https://open.spotify.com/track/6Th6ND8RQPywiyelecP5Lf) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:35 |
 | 30 | [Big Gun](https://open.spotify.com/track/7zjzu90Q4mtNNaE9Ol9Zbv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Backtracks](https://open.spotify.com/album/0I7FkYrckzJtK1ND8vzqoO) | 4:19 |
 | 31 | [Shot Down in Flames](https://open.spotify.com/track/6pivm7pNF4GyBkHNGseHCS) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 49 | [Problem Child](https://open.spotify.com/track/5wTuWXWREngkFGtBXhOaI9) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:24 |
 | 50 | [Gone Shootin'](https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 5:05 |
 
-Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDBkODNlNWUwMzBjNTViYWI3ZjdmNGJmZGEyMTc3ZmQ4Ng==`
+Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDA3MzYwODkxNzlkNDlkNGMwZTFmYzYzODMxM2Y5ZTVjNg==`

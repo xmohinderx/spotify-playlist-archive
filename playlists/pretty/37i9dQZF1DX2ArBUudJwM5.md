@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Las artistas que marcaron el año con Nicki Nicole en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,047 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,060 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 21 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
 | 22 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 |
 | 23 | [Afuera](https://open.spotify.com/track/2ERKyKVKoNmmNP0QfvzGQd) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Afuera](https://open.spotify.com/album/0RZ0aiNBQ1HnPqYTq3R5o3) | 3:27 |
-| 24 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
-| 25 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
+| 24 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
+| 25 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
 | 26 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
 | 27 | [AREA 69](https://open.spotify.com/track/7zwr2S6zTLQqt3IQ4wpht1) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [AREA 69](https://open.spotify.com/album/0aI5tf7kRiGIfA3X7fC7ez) | 2:37 |
 | 28 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 32 | [Vigilantes del Espejo](https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Vigilantes del Espejo](https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6) | 2:08 |
 | 33 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 |
 | 34 | [Diabla](https://open.spotify.com/track/3VjmE2R9lWcmj8UCmknuhS) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 2:51 |
-| 35 | [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 |
-| 36 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
-| 37 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 |
-| 38 | [Fresh Prince \- Remix](https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Fresh Prince \(Remix\)](https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X) | 3:32 |
+| 35 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
+| 36 | [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 |
+| 37 | [Fresh Prince \- Remix](https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Fresh Prince \(Remix\)](https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X) | 3:32 |
+| 38 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 |
 | 39 | [Luna En Venus](https://open.spotify.com/track/41bVvrQ3VwOPWg9Wkz7JLa) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Luna En Venus](https://open.spotify.com/album/5fRgHLDuUsNGZ8vPdbBXn8) | 3:36 |
 | 40 | [Mexico](https://open.spotify.com/track/0mzigoLzGdfMg5GY3Y0Dm6) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [SUCIA ESTRELLA](https://open.spotify.com/album/4DQ7VYASwmCqXbjtCP0tfp) | 2:41 |
 | 41 | [Pedestal](https://open.spotify.com/track/6Q5DAieR6UQ3bwMucBqHSX) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Selva](https://open.spotify.com/album/7c2v5ycSRINlH2yIi3oV85) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Rota](https://open.spotify.com/track/5flqJsQDTDxJ2i2269Be2P) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Rota](https://open.spotify.com/album/1TTZVw7gOyWXzJ1yIttZTS) | 4:15 |
 | 50 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMGRlNTU0ZTk3OWQ3OGY2Y2U3YjcwZmIwZGJlNTgyODk1`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMGI0MjdiYTNjNWI1OWE2MTljYjYwZDQ4ZjMyMTU0NGYz`

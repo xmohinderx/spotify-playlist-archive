@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3m1eVXIEKnqdyvtXd0P2zf)
+73 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3m1eVXIEKnqdyvtXd0P2zf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,12 +69,13 @@
 | [Te Amo y Te Lo Digo](https://open.spotify.com/track/3oyseqmvN8v73vcp7z0yx8) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:02 | 2022-06-01 |  |
 | [Te Deseo Lo Mejor \- Versión Mariachi](https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Te Deseo Lo Mejor \(Versión Mariachi\)](https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr) | 2:38 | 2022-06-01 |  |
 | [Te Esperare](https://open.spotify.com/track/54tmAoMDUoz4a1WSZJEkhU) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Historia](https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq) | 3:32 | 2022-06-01 |  |
+| [Tu Abandono](https://open.spotify.com/track/1V6KK9ACJVPkawtPILt4N6) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Mis 30 Aniversario, Vol\. 1](https://open.spotify.com/album/2yhPl0BDdZuzCtYkp25URQ) | 2:40 | 2022-12-13 |  |
 | [Un Hombre Diferente](https://open.spotify.com/track/1x6hdO613h1Br7CYIxxFyU) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [La Fuerza Del Amor](https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo) | 4:12 | 2022-06-01 | 2022-10-13 |
 | [Un Indio Quiere Llorar](https://open.spotify.com/track/53nzQq7wFXLx0xXEQf7jOy) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya Se Fue](https://open.spotify.com/album/61O9K0fxUAMCqIziOECeYp) | 2:47 | 2022-06-04 | 2022-06-06 |
 | [Una Noche Cualquiera](https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Noche Cualquiera](https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD) | 3:35 | 2022-06-01 |  |
 | [Unidos Para Amarnos](https://open.spotify.com/track/78DazlfpGkIVK2qLsgMemf) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Bendita Mujer](https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV) | 3:26 | 2022-06-01 |  |
 | [Vuelve Por Favor](https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vuelve Por Favor](https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W) | 3:20 | 2022-06-01 |  |
-| [Y Las Mariposas](https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Las Consentidas De Pancho Barraza](https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ) | 3:49 | 2022-06-01 |  |
+| [Y Las Mariposas](https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Las Consentidas De Pancho Barraza](https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ) | 3:49 | 2022-06-01 | 2022-12-14 |
 | [Ya No Vives En Mí \(¿Cuál Adiós?\) \- Banda](https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya No Vives En Mí \(¿Cuál Adiós?\) \[Banda\]](https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1) | 3:38 | 2022-06-01 |  |
 | [Ya Para Que \(Para Que\)](https://open.spotify.com/track/2PAo61DllW05LIFB5NPtCy) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Canción A Mi Esposa](https://open.spotify.com/album/71tWoppXnMo6QppOCPnucN) | 2:50 | 2022-06-04 | 2022-08-18 |
 | [Ya Se Fue](https://open.spotify.com/track/6neA2wcgD9CrHwsvKhGpqH) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:20 | 2022-06-01 |  |

@@ -4,7 +4,7 @@
 
 > Hay nhất từ Fresh Finds Vietnam 2022\. Ảnh bìa: Winno
 
-689 songs - 1 day 16 hr 16 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+690 songs - 1 day 16 hr 19 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,8 @@
 | [Why](https://open.spotify.com/track/74DpTuEIBAfDoVTuUjUn7X) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo), [Khac Dii](https://open.spotify.com/artist/6yK61pHCw3226aNps9tixD) | [Why](https://open.spotify.com/album/4pAk4P9lDt5QXQrmT5Y489) | 3:55 | 2022-05-02 | 2022-05-05 |
 | [Worthless](https://open.spotify.com/track/3PaiLH8DLZ6JMB0lcJeaQz) | [Haukong](https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Worthless](https://open.spotify.com/album/6GY3FGcnqDi7aOkJ3rfmqn) | 3:36 | 2022-04-04 | 2022-07-10 |
 | [XANH DƯƠNG](https://open.spotify.com/track/3RodDNhiC4pC3b9ubAHDWs) | [Mcee Blue](https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk), [StillaD Tùng Dương](https://open.spotify.com/artist/2JvXCcjd9rvMlyLhzWVBUv) | [XANH DƯƠNG](https://open.spotify.com/album/6YF5FFv9C9cg4DCZVGUbaN) | 3:29 | 2022-09-27 | 2022-10-07 |
-| [Xem Như Anh Chẳng May](https://open.spotify.com/track/2rIFRse00Znv6FfpQBdthx) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Xem Như Anh Chẳng May](https://open.spotify.com/album/0KHpdLLlsjcwycvDMehkV4) | 3:25 | 2022-01-06 |  |
+| [Xem Như Anh Chẳng May](https://open.spotify.com/track/2rIFRse00Znv6FfpQBdthx) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Xem Như Anh Chẳng May](https://open.spotify.com/album/0KHpdLLlsjcwycvDMehkV4) | 3:25 | 2022-01-06 | 2022-12-14 |
+| [Xem Như Em Chẳng May](https://open.spotify.com/track/4SPOVg01rifoVDdFWL6qUC) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Xem Như Em Chẳng May](https://open.spotify.com/album/0aWK7xO0bck89id69aWvWf) | 3:25 | 2022-11-30 |  |
 | [Xin Được Phép](https://open.spotify.com/track/2rhgT7eLB7QgO2fLsqHlyt) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW), [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Xin Được Phép](https://open.spotify.com/album/3cLpDNDgz4eCZikAO7VIj8) | 4:44 | 2022-08-31 | 2022-10-05 |
 | [YOUNGBO5ONFIRE](https://open.spotify.com/track/7puePLMUBQqXGdelL3iwU4) | [Young Bo5](https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o), [Ozee Kxng](https://open.spotify.com/artist/17vAfc5ZHLo0FHmutTI46A) | [YOUNGBO5ONFIRE](https://open.spotify.com/album/4FWO7Mumq67VP2gQbO2Lu4) | 2:41 | 2022-06-09 | 2022-08-24 |
 | [Yêu em đậm sâu](https://open.spotify.com/track/0NBhZ81C2N8uVEDWU2ucLz) | [Chuy Blue](https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd), [Khói Stone](https://open.spotify.com/artist/2u2HF34Almyv3L8V9OGDBe), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Yêu em đậm sâu](https://open.spotify.com/album/0ZKNDLvvVz6emHyClBVYz2) | 3:30 | 2022-06-22 | 2022-07-10 |

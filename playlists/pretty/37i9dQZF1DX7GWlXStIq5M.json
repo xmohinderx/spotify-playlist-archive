@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118088,
+  "num_followers": 118080,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDVlMmNkZjJjM2QxZTVlMDcxYjc2OGQwMWM3ZDc0YjFk",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGVjZGMwMDA4ZmE3MjJmZDc0ZTFhYWI1ZmVmNzk1ZDAy",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Tommy Lee (feat. Post Malone)",
-        "url": "https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0"
-      },
-      "artists": [
-        {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 224638,
-      "name": "Tommy Lee (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Ladr\u00e3o",
         "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 212650,
       "name": "LEAL",
       "url": "https://open.spotify.com/track/7LC49U08KjfwzDMiGNkE1q"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Tommy Lee (feat. Post Malone)",
+        "url": "https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0"
+      },
+      "artists": [
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 224638,
+      "name": "Tommy Lee (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
     },
     {
       "added_at": "2020-10-20 20:23:39",

@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-397 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
+398 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bette Davis Eyes](https://open.spotify.com/track/3EvFpQWu8rHgcVj07IgIVU) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Chris Deelay](https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5) | [Bette Davis Eyes](https://open.spotify.com/album/013qC49DCJHQsEIHGEHdM3) | 2:30 | 2022-01-13 |  |
 | [Better Now](https://open.spotify.com/track/52GyPQ2O6dfYlOJiW8dNR8) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [Cat Mode](https://open.spotify.com/artist/3dxezrADfOJsvZ4mPCIaph) | [Better Now](https://open.spotify.com/album/6q5zvDfDBKu0IbUbWXuBi0) | 3:05 | 2022-04-07 |  |
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-08-02 |  |
+| [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 | 2022-12-13 |  |
 | [Black & Gold \- LIZOT Mix](https://open.spotify.com/track/5cZRBjvDHaQn0vu2GYQOaV) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Black & Gold \(LIZOT Mix\)](https://open.spotify.com/album/2Gwq4Aftzy4cjXOYfsd9OV) | 2:48 | 2022-01-13 |  |
 | [Black Beatles](https://open.spotify.com/track/4osUZoTShs0y7gfSBvE92o) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Black Beatles](https://open.spotify.com/album/2SsJlOKZjLxFygFlJFolcF) | 2:37 | 2022-01-13 |  |
 | [Blinding Lights](https://open.spotify.com/track/2QOUhXViy7F4cdKlDnv0aw) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Blinding Lights](https://open.spotify.com/album/5qDY97r0BtceQalni9c8Pu) | 2:03 | 2022-01-13 | 2022-11-09 |

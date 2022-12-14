@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,244 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,686 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 46 | [Hercules](https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Hercules](https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV) | 6:32 |
 | 47 | [Sex and the Machine](https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Sex and the Machine](https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe) | 4:00 |
 | 48 | [Obsession](https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Obsession](https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp) | 6:22 |
-| 49 | [1981](https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [1981](https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ) | 6:11 |
-| 50 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 |
+| 49 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 |
+| 50 | [1981](https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [1981](https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ) | 6:11 |
 
-Snapshot ID: `MTY3MDQzMTk3NywwMDAwMDAwMDE2MjgxODFiY2I5YjM4NTZiNjkzMjliMjE2N2MyMzk3`
+Snapshot ID: `MTY3MDQzMTk3NywwMDAwMDAwMDA3YjBhYTkwNTgwMWExNGJjNjBmZTVhZGEzOTM4NmVh`

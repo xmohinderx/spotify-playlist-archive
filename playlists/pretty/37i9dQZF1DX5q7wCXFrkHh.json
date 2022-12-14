@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 45511,
+  "num_followers": 45634,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQwNzEwOCwwMDAwMDAwMDQzNzE2ZDVkZTZkYzFiODhkMzZhYTYyYjc3NTI3MzIz",
+  "snapshot_id": "MTY3MDQwNzEwOCwwMDAwMDAwMDViMDkxNzM4YmYxZDQxNzQ5MjQyMThmNWE2NzRkYzM3",
   "tracks": [
     {
       "added_at": "2022-12-07 09:58:28",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Seven Days of Falling",
-        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
       "artists": [
         {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
         }
       ],
-      "duration_ms": 291226,
-      "name": "Believe, Beleft, Below",
-      "url": "https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i"
+      "duration_ms": 184293,
+      "name": "Excerpts From The Blues",
+      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+        "name": "Seven Days of Falling",
+        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
         }
       ],
-      "duration_ms": 184293,
-      "name": "Excerpts From The Blues",
-      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
+      "duration_ms": 291226,
+      "name": "Believe, Beleft, Below",
+      "url": "https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "The Amazing Bud Powell",
-        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Polka Dots And Moonbeams - Remastered",
-      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 381893,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/4QC4XLTPHiSdexDsKO5Vi7"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "The Amazing Bud Powell",
+        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Polka Dots And Moonbeams - Remastered",
+      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Oscar Peterson Plays The Cole Porter Songbook",
-        "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/3A1NOwqErSnpNuvdeW1RHy"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200986,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Oscar Peterson Plays The Cole Porter Songbook",
+        "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/3A1NOwqErSnpNuvdeW1RHy"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1123,54 +1123,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Jazz Moments",
-        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Trio",
-          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "The Now",
-        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Goldberg",
-          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
-        }
-      ],
-      "duration_ms": 317439,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "Jazz Volume: Oscar Peterson",
         "url": "https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ"
       },
@@ -1187,6 +1139,38 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
+        "name": "Jazz Moments",
+        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
+      },
+      "artists": [
+        {
+          "name": "George Shearing Trio",
+          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
         "name": "Seven Days of Falling",
         "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 403666,
       "name": "Elevation of Love",
       "url": "https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "The Now",
+        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+        }
+      ],
+      "duration_ms": 317439,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Ready Take One",
-        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+        "name": "If You Got To Ask, You Ain't Got It!",
+        "url": "https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Fats Waller",
+          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
         }
       ],
-      "duration_ms": 306967,
-      "name": "Wild Music",
-      "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
+      "duration_ms": 158426,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/0EYRLGRgsgnKetAVziaaLT"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "If You Got To Ask, You Ain't Got It!",
-        "url": "https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB"
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
       "artists": [
         {
-          "name": "Fats Waller",
-          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
         }
       ],
-      "duration_ms": 158426,
-      "name": "Honeysuckle Rose",
-      "url": "https://open.spotify.com/track/0EYRLGRgsgnKetAVziaaLT"
+      "duration_ms": 306967,
+      "name": "Wild Music",
+      "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
     },
     {
       "added_at": "2022-12-07 09:58:28",

@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Samantha Sánchez
 
-263 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
+264 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [idk](https://open.spotify.com/track/76jViTpFYIFfB7oWXKqHzn) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [idk](https://open.spotify.com/album/6P3vr5QdAVrG47NavaSTgM) | 4:40 | 2022-03-21 | 2022-04-16 |
 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 | 2022-05-13 | 2022-08-09 |
 | [INVIERNO](https://open.spotify.com/track/5RtgkT4tTMZZe1dBJZVCwb) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [INVIERNO](https://open.spotify.com/album/0oZ1YSD0CMgKQ8MP6LnrOd) | 2:43 | 2022-12-09 |  |
-| [ITA :\)](https://open.spotify.com/track/47i903DULtuCdNST7sprvg) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [ITA :\)](https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt) | 2:40 | 2022-09-09 |  |
+| [ITA :\)](https://open.spotify.com/track/47i903DULtuCdNST7sprvg) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [ITA :\)](https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt) | 2:40 | 2022-09-09 | 2022-12-14 |
 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 | 2022-09-23 | 2022-12-10 |
 | [Juro Que](https://open.spotify.com/track/0XQr7djQbD7KWO5u4T2OkD) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Juro Que](https://open.spotify.com/album/33IGyasi0i4Ksw34yVG6Y1) | 2:39 | 2022-03-21 | 2022-06-13 |
 | [KATAN](https://open.spotify.com/track/52LzkfgpSfBvf3EF9Xfya0) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [KATAN](https://open.spotify.com/album/0QMamEWq0KIRemCbcaogcd) | 2:52 | 2022-10-07 | 2022-12-10 |
@@ -265,6 +265,7 @@
 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 | 2022-12-09 |  |
 | [Un Dia a la Vez](https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Un Día a la Vez](https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF) | 2:41 | 2022-10-28 | 2022-12-10 |
 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 | 2022-09-09 | 2022-10-29 |
+| [Vamos Pa la Playa](https://open.spotify.com/track/7u4iBYiUYBJNr10Ov2u4s9) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vamos Pa la Playa](https://open.spotify.com/album/3WJUMEadyo3WnCQDQw6vLc) | 2:46 | 2022-12-09 |  |
 | [Volver a Casa](https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Volver a Casa](https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E) | 2:53 | 2022-09-23 |  |
 | [vuelve](https://open.spotify.com/track/565mWLRnlRTcfGdruoxJbP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [vuelve](https://open.spotify.com/album/5Lw8CZl4zZG5uMxvHeqJnE) | 3:21 | 2022-05-06 | 2022-06-18 |
 | [YA NO](https://open.spotify.com/track/2ubOm8LStEhv4CEiIOk01F) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Diablo](https://open.spotify.com/artist/38cfgJjmUEknY8JKyFBipW) | [YA NO](https://open.spotify.com/album/2sHKdDqfzkwXyVZoHVA4PZ) | 3:46 | 2022-09-06 | 2022-10-29 |

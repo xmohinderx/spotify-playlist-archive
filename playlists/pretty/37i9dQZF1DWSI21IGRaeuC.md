@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,166 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,211 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 18 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 |
 | 19 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 |
 | 20 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
-| 21 | [Whispers In The Wind](https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Whispers In The Wind](https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f) | 6:08 |
-| 22 | [Sete \- Carlita Remix](https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:42 |
+| 21 | [Sete \- Carlita Remix](https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:42 |
+| 22 | [Whispers In The Wind](https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Whispers In The Wind](https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f) | 6:08 |
 | 23 | [Lovelee Dae](https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Blaze \(Kevin Hedge\)](https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy) | [Lovelee Dae](https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg) | 6:22 |
 | 24 | [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 |
 | 25 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 47 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 |
 | 48 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 |
 | 49 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
-| 50 | [euphoric.](https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '22](https://open.spotify.com/album/24QlYIbEIVo1lT93ethJ2q) | 6:37 |
+| 50 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDBhOGRhNGY1MDg4MGUzMWY1OTkwNjU4YzU5YmM3NjY3`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGM4OGI3MmMxMTEyNThkN2NlZTZmMWQzNzYxNWU1MWU0`

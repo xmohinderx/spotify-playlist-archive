@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,613 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,647 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 37 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:06 |
 | 38 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 39 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
-| 40 | [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 |
-| 41 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
+| 40 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
+| 41 | [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 |
 | 42 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
 | 43 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 |
 | 44 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 49 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 |
 | 50 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
 
-Snapshot ID: `MTY2OTM5NDMxNiwwMDAwMDAwMDdiZDRkMTJmMGVjNDk4NTg2NWE0M2U1NWYyNmI5ZTE1`
+Snapshot ID: `MTY2OTM5NDMxNiwwMDAwMDAwMDEyMzU1OWQwMTk4ODMxODFiNjlhYzNiMDVmNzA3MjUy`

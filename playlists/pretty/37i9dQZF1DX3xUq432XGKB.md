@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,310 likes - 56 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,363 likes - 56 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 13 | [My Purple iPod Nano \- salute Remix](https://open.spotify.com/track/0RoltIfGhqICXocqnAmxKx) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/3eWgRkW0XsVUTbHCrnTkJu) | 3:17 |
 | 14 | [See Right Through](https://open.spotify.com/track/0dX1F12877KD5V74nknccT) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Tangential Zones](https://open.spotify.com/album/1AL6GsdQ5SI97EpMGouJmS) | 5:02 |
 | 15 | [Ghost Voices](https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 4:26 |
-| 16 | [Face My Fears \(English Version\)](https://open.spotify.com/track/71vwMp0XFmCn0sWucZwews) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 3:39 |
+| 16 | [Face My Fears \(English Version\)](https://open.spotify.com/track/71vwMp0XFmCn0sWucZwews) | [Utada Hikaru](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 3:39 |
 | 17 | [Jennifer](https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/4IluqHZGQUxXellf1ycOYt) | 2:34 |
 | 18 | [Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [333](https://open.spotify.com/album/38grabLpTHYySHEyG0TyUN) | 2:03 |
 | 19 | [Mercurial World](https://open.spotify.com/track/3NryvAEXz5SMCxPevxzNFP) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World \(Deluxe\)](https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p) | 3:01 |

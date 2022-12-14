@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,686 likes - 245 songs - 13 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,732 likes - 245 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 183 | [Things](https://open.spotify.com/track/3dm5Ce7vQ3JEpSVnqyjGPR) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:19 |
 | 184 | [U+](https://open.spotify.com/track/1eWE9MBcX8cqYPXhdf2d38) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [U+](https://open.spotify.com/album/2PzmUiqcZUdaje0jkKmHkn) | 2:35 |
 | 185 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 |
-| 186 | [Vanana Megamix](https://open.spotify.com/track/31scSkD3fOW4hSykDv0SAS) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [INNMIR](https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn), [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq), [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd), [WISEMEN PROJECT](https://open.spotify.com/artist/2q0UmiQE9I6rYDJSar0c2W) | [Vanana Mix, Vol\. 1](https://open.spotify.com/album/2f0KtcCFjLVUZdGgEL3fup) | 2:58 |
+| 186 | [Vanana Megamix](https://open.spotify.com/track/31scSkD3fOW4hSykDv0SAS) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [INNMIR](https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn), [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq), [WISEMEN PROJECT](https://open.spotify.com/artist/2q0UmiQE9I6rYDJSar0c2W), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Vanana Mix, Vol\. 1](https://open.spotify.com/album/2f0KtcCFjLVUZdGgEL3fup) | 2:58 |
 | 187 | [Six Flags](https://open.spotify.com/track/7FbWdVkWMxtu3WCkRJ5qWr) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Six Flags](https://open.spotify.com/album/3CC5OhmKYTQw0pvfTODjzV) | 2:39 |
 | 188 | [SPACESHIP](https://open.spotify.com/track/1pV9OnvnLtLyy4EFSUdM2d) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\) / SPACESHIP](https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q) | 4:02 |
 | 189 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 |

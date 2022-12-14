@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 48222,
+  "num_followers": 48328,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMDJjNDNiNTBjMjhmNzE3MmQ3ZGYyMDkwMzk4OTA5YTY2",
+  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMDdiMzFmN2Q0M2RjOGUxYjVkNjBhMmNlZTY1OWFlNDgx",
   "tracks": [
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1039,30 +1039,6 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        },
-        {
-          "name": "Charlie Christian",
-          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
-        },
-        {
-          "name": "Benny Goodman Sextet",
-          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "Wholly Cats",
-      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
         "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
         "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
       },
@@ -1095,6 +1071,30 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        },
+        {
+          "name": "Charlie Christian",
+          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
+        },
+        {
+          "name": "Benny Goodman Sextet",
+          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
+        }
+      ],
+      "duration_ms": 182653,
+      "name": "Wholly Cats",
+      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
         "name": "Vital Techtones",
         "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
-      },
-      "artists": [
-        {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
         "name": "Hand-Crafted Swing",
         "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
       },
@@ -1155,22 +1139,6 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Imaginary Day",
-        "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
-        }
-      ],
-      "duration_ms": 584760,
-      "name": "The Heat of the Day",
-      "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
         "name": "Rambler",
         "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
       },
@@ -1183,6 +1151,38 @@
       "duration_ms": 492266,
       "name": "Rambler",
       "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
+        "name": "Imaginary Day",
+        "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "duration_ms": 584760,
+      "name": "The Heat of the Day",
+      "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Dialogues",
-        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
-      },
-      "artists": [
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        },
-        {
-          "name": "Joachim Schoenecker",
-          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 661106,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
+      },
+      "artists": [
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Joachim Schoenecker",
+          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
     },
     {
       "added_at": "2022-10-06 07:29:28",

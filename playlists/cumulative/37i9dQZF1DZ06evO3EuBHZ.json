@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 305893,
       "name": "Everything Gonna Be Alright",
       "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 133160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7H8a0ZcXknPTS3myoea6cE"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 156200,
       "name": "How Come",
       "url": "https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 305040,
       "name": "I Feel the Way I Feel",
       "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 105426,
       "name": "I Smell a Rat",
       "url": "https://open.spotify.com/track/6ZNk5OwHUQereZqnUZClqX"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 166200,
       "name": "Let Your Tears Fall Baby",
       "url": "https://open.spotify.com/track/4jaIplVCcJyNzTzFi3DOj1"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 208213,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
@@ -840,6 +840,24 @@
     },
     {
       "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348081,
+      "name": "My Baby Left Me - Live",
+      "url": "https://open.spotify.com/track/5kCcsWPQ78fqUdAJqmRmJ6"
+    },
+    {
+      "album": {
         "name": "I Smell a Rat",
         "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
       },
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 160853,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6tnOqc5lsMQYqfvo7wVWk7"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 161440,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 172906,
       "name": "Yes, Baby",
       "url": "https://open.spotify.com/track/6pbty1OxEC31a2NdhiHhbq"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 163818,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/76Q5gNEm1yxP7NDzdo2aOp"

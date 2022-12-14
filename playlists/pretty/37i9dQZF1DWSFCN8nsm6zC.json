@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 20457,
+  "num_followers": 20478,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMDgxMjY0YWQ1YWVlODcyNzMxMDI3ZTU3YjJkOGJhYzJj",
+  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMGQ3Yzg5ZmU2ODg1OTU5NDAyNzU3MjZlMDNiODZkMjE2",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "New Miserable Experience",
-        "url": "https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f"
-      },
-      "artists": [
-        {
-          "name": "Gin Blossoms",
-          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Hey Jealousy",
-      "url": "https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Resident Alien",
         "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 299506,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "New Miserable Experience",
+        "url": "https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f"
+      },
+      "artists": [
+        {
+          "name": "Gin Blossoms",
+          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Hey Jealousy",
+      "url": "https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy"
     },
     {
       "added_at": "2022-06-30 18:55:35",

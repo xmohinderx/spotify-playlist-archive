@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,798 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,800 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 84 | [Be Alright](https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Be Alright](https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr) | 3:13 |
 | 85 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
 | 86 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/7HqvttVInqkHNPlR4Nj4M9) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Showdown \(with Collie Buddz\)](https://open.spotify.com/album/3dDZbo4w9CxQ5OVwqJrXdO) | 4:25 |
-| 87 | [Lemonade](https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade](https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr) | 2:51 |
-| 88 | [Catching Lightning](https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:16 |
+| 87 | [Catching Lightning](https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:16 |
+| 88 | [Lemonade](https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade](https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr) | 2:51 |
 | 89 | [Blacklist \(with Matisyahu\)](https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Mood Swing](https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY) | 3:26 |
 | 90 | [The Game](https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:33 |
 | 91 | [Island Time](https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Island Time](https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh) | 4:18 |
 | 92 | [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 |
 | 93 | [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 |
-| 94 | [Space and Time](https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:34 |
-| 95 | [Love Letter](https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt) | 3:33 |
+| 94 | [Love Letter](https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt) | 3:33 |
+| 95 | [Space and Time](https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:34 |
 | 96 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 |
 | 97 | [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 |
 | 98 | [I Like the Way You Roll \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 2:23 |
 | 99 | [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 |
-| 100 | [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 |
+| 100 | [Let It All Out](https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bret Bollinger](https://open.spotify.com/artist/2dmKeby7UGSfbbxX5y5aAu), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Let It All Out](https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl) | 4:35 |
 
-Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMDlhN2ZhN2YyM2UwYTA2ZGE1ZDM4MjBhZmY0Zjg4NDU2`
+Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMDM2YmQwOTQyMDRkNDlmMjUwODI4ZDU0NWUyNmQzNDdh`

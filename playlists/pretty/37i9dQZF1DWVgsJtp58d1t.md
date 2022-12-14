@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from SZA, Metro Boomin, Babyface Ray, Pheelz, Lion Babe, Latto, Zulu, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,322 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,475 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 27 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 |
 | 28 | [YOU.](https://open.spotify.com/track/4WcrK8lbJIuo3vBTlUZ8o4) | [Mamadou.](https://open.spotify.com/artist/2qlAceDoD1gfvRyVa7p5bK) | [YOU.](https://open.spotify.com/album/5rx3OLeBZfAIJ8ddxk4Lib) | 3:31 |
 | 29 | [is this real life?](https://open.spotify.com/track/3c7jfhoHw5LLp9OrwhanQh) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [is this real life?](https://open.spotify.com/album/04Xf8kg1pUJ2pGOQ7JDoRz) | 4:25 |
-| 30 | [Miss U Already](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
+| 30 | [Miss U Already \(feat\. NoCap\)](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
 | 31 | [Pineapple Rum](https://open.spotify.com/track/21d0XJv85ftAbiv1IDiB3f) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Pineapple Rum](https://open.spotify.com/album/4rsNwdanR8Gi7YLTya9pRB) | 3:15 |
 | 32 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 |
 | 33 | [Drop Off](https://open.spotify.com/track/38bgf6do56GuZQZfBnKfH3) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Drop Off](https://open.spotify.com/album/44B8aoG9cCvnb4bmLCheap) | 2:32 |

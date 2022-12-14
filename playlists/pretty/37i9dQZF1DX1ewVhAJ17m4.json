@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 536340,
+  "num_followers": 536468,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDdiYWJiNWI5NDRmMDViN2MyNDJmYjE4Y2YzNWUwZmYy",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDJjNDFmYzE5MjlhMzZiOGU1NGNhOTk3NTA3ZGViM2Y4",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d"
+      },
+      "artists": [
+        {
+          "name": "Aryia",
+          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
+        }
+      ],
+      "duration_ms": 191145,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 161683,
       "name": "Seeing Red (with Dusty Locane & Rah Swish)",
       "url": "https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "2009",
-        "url": "https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d"
-      },
-      "artists": [
-        {
-          "name": "Aryia",
-          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
-        }
-      ],
-      "duration_ms": 191145,
-      "name": "2009",
-      "url": "https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 195688,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "A Session With My Therapist",
-        "url": "https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV"
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
       },
       "artists": [
         {
-          "name": "Aryia",
-          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
         }
       ],
-      "duration_ms": 199666,
-      "name": "A Session With My Therapist",
-      "url": "https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU"
+      "duration_ms": 195688,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -907,6 +891,22 @@
       "duration_ms": 154830,
       "name": "Careless Kind",
       "url": "https://open.spotify.com/track/3h8L8qrK6GzE5JoHjOU9Oz"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "A Session With My Therapist",
+        "url": "https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV"
+      },
+      "artists": [
+        {
+          "name": "Aryia",
+          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "A Session With My Therapist",
+      "url": "https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 217094,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "SiCK ABOuT U",
         "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 188387,
       "name": "SiCK ABOuT U",
       "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 217094,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1075,18 +1075,34 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "WE'RE NOT STRANGERS",
-        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
       "artists": [
         {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
         }
       ],
-      "duration_ms": 138720,
-      "name": "WE'RE NOT STRANGERS",
-      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
+      "duration_ms": 179175,
+      "name": "Teenage Runaways",
+      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 163285,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6kUqtwGftq5d2kzlH3Eh9t"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx"
+        "name": "WE'RE NOT STRANGERS",
+        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
       },
       "artists": [
         {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
         }
       ],
-      "duration_ms": 163285,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6kUqtwGftq5d2kzlH3Eh9t"
+      "duration_ms": 138720,
+      "name": "WE'RE NOT STRANGERS",
+      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1151,22 +1167,6 @@
       "duration_ms": 177755,
       "name": "Bowser's Castle",
       "url": "https://open.spotify.com/track/7KGCp5rReukE5rsPhoF8wJ"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 179175,
-      "name": "Teenage Runaways",
-      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Best Kept Secret",
-        "url": "https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 148753,
-      "name": "Best Kept Secret",
-      "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "The King and Queen of Gasoline",
         "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 201612,
       "name": "I Fell in Love With Someone I Shouldn't Have",
       "url": "https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Best Kept Secret",
+        "url": "https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 148753,
+      "name": "Best Kept Secret",
+      "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
     },
     {
       "added_at": "2022-11-10 17:53:01",

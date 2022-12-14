@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 115138,
       "name": "#miles",
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
@@ -1749,6 +1749,24 @@
       "duration_ms": 85094,
       "name": "Care",
       "url": "https://open.spotify.com/track/7yMZ5Xa4TDQo3dLlDRCwfm"
+    },
+    {
+      "album": {
+        "name": "I Want to Die In New Orleans",
+        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203897,
+      "name": "Carrollton",
+      "url": "https://open.spotify.com/track/2XSrt1dcuOXPgl3B4bxmBz"
     },
     {
       "album": {
@@ -5591,7 +5609,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 149861,
       "name": "lying awake at night",
       "url": "https://open.spotify.com/track/2WrzzEli411E3VBQGBTOIj"
@@ -5815,7 +5833,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 162196,
       "name": "miles (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
@@ -6616,6 +6634,24 @@
     },
     {
       "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150241,
+      "name": "Out th\u00eb way",
+      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
+    },
+    {
+      "album": {
         "name": "2 Aliv\u00eb",
         "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
       },
@@ -7199,7 +7235,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 128210,
       "name": "Raver Explanation - Blaketheman1000 Remix",
       "url": "https://open.spotify.com/track/2G3v3gvkwOOBopXERNe4vd"

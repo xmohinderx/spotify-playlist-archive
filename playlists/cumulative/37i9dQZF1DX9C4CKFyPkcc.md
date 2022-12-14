@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-157 songs - 9 hr 18 min - not published yet
+158 songs - 9 hr 21 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Here to Stay](https://open.spotify.com/track/1bEw72sYBtcZarQ3pstrmc) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq), [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas Eve in Bethlehem \(Deluxe Edition\)](https://open.spotify.com/album/2zpe0u6jgqTdlxZWo92MYa) | 3:38 | 2021-12-24 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6V0o74Ptf4aygUPCT2Wdcu) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More The Merrier](https://open.spotify.com/album/7o83BpMH6xfIhOfDGxLcpa) | 2:21 | 2021-12-24 |  |
 | [Home](https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Home](https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP) | 3:32 | 2021-12-24 |  |
-| [Hope's Come to Town](https://open.spotify.com/track/76yElxLOh6tjCQTQrLKxXJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Lovkn Christmas: Awaited One](https://open.spotify.com/album/2OlK6S3FFUPYYNzXTzisXE) | 3:08 | 2021-12-24 |  |
+| [Hope's Come to Town](https://open.spotify.com/track/76yElxLOh6tjCQTQrLKxXJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Lovkn Christmas: Awaited One](https://open.spotify.com/album/2OlK6S3FFUPYYNzXTzisXE) | 3:08 | 2021-12-24 | 2022-12-14 |
 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 | 2021-12-24 |  |
 | [I Don't Want Christmas to End](https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [I Don't Want Christmas to End](https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj) | 3:49 | 2021-12-24 |  |
 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 | 2021-12-24 |  |
@@ -151,6 +151,7 @@
 | [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-11-26 |  |
 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 | 2021-12-24 |  |
 | [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 |  |
+| [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 |  |
 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 | 2022-11-26 |  |
 | [We Need A Little Christmas](https://open.spotify.com/track/0tuY26eUFAtEWxVrj5fojS) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 2:26 | 2021-12-24 |  |
 | [Welcome to Our World](https://open.spotify.com/track/1wAMMKFVZJ3AHgGCvYMBpK) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Welcome To Our World](https://open.spotify.com/album/2Xl3s1pssq11jtDsQYOEdm) | 4:07 | 2022-12-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover: Siilawy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,004 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,088 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 36 | [Fi Hada](https://open.spotify.com/track/5zVJCIdTu3TTJ7wmPEW7in) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Fi Hada](https://open.spotify.com/album/1pkn5htK7BJJ5Mw7QB3kVp) | 3:39 |
 | 37 | [Keef Bensa](https://open.spotify.com/track/0uwOOnge02dhkX4kPl7Kkk) | [Nour Helou](https://open.spotify.com/artist/2XBpyKrz8Ys34tU7baEoxO) | [Keef Bensa](https://open.spotify.com/album/3hFV4MTmLw5Np8xwGLgqx4) | 2:58 |
 | 38 | [Habibi Wayno](https://open.spotify.com/track/2nZKHO69mzHL9GtNWzAKpy) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Habibi Wayno](https://open.spotify.com/album/4zx5oNdg8pKaq6NbD3ZYJI) | 4:46 |
-| 39 | [3A Faw2a](https://open.spotify.com/track/0boYXcfTfncE3Fj1NC7Idd) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [3A Faw2a](https://open.spotify.com/album/62IKmEjQBPbHReySk6hAg8) | 3:26 |
+| 39 | [Malek Ya Tara](https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Malek Ya Tara](https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB) | 3:15 |
 | 40 | [Al Kawn Janni Maak](https://open.spotify.com/track/404zVDendZybr93Pue8nmf) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:15 |
-| 41 | [Malek Ya Tara](https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Malek Ya Tara](https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB) | 3:15 |
+| 41 | [3A Faw2a](https://open.spotify.com/track/0boYXcfTfncE3Fj1NC7Idd) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [3A Faw2a](https://open.spotify.com/album/62IKmEjQBPbHReySk6hAg8) | 3:26 |
 | 42 | [Ouloulou](https://open.spotify.com/track/40zTo5mvJkAcuJwbXnOk2L) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Ouloulou](https://open.spotify.com/album/3cBrY3ZEt3CQEeTpW3Gr3m) | 3:23 |
 | 43 | [Shou Bado](https://open.spotify.com/track/2JPuzf3Fh445IZhJJsngw1) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Shou Bado](https://open.spotify.com/album/6151WNydXX3f5cJ5YtbnF3) | 3:24 |
 | 44 | [Omer Aasal](https://open.spotify.com/track/3zs3QaM0KhK0mSpfALvTJx) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Omer Aasal](https://open.spotify.com/album/4KByAcRNbV77pOgnlC9Hd6) | 3:41 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 50 | [ملحم زين ونور الزين \(feat\. Noor Al Zain\)](https://open.spotify.com/track/66pcEVrz1i9un38OpJvGXW) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0), [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [ملحم زين ونور الزين \(feat\. Noor Al Zain\)](https://open.spotify.com/album/2sPvLAdwUWpMFWaiL4Z8Gm) | 2:46 |
 | 51 | [Kifak Enta](https://open.spotify.com/track/61k5XrVEJdOD5vCXcjBKF7) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Aman](https://open.spotify.com/album/3XPWs3JfOkQCp018108l5q) | 3:44 |
 | 52 | [Aam Yes2alou](https://open.spotify.com/track/4hRCy0hLfHYLlKHEF5JG4N) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v) | [Aam Yes2alou](https://open.spotify.com/album/3gpZeTfb6sfhSHu1KDTLtq) | 3:32 |
-| 53 | [El Wadaa El Hali](https://open.spotify.com/track/2y3fmNdELZAqBmodgJneVz) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [El Wadaa El Hali](https://open.spotify.com/album/2QOFwnKnOXIeNQcn9AqShc) | 2:20 |
-| 54 | [Erjaa Shoufak](https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:47 |
+| 53 | [Erjaa Shoufak](https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:47 |
+| 54 | [El Wadaa El Hali](https://open.spotify.com/track/2y3fmNdELZAqBmodgJneVz) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [El Wadaa El Hali](https://open.spotify.com/album/2QOFwnKnOXIeNQcn9AqShc) | 2:20 |
 | 55 | [Majnounik](https://open.spotify.com/track/1N7leiwIOMHcMV3ikRgIkB) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Majnounik](https://open.spotify.com/album/5Ux1hgdVaogAR5XuxGD2SI) | 2:59 |
 | 56 | [Ana Maik](https://open.spotify.com/track/4yPhaq2WJyOvTmgbImV5fG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ana Maik](https://open.spotify.com/album/5DSufZLwmcV60H7V47eZp2) | 3:15 |
 | 57 | [Aleb Albi](https://open.spotify.com/track/36jmUC55efoLTEheXaNZOp) | [Karim Nour](https://open.spotify.com/artist/5HArEmaE0ebTGJnUpurfIo) | [Aleb Albi](https://open.spotify.com/album/6bmVNmHt840K2iWz3F4UN4) | 3:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 59 | [Wen Wen](https://open.spotify.com/track/3EN1SgNhN2VzewMpYglMKh) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Wen Wen](https://open.spotify.com/album/1WZvUCn06pvksWG9ZNHata) | 3:15 |
 | 60 | [Weinak](https://open.spotify.com/track/4OsDW6scGeKCLjhjr7pFQI) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [Weinak](https://open.spotify.com/album/4MLPuCdNMwTZ2S1sDp6xg3) | 3:33 |
 
-Snapshot ID: `MTY2NjUxMzY3MiwwMDAwMDAwMDQ4ZjYzYjhlNDY0ZTE2MGIwODQwN2U2YjA5Mzc3YWU5`
+Snapshot ID: `MTY2NjUxMzY3MiwwMDAwMDAwMDBkZGVhZTZkYmU2ZDc2ODBlOTJhM2NjOTJlYmRjOGQx`

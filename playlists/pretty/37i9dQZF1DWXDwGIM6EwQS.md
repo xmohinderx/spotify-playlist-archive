@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 
 > pov: you're crying and dancing at the same time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,390 likes - 64 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,572 likes - 64 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 32 | [La Última Canción](https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:04 |
 | 33 | [Te Conoci Perriando](https://open.spotify.com/track/68UxtmtQa5wiUa0sbpPvgd) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:10 |
 | 34 | [Desenfocao'](https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:50 |
-| 35 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 |
-| 36 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
+| 35 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
+| 36 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 |
 | 37 | [Llorando en la Limo \(feat\. Alizzz\)](https://open.spotify.com/track/3YURfhPPT7GipmI7pIj0m3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Avida Dollars](https://open.spotify.com/album/3xFCSN4oKeJE1lJ2c5KLZQ) | 2:19 |
 | 38 | [El Fin del Mundo](https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [El Fin del Mundo](https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN) | 3:08 |
 | 39 | [ATEO](https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 2:18 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 50 | [ADMV \- Versión Urbana](https://open.spotify.com/track/3wBKCNw7BFIalnqe4VXzdK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV \(Versión Urbana\)](https://open.spotify.com/album/2icmaSfpEsztZeSqmlOOtz) | 3:05 |
 | 51 | [¿Cuándo Fue?](https://open.spotify.com/track/4ZNKaE8fcrtDPsRK8RkQIs) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:48 |
 | 52 | [Baby](https://open.spotify.com/track/37oaImGdDkQgIIUZDvFGdr) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:44 |
-| 53 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 |
-| 54 | [Ya no siento nada](https://open.spotify.com/track/3JUaCIDpLc2kmY86lCm3aT) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 3:12 |
+| 53 | [Ya no siento nada](https://open.spotify.com/track/3JUaCIDpLc2kmY86lCm3aT) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 3:12 |
+| 54 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 |
 | 55 | [Yate](https://open.spotify.com/track/1MXss9WwWiRXG6ofSDtkIw) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño \(La Sobremesa\)](https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz) | 3:25 |
 | 56 | [Wu Wu](https://open.spotify.com/track/4qUBWszQ0OOSVw2ik497YS) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Corazón Cromado](https://open.spotify.com/album/06K7B814dzQ3XUaszFMO02) | 3:27 |
 | 57 | [lamento de una supernova](https://open.spotify.com/track/0ywEg4HD0NOK51AsYtteaa) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [lamento de una supernova](https://open.spotify.com/album/1vo75fDu4dQ8NYUnSOYN8P) | 2:27 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 63 | [Vete](https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vete](https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN) | 3:12 |
 | 64 | [Soliá](https://open.spotify.com/track/7sOfmPd18RWp3FoCzpa7Kw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:39 |
 
-Snapshot ID: `MTY2NjYzMTY1MCwwMDAwMDAwMGE3MjJmODE0MWRkNjMyYzE1NWYzZjc0ZGY1ZjQ1YTlm`
+Snapshot ID: `MTY2NjYzMTY1MCwwMDAwMDAwMDZmYzZjYmQzOTFlMWYyMzFjNjI5ZDQ3Y2QyYTAyZWNm`

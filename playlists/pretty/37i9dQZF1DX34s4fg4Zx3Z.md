@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Hay nhất từ Fresh Finds Vietnam 2022\. Ảnh bìa: Winno
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,489 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,505 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 14 | [Mai Về](https://open.spotify.com/track/4K9pEXPOH7GwBkfBfn7bBW) | [Dfoxie37](https://open.spotify.com/artist/4zg9WrDAFl1dGh2eSWLnOG), [Myhai](https://open.spotify.com/artist/6SECEHj3VXuc2JP9FmSwiZ) | [Mai Về](https://open.spotify.com/album/1e2eM8MOgpmvsaSoa1gqi2) | 5:00 |
 | 15 | [Hạnh Phúc Mới](https://open.spotify.com/track/7MqBESTeRdYeAFYTOT0t3p) | [Erin](https://open.spotify.com/artist/2KFqKJvmyR5FRdW2Ww8YeY) | [Hạnh Phúc Mới](https://open.spotify.com/album/35VklGLk1ovDfPTb11krbL) | 4:54 |
 | 16 | [Đâu Ai Dám Hứa](https://open.spotify.com/track/0lPAHloMDJcbdp9m7Xyjr1) | [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Đâu Ai Dám Hứa](https://open.spotify.com/album/3r8Skpiwqj8DlWPmtKF5XH) | 3:44 |
-| 17 | [Xem Như Anh Chẳng May](https://open.spotify.com/track/2rIFRse00Znv6FfpQBdthx) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Xem Như Anh Chẳng May](https://open.spotify.com/album/0KHpdLLlsjcwycvDMehkV4) | 3:25 |
+| 17 | [Xem Như Em Chẳng May](https://open.spotify.com/track/4SPOVg01rifoVDdFWL6qUC) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Xem Như Em Chẳng May](https://open.spotify.com/album/0aWK7xO0bck89id69aWvWf) | 3:25 |
 | 18 | [Anh Sẽ Để Em Đi](https://open.spotify.com/track/1UeVJLJUHT58veYBDHDSgI) | [Kidz](https://open.spotify.com/artist/6wZ01tGqWDyJ6vykbeaIFA) | [Anh Sẽ Để Em Đi](https://open.spotify.com/album/7uGgIMxBBEHnWgY7NekCPd) | 1:36 |
 | 19 | [Tell Ur Mom II](https://open.spotify.com/track/3BdWKCax105ZXBIyFMOghF) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Heily](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk) | [Tell Ur Mom II](https://open.spotify.com/album/3Ag88b5IoMaDr2sMCjp1M9) | 3:39 |
 | 20 | [Phỏng Lài Em](https://open.spotify.com/track/6BwhuhBwhQH1UFcQY5MMPU) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Dipper](https://open.spotify.com/artist/7KdcPj1wOw7zf4ijzUjajW) | [Phỏng Lài Em](https://open.spotify.com/album/0QYSbz0VmXE1IJ70Z4GJ4f) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Ngọt Như Cherry \(feat\. Hằng Bơ\)](https://open.spotify.com/track/6ThTWv8l257SaiRULWjIdC) | [Ahn](https://open.spotify.com/artist/3KMl4axmm1nAW7ASB8vXFT), [Hằng Bơ](https://open.spotify.com/artist/5CyYSwHf4gGYqos834MWme) | [Ngọt Như Cherry](https://open.spotify.com/album/3xd47RGKaWQm1pEaoaDIt0) | 3:52 |
 | 100 | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/track/0yJ6z2SkZj3to9AfOXyUeS) | [Fong](https://open.spotify.com/artist/5Y9b5Ez8MKbGOdRGF9exkq), [Zxdiac](https://open.spotify.com/artist/2JdXVtDSwx0INNNd4pyZYI) | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/album/5Vt6QOKttJbwHIYvBlkvff) | 3:31 |
 
-Snapshot ID: `MTY2OTg2Njg3NiwwMDAwMDAwMDU3ZjMzY2FjN2I0MWZjN2NhOWNiYzMxYzQyYTdiYjk3`
+Snapshot ID: `MTY2OTg2Njg3NiwwMDAwMDAwMDg0YzcwZWZhMGJjNDYwNjMxZjE3MGQ3NzhmZDg4M2Q3`

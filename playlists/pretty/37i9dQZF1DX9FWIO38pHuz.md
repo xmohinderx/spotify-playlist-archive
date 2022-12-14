@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,617 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,652 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

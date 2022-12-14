@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=5dwnc1j\_SByNOTWWBcCBTw" > Oxlade </a>  and <a href="https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF?si=\-VO0zRASTJ2xWVgc64LZsA" > Camila Cabello </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,729 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,747 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

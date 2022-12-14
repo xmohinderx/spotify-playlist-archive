@@ -4,10 +4,11 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-660 songs - 1 day 11 hr 52 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+662 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3 Saal](https://open.spotify.com/track/3ArpigFsF6ipOYVpzeDQRC) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [3 Saal](https://open.spotify.com/album/5EkE6jP3IpBWwPaba463Fk) | 2:54 | 2022-12-13 |  |
 | [7 Janam](https://open.spotify.com/track/6la9hchXWt6n7m3YNIWbs3) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gaurrav Kakkarr](https://open.spotify.com/artist/29I8D8JWG00UE4zbZ1BkpY), [Ankita Saili](https://open.spotify.com/artist/2Q1yqRJQjjlQCmAcQafCgs) | [7 Janam \(From "Rowdy Singh"\) \- Single](https://open.spotify.com/album/3ia41o4ofgZmdllpZCOTIj) | 3:26 | 2022-08-31 | 2022-09-03 |
 | [7 Phase](https://open.spotify.com/track/70lW1RWUMfDm5yCveoBx7l) | [Hapee Boparai](https://open.spotify.com/artist/2nDlRwnqU2G7R66rFpafGT) | [Seven](https://open.spotify.com/album/11aqRgdZhGIZ9VYJ2Cq4jZ) | 2:17 | 2022-07-15 | 2022-08-18 |
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-02 | 2022-02-05 |
@@ -18,6 +19,7 @@
 | [Aakad](https://open.spotify.com/track/5LpaK0acRyI2s10rBQg7Gk) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Aakad](https://open.spotify.com/album/1vrZ966dlxBaZf3xC5tzzW) | 3:48 | 2022-02-04 | 2022-02-12 |
 | [Aam Jahi](https://open.spotify.com/track/2VAdTh3AbLEOorEPCKBini) | [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Redleaf Music](https://open.spotify.com/artist/0bcbRa0jM5n7NJDLvB5QBy) | [Aam Jahi](https://open.spotify.com/album/2StecmOF61gAUsiEyvobIg) | 3:16 | 2022-12-07 |  |
 | [Addiction](https://open.spotify.com/track/0DnFtj3aBIRyDix0Y3lg9v) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:55 | 2022-09-20 |  |
+| [Addiction](https://open.spotify.com/track/7ezpJeI9SGZIFKUuVtCG54) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [DJ Prodiigy](https://open.spotify.com/artist/6oM8rsauPkS4qGGClTv5F4), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Addiction](https://open.spotify.com/album/3XA6nulTKCmLSmnGeF8nf7) | 2:43 | 2022-12-13 |  |
 | [Adhi Raat \- From "Love Thunder"](https://open.spotify.com/track/1aSnOIDf1IxVuSDNWmDkff) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Adhi Raat \(From "Love Thunder"\)](https://open.spotify.com/album/47vOI472akK6HkuR3Odtn5) | 3:33 | 2022-09-16 |  |
 | [Adore You](https://open.spotify.com/track/6O0tJTjpI99TQD8bvtM6HM) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Adore You](https://open.spotify.com/album/3XgsHoifkQL6F6K3kMwnYJ) | 2:59 | 2022-05-20 | 2022-07-06 |
 | [Adore You](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 |  |
@@ -539,7 +541,7 @@
 | [Slow\-Mo](https://open.spotify.com/track/5HtPFkvtYUq2ToujMrfFLo) | [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T) | [Slow\-Mo](https://open.spotify.com/album/6Uv5G5GMcHdmAaWMNtZldN) | 3:20 | 2022-03-21 | 2022-04-06 |
 | [Snap](https://open.spotify.com/track/3eSEpDl4g5ZWWAZ1rSJxXm) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Snap](https://open.spotify.com/album/1Zc4roJLxndSHZhxABjsAx) | 2:16 | 2022-08-05 | 2022-08-18 |
 | [Snowfall](https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Snowfall](https://open.spotify.com/album/2YMwWwivQX7z4n3913TPZh) | 3:01 | 2022-10-25 |  |
-| [So Mean](https://open.spotify.com/track/6ZcoJ5gKxEEtJRyMZMDpg3) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Legend](https://open.spotify.com/artist/6kfWfnJROFDAniTJ9DRD4N) | [So Mean](https://open.spotify.com/album/3lGQQMAedaIBUCxvWvBjkW) | 3:27 | 2022-11-23 |  |
+| [So Mean](https://open.spotify.com/track/6ZcoJ5gKxEEtJRyMZMDpg3) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Lejend](https://open.spotify.com/artist/42xdY41c00q4ptS3TrjKIK) | [So Mean](https://open.spotify.com/album/3lGQQMAedaIBUCxvWvBjkW) | 3:27 | 2022-11-23 |  |
 | [Soch Ke Dasangi](https://open.spotify.com/track/3n1unT5HxZ8m4MPWMWXTVD) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [J Kaur](https://open.spotify.com/artist/0S49jG3jDiXwcbZCG4ggZo) | [Soch Ke Dasangi](https://open.spotify.com/album/62qH5eeqLn93yekIX312qm) | 4:14 | 2022-08-04 |  |
 | [Sohna](https://open.spotify.com/track/56MH70mJQMUzmMACys5ePe) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 4:15 | 2022-02-02 | 2022-04-06 |
 | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/track/1hsHE3SjSVrlzAnSK7lKQH) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/album/7iIY4LG4qMEeCRkGfWsk9K) | 2:14 | 2022-04-18 | 2022-04-29 |

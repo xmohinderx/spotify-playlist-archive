@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 ### [THE IDOLM@STER SHINY COLORS アイドルマスター シャイニーカラーズ](https://open.spotify.com/playlist/37i9dQZF1DX9QL9TBCM8cE)
 
-> Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。©︎THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
+> Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,860 likes - 54 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,989 likes - 54 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 53 | [Secret utopIA](https://open.spotify.com/track/6P67pKk2XwDThCH0PI5xlW) | [七草にちか \(CV.紫月杏朱彩\)](https://open.spotify.com/artist/4QBth13tNmPlWh8cwsIMdm) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 |
 | 54 | [Secret utopIA](https://open.spotify.com/track/3OsXQASPOJxYtgFseXp5MF) | [緋田美琴 \(CV.山根 綺\)](https://open.spotify.com/artist/0VJYBd628F6WoLMA7tDX5h) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 |
 
-Snapshot ID: `MTY2OTc4MjM3NiwwMDAwMDAwMGVlOTg2M2NmMDU0MTk4YzY5MzFhMDMxYjEyMzljZjI0`
+Snapshot ID: `MTY3MDg5NzA2NywwMDAwMDAwMDc0NzliNWFlMWM4MzYzN2U3NDFlMTNiYjEyZDA3Yzc3`

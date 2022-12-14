@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Ziza Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,055 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,133 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 36 | [Longe de Deus, Tudo É Ilusão](https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO) | [Deus Anda Comigo](https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e) | 3:43 |
 | 37 | [Gratidão](https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Gratidão](https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G) | 3:57 |
 | 38 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
-| 39 | [Irresistivelmente](https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2022](https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv) | 5:49 |
+| 39 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 |
 | 40 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 41 | [Apenas Barro](https://open.spotify.com/track/6VCtzegvbikThIayNbKMBl) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S) | [Apenas Barro](https://open.spotify.com/album/1SCgr0nIPx6A9mJrH36dT0) | 4:58 |
 | 42 | [Grande Rei](https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd) | [Grande Rei](https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN) | 4:00 |
 | 43 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
 | 44 | [Oceano de Misericórdia](https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ressonhar](https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4) | 4:50 |
 | 45 | [Já Deu Certo](https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Já Deu Certo](https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns) | 4:36 |
-| 46 | [Irmão Jesus](https://open.spotify.com/track/78Jh1AhTQ7wBaogRBY3LWN) | [Pe\. Zezinho, SCJ](https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA), [Andréia Zanardi](https://open.spotify.com/artist/7J53nUJRnaLvulm4dXIriY) | [Irmão Jesus](https://open.spotify.com/album/1rRJBSjPCLvdyYWdzoKVfK) | 5:30 |
-| 47 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 |
+| 46 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 |
+| 47 | [Irmão Jesus](https://open.spotify.com/track/78Jh1AhTQ7wBaogRBY3LWN) | [Pe\. Zezinho, SCJ](https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA), [Andréia Zanardi](https://open.spotify.com/artist/7J53nUJRnaLvulm4dXIriY) | [Irmão Jesus](https://open.spotify.com/album/1rRJBSjPCLvdyYWdzoKVfK) | 5:30 |
 | 48 | [Nada Te Perturbe](https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nada Te Perturbe](https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25) | 3:45 |
-| 49 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 |
+| 49 | [Irresistivelmente](https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2022](https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv) | 5:49 |
 | 50 | [Reinflama](https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL) | [Flavinho](https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4) | [Reinflama](https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I) | 3:51 |
 | 51 | [Nada É Maior](https://open.spotify.com/track/4wkIkeTnQ1eHDQ3ovQIJy1) | [Frei Wilter Malveira, OFMCap](https://open.spotify.com/artist/6Bm0pEtYiZyDEXfcRM8nzM), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Nada É Maior](https://open.spotify.com/album/432dKZfDYsjJ4PatyeYwQm) | 3:23 |
 | 52 | [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Vale a Pena Viver \- Ao Vivo](https://open.spotify.com/track/0h268ATtcBdaQsJYN0WBJk) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Vale a Pena Viver](https://open.spotify.com/album/3MkWIEBXP5Xd0yt99tBruB) | 4:00 |
 | 70 | [Confio em Ti](https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Confio em Ti](https://open.spotify.com/album/2U294zEFql410JNg2dVPf9) | 4:23 |
 
-Snapshot ID: `MTY3MDU2NjgwOCwwMDAwMDAwMGM1Nzc3YzYwOGFkNjE3ZjE2YjY5YjYyYTM4NWEzNTc5`
+Snapshot ID: `MTY3MDU2NjgwOCwwMDAwMDAwMDZiOWU3ODhmMzFjZTkzOGZjN2U1MzAzOTk4OGUzNGQ1`

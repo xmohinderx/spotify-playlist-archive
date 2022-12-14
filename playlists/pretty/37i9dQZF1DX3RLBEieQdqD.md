@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Yeison Jiménez
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,548 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,649 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 22 | [No Me Preguntes](https://open.spotify.com/track/7h5SXPuwGLSIenz3cLpSb6) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 2:51 |
 | 23 | [La Soltería](https://open.spotify.com/track/4i7LiTgRjxjlf8PMwRpxEy) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [La Soltería](https://open.spotify.com/album/7vxm6yeIcA63WUGy39KwAT) | 3:23 |
 | 24 | [Se Te Nota](https://open.spotify.com/track/74jl7R6kG4lfiHY85ay9O1) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Se Te Nota](https://open.spotify.com/album/6tlScITlYfHc5raKEydO1F) | 3:05 |
-| 25 | [Olvídala](https://open.spotify.com/track/7qi8GownCCQrzrTaweqIKD) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/3kjDLcklVkTozCf4miWmRD) | 4:50 |
+| 25 | [Olvídala](https://open.spotify.com/track/06aboDWEiJkyVF2wQu1Lry) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw) | [Olvídala](https://open.spotify.com/album/4a5YLvtRLtPwLwlUugRwT3) | 4:50 |
 | 26 | [Gracias A Ti](https://open.spotify.com/track/6si8DH4KS3qLuC1JEIyCBv) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Gracias A Ti](https://open.spotify.com/album/0gMHccAgjbeyF6HuSm8zPu) | 2:54 |
 | 27 | [Cómo Lo Hizo](https://open.spotify.com/track/5oQ12KlSu359ek2vpJTMX3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 4:04 |
 | 28 | [Que Sea](https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 74 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 |
 | 75 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 |
 
-Snapshot ID: `MTY2NTcyNDA4MCwwMDAwMDAwMDZjZjFhYzVjZTM5NWMyMGY5NmE1ZTJiOWMzYzMzZGI5`
+Snapshot ID: `MTY2NTcyNDA4MCwwMDAwMDAwMDA2NjE0YTA2YTIwNmJmMzkxOGM0ZjQ5Y2ZlZjY3YTIw`

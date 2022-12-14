@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Bring Me The Horizon
 
-141 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
+142 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,13 +38,14 @@
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-26 |  |
 | [Black Brick](https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Black Brick](https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq) | 7:27 | 2021-12-20 |  |
 | [Bleed Like You \- Merzbow Version](https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2) | [Mortiis](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Bleed Like You](https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj) | 4:57 | 2021-12-20 |  |
-| [Breaks](https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE) | [Gone Is Gone](https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg) | [Breaks](https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP) | 3:55 | 2021-12-20 |  |
+| [Breaks](https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE) | [Gone Is Gone](https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg) | [Breaks](https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP) | 3:55 | 2021-12-20 | 2022-12-14 |
 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 | 2021-12-20 |  |
 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 | 2021-12-20 |  |
 | [Caterpillar](https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Caterpillar](https://open.spotify.com/album/1su4sMJNmHerXssClObphO) | 3:25 | 2021-12-20 |  |
 | [Citadel](https://open.spotify.com/track/3lKhI43QIxljVRKBGANx7d) | [Inter Arma](https://open.spotify.com/artist/5ZG7r3Jg0Y1hGQRMQ8hdRs) | [Citadel](https://open.spotify.com/album/0mSUgzFeuAj79O1hweNT0X) | 6:40 | 2021-12-20 | 2022-03-11 |
 | [Concept Unification](https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql) | [Pinkish Black](https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP) | [Concept Unification](https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc) | 5:13 | 2021-12-20 | 2022-11-19 |
 | [Contact](https://open.spotify.com/track/2szivijUpHHwYvWqLX17lt) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik \(Instrumental Version\)](https://open.spotify.com/album/0ls6oNzxhpHiezAvIgo1uO) | 3:34 | 2022-09-29 | 2022-11-13 |
+| [Contact](https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP) | 3:34 | 2022-11-18 |  |
 | [Contact](https://open.spotify.com/track/57VzB0aPVjJ7Pfprw21b53) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/4thEO0PIlNvc1txIfO0LA5) | 3:34 | 2021-12-20 | 2022-07-29 |
 | [Contact](https://open.spotify.com/track/6WTb67YHPih0UCVxXGLDKn) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5Kx3hP0LhUKsnD1TY0DArM) | 3:34 | 2022-07-26 | 2022-12-04 |
 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 | 2021-12-20 |  |

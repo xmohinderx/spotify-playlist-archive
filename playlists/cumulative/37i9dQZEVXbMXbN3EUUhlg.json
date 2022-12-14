@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 169771,
       "name": "Acordo - Ao Vivo",
       "url": "https://open.spotify.com/track/0tM4J8aID6qYZOE3e14sCj"
@@ -2321,7 +2321,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 171077,
       "name": "Cheiro de Balada - Ao Vivo",
       "url": "https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh"
@@ -4279,7 +4279,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 204937,
       "name": "Fala Mal de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/6gEOM9IEBzvTdbwNrSkBdC"
@@ -7062,6 +7062,32 @@
     },
     {
       "album": {
+        "name": "Namora A\u00ed",
+        "url": "https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Namora A\u00ed",
+      "url": "https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E"
+    },
+    {
+      "album": {
         "name": "Tudo Em Paz",
         "url": "https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL"
       },
@@ -7153,7 +7179,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 183870,
       "name": "No Ouvidinho",
       "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
@@ -7513,7 +7539,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 155771,
       "name": "N\u00c9 SEGREDO",
       "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
@@ -7707,7 +7733,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Papo de Agustinho",
       "url": "https://open.spotify.com/track/5cCwZJUf8QiCQGnyakhpmF"
@@ -8571,7 +8597,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 146823,
       "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
@@ -8790,7 +8816,7 @@
         },
         {
           "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4"
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
         },
         {
           "name": "Mc Davi",
@@ -10749,7 +10775,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 191523,
       "name": "Vai L\u00e1 Em Casa Hoje",
       "url": "https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY"
@@ -10811,7 +10837,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 250434,
       "name": "Vampiro",
       "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"

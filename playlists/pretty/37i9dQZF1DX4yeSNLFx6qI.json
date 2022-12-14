@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1711780,
+  "num_followers": 1711963,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGUwYzQ0M2ExMGZkMWM4YjM4ZGQ5OTE5ZjQxNTUwZTFm",
+  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMDI5Y2IyNjE0YmIxMWEwYzdkM2NmOGVhYjkyOWU0ZGZk",
   "tracks": [
     {
       "added_at": "2022-08-31 06:52:27",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "De M\u00e9xico",
-        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 199140,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 92539,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "De M\u00e9xico",
+        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 199140,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 182413,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Saturno",
-        "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
+      "duration_ms": 224333,
+      "name": "No Quer\u00edas Lastimarme",
+      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
+        "name": "Saturno",
+        "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 224333,
-      "name": "No Quer\u00edas Lastimarme",
-      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "20 -- 21",
-        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 164380,
-      "name": "Con la Falta Que Me Haces",
-      "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Lo Que Me D\u00e9 la Gana",
         "url": "https://open.spotify.com/album/7wtZmmV9IngZcM71QUBUgL"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 229630,
       "name": "Avioncito de Papel",
       "url": "https://open.spotify.com/track/3NotbAoyN09CuKaqWQP48U"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "20 -- 21",
+        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 164380,
+      "name": "Con la Falta Que Me Haces",
+      "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Verano, por siempre",
         "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 176000,
       "name": "una luz",
       "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Tiempo Pa Olvidar",
         "url": "https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 199521,
       "name": "Tiempo Pa Olvidar",
       "url": "https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 198252,
-      "name": "Ya No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4gXkuUnAzsdBmhgUblNdtc"
+      "duration_ms": 189240,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1543,34 +1543,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g"
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 189240,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
-        "url": "https://open.spotify.com/album/2lgGsWvn6GO3xsWHiwbcOF"
-      },
-      "artists": [
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        }
-      ],
-      "duration_ms": 238458,
-      "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
-      "url": "https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay"
+      "duration_ms": 198252,
+      "name": "Ya No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4gXkuUnAzsdBmhgUblNdtc"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1611,6 +1595,22 @@
       "duration_ms": 246840,
       "name": "Devuelveme la Vida (with Antonio Orozco)",
       "url": "https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
+        "url": "https://open.spotify.com/album/2lgGsWvn6GO3xsWHiwbcOF"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "duration_ms": 238458,
+      "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
+      "url": "https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 158873,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 196626,
       "name": "Atado Entre Tus Manos",
       "url": "https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 158873,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1"
     },
     {
       "added_at": "2022-08-31 06:52:27",

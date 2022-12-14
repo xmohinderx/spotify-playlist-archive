@@ -4,7 +4,7 @@
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Johnny Drille
 
-285 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
+286 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2021-10-14 |  |
 | [Paralysed](https://open.spotify.com/track/0xj0FbSGbOmSsryG7K5beu) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Paralysed](https://open.spotify.com/album/0dL3l4iXTpt1eQA6mFFAMG) | 4:09 | 2021-10-14 | 2022-02-07 |
 | [Peace of Mind](https://open.spotify.com/track/6NtOTnvDhbzaxpxkjBEx8x) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Peace of Mind](https://open.spotify.com/album/0RioIfaQpJxkbm9USMJ1fU) | 2:02 | 2021-10-14 | 2022-03-22 |
+| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2022-12-14 |  |
 | [Personal](https://open.spotify.com/track/5ssk3dDkHdrwmPveDQivd7) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Personal](https://open.spotify.com/album/2E7XGBsMRwSvpvY2O6OuPB) | 2:47 | 2022-02-10 | 2022-02-14 |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-09-24 |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-25 |  |
@@ -250,7 +251,7 @@
 | [SWEET N FINE](https://open.spotify.com/track/7c0hHxIw1Y22nbYm917f6J) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:34 | 2022-03-11 | 2022-07-25 |
 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 | 2021-10-14 | 2022-07-29 |
 | [Temptation](https://open.spotify.com/track/1DxQFCBRYmnL9P2SJfHCml) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Temptation](https://open.spotify.com/album/7lkc6V0wruV3n2VO8nL71D) | 2:46 | 2021-12-02 |  |
-| [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-10-14 |  |
+| [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-10-14 | 2022-12-14 |
 | [The Tree](https://open.spotify.com/track/6c2umqQ4F1T25KnEmMHdH2) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [TiwaDara](https://open.spotify.com/artist/1Jfw9YM2tAEb83GAEyiDvo) | [The Tree](https://open.spotify.com/album/13j4qj9QUkDjcUA8TNsKwP) | 3:00 | 2021-11-18 | 2022-02-18 |
 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 | 2021-10-14 | 2022-09-24 |
 | [THINKING](https://open.spotify.com/track/41XqpDcepbryNYVyLzpVMa) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Love & Isolation](https://open.spotify.com/album/4sMkAZXTXdtFikLhLqviyZ) | 2:29 | 2021-10-14 | 2022-02-07 |

@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-162 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/4pr4mU2uzG9Ws0D5WIoeQn)
+163 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/4pr4mU2uzG9Ws0D5WIoeQn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Kick Back \- slowed and reverbed](https://open.spotify.com/track/5hrV1NiNUBXbIpuIDizwcG) | [LOTU$](https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU), [Chicage](https://open.spotify.com/artist/3ifSLh9XOq2zWejn95G5KR) | [purple paradise](https://open.spotify.com/album/5n2IrCB1vEhvYiufcXxXxm) | 3:26 | 2022-01-05 | 2022-07-26 |
 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2021-10-01 |  |
 | [LEFT RIGHT \- Slowed](https://open.spotify.com/track/4YMOED32VTJr8woSeQxvZM) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LEFT RIGHT \(Slowed\)](https://open.spotify.com/album/0HwvROOXn0C9CaVvTCkyG3) | 1:32 | 2021-10-01 | 2022-04-16 |
+| [Limbo \- ChopNotSlop Remix](https://open.spotify.com/track/5r0X4MhcC7KjN2NQeonWlC) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- The Slow Descent](https://open.spotify.com/album/69LXu03hHWw4zOaZwi7Zv2) | 3:07 | 2022-12-14 |  |
 | [Line Without a Hook \- slow](https://open.spotify.com/track/0qLi1hlkpOJ9HGlJHTZ1Gt) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Line Without a Hook \(slow\)](https://open.spotify.com/album/3a6IZtuWqJDhq7wLGsIAqt) | 4:53 | 2022-02-11 | 2022-02-23 |
 | [Liều Thuốc Cho Trái Tim \(Slowed\)](https://open.spotify.com/track/6IlJKmi67fUzexcD51zcag) | [Nguyen Dinh Vu](https://open.spotify.com/artist/1gjeO7nm4QagscrFBbHiSZ), [Neko Land](https://open.spotify.com/artist/1LizFsdyfdlEJlah6l88PU), [flechazowu](https://open.spotify.com/artist/4qPZYOg0Cr8cN53saMueqV) | [Liều Thuốc Cho Trái Tim \(Slowed\)](https://open.spotify.com/album/29SYgoZKbaqbgx8kHGzkiT) | 6:36 | 2021-12-08 | 2022-07-09 |
 | [Losing Interest \- Slowed Version](https://open.spotify.com/track/2TJKss1zYOFZ0OAXePgdcS) | [boy in skirt](https://open.spotify.com/artist/6YnaF6icmmm03VSrrM28ft) | [Sad Boy in Skirt](https://open.spotify.com/album/3nYeICl5v7EaHay8iQayhM) | 1:56 | 2021-10-01 | 2022-03-02 |
@@ -161,7 +162,7 @@
 | [vendetta! \- Slowed + Reverb](https://open.spotify.com/track/27eiUzfUEc75ujJbn68s53) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta! \(Slowed + Reverb\)](https://open.spotify.com/album/23BaWXcjrA2P7khBHQLP7N) | 1:57 | 2022-08-12 |  |
 | [Vision \- Slowed](https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr) | 4:59 | 2021-10-01 | 2022-12-11 |
 | [we can try](https://open.spotify.com/track/0ruflkkraifzGTJoI13c9D) | [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH) | [we can try](https://open.spotify.com/album/2jW1ORaVudLRfMqhBouNFj) | 3:04 | 2022-05-20 | 2022-06-01 |
-| [Wet \(She Got That…\) \- Slowed & Reverbed](https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [DJ Slow Verb](https://open.spotify.com/artist/2PAzPJOeGQrKmqDHH4Te5s) | [Wet \(She Got That…\) \[Slowed & Reverbed\]](https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP) | 3:49 | 2021-10-01 |  |
+| [Wet \(She Got That…\) \- Slowed & Reverbed](https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [DJ Slow Verb](https://open.spotify.com/artist/2PAzPJOeGQrKmqDHH4Te5s) | [Wet \(She Got That…\) \[Slowed & Reverbed\]](https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP) | 3:49 | 2021-10-01 | 2022-12-14 |
 | [Whatta Man \- Slowed + Reverb](https://open.spotify.com/track/2S2FCL79w1rT1k8e1xOpyh) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Paul Leigh Paige](https://open.spotify.com/artist/0fxiEm0sTs3Itu0IW6Y44z) | [Whatta Man \(The Remixes\)](https://open.spotify.com/album/5Ly6l6Hv9tpSik7XwCJDag) | 5:29 | 2021-10-01 | 2022-04-20 |
 | [when i was your man \- slowed + reverb](https://open.spotify.com/track/0tEfc9KsxNAQ05pWKcZTuF) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [when i was your man \- slowed + reverb](https://open.spotify.com/album/0zzLMtczgpbOogCitwGzMu) | 2:26 | 2022-04-01 | 2022-06-01 |
 | [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 | 2022-11-11 |  |

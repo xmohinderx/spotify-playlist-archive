@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Lim Young Woong\(임영웅\)\) \(당신의 감성에 발라드, 려요\)
 
-607 songs - 1 day 15 hr 25 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+608 songs - 1 day 15 hr 30 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Tell me this is real](https://open.spotify.com/track/4O9vCvUz8fSJHJVvXKiBMp) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [My chilling roommate \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/3JJWRFZW2JRUrPK1DCeFQa) | 3:38 | 2022-07-07 | 2022-09-06 |
 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-01-03 | 2022-06-23 |
 | [Thank you](https://open.spotify.com/track/7ncELTySeq5yRbZlGsSDlz) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [EXchange \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4lmTxgqct4aaAc4IFUJEqQ) | 4:03 | 2022-01-27 | 2022-05-15 |
+| [Thank You](https://open.spotify.com/track/1xzC5lmJfG21PJBAeQaBam) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 4:38 | 2022-12-13 |  |
 | [That Night \(Feat\. Hoyeon Kim\)](https://open.spotify.com/track/56miMxDZj1ILkNUYmJA0qh) | [As D](https://open.spotify.com/artist/50Cy0366gExAWqOU1ExEq5), [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [That Night](https://open.spotify.com/album/519egerFaLsZ4V7I4RTjjA) | 4:45 | 2022-03-24 | 2022-04-17 |
 | [That's all](https://open.spotify.com/track/2GA13uuobpA88h5zPXm0E3) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6UsoiG7ypgjvgTMZsa5kCO) | 4:25 | 2022-03-07 | 2022-07-08 |
 | [That's all](https://open.spotify.com/track/7lpzOE9lzMVNQdX2Qz3pYK) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Dr\. Romantic 2 OST Part.4](https://open.spotify.com/album/0MzR0Ktgr2IvqgXKn8pZIq) | 3:09 | 2022-03-29 | 2022-04-15 |

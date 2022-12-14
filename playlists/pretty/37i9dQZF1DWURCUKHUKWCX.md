@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,225 likes - 132 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,562 likes - 132 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 93 | [Himitsu](https://open.spotify.com/track/17DJuwGNugAo1UzfyA7On8) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [By the Border](https://open.spotify.com/album/2ahyKR00M06DOvnNfXeGmd) | 2:38 |
 | 94 | [Lunae](https://open.spotify.com/track/2c5hCxzQSRQR4XAiAEetEl) | [Jordain Wallace](https://open.spotify.com/artist/3DNVxNhoLQt9Q4HqzTPajS) | [To/Day](https://open.spotify.com/album/7cr80VXUNFKIVENIDuery7) | 3:40 |
 | 95 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 |
-| 96 | [nostalgia](https://open.spotify.com/track/22YHMfh0wfdnA8yum2Z3fV) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nocturnes](https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4) | 3:11 |
+| 96 | [nostalgia](https://open.spotify.com/track/22YHMfh0wfdnA8yum2Z3fV) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nostalgia](https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4) | 3:11 |
 | 97 | [Necessary Things](https://open.spotify.com/track/3jfHBBkgGytf4lIn0BMfXT) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Necessary Things](https://open.spotify.com/album/5KlfW6GEYoTWTbT4TSy2fo) | 3:52 |
 | 98 | [Open](https://open.spotify.com/track/4ugw9mC5cuaKBE02AixcRi) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [More Heart Stories](https://open.spotify.com/album/7G4DNoOqNOXIp8YDqt9nYi) | 3:02 |
 | 99 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 |

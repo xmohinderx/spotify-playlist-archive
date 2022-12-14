@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all. Cover: My Vitriol",
-  "num_followers": 82437,
+  "num_followers": 82622,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgwMDQwMiwwMDAwMDAwMGYwZDgzOTAzZGE2YmYwOGRiMjVkZDhiZGIxNzU0MDQx",
+  "snapshot_id": "MTY3MDgwMDQwMiwwMDAwMDAwMDY2NTUzZGVjMTlhNGJlODk0YTMwOTlmZmI3YWQzMWNl",
   "tracks": [
     {
       "added_at": "2022-12-11 23:13:22",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "Make Yourself",
-      "url": "https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "Shed",
         "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 136826,
       "name": "Shed",
       "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "Make Yourself",
+      "url": "https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
-      },
-      "artists": [
-        {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "The Rift",
         "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 228852,
       "name": "The Rift",
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Cheer",
-        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 282121,
-      "name": "Weed Pin",
-      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 203546,
       "name": "June",
       "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 282121,
+      "name": "Weed Pin",
+      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Learn to Hate",
-      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "All These Countless Nights",
         "url": "https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 180111,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Learn to Hate",
+      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
+        "name": "Whenever, If Ever",
+        "url": "https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm"
+      },
+      "artists": [
+        {
+          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
+        }
+      ],
+      "duration_ms": 341906,
+      "name": "Heartbeat in the Brain",
+      "url": "https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
         "name": "Dark World",
         "url": "https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 210893,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/49p2lVw2SIn1cCfjaBptQo"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
-        "name": "Whenever, If Ever",
-        "url": "https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm"
-      },
-      "artists": [
-        {
-          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
-          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
-        }
-      ],
-      "duration_ms": 341906,
-      "name": "Heartbeat in the Brain",
-      "url": "https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -1131,6 +1131,38 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
+        "name": "2 Songs",
+        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
+      },
+      "artists": [
+        {
+          "name": "Downward",
+          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
+        }
+      ],
+      "duration_ms": 200912,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 205148,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
       },
@@ -1159,38 +1191,6 @@
       "duration_ms": 275308,
       "name": "I'm Not Part Of Me",
       "url": "https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 205148,
-      "name": "Lily",
-      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
-        "name": "2 Songs",
-        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
-      },
-      "artists": [
-        {
-          "name": "Downward",
-          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
-        }
-      ],
-      "duration_ms": 200912,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Pedals",
-        "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
-      },
-      "artists": [
-        {
-          "name": "Rival Schools",
-          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Wring It Out",
-      "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "Brave Faces Everyone",
         "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 242365,
       "name": "Kick",
       "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Pedals",
+        "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
+      },
+      "artists": [
+        {
+          "name": "Rival Schools",
+          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Wring It Out",
+      "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Blackened Sky",
-        "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "Justboy",
-      "url": "https://open.spotify.com/track/4jXUGaLSe8hb7QplSTl6HK"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "Worlds Apart",
         "url": "https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 410933,
       "name": "Will You Smile Again For Me",
       "url": "https://open.spotify.com/track/5AM9nodUIrP4qKMtlGJFay"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Blackened Sky",
+        "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "Justboy",
+      "url": "https://open.spotify.com/track/4jXUGaLSe8hb7QplSTl6HK"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "The Vertigo of Bliss",
-        "url": "https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 242693,
-      "name": "Questions and Answers",
-      "url": "https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "The Haze",
         "url": "https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 259266,
       "name": "Driving Nowhere",
       "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "The Vertigo of Bliss",
+        "url": "https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 242693,
+      "name": "Questions and Answers",
+      "url": "https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Dear Seattle",
-        "url": "https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL"
-      },
-      "artists": [
-        {
-          "name": "Dear Seattle",
-          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
-        }
-      ],
-      "duration_ms": 260750,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "Pull a Little Closer",
         "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 242480,
       "name": "Pull a Little Closer",
       "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Dear Seattle",
+        "url": "https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "duration_ms": 260750,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Philophobia",
-        "url": "https://open.spotify.com/album/7FBIJfH1Ks0YIvAOMbXy08"
-      },
-      "artists": [
-        {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Neon Circus",
-      "url": "https://open.spotify.com/track/0HygTZjzB9GQhohzMzoaeD"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "Too Shabby",
         "url": "https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 270634,
       "name": "Kangaroo Pocket",
       "url": "https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Philophobia",
+        "url": "https://open.spotify.com/album/7FBIJfH1Ks0YIvAOMbXy08"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Neon Circus",
+      "url": "https://open.spotify.com/track/0HygTZjzB9GQhohzMzoaeD"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "Fixed It All",
-      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "Forever Whatever",
         "url": "https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS"
       },
@@ -2131,18 +2115,18 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Everything Is",
-        "url": "https://open.spotify.com/album/7m8quty5yRGVx8XzL82TNv"
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
       },
       "artists": [
         {
-          "name": "Nine Black Alps",
-          "url": "https://open.spotify.com/artist/5fLbJGzlYux3GBwTifMMvR"
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 175920,
-      "name": "Shot Down",
-      "url": "https://open.spotify.com/track/1TVtlM7zD2UDTPku94klR8"
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -2159,6 +2143,22 @@
       "duration_ms": 175253,
       "name": "Smiling at Strangers on Trains",
       "url": "https://open.spotify.com/track/0F54dvs9C0v0snW9m6dSE1"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Everything Is",
+        "url": "https://open.spotify.com/album/7m8quty5yRGVx8XzL82TNv"
+      },
+      "artists": [
+        {
+          "name": "Nine Black Alps",
+          "url": "https://open.spotify.com/artist/5fLbJGzlYux3GBwTifMMvR"
+        }
+      ],
+      "duration_ms": 175920,
+      "name": "Shot Down",
+      "url": "https://open.spotify.com/track/1TVtlM7zD2UDTPku94klR8"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "Amusement Parks On Fire",
-        "url": "https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0"
-      },
-      "artists": [
-        {
-          "name": "Amusement Parks On Fire",
-          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Smokescreen",
-      "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "Anyways",
         "url": "https://open.spotify.com/album/4khFn2Fi43Wl2Aje2uk7bh"
       },
@@ -2227,6 +2211,22 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
+        "name": "Amusement Parks On Fire",
+        "url": "https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0"
+      },
+      "artists": [
+        {
+          "name": "Amusement Parks On Fire",
+          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Smokescreen",
+      "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
         "name": "Catch Without Arms",
         "url": "https://open.spotify.com/album/1csjcf2pCTJiKFdYgVgmA9"
       },
@@ -2239,6 +2239,22 @@
       "duration_ms": 296333,
       "name": "Not That Simple",
       "url": "https://open.spotify.com/track/5iIM6ZOdCF4P7Gsgiajz73"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "duration_ms": 302811,
+      "name": "Ghetto Blaster",
+      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
     },
     {
       "added_at": "2022-12-11 23:13:22",
@@ -2355,22 +2371,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "4 AM",
-        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 302811,
-      "name": "Ghetto Blaster",
-      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "Paint My Memory",
         "url": "https://open.spotify.com/album/5b1TPbHGcXbruFrwnfgF9b"
       },
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2022-12-11 23:13:22",
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/3x64mf0X5GYeyJeArm8S6h"
-      },
-      "artists": [
-        {
-          "name": "Elm Tree Circle",
-          "url": "https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4"
-        }
-      ],
-      "duration_ms": 172458,
-      "name": "Feel the Burn",
-      "url": "https://open.spotify.com/track/672ya0WXJAbZvxDp4rD4h3"
-    },
-    {
-      "added_at": "2022-12-11 23:13:22",
-      "album": {
         "name": "Keep The Lights On Me",
         "url": "https://open.spotify.com/album/53azBiH1hRGDukmmgYvKKM"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 227261,
       "name": "Keep The Lights On Me",
       "url": "https://open.spotify.com/track/3oYzJ9fRhVbEVUvrAPL2b6"
+    },
+    {
+      "added_at": "2022-12-11 23:13:22",
+      "album": {
+        "name": "Nightmare of You",
+        "url": "https://open.spotify.com/album/44sKToWaRjNlnYY5PggLXD"
+      },
+      "artists": [
+        {
+          "name": "Nightmare Of You",
+          "url": "https://open.spotify.com/artist/6k0ji2eoZH49ysnY3IgLWc"
+        }
+      ],
+      "duration_ms": 240573,
+      "name": "My Name Is Trouble",
+      "url": "https://open.spotify.com/track/3YZUBdCdqP8lL9nH82pWKM"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

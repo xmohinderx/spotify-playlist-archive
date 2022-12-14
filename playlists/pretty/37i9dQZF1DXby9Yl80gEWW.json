@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 32794,
+  "num_followers": 32824,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDA5NzY0MCwwMDAwMDAwMGNlOTk1ZDNiMDMzOTRhMmY4Mzc5MjQyOTlkZTY5NDkz",
+  "snapshot_id": "MTY3MDA5NzY0MCwwMDAwMDAwMGU3NzNlNzAxZWJiMzE4YjhmY2Q1MGRjMDYyOTU0MTcy",
   "tracks": [
     {
       "added_at": "2022-12-03 20:00:39",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
-        "name": "The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2",
-        "url": "https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q"
+        "name": "Ahoy!",
+        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
       },
       "artists": [
         {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 222733,
-      "name": "The over Grown Waltz",
-      "url": "https://open.spotify.com/track/2PCJXFuZdJ5pAYvUSRnGyW"
+      "duration_ms": 164613,
+      "name": "Squirrel of Possibility",
+      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
-        "name": "Ahoy!",
-        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
+        "name": "The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2",
+        "url": "https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
         }
       ],
-      "duration_ms": 164613,
-      "name": "Squirrel of Possibility",
-      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
+      "duration_ms": 222733,
+      "name": "The over Grown Waltz",
+      "url": "https://open.spotify.com/track/2PCJXFuZdJ5pAYvUSRnGyW"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
+        "name": "Long Violent History",
+        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Camp Chase",
+      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 273746,
       "name": "New South Africa",
       "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
-        "name": "Long Violent History",
-        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Camp Chase",
-      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
         "name": "Appalachian Picking Society",
         "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 213520,
       "name": "Annabelle June",
       "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "Peace Behind the Bridge",
-      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
         "name": "Viridian",
         "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 126093,
       "name": "Su Prabhat",
       "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "Peace Behind the Bridge",
+      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -931,22 +931,18 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
-        "name": "Instrumentals",
-        "url": "https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ"
+        "name": "Just Around the Bend: Survival and Revival in Southern Banjo Sounds - Mike Seeger's Last Documentary",
+        "url": "https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg"
       },
       "artists": [
         {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        },
-        {
-          "name": "Kentucky Thunder",
-          "url": "https://open.spotify.com/artist/7wYEs2F2dHz3VuIJdYqn7K"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Missing Vassar",
-      "url": "https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu"
+      "duration_ms": 86800,
+      "name": "Cripple Creek",
+      "url": "https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -987,6 +983,26 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
+        "name": "Instrumentals",
+        "url": "https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        },
+        {
+          "name": "Kentucky Thunder",
+          "url": "https://open.spotify.com/artist/7wYEs2F2dHz3VuIJdYqn7K"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Missing Vassar",
+      "url": "https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
         "name": "Toward the Fray",
         "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 176240,
       "name": "Orange Blossom Special",
       "url": "https://open.spotify.com/track/62LJqunG21MXeQr4pUf6Pb"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
-        "name": "Just Around the Bend: Survival and Revival in Southern Banjo Sounds - Mike Seeger's Last Documentary",
-        "url": "https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 86800,
-      "name": "Cripple Creek",
-      "url": "https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
+        "name": "Lonesome Whistle",
+        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
+      },
+      "artists": [
+        {
+          "name": "Mark Howard",
+          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
+        },
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "City Of New Orleans - Instrumental",
+      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
         "name": "Bluegrass 96",
         "url": "https://open.spotify.com/album/48Cca2zPFlp4SRRYrHOHNZ"
       },
@@ -1231,30 +1255,6 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
-        "name": "Lonesome Whistle",
-        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
-      },
-      "artists": [
-        {
-          "name": "Mark Howard",
-          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
-        },
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "City Of New Orleans - Instrumental",
-      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
         "name": "Into My Own",
         "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 306059,
       "name": "Overton Waltz",
       "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
-        "name": "A Man Must Carry On",
-        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
-        }
-      ],
-      "duration_ms": 329933,
-      "name": "Eternal Blues",
-      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
+        "name": "A Man Must Carry On",
+        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
       },
       "artists": [
         {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
         }
       ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
+      "duration_ms": 329933,
+      "name": "Eternal Blues",
+      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1335,6 +1319,22 @@
       "duration_ms": 287533,
       "name": "Port Tobacco",
       "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+        }
+      ],
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "40 West",
+      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "40 West",
-      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
+        "name": "The Good, the Bad and the Ugly",
+        "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
+      },
+      "artists": [
+        {
+          "name": "Southern Raised",
+          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+        }
+      ],
+      "duration_ms": 351091,
+      "name": "The Good, the Bad and the Ugly",
+      "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
         "name": "Putumayo Presents Bluegrass",
         "url": "https://open.spotify.com/album/3ONDWK24aGyD2JdlMP0zCV"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 198946,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/7KFs15Er2tNML63npFCN2a"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
-        "name": "The Good, the Bad and the Ugly",
-        "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
-      },
-      "artists": [
-        {
-          "name": "Southern Raised",
-          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
-        }
-      ],
-      "duration_ms": 351091,
-      "name": "The Good, the Bad and the Ugly",
-      "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
-        "name": "Act 1",
-        "url": "https://open.spotify.com/album/2KQ4fDOzSImK1Rr5ZgLDFf"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Joshua",
-      "url": "https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
         "name": "Shadowgrass",
         "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
+        "name": "Act 1",
+        "url": "https://open.spotify.com/album/2KQ4fDOzSImK1Rr5ZgLDFf"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Joshua",
+      "url": "https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
         "name": "Hurricane Clarice",
         "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
       },
@@ -1655,6 +1655,22 @@
       "duration_ms": 189061,
       "name": "Nancy Blevins",
       "url": "https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5"
+    },
+    {
+      "added_at": "2022-12-03 20:00:39",
+      "album": {
+        "name": "Backwaters",
+        "url": "https://open.spotify.com/album/2c61OQqY8w2F0Mfpb8vKmv"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+        }
+      ],
+      "duration_ms": 370800,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/3K9w773BVnDob3ZxwSwu2D"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1695,22 +1711,6 @@
       "duration_ms": 177493,
       "name": "Santa Ana",
       "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
-    },
-    {
-      "added_at": "2022-12-03 20:00:39",
-      "album": {
-        "name": "Backwaters",
-        "url": "https://open.spotify.com/album/2c61OQqY8w2F0Mfpb8vKmv"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
-        }
-      ],
-      "duration_ms": 370800,
-      "name": "Backwaters",
-      "url": "https://open.spotify.com/track/3K9w773BVnDob3ZxwSwu2D"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
-        "name": "Hurricane Clarice",
-        "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
+        "name": "30 Turkeys",
+        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
       },
       "artists": [
         {
-          "name": "Allison de Groot & Tatiana Hargreaves",
-          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
+          "name": "Kid Reverie",
+          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
         }
       ],
-      "duration_ms": 203621,
-      "name": "Wellington",
-      "url": "https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF"
+      "duration_ms": 140970,
+      "name": "30 Turkeys",
+      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2022-12-03 20:00:39",
       "album": {
-        "name": "30 Turkeys",
-        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
+        "name": "Hurricane Clarice",
+        "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
       },
       "artists": [
         {
-          "name": "Kid Reverie",
-          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
+          "name": "Allison de Groot & Tatiana Hargreaves",
+          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
         }
       ],
-      "duration_ms": 140970,
-      "name": "30 Turkeys",
-      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
+      "duration_ms": 203621,
+      "name": "Wellington",
+      "url": "https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF"
     },
     {
       "added_at": "2022-12-03 20:00:39",
@@ -1856,9 +1856,9 @@
           "url": "https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ"
         }
       ],
-      "duration_ms": 246357,
-      "name": "Waiting for Erin",
-      "url": "https://open.spotify.com/track/0ISzfI7FecislLcHOZlOuh"
+      "duration_ms": 257939,
+      "name": "Battersea Skillet Liquor",
+      "url": "https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F"
     },
     {
       "added_at": "2022-12-03 20:00:39",

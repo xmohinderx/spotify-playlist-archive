@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
-  "num_followers": 23632,
+  "num_followers": 23657,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDg3ZjIyMTJjZTc1NjUyN2EzMWY1OWY2YjUxOTY5ZTY1",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDRmMDAzZjY0MjkyNmU1OTc0MWFkYzkyYTFmMDA1NTgz",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 134893,
       "name": "Versos Fortes",
       "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
     },
     {
       "added_at": "2022-12-02 03:01:00",

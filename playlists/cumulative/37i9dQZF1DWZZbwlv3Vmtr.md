@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-656 songs - 1 day 1 hr 36 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+658 songs - 1 day 1 hr 40 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,8 +434,9 @@
 | [Pusher Street](https://open.spotify.com/track/2386ucGjI6rRj5OJTdP9To) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:31 | 2022-04-15 | 2022-06-10 |
 | [Pyramid Heat](https://open.spotify.com/track/7b09GgDHcFj9N2ZT1TEREZ) | [ZEBERIA](https://open.spotify.com/artist/57IZvDFDI399Ure7mSkg25) | [Beats & Pieces Vol.1](https://open.spotify.com/album/4OQ7snOtKPtpi699tgT7GL) | 2:25 | 2022-11-25 |  |
 | [quarantine blues](https://open.spotify.com/track/5OqQA1I96jy9HrawfMBV3a) | [willie johns](https://open.spotify.com/artist/3LFJ3lXQkAanKfb32WaZvm) | [quarantine blues](https://open.spotify.com/album/0KqGi4gaU2mBGqHDWWL3be) | 3:00 | 2022-04-15 |  |
-| [Quiet Times](https://open.spotify.com/track/0lnaNbGICvWHQwQzE5jYO8) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/3Zf3qc9skmzkSI4heGer1R) | 1:42 | 2022-11-11 |  |
+| [Quiet Times](https://open.spotify.com/track/0lnaNbGICvWHQwQzE5jYO8) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/3Zf3qc9skmzkSI4heGer1R) | 1:42 | 2022-11-11 | 2022-12-14 |
 | [Quiet Times](https://open.spotify.com/track/3kaZy952zEbJECNZr20YSl) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/3x4CH0vMZT9WBEV5OOB2rV) | 1:42 | 2022-08-12 | 2022-11-20 |
+| [Quiet Times](https://open.spotify.com/track/7vlCRsIyOonWCUOVe8dIwV) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/6kOYFW2TyGOf3iyNN1LChY) | 1:42 | 2022-12-09 |  |
 | [r u kiddin me?](https://open.spotify.com/track/06K21lIuMVgM5U8DpJTdOK) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [r u kiddin me?](https://open.spotify.com/album/40uJd74ekonsMeKKKYDzeU) | 2:28 | 2022-04-15 |  |
 | [Rain](https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy) | 2:08 | 2022-04-15 | 2022-07-29 |
 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 | 2022-04-15 | 2022-07-08 |
@@ -485,7 +486,8 @@
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2022-04-15 |  |
 | [Seven lifes](https://open.spotify.com/track/0ODqF4q7w8uZ80auAlUww8) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Seven lifes](https://open.spotify.com/album/1nTnXy5pPuajYkihPVFWTj) | 2:16 | 2022-09-09 |  |
 | [Shape](https://open.spotify.com/track/4dvUJBDK0b96VmCjJ6318U) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/4VTfhlLlVm20hgXj5t2NfC) | 1:48 | 2022-10-28 | 2022-11-25 |
-| [Shape](https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C) | 1:48 | 2022-11-11 |  |
+| [Shape](https://open.spotify.com/track/4vctnDV4Kft8buepkkUOI9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/20odQgHpucqurWxbT3JX8O) | 1:48 | 2022-12-09 |  |
+| [Shape](https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C) | 1:48 | 2022-11-11 | 2022-12-14 |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2022-04-15 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2022-04-15 | 2022-08-12 |
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2022-09-02 |  |

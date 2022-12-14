@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Letieres Leite, Orkestra Rumpilezz, Caetano Veloso",
-  "num_followers": 146950,
+  "num_followers": 146981,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMGNiMjIzOWIyNjI1OWY2ODg0MTAyZWFjYjc0NTlkZWNi",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMGU3M2MxNjQyYzBhZDJjYjk1MWFkNWNmOWExNTAyYzdi",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg"
+      },
+      "artists": [
+        {
+          "name": "Jade Vieira",
+          "url": "https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Jo\u00e3o Donato JID007",
         "url": "https://open.spotify.com/album/03q6oK9euB25TGC2Jp8uPZ"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 143332,
       "name": "Adrian, Ali and Gregory",
       "url": "https://open.spotify.com/track/17wNarAwouBJco5zx1LDKb"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg"
-      },
-      "artists": [
-        {
-          "name": "Jade Vieira",
-          "url": "https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Rasif",
-        "url": "https://open.spotify.com/album/1ToKUqpDqUw5Imnh1oCjNf"
-      },
-      "artists": [
-        {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
-        }
-      ],
-      "duration_ms": 367211,
-      "name": "Rasif",
-      "url": "https://open.spotify.com/track/5xfkIPfhNPbBw8WUpKdSUw"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Sess\u00f5es Selo Sesc #7: Jo\u00e3o Donato + Projeto Coisa Fina",
         "url": "https://open.spotify.com/album/0JM3ipLsc4OhCGknNlvPrg"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 349525,
       "name": "Emori\u00f4 - Ao vivo",
       "url": "https://open.spotify.com/track/4e8HAVbyiqpBs2MbCOwoyc"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Rasif",
+        "url": "https://open.spotify.com/album/1ToKUqpDqUw5Imnh1oCjNf"
+      },
+      "artists": [
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        }
+      ],
+      "duration_ms": 367211,
+      "name": "Rasif",
+      "url": "https://open.spotify.com/track/5xfkIPfhNPbBw8WUpKdSUw"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Onze por Oito",
+        "url": "https://open.spotify.com/album/6wlNqURb6pjDAVSRCUMYoG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Um",
+          "url": "https://open.spotify.com/artist/1bkSkFuMfHxnrnIWMA1NqQ"
+        }
+      ],
+      "duration_ms": 292680,
+      "name": "Onze por Oito",
+      "url": "https://open.spotify.com/track/3o8OmVpHGukrmH7KRP4Vri"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Orit\u00e1 no MINIDocs",
         "url": "https://open.spotify.com/album/2a5yfMZ7cBbLz9kJbTrc37"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 460190,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/7eNAye3KKT13agV313oImc"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Onze por Oito",
-        "url": "https://open.spotify.com/album/6wlNqURb6pjDAVSRCUMYoG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Um",
-          "url": "https://open.spotify.com/artist/1bkSkFuMfHxnrnIWMA1NqQ"
-        }
-      ],
-      "duration_ms": 292680,
-      "name": "Onze por Oito",
-      "url": "https://open.spotify.com/track/3o8OmVpHGukrmH7KRP4Vri"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "A Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+      },
+      "artists": [
+        {
+          "name": "Carlos Buzelin",
+          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+        }
+      ],
+      "duration_ms": 225184,
+      "name": "Porto Rio",
+      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Pro Carnaval Voltar",
         "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 481925,
       "name": "Pro Carnaval Voltar",
       "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "A Ma\u00e7\u00e3",
-        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
-      },
-      "artists": [
-        {
-          "name": "Carlos Buzelin",
-          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
-        }
-      ],
-      "duration_ms": 225184,
-      "name": "Porto Rio",
-      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -879,38 +879,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/3qLBeesjfSxGLFfMd6Rd5R"
-      },
-      "artists": [
-        {
-          "name": "P\u00f3 de Caf\u00e9",
-          "url": "https://open.spotify.com/artist/4wu79FVRRlKS8r9BXZjTTd"
-        },
-        {
-          "name": "Bruno Barbosa",
-          "url": "https://open.spotify.com/artist/2AQZX2JxwDf249gUqXJXPp"
-        },
-        {
-          "name": "Marcelo Toledo",
-          "url": "https://open.spotify.com/artist/0PL3hoEt8JAKMnX8B0tQ10"
-        },
-        {
-          "name": "Murilo Barbosa",
-          "url": "https://open.spotify.com/artist/4Mm6agchhu3dPncqZxDRwk"
-        },
-        {
-          "name": "Neto Braz",
-          "url": "https://open.spotify.com/artist/31zFQQBHE1Gz7gxGn7zcRr"
-        }
-      ],
-      "duration_ms": 345699,
-      "name": "Jaragu\u00e1",
-      "url": "https://open.spotify.com/track/4jm1Pwp7iqh99kLgLVHNJc"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Oxumar\u00e9",
         "url": "https://open.spotify.com/album/33MyikHYPrJMdr3NdOQvQA"
       },
@@ -943,6 +911,38 @@
       "duration_ms": 321649,
       "name": "Oxumar\u00e9",
       "url": "https://open.spotify.com/track/00I2arRtIGGhklC90IHj8M"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/3qLBeesjfSxGLFfMd6Rd5R"
+      },
+      "artists": [
+        {
+          "name": "P\u00f3 de Caf\u00e9",
+          "url": "https://open.spotify.com/artist/4wu79FVRRlKS8r9BXZjTTd"
+        },
+        {
+          "name": "Bruno Barbosa",
+          "url": "https://open.spotify.com/artist/2AQZX2JxwDf249gUqXJXPp"
+        },
+        {
+          "name": "Marcelo Toledo",
+          "url": "https://open.spotify.com/artist/0PL3hoEt8JAKMnX8B0tQ10"
+        },
+        {
+          "name": "Murilo Barbosa",
+          "url": "https://open.spotify.com/artist/4Mm6agchhu3dPncqZxDRwk"
+        },
+        {
+          "name": "Neto Braz",
+          "url": "https://open.spotify.com/artist/31zFQQBHE1Gz7gxGn7zcRr"
+        }
+      ],
+      "duration_ms": 345699,
+      "name": "Jaragu\u00e1",
+      "url": "https://open.spotify.com/track/4jm1Pwp7iqh99kLgLVHNJc"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
-      },
-      "artists": [
-        {
-          "name": "Heitor Vallim",
-          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "La Setenta",
-      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
         "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
       },
@@ -1091,30 +1075,18 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Afinidades",
-        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
       },
       "artists": [
         {
-          "name": "Thiago Espirito Santo",
-          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
-        },
-        {
-          "name": "Mauricio Einhorn",
-          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
-        },
-        {
-          "name": "Bruno Cardozo",
-          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
-        },
-        {
-          "name": "Cuca Teixeira",
-          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
+          "name": "Heitor Vallim",
+          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
         }
       ],
-      "duration_ms": 343211,
-      "name": "Burlesque",
-      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
+      "duration_ms": 225000,
+      "name": "La Setenta",
+      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1155,26 +1127,30 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "M\u00fasica Disfar\u00e7ada de Gente",
-        "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
+        "name": "Afinidades",
+        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
       },
       "artists": [
         {
-          "name": "GUANDUO",
-          "url": "https://open.spotify.com/artist/00MF73V9qT6c5DkFyTgI12"
+          "name": "Thiago Espirito Santo",
+          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
         },
         {
-          "name": "Pedro Franco",
-          "url": "https://open.spotify.com/artist/4F1Nh4ePuhI8bNvmS8z7nc"
+          "name": "Mauricio Einhorn",
+          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
         },
         {
-          "name": "M\u00e1rcio Bahia",
-          "url": "https://open.spotify.com/artist/459tuZRjLSRk5TqSKlEGEw"
+          "name": "Bruno Cardozo",
+          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
+        },
+        {
+          "name": "Cuca Teixeira",
+          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
         }
       ],
-      "duration_ms": 313880,
-      "name": "Francamente",
-      "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
+      "duration_ms": 343211,
+      "name": "Burlesque",
+      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1211,6 +1187,30 @@
       "duration_ms": 310226,
       "name": "Afluente do Futuro",
       "url": "https://open.spotify.com/track/2U6VHc3DqSLhLrtTRNkFCT"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "M\u00fasica Disfar\u00e7ada de Gente",
+        "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
+      },
+      "artists": [
+        {
+          "name": "GUANDUO",
+          "url": "https://open.spotify.com/artist/00MF73V9qT6c5DkFyTgI12"
+        },
+        {
+          "name": "Pedro Franco",
+          "url": "https://open.spotify.com/artist/4F1Nh4ePuhI8bNvmS8z7nc"
+        },
+        {
+          "name": "M\u00e1rcio Bahia",
+          "url": "https://open.spotify.com/artist/459tuZRjLSRk5TqSKlEGEw"
+        }
+      ],
+      "duration_ms": 313880,
+      "name": "Francamente",
+      "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Cozinhando Pedra",
+        "url": "https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm"
+      },
+      "artists": [
+        {
+          "name": "Bruno Cardozo",
+          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
+        }
+      ],
+      "duration_ms": 322546,
+      "name": "Cozinhando Pedra",
+      "url": "https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Espera",
         "url": "https://open.spotify.com/album/4IkJZkzG8MIb53basOfc8W"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 183106,
       "name": "Coisa No. 10",
       "url": "https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Cozinhando Pedra",
-        "url": "https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm"
-      },
-      "artists": [
-        {
-          "name": "Bruno Cardozo",
-          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
-        }
-      ],
-      "duration_ms": 322546,
-      "name": "Cozinhando Pedra",
-      "url": "https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Primeiro de Novembro",
+        "url": "https://open.spotify.com/album/5GQ82XvLgmhs7PcS7EI69D"
+      },
+      "artists": [
+        {
+          "name": "Peu Abrantes",
+          "url": "https://open.spotify.com/artist/2vC4YlGt2gkmB118CXmoWS"
+        }
+      ],
+      "duration_ms": 446204,
+      "name": "Primeiro de Novembro",
+      "url": "https://open.spotify.com/track/7neQSMcHRxAYN47hjytSAW"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Factotum",
         "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
       },
@@ -1479,18 +1495,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Primeiro de Novembro",
-        "url": "https://open.spotify.com/album/5GQ82XvLgmhs7PcS7EI69D"
+        "name": "Someone To Watch Over Me (Meet Tetel)",
+        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
       },
       "artists": [
         {
-          "name": "Peu Abrantes",
-          "url": "https://open.spotify.com/artist/2vC4YlGt2gkmB118CXmoWS"
+          "name": "Tetel Di Babuya",
+          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
+        },
+        {
+          "name": "Daniel Grajew",
+          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
         }
       ],
-      "duration_ms": 446204,
-      "name": "Primeiro de Novembro",
-      "url": "https://open.spotify.com/track/7neQSMcHRxAYN47hjytSAW"
+      "duration_ms": 220560,
+      "name": "Someone To Watch Over Me - Meet Tetel",
+      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1599,26 +1619,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Someone To Watch Over Me (Meet Tetel)",
-        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
-      },
-      "artists": [
-        {
-          "name": "Tetel Di Babuya",
-          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
-        },
-        {
-          "name": "Daniel Grajew",
-          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Someone To Watch Over Me - Meet Tetel",
-      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Festa",
         "url": "https://open.spotify.com/album/47y4CvkeCO7Hm4gwv5jSij"
       },
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Clim\u00e3o",
-        "url": "https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm"
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
       },
       "artists": [
         {
-          "name": "RP Project",
-          "url": "https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY"
-        },
-        {
-          "name": "Walmir Gil",
-          "url": "https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs"
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
         }
       ],
-      "duration_ms": 430563,
-      "name": "Clim\u00e3o",
-      "url": "https://open.spotify.com/track/6ovDXiIzy40XMI85632P48"
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1703,38 +1699,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+        "name": "Clim\u00e3o",
+        "url": "https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm"
       },
       "artists": [
         {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Entroncamento",
-        "url": "https://open.spotify.com/album/5qaCctJXbwVrDFfTtAvos8"
-      },
-      "artists": [
-        {
-          "name": "Julio Borba",
-          "url": "https://open.spotify.com/artist/3TkBma5TBJFpZtQJdyebg3"
+          "name": "RP Project",
+          "url": "https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY"
         },
         {
-          "name": "Santiago Beis",
-          "url": "https://open.spotify.com/artist/3IRcEtiCBca4XC0EtHXehO"
+          "name": "Walmir Gil",
+          "url": "https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs"
         }
       ],
-      "duration_ms": 253167,
-      "name": "Nos Dias de Hoje",
-      "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
+      "duration_ms": 430563,
+      "name": "Clim\u00e3o",
+      "url": "https://open.spotify.com/track/6ovDXiIzy40XMI85632P48"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1771,6 +1751,26 @@
       "duration_ms": 266538,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/53wgkplpSRXUvtW3YQscTc"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Entroncamento",
+        "url": "https://open.spotify.com/album/5qaCctJXbwVrDFfTtAvos8"
+      },
+      "artists": [
+        {
+          "name": "Julio Borba",
+          "url": "https://open.spotify.com/artist/3TkBma5TBJFpZtQJdyebg3"
+        },
+        {
+          "name": "Santiago Beis",
+          "url": "https://open.spotify.com/artist/3IRcEtiCBca4XC0EtHXehO"
+        }
+      ],
+      "duration_ms": 253167,
+      "name": "Nos Dias de Hoje",
+      "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1855,6 +1855,30 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Sobre a Lua e os Passos",
+        "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
+      },
+      "artists": [
+        {
+          "name": "Trov\u00e3o Rocha",
+          "url": "https://open.spotify.com/artist/0u2Fj8zfHGiA82dDWCptaL"
+        },
+        {
+          "name": "Sebastian Cavallaro",
+          "url": "https://open.spotify.com/artist/3P6Kv3myWy1y4P631huZhk"
+        },
+        {
+          "name": "Victor Bub",
+          "url": "https://open.spotify.com/artist/7GnTv86SxOeGKlLD4eYtGl"
+        }
+      ],
+      "duration_ms": 247683,
+      "name": "Sobre a Lua e os Passos",
+      "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Heran\u00e7a",
         "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
       },
@@ -1867,6 +1891,54 @@
       "duration_ms": 407033,
       "name": "Influ\u00eancia",
       "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Rosi",
+        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
+      },
+      "artists": [
+        {
+          "name": "Rubinho Antunes",
+          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
+        },
+        {
+          "name": "Nailor \"Proveta\" Azevedo",
+          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
+        },
+        {
+          "name": "Rosicler Barbosa",
+          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
+        }
+      ],
+      "duration_ms": 239992,
+      "name": "Rosi",
+      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Fugindo do Sete",
+        "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
+      },
+      "artists": [
+        {
+          "name": "Pedro Gomes",
+          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
+        },
+        {
+          "name": "Alexandre Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/2YHI5pjMQoSZFisjvHjmz6"
+        },
+        {
+          "name": "Augusto Cordeiro",
+          "url": "https://open.spotify.com/artist/1vodQGadFkrtwlaSw5VOza"
+        }
+      ],
+      "duration_ms": 300659,
+      "name": "Fugindo do Sete",
+      "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1903,78 +1975,6 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Rosi",
-        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
-      },
-      "artists": [
-        {
-          "name": "Rubinho Antunes",
-          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
-        },
-        {
-          "name": "Nailor \"Proveta\" Azevedo",
-          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
-        },
-        {
-          "name": "Rosicler Barbosa",
-          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
-        }
-      ],
-      "duration_ms": 239992,
-      "name": "Rosi",
-      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Sobre a Lua e os Passos",
-        "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
-      },
-      "artists": [
-        {
-          "name": "Trov\u00e3o Rocha",
-          "url": "https://open.spotify.com/artist/0u2Fj8zfHGiA82dDWCptaL"
-        },
-        {
-          "name": "Sebastian Cavallaro",
-          "url": "https://open.spotify.com/artist/3P6Kv3myWy1y4P631huZhk"
-        },
-        {
-          "name": "Victor Bub",
-          "url": "https://open.spotify.com/artist/7GnTv86SxOeGKlLD4eYtGl"
-        }
-      ],
-      "duration_ms": 247683,
-      "name": "Sobre a Lua e os Passos",
-      "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Fugindo do Sete",
-        "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
-      },
-      "artists": [
-        {
-          "name": "Pedro Gomes",
-          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
-        },
-        {
-          "name": "Alexandre Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/2YHI5pjMQoSZFisjvHjmz6"
-        },
-        {
-          "name": "Augusto Cordeiro",
-          "url": "https://open.spotify.com/artist/1vodQGadFkrtwlaSw5VOza"
-        }
-      ],
-      "duration_ms": 300659,
-      "name": "Fugindo do Sete",
-      "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Cinepoesia: Samba do \u00c1rvore",
+        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Freire",
+          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
+        }
+      ],
+      "duration_ms": 163169,
+      "name": "Cinepoesia: Samba do \u00c1rvore",
+      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Es\u00e8nt\u00e1y\u00e9",
         "url": "https://open.spotify.com/album/4oOweGVz1dZa9yA8iBZxCW"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 416645,
       "name": "Es\u00e8nt\u00e1y\u00e9",
       "url": "https://open.spotify.com/track/5Ql86e570c4Ra4sWGyCrQv"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Cinepoesia: Samba do \u00c1rvore",
-        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Freire",
-          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
-        }
-      ],
-      "duration_ms": 163169,
-      "name": "Cinepoesia: Samba do \u00c1rvore",
-      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
     },
     {
       "added_at": "2022-12-02 03:01:00",

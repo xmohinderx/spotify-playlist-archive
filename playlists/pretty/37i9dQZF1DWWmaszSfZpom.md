@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacaré
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,607 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,620 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 30 | [Movimento da sanfoninha \- Ao vivo](https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Meu Lugar](https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN) | 2:56 |
 | 31 | [VAI MENINA](https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [VAI MENINA](https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY) | 2:02 |
 | 32 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
-| 33 | [Comprei um Lança](https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Comprei um Lança](https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb) | 1:52 |
-| 34 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
+| 33 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
+| 34 | [Comprei um Lança](https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Comprei um Lança](https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb) | 1:52 |
 | 35 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 |
 | 36 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
 | 37 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/6l6ykuHvWq1rV65S5Y1wJh) | 2:41 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 45 | [É sempre assim](https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu) | [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Gui Andrade](https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI) | [É sempre assim](https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3) | 2:38 |
 | 46 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
 | 47 | [Hold On](https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g) | [very man](https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR) | [Hold On](https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT) | 2:59 |
-| 48 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
-| 49 | [Catucada Profunda](https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o) | [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g), [Dj Gui Marques](https://open.spotify.com/artist/0O5Okg6jlyviFAxWxHzgDM), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Catucada Profunda](https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5) | 2:53 |
+| 48 | [Catucada Profunda](https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o) | [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g), [Dj Gui Marques](https://open.spotify.com/artist/0O5Okg6jlyviFAxWxHzgDM), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Catucada Profunda](https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5) | 2:53 |
+| 49 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
 | 50 | [Sentou e Gostou](https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe) | 2:43 |
 | 51 | [MANO DO AK](https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [MC Reis](https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO) | [MANO DO AK](https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1) | 3:04 |
 | 52 | [BALANÇA A GLOCK](https://open.spotify.com/track/4PUjVQcrNhH85XXyXnnjBd) | [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm), [DJ LG](https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ) | [BALANÇA A GLOCK](https://open.spotify.com/album/42TXAMMWEFePqDR95N7Cpm) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 74 | [Para não](https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Para não](https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf) | 2:44 |
 | 75 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 
-Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDdiMDkzOGZmYWI5ZjJlNTU0YWQ2MDhkZTBiZDgzNjNi`
+Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMGExMTcxMGZiY2Y3YTM1ZDk2ZWVkODI0ZDJmYmM2NjEx`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 3231,
+  "num_followers": 3257,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGUyZTAzZTNjZDdkYTUzZGVlNjVhZGQ5NTk1MmQ4NGMy",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGY4NDkyMDk4NThiMGE3Mzg4NWM3YzNmM2NmYTliZjNk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lay Wit Ya (feat. Duke Deuce)",
-        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        }
-      ],
-      "duration_ms": 202331,
-      "name": "Lay Wit Ya (feat. Duke Deuce)",
-      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
         "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 270710,
       "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
       "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lay Wit Ya (feat. Duke Deuce)",
+        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "duration_ms": 202331,
+      "name": "Lay Wit Ya (feat. Duke Deuce)",
+      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
     },
     {
       "added_at": "2022-10-01 16:00:00",

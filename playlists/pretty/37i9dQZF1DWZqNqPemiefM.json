@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 33811,
+  "num_followers": 33910,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkwNjgwMCwwMDAwMDAwMDk1MDk3YTY3YTRiMjNjYjAwZDM5NmNiMDc1ZTBiYmE5",
+  "snapshot_id": "MTY2OTkwNjgwMCwwMDAwMDAwMDk5ZTkzMzhjNWNkNjYxMzhlZjMwMzVlN2M1N2M3MzQ2",
   "tracks": [
     {
       "added_at": "2022-12-01 15:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "su sa",
-        "url": "https://open.spotify.com/album/0L6sbX9nuFeqVBw1G4dp9j"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 212523,
-      "name": "su sa",
-      "url": "https://open.spotify.com/track/3Bh4nEAEtlwPuY0qClRMx9"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
         "name": "[lust]",
         "url": "https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Komachi",
-        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+        "name": "su sa",
+        "url": "https://open.spotify.com/album/0L6sbX9nuFeqVBw1G4dp9j"
       },
       "artists": [
         {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
         }
       ],
-      "duration_ms": 255178,
-      "name": "Utano",
-      "url": "https://open.spotify.com/track/0h7IkhjykGhsXardJtErat"
+      "duration_ms": 212523,
+      "name": "su sa",
+      "url": "https://open.spotify.com/track/3Bh4nEAEtlwPuY0qClRMx9"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -751,6 +735,22 @@
       "duration_ms": 68600,
       "name": "Seiko 2",
       "url": "https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
+        "name": "Komachi",
+        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 255178,
+      "name": "Utano",
+      "url": "https://open.spotify.com/track/0h7IkhjykGhsXardJtErat"
     },
     {
       "added_at": "2022-12-01 15:00:00",

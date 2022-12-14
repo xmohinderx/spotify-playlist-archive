@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-114 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/66Rf5KyLWIyP5JnY8b9KB3)
+115 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/66Rf5KyLWIyP5JnY8b9KB3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,12 +20,13 @@
 | [Battle Belongs](https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Battle Belongs](https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0) | 4:47 | 2022-11-04 | 2022-11-13 |
 | [Battle Belongs](https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:47 | 2022-09-30 |  |
 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 | 2022-09-09 |  |
-| [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 | 2022-09-09 |  |
+| [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 | 2022-09-09 | 2022-12-14 |
 | [Caminho no Deserto](https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Caminho no Deserto](https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62) | 6:49 | 2022-09-09 |  |
 | [Começo, Meio e Fim / Mais Perto Quero Estar \- Ao Vivo](https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Começo, Meio e Fim / Mais Perto Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E) | 5:37 | 2022-09-09 |  |
 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2022-09-09 |  |
 | [Dame Tus Ojos \(feat\. Jesús Adrián Romero\)](https://open.spotify.com/track/3HZCMyuazaSOLgXexcMASl) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 3:34 | 2022-09-09 |  |
 | [De Dentro Pra Fora](https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Dentro Pra Fora](https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI) | 5:07 | 2022-09-09 |  |
+| [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 | 2022-12-09 |  |
 | [Deus de Detalhes](https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Esconderijo](https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh) | 4:56 | 2022-09-09 |  |
 | [Deus de Promessas](https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Simone](https://open.spotify.com/artist/1oVjhNDztl0fhT3y0iq5my) | [Deus de Promessas](https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G) | 5:39 | 2022-09-09 |  |
 | [Deus Emanuel](https://open.spotify.com/track/03SWHCfQMEKBcTd6E6jvgP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Emanuel](https://open.spotify.com/album/5yZ3LemPIfc59PbOqv0Gq4) | 5:16 | 2022-09-09 | 2022-10-02 |

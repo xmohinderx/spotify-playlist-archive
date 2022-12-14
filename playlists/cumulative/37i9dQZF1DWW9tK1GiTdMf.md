@@ -4,7 +4,7 @@
 
 > canzoni da gridare ❤️‍🩹 yungblud in cover
 
-326 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+327 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Fottuta canzone](https://open.spotify.com/track/4i30SbdrnaiYiwlMDhleQ4) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Fottuta canzone](https://open.spotify.com/album/6mKJbAjodAVSusX80nArAp) | 2:51 | 2022-05-06 | 2022-05-13 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-05-06 |  |
 | [Fuck U](https://open.spotify.com/track/3DMg5Yd3UKAHSt8YGqeewE) | [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca), [Drama](https://open.spotify.com/artist/2h16TAqr8VkUs8ddUxOS6w) | [Fuck U](https://open.spotify.com/album/6W8ZYTSJHBPjFCmISEJmcT) | 2:46 | 2022-09-19 |  |
-| [Fuori posto](https://open.spotify.com/track/0UUVtO6dgN7ZWqxp1Qd91y) | [Lost](https://open.spotify.com/artist/0qJ11kNp8ZxLwFuPf6yGpx) | [Fuori posto](https://open.spotify.com/album/5EPhKxPbzXD1LzXV6g0HJm) | 3:08 | 2022-11-10 |  |
+| [Fuori posto](https://open.spotify.com/track/0UUVtO6dgN7ZWqxp1Qd91y) | [Lost](https://open.spotify.com/artist/0qJ11kNp8ZxLwFuPf6yGpx) | [Fuori posto](https://open.spotify.com/album/5EPhKxPbzXD1LzXV6g0HJm) | 3:08 | 2022-11-10 | 2022-12-14 |
 | [Fuori Testa](https://open.spotify.com/track/431N2fIwIwVovUXwdRdRjG) | [Emme Mash](https://open.spotify.com/artist/4DnOMZ4FLpzdjWL8QKWH66) | [Fuori Testa](https://open.spotify.com/album/2xu4fxOOvA56VyHH8H9lnP) | 2:51 | 2022-05-26 | 2022-06-17 |
 | [Fuoriluogo](https://open.spotify.com/track/6Q1NlWzwFK3KGgpBE7WUgH) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [Fuoriluogo](https://open.spotify.com/album/0lMO5329mQD3O4V0Y61A5A) | 2:28 | 2022-11-24 |  |
 | [generazione // love kids](https://open.spotify.com/track/5FdFeh5gkFUQEmuKUrpf8q) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT), [friendly](https://open.spotify.com/artist/2t6CtsrDblYL3i8eoDrqL1) | [generazione // love kids](https://open.spotify.com/album/6UinIuQGxZFG43qqfhbSHC) | 2:13 | 2022-05-06 | 2022-06-03 |
@@ -264,6 +264,7 @@
 | [snow angels](https://open.spotify.com/track/4tyD9sivpD8NGM8KEEabAl) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume two](https://open.spotify.com/album/4k9Mz7WO4U1rx3JIRF3iFz) | 3:30 | 2022-10-06 | 2022-11-11 |
 | [SnOWfLAkE](https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [KIDNAP ME PLS](https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs) | 2:42 | 2022-10-27 | 2022-12-02 |
 | [SO CHI SEI](https://open.spotify.com/track/3uNwqefXvTVJROzoGzOMCj) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SO CHI SEI](https://open.spotify.com/album/7H4olKm9KSm2stKpSkih6N) | 3:41 | 2022-05-06 | 2022-10-14 |
+| [Solo come un cane](https://open.spotify.com/track/7uqxz5qUAtgugvxlpQ0EA2) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS) | [Solo come un cane](https://open.spotify.com/album/6CBCpUpGNwxz2pZpEDsnS9) | 3:23 | 2022-12-13 |  |
 | [SONO PAZZO DI TE!?](https://open.spotify.com/track/7CcbOXv6E8JJQQT3cSHg2y) | [Cali](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [SONO PAZZO DI TE!?](https://open.spotify.com/album/6HnH8uK0OuGF730D7BF6nD) | 2:46 | 2022-09-19 | 2022-12-09 |
 | [SOS](https://open.spotify.com/track/5WOpY1zsEVZHJMHTftuIzw) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [SOS](https://open.spotify.com/album/28KZcEMzj3R0f0jSmuO6Bc) | 2:27 | 2022-11-10 |  |
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-06-16 | 2022-07-15 |

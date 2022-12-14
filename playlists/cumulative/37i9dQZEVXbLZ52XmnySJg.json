@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 207309,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
@@ -3313,7 +3313,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 244669,
       "name": "Ennai Vittu (From \"Love Today\")",
       "url": "https://open.spotify.com/track/3LP4QpKptfe2yEC7oG5iNa"
@@ -4171,7 +4171,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 200113,
       "name": "Gundellonaa",
       "url": "https://open.spotify.com/track/14WLGWYd2wxho2cnDkLTBF"
@@ -5313,7 +5313,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 235264,
       "name": "Jhaanjar (From \"Honeymoon\")",
       "url": "https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50"
@@ -5533,6 +5533,32 @@
       "duration_ms": 230103,
       "name": "Kabhii Tumhhe (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/6R6BpMBFQrF7n2uEOxYmss"
+    },
+    {
+      "album": {
+        "name": "Yeh Jawaani Hai Deewani",
+        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tochi Raina",
+          "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
+        },
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223459,
+      "name": "Kabira",
+      "url": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c"
     },
     {
       "album": {
@@ -9143,7 +9169,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 228855,
       "name": "Ranjha (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
@@ -10209,7 +10235,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -11431,7 +11457,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"

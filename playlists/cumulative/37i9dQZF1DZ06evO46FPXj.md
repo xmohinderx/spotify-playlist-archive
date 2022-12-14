@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-123 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/0WU5a7eAdnsL2PN62ZeEjg)
+124 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/0WU5a7eAdnsL2PN62ZeEjg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Metaz form8](https://open.spotify.com/track/1rSt9taDVOIRPIOoHONhfM) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 6:00 | 2022-05-29 |  |
 | [Montreal](https://open.spotify.com/track/4G5lTzfkklIotjt28dhlz3) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 7:15 | 2022-05-29 |  |
 | [Nil](https://open.spotify.com/track/7ve54JSHBvuDEqDD5zixOl) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 7:48 | 2022-05-31 |  |
-| [Nine](https://open.spotify.com/track/7FR8DdPrRieZexZQaGDRWU) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 3:40 | 2022-05-30 | 2022-12-11 |
+| [Nine](https://open.spotify.com/track/7FR8DdPrRieZexZQaGDRWU) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 3:40 | 2022-05-30 |  |
 | [Overand](https://open.spotify.com/track/0PmrE6p9m2cQJNb0IITqke) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 7:33 | 2022-05-30 |  |
 | [paralel Suns](https://open.spotify.com/track/1MBshtR7zAuXisqVHN5gGY) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 3:03 | 2022-07-09 |  |
 | [Parhelic Triangle](https://open.spotify.com/track/2xe3xtjf7vlqY0S9WBOcP7) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 6:03 | 2022-05-29 | 2022-10-13 |
@@ -96,11 +96,12 @@
 | [plyPhon](https://open.spotify.com/track/0yBBQ0YaQGXDXBoJwdDJfN) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 2:33 | 2022-07-02 |  |
 | [Pro Radii](https://open.spotify.com/track/4ssgkBF25yIxJaER2DiQQW) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/7bcwwfwkWvYbDW72ooywDQ) | 8:41 | 2022-05-29 | 2022-10-07 |
 | [psin AM](https://open.spotify.com/track/0LUkyyoPeSHPl4z0swAbfX) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 6:20 | 2022-05-29 | 2022-10-13 |
+| [pt2ph8](https://open.spotify.com/track/4qJm6hIBf3UUg9j38cgA5X) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:09 | 2022-12-13 |  |
 | [r cazt](https://open.spotify.com/track/5w204CcAwS8mdfl0Rf4bLS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 7:12 | 2022-06-04 | 2022-10-09 |
 | [Rae](https://open.spotify.com/track/4tBC5l4AkqYfQ5CCx5IrKm) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 7:13 | 2022-05-29 |  |
 | [recks on](https://open.spotify.com/track/7twSQzitabpjcrxBi1a8fz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 9:21 | 2022-07-31 | 2022-08-03 |
 | [Recury](https://open.spotify.com/track/2EYkcwG4sC73I4zjl6yhXy) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 9:44 | 2022-05-29 | 2022-10-13 |
-| [Rettic AC](https://open.spotify.com/track/3QyfMPXAuzX6x1bgkgjuoV) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 2:07 | 2022-06-17 |  |
+| [Rettic AC](https://open.spotify.com/track/3QyfMPXAuzX6x1bgkgjuoV) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 2:07 | 2022-06-17 | 2022-12-14 |
 | [Rotar](https://open.spotify.com/track/1UI8F0Kz7zrKYZmjb9LeHt) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 8:04 | 2022-05-29 | 2022-10-13 |
 | [Rpeg](https://open.spotify.com/track/2Q9vfN92vj9TQgnN5Mq9CK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EP7](https://open.spotify.com/album/1KaTIdAepIJDxbSEEL3M2z) | 6:00 | 2022-05-30 | 2022-09-29 |
 | [sch.mefd 2](https://open.spotify.com/track/6ED9r3V1lS4vWi3mAEhRYh) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 5:25 | 2022-06-01 | 2022-10-27 |
@@ -109,7 +110,7 @@
 | [Second Scout](https://open.spotify.com/track/7kGpCKuJUUkNLGJ8uIKXHG) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anvil Vapre](https://open.spotify.com/album/6UcShvT8JIKOaHj39k6A8f) | 7:45 | 2022-05-29 | 2022-10-13 |
 | [see on see](https://open.spotify.com/track/5bP6GgBa3iMVbywZwD0xV5) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:37 | 2022-06-03 | 2022-12-02 |
 | [si00](https://open.spotify.com/track/49Ux8dnMRPMDSiNrewL4II) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 5:51 | 2022-05-29 |  |
-| [Silverside](https://open.spotify.com/track/5tFioPH3Hw6bbbewX3Aokj) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 5:31 | 2022-06-02 |  |
+| [Silverside](https://open.spotify.com/track/5tFioPH3Hw6bbbewX3Aokj) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 5:31 | 2022-06-02 | 2022-12-14 |
 | [Sim Gishel](https://open.spotify.com/track/5iliZ1RSIVXvdg9xxMdvG4) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 7:14 | 2022-05-30 | 2022-10-12 |
 | [Slip](https://open.spotify.com/track/6wTXs58QJBjjwWVwX4ECTM) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:21 | 2022-05-29 |  |
 | [SonDEremawe](https://open.spotify.com/track/2B2Lsya6y6hPHRkXwguQ1T) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 1:21 | 2022-10-07 |  |

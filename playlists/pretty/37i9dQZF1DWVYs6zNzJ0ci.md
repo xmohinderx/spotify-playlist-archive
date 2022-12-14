@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Manuel Medrano, Rawayana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,609 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,742 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,25 +50,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 40 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
 | 41 | [Aire](https://open.spotify.com/track/2QzZbHq663tcsRK39ptX4Y) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/6e2HWh7tBqocDo2QLW04Sx) | 4:10 |
 | 42 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
-| 43 | [Orillas](https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tiempos de Tribulacion](https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK) | 6:03 |
-| 44 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 |
+| 43 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 |
+| 44 | [Orillas](https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tiempos de Tribulacion](https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK) | 6:03 |
 | 45 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
 | 46 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 |
 | 47 | [Fuiste Cruel](https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo) | 4:57 |
 | 48 | [Véngase II](https://open.spotify.com/track/3pzM6wDql5VklfF8E0ZmdY) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:21 |
-| 49 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 |
-| 50 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 |
-| 51 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
+| 49 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
+| 50 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 |
+| 51 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 |
 | 52 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
 | 53 | [Morena](https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Morena](https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7) | 3:16 |
 | 54 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 |
 | 55 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
 | 56 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
-| 57 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
-| 58 | [Buenos Dias Bebé](https://open.spotify.com/track/2Ge5hEIr8Q45XXyFY5X3pp) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Buenos Dias Bebé](https://open.spotify.com/album/7GBQ9TY855quKaacVc7yZD) | 3:36 |
-| 59 | [Dance Forever](https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Dance Forever](https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh) | 2:37 |
-| 60 | [Por Cultivar Marihuana](https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu) | 5:09 |
-| 61 | [Marea](https://open.spotify.com/track/762sfNdn6m2dnTp8VqFiF5) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 3:14 |
+| 57 | [Buenos Dias Bebé](https://open.spotify.com/track/2Ge5hEIr8Q45XXyFY5X3pp) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Buenos Dias Bebé](https://open.spotify.com/album/7GBQ9TY855quKaacVc7yZD) | 3:36 |
+| 58 | [Dance Forever](https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Dance Forever](https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh) | 2:37 |
+| 59 | [Por Cultivar Marihuana](https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu) | 5:09 |
+| 60 | [Marea](https://open.spotify.com/track/762sfNdn6m2dnTp8VqFiF5) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 3:14 |
+| 61 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
 | 62 | [La Playa](https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [La Playa](https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV) | 3:16 |
 | 63 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 |
 | 64 | [A Los Ojos](https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Calamaro Querido!! Cantando Al Salmón Parte 1](https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
 | 100 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDdhZjIzYmE3MzdkOGZjZGI4YzE2N2FlN2ZlYmVlYmI0`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGEzOTU5NGYxMDdkMWFjN2NhY2VmZDNjZDQ3MjcxZGZl`

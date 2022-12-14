@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 3008,
+  "num_followers": 3010,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMDBhMTlhYmE1NjMzZjRjMDk2NjhiMDhhMjE4NjA2M2E3",
+  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMDk3MGRmNGI4YWU2MTE5MWYwOWI1MTc5MWNjZWI5NmMw",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
+        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 153759,
+      "name": "Little By Little (I'm Losing You)",
+      "url": "https://open.spotify.com/track/25vYkkypWmtzS88Podza8X"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
         "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 168241,
       "name": "I Love The Woman",
       "url": "https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
-        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 153759,
-      "name": "Little By Little (I'm Losing You)",
-      "url": "https://open.spotify.com/track/25vYkkypWmtzS88Podza8X"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Lead Belly: The Smithsonian Folkways Collection",
-        "url": "https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK"
-      },
-      "artists": [
-        {
-          "name": "Lead Belly",
-          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
-        }
-      ],
-      "duration_ms": 152700,
-      "name": "Pigmeat",
-      "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Horrifying Deatheating Bloodspider",
         "url": "https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 135853,
       "name": "Get the Moon Up",
       "url": "https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Lead Belly: The Smithsonian Folkways Collection",
+        "url": "https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK"
+      },
+      "artists": [
+        {
+          "name": "Lead Belly",
+          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
+        }
+      ],
+      "duration_ms": 152700,
+      "name": "Pigmeat",
+      "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
-        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
-      },
-      "artists": [
-        {
-          "name": "The Art Wood Combo",
-          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 200186,
       "name": "Honey Bee (feat. Willie Buck)",
       "url": "https://open.spotify.com/track/2T857BosTppifCEGyKjkNz"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
+        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
+      },
+      "artists": [
+        {
+          "name": "The Art Wood Combo",
+          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Presenting Smiley Lewis",
-        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
+        "name": "Blues For Everybody",
+        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
       },
       "artists": [
         {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Gumbo Blues",
-      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
+      "duration_ms": 156746,
+      "name": "She Cooks Me Cabbage",
+      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Blues For Everybody",
-        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
+        "name": "Presenting Smiley Lewis",
+        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "Smiley Lewis",
+          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
         }
       ],
-      "duration_ms": 156746,
-      "name": "She Cooks Me Cabbage",
-      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
+      "duration_ms": 145000,
+      "name": "Gumbo Blues",
+      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
     },
     {
       "added_at": "2022-12-02 14:28:08",

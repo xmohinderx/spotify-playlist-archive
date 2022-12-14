@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 106045,
+  "num_followers": 106079,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MzIwNiwwMDAwMDAwMDg4MzQxMzgxMjFlNTFiZjYzMjJjMTQ0MGQ5ZDIyZmY5",
+  "snapshot_id": "MTY3MDU2MzIwNiwwMDAwMDAwMGEwOTI2Zjk3YzgwNzkxMWQ3MjlmNWIyYmQ3NjY1NTM5",
   "tracks": [
     {
       "added_at": "2022-12-06 13:51:14",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-12-06 13:51:14",
       "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 304780,
+      "name": "Enquanto Durmo",
+      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
+    },
+    {
+      "added_at": "2022-12-06 13:51:14",
+      "album": {
         "name": "Alumi\u00f4",
         "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 204116,
       "name": "Alumi\u00f4",
       "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
-    },
-    {
-      "added_at": "2022-12-06 13:51:14",
-      "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 304780,
-      "name": "Enquanto Durmo",
-      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
     },
     {
       "added_at": "2022-12-06 13:51:14",
@@ -981,6 +981,22 @@
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
     },
     {
+      "added_at": "2022-12-14 00:56:37",
+      "album": {
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
+    },
+    {
       "added_at": "2022-12-06 13:51:14",
       "album": {
         "name": "Condom Black",
@@ -1095,22 +1111,6 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
-    },
-    {
-      "added_at": "2022-12-06 13:51:14",
-      "album": {
-        "name": "O Funk Mais Triste da Cidade",
-        "url": "https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        }
-      ],
-      "duration_ms": 170288,
-      "name": "Mais Uma de Carnaval",
-      "url": "https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM"
     }
   ],
   "unique_name": "Cozinhando em Casa",

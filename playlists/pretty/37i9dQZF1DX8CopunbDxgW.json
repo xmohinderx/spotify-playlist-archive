@@ -1,12 +1,12 @@
 {
   "description": "The essential indie dance, featuring Biig Piig.",
-  "num_followers": 820331,
+  "num_followers": 820432,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYxNTg5MiwwMDAwMDAwMDcyMTgwY2ZlYmM0NDc0NjAwNmZjNDkzNTQ0YmNjNzJj",
+  "snapshot_id": "MTY3MDYxNTg5MiwwMDAwMDAwMGQyY2NlNTM4MjVjMzNmZTAxZTNlNGE0YzJjZmU3ODNj",
   "tracks": [
     {
       "added_at": "2022-10-05 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Casita",
         "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 206000,
       "name": "Casita",
       "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Small World",
-        "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Right on time",
-      "url": "https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "EXCEPTIONAL",
         "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 137739,
       "name": "EXCEPTIONAL",
       "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Small World",
+        "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Right on time",
+      "url": "https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -709,24 +709,20 @@
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-11-08 16:57:03",
       "album": {
-        "name": "405 - Metronomy x Biig Piig",
-        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
+        "name": "Restless Bones",
+        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 265505,
-      "name": "405 - Metronomy x Biig Piig",
-      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
+      "duration_ms": 145573,
+      "name": "Restless Bones",
+      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -747,6 +743,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "405 - Metronomy x Biig Piig",
+        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 265505,
+      "name": "405 - Metronomy x Biig Piig",
+      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 216818,
       "name": "Highest Building (feat. Oklou)",
       "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
-    },
-    {
-      "added_at": "2022-11-08 16:57:03",
-      "album": {
-        "name": "Restless Bones",
-        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Restless Bones",
-      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 225368,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Iced Tea",
         "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 205384,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 225368,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Love Letter (feat. The Knocks)",
         "url": "https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 253121,
       "name": "Love Letter (feat. The Knocks)",
       "url": "https://open.spotify.com/track/26wuBc04catG1QQyYupr35"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
     },
     {
       "added_at": "2022-10-05 04:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Better Now (feat. MARO)",
+        "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 194110,
+      "name": "Better Now (feat. MARO)",
+      "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 385074,
       "name": "Admit It (u don't want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Better Now (feat. MARO)",
-        "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 194110,
-      "name": "Better Now (feat. MARO)",
-      "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
     },
     {
       "added_at": "2022-11-18 16:47:43",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Time Is Mine",
-        "url": "https://open.spotify.com/album/1TPWBqLB1wLkDTWpoWLHp2"
-      },
-      "artists": [
-        {
-          "name": "Kidswaste",
-          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
-        },
-        {
-          "name": "Olivia Reid",
-          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
-        }
-      ],
-      "duration_ms": 169246,
-      "name": "Time Is Mine",
-      "url": "https://open.spotify.com/track/7qohJZZBpGDUHuUozqAwoS"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Nova / Moth",
         "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 342000,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Time Is Mine",
+        "url": "https://open.spotify.com/album/1TPWBqLB1wLkDTWpoWLHp2"
+      },
+      "artists": [
+        {
+          "name": "Kidswaste",
+          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
+        },
+        {
+          "name": "Olivia Reid",
+          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
+        }
+      ],
+      "duration_ms": 169246,
+      "name": "Time Is Mine",
+      "url": "https://open.spotify.com/track/7qohJZZBpGDUHuUozqAwoS"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "BMW Track / So U Kno",
-        "url": "https://open.spotify.com/album/08Vp7WDcv1r8dVMjyJaVOt"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 343506,
-      "name": "So U Kno",
-      "url": "https://open.spotify.com/track/1IhY2i0jpvR5hGY9jdFvxv"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Love Brand New",
         "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "BMW Track / So U Kno",
+        "url": "https://open.spotify.com/album/08Vp7WDcv1r8dVMjyJaVOt"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 343506,
+      "name": "So U Kno",
+      "url": "https://open.spotify.com/track/1IhY2i0jpvR5hGY9jdFvxv"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "e-motions (with Erika de Casier)",
-        "url": "https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 168723,
-      "name": "e-motions (with Erika de Casier)",
-      "url": "https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -1663,6 +1643,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "e-motions (with Erika de Casier)",
+        "url": "https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 168723,
+      "name": "e-motions (with Erika de Casier)",
+      "url": "https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Just Can't Get Enough",
         "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
       },
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
+      "duration_ms": 271642,
+      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
       "artists": [
         {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 271642,
-      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
+      "duration_ms": 200213,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
     },
     {
       "added_at": "2022-09-09 04:00:00",

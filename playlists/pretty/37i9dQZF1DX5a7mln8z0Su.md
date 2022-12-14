@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,604 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,619 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 15 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL) | 3:48 |
 | 16 | [Pearl](https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Pearl](https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3) | 3:53 |
 | 17 | [daisy.](https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS) | 3:38 |
-| 18 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
+| 18 | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C) | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl) | 4:13 |
 | 19 | [BOKE](https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BOKE](https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD) | 3:04 |
-| 20 | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C) | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl) | 4:13 |
+| 20 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
 | 21 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
 | 22 | [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 |
 | 23 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 |
 | 24 | [Cloudy](https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [bimil:ier vol.6 "Cloudy"](https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX) | 3:27 |
 | 25 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 |
-| 26 | [Sun Dance](https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [Sun Dance](https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd) | 3:37 |
-| 27 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 |
+| 26 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 |
+| 27 | [Sun Dance](https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [Sun Dance](https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd) | 3:37 |
 | 28 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
 | 29 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
 | 30 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 43 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 |
 | 44 | [My World](https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 |
 | 45 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 |
-| 46 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 |
-| 47 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
+| 46 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
+| 47 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 |
 | 48 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 |
 | 49 | [Shooting Star](https://open.spotify.com/track/4V64n9p1OqlZTwgNGuDRmo) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Shooting Star](https://open.spotify.com/album/5EAsZOx6DFvj7roiv8FVDb) | 3:07 |
 | 50 | [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 |
 
-Snapshot ID: `MTY2OTM0MjUzOCwwMDAwMDAwMDUwNjg0MGVkYjM4MTliNzEwMWZhYjJmMDk5MmZkMDgx`
+Snapshot ID: `MTY2OTM0MjUzOCwwMDAwMDAwMGNkOGM5ZjRmYWZlNGIwZmExMDhmYWQwNTJjNDdhZmQw`

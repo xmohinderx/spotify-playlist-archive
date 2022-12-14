@@ -4,7 +4,7 @@
 
 > n3xt l3v3l beats.
 
-133 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
+135 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Coastal](https://open.spotify.com/track/2NTImx9Yk0jNzKUg1Ht8wU) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Coastal](https://open.spotify.com/album/7CeETykLYmpfU49DdCMxgc) | 2:08 | 2022-04-22 |  |
 | [Coffee Jazz vibes](https://open.spotify.com/track/0MUGs0JpdZiIbtwsACGQci) | [Zleept](https://open.spotify.com/artist/503ArEUA5XIRmhJCk7fRdN) | [But It is L O F I](https://open.spotify.com/album/04CJWN7lrnFkMBWh2ATsF3) | 1:50 | 2022-04-22 |  |
 | [Collage Jazz](https://open.spotify.com/track/0ui7QVgNmYDNUcOSiXYtqH) | [Akkva](https://open.spotify.com/artist/1sqDQoGriTTDMBABo2XbVb) | [dicy](https://open.spotify.com/album/1IgNbjh2eivcU7LRQJkqTY) | 2:18 | 2022-04-22 |  |
-| [Cruisin](https://open.spotify.com/track/10bEN2SCU2gelIp3UkaVOd) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/0ElJODIKCD7IMk1qx6g5YD) | 2:51 | 2022-09-16 |  |
+| [Cruisin](https://open.spotify.com/track/10bEN2SCU2gelIp3UkaVOd) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/0ElJODIKCD7IMk1qx6g5YD) | 2:51 | 2022-09-16 | 2022-12-14 |
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2022-04-22 | 2022-11-20 |
+| [Cruisin](https://open.spotify.com/track/71HwYl1J3sYcMAIvoHczQ9) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/2y72j8cLcPUTBIdbX8lgiE) | 2:51 | 2022-12-09 |  |
 | [Crunchy](https://open.spotify.com/track/29Vnq6QaHQZnc0y0rPSQSe) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Crunchy](https://open.spotify.com/album/6EjrJfPvnHoJRS15xWXmKJ) | 2:45 | 2022-04-22 |  |
 | [Deep Pockets](https://open.spotify.com/track/6ivtpwLd3ZJW6J9THJP2JP) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Deep Pockets](https://open.spotify.com/album/0hgL3GX8NBVHG26sV0lPmG) | 2:46 | 2022-04-22 |  |
 | [Dream Sailling](https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Blame the Winds](https://open.spotify.com/album/3A26hgmcTnVx5BcsfYS7rl) | 2:49 | 2022-04-22 |  |
@@ -59,7 +60,8 @@
 | [Juicy](https://open.spotify.com/track/5XotBMNRTExEMs4MalMTu0) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Hot Rain](https://open.spotify.com/album/4RUeIpvBctPsm87nIsftwp) | 3:13 | 2022-04-22 |  |
 | [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 | 2022-04-22 |  |
 | [Kinderphon](https://open.spotify.com/track/07KyFTUzEDpASj03Ss2xSO) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Kinderphon](https://open.spotify.com/album/7l47GkIEz6lggwP0eHrcyP) | 2:41 | 2022-04-22 |  |
-| [la donna e la chitarra](https://open.spotify.com/track/06F8Fnl3zIJ8Fy4IlKJSz3) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/7nYLq5Mq6zbO4Zuzdxy7Ka) | 1:45 | 2022-09-16 |  |
+| [la donna e la chitarra](https://open.spotify.com/track/06F8Fnl3zIJ8Fy4IlKJSz3) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/7nYLq5Mq6zbO4Zuzdxy7Ka) | 1:45 | 2022-09-16 | 2022-12-14 |
+| [la donna e la chitarra](https://open.spotify.com/track/2e94pHYImdJE6wgMLHaA9l) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/3stfQyN1Aq78m0W42lG2xS) | 1:45 | 2022-12-09 |  |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-22 | 2022-11-20 |
 | [LA Play](https://open.spotify.com/track/7uoP2fntlQ2QoZw5xzd5c7) | [Elkisen](https://open.spotify.com/artist/0WATboTSfypHxtbxPNNu7G) | [Sweet Love](https://open.spotify.com/album/1hdWxEs5MiHnFKVVU12hqg) | 2:14 | 2022-04-22 |  |
 | [Life Strikes](https://open.spotify.com/track/4iyj7Yptcbp3Lje0bzBKmW) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Life Strikes](https://open.spotify.com/album/315FnS3Df4T5t8KAiVzljJ) | 2:00 | 2022-04-22 |  |

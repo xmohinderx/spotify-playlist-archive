@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Fito.",
-  "num_followers": 531311,
+  "num_followers": 531431,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDA0YTBjMTlkZTZmYmU3ZGQ5ODYxYjJlZWY1MjEyOWIz",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDU3ZGZmNTQ0NDg4YWQwYWM0ZWIwODI3YWY1MzljZTE2",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "Cuesta Arriba",
+      "url": "https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Ahora o nunca",
         "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Negociando gasolina",
-        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
-      },
-      "artists": [
-        {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
-        }
-      ],
-      "duration_ms": 208839,
-      "name": "Buscando en la basura",
-      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Canciones Prohibidas",
         "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU"
+        "name": "Negociando gasolina",
+        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
         }
       ],
-      "duration_ms": 164470,
-      "name": "Cuesta Arriba",
-      "url": "https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O"
+      "duration_ms": 208839,
+      "name": "Buscando en la basura",
+      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "Necesito Respirar",
-      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "El Mar No Cesa- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 241280,
       "name": "Mar adentro",
       "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "Necesito Respirar",
+      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Barricada",
-        "url": "https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ"
+        "name": "Alguien pa ti",
+        "url": "https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM"
       },
       "artists": [
         {
-          "name": "Barricada",
-          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
         }
       ],
-      "duration_ms": 175333,
-      "name": "No Hay Tregua",
-      "url": "https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR"
+      "duration_ms": 179705,
+      "name": "Alguien pa ti",
+      "url": "https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Alguien pa ti",
-        "url": "https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM"
+        "name": "Barricada",
+        "url": "https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ"
       },
       "artists": [
         {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+          "name": "Barricada",
+          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
         }
       ],
-      "duration_ms": 179705,
-      "name": "Alguien pa ti",
-      "url": "https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V"
+      "duration_ms": 175333,
+      "name": "No Hay Tregua",
+      "url": "https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR"
     },
     {
       "added_at": "2022-12-08 23:00:00",

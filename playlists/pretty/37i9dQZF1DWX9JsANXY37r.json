@@ -1,12 +1,12 @@
 {
   "description": "Conforto para beber gin t\u00f4nica, mojito ou caipirinha sem precisar levantar do sof\u00e1.",
-  "num_followers": 106684,
+  "num_followers": 106682,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MTk2OSwwMDAwMDAwMGEzYmExZThkZTg4MjdhMDJlYjVhYzgwNTBkYjZmODVm",
+  "snapshot_id": "MTY2Mzc4MTk2OSwwMDAwMDAwMDdhMDE4N2M0YjZmZGY0YjMzYWJjNWQ2NzMzYzZlZjQ2",
   "tracks": [
     {
       "added_at": "2022-09-21 17:39:29",
@@ -523,6 +523,26 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "9",
+      "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 218926,
       "name": "Keeping Me Under",
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "9",
-      "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
     },
     {
       "added_at": "2022-09-21 17:39:29",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "J Warner",
-          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
-        }
-      ],
-      "duration_ms": 229743,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "duration_ms": 229743,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
     },
     {
       "added_at": "2022-09-21 17:39:29",

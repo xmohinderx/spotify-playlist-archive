@@ -2,7 +2,7 @@
 
 ### [80s Ballads](https://open.spotify.com/playlist/37i9dQZF1DXdg0VZ8UGKsU)
 
-> All 80s, all ballads\. Cover: Whitney Houston
+> All 80s, all ballads\. Cover: Michael Bolton
 
 126 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/5MJ9psTUoa9dYMF8ULHTj9)
 

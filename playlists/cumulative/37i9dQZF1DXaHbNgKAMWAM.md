@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-203 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+204 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [D \- 이야기](https://open.spotify.com/track/3rWvseGXGmmOsg4hRm7jUl) | [DAB19](https://open.spotify.com/artist/5UdyE3s0FtqyDMWNGkQvOu) | [D \- 이야기](https://open.spotify.com/album/0VAzE9GG4ifqL05VtRhsDQ) | 4:04 | 2022-06-20 | 2022-06-29 |
 | [DALLA](https://open.spotify.com/track/0BE13JCAlf4OYlWzlXNitY) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [DALLA](https://open.spotify.com/album/5GlGTxGBX3amAqGEjZAD7l) | 2:56 | 2022-05-11 | 2022-07-23 |
 | [DATE](https://open.spotify.com/track/6QBLkeLbQ7zvQ0WuHesn1d) | [SEONGRI](https://open.spotify.com/artist/3lKRDSj7o3AtOKSVPEhe3Z) | [DATE](https://open.spotify.com/album/5BUwBTVvhJuMm2PJSKQxcu) | 3:36 | 2022-06-09 | 2022-07-10 |
+| [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-14 |  |
 | [Dear.](https://open.spotify.com/track/5Hwo3p2oT7RaHXlY0Ks1ZV) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Dear.](https://open.spotify.com/album/6k8MPTcvl25jtS2GKu6GpA) | 3:53 | 2022-05-11 | 2022-07-24 |
 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 | 2022-05-11 |  |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-11 | 2022-07-27 |
@@ -143,7 +144,7 @@
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 |  |
 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 | 2022-07-08 |  |
 | [Some](https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn) | 3:01 | 2022-05-11 | 2022-07-29 |
-| [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 | 2022-10-13 |  |
+| [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 | 2022-10-13 | 2022-12-14 |
 | [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 | 2022-06-20 | 2022-07-27 |
 | [Speechless](https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Speechless](https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8) | 3:27 | 2022-05-11 | 2022-07-29 |
 | [Stand by you](https://open.spotify.com/track/10U69KqbjO3IuQ375CoYZ8) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 4:21 | 2022-05-11 | 2022-07-28 |

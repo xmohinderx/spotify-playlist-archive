@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ\">Pheelz</a>",
-  "num_followers": 558623,
+  "num_followers": 558758,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDE4ODY2OTY1ODNlZTZlZTg2NTcxYjVlZTlkODhhM2Y4",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDkyOTk3NmFmNjdkOTA4MTQ1NDBlZGU5MWQ4NDIxYmQz",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 187873,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 187873,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Bloody Samaritan",
         "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Fashion Killer",
-      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Damn (feat. 6lack)",
         "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 159338,
       "name": "Damn (feat. 6lack)",
       "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Fashion Killer",
+      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2022-08-19 04:01:00",

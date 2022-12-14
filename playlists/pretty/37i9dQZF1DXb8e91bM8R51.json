@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 36522,
+  "num_followers": 36529,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMGM3NTNiMTRmMzEyZjllNTYxMjYwNWJhN2E3YjJkZWMx",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMGMwYTBkMTc1NzE5MGM2NjkwYmJlOTMwMTAxZmVhMjM2",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 210906,
       "name": "Livin It Up (with Post Malone & A$AP Rocky)",
       "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Denial",
-        "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Denial",
-      "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "MORE BLACK SUPERHEROES",
         "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/7GI7QNI80ms5XVAdS6fujG"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Good Job",
+        "url": "https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Thug Till It's Over",
+      "url": "https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
         "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 196562,
       "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
       "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Good Job",
-        "url": "https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu"
-      },
-      "artists": [
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Thug Till It's Over",
-      "url": "https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 309570,
+      "name": "AMERICAN HORROR STORY",
+      "url": "https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "RTJ CU4TRO",
         "url": "https://open.spotify.com/album/1ILVeBkzKVhwqn1ze1et9x"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 244586,
       "name": "fuera de vista (feat. Baco Exu Do Blues) - TROOKO\u2019s Versi\u00f3n",
       "url": "https://open.spotify.com/track/4NqA2uQZsBGBelv77weqdi"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 309570,
-      "name": "AMERICAN HORROR STORY",
-      "url": "https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo"
     },
     {
       "added_at": "2022-12-02 03:01:00",

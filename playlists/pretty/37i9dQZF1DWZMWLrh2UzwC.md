@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,067 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,064 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 21 | [親愛的對象 \- 《關於我和鬼變成家人的那件事》電影主題曲](https://open.spotify.com/track/70ywpHtaToCmnULRT9Vu4p) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \(《關於我和鬼變成家人的那件事》電影主題曲\)](https://open.spotify.com/album/6ohthacCclaqEnO1xfEUu6) | 4:54 |
 | 22 | [December\. 24](https://open.spotify.com/track/5Ohvq1eQp1tqAFphomgG2i) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [December\. 24](https://open.spotify.com/album/4DHi2uDjBt98cQzfSD7Fut) | 3:30 |
 | 23 | [Flash](https://open.spotify.com/track/5HUSHuEQ2u49F2Bn7V7OI4) | [SHINHWA WDJ](https://open.spotify.com/artist/3sQoi7YsPFaxKcQlSemJ93) | [Come To Life](https://open.spotify.com/album/7DAnweYfgKkI2OzupEMnQC) | 3:16 |
-| 24 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 |
+| 24 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Utada Hikaru](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 |
 | 25 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 |
 | 26 | [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:53 |
 | 27 | [Yummy](https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Yummy](https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4) | 2:49 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 46 | [Nonbinary](https://open.spotify.com/track/55OmTIQj8yjQFzDP1XUT5w) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:19 |
 | 47 | [guns n' roses feat\. Dro Kenji](https://open.spotify.com/track/6CdzdU8DtQbf0NDvb3gWY2) | [LOAT!](https://open.spotify.com/artist/6o1ntTG3W1wFDYhqWnNAlx), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [cheap thrills](https://open.spotify.com/album/5vxDUFsGeEJ1bPbE7Ka6Of) | 3:33 |
 | 48 | [Glory Boyz feat\. 904TEZZO](https://open.spotify.com/track/471zaxTcJ6Ik7XjnhNc5OD) | [Lil Boom](https://open.spotify.com/artist/1mmlWsyPJvvxMdabcGJjRn), [904TEZZO](https://open.spotify.com/artist/56HrCPz22OqbQLizgOEjm7) | [COLORFUL](https://open.spotify.com/album/0AvHIGhIEaYmYLqCw9rgba) | 1:22 |
-| 49 | [WITH YOU \- TC/TC](https://open.spotify.com/track/3bve5HCAhW1LANewmTmb2m) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/7bgPPiVyDh38iln4l0wIo7) | 4:52 |
+| 49 | [WITH YOU \- TC/TC](https://open.spotify.com/track/03oQVOKI33bkJFUOv7ERle) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/4ZInl14znkzy0u6OQBgmxZ) | 4:52 |
 | 50 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [RAFA](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 |
 | 51 | [Old Fashion Love](https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Old Fashion Love](https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0) | 3:29 |
 | 52 | [almond eyes](https://open.spotify.com/track/0UQqXykR504ftBmPR2XlwM) | [Clavita](https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7) | [almond eyes](https://open.spotify.com/album/0bwBVQwy1TgmqkRt3Wuib0) | 3:32 |
 | 53 | [perfect crime](https://open.spotify.com/track/3MXxxR1szyDyGz4tFvjEqi) | [Skinnyfabs](https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H) | [The Black Canvas](https://open.spotify.com/album/2334h24eIxcIbUym2SaPkP) | 2:55 |
 | 54 | [You & Me](https://open.spotify.com/track/3R8gZnLQnJcCWSbLgLgkQ2) | [TANJUNG](https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du) | [You & Me](https://open.spotify.com/album/2GdOawr1zQPA5ZQ6KUfmMb) | 3:53 |
-| 55 | [Don't Break My Heart Again !](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again !](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 |
+| 55 | [Don't Break My Heart Again!](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again!](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 |
 | 56 | [i like you so bad](https://open.spotify.com/track/34nyfiYHstOnpIcb7xOF74) | [A Irynn](https://open.spotify.com/artist/1Eyb60kL2vSZ7OAxygY9Xt) | [i like you so bad](https://open.spotify.com/album/63GD2b3qjtJomz3vGR03HN) | 4:23 |
 | 57 | [恋香 \(新传媒电视剧 《遇见你,真香!》主题曲\)](https://open.spotify.com/track/0nNxfR5XNdnMpa0U1YZIrf) | [Jocie Guo](https://open.spotify.com/artist/6hkP84fpANIA89Nv3T9JSm) | [恋香 \(新传媒电视剧 《遇见你,真香!》主题曲\)](https://open.spotify.com/album/3gcYplSF1bpg6Mgi4P00Ft) | 3:47 |
 | 58 | [the way you wanna be](https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [the way you wanna be](https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN) | 2:37 |
 | 59 | [CREEP INTO MY MIND](https://open.spotify.com/track/11OPSZpxPvrE1MNjxOVbgf) | [AINN](https://open.spotify.com/artist/3q2Q5ZizaHq727uR0MIYMK) | [CREEP INTO MY MIND](https://open.spotify.com/album/6Tb6AIk4qdDm3tqw2r0sw9) | 3:13 |
 | 60 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 |
 
-Snapshot ID: `MTY3MDU1OTk3MiwwMDAwMDAwMDgyMjc2NDc2NDNkYTY5YmQ4YThhMzcyMjNiNTQ5YThj`
+Snapshot ID: `MTY3MDU1OTk3MiwwMDAwMDAwMGEyMzJhMDYzOTYzZDU4MzE0ZWFiN2MyM2Y2MTk3NGI5`

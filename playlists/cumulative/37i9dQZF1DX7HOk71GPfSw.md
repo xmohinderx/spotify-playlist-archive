@@ -4,7 +4,7 @@
 
 > ft\. 100 gecs
 
-1,558 songs - 2 day 22 hr 43 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,559 songs - 2 day 22 hr 45 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [calcimine](https://open.spotify.com/track/2vhjmUOgdBZT9jZdX5CUX7) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l), [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [calcimine](https://open.spotify.com/album/0qeHMBQEDT3IOzw9K1KBvg) | 3:27 | 2022-03-04 | 2022-05-12 |
 | [Calcium](https://open.spotify.com/track/0D6MyCMzbniMYWHYyCcv5N) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 3:44 | 2020-12-11 | 2021-01-08 |
 | [Calcium](https://open.spotify.com/track/1l3Aiqc1f7rTSlUfntBrLr) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [Effective\. Power](https://open.spotify.com/album/6ciHbf3kLyynyVQrB79b88) | 3:26 | 2020-10-16 | 2021-02-10 |
+| [can't let go](https://open.spotify.com/track/0jKeoIwVWNbQSVMulsz6E1) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [can't let go](https://open.spotify.com/album/0eJLW1pzlUvY8Ail8FUlji) | 2:25 | 2022-12-13 |  |
 | [cannot handle](https://open.spotify.com/track/6Gsg2chcGEaXfXugmYeBMQ) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [cannot handle](https://open.spotify.com/album/65aTjj9ySB6kg7rrE1A7RE) | 2:03 | 2021-07-07 | 2021-09-21 |
 | [canopus](https://open.spotify.com/track/5ck0fHvUHP8MAyorMHRDAN) | [DJH](https://open.spotify.com/artist/3WgUHWrtChAtmsFqAIgkiF), [sv1](https://open.spotify.com/artist/5psozSf1zuTfnj2vAy5ElH) | [voids](https://open.spotify.com/album/24wI5QIqAVS0aibSdRZ7QB) | 4:00 | 2022-07-29 | 2022-09-04 |
 | [Care](https://open.spotify.com/track/7yMZ5Xa4TDQo3dLlDRCwfm) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Care](https://open.spotify.com/album/3mDFwTz4FIFi2ClrkZPCQT) | 1:25 | 2021-11-12 | 2022-01-29 |
@@ -1002,7 +1003,7 @@
 | [orange](https://open.spotify.com/track/3Boce4mnHgoSvyIYwpLJDi) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [in memory](https://open.spotify.com/album/47TDSQ6y5cMmbUZtlxKLrw) | 2:24 | 2021-03-16 | 2021-12-20 |
 | [Oreo](https://open.spotify.com/track/3G9uP274naYdzbij1EZit4) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Oreo](https://open.spotify.com/album/074wDDg81jXLs4JjmAf9Ay) | 2:46 | 2020-12-11 | 2021-01-08 |
 | [Out of Love](https://open.spotify.com/track/0ITjwjywJdyBk5jDCu8Zk5) | [Whose Rules](https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j) | [Out of Love](https://open.spotify.com/album/05LewJJSoCiOqJGv9NtH2H) | 2:39 | 2021-07-17 | 2021-09-19 |
-| [outta my head](https://open.spotify.com/track/3gNftAHW7iwmDO5EbtwA2j) | [erdo](https://open.spotify.com/artist/6PJIOlZNKwk8WHovQreCNs), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [outta my head](https://open.spotify.com/album/6DkKylYfond5JckZlobycm) | 3:05 | 2022-12-09 |  |
+| [outta my head](https://open.spotify.com/track/3gNftAHW7iwmDO5EbtwA2j) | [erdo](https://open.spotify.com/artist/6PJIOlZNKwk8WHovQreCNs), [blackwinterwells](https://open.spotify.com/artist/1NLgX5GAA6HTCc6OW65Cvs) | [outta my head](https://open.spotify.com/album/6DkKylYfond5JckZlobycm) | 3:05 | 2022-12-09 |  |
 | [Over This!](https://open.spotify.com/track/7syaIUvVikPrFHaMe0OB0U) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Over This!](https://open.spotify.com/album/0ultLdxsQn5h4LMLZGbgEm) | 2:56 | 2021-05-15 | 2021-09-24 |
 | [over u](https://open.spotify.com/track/3OkgISws5XX4guDj641MsJ) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [over u](https://open.spotify.com/album/3YxVg9nYHe8FdP1Z9ASOEG) | 4:16 | 2021-07-04 | 2021-09-17 |
 | [over u \- Himera Remix](https://open.spotify.com/track/0p2AvPSoGhHdDnmY9Ed8Y2) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8), [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g) | [over u \(Himera Remix\)](https://open.spotify.com/album/1ldVfDm2sMgezx2OxPrfeX) | 4:14 | 2021-12-17 | 2022-02-26 |

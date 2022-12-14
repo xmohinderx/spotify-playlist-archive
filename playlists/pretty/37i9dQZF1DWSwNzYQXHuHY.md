@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,488 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,502 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 31 | [Maybe](https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Maybe](https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs) | 3:41 |
 | 32 | [Fresh](https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Fresh](https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs) | 2:58 |
 | 33 | [Not In Public](https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [3rd Digital Single 'Not In Public'](https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy) | 2:51 |
-| 34 | [busy guy](https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:45 |
-| 35 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 34 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 35 | [busy guy](https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:45 |
 | 36 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
 | 37 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
 | 38 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 49 | [Full of You](https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH) | [HAE YOON \(Cherry Bullet\)](https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h) | [The King's Affection OST Part.6](https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U) | 3:16 |
 | 50 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 |
 
-Snapshot ID: `MTY2OTEwNzUzNSwwMDAwMDAwMDZhNjljNDI2YmE0NzExNDU2N2NlYmMxMjFjZmNhNjdl`
+Snapshot ID: `MTY2OTEwNzUzNSwwMDAwMDAwMDczMzczM2ZlZGE1ZTYyMTM2MjA4M2NlZGMyZjk3NWE4`

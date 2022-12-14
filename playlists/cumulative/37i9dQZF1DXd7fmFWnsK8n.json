@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "\u0179enit - EP",
+        "url": "https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228706,
+      "name": "BLACK TlGER",
+      "url": "https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1"
+    },
+    {
+      "album": {
         "name": "Opus",
         "url": "https://open.spotify.com/album/6Z3MIv6zLb1bk2aOMGbGsi"
       },
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 246506,
       "name": "Viva! Fantastic Life!!!!!!!",
       "url": "https://open.spotify.com/track/1cEUUpMv30fWDebbB2yVrQ"

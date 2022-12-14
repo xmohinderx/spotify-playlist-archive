@@ -2,7 +2,7 @@
 
 ### [Latin Indie Classics](https://open.spotify.com/playlist/37i9dQZF1DX8RvHJklfhit)
 
-> Your favorite Latin Indie Classics\. Cover: Salt Cathedral, Ximena Sariñana
+> Your favorite Latin Indie Classics.
 
 164 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/1oaWwVir8TpHT0IwDnStYn)
 

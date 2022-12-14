@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-07-22 |  |
-| [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 | 2022-08-19 | 2022-12-13 |
+| [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 | 2022-08-19 |  |
 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 | 2022-07-22 |  |
 | [Beside Myself](https://open.spotify.com/track/2kel7wmSsmV5UOYkPGacZI) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/6Tx3XBJwjJ44clD1dkoKm6) | 3:55 | 2021-06-04 | 2022-07-24 |
 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 | 2022-07-22 |  |
@@ -106,7 +106,7 @@
 | [Over](https://open.spotify.com/track/0gnPyPBc2FcB79JGgpbstY) | [Rachael Yamagata](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) | [Over](https://open.spotify.com/album/26RgNvUsIac2qyEPxYiy2M) | 4:13 | 2021-06-04 | 2022-07-29 |
 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 | 2022-07-22 |  |
 | [Pain of Love](https://open.spotify.com/track/2QfXznx4Ex4btAsxNXYahZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Pain of Love](https://open.spotify.com/album/0sbDeWkNnMBLLNVSud5f26) | 3:31 | 2021-06-04 | 2022-07-29 |
-| [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 | 2022-07-22 |  |
+| [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 | 2022-07-22 | 2022-12-14 |
 | [Plastic](https://open.spotify.com/track/6lyjY05tO3zM1neukRGQ4K) | [Áine](https://open.spotify.com/artist/3pTb88yNTcIsydqTaUE0fE) | [Plastic](https://open.spotify.com/album/7fdqyoeiyeB8N55YVWsUBQ) | 3:35 | 2021-06-04 | 2022-07-28 |
 | [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 | 2021-06-04 | 2022-11-13 |
 | [Queen of Disaster](https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI) | 3:41 | 2022-07-22 |  |

@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-144 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
+145 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,11 +74,12 @@
 | [Into the Deep](https://open.spotify.com/track/2gNdWpUGH3hJjg0O4fqeFq) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Into The Deep](https://open.spotify.com/album/27oPm96pP1CtjvfZWd1BPN) | 2:35 | 2021-12-09 | 2022-07-29 |
 | [Jeevan](https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Jeevan](https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ) | 2:30 | 2021-12-09 |  |
 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2021-12-09 |  |
-| [Kalapas](https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Earth Child](https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p) | 2:45 | 2021-12-09 |  |
+| [Kalapas](https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Earth Child](https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p) | 2:45 | 2021-12-09 | 2022-12-14 |
 | [Lagrima](https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Ambientes](https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0) | 2:00 | 2021-12-09 |  |
 | [Liquid Air](https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:33 | 2021-12-09 |  |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2021-12-09 |  |
 | [Long Time Gone](https://open.spotify.com/track/2ttiWUOOJeaPDsKrQlHnhJ) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Long Time Gone](https://open.spotify.com/album/66cbRBo9HSrZJjIzTGWYOM) | 2:33 | 2022-10-04 |  |
+| [Longevity](https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Longevity](https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ) | 3:34 | 2022-12-09 |  |
 | [Lost For Words](https://open.spotify.com/track/6BFmIFysuR7WZBXd28jQlG) | [Cornelia Benton](https://open.spotify.com/artist/5R64qcoeryTQQVE72MZgoU) | [Lost For Words](https://open.spotify.com/album/3gnQ2B3ZdU8gQdMgA4xc9z) | 3:12 | 2021-12-09 | 2022-11-13 |
 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 | 2021-12-09 |  |
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-12-09 |  |

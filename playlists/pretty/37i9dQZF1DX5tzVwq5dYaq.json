@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55762,
+  "num_followers": 55761,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGQ2ZmE3YTFiM2JlZjc5N2NlYTVmODAxYmEyOWZjZTRi",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGM1NzBlZDAyYzFjNDkxMzA0NjY0ZmExZGFlMzkwOGFk",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
-      "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 202537,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
+      "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
     },
     {
       "added_at": "2022-09-21 10:12:07",

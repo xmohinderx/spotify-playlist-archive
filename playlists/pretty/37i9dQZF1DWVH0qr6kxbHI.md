@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,140 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,191 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 23 | [Cuando Te Beso](https://open.spotify.com/track/5XqlTeL5oyxqSJsD6D7XVP) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [La Orilla de Mi Pelo](https://open.spotify.com/album/6NtCvKJZsZG1QqCJVMeOhy) | 3:35 |
 | 24 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 |
 | 25 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
-| 26 | [Señora](https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [15 Exitos Originales Con Rocio Jurado](https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf) | 3:39 |
-| 27 | [Un año de amor](https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 3:21 |
+| 26 | [Un año de amor](https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 3:21 |
+| 27 | [Señora](https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [15 Exitos Originales Con Rocio Jurado](https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf) | 3:39 |
 | 28 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [20 Años De Amor](https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A) | 4:26 |
 | 29 | [No Se por Que Te Quiero \(with Pablo Albóran\) \- Con Pablo Alboran](https://open.spotify.com/track/0545pp6WZyT1aSd9stPeu9) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:44 |
 | 30 | [Se acabó](https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Se acabo](https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDNmNThmOWIyYzE3MGM0OTQ3ZTQ4ZmU1ZWJjZDM5ZmM2`
+Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMGMxZjdhODE5MDVhYmM3Zjc0NWU2MTg2OGM4MzI1MGE2`

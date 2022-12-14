@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
-  "num_followers": 793714,
+  "num_followers": 793869,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDc3MjY2NzQyZmYwZGNhZmRhNjkyNDQxMDc1MGY0YjUy",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGU4NDZjMjlmNzJkNjgwYmY2ZDg3NTJjMjlkZDNmZGU0",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+        "name": "Goin' Back",
+        "url": "https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g"
       },
       "artists": [
         {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
         }
       ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+      "duration_ms": 169142,
+      "name": "Keeps Me Coming Back",
+      "url": "https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Goin' Back",
-        "url": "https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g"
-      },
-      "artists": [
-        {
-          "name": "WILD",
-          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Keeps Me Coming Back",
-      "url": "https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "If I Didn\u2019t Love You",
         "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Twin Forks",
-        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Forks",
-          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Twin Forks",
+          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
         }
       ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+      "duration_ms": 170962,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "All But The Sun",
-        "url": "https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb"
-      },
-      "artists": [
-        {
-          "name": "Winterbourne",
-          "url": "https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty"
-        }
-      ],
-      "duration_ms": 266397,
-      "name": "Steady My Bones",
-      "url": "https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 211579,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "All But The Sun",
+        "url": "https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb"
+      },
+      "artists": [
+        {
+          "name": "Winterbourne",
+          "url": "https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty"
+        }
+      ],
+      "duration_ms": 266397,
+      "name": "Steady My Bones",
+      "url": "https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/6b4Az2MguoWdDlB9Jm2815"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 144506,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "In Tokens & Charms",
         "url": "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 183379,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/6b4Az2MguoWdDlB9Jm2815"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "duration_ms": 144506,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1543,38 +1543,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "These Cold Nights",
-        "url": "https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9"
-      },
-      "artists": [
-        {
-          "name": "Oshima Brothers",
-          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "These Cold Nights",
-      "url": "https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/6x7WJwbHiNoCKoKtGWawsZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -1595,18 +1563,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Some Kind Of Love",
-        "url": "https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT"
+        "name": "These Cold Nights",
+        "url": "https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9"
       },
       "artists": [
         {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+          "name": "Oshima Brothers",
+          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
         }
       ],
-      "duration_ms": 228986,
-      "name": "Some Kind Of Love",
-      "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
+      "duration_ms": 216066,
+      "name": "These Cold Nights",
+      "url": "https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1623,6 +1591,38 @@
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/6x7WJwbHiNoCKoKtGWawsZ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Some Kind Of Love",
+        "url": "https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT"
+      },
+      "artists": [
+        {
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Some Kind Of Love",
+      "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
     },
     {
       "added_at": "2022-10-14 04:00:00",

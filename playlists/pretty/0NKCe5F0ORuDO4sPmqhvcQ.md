@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,169 likes - 138 songs - 7 hr 53 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,168 likes - 138 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 131 | [Seventh Heaven](https://open.spotify.com/track/7bHOJc5vJ7lflRDI7PeYuw) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Seventh Heaven](https://open.spotify.com/album/0GTJ8nMLARUakwU9OkSnl4) | 3:09 |
 | 132 | [Glimmer](https://open.spotify.com/track/5viOqMYnOlMeuCQmhqxyzg) | [West End Cove](https://open.spotify.com/artist/64WV3o80jWUNafJmMYFLze) | [Glimmer](https://open.spotify.com/album/6oOnyCD8sfO4ysaycHGFdJ) | 3:42 |
 | 133 | [Crave Me](https://open.spotify.com/track/3HuVGDJHnnhXYv6AlNG0HF) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Are We Dreaming](https://open.spotify.com/album/5txnOKMif2rxCCZ2u9W4oa) | 4:11 |
-| 134 | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2VrERozKB6jB8hm0l6SqjM) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 |
+| 134 | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 |
 | 135 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 |
 | 136 | [Lucky Ones](https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Lucky Ones](https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD) | 3:25 |
 | 137 | [Supersonic](https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [Over, All Again](https://open.spotify.com/album/40nko6Eyb5xslxASKBapny) | 3:26 |

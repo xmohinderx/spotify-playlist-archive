@@ -2,7 +2,7 @@
 
 ### [THE IDOLM@STER SHINY COLORS アイドルマスター シャイニーカラーズ](https://open.spotify.com/playlist/37i9dQZF1DX9QL9TBCM8cE)
 
-> Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。©︎THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
+> Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
 59 songs - 4 hr 4 min - not published yet
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,738 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,809 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 64 | [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 |
 | 65 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
 | 66 | [Tra, Tra](https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 3:27 |
-| 67 | [Viernes 13 \- Parte 1](https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Dos Tiempos Bajo Un Mismo Tono](https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj) | 5:06 |
-| 68 | [El Lloron](https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 3:55 |
+| 67 | [El Lloron](https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 3:55 |
+| 68 | [Viernes 13 \- Parte 1](https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Dos Tiempos Bajo Un Mismo Tono](https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj) | 5:06 |
 | 69 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 | 70 | [Brutalidad](https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:03 |
 | 71 | [Camion Lleno de Gun](https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N) | [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [Ragga Heros, Vol\. 1](https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [Unknown \(Nicky Jam Y Daddy Yankee / Gargolas 3\)](https://open.spotify.com/track/4hjUnVZdQKMflAaLQvxM7M) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Gargolas 3](https://open.spotify.com/album/5epQeyQpmcBbpbh62AwTNp) | 2:49 |
 | 75 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 |
 
-Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMGE4YTYyOTc1NmVhNzA1MzYyNzMwMTczN2M5ZjIzNzFl`
+Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMDk1MjhkOTU2NGJjOGZhNWJiNTA1NDZlZjJlMmYwYmNh`

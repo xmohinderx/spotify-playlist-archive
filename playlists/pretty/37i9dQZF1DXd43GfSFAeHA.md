@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > Hip\-Hop tracks from the Arab world\. Cover: Soulja
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,915 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,045 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 15 | [Paradise](https://open.spotify.com/track/0dgxSqMys4w9qPvGSyyWHY) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paradise](https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR) | 2:57 |
 | 16 | [KATAFAST](https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:30 |
 | 17 | [Laisse Tomber](https://open.spotify.com/track/5VpkGOSBwYh0ikxPxmR2ld) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Laisse Tomber](https://open.spotify.com/album/6ZhgW4To5S7eY08c0wMPPO) | 3:17 |
-| 18 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 |
-| 19 | [Baby Blue](https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 2:42 |
+| 18 | [Baby Blue](https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 2:42 |
+| 19 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 |
 | 20 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 |
 | 21 | [Vide](https://open.spotify.com/track/3vg7v3qKyjAWsBYwJlRa11) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Vide](https://open.spotify.com/album/1bgPSa6kgOFUa3LCkcjdsL) | 2:48 |
 | 22 | [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 49 | [Najem Leil](https://open.spotify.com/track/0XGjH4TgvARhLq5s2tPMHU) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Najem Leil](https://open.spotify.com/album/487keg0yGJnNq6feYj7psr) | 3:25 |
 | 50 | [Sami Khedira](https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op) | [El Batsh](https://open.spotify.com/artist/0bDjrJ7Jy8Dx0vumq98wTk), [8ight](https://open.spotify.com/artist/0R6EyWUEFnAzrWvDat1mgO) | [3al Zamer](https://open.spotify.com/album/3RtcEf9VR0A2HYOdMSAa5g) | 3:30 |
 
-Snapshot ID: `MTY3MDMyMzYyOSwwMDAwMDAwMDQyZTVjMzcwNzNjNWQ0ODExYzNlODk5NDNjZjY4MmNh`
+Snapshot ID: `MTY3MDMyMzYyOSwwMDAwMDAwMGJiZjlkZTM5MTU0ZWY3ZThiNzgxMzQ2NzczYmNlMDUy`

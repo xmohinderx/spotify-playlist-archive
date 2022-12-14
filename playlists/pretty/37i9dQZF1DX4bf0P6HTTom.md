@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,707 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,793 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 33 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn) | 5:04 |
 | 34 | [Mama Nantucket](https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq) | [Michael Nesmith](https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2), [The First National Band](https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF) | [Magnetic South \(Expanded Edition\)](https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7) | 2:39 |
 | 35 | [Cosmic Cowboy](https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Django Walker](https://open.spotify.com/artist/3gA6trQf3KmA74GZw9WTsI), [Gary P\. Nunn](https://open.spotify.com/artist/0E8Z0e9ZVDaVz6mnXH5UqL), [Bob Livingston](https://open.spotify.com/artist/1n8LsK850ruMqeFvVpcDW9) | [Austinology \- Alleys of Austin](https://open.spotify.com/album/7sYNpOIkgegedM6myq1IK1) | 4:16 |
-| 36 | [Down Along The Cove](https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU) | [Johnny Jenkins](https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27) | [Ton\-Ton Macoute!](https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum) | 3:25 |
-| 37 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
+| 36 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
+| 37 | [Down Along The Cove](https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU) | [Johnny Jenkins](https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27) | [Ton\-Ton Macoute!](https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum) | 3:25 |
 | 38 | [One Hundred Years from Now](https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Sweetheart Of The Rodeo](https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK) | 2:40 |
 | 39 | [Silver Threads And Golden Needles](https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Hand Sown...Home Grown](https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W) | 2:21 |
 | 40 | [Feelin' Single \- Seein' Double \- 2003 Remaster](https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Elite Hotel \(Expanded & Remastered\)](https://open.spotify.com/album/312OEZO2boUMqdNMuuip6h) | 2:26 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 43 | [Willin'](https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K) | [Commander Cody and His Lost Planet Airmen](https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE) | [Commander Cody & His Lost Planet Airmen](https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL) | 3:38 |
 | 44 | [Miller's Cave](https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:49 |
 | 45 | [Two Lane Highway](https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Greatest Hits](https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf) | 4:06 |
-| 46 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
-| 47 | [Love Reunited](https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63) | [The Desert Rose Band](https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u) | [The Desert Rose Band](https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih) | 2:57 |
+| 46 | [Love Reunited](https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63) | [The Desert Rose Band](https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u) | [The Desert Rose Band](https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih) | 2:57 |
+| 47 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
 | 48 | [It's Not Supposed to Be That Way](https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr) | [Steve Young](https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH) | [Renegade Picker](https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk) | 3:41 |
 | 49 | [Listen to a Country Song](https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [Sittin' In](https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco) | 2:49 |
 | 50 | [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 |
 
-Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMGEzM2M5YmY4ZjAwZWEyODc4MzhlOTczNzEwMDA0ZDcy`
+Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDUzOTQwMzYxNWUxZDRkNGJmODE3YjA0MDk2NTZhZmEx`

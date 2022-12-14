@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 41335,
+  "num_followers": 41438,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQxODQ5NSwwMDAwMDAwMGY1NDA5ZWFjYjhjOWE5MDVkYjAwNTVkZWQ1MTE1Zjcx",
+  "snapshot_id": "MTY3MDQxODQ5NSwwMDAwMDAwMDQwMjc4NWZkNjNkYTgzZjc0ZWI1NDdhY2ZmM2U5YzUw",
   "tracks": [
     {
       "added_at": "2022-12-01 13:54:19",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Blue And Sentimental - 1947 Version",
+      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
         "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 172186,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/599FkdQJIhJfZYOSvFrJ35"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Blue And Sentimental - 1947 Version",
-      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Maybe You'll Be There",
+      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -667,38 +683,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Maybe You'll Be There",
-      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
+      "duration_ms": 188560,
+      "name": "There Must Be A Way",
+      "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -719,18 +715,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 188560,
-      "name": "There Must Be A Way",
-      "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
+      "duration_ms": 191386,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Lonely And Blue",
-        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
         "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 218666,
       "name": "Everything Happens To Me - Complete Take 2",
       "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Lonely And Blue",
+        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Rhythm Is My Business",
-        "url": "https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol.5 (1956-1958)",
         "url": "https://open.spotify.com/album/53UuPjzjPZdVorCmDewJSI"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 191333,
       "name": "I'll Drown In My Tears",
       "url": "https://open.spotify.com/track/3EJ0pqOYSid9bVfyYy0zhm"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Rhythm Is My Business",
+        "url": "https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "If I Knew Then (What I Know Now)",
-      "url": "https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "Blues, Soul & Ballads",
         "url": "https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 127626,
       "name": "Baby Won't You Please Come Home",
       "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "If I Knew Then (What I Know Now)",
+      "url": "https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "The Voice That Is!",
-        "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 219733,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
+      "duration_ms": 239200,
+      "name": "I Wish I Knew - Remastered 2004",
+      "url": "https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+        "name": "The Voice That Is!",
+        "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 239200,
-      "name": "I Wish I Knew - Remastered 2004",
-      "url": "https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2"
+      "duration_ms": 219733,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Somewhere over the Rainbow",
-        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 193813,
-      "name": "Say It Isn't So",
-      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
+      "duration_ms": 181333,
+      "name": "I Just Couldn't Stand It No More",
+      "url": "https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+        "name": "Somewhere over the Rainbow",
+        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 181333,
-      "name": "I Just Couldn't Stand It No More",
-      "url": "https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp"
+      "duration_ms": 193813,
+      "name": "Say It Isn't So",
+      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Whatever Happened To You?",
+      "url": "https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 184253,
       "name": "You Won't Be Satisfied (Until You Break My Heart) (with Les Brown & His Orchestra)",
       "url": "https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Whatever Happened To You?",
-      "url": "https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1479,38 +1479,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Swedish Sensation",
-        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 145106,
-      "name": "My Old Flame",
-      "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "There's No Such Thing As Love",
-      "url": "https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "Music For Late Hours",
         "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
       },
@@ -1531,6 +1499,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 145106,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 204479,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "There's No Such Thing As Love",
+      "url": "https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1"
     },
     {
       "added_at": "2022-12-01 13:54:19",

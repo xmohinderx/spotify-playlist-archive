@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-215 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+216 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Pray Tonight](https://open.spotify.com/track/1hA5xRYK6RwZVVfRaKVDUh) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [Pray Tonight](https://open.spotify.com/album/0U4Ruukm83LlMVis7pecv4) | 3:26 | 2022-04-26 |  |
 | [Pressure](https://open.spotify.com/track/2SGKoGK8sRtD3Rr2Rvofvc) | [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3) | [Pressure](https://open.spotify.com/album/6ENSlOPhYtBVrZbud8FtRR) | 3:14 | 2022-05-24 |  |
 | [Promise](https://open.spotify.com/track/5ACNwDb4ukIExNiAN0fpVo) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Promise](https://open.spotify.com/album/5Cdk376H0hMNIkmi6OoNdS) | 2:56 | 2022-02-03 | 2022-09-15 |
+| [Psycho](https://open.spotify.com/track/3IyziM0cSPmHfTLH3dB8Dw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [Psycho](https://open.spotify.com/album/3BOwQFiUMdG0eTmfQuiJgJ) | 2:30 | 2022-12-13 |  |
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 |  |
 | [Ray of Light](https://open.spotify.com/track/1maMkl55C1F2xaR2bov2y2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [Ray Of Light](https://open.spotify.com/album/0ipRm9TQS5hJn1SEP4Ifbw) | 2:45 | 2022-02-18 |  |
 | [Red Light](https://open.spotify.com/track/6tTfhvcXVTf3N4fXNo81uT) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Red Light](https://open.spotify.com/album/6YJrD2ktodcbxT5V37QYJC) | 2:58 | 2022-02-03 | 2022-09-15 |

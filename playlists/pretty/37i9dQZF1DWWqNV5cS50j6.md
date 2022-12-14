@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > BROCKHAMPTON makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,897 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,098 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 5 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
 | 6 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 |
 | 7 | [NIGHT RIDER](https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:07 |
-| 8 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
-| 9 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 |
+| 8 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 |
+| 9 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
 | 10 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
 | 11 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
 | 12 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 19 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 |
 | 20 | [NEW SHOES](https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 3:18 |
 | 21 | [Weight](https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Niagara](https://open.spotify.com/album/3wINP6SbT7TqiaYGo3Lj8f) | 2:04 |
-| 22 | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY) | 3:19 |
-| 23 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 |
+| 22 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 |
+| 23 | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY) | 3:19 |
 | 24 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 |
 | 25 | [you're a parasite](https://open.spotify.com/track/5CoMPjfMO8XnNc6aNKYSo1) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/1ZJR20NLRKNzzSbQvwkFMK) | 2:32 |
 | 26 | [Sabrina \(i am a party\)](https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:19 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 33 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 |
 | 34 | [ZIG ZAGGING](https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [ZIG ZAGGING](https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB) | 2:04 |
 | 35 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
-| 36 | [feel good inc \(bbno$ re\-finessed\) \- spotify single](https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:28 |
-| 37 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
+| 36 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
+| 37 | [feel good inc \(bbno$ re\-finessed\) \- spotify single](https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:28 |
 | 38 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
 | 39 | [Buff Baby](https://open.spotify.com/track/1F1QmI8TMHir9SUFrooq5F) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [tobi lou and the Loop \- EP](https://open.spotify.com/album/1JjGKMycjULPogQw8YnDpS) | 3:35 |
 | 40 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 46 | [Tell Me Your Fears](https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tell Me Your Fears](https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS) | 2:14 |
 | 47 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
 | 48 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 |
-| 49 | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF) | 3:58 |
-| 50 | [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 |
+| 49 | [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 |
+| 50 | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF) | 3:58 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDY3Y2M3NmExMDcyNmQyMDkxMGE2YTQxMzE5ZTg4ZmVj`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDllNjgzMzFlNzBhMjhlMTAwY2M1OWZhNjVjZDY3ZTYx`

@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. In cover, Inoki e DJ Shocca.",
-  "num_followers": 29067,
+  "num_followers": 29081,
   "original_name": "Radici Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzNTY2MCwwMDAwMDAwMDg5YzAwODhjZWI1NDE1MWNiYmFiZGU2OTliYmZmOTc3",
+  "snapshot_id": "MTY2OTkzNTY2MCwwMDAwMDAwMGZlZWNkOTc4ZGJjNGMwNzg3OGY1NmQyNTFhODE1OWZl",
   "tracks": [
     {
       "added_at": "2022-12-01 23:01:00",
@@ -619,18 +619,22 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+        "name": "Piove Ancora",
+        "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
       },
       "artists": [
         {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+      "duration_ms": 176103,
+      "name": "Blood Nero",
+      "url": "https://open.spotify.com/track/7s00rO6jvrptIf1iiRhknh"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -703,22 +707,18 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Piove Ancora",
-        "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
       "artists": [
         {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        },
-        {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
         }
       ],
-      "duration_ms": 176103,
-      "name": "Blood Nero",
-      "url": "https://open.spotify.com/track/7s00rO6jvrptIf1iiRhknh"
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -743,30 +743,6 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Numero zero ep",
-        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Biggie Paul",
-          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 160574,
-      "name": "Lasciami solo",
-      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Numero zero ep",
+        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Biggie Paul",
+          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 160574,
+      "name": "Lasciami solo",
+      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 237965,
       "name": "Smackdown",
       "url": "https://open.spotify.com/track/5yLmfZy36qHMJMyuuiSCiJ"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
-      },
-      "artists": [
-        {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
-        }
-      ],
-      "duration_ms": 354506,
-      "name": "Rigurgito antifascista",
-      "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
         "name": "Ci sentiamo poi",
         "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
       },
@@ -1399,6 +1383,38 @@
       "duration_ms": 191893,
       "name": "Birre in lattina",
       "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Lontano 2036",
+      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+      },
+      "artists": [
+        {
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+        }
+      ],
+      "duration_ms": 354506,
+      "name": "Rigurgito antifascista",
+      "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 163750,
       "name": "Narciso (feat. Murubutu)",
       "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
-      },
-      "artists": [
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Lontano 2036",
-      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Bastavano Le Briciole",
+      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
         "name": "House Party",
         "url": "https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 216224,
       "name": "Desideri (feat. Ghemon & Frank Siciliano)",
       "url": "https://open.spotify.com/track/6irVg96EubTPvkRTYasLbA"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "Bastavano Le Briciole",
-      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "SFIGA",
-        "url": "https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE"
-      },
-      "artists": [
-        {
-          "name": "Grido",
-          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 217865,
-      "name": "SFIGA",
-      "url": "https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
         "name": "Lo Spirito Che Suona",
         "url": "https://open.spotify.com/album/58QnU693YWWv2rPylhehmj"
       },
@@ -1695,6 +1675,26 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
+        "name": "SFIGA",
+        "url": "https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE"
+      },
+      "artists": [
+        {
+          "name": "Grido",
+          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 217865,
+      "name": "SFIGA",
+      "url": "https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/5lVNbfwUszjl6opsZw29J5"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 166066,
       "name": "DINDIRINDINA",
       "url": "https://open.spotify.com/track/3VneYDrRAlvLQJ7c5jG3ht"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
         "name": "Max",
         "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
       },
@@ -1791,6 +1791,22 @@
       "duration_ms": 260800,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 251133,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 251133,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
         "name": "MEDIOEGO",
         "url": "https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal"
       },
@@ -1851,6 +1851,30 @@
       "duration_ms": 233386,
       "name": "VETERANO (feat. DJ Shocca)",
       "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Dead Poets 3 - Maledetti",
+        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "duration_ms": 187959,
+      "name": "Parla piano",
+      "url": "https://open.spotify.com/track/37IHphajTmd27MDLG76zEd"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -1891,30 +1915,6 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Dead Poets 3 - Maledetti",
-        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        }
-      ],
-      "duration_ms": 187959,
-      "name": "Parla piano",
-      "url": "https://open.spotify.com/track/37IHphajTmd27MDLG76zEd"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
         "name": "Infernum",
         "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
       },
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391960,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -1975,38 +1959,18 @@
     {
       "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
       "artists": [
         {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
         }
       ],
-      "duration_ms": 320493,
-      "name": "La Ballotta",
-      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
-        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 230375,
-      "name": "Pioggia infinita",
-      "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
+      "duration_ms": 391960,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
     },
     {
       "added_at": "2022-12-01 23:01:00",
@@ -2031,6 +1995,42 @@
       "duration_ms": 208636,
       "name": "Sabbie Mobili (feat. Davide Shorty)",
       "url": "https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 230375,
+      "name": "Pioggia infinita",
+      "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
     },
     {
       "added_at": "2022-12-01 23:01:00",

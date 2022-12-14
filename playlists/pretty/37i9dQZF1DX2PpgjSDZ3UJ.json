@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 19159,
+  "num_followers": 19171,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMGJkMmUwM2NjNDAwOWEwZTFmN2QxOWUzMDU3OTNmNTRl",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDBkZTYxYTA0NjA1OWZjZmZiMDdkYmI3MjBjNTU2YWFm",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Verte Antes de Fin de A\u00f1o",
-        "url": "https://open.spotify.com/album/7koEe8boQfsuzueElXW1bb"
-      },
-      "artists": [
-        {
-          "name": "Lolab\u00fam",
-          "url": "https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Cuando Quieres Jugar Conmigo",
-      "url": "https://open.spotify.com/track/7w7FKUvuYrXojcMjHyQbgc"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "AZUL\u00c6",
         "url": "https://open.spotify.com/album/1h7GakzHHoyEYyWhvlmiWo"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 220750,
       "name": "7 O 9 - Ep. 11: Las vidas de los gato",
       "url": "https://open.spotify.com/track/2s5ZDuhEmW9wte8vCSrgev"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Verte Antes de Fin de A\u00f1o",
+        "url": "https://open.spotify.com/album/7koEe8boQfsuzueElXW1bb"
+      },
+      "artists": [
+        {
+          "name": "Lolab\u00fam",
+          "url": "https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Cuando Quieres Jugar Conmigo",
+      "url": "https://open.spotify.com/track/7w7FKUvuYrXojcMjHyQbgc"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Mundos",
-        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Y Ahora",
-      "url": "https://open.spotify.com/track/5bfOcYeiVE8yy6EWpwYduo"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Acci\u00f3n (O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano)",
         "url": "https://open.spotify.com/album/72PseYEGxsIboQQbMB3oUj"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 248677,
       "name": "Acci\u00f3n - O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano",
       "url": "https://open.spotify.com/track/5om9LfUKsyTaQWbHH2Refu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Mundos",
+        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Y Ahora",
+      "url": "https://open.spotify.com/track/5bfOcYeiVE8yy6EWpwYduo"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "En Transmisi\u00f3n Perpetua",
+        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
+      },
+      "artists": [
+        {
+          "name": "Cometa Sucre",
+          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Caminos Extran\u0303os",
+      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Conversations",
         "url": "https://open.spotify.com/album/7l4P76P1NClX1r0pIM2xng"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 197886,
       "name": "Conversaciones",
       "url": "https://open.spotify.com/track/5tw1aZY3QC7cfQCmggqTjB"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "En Transmisi\u00f3n Perpetua",
-        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
-      },
-      "artists": [
-        {
-          "name": "Cometa Sucre",
-          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Caminos Extran\u0303os",
-      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
     },
     {
       "added_at": "2020-12-01 05:03:00",

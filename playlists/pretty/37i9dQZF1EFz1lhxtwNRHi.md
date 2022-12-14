@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,301 likes - 144 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302 likes - 144 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 71 | [Bad To Myself](https://open.spotify.com/track/4IkqDf14jiuW0B2aYqHgwo) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Bad To Myself](https://open.spotify.com/album/1a2UAm8bwt2Ec9l9QZgtVh) | 2:50 |
 | 72 | [Guilty](https://open.spotify.com/track/5jmGXGD7wh45Ye5DYzHJcq) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:43 |
 | 73 | [Off the Market](https://open.spotify.com/track/6zOdNkaCjXPlAWsoUE3VSn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 2:44 |
-| 74 | [First Time](https://open.spotify.com/track/3t7axcC6EVWSRoyYYYkKUJ) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency EP](https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J) | 3:11 |
-| 75 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
+| 74 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
+| 75 | [First Time](https://open.spotify.com/track/3t7axcC6EVWSRoyYYYkKUJ) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency EP](https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J) | 3:11 |
 | 76 | [Overloved](https://open.spotify.com/track/0w6qh5d8G5PoJatb7HoDrs) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Overloved](https://open.spotify.com/album/38rPxIOqhYF5LI4J8janwV) | 3:03 |
 | 77 | [Rainbow](https://open.spotify.com/track/6e8gCUfJm6RYtOOLBtLbFa) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:21 |
 | 78 | [Life Goes On](https://open.spotify.com/track/1ZZwISEowrLYXKTKJoqjVf) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:38 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 143 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 144 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc4NDgyMjgsMDAwMDAwMDBjZTE3YmE2MGI5ZTVhMTNmYmUwNWFmNWJlZWYyZDY2NA==`
+Snapshot ID: `Mjc4NDk2NjgsMDAwMDAwMDAzYzU1MjQ1ZjdmM2I0MTgzODMxZDJjMGFmNmMwMzY4MA==`

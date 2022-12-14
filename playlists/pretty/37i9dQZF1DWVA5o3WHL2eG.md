@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,439 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,488 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [I Like](https://open.spotify.com/track/3F7JkvI31gWw0ifIA553X5) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [I Like](https://open.spotify.com/album/5W3ngAppnDgT0px27YkXNI) | 2:31 |
 | 18 | [Remedy](https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/5DkP7hUfhlC2lvvJ0d1jtz) | 2:27 |
 | 19 | [Kugeln im Lauf](https://open.spotify.com/track/479kOkorPFKZckpSgCcDWV) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Nie verliebt](https://open.spotify.com/album/12dYXSDMMIX9VaJONASnsz) | 3:24 |
-| 20 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 |
-| 21 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 |
+| 20 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 |
+| 21 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 |
 | 22 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 |
 | 23 | [Ohne Dich](https://open.spotify.com/track/1BEPigtMbtG17OrhDzXMCn) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Ohne Dich](https://open.spotify.com/album/6y92v3LsEb8pImMFX2Bfuk) | 2:43 |
 | 24 | [Bad Idea](https://open.spotify.com/track/62oxmZdzHnTB9Mc6Qq6NgV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Bad Idea](https://open.spotify.com/album/2CiRFftzKVAy06G4ueJgxc) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/6dQzvpLz9qwutLYx6GUYCM) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Mirrors](https://open.spotify.com/album/0KnR5gUhV3Hb6mL13zU05z) | 4:21 |
 | 50 | [Shitlife](https://open.spotify.com/track/2LL9g7WEYzeVM2q7wtORWW) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Softness, Pt\. 2](https://open.spotify.com/album/1kFBJy9PoFDTiVlfAPuqDF) | 3:45 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGI2OTI3NjQzZGI5YjkwODA2ZjFkY2Y5YzAzZDg5ZTI2`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDk1OTE3ZDgwYWRkMjdjNzZiNzBlNmYxOGI1YmJlMzJh`

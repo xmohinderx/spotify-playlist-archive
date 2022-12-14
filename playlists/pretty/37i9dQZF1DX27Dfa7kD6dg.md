@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,015 likes - 126 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,061 likes - 126 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 90 | [Puerto Rico 2006 \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Decision Unanime](https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz) | 5:23 |
 | 91 | [Pregones De San Cristóbal](https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [La Crítica: Salseros De Corazón, Vol\. 3](https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel) | 3:59 |
 | 92 | [Mambo Gozón](https://open.spotify.com/track/2P12SmID74922J8JwQd90j) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Here comes..\. Tito Puente!](https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw) | 2:47 |
-| 93 | [Tumba La Caña Jibarito](https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Dinámica!](https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT) | 2:41 |
-| 94 | [Carro de Fuego](https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:31 |
+| 93 | [Carro de Fuego](https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:31 |
+| 94 | [Tumba La Caña Jibarito](https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Dinámica!](https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT) | 2:41 |
 | 95 | [Yo Me Quedo](https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 4:59 |
 | 96 | [Mambo La Libertad](https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:05 |
 | 97 | [Ran Kan Kan](https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE) | [The Mambo Express](https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl) | [Mambo Mania Vol\. 3](https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m) | 2:59 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 125 | [Conciencia](https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:33 |
 | 126 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
 
-Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMDc0NWFiOTc0MGQ5NGU0ZTA0ZmEwZjk5YjIwMTkzMjZh`
+Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMDc5NGY4NjJjMTA1MTRkZjg2NzZhZWE5NDdkNzk5ZjJk`

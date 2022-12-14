@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,747 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,877 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 88 | [Ay! Papacito](https://open.spotify.com/track/3DCtZsugr1hf5YNvykBn7j) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Soy Así](https://open.spotify.com/album/1O50KpV6dUvOLMhnmzdLU3) | 3:47 |
 | 89 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
 | 90 | [El Pipiripau](https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [Exitos Para Amanecer Bailando](https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz) | 2:04 |
-| 91 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
-| 92 | [Culpable O No](https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Cumbias Con Amor](https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN) | 3:28 |
-| 93 | [La Colegiada](https://open.spotify.com/track/0EYVTuGER9NV3k7FT5oX1E) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 3:40 |
+| 91 | [La Colegiada](https://open.spotify.com/track/0EYVTuGER9NV3k7FT5oX1E) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 3:40 |
+| 92 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
+| 93 | [Culpable O No](https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Cumbias Con Amor](https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN) | 3:28 |
 | 94 | [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 |
-| 95 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/4y1mBgVKdjWODLPjHtaAqq) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO), [Kris Melody](https://open.spotify.com/artist/1Ll8UUDAEVALfi1fxdkeOK) | [Romances](https://open.spotify.com/album/5QaE8igXsDA3r0Vz8xg7Wq) | 3:51 |
-| 96 | [La Hierba Se Movía](https://open.spotify.com/track/58F3513Tw8RUvF0kX3GOOU) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Serie Sensacional: Tropicalisimo Apache](https://open.spotify.com/album/1pZ4Bc8s9h7rPzAHsXfx6b) | 3:06 |
+| 95 | [La Hierba Se Movía](https://open.spotify.com/track/58F3513Tw8RUvF0kX3GOOU) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Serie Sensacional: Tropicalisimo Apache](https://open.spotify.com/album/1pZ4Bc8s9h7rPzAHsXfx6b) | 3:06 |
+| 96 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/4y1mBgVKdjWODLPjHtaAqq) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO), [Kris Melody](https://open.spotify.com/artist/1Ll8UUDAEVALfi1fxdkeOK) | [Romances](https://open.spotify.com/album/5QaE8igXsDA3r0Vz8xg7Wq) | 3:51 |
 | 97 | [Abandonado](https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Recuerdos](https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5) | 4:32 |
 | 98 | [Hola, ¿Cómo Estás?](https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Amor Vendido, Vol\. 4](https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3) | 3:19 |
 | 99 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
 | 100 | [Traicion Y Olvido](https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 4:00 |
 
-Snapshot ID: `MTY0MzEzNzUxNiwwMDAwMDAwMDY1YmFmZmRhZjUyMDQ1Y2ViMDNiMzk5OThiZmRjNjM5`
+Snapshot ID: `MTY0MzEzNzUxNiwwMDAwMDAwMDEyYWYxOGYzMmVlODEyZTk0NTJhMDA2YzE4YzgxNDE1`

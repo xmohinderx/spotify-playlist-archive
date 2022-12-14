@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 118485,
+  "num_followers": 118495,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NTI1OCwwMDAwMDAwMDM2Njk2YzEyNzhhZjUwYTYyMThhMTc1ZGJhOWNkOWJl",
+  "snapshot_id": "MTY3MDU0NTI1OCwwMDAwMDAwMGQyMDVjZjYxOWY5ZmU5NjcyNmNmZDc4OGQ4NjlmMDE2",
   "tracks": [
     {
       "added_at": "2022-12-09 00:20:58",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
+        "name": "DOM SKA VETA",
+        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 195518,
+      "name": "Vi ska aldrig g\u00e5 hem",
+      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
         "name": "Som ett minne blott",
         "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 191445,
       "name": "Som ett minne blott",
       "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
-        "name": "DOM SKA VETA",
-        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 195518,
-      "name": "Vi ska aldrig g\u00e5 hem",
-      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "What You Were Made For",
-        "url": "https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns Zelmerl\u00f6w",
-          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
-        }
-      ],
-      "duration_ms": 194759,
-      "name": "What You Were Made For",
-      "url": "https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
         "name": "OMR",
         "url": "https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Isabelle",
-        "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
+        "name": "What You Were Made For",
+        "url": "https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw"
       },
       "artists": [
         {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "M\u00e5ns Zelmerl\u00f6w",
+          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
         }
       ],
-      "duration_ms": 215818,
-      "name": "Isabelle",
-      "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
+      "duration_ms": 194759,
+      "name": "What You Were Made For",
+      "url": "https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
+        "name": "Isabelle",
+        "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 215818,
+      "name": "Isabelle",
+      "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
         "name": "Musik Non Stop - Spotify Singles",
         "url": "https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 228346,
       "name": "Musik Non Stop - Spotify Singles",
       "url": "https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
+        "name": "Neon Lights",
+        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1219,22 +1235,6 @@
       "duration_ms": 188037,
       "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
       "url": "https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
-        "name": "Neon Lights",
-        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Solen i G\u00f6teborg",
-        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
-      },
-      "artists": [
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Solen i G\u00f6teborg",
-      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
         "name": "BACKYARD",
         "url": "https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 155085,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
+        "name": "Solen i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Solen i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/2Uy07vkjqxcAxyaH5cP6xu"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 81002,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/72TII5VXJvfSWVpwlNuoPF"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
         "name": "Hold Out",
         "url": "https://open.spotify.com/album/1AjiPJEfUG1MMI28cxqics"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 191186,
       "name": "Hold Out",
       "url": "https://open.spotify.com/track/23CuzFQM5TFmWBcMFVVKOd"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
-        "name": "Jag Lovar",
-        "url": "https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Jag Lovar",
-      "url": "https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/2Uy07vkjqxcAxyaH5cP6xu"
+        "name": "Jag Lovar",
+        "url": "https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
         }
       ],
-      "duration_ms": 81002,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/72TII5VXJvfSWVpwlNuoPF"
+      "duration_ms": 168750,
+      "name": "Jag Lovar",
+      "url": "https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i"
     },
     {
       "added_at": "2022-12-09 00:20:58",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-12-09 00:20:58",
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/6xo9QswGgLtPkeNRtYQxCU"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 181623,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/56CBitpBTs1eY3Vk1wmW6b"
-    },
-    {
-      "added_at": "2022-12-09 00:20:58",
-      "album": {
         "name": "Midnatt",
         "url": "https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 184759,
       "name": "Midnatt",
       "url": "https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb"
+    },
+    {
+      "added_at": "2022-12-09 00:20:58",
+      "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/6xo9QswGgLtPkeNRtYQxCU"
+      },
+      "artists": [
+        {
+          "name": "Teddy Failure",
+          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
+        }
+      ],
+      "duration_ms": 181623,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/56CBitpBTs1eY3Vk1wmW6b"
     }
   ],
   "unique_name": "Made in Sweden",

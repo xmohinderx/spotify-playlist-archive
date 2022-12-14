@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,221 likes - 100 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,216 likes - 100 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 45 | [More Abundantly Medley \- Live](https://open.spotify.com/track/12Wj5X4UWjSVLEmOVtWCjq) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 6:28 |
 | 46 | [The Blessing \(feat\. Maranda Curtis\)](https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I've Got a Testimony](https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ) | 6:32 |
 | 47 | [Endow Me](https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw) | [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Fantasia](https://open.spotify.com/artist/34v40muZVGZG8g0t05ioRf) | [Always Coko](https://open.spotify.com/album/51lawLjXQsEkVIjv61zTHe) | 6:56 |
-| 48 | [Arise \(You Are Good\)](https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Demonstrate \(Deluxe Edition\)](https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM) | 5:48 |
+| 48 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker & The Love Fellowship Crusade Choir](https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
 | 49 | [Worth Fighting For \- 1 Mic 1 Take](https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Resilience](https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt) | 4:01 |
-| 50 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker & The Love Fellowship Crusade Choir](https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
+| 50 | [Arise \(You Are Good\)](https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Demonstrate \(Deluxe Edition\)](https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM) | 5:48 |
 | 51 | [Heaven's Here \- Live](https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Kierre Bjorn](https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9) | [Unproduced](https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW) | 4:50 |
 | 52 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 |
 | 53 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 77 | [Take Me Back \(feat\. Kirk Franklin & Kelontae Gavin\)](https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7) | [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [My Tribute](https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB) | 5:00 |
 | 78 | [He Didn't Have To Do It](https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Then Sings My Soul](https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9) | 5:37 |
 | 79 | [Celebrate \(He Lives\)](https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [The Essential Fred Hammond](https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7) | 4:04 |
-| 80 | [Nothing But the Blood v1.1](https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt) | 4:26 |
-| 81 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
+| 80 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
+| 81 | [Nothing But the Blood v1.1](https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt) | 4:26 |
 | 82 | [Worthy Is The Lamb Slain](https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:11 |
 | 83 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
 | 84 | [Calvary](https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Live in Concert](https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B) | 9:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [He Carried The Cross For Me](https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [He Carried The Cross For Me](https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN) | 3:50 |
 | 100 | [Oh Holy Lamb](https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit II \(Video\)](https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ) | 9:05 |
 
-Snapshot ID: `MTY1MDE3NTg2NCwwMDAwMDAwMDIyNDVjZDhmODJjNTQ2YzU3MjJlZTE2ODk2NjVjZWNk`
+Snapshot ID: `MTY1MDE3NTg2NCwwMDAwMDAwMDM3Nzk3OTgwNDdlZWRjMDU1OGUyYTlhNjA4OTUwZTMw`

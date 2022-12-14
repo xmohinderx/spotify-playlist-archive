@@ -1,15 +1,15 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 84776,
+  "num_followers": 84809,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg2NTUzNywwMDAwMDAwMGM5MTViMDhkZjUxY2QwN2VmNjJhY2E3YTExMDQ2ODcw",
+  "snapshot_id": "MTY3MDg2NTUzNywwMDAwMDAwMDdlOGEwYmVlNjFhN2ZiNTI5M2Q1NTE1NmQ0NDUzNzIz",
   "tracks": [
     {
-      "added_at": "2022-12-13 01:35:03",
+      "added_at": "2022-12-14 01:07:12",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/56Vy5lJUoHTI90MMnyI2CM"
     },
     {
-      "added_at": "2022-12-13 01:35:03",
+      "added_at": "2022-12-14 01:07:12",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/0Nc4QJeqhbkFsjZWwyaDlt"
     },
     {
-      "added_at": "2022-12-13 01:35:03",
+      "added_at": "2022-12-14 01:07:12",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "Seamless (with Kehlani)",
         "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 195265,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "MESS U MADE",
         "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2022-11-18 03:01:00",

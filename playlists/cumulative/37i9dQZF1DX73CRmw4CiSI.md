@@ -4,7 +4,7 @@
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-91 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/0R3aiZ5IuPHrMCNNbivzBm)
+92 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/0R3aiZ5IuPHrMCNNbivzBm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Fuego](https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Fuego](https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny) | 3:14 | 2022-01-25 |  |
 | [Fuera de Mi \- Ya No Quiero Tu Querer \- Version Remix](https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368) | [José El Francés](https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax) | [Alma](https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO) | 4:42 | 2022-01-25 |  |
 | [Grita](https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 3:32 | 2022-01-25 |  |
-| [Hoy Puede Ser un Gran Dia \- Tributo a Serrat](https://open.spotify.com/track/1WOn068GSVYKoIXj2veXsw) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [10 Años Around The World \(Version Comentada\)](https://open.spotify.com/album/1AZA9yNFMmcawToDITEscY) | 3:15 | 2022-01-25 |  |
+| [Hoy Puede Ser un Gran Dia \- Tributo a Serrat](https://open.spotify.com/track/1vcZt7qwR9bgVSh7obMjFd) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [10 Años Around The World](https://open.spotify.com/album/1vXo40YW3uDom5F3OifM1z) | 3:13 | 2022-01-25 |  |
+| [Hoy Puede Ser un Gran Dia \- Tributo a Serrat](https://open.spotify.com/track/1WOn068GSVYKoIXj2veXsw) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [10 Años Around The World \(Version Comentada\)](https://open.spotify.com/album/1AZA9yNFMmcawToDITEscY) | 3:15 | 2022-01-25 | 2022-12-14 |
 | [Isla de Palma](https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:37 | 2022-01-25 |  |
 | [Joselito](https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 3:50 | 2022-01-25 |  |
 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 | 2022-01-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 314898,
+  "num_followers": 314926,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NDgyNywwMDAwMDAwMDNhYTg1NGU1Y2FiYWU5ZGNkOGE2N2U1MmE5ZDQ1MjYx",
+  "snapshot_id": "MTY1OTA0NDgyNywwMDAwMDAwMGZjMmI0NWYzZTk3MDdjZWFjMDI0MGVkNTdjYWNlODU2",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -1121,20 +1121,20 @@
       "url": "https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT"
     },
     {
-      "added_at": "2021-03-15 19:25:13",
+      "added_at": "2022-07-07 04:00:00",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 226440,
-      "name": "Seasons (Waiting on You)",
-      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
+      "duration_ms": 176146,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1153,20 +1153,20 @@
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
     },
     {
-      "added_at": "2022-07-07 04:00:00",
+      "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Sarah",
-      "url": "https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu"
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting on You)",
+      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "They Want My Soul",
-        "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 262520,
       "name": "Every Time the Sun Comes Up",
       "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "They Want My Soul",
+        "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1609,6 +1609,22 @@
       "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
     },
     {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
+    },
+    {
       "added_at": "2022-07-07 04:00:00",
       "album": {
         "name": "This Is Happening",
@@ -1623,22 +1639,6 @@
       "duration_ms": 352003,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
-    },
-    {
-      "added_at": "2022-07-07 04:00:00",
-      "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
     }
   ],
   "unique_name": " Indie Pop 2010s",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,508 likes - 68 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,622 likes - 68 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 42 | [Nossa Viagem](https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Nossa Viagem](https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i) | 2:36 |
 | 43 | [Acidentalmente](https://open.spotify.com/track/7pIbJiddCmItm0ksiuITj6) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [Quimera](https://open.spotify.com/album/2s6Xis30Leau0FHqOgpWl4) | 4:33 |
 | 44 | [Adaptar](https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Cartas ao Divino](https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi) | 3:10 |
-| 45 | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/track/11rIz2W7L5JPVHuxbsL3Mw) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1), [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Mariana Mello](https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG) | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/album/6NAEOYIRfDpCN5zAICeJ8y) | 4:42 |
+| 45 | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1), [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Mariana Mello](https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG) | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/album/6hIMQijH2Wz9T5sPDE2gy0) | 4:42 |
 | 46 | [Fabricada pela Nike](https://open.spotify.com/track/6eCFU97BfE4qUQYxE648p5) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Fabricada pela Nike](https://open.spotify.com/album/1GztbQWcR9XA57mwvy2lhu) | 3:06 |
 | 47 | [Stories](https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Stories](https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R) | 2:08 |
 | 48 | [Te Ver De Novo](https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny) | [Te Ver De Novo](https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI) | 2:48 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 67 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 |
 | 68 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 
-Snapshot ID: `MTY2OTk1MDA2MCwwMDAwMDAwMGQwMDI5ZDg2NjE5MmNiNzNlYTI5ZmY1ODlkMjNlMjY1`
+Snapshot ID: `MTY2OTk1MDA2MCwwMDAwMDAwMDBlZTUyNjQyYWRkNTJmMzBjMGQyNDA3YTkyZTBhZmJl`

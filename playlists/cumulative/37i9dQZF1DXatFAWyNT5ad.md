@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-535 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+536 songs - 1 day 4 hr 5 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [If I Didn't Have You](https://open.spotify.com/track/7Etf7VJoXNJlO4oMJRUDlT) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [If I Didn't Have You](https://open.spotify.com/album/0hAjEsCTpZDTEO6303SEla) | 3:45 | 2022-03-17 | 2022-07-29 |
 | [If Only for Tonight](https://open.spotify.com/track/3QpriHKwwUMtNttrCs87zO) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [If Only for Tonight](https://open.spotify.com/album/1q3UdI6pQ9PDttU61L0Tr3) | 4:55 | 2022-03-17 | 2022-07-29 |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR) | 2:49 | 2022-03-17 | 2022-07-29 |
+| [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 2:49 | 2022-11-11 |  |
 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 | 2022-03-24 | 2022-04-18 |
 | [Imaginary Friends](https://open.spotify.com/track/276FYBBORL5s6Ob4XJ6eN8) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Imaginary Friends](https://open.spotify.com/album/6yx184mN6SndwRgl6PZlLc) | 2:52 | 2022-03-17 | 2022-07-29 |
 | [In My Head \(ft\. Josh Dun\)](https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Josh Dun](https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga) | [In My Head](https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR) | 3:08 | 2022-03-24 | 2022-07-29 |
@@ -489,7 +490,7 @@
 | [Tides](https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:15 | 2022-03-17 |  |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 |  |
 | [Tonight \(feat\. iann dior\)](https://open.spotify.com/track/6Tsro9u5bnTJxFjuzuNA7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tonight \(feat\. iann dior\)](https://open.spotify.com/album/53jX1nt0x4HeHwOGRbQWQR) | 2:15 | 2022-03-24 | 2022-05-19 |
-| [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 | 2022-10-14 |  |
+| [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 | 2022-10-14 | 2022-12-14 |
 | [Too Late](https://open.spotify.com/track/0Fma3BTRkSOKDigFnZYvtD) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Too Late](https://open.spotify.com/album/6CmiPFmr2tFiTiC3n25wRR) | 3:17 | 2022-03-24 | 2022-04-21 |
 | [Too Much](https://open.spotify.com/track/1k7FCfCytAwzkXSkV8gvv5) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Tangerine](https://open.spotify.com/album/3mNTgHJkPtbODSrkUCoaA9) | 3:14 | 2022-03-24 | 2022-04-10 |
 | [torture \(with Earl St\. Clair\)](https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [torture \(with Earl St\. Clair\)](https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP) | 2:41 | 2022-03-24 | 2022-04-15 |

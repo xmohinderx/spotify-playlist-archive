@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-112 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
+114 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Little More](https://open.spotify.com/track/3iQyxNq8TnhYimIMrKbEwa) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [A Little More](https://open.spotify.com/album/6jx4akSZu1hcJVADH1JUZd) | 3:06 | 2022-11-05 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0yJI0V4U9cy59pGFR7SQui) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Rockin' Holiday](https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA) | 3:47 | 2021-12-03 |  |
 | [Ariel's Christmas Island](https://open.spotify.com/track/0aCVcGoCbdnfFowNu6IzvU) | [Ariel](https://open.spotify.com/artist/1RJ9qwSsCfnOcTXBSqotNk), [Sebastian](https://open.spotify.com/artist/3SDQzHnLxVFNK6hvg9Lrks) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 2:53 | 2021-12-03 |  |
+| [Audrey's Christmas Rewind](https://open.spotify.com/track/41EBsCOnEjg6j9l72fFtRf) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Jadah Marie](https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz) | [Audrey's Christmas Rewind](https://open.spotify.com/album/7fDSJl22e3oDb0L6tiAS4S) | 2:13 | 2022-12-13 |  |
 | [Bring on Christmas Day](https://open.spotify.com/track/4aBOiLLaZesaTEYPItY8A9) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Bring on Christmas Day](https://open.spotify.com/album/40jWI7gm77i5F32eXQiIwK) | 3:48 | 2022-09-16 |  |
 | [Candlelight Overture](https://open.spotify.com/track/0x3ZtKQ5V6VSkAKx5GwIku) | [Massed Choir](https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr) | [Candlelight Processional](https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy) | 5:24 | 2021-12-03 |  |
 | [Carol of the Bells](https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:33 | 2021-12-03 |  |
@@ -22,6 +23,7 @@
 | [Christmas Again](https://open.spotify.com/track/5wVIYvdUYoL8cPhf5erVTx) | [Scarlett Estevez](https://open.spotify.com/artist/7vtaa3f6pG08gYqAs2l9fk) | [Christmas Again \(Original Soundtrack\)](https://open.spotify.com/album/2p2vhl9JhrEgLHufU2ynjT) | 3:04 | 2021-12-03 |  |
 | [Christmas Eve Montage](https://open.spotify.com/track/6VNtoQ5FSWZhiGgJ3DZSUb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 4:43 | 2021-12-03 |  |
 | [Christmas Is Coming](https://open.spotify.com/track/5adIYznGmdO5b0cSwJZrjb) | [Ross Lynch and R5](https://open.spotify.com/artist/0TGVDRh15yJI04We1mSdt9) | [Disney Channel Holiday Playlist](https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE) | 3:08 | 2021-12-03 |  |
+| [Christmas Is Nearly Here](https://open.spotify.com/track/3q2EkP9QIXLAW0VNM8QZTx) | [Mickey Saves Christmas \- Cast](https://open.spotify.com/artist/7jsEWApcTNGDyVHlYm9QZh) | [Mickey Saves Christmas \(Original Soundtrack\)](https://open.spotify.com/album/7pRegyKmNmsJN1UkB77iIu) | 2:19 | 2022-12-13 |  |
 | [Christmas Morning](https://open.spotify.com/track/2L2PfoLfYE2a5ExqfymzLF) | [Miles Goodman](https://open.spotify.com/artist/6EO3sg6d03gDegWGl2eILt) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 0:57 | 2021-12-03 |  |
 | [Christmas Morning](https://open.spotify.com/track/3GID4s7AqCNCWureohDnZ9) | [Miles Goodman](https://open.spotify.com/artist/6EO3sg6d03gDegWGl2eILt) | [The Muppets Christmas Carol](https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4) | 0:57 | 2021-12-03 | 2022-07-29 |
 | [Come December](https://open.spotify.com/track/0sgFXUqZUc8aULEbhY8bO5) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Come December](https://open.spotify.com/album/0wRxTwZuZA2EW4OTyZbM3C) | 2:51 | 2022-12-08 |  |

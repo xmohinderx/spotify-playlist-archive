@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Plastilina Mosh en portada.",
-  "num_followers": 462538,
+  "num_followers": 462674,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMDNhNGIyYmY0YTY1NjI4N2YxNTc4YzAzN2FjZmE3NDY2",
+  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMGQ3YzJkZmRkNWI2YWU4NGVkOWMwZDMxYjE3YmRiMTkw",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
     },
     {
-      "added_at": "2022-08-19 01:15:52",
-      "album": {
-        "name": "En Tu Orilla",
-        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205175,
-      "name": "En Tu Orilla",
-      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
-    },
-    {
       "added_at": "2022-01-28 17:39:37",
       "album": {
         "name": "Sweet & Sour - Hot & Spicy",
@@ -1315,6 +1299,22 @@
       "duration_ms": 303506,
       "name": "Norte - Bonus",
       "url": "https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW"
+    },
+    {
+      "added_at": "2022-08-19 01:15:52",
+      "album": {
+        "name": "En Tu Orilla",
+        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205175,
+      "name": "En Tu Orilla",
+      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
     },
     {
       "added_at": "2022-01-28 17:39:37",

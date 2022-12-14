@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-71 songs - 4 hr 38 min - not published yet
+72 songs - 4 hr 43 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 | 2022-12-01 |  |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-12-01 |  |
 | [Flipside](https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:18 | 2022-12-01 |  |
+| [Floating](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 5 \(Floating\)](https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02) | 4:53 | 2022-12-01 |  |
 | [Glory](https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [mixed feelings](https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0) | [Glory](https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j) | 2:24 | 2022-12-01 |  |
 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 | 2022-12-01 |  |
 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-12-01 |  |
@@ -78,6 +79,6 @@
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-12-01 |  |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2022-12-01 |  |
 | [Yellow](https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [Yellow](https://open.spotify.com/album/3pC14s49yUVj2VJskAshde) | 4:22 | 2022-12-01 |  |
-| [Yellow \- Lipless Remix](https://open.spotify.com/track/03SD3DTBn3opjfaJzGmalp) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Yellow \(Lipless Remix\)](https://open.spotify.com/album/5be16Dbwpe0lXP0RiDaETh) | 4:05 | 2022-12-01 |  |
+| [Yellow \- Lipless Remix](https://open.spotify.com/track/03SD3DTBn3opjfaJzGmalp) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Yellow \(Lipless Remix\)](https://open.spotify.com/album/5be16Dbwpe0lXP0RiDaETh) | 4:05 | 2022-12-01 | 2022-12-14 |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

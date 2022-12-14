@@ -1,12 +1,12 @@
 {
   "description": "Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 165100,
+  "num_followers": 165325,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg1NTQyNiwwMDAwMDAwMDY0MDI1MDY5MzYyMzU0Y2FmNjIzMjNlY2M0NzcwYWY1",
+  "snapshot_id": "MTY3MDg1NTQyNiwwMDAwMDAwMGM0MzNkMTdlMDhlOTVhY2E4Y2UxMmM3YmVhMjBlMTIx",
   "tracks": [
     {
       "added_at": "2022-12-12 14:30:26",
@@ -453,7 +453,7 @@
         },
         {
           "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4"
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
         },
         {
           "name": "Mc Davi",
@@ -791,34 +791,6 @@
     {
       "added_at": "2022-12-12 14:30:26",
       "album": {
-        "name": "Contagem",
-        "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
-      },
-      "artists": [
-        {
-          "name": "G.AZINN",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Contagem",
-      "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
-    },
-    {
-      "added_at": "2022-12-12 14:30:26",
-      "album": {
         "name": "Bokaloka",
         "url": "https://open.spotify.com/album/780KNfna6zGXAd46qZZmoS"
       },
@@ -863,6 +835,34 @@
       "duration_ms": 553536,
       "name": "Bokaloka",
       "url": "https://open.spotify.com/track/15MMy5OQqEyGBLkjVSsS9e"
+    },
+    {
+      "added_at": "2022-12-12 14:30:26",
+      "album": {
+        "name": "Contagem",
+        "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
+      },
+      "artists": [
+        {
+          "name": "G.AZINN",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Contagem",
+      "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
     },
     {
       "added_at": "2022-12-12 14:30:26",

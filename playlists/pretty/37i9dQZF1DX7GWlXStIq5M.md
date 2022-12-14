@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,088 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,080 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 56 | [P2](https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:54 |
 | 57 | [Pain 1993 \(with Playboi Carti\)](https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 2:29 |
 | 58 | [Babushka Boi](https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Babushka Boi](https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v) | 3:07 |
-| 59 | [Tommy Lee \(feat\. Post Malone\)](https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Tommy Lee \(feat\. Post Malone\)](https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0) | 3:44 |
-| 60 | [LEAL](https://open.spotify.com/track/7LC49U08KjfwzDMiGNkE1q) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:32 |
+| 59 | [LEAL](https://open.spotify.com/track/7LC49U08KjfwzDMiGNkE1q) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:32 |
+| 60 | [Tommy Lee \(feat\. Post Malone\)](https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Tommy Lee \(feat\. Post Malone\)](https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0) | 3:44 |
 | 61 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 |
 | 62 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp) | 3:20 |
 | 63 | [Kenny G](https://open.spotify.com/track/3MkdA6vwF0ifRl86yzTlJW) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Kenny G](https://open.spotify.com/album/6dXKy9X9o0HpcF0YZjaWOa) | 3:09 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 89 | [@ MEH](https://open.spotify.com/track/5UusfWUMMLEXLMc1ViNZoe) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [@ MEH](https://open.spotify.com/album/3hXfBV9COJBTj5rnIh7wcC) | 2:46 |
 | 90 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 |
 
-Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMDVlMmNkZjJjM2QxZTVlMDcxYjc2OGQwMWM3ZDc0YjFk`
+Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMGVjZGMwMDA4ZmE3MjJmZDc0ZTFhYWI1ZmVmNzk1ZDAy`

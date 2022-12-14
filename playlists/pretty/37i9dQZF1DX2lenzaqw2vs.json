@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123919,
+  "num_followers": 123924,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGZiZjdmYmYzMjdjOGE2ZmFhNzk5ZDRjN2Q5NzM0OTQ5",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDVkZjY4MDI3MTI1YWQwYjJiYThjMjQ4ZTE3MzI0M2Ri",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2463,6 +2463,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Ruido",
+        "url": "https://open.spotify.com/album/2T5rf0qgV9RnkxdnuKEHhf"
+      },
+      "artists": [
+        {
+          "name": "La Prohibida",
+          "url": "https://open.spotify.com/artist/1sHPujXeed3zTvHlpbqdtl"
+        }
+      ],
+      "duration_ms": 297544,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/4x9XyYlT1YS2DUi47Onqt4"
       },
@@ -2479,22 +2495,6 @@
       "duration_ms": 176155,
       "name": "Grande",
       "url": "https://open.spotify.com/track/4Ysxfregr1tcAeGxzBrLVi"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Ruido",
-        "url": "https://open.spotify.com/album/2T5rf0qgV9RnkxdnuKEHhf"
-      },
-      "artists": [
-        {
-          "name": "La Prohibida",
-          "url": "https://open.spotify.com/artist/1sHPujXeed3zTvHlpbqdtl"
-        }
-      ],
-      "duration_ms": 297544,
-      "name": "Ruido",
-      "url": "https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8"
     },
     {
       "added_at": "2022-07-05 19:20:04",

@@ -1,12 +1,12 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 27490,
+  "num_followers": 27507,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzEwMzYzNiwwMDAwMDAwMGUxMDNkYjA5OGZjNDgyYWNkN2IzMzM4ZTlmZWU1M2M3",
+  "snapshot_id": "MTYxMzEwMzYzNiwwMDAwMDAwMDZiNzkyMzc1MzgwNmVjOWI4MjcwZDdjZTNiZTYyMTdm",
   "tracks": [
     {
       "added_at": "2020-12-04 02:43:20",
@@ -503,22 +503,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Da Trak Genious",
-        "url": "https://open.spotify.com/album/3b7HxjiBDo5ZVRmKqKYYx7"
-      },
-      "artists": [
-        {
-          "name": "DJ Nate",
-          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Below Zero",
-      "url": "https://open.spotify.com/track/0LTm0RA3wDl1xeAFZY3igP"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Slanted",
         "url": "https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 226000,
       "name": "Slanted - BSN Posse Remix",
       "url": "https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Da Trak Genious",
+        "url": "https://open.spotify.com/album/3b7HxjiBDo5ZVRmKqKYYx7"
+      },
+      "artists": [
+        {
+          "name": "DJ Nate",
+          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Below Zero",
+      "url": "https://open.spotify.com/track/0LTm0RA3wDl1xeAFZY3igP"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -899,22 +899,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "VIP VAULTS",
-        "url": "https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz"
-      },
-      "artists": [
-        {
-          "name": "Slick Shoota",
-          "url": "https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR"
-        }
-      ],
-      "duration_ms": 271083,
-      "name": "147",
-      "url": "https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Transgenre",
         "url": "https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 138232,
       "name": "Miau",
       "url": "https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "VIP VAULTS",
+        "url": "https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz"
+      },
+      "artists": [
+        {
+          "name": "Slick Shoota",
+          "url": "https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR"
+        }
+      ],
+      "duration_ms": 271083,
+      "name": "147",
+      "url": "https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -965,6 +965,38 @@
       "url": "https://open.spotify.com/track/3MI20cDoa9zWn0c70ikDq4"
     },
     {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Guaranteed",
+        "url": "https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX"
+      },
+      "artists": [
+        {
+          "name": "Caidance",
+          "url": "https://open.spotify.com/artist/3bWNdjdWiWNdv1xPOnFU1r"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Stick Em'",
+      "url": "https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "The Crack Capone",
+        "url": "https://open.spotify.com/album/4vOJ3wYsBpJXigwlJ7zpDC"
+      },
+      "artists": [
+        {
+          "name": "DJ Roc",
+          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/0ydUOg7O89rwt6cVteWJ2B"
+    },
+    {
       "added_at": "2020-12-11 05:59:00",
       "album": {
         "name": "HNADFUL OF SAND",
@@ -991,22 +1023,6 @@
       "duration_ms": 150375,
       "name": "HNADFUL OF SAND",
       "url": "https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "Guaranteed",
-        "url": "https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX"
-      },
-      "artists": [
-        {
-          "name": "Caidance",
-          "url": "https://open.spotify.com/artist/3bWNdjdWiWNdv1xPOnFU1r"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Stick Em'",
-      "url": "https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -1039,22 +1055,6 @@
       "duration_ms": 193041,
       "name": "Trippin'",
       "url": "https://open.spotify.com/track/49Cxo7HnU6TyR8sLkc2oJk"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "The Crack Capone",
-        "url": "https://open.spotify.com/album/4vOJ3wYsBpJXigwlJ7zpDC"
-      },
-      "artists": [
-        {
-          "name": "DJ Roc",
-          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/0ydUOg7O89rwt6cVteWJ2B"
     },
     {
       "added_at": "2020-12-03 17:37:02",

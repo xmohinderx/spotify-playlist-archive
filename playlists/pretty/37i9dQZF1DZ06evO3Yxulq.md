@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,881 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,897 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Rey Infinito](https://open.spotify.com/track/5qHACOfv3we8lAA7i5DLzf) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:46 |
 | 50 | [Eterno \(Con Cuando Los Santos Marchan Ya\)](https://open.spotify.com/track/1D7gcN6H8n0hdxr1osOd6N) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 6:02 |
 
-Snapshot ID: `Mjc4NDc2NzEsMDAwMDAwMDA4NTg5ZjQ1ZTkzNDQ3YTU5MTlkZGNiNzBiOTcyODE5Zg==`
+Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDBiNzAzMGYzMDI2MmJiNmM4NGNlMmZhYzQyZjI1MzY3NQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,700 likes - 98 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,723 likes - 98 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,331 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,424 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 15 | [Fue un Placer Conocerte \(En Vivo\) \(with Juan Gabriel\) \- Desde el Auditorio Nacional](https://open.spotify.com/track/1k03B1u95i1n6Cf6DkfsBz) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Concierto ..\. En Vivo](https://open.spotify.com/album/1iCCRqIDPUoZ5fkaE8Rp5t) | 3:20 |
 | 16 | [Lo Dudo](https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:39 |
 | 17 | [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 |
-| 18 | [Seré](https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 3:10 |
-| 19 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
+| 18 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
+| 19 | [Seré](https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 3:10 |
 | 20 | [He Renunciado a Ti \- Remasterizado](https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:54 |
 | 21 | [Siempre en Mi Mente](https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre En Mi Mente](https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm) | 3:25 |
 | 22 | [Te Lo Pido por Favor](https://open.spotify.com/track/08Jr52g99jcHUYx9NhU0IE) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:38 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 28 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 |
 | 29 | [El Amor Acaba](https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 4:20 |
 | 30 | [Pero Qué Necesidad](https://open.spotify.com/track/5rycwubN7We1zdSDM1ZABW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:54 |
-| 31 | [Gotas de Fuego](https://open.spotify.com/track/05BD87wSnrHtYe1SpeOkcE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:50 |
-| 32 | [Yo No Nací para Amar](https://open.spotify.com/track/5dzyCRgh6GpLg4bUnYWgGI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/7LUl8V8OkpiygImst4pOmk) | 4:30 |
+| 31 | [Yo No Nací para Amar](https://open.spotify.com/track/5dzyCRgh6GpLg4bUnYWgGI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/7LUl8V8OkpiygImst4pOmk) | 4:30 |
+| 32 | [Gotas de Fuego](https://open.spotify.com/track/05BD87wSnrHtYe1SpeOkcE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:50 |
 | 33 | [Desesperado \(with Mijares\)](https://open.spotify.com/track/74CUfw3VJsGdu1OsQdFlOl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:48 |
 | 34 | [Amor, Amor](https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Amor Amor](https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ) | 4:29 |
 | 35 | [Mientras Llueve](https://open.spotify.com/track/5bV4nYoPmhTkUShCMs8H8a) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [40 y 20](https://open.spotify.com/track/3jyL9XBeItyF2BfI9ILJKZ) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [40 Y 20](https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL) | 4:02 |
 | 100 | [El México Que Se Nos Fue](https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 4:37 |
 
-Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDE3NTdhYjdiNDc4NWYwNzVkNWU3YTJhZGQwYzYyNzJk`
+Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDY3OTJiYWFiMWFiMzljN2VjY2QzM2YwNWNjN2E0NGJh`

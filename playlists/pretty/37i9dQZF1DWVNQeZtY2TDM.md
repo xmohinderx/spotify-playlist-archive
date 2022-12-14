@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Teezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,873 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,888 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 70 | [BOYFRIEND](https://open.spotify.com/track/3mBTkjcrgngBTwhxnTKtfq) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [BOYFRIEND](https://open.spotify.com/album/6rAPUsw0dCdMYFjxGj17Lf) | 3:49 |
 | 71 | [WYWFM \- Mastered](https://open.spotify.com/track/7bkHErBKfdwywfuES8P2fH) | [A\-Fei 阿飛](https://open.spotify.com/artist/0QfCMAAAQ7AGLh77MQwyJn), [ZL7](https://open.spotify.com/artist/1RUGX6XkAnOk25OZBjwXjX), [Flomosa Media](https://open.spotify.com/artist/5GMBqjlvRxThEATjgXnqiB) | [WYWFM \(mastered\)](https://open.spotify.com/album/0f3fBdqajcSrGs0NIBMrGc) | 4:00 |
 | 72 | [有病的孩子](https://open.spotify.com/track/2UzbJ33Xf8VPwGZGQhWUk8) | [HomeRich](https://open.spotify.com/artist/4GtW6FVTo4AlQRzVMgexJF) | [溫柔的怪物](https://open.spotify.com/album/5j8KBkwSdWQRBkAiJDWskT) | 2:58 |
-| 73 | [繆思女神](https://open.spotify.com/track/0FamA5U7HRrAPnpMiPzAPR) | [提姆 N!ceT!M](https://open.spotify.com/artist/1JeYKpmSd70UT7RjRQOXU6), [思語紅](https://open.spotify.com/artist/6ZtNdpHy3R8xwV9gP3mW3w) | [小畫家](https://open.spotify.com/album/0g5qhrGM4gkZaK1e0RyezV) | 3:12 |
+| 73 | [繆思女神](https://open.spotify.com/track/0FamA5U7HRrAPnpMiPzAPR) | [提姆 N!ceT!M](https://open.spotify.com/artist/0HqZVOykVBNOy4o5XfY9iO), [思語紅](https://open.spotify.com/artist/6ZtNdpHy3R8xwV9gP3mW3w) | [小畫家](https://open.spotify.com/album/0g5qhrGM4gkZaK1e0RyezV) | 3:12 |
 | 74 | [跟你對話](https://open.spotify.com/track/6au1VUVBbpkzvdbZ9m8gIG) | [阿夫 Suhf](https://open.spotify.com/artist/1lIHC3tPoXBlSYQwSMoIYY) | [跟你對話](https://open.spotify.com/album/5MgUD99Gdq0q3f52vwAlEx) | 4:05 |
 | 75 | [賣瓜翁 \(feat\. 陳瑾緗\)](https://open.spotify.com/track/0QAkrSx6eFOmZr0xLIzGaN) | [屁孩 Ryan](https://open.spotify.com/artist/5Uru7pLzT6nfOmJfTyZsAu), [陳瑾緗 Allyson](https://open.spotify.com/artist/5b3M04xxxkQJuHuNEWCuqY) | [賣瓜翁 \(feat\. 陳瑾緗\)](https://open.spotify.com/album/3UtL0ZFQlHutMCAab7efrD) | 2:35 |
 

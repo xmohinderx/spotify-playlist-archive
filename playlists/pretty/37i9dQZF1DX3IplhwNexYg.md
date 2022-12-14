@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Jadu Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,808 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,810 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 17 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
 | 18 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 |
 | 19 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 |
-| 20 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
-| 21 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 |
+| 20 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 |
+| 21 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 22 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 |
-| 23 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
-| 24 | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 |
+| 23 | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 |
+| 24 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
 | 25 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 |
 | 26 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 27 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 37 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 |
 | 38 | [Thick of the Honey](https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw) | 2:17 |
 | 39 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 |
-| 40 | [Ethel](https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Ethel](https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y) | 4:29 |
-| 41 | [Nosebleed](https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Nosebleed](https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn) | 3:26 |
-| 42 | [Alright](https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Alright](https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv) | 2:36 |
+| 40 | [Alright](https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Alright](https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv) | 2:36 |
+| 41 | [Ethel](https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Ethel](https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y) | 4:29 |
+| 42 | [Nosebleed](https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Nosebleed](https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn) | 3:26 |
 | 43 | [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 |
 | 44 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 |
 | 45 | [Eight Fivers](https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Most Normal](https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0) | 2:20 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 50 | [Sell Out](https://open.spotify.com/track/5aWaPqgkheottumavM0tix) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Sell Out](https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ) | 3:07 |
 | 51 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 |
 | 52 | [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 |
-| 53 | [Arrow](https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Arrow](https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo) | 2:05 |
-| 54 | [Only Good Things](https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Only Good Things](https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt) | 3:15 |
+| 53 | [Only Good Things](https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Only Good Things](https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt) | 3:15 |
+| 54 | [Arrow](https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Arrow](https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo) | 2:05 |
 | 55 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 | 56 | [how would you know](https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [how would you know](https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr) | 2:57 |
 | 57 | [Blu Shirt Boy](https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa) | 3:43 |
@@ -70,17 +70,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 60 | [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 |
 | 61 | [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 |
 | 62 | [Be By Your Side](https://open.spotify.com/track/2Om9dYuAMsw8jnCLpwVMhx) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:54 |
-| 63 | [I'm Just High](https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Dreams, Pains & Paper Planes](https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV) | 3:21 |
-| 64 | [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 |
-| 65 | [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:46 |
+| 63 | [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:46 |
+| 64 | [I'm Just High](https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Dreams, Pains & Paper Planes](https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV) | 3:21 |
+| 65 | [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 |
 | 66 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 |
-| 67 | [rid of me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 |
-| 68 | [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 |
+| 67 | [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 |
+| 68 | [rid of me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 |
 | 69 | [Hachiko](https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hachiko](https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce) | 2:54 |
 | 70 | [The Drop](https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH) | 2:58 |
 | 71 | [Kids 1995](https://open.spotify.com/track/6NbywDH5W9ZaSNWlnqAcAB) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Kids 1995](https://open.spotify.com/album/70LOOk3n3ZDNtAvJ6JJ6aP) | 4:36 |
-| 72 | [Between The Rocks](https://open.spotify.com/track/2FK5khW8jinlrJOy0TWVxM) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Between The Rocks](https://open.spotify.com/album/3JDZzKj3R9MGJEncZLi5ZQ) | 3:31 |
-| 73 | [GIRLFRIEND SONG](https://open.spotify.com/track/3Ozd3VhAsIMrPFP13nmtAl) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [SOMEWHERE IN NOWHERELAND](https://open.spotify.com/album/25KP5rdvSlUzdZixsNBVva) | 3:44 |
+| 72 | [GIRLFRIEND SONG](https://open.spotify.com/track/3Ozd3VhAsIMrPFP13nmtAl) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [SOMEWHERE IN NOWHERELAND](https://open.spotify.com/album/25KP5rdvSlUzdZixsNBVva) | 3:44 |
+| 73 | [Between The Rocks](https://open.spotify.com/track/2FK5khW8jinlrJOy0TWVxM) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Between The Rocks](https://open.spotify.com/album/3JDZzKj3R9MGJEncZLi5ZQ) | 3:31 |
 | 74 | [Flip It](https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Flip It](https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE) | 3:08 |
 | 75 | [Love For Two](https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Green Dream in F\#](https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq) | 2:05 |
 | 76 | [Superblue](https://open.spotify.com/track/2xeyM4a9TxmBjPR13AG7CG) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Superblue](https://open.spotify.com/album/3Pu25k3w3yE4Qfli9VqFP4) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [Gr8 Timing!](https://open.spotify.com/track/2jGNWnhAg5G7GbjJB6jQ3I) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0) | 2:37 |
 | 80 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
 
-Snapshot ID: `MTY2OTMzNDQwMCwwMDAwMDAwMGQ5NWZhMjAyMWE0MWVjNzg5NmM5ZTdjMGUzYmZmNmVk`
+Snapshot ID: `MTY2OTMzNDQwMCwwMDAwMDAwMDVmMDc2N2U2ZTMxNDIwNDMyZTQ2M2Y3ZDBiNmM5MTM2`

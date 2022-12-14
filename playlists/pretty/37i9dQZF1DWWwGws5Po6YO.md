@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,836 likes - 59 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,872 likes - 59 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 20 | [Sun \- Midnight Version](https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/0Ki50P3NuzhFtM70S5OOtf) | 19:28 |
 | 21 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
 | 22 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
-| 23 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 |
-| 24 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |
+| 23 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |
+| 24 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 |
 | 25 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 |
 | 26 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
 | 27 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 |
-| 28 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
+| 28 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
 | 29 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 |
-| 30 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
+| 30 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 31 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
-| 32 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
-| 33 | [Night Journeys II](https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys II](https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp) | 7:16 |
-| 34 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
+| 32 | [Night Journeys II](https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys II](https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp) | 7:16 |
+| 33 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
+| 34 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
 | 35 | [Withdrawal](https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 2:01 |
 | 36 | [Blue Shit](https://open.spotify.com/track/5MQPW3rjoZ2VuIFePdWE5d) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/3fLvBgK02fzdFAJ1aB8cKv) | 4:41 |
 | 37 | [Wawa by the Ocean](https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces](https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao) | 10:28 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 58 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
 | 59 | [Traquair \(LAYERS ambient\)](https://open.spotify.com/track/1cUOojLPXn3SSGXvnil5qC) | [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH), [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [LAYERS](https://open.spotify.com/album/52V08L7diSUAIP9Mt4eXjV) | 4:09 |
 
-Snapshot ID: `MTY2NDg5NDcwMCwwMDAwMDAwMDQ0ODc2YzU3ZjM4OWU0MGM3NzJhZDMxYzQ3Y2I3YmE2`
+Snapshot ID: `MTY2NDg5NDcwMCwwMDAwMDAwMDVjNjJlYjBlNTg1NmRjYjdlZDdlMmQ2NWY2NDE1OTdi`

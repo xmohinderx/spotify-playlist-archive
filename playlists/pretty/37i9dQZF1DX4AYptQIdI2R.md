@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,561 likes - 128 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,603 likes - 128 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 100 | [DRUNK ON YOU](https://open.spotify.com/track/3py7jF8h0hJ0QiYoyqUBz5) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:46 |
 | 101 | [SENSES](https://open.spotify.com/track/3C7hRslMCduBjjDyfEYors) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:15 |
 | 102 | [ZERO](https://open.spotify.com/track/4jXgqvdN5MZPu1ge87vqu4) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I WON'T LET YOU GO \(Complete Edition\)](https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J) | 3:48 |
-| 103 | [너 하나만 One And Only You](https://open.spotify.com/track/261LXApprrMeuczNAGqjav) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:20 |
+| 103 | [너 하나만 One And Only You](https://open.spotify.com/track/261LXApprrMeuczNAGqjav) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:20 |
 | 104 | [WOLO](https://open.spotify.com/track/2A27zEZagIqtgpzLtnmjbb) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:04 |
 | 105 | [LOVE TALK](https://open.spotify.com/track/5ukZlGN2l9WFC0kguXNMwv) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:53 |
 | 106 | [잘 지내야해 1:31AM](https://open.spotify.com/track/5vUyOyf1JRJglgkO8YwScG) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:51 |

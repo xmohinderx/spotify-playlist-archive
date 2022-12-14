@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Radar artists' that were loved the most in 2022\. Cover \- Anumita Nadesan \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,846 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,974 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [idk](https://open.spotify.com/track/6EPAW0VyoXqJBEmgQXnFfV) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [idk](https://open.spotify.com/album/0tO2P9QpZ0QeVTojBuQ9Yw) | 2:45 |
 | 75 | [Aasaan Nahin Hota](https://open.spotify.com/track/4AQWEhpvoDFYJDUEMJXNG2) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Qurbat](https://open.spotify.com/album/1pwQRDtIQYcSreN5EBI8xU) | 4:25 |
 
-Snapshot ID: `MTY2OTgxNjU4OSwwMDAwMDAwMDFlYmI1ZDUwZTRlMTEzY2U5ZWJmZjMyOGFmYzc1MWU1`
+Snapshot ID: `MTY3MDkxNDI5MywwMDAwMDAwMDgyOTkxNDAyNjAzY2ZkMzA2NjFjZWYwNmZlYTkwNmIy`

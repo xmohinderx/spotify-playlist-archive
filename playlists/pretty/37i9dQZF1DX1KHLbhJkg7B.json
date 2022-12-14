@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 81066,
+  "num_followers": 81091,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGQ2ODAxMTkwNThlMWZhNzdjMDIzOWI5ZDcyMGJlNmIy",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDE3MzA1OTdkYTk0OTk5YzQ3NGE4Njk5MjViN2NkZmI4",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -867,6 +867,38 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -899,38 +931,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Pop a Top",
-      "url": "https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "It's Only Rock 'N' Roll (But I Like It)",
-        "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        },
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 322346,
-      "name": "It's Only Rock 'N' Roll (But I Like It)",
-      "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 217200,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "It's Only Rock 'N' Roll (But I Like It)",
+        "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 322346,
+      "name": "It's Only Rock 'N' Roll (But I Like It)",
+      "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Outskirts of Heaven",
+        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "duration_ms": 243545,
+      "name": "Outskirts of Heaven",
+      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "I Don't Want To Miss A Thing",
         "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 192236,
       "name": "If I Needed You",
       "url": "https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Outskirts of Heaven",
-        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
-      },
-      "artists": [
-        {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
-        }
-      ],
-      "duration_ms": 243545,
-      "name": "Outskirts of Heaven",
-      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Live Forever",
         "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 180135,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "This Land Is Your Land (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 154893,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
+      "duration_ms": 247765,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS"
+        "name": "This Land Is Your Land (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 247765,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb"
+      "duration_ms": 154893,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
     },
     {
       "added_at": "2022-12-02 05:00:00",

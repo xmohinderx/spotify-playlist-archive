@@ -4,7 +4,7 @@
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-112 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/7goobQ9e4xy8l1vfpiYXYS)
+113 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/7goobQ9e4xy8l1vfpiYXYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Peaches](https://open.spotify.com/track/7yndlXlrUV0dA01TBMvxuY) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Peaches](https://open.spotify.com/album/4hyB3TXvwJuvBgXMbOFBeH) | 3:30 | 2022-02-09 |  |
 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 | 2022-02-09 |  |
 | [Psychic Reader](https://open.spotify.com/track/43nkVaKeVXgEC5jGqeylmp) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Psychic Reader](https://open.spotify.com/album/5klZj0GbathSjaZZBD2Qxm) | 3:24 | 2022-02-09 |  |
-| [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 | 2022-02-09 |  |
+| [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 | 2022-02-09 | 2022-12-14 |
+| [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 | 2022-02-09 |  |
 | [Q&A](https://open.spotify.com/track/0S6giCcEzgm7SzK6cczMKc) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Bullet 1st Single Album Let's Play Cherry Bullet](https://open.spotify.com/album/0qXdSJ3TqYmGEjaLTsmGvr) | 3:26 | 2022-02-09 |  |
 | [Real Love](https://open.spotify.com/track/2f47eePMUJvRVVqWdA4JC2) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Rabbit Hole](https://open.spotify.com/album/3O9h4n6a5yGA4OCcwNx2se) | 3:46 | 2022-02-09 |  |
 | [Run For Your Money](https://open.spotify.com/track/7wW1OO2yJ5vrfaVRuasv7n) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:02 | 2022-02-09 |  |

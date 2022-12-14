@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273100,
+  "num_followers": 273092,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMDQ2NjZhNWVjOWU1YTYzYjI0YWVjNDdjYzdhZWViOWFh",
+  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMDVkZDk4MjViNWE2OGEzOTNkZGViYjk5ODY5ZTRjYWJi",
   "tracks": [
     {
       "added_at": "2022-09-30 14:01:12",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Acoustic Collection (Vol. 1)",
         "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 184815,
       "name": "Take Me Home (feat. Bebe Rexha) - Acoustic",
       "url": "https://open.spotify.com/track/3j9AY9emI5H45iMxTpT4TJ"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 174266,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 257923,
-      "name": "Don't You Worry Child - Acoustic Version",
-      "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Let Me Love You (Andrew Watt Acoustic Remix)",
         "url": "https://open.spotify.com/album/7AXMTCR9Ufyj64Q02H8xFa"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 206666,
       "name": "Let Me Love You - Andrew Watt Acoustic Remix",
       "url": "https://open.spotify.com/track/1LcxOZGMdAuScNbIN2Fvcq"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 257923,
+      "name": "Don't You Worry Child - Acoustic Version",
+      "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -287,26 +287,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
-        "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 216294,
-      "name": "I Miss You (feat. Julia Michaels) - Acoustic",
-      "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
         "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 266413,
       "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
       "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
+        "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 216294,
+      "name": "I Miss You (feat. Julia Michaels) - Acoustic",
+      "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -759,6 +759,26 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Better EP (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 150652,
       "name": "Better (feat. Teddy Swims) - Acoustic Version",
       "url": "https://open.spotify.com/track/24MoOLc4izxq0E0lzRxxJn"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Where Did You Go? (Acoustic)",
-        "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
       },
       "artists": [
         {
@@ -1108,13 +1108,13 @@
           "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 202680,
-      "name": "Where Did You Go? - Acoustic",
-      "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "You Don't Know Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+        "name": "Where Did You Go? (Acoustic)",
+        "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
       },
       "artists": [
         {
@@ -1320,13 +1320,13 @@
           "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 224560,
-      "name": "You Don't Know Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
+      "duration_ms": 202680,
+      "name": "Where Did You Go? - Acoustic",
+      "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Melody (Acoustic)",
-        "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 169106,
-      "name": "Melody - Acoustic",
-      "url": "https://open.spotify.com/track/2wwGCTj4mdjeG0VbpUazrT"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Looking For Me (Remixes)",
         "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
       },
@@ -1587,22 +1571,18 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "21 Reasons (feat. Ella Henderson) [Acoustic]",
-        "url": "https://open.spotify.com/album/0lfTLJlqbgLRaJcYT5zwGJ"
+        "name": "Melody (Acoustic)",
+        "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 167724,
-      "name": "21 Reasons (feat. Ella Henderson) - Acoustic",
-      "url": "https://open.spotify.com/track/0oubikePN5zgE3sFGLLWkP"
+      "duration_ms": 169106,
+      "name": "Melody - Acoustic",
+      "url": "https://open.spotify.com/track/2wwGCTj4mdjeG0VbpUazrT"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1667,6 +1647,26 @@
       "duration_ms": 227800,
       "name": "Good Luck - Acoustic",
       "url": "https://open.spotify.com/track/0F8hd4ZANp8dAIDDe0rygZ"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "21 Reasons (feat. Ella Henderson) [Acoustic]",
+        "url": "https://open.spotify.com/album/0lfTLJlqbgLRaJcYT5zwGJ"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 167724,
+      "name": "21 Reasons (feat. Ella Henderson) - Acoustic",
+      "url": "https://open.spotify.com/track/0oubikePN5zgE3sFGLLWkP"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1751,46 +1751,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
-        "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
-      "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "No Time For Tears (Acoustic)",
-        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 205305,
-      "name": "No Time For Tears - Acoustic",
-      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Crazy (Remixes - Pt. 1)",
         "url": "https://open.spotify.com/album/63oRa4RTNrXMMlyNWsHHcO"
       },
@@ -1839,6 +1799,46 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "No Time For Tears (Acoustic)",
+        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 205305,
+      "name": "No Time For Tears - Acoustic",
+      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
+        "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
+      "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Violin Covers Pt. II",
+        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
+      },
+      "artists": [
+        {
+          "name": "Daniel Jang",
+          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
+        }
+      ],
+      "duration_ms": 186754,
+      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
+      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Violin Covers Pt. II",
-        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
-      },
-      "artists": [
-        {
-          "name": "Daniel Jang",
-          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
-        }
-      ],
-      "duration_ms": 186754,
-      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
-      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
     },
     {
       "added_at": "2022-09-30 14:01:12",

@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 171000,
       "name": "Cruisin",
       "url": "https://open.spotify.com/track/10bEN2SCU2gelIp3UkaVOd"
@@ -455,6 +455,24 @@
       "duration_ms": 171000,
       "name": "Cruisin",
       "url": "https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB"
+    },
+    {
+      "album": {
+        "name": "Cruisin",
+        "url": "https://open.spotify.com/album/2y72j8cLcPUTBIdbX8lgiE"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Cruisin",
+      "url": "https://open.spotify.com/track/71HwYl1J3sYcMAIvoHczQ9"
     },
     {
       "album": {
@@ -941,10 +959,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 105205,
       "name": "la donna e la chitarra",
       "url": "https://open.spotify.com/track/06F8Fnl3zIJ8Fy4IlKJSz3"
+    },
+    {
+      "album": {
+        "name": "la donna e la chitarra",
+        "url": "https://open.spotify.com/album/3stfQyN1Aq78m0W42lG2xS"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105205,
+      "name": "la donna e la chitarra",
+      "url": "https://open.spotify.com/track/2e94pHYImdJE6wgMLHaA9l"
     },
     {
       "album": {

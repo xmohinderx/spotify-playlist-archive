@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 42523,
+  "num_followers": 42603,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQxODU1OCwwMDAwMDAwMDY5YjI5OTgxMGE3ZjkwZTFhODgxNGM3MzU3YTgwZWRj",
+  "snapshot_id": "MTY3MDQxODU1OCwwMDAwMDAwMGRhMTMxMjU5NWE4YzY4MDZkMmVkMWIzYWI5ZmZhZTk0",
   "tracks": [
     {
       "added_at": "2022-12-01 14:02:22",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-12-01 14:02:22",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ"
-    },
-    {
-      "added_at": "2022-12-01 14:02:22",
-      "album": {
         "name": "Gone For The Day",
         "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 137893,
       "name": "Give Me The Simple Life",
       "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
+    },
+    {
+      "added_at": "2022-12-01 14:02:22",
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ"
     },
     {
       "added_at": "2022-12-01 14:02:22",
@@ -319,18 +319,22 @@
     {
       "added_at": "2022-12-01 14:02:22",
       "album": {
-        "name": "I Wanna Be Around",
-        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
+        "name": "Someone To Watch Over Me",
+        "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 134893,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
+      "duration_ms": 215520,
+      "name": "Let's Do It (Let's Fall In Love)",
+      "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
     },
     {
       "added_at": "2022-12-01 14:02:22",
@@ -355,22 +359,18 @@
     {
       "added_at": "2022-12-01 14:02:22",
       "album": {
-        "name": "Someone To Watch Over Me",
-        "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
+        "name": "I Wanna Be Around",
+        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 215520,
-      "name": "Let's Do It (Let's Fall In Love)",
-      "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
+      "duration_ms": 134893,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
     },
     {
       "added_at": "2022-12-01 14:02:22",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-01 14:02:22",
       "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Lou's Blues",
-      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
-    },
-    {
-      "added_at": "2022-12-01 14:02:22",
-      "album": {
         "name": "The Cat Walk",
         "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2022-12-01 14:02:22",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+      "duration_ms": 224266,
+      "name": "Lou's Blues",
+      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
     },
     {
       "added_at": "2022-12-01 14:02:22",
@@ -1083,6 +1067,22 @@
       "duration_ms": 173840,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/1m8WU15D9BGbtsgNE4XWuJ"
+    },
+    {
+      "added_at": "2022-12-01 14:02:22",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
     },
     {
       "added_at": "2022-12-01 14:02:22",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-12-01 14:02:22",
       "album": {
+        "name": "Bewitching Lee!",
+        "url": "https://open.spotify.com/album/30f7XFjgF4s9ldSseZvfye"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "It's A Good Day",
+      "url": "https://open.spotify.com/track/3nlUYUOdnPg4AF9Xvh9LNK"
+    },
+    {
+      "added_at": "2022-12-01 14:02:22",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 398266,
       "name": "Bahia",
       "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
-    },
-    {
-      "added_at": "2022-12-01 14:02:22",
-      "album": {
-        "name": "Bewitching Lee!",
-        "url": "https://open.spotify.com/album/30f7XFjgF4s9ldSseZvfye"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "It's A Good Day",
-      "url": "https://open.spotify.com/track/3nlUYUOdnPg4AF9Xvh9LNK"
     },
     {
       "added_at": "2022-12-01 14:02:22",

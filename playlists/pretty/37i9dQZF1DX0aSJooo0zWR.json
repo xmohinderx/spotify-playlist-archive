@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 167253,
+  "num_followers": 167332,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDRiZTZmYzE0MDExODNmN2FiZGUwYzczZWUyYmIzMWJk",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDg4MmI1MWRjMzJjNmI1MjBkNGZhZWI0ZTM5NDRiNjMy",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Walk Cycle",
-        "url": "https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Walk Cycle",
-      "url": "https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "In These Times",
@@ -583,6 +567,22 @@
       "duration_ms": 185191,
       "name": "Seventh String",
       "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Walk Cycle",
+        "url": "https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Walk Cycle",
+      "url": "https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -669,30 +669,6 @@
       "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
     },
     {
-      "added_at": "2021-05-07 04:01:00",
-      "album": {
-        "name": "One More !!?!??",
-        "url": "https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Fiset",
-          "url": "https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL"
-        },
-        {
-          "name": "Larnell Lewis",
-          "url": "https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U"
-        },
-        {
-          "name": "Jordan Rudess",
-          "url": "https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV"
-        }
-      ],
-      "duration_ms": 248174,
-      "name": "One More !!?!??",
-      "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
-    },
-    {
       "added_at": "2021-10-29 04:02:00",
       "album": {
         "name": "Blue Macaw",
@@ -717,20 +693,28 @@
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2021-05-07 04:01:00",
       "album": {
-        "name": "Bent",
-        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
+        "name": "One More !!?!??",
+        "url": "https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf"
       },
       "artists": [
         {
-          "name": "Gary Willis",
-          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
+          "name": "Mathieu Fiset",
+          "url": "https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL"
+        },
+        {
+          "name": "Larnell Lewis",
+          "url": "https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U"
+        },
+        {
+          "name": "Jordan Rudess",
+          "url": "https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV"
         }
       ],
-      "duration_ms": 371920,
-      "name": "Armageddon Blues",
-      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
+      "duration_ms": 248174,
+      "name": "One More !!?!??",
+      "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -751,6 +735,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
+      },
+      "artists": [
+        {
+          "name": "Gary Willis",
+          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Armageddon Blues",
+      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb"
       },
@@ -763,26 +763,6 @@
       "duration_ms": 451440,
       "name": "Trains",
       "url": "https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1"
-    },
-    {
-      "added_at": "2022-02-11 19:11:35",
-      "album": {
-        "name": "Pursuit of Ends",
-        "url": "https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2"
-      },
-      "artists": [
-        {
-          "name": "High Pulp",
-          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
-        },
-        {
-          "name": "Jaleel Shaw",
-          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "All Roads Lead To Los Angeles",
-      "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -823,6 +803,26 @@
       "duration_ms": 184545,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
+    },
+    {
+      "added_at": "2022-02-11 19:11:35",
+      "album": {
+        "name": "Pursuit of Ends",
+        "url": "https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "All Roads Lead To Los Angeles",
+      "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -959,6 +959,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Blues for Tony",
         "url": "https://open.spotify.com/album/6qcxk9oihNAODxDkVBV8kS"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 672106,
       "name": "Blues for Tony",
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "A Present For The Future",
-        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
-      },
-      "artists": [
-        {
-          "name": "Frank Gambale",
-          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
-        }
-      ],
-      "duration_ms": 551733,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Big Fun (2022 Remaster)",
         "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 1707435,
       "name": "Go Ahead John (2022 Remaster)",
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "A Present For The Future",
+        "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
+      },
+      "artists": [
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        }
+      ],
+      "duration_ms": 551733,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1293,10 +1293,10 @@
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
+      "added_at": "2022-07-22 04:02:00",
       "album": {
-        "name": "Cousin Vinnie",
-        "url": "https://open.spotify.com/album/00nhiAeIJ3f86qvGYPKkoV"
+        "name": "Maiden Voyage",
+        "url": "https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M"
       },
       "artists": [
         {
@@ -1304,21 +1304,17 @@
           "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
         },
         {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+          "name": "Alphonso Johnson",
+          "url": "https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU"
         },
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        },
-        {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+          "name": "Land Richards",
+          "url": "https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84"
         }
       ],
-      "duration_ms": 378489,
-      "name": "Prophecy Extended",
-      "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
+      "duration_ms": 401652,
+      "name": "Maiden Voyage",
+      "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
     },
     {
       "added_at": "2021-07-16 04:01:00",
@@ -1405,6 +1401,22 @@
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
+      },
+      "artists": [
+        {
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+        }
+      ],
+      "duration_ms": 325040,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+    },
+    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Eastern Kaleidoscope",
@@ -1427,22 +1439,6 @@
       "duration_ms": 384356,
       "name": "Eastern Kaleidoscope",
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
-      },
-      "artists": [
-        {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
-        }
-      ],
-      "duration_ms": 325040,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
       "added_at": "2021-02-12 00:49:35",

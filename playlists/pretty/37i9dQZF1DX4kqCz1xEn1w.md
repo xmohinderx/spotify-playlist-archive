@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,646 likes - 100 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,700 likes - 100 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 19 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 |
 | 20 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 |
 | 21 | [Agnus Dei / King Of Kings](https://open.spotify.com/track/0ar77SmMUtj04pFWKSHFSt) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [At Easter](https://open.spotify.com/album/6XzwtfJOB0jf9FQDUw4cnN) | 6:42 |
-| 22 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 |
-| 23 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
+| 22 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
+| 23 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 |
 | 24 | [Heaven's Here \- Live](https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Kierre Bjorn](https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9) | [Unproduced](https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW) | 4:50 |
 | 25 | [Our God](https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:45 |
 | 26 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 97 | [This We Know \- Live](https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:43 |
 | 98 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
 | 99 | [Halls Of Heaven \- Live](https://open.spotify.com/track/70TzqOqUzJsZTLilqh9LzX) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Love Has A Name \(Deluxe/Live\)](https://open.spotify.com/album/5acKLBGuSEu7LkrXdG41PA) | 5:06 |
-| 100 | [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K) | 3:47 |
+| 100 | [Calvary's Cross](https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [This Is Jesus](https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks) | 5:17 |
 
-Snapshot ID: `MTY1MDE3NTMxNSwwMDAwMDAwMGM4ZGZhZmVjZjAwMzNkM2M3NjdhNjljZDVhODA2N2U5`
+Snapshot ID: `MTY1MDE3NTMxNSwwMDAwMDAwMDNmZjY5OTE0Y2MwZTA5NDUxYTJmNGU1MmQ4OTJjNDk1`

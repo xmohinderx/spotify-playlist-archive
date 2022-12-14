@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,067 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,120 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 24 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 25 | [Perdon](https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 3:12 |
 | 26 | [Contigo Aprendí](https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 1:58 |
-| 27 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
-| 28 | [Azul](https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 3:17 |
+| 27 | [Azul](https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 3:17 |
+| 28 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
 | 29 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
 | 30 | [Nostalgia](https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [El Sentimiento del Latino En Nueva York](https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv) | 5:40 |
 | 31 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 42 | [Todo Me Gusta de Ti](https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:41 |
 | 43 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
 | 44 | [Entre Tu Amor Y Mi Amor](https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 3:09 |
-| 45 | [Delirio](https://open.spotify.com/track/23lcRsgi0OWWUaUmpHctS8) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [Johnny Rodriguez Y Su Trio](https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka) | [Canta](https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ) | 3:10 |
-| 46 | [Cuando Estemos Viejo](https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Esta Noche...Billo](https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA) | 2:27 |
+| 45 | [Cuando Estemos Viejo](https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Esta Noche...Billo](https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA) | 2:27 |
+| 46 | [Delirio](https://open.spotify.com/track/23lcRsgi0OWWUaUmpHctS8) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [Johnny Rodriguez Y Su Trio](https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka) | [Canta](https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ) | 3:10 |
 | 47 | [En la Palma de la Mano](https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:58 |
 | 48 | [Como un Lunar](https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 3:09 |
 | 49 | [Albricias](https://open.spotify.com/track/2tp2urheCpgDbkqfoaD0U1) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 74 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
 | 75 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 
-Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMDkyYjEwNjFjNTYzYmJjM2Y0OTIxYTNjYzk4YzI3Mjk0`
+Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMGY5ZjIxOWZkZTFlNjQ4YTdjYTkxMjc2ZWQ4NTNmYmM1`

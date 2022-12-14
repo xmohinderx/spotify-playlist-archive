@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Danny Schiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,273 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,258 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 50 | [first order of business](https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:48 |
 | 51 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 |
 | 52 | [LENTITO](https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LENTITO](https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3) | 3:23 |
-| 53 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 |
-| 54 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
+| 53 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
+| 54 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 |
 | 55 | [BAGDAD \- Cap.7: Liturgia](https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:02 |
 | 56 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 |
 | 57 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 84 | [22/2/22 \(feat\. Paula Cendejas\)](https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [22/2/22 \(feat\. Paula Cendejas\)](https://open.spotify.com/album/2nNJ9wdWz3EuDvHwSgWjBn) | 2:48 |
 | 85 | [Waves](https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:40 |
 | 86 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
-| 87 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
-| 88 | [TEK](https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [TEK](https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA) | 2:43 |
+| 87 | [TEK](https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [TEK](https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA) | 2:43 |
+| 88 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
 | 89 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 |
 | 90 | [Mascarade \(feat\. Lous and The Yakuza\) \- A COLORS SHOW](https://open.spotify.com/track/7eBQnUcKDi9S3ChSvGZIMg) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Mascarade \(feat\. Lous and The Yakuza\)](https://open.spotify.com/album/2YR8IS9wuFnWN8qIjXVmd2) | 2:38 |
 | 91 | [H2O](https://open.spotify.com/track/4SvapyLwOJj2Z7EJJbTfx9) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [H2O](https://open.spotify.com/album/3fkGTOHCbKr33dHLgsgjrg) | 3:05 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 95 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
 | 96 | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe) | 3:00 |
 | 97 | [Too Much](https://open.spotify.com/track/4ERovc94EVMUB0UGVgGNdo) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Too Much](https://open.spotify.com/album/2Gpr7GWQnq3CT93NrqiIGh) | 2:11 |
-| 98 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
-| 99 | [Focus](https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [Focus](https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb) | 2:00 |
+| 98 | [Focus](https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [Focus](https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb) | 2:00 |
+| 99 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
 | 100 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 |
 
-Snapshot ID: `MTY2OTIyMzU4NywwMDAwMDAwMDQzNDNhYjcwNzg4M2JjODE1NzM4MjQ3NjM0MTM1YjQy`
+Snapshot ID: `MTY2OTIyMzU4NywwMDAwMDAwMGRiYzA0YjI5NjQ2YTM2MTQxNTU1NWQ2NjNkMDk2YTg2`

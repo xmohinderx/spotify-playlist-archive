@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-628 songs - 1 day 14 hr 43 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+629 songs - 1 day 14 hr 46 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Golden Slumbers](https://open.spotify.com/track/5biwmu0S2C3wQUbKjJ6VrM) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [I Am Sam \(Original Soundtrack\)](https://open.spotify.com/album/0lGu56L3evYBeuS6wNQPnL) | 1:41 | 2021-10-20 | 2022-07-29 |
 | [Goodnight, Irene](https://open.spotify.com/track/3oMwfp5g3fNYyy2Ifw7h6J) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [NUDES](https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y) | 3:28 | 2022-06-10 | 2022-07-20 |
 | [Got to Get You into My Life](https://open.spotify.com/track/4dIWtkp3gercOxBWw5Ywnd) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella](https://open.spotify.com/album/1gIOAaCU8xAxXqxpVBrvK7) | 3:06 | 2022-06-10 | 2022-07-12 |
+| [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 | 2022-06-10 |  |
 | [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 | 2022-06-10 | 2022-12-02 |
 | [Half The World Away](https://open.spotify.com/track/7LZPUnAC0rBCXSLIflzE3I) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Half The World Away](https://open.spotify.com/album/39fIDjKtTsHshDosVQuB9i) | 3:18 | 2021-10-20 | 2022-06-20 |
 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 | 2021-10-20 | 2022-07-29 |
@@ -248,7 +249,7 @@
 | [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:31 | 2021-10-20 |  |
 | [Hey Jude](https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hey Jude](https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL) | 4:07 | 2022-06-10 |  |
 | [Hey Ya \- solo version](https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [The Tip Jar Volume One](https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx) | 4:58 | 2021-10-20 |  |
-| [Hide Away \(Acoustic Version\) \[feat\. Kaya May\]](https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Covers: Six](https://open.spotify.com/album/2EgxnKUw4dIPq7jgRYpizb) | 3:31 | 2022-06-10 |  |
+| [Hide Away \(Acoustic Version\) \[feat\. Kaya May\]](https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Covers: Six](https://open.spotify.com/album/2EgxnKUw4dIPq7jgRYpizb) | 3:31 | 2022-06-10 | 2022-12-14 |
 | [Hide Away \- Acoustic Version](https://open.spotify.com/track/0UCsrU37XWdbddPCTRG4Pj) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [Hide Away](https://open.spotify.com/album/2nluaXCp3OtbaBcEW0UbqO) | 3:31 | 2021-10-20 | 2022-05-29 |
 | [High and Dry](https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [High and Dry](https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2) | 4:09 | 2021-10-20 |  |
 | [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2022-06-10 |  |

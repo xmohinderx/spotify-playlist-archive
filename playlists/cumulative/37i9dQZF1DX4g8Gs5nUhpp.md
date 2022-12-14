@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: GREY D
 
-127 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+129 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [tiny love](https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [tiny things](https://open.spotify.com/album/4nSOMXIWouesFTEk9vT7eA) | 2:38 | 2022-05-27 |  |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-05-27 | 2022-06-21 |
 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 | 2022-05-27 |  |
+| [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 | 2022-12-14 |  |
 | [Tình Yêu Đến Sau](https://open.spotify.com/track/1ISenZ6rcvWJHsBlW5kymp) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tình Yêu Đến Sau](https://open.spotify.com/album/4UStQJDzvaNbNdAzxZ1k9A) | 4:31 | 2022-11-26 |  |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc) | [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci) | 3:35 | 2022-05-27 | 2022-07-29 |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv) | [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/4HEIdDrqHTU5Bocyc47BqI) | 3:35 | 2022-07-27 | 2022-10-14 |
@@ -132,6 +133,7 @@
 | [Đa Đoan](https://open.spotify.com/track/3Q5QdILpa7GDF4MvmsU8ZH) | [Phan Mạnh Quỳnh](https://open.spotify.com/artist/0aNyWetkjBvIdZvJY00yEa) | [Đa Đoan](https://open.spotify.com/album/1E5PmFaH9g95gPQ5VhUyQ6) | 3:20 | 2022-09-29 | 2022-10-06 |
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-05-27 | 2022-06-04 |
 | [Đoạn Kết Mới](https://open.spotify.com/track/7GcnpaGXpoIT3TWYloSsSO) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Đoạn Kết Mới](https://open.spotify.com/album/7w0mZIHzcZYyN60yMdMjYw) | 4:54 | 2022-07-31 | 2022-09-07 |
+| [Đá tan](https://open.spotify.com/track/6Wi18yv3aoO0ZF4uulguof) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Mạc Mai Sương](https://open.spotify.com/artist/7fMznGrNJs6H2kZbiqDPgE) | [Gieo](https://open.spotify.com/album/1ZnJrvDY8ih3ppPWR2Tc2a) | 3:22 | 2022-12-14 |  |
 | [Đánh Đố \(feat\. Thanh Lam & Tung Duong\)](https://open.spotify.com/track/6XSRHPboYUSCSqbKfl2Iv7) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Thanh Lam](https://open.spotify.com/artist/5kG9gxVkkdrskVLhfblCjT), [Tùng Dương](https://open.spotify.com/artist/4rBvN6UImNzcY5abMKdAuw) | [Đánh Đố \(feat\. Thanh Lam & Tung Duong\)](https://open.spotify.com/album/3zi1RVCY8qSVwKBogN62AD) | 4:28 | 2022-06-03 | 2022-06-17 |
 | [Đông Tây Nam Bắc](https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đông Tây Nam Bắc](https://open.spotify.com/album/5Dt3Lq7yoQ32mOiG3VRyYz) | 6:07 | 2022-10-13 | 2022-11-15 |
 | [Đường Tôi Chở Em Về](https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Đường Tôi Chở Em Về](https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW) | 4:26 | 2022-05-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,155 likes - 120 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,268 likes - 120 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 46 | [Point Of No Return](https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Point Of No Return EP](https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y) | 4:37 |
 | 47 | [Combat Mosh](https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD) | [Lich King](https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz) | [Born Of The Bomb](https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca) | 4:39 |
 | 48 | [Soul Sacrifice](https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 4:10 |
-| 49 | [Thrashard](https://open.spotify.com/track/0PUiZ5j1YGPXuYxg1UjWOo) | [D.R.I.](https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv) | [Thrash Zone](https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC) | 3:39 |
+| 49 | [Thrasher](https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Enter The Grave](https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut) | 3:09 |
 | 50 | [No Absolution](https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 4:10 |
-| 51 | [Thrasher](https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Enter The Grave](https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut) | 3:09 |
+| 51 | [Thrashard](https://open.spotify.com/track/0PUiZ5j1YGPXuYxg1UjWOo) | [D.R.I.](https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv) | [Thrash Zone](https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC) | 3:39 |
 | 52 | [Into the Pit](https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The New Order](https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569) | 2:46 |
 | 53 | [Strike of the Beast](https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:57 |
 | 54 | [Superstition](https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 3:14 |
@@ -108,18 +108,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 98 | [Eternal Nightmare](https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX) | [Vio\-Lence](https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df) | [Eternal Nightmare](https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH) | 6:10 |
 | 99 | [Sharpen the Guillotine](https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Cabaret De La Guillotine](https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC) | 6:01 |
 | 100 | [Empire of the Blind](https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE) | [Heathen](https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF) | [Empire of the Blind](https://open.spotify.com/album/217f4bYa9XozSYchLop1qW) | 5:51 |
-| 101 | [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 |
+| 101 | [Blood On Our Hands](https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 3:54 |
 | 102 | [Executioner's Tax \(Swing of the Axe\) \[feat\. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias\]](https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO), [David Sanchez](https://open.spotify.com/artist/07cz6I9ahKtbzJaehkJk7E), [Guillermo Izquierdo](https://open.spotify.com/artist/49bTia5VLmmlRthpgzLgkV), [Juli Bazooka](https://open.spotify.com/artist/5IecwP2g6giRRuQ2KpwlPO), [Lenny Bruce](https://open.spotify.com/artist/6aFRZPVhksTpz1GonWgEJ5), [Andrew Hudson](https://open.spotify.com/artist/1t3KT49CcGYnU7DSxP4yON), [Spyros Lafias](https://open.spotify.com/artist/34QHZfCmbQsR7LuxOy4tOr) | [Executioner's Tax \(Swing of the Axe\) \[feat\. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias\]](https://open.spotify.com/album/3VmidyqcmPSnZbh2gsEVuI) | 3:49 |
 | 103 | [Through Eyes of Glass](https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 6:24 |
-| 104 | [Blood On Our Hands](https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 3:54 |
+| 104 | [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 |
 | 105 | [No Place for Disgrace](https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [No Place For Disgrace](https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e) | 6:13 |
 | 106 | [Last Man Alive](https://open.spotify.com/track/1Ks2UecuMS4C0XVjNhtz0w) | [Whiplash](https://open.spotify.com/artist/1VZpDV00MljTrkukEHFKqZ) | [Power And Pain](https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq) | 3:30 |
 | 107 | [Heavy Metal Maniac](https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW) | [Exciter](https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd) | [Heavy Metal Maniac](https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il) | 3:47 |
-| 108 | [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 |
-| 109 | [Enter The Grave](https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Enter The Grave](https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut) | 4:30 |
+| 108 | [Enter The Grave](https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Enter The Grave](https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut) | 4:30 |
+| 109 | [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 |
 | 110 | [Masked Jackal](https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Punishment for Decadence](https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX) | 4:47 |
-| 111 | [Circle of the Tyrants](https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [To Mega Therion \(Expanded Version\)](https://open.spotify.com/album/4jlatOhKoYXYXxoFJsBMDg) | 4:27 |
-| 112 | [Guided by Evil](https://open.spotify.com/track/6os2CG54Dj1JRcKWzOh7RN) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:30 |
+| 111 | [Guided by Evil](https://open.spotify.com/track/6os2CG54Dj1JRcKWzOh7RN) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:30 |
+| 112 | [Circle of the Tyrants](https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [To Mega Therion \(Expanded Version\)](https://open.spotify.com/album/4jlatOhKoYXYXxoFJsBMDg) | 4:27 |
 | 113 | [Chalice of Blood](https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 4:32 |
 | 114 | [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 |
 | 115 | [Strike Fast Strike Hard](https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Generation Antichrist](https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj) | 4:38 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Heart Attack](https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ) | [Toxik](https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m) | [World Circus](https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx) | 3:48 |
 | 120 | [Mad Dictator](https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Knee\-Deep in the Dead](https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F) | 4:27 |
 
-Snapshot ID: `MTY2NTEyNjAwMCwwMDAwMDAwMDk4NWM1NjU3ZmQ1NmI0MThhOTIwZWIzNzFmYjQxMDQy`
+Snapshot ID: `MTY2NTEyNjAwMCwwMDAwMDAwMGM3OWExNDI4OTY1OWEyNTViYjJiNTQ5NGQxNmI2ZTM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,163 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,219 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 15 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
 | 16 | [Dancer](https://open.spotify.com/track/47L7EinVbbEBraJE0MMnW9) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [The Greatest Dancer](https://open.spotify.com/album/2TVb3PnbULiYIxHr4Oje9P) | 7:02 |
 | 17 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 |
-| 18 | [Lightyears](https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT) | 6:07 |
-| 19 | [Desire](https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [The Legendary Adventures Of A Filter King](https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO) | 6:27 |
+| 18 | [Desire](https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [The Legendary Adventures Of A Filter King](https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO) | 6:27 |
+| 19 | [Lightyears](https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT) | 6:07 |
 | 20 | [A Wonderful Life \- Version](https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM) | 6:55 |
 | 21 | [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 |
 | 22 | [Tedra](https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 5:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Ancelyn](https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf) | [Claude Young](https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7) | [Patterns the Album](https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw) | 5:07 |
 | 50 | [Do It All Night \(C2 Edit\) \- Mixed](https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ) | 5:39 |
 
-Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMDYyZDdjNjI3Yzk1NDlkNWEwYzMwMWU3ZTBhMjJhNzZm`
+Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMDlmZDFmZmQwMzljYWUxYTg3NTg2NTBiZTllMGFhMjYx`

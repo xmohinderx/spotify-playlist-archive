@@ -2,9 +2,9 @@
 
 ### [Hot Arabic Hits \- Yalla يلا](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> Top Arabic hits are right here\. Cover: Muslim \- مُسلِم
+> Top Arabic hits are right here\. Cover: Farid.
 
-243 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
+244 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,10 +177,11 @@
 | [Niya](https://open.spotify.com/track/61yI81mtTxFzp4C017qFkS) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Niya](https://open.spotify.com/album/41Ezm9UZIgXHW7J9CocdjO) | 3:22 | 2021-12-12 | 2022-07-29 |
 | [No Me Interesa](https://open.spotify.com/track/3bZUHmDm7QCshN8gaMNoTW) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [No Me Interesa](https://open.spotify.com/album/164083ihJpa6yTojdijDZE) | 2:37 | 2021-12-12 | 2022-07-27 |
 | [Nota](https://open.spotify.com/track/5tPauDRDmFoM8GMEGRQPnt) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nota](https://open.spotify.com/album/6kLwbk0ix5h8oDblXNkImY) | 2:20 | 2021-12-12 | 2022-07-24 |
+| [On Fire](https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [On Fire](https://open.spotify.com/album/5slczLOKT1ESCYUN6CNBQc) | 2:37 | 2022-12-13 |  |
 | [Oud Al batal](https://open.spotify.com/track/5ty3c5ZNvTN61ZrfM2E0cS) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [Oud Al batal](https://open.spotify.com/album/0DIeYbOutgDEZ8aQBzi9N5) | 3:12 | 2021-12-23 | 2022-02-08 |
 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 | 2021-12-12 | 2022-09-19 |
 | [Piece Of My Heart](https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Piece Of My Heart](https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x) | 3:09 | 2021-12-12 | 2022-10-05 |
-| [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-10 |  |
+| [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-10 | 2022-12-14 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-02-07 |  |
 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 | 2022-02-07 | 2022-11-02 |
 | [Safe Salina \(Moroccan Remix\)](https://open.spotify.com/track/2nf1owFJaeOw5YubEW52ga) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Safe Salina: The Remixes](https://open.spotify.com/album/3Q5t6TeQS8sHB2Y7ySHRVx) | 3:02 | 2021-12-12 | 2022-07-29 |

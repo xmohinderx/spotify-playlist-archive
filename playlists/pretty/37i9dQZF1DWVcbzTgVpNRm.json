@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee, Marc Anthony",
-  "num_followers": 2028057,
+  "num_followers": 2028304,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1OTE2MywwMDAwMDAwMGE0OTg1NWRkYmJkM2NmOTVjM2VmYWY2NzY2NDc1OTZj",
+  "snapshot_id": "MTY2OTk1OTE2MywwMDAwMDAwMGZhNDU0OWJiNTEzNWJhY2UyZjJjNDE4ZDg1MTc2N2E0",
   "tracks": [
     {
       "added_at": "2022-12-02 05:32:43",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "Ven Bailalo (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Ven Bailalo - Reggaeton Mix",
-      "url": "https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
         "name": "Ella Quiere Beber (Remix)",
         "url": "https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 219357,
       "name": "Ella Quiere Beber - Remix",
       "url": "https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "Ven Bailalo (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Ven Bailalo - Reggaeton Mix",
+      "url": "https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -771,38 +771,6 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "China",
-        "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "China",
-      "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "China",
+        "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 301714,
+      "name": "China",
+      "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 266086,
       "name": "Soltera - Remix",
       "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -1767,6 +1767,30 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
         "name": "Clasicos de la Provincia",
         "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
       },
@@ -1823,22 +1847,6 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1859,6 +1867,22 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -1899,6 +1923,22 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
         "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
       },
@@ -1919,22 +1959,6 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb"
       },
@@ -1947,62 +1971,6 @@
       "duration_ms": 216933,
       "name": "Magalenha",
       "url": "https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
-        "name": "La T\u00f3xica",
-        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "La T\u00f3xica",
-      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
-        "name": "Mu\u00e9velo",
-        "url": "https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 194892,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
-        "name": "DUELE EL CORAZON (feat. Wisin)",
-        "url": "https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "DUELE EL CORAZON (feat. Wisin)",
-      "url": "https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -2027,26 +1995,58 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+        "name": "La T\u00f3xica",
+        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 309120,
-      "name": "No Me Conoce - Remix",
-      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
+      "duration_ms": 180520,
+      "name": "La T\u00f3xica",
+      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "DUELE EL CORAZON (feat. Wisin)",
+        "url": "https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "DUELE EL CORAZON (feat. Wisin)",
+      "url": "https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 194892,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
     },
     {
       "added_at": "2022-12-02 05:32:43",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2022-12-02 05:32:43",
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Vacaciones",
+      "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
+    },
+    {
+      "added_at": "2022-12-02 05:32:43",
+      "album": {
         "name": "ME PASE (feat. Farruko)",
         "url": "https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 181573,
       "name": "ME PASE (feat. Farruko)",
       "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
-    },
-    {
-      "added_at": "2022-12-02 05:32:43",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "Vacaciones",
-      "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
     },
     {
       "added_at": "2022-12-02 05:32:43",

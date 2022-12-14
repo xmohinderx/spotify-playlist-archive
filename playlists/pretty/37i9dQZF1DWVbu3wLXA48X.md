@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,374 likes - 84 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,393 likes - 84 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

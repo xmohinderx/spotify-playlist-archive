@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The top tracks from Fresh Finds R&B in 2022\. Cover: Dylan Sinclair, Destin Conrad, and Jvck James
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,357 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,455 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

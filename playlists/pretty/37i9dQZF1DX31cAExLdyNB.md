@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,355 likes - 69 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,372 likes - 69 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 50 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
 | 51 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 |
 | 52 | [Las Vegas](https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Las Vegas](https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc) | 4:16 |
-| 53 | [El Muro](https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [El Muro](https://open.spotify.com/album/38xzRsuZMB90afWuLksZA8) | 3:43 |
-| 54 | [Lilas](https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [ƎDÉN](https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr) | 3:33 |
+| 53 | [Lilas](https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [ƎDÉN](https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr) | 3:33 |
+| 54 | [El Muro](https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [El Muro](https://open.spotify.com/album/38xzRsuZMB90afWuLksZA8) | 3:43 |
 | 55 | [LLUVIA](https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [LLUVIA](https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd) | 3:38 |
 | 56 | [Might Forgive You](https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd) | 4:09 |
 | 57 | [Cuando Te Veo](https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Caída Libre](https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH) | 3:51 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Realidades No Ordinarias](https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT), [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Realidades No Ordinarias, Vol\. 2](https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM) | 4:49 |
 | 69 | [Drinkee \(Radio Edit\)](https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee \(Radio Edit\)](https://open.spotify.com/album/0JdrR2T6BFxVSyZlQxtYb7) | 3:11 |
 
-Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMDM5MWQzMTYxZTYzMmE5NDkyMjBlNGNlMjA4ODcyYzcw`
+Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMGIwYjBkNWJjNTIzZGVlNTJiN2FjN2EzY2RjNjFjOGY0`

@@ -1,12 +1,12 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 486006,
+  "num_followers": 486075,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc4OTIyNSwwMDAwMDAwMGFhMDEwM2JjOGVlM2VhZTA2YWYxMjQyMWNmNWVkMzVj",
+  "snapshot_id": "MTY0Mjc4OTIyNSwwMDAwMDAwMDAxYzRjYjNkNzZiZGI4MzRhYmI1Mzg4YmI2NmIyYWRi",
   "tracks": [
     {
       "added_at": "2022-01-21 18:20:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Serenata con Pedro Infante",
-        "url": "https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 198080,
-      "name": "No me platiques",
-      "url": "https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
         "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
         "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
+        "name": "Serenata con Pedro Infante",
+        "url": "https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 198080,
+      "name": "No me platiques",
+      "url": "https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
         "name": "Por Siempre Boleros",
         "url": "https://open.spotify.com/album/4lq9pRsoFw5Dotp5ridhrd"
       },
@@ -655,6 +639,26 @@
       "duration_ms": 192973,
       "name": "No Me Platiques Mas",
       "url": "https://open.spotify.com/track/5zT31ATQDC2mrOsclbQvc1"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "duration_ms": 186852,
+      "name": "Ansia",
+      "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -691,22 +695,18 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
         }
       ],
-      "duration_ms": 186852,
-      "name": "Ansia",
-      "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
+      "duration_ms": 152786,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Frente A Frente",
-        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 166500,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
+        "name": "Frente A Frente",
+        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 162944,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
         "name": "Olga Guillot",
         "url": "https://open.spotify.com/album/4m3C0IxVnEnqFAf3BKj128"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 176733,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 162944,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
         "name": "Nos Hizo Falta Tiempo",
         "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 166500,
       "name": "Nos Hizo Falta Tiempo",
       "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "No",
-      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
         "name": "Llevatela",
         "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 138000,
       "name": "Llevatela",
       "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "No",
+      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Esperare",
-        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Esperare",
-      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
+        "name": "Esperare",
+        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Esperare",
+      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -1863,6 +1863,30 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
         "name": "Boleros Tr\u00edos, Vol. 1",
         "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
       },
@@ -1895,22 +1919,6 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
         "name": "Agust\u00edn Lara y sus Grandes Int\u00e9rpretes",
         "url": "https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0"
       },
@@ -1927,42 +1935,18 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -1983,6 +1967,22 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
         "name": "La Coleccion Del Siglo",
         "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
       },
@@ -1999,8 +1999,8 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
       "artists": [
         {
@@ -2010,27 +2010,15 @@
         {
           "name": "Roberto Aguilar",
           "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        }
-      ],
-      "duration_ms": 233525,
-      "name": "Traigo Canciones",
-      "url": "https://open.spotify.com/track/0d9mCnjvxkm1jwJDdTVQ4Q"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
-      },
-      "artists": [
+        },
         {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7"
+      "duration_ms": 188894,
+      "name": "Mi Negra Linda",
+      "url": "https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -2051,22 +2039,18 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Presentimiento",
-        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
-        },
-        {
-          "name": "Mauricio Hernandez Monterrubio",
-          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Presentimiento",
-      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
+      "duration_ms": 178200,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -2083,6 +2067,26 @@
       "duration_ms": 124500,
       "name": "Luna Lunera",
       "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
+        "name": "Presentimiento",
+        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+        },
+        {
+          "name": "Mauricio Hernandez Monterrubio",
+          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Presentimiento",
+      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -2135,6 +2139,22 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
+        "name": "12 Grandes exitos Vol. 1",
+        "url": "https://open.spotify.com/album/5Z5e5KkO4mFkuiQers37Qo"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 173146,
+      "name": "Ahora y siempre",
+      "url": "https://open.spotify.com/track/6w624TYTyYP8jn5Xhc0yxx"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/2q3WtBQFjL3KJ0r4COi8z9"
       },
@@ -2167,34 +2187,18 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "12 Grandes exitos Vol. 1",
-        "url": "https://open.spotify.com/album/5Z5e5KkO4mFkuiQers37Qo"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
       },
       "artists": [
         {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
         }
       ],
-      "duration_ms": 173146,
-      "name": "Ahora y siempre",
-      "url": "https://open.spotify.com/track/6w624TYTyYP8jn5Xhc0yxx"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
-        "name": "El Trovador Solitario",
-        "url": "https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze"
-      },
-      "artists": [
-        {
-          "name": "Pepe Jara",
-          "url": "https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Seguir\u00e9 Mi Viaje",
-      "url": "https://open.spotify.com/track/0qfTkSm2s3tgcgoqeOQf52"
+      "duration_ms": 166333,
+      "name": "La Novia Blanca",
+      "url": "https://open.spotify.com/track/2uzsKG7DmFeI5PsAVXdAqJ"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -2215,18 +2219,18 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
+        "name": "El Trovador Solitario",
+        "url": "https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze"
       },
       "artists": [
         {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+          "name": "Pepe Jara",
+          "url": "https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl"
         }
       ],
-      "duration_ms": 166333,
-      "name": "La Novia Blanca",
-      "url": "https://open.spotify.com/track/2uzsKG7DmFeI5PsAVXdAqJ"
+      "duration_ms": 147933,
+      "name": "Seguir\u00e9 Mi Viaje",
+      "url": "https://open.spotify.com/track/0qfTkSm2s3tgcgoqeOQf52"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -2259,22 +2263,6 @@
       "duration_ms": 125000,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
-    },
-    {
-      "added_at": "2022-01-21 18:20:25",
-      "album": {
-        "name": "El preso n\u00famero 9 (Remastered)",
-        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
-      },
-      "artists": [
-        {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
-        }
-      ],
-      "duration_ms": 218432,
-      "name": "La malague\u00f1a - Remastered",
-      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -2319,18 +2307,18 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Esmeralda Olasabal",
-        "url": "https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v"
+        "name": "El preso n\u00famero 9 (Remastered)",
+        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
       },
       "artists": [
         {
-          "name": "Esmeralda Olasabal",
-          "url": "https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH"
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
         }
       ],
-      "duration_ms": 241913,
-      "name": "C\u00f3mo Han Pasado Los A\u00f1os",
-      "url": "https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk"
+      "duration_ms": 218432,
+      "name": "La malague\u00f1a - Remastered",
+      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -2347,6 +2335,22 @@
       "duration_ms": 146250,
       "name": "Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+    },
+    {
+      "added_at": "2022-01-21 18:20:25",
+      "album": {
+        "name": "Esmeralda Olasabal",
+        "url": "https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Olasabal",
+          "url": "https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH"
+        }
+      ],
+      "duration_ms": 241913,
+      "name": "C\u00f3mo Han Pasado Los A\u00f1os",
+      "url": "https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk"
     },
     {
       "added_at": "2022-01-21 18:20:25",
@@ -2743,8 +2747,8 @@
     {
       "added_at": "2022-01-21 18:20:25",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
@@ -2754,15 +2758,11 @@
         {
           "name": "Roberto Aguilar",
           "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 188894,
-      "name": "Mi Negra Linda",
-      "url": "https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS"
+      "duration_ms": 233525,
+      "name": "Traigo Canciones",
+      "url": "https://open.spotify.com/track/0d9mCnjvxkm1jwJDdTVQ4Q"
     },
     {
       "added_at": "2022-01-21 18:20:25",

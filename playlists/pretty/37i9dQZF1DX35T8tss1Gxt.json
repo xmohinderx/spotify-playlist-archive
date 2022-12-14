@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 165092,
+  "num_followers": 165127,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDQ3MGRhMmVjMTViZDYxN2JmYTQ4NmM4OTNmZjhmNmU3",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDBhZTFmODBiYmRkMTkxMmIwOGNmZjY1MTYxZWMyYzRh",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Here Comes the Joy",
+        "url": "https://open.spotify.com/album/6SwtN1RwT1NXeEdd00Oe69"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 252332,
+      "name": "Here Comes the Joy",
+      "url": "https://open.spotify.com/track/4MYKJSucTbUsNkOQYIIohw"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 165813,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Here Comes the Joy",
-        "url": "https://open.spotify.com/album/6SwtN1RwT1NXeEdd00Oe69"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 252332,
-      "name": "Here Comes the Joy",
-      "url": "https://open.spotify.com/track/4MYKJSucTbUsNkOQYIIohw"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Tell That (feat. Mr. Talkbox)",
+        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
+      },
+      "artists": [
+        {
+          "name": "Juan Winans",
+          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "Tell That (feat. Mr. Talkbox)",
+      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Tell That (feat. Mr. Talkbox)",
-        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
-      },
-      "artists": [
-        {
-          "name": "Juan Winans",
-          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
-        },
-        {
-          "name": "Mr. Talkbox",
-          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Tell That (feat. Mr. Talkbox)",
-      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Mercy Shores",
         "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Caught Up",
-        "url": "https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl"
-      },
-      "artists": [
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Caught Up",
-      "url": "https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "The Vow",
         "url": "https://open.spotify.com/album/2OPCQY600rzqGexiKDBMdE"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "God of Dreams",
-        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "God of Dreams",
+        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "The Best Friend",
-        "url": "https://open.spotify.com/album/3B9L9agghKNHGI6ulzHnUW"
-      },
-      "artists": [
-        {
-          "name": "Mervin Mayo",
-          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
-        }
-      ],
-      "duration_ms": 234762,
-      "name": "The Best Friend",
-      "url": "https://open.spotify.com/track/6gndTSB6dxJOz8db35DqFO"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Preach",
         "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
       },
@@ -1635,6 +1619,38 @@
       "duration_ms": 180000,
       "name": "Preach",
       "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Rescue (Reimagined)",
+        "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 195679,
+      "name": "Rescue (Reimagined)",
+      "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "The Best Friend",
+        "url": "https://open.spotify.com/album/3B9L9agghKNHGI6ulzHnUW"
+      },
+      "artists": [
+        {
+          "name": "Mervin Mayo",
+          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+        }
+      ],
+      "duration_ms": 234762,
+      "name": "The Best Friend",
+      "url": "https://open.spotify.com/track/6gndTSB6dxJOz8db35DqFO"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Rescue (Reimagined)",
-        "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 195679,
-      "name": "Rescue (Reimagined)",
-      "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 255579,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2022-07-17 05:38:31",

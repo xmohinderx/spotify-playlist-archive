@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: The Cool Greenhouse
 
-298 songs - 18 hr 38 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+299 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-12-06 | 2022-07-29 |
 | [Chondromalacia Patella](https://open.spotify.com/track/4fduOgyq6d5DBlnST7h9VR) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Chondromalacia Patella](https://open.spotify.com/album/0iqxSiIsizsq6ivdiiUp2a) | 4:49 | 2021-12-06 | 2022-07-25 |
 | [Cities on Fire](https://open.spotify.com/track/6hD7uA1OXRqPas943VGXwS) | [The Black Veils](https://open.spotify.com/artist/1jfQDQtzGitGD5y1e1TsZf) | [Cities on Fire](https://open.spotify.com/album/3DE24P00tKVTbeEQsJAejB) | 3:40 | 2022-03-11 | 2022-04-17 |
-| [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 | 2021-12-06 |  |
+| [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 | 2021-12-06 | 2022-12-14 |
 | [Concrete](https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH) | 3:34 | 2022-06-16 |  |
 | [Concrete](https://open.spotify.com/track/6X7H3JTAUGAL1rSwohnPBX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3A1kutvBmC6czSsSv7aR5E) | 3:34 | 2021-12-06 | 2022-07-28 |
 | [Contain It](https://open.spotify.com/track/7wRsYOvFDUhnmx2I76Ml68) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Contain It](https://open.spotify.com/album/7Js653WBxlF7904HZdjqpO) | 4:01 | 2021-12-06 | 2022-07-25 |
@@ -72,6 +72,7 @@
 | [Daily Routine](https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Daily Routine](https://open.spotify.com/album/7uzRTehZfg7fKNguCFrsZN) | 4:24 | 2021-12-06 | 2022-07-24 |
 | [Danny Nedelko](https://open.spotify.com/track/731BpBsbqtNLC5RREuOJrv) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Danny Nedelko](https://open.spotify.com/album/3M6u7iw0PxYsDGZM3LvOyG) | 3:24 | 2021-12-06 | 2022-07-29 |
 | [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 | 2021-12-06 |  |
+| [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 | 2022-12-13 |  |
 | [Delusion Spree](https://open.spotify.com/track/0d4YnSZpQZQszNHz3hfx3a) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Delusion Spree](https://open.spotify.com/album/2sqyfzGM5IQvupbRe7hr3X) | 3:49 | 2022-03-11 | 2022-05-06 |
 | [Delusions Of Grandeur](https://open.spotify.com/track/52jHGLECyJck03wSgSktQv) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [Delusions Of Grandeur](https://open.spotify.com/album/677N0k17KVgKOVLfjIlM9o) | 3:24 | 2022-02-11 | 2022-06-29 |
 | [Design \- Beck Remix](https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Design \(Beck Remix\)](https://open.spotify.com/album/1ovmPec98kYvfAG2KyNU5G) | 2:36 | 2021-12-06 | 2022-07-28 |
@@ -105,7 +106,7 @@
 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 | 2022-03-11 | 2022-07-29 |
 | [Garden of England](https://open.spotify.com/track/2MK4t1CYvNpguCnHgqeYOx) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Garden of England](https://open.spotify.com/album/0mtGJwV52ytiFEV7nxwVbu) | 2:08 | 2022-03-11 | 2022-07-29 |
 | [Get Along](https://open.spotify.com/track/6n7XdLB1hlARYlf6ziccPz) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Keep Walking!](https://open.spotify.com/album/5FNhiWRRklskqgooaVJ7Wn) | 2:59 | 2022-01-20 | 2022-06-18 |
-| [Get Unjaded](https://open.spotify.com/track/2SG9JJ08AAhwS993F6srEj) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Sod's Toastie](https://open.spotify.com/album/25WIUYxIhGxeXSipIvxYFd) | 3:16 | 2022-11-18 | 2022-12-06 |
+| [Get Unjaded](https://open.spotify.com/track/2SG9JJ08AAhwS993F6srEj) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Sod's Toastie](https://open.spotify.com/album/25WIUYxIhGxeXSipIvxYFd) | 3:16 | 2022-11-18 |  |
 | [Get Yourself A Friend](https://open.spotify.com/track/6kwpiJvZLscW06vXl42jjr) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 3:50 | 2021-12-06 | 2022-07-24 |
 | [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 | 2022-08-25 |  |
 | [Girls & Boys](https://open.spotify.com/track/4Xt5Zpuk3AGXfojsWJP23l) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Girls & Boys](https://open.spotify.com/album/5pNrH7vOP95JA6oxRGTEiU) | 4:39 | 2021-12-06 | 2022-07-29 |
@@ -189,7 +190,7 @@
 | [Never Fight A Man With A Perm](https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt) | 3:48 | 2021-12-06 |  |
 | [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 | 2022-03-12 |  |
 | [Nigel Hitter](https://open.spotify.com/track/5sV5xcygaRKdwL48GIvj1a) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Nigel Hitter](https://open.spotify.com/album/4J51jRBqnXfZSPGWf8YMbn) | 3:24 | 2021-12-06 | 2022-07-13 |
-| [Nigel Hitter](https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:24 | 2022-06-16 |  |
+| [Nigel Hitter](https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:24 | 2022-06-16 | 2022-12-14 |
 | [Nine While Nine](https://open.spotify.com/track/1jzLF2qFDkfbqcUcH9zeYB) | [Kill Shelter](https://open.spotify.com/artist/1hl06hvbtecgkhML5iVf5B), [Antipole](https://open.spotify.com/artist/0XAhl52vBWh87XxU3urEjA) | [Nine While Nine](https://open.spotify.com/album/00PmG5z68JlTQ6VsJp20MI) | 5:04 | 2022-03-11 | 2022-04-16 |
 | [Nite Expo](https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Orc](https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd) | 2:57 | 2021-12-06 |  |
 | [No One Ever Talks to Us](https://open.spotify.com/track/6XasRlSqU5nIYhPBe2gNMU) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [No One Ever Talks to Us](https://open.spotify.com/album/4fkO0fyHQExouQOvX8rwxv) | 2:36 | 2022-03-11 | 2022-07-16 |

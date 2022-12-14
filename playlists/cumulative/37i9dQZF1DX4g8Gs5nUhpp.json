@@ -2114,6 +2114,24 @@
     },
     {
       "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7"
+      },
+      "artists": [
+        {
+          "name": "MONSTAR",
+          "url": "https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "t\u00ecnh y\u00eau ch\u1eadm tr\u1ec5",
+      "url": "https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS"
+    },
+    {
+      "album": {
         "name": "T\u00ecnh Y\u00eau \u0110\u1ebfn Sau",
         "url": "https://open.spotify.com/album/4UStQJDzvaNbNdAzxZ1k9A"
       },
@@ -2497,6 +2515,28 @@
       "duration_ms": 294720,
       "name": "\u0110o\u1ea1n K\u1ebft M\u1edbi",
       "url": "https://open.spotify.com/track/7GcnpaGXpoIT3TWYloSsSO"
+    },
+    {
+      "album": {
+        "name": "Gieo",
+        "url": "https://open.spotify.com/album/1ZnJrvDY8ih3ppPWR2Tc2a"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdt",
+          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
+        },
+        {
+          "name": "M\u1ea1c Mai S\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/7fMznGrNJs6H2kZbiqDPgE"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202166,
+      "name": "\u0110\u00e1 tan",
+      "url": "https://open.spotify.com/track/6Wi18yv3aoO0ZF4uulguof"
     },
     {
       "album": {

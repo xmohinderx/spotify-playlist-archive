@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1035168,
+  "num_followers": 1035300,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI1NTAxNSwwMDAwMDAwMGQ2MTJhMTJjNTI0NWI4MGViMjdhNTg5MDUzZWJhZGM4",
+  "snapshot_id": "MTY3MDI1NTAxNSwwMDAwMDAwMDQ0NzJhMjM0ZmFkZDViODQyMTg5MDllNDgyYjY2YTNk",
   "tracks": [
     {
       "added_at": "2022-09-14 21:31:42",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "Someone To Spend Time With",
         "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 204014,
       "name": "Hot Rod",
       "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Honey, No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Cut Out",
         "url": "https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 155984,
       "name": "Bends",
       "url": "https://open.spotify.com/track/7neXef29cogkuASB5rTafo"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Honey, No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "feel u",
-        "url": "https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR"
-      },
-      "artists": [
-        {
-          "name": "okayceci",
-          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
-        }
-      ],
-      "duration_ms": 150670,
-      "name": "feel u",
-      "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "80's makeout session",
         "url": "https://open.spotify.com/album/6MHmgFBPMdhNdj6HamqlYe"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 102468,
       "name": "80's makeout session",
       "url": "https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "feel u",
+        "url": "https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR"
+      },
+      "artists": [
+        {
+          "name": "okayceci",
+          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
+        }
+      ],
+      "duration_ms": 150670,
+      "name": "feel u",
+      "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH"
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
         }
       ],
-      "duration_ms": 203533,
-      "name": "1994",
-      "url": "https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm"
+      "duration_ms": 156381,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 203533,
+      "name": "1994",
+      "url": "https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 177600,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 156381,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "beachin",
-        "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        }
-      ],
-      "duration_ms": 194568,
-      "name": "beachin",
-      "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Reverse Cowgirl",
         "url": "https://open.spotify.com/album/4Bfck7ddk4kAhNLKkv711i"
       },
@@ -1635,18 +1611,26 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Booyah",
-        "url": "https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR"
+        "name": "beachin",
+        "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
       "artists": [
         {
-          "name": "the booyah! kids",
-          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Don't Trust Me",
-      "url": "https://open.spotify.com/track/5xz9GcQI6wDVjSFneT8J6n"
+      "duration_ms": 194568,
+      "name": "beachin",
+      "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1663,6 +1647,22 @@
       "duration_ms": 157616,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Booyah",
+        "url": "https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR"
+      },
+      "artists": [
+        {
+          "name": "the booyah! kids",
+          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Don't Trust Me",
+      "url": "https://open.spotify.com/track/5xz9GcQI6wDVjSFneT8J6n"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Emotionless",
-        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
+        "name": "That I Miss You",
+        "url": "https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb"
       },
       "artists": [
         {
-          "name": "Crisaunt",
-          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         }
       ],
-      "duration_ms": 148401,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
+      "duration_ms": 140116,
+      "name": "That I Miss You",
+      "url": "https://open.spotify.com/track/1qja4itnsquIxIofomg2PE"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1747,6 +1747,22 @@
       "duration_ms": 237641,
       "name": "Sharpener",
       "url": "https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
+      },
+      "artists": [
+        {
+          "name": "Crisaunt",
+          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
+        }
+      ],
+      "duration_ms": 148401,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1795,22 +1811,6 @@
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "That I Miss You",
-        "url": "https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 140116,
-      "name": "That I Miss You",
-      "url": "https://open.spotify.com/track/1qja4itnsquIxIofomg2PE"
     },
     {
       "added_at": "2022-09-14 21:31:42",

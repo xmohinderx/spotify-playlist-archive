@@ -4,7 +4,7 @@
 
 > El cholo se hizo buchón 😎🤠 Codiciado, Jaziel Avilés & Peso Pluma en portada.
 
-123 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/1sfh6zrW4xImGR0arizLIx)
+124 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/1sfh6zrW4xImGR0arizLIx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [El Rey \- Versión Rap](https://open.spotify.com/track/2B78AMm67z4kcwpN6IT0mj) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Rey \(Versión Rap\)](https://open.spotify.com/album/2JGv6KVIAmy4ZWQV6gnm4e) | 2:35 | 2022-09-27 | 2022-11-08 |
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2022-01-25 |  |
 | [El Triste](https://open.spotify.com/track/2Lk910jTXaUex71wuTwJPK) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [El Triste](https://open.spotify.com/album/6FDQmwo5gCTxM2gRcL3mcQ) | 3:32 | 2022-11-08 | 2022-12-03 |
-| [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 | 2022-01-25 |  |
+| [El Vago De Los Nike](https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:56 | 2022-12-02 |  |
+| [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 | 2022-01-25 | 2022-12-14 |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-13 |  |
 | [En El Refuego](https://open.spotify.com/track/2AoqaGQiMT1Yt10f2qypUk) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Paranormal](https://open.spotify.com/album/3WdqL2AIorwJ4ofhNGR1w0) | 3:04 | 2021-12-17 | 2022-11-13 |
 | [en el Refuego](https://open.spotify.com/track/2dDfS3g7VYjQLDqPnMY8oB) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [en el Refuego](https://open.spotify.com/album/2pGsHPDALnunKWNyvnr03f) | 3:04 | 2021-12-17 | 2022-07-29 |

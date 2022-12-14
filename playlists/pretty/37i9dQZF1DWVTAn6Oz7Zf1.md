@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 
 > Cerchi energie e buona musica? Prova con la nostra playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,379 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,380 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 59 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 |
 | 60 | [I Swear](https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Swear](https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO) | 2:11 |
 | 61 | [Forgot How to Love](https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Forgot How to Love](https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj) | 2:29 |
-| 62 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
-| 63 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 |
+| 62 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 |
+| 63 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
 | 64 | [Safe With Me \(with Audrey Mika\)](https://open.spotify.com/track/6Skh3CBum0pZw9TOr7FQnX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Safe With Me \(with Audrey Mika\)](https://open.spotify.com/album/2qBzKbaRm9IXomwL7jMdM7) | 3:25 |
 | 65 | [Beautiful People \(feat\. Khalid\) \- NOTD Remix](https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Beautiful People \(feat\. Khalid\) \[NOTD Remix\]](https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2) | 2:42 |
 | 66 | [You \- Topic Remix](https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [You \(Topic Remix\)](https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 79 | [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 |
 | 80 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDQwMmEzMDNiNWMxN2QxM2Q4NGY3Yjg1NzU0MTk3NGFk`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDgzZjk5NTRlMzc1Y2RiZjQyMDVjN2Q1OTY1MTBmMTli`

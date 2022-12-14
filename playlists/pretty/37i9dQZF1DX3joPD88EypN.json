@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 19278,
+  "num_followers": 19310,
   "original_name": "The Nordic Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMGMwMzY0ZDEzOTI3MjEyYmNjZjM4M2Q2MmZkNjI2M2Nk",
+  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMDk0YjE5ODViN2IxNjQzODJhZDVhYWFjYjc5NjNkOTE5",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "No City, No Tree, No Lake",
-        "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
-      },
-      "artists": [
-        {
-          "name": "Johan Lindvall Trio",
-          "url": "https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Almost Romance",
-      "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Live in Gothenburg",
         "url": "https://open.spotify.com/album/6X0P7XyEdeTrt3p8H59EHW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 370093,
       "name": "The Second Page - Live",
       "url": "https://open.spotify.com/track/4gm27nUNV7cj747hTWKJAA"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "No City, No Tree, No Lake",
+        "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
+      },
+      "artists": [
+        {
+          "name": "Johan Lindvall Trio",
+          "url": "https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Almost Romance",
+      "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -795,38 +795,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Swedish Jazz Masters: Alla Mina Kompisar",
-        "url": "https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV"
-      },
-      "artists": [
-        {
-          "name": "Per 'Texas' Johansson",
-          "url": "https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T"
-        }
-      ],
-      "duration_ms": 344360,
-      "name": "Tunnelseende",
-      "url": "https://open.spotify.com/track/6kUrJC50YrJhaLsNn4HC1s"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Caring",
-        "url": "https://open.spotify.com/album/1ZchiiOZho0JAngKiT60Cd"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 369826,
-      "name": "Caring",
-      "url": "https://open.spotify.com/track/3NCrt4D9TmN9QhVAJvEO9u"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Snow Catches on Her Eyelashes",
         "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
       },
@@ -847,6 +815,38 @@
       "duration_ms": 183210,
       "name": "Before the Wedding",
       "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Caring",
+        "url": "https://open.spotify.com/album/1ZchiiOZho0JAngKiT60Cd"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 369826,
+      "name": "Caring",
+      "url": "https://open.spotify.com/track/3NCrt4D9TmN9QhVAJvEO9u"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Swedish Jazz Masters: Alla Mina Kompisar",
+        "url": "https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV"
+      },
+      "artists": [
+        {
+          "name": "Per 'Texas' Johansson",
+          "url": "https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T"
+        }
+      ],
+      "duration_ms": 344360,
+      "name": "Tunnelseende",
+      "url": "https://open.spotify.com/track/6kUrJC50YrJhaLsNn4HC1s"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "V\u00e5g",
-        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
-      },
-      "artists": [
-        {
-          "name": "Geir Sundst\u00f8l",
-          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
-        }
-      ],
-      "duration_ms": 311450,
-      "name": "V\u00e5g",
-      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Bayou",
         "url": "https://open.spotify.com/album/2tsGHiONyukWb8rYSG6TGb"
       },
@@ -975,6 +959,38 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Phantasmagoria or a Different Kind of Journey",
+        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        }
+      ],
+      "duration_ms": 417986,
+      "name": "Pearl Hunter",
+      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "V\u00e5g",
+        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
+      },
+      "artists": [
+        {
+          "name": "Geir Sundst\u00f8l",
+          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
+        }
+      ],
+      "duration_ms": 311450,
+      "name": "V\u00e5g",
+      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Perfectly Unhappy",
         "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
@@ -995,34 +1011,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Phantasmagoria or a Different Kind of Journey",
-        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+        "name": "Wood Circles",
+        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
       },
       "artists": [
         {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+          "name": "Thommy Andersson",
+          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
         }
       ],
-      "duration_ms": 417986,
-      "name": "Pearl Hunter",
-      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+      "duration_ms": 323176,
+      "name": "Fanfar",
+      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Wood Circles",
-        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
       },
       "artists": [
         {
-          "name": "Thommy Andersson",
-          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
         }
       ],
-      "duration_ms": 323176,
-      "name": "Fanfar",
-      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
-        }
-      ],
-      "duration_ms": 301840,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Nearly Invisible Stitches",
         "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 403513,
       "name": "Nearly Invisible Stitches",
       "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
+        }
+      ],
+      "duration_ms": 301840,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Point of View",
         "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 249386,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Reflections and Odysseys",
         "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 306826,
       "name": "The Lilly Flower - Liljankukka",
       "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Both Only",
-        "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
-      },
-      "artists": [
-        {
-          "name": "Joona Toivanen Trio",
-          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
-        }
-      ],
-      "duration_ms": 341248,
-      "name": "Faculties",
-      "url": "https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "The Land That Is Not",
         "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 375653,
       "name": "Triumph Of Being",
       "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Both Only",
+        "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
+      },
+      "artists": [
+        {
+          "name": "Joona Toivanen Trio",
+          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
+        }
+      ],
+      "duration_ms": 341248,
+      "name": "Faculties",
+      "url": "https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1647,30 +1647,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Trondheim Jazz Orchestra with Sofia Jernberg & Olav Lukseng\u00e5rd Mjelva",
-        "url": "https://open.spotify.com/album/0KXmbhHnUtgpaU0x9Xh3gL"
-      },
-      "artists": [
-        {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
-        },
-        {
-          "name": "Sofia Jernberg",
-          "url": "https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F"
-        },
-        {
-          "name": "Olav Lukseng\u00e5rd Mjelva",
-          "url": "https://open.spotify.com/artist/202hJ5IG2CriMfxynnQcUs"
-        }
-      ],
-      "duration_ms": 416240,
-      "name": "Pols etter Marta-Johannes",
-      "url": "https://open.spotify.com/track/1ChqMXKvspLW7I0WZlG32b"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo"
       },
@@ -1695,6 +1671,30 @@
       "duration_ms": 314253,
       "name": "Melancholia",
       "url": "https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Trondheim Jazz Orchestra with Sofia Jernberg & Olav Lukseng\u00e5rd Mjelva",
+        "url": "https://open.spotify.com/album/0KXmbhHnUtgpaU0x9Xh3gL"
+      },
+      "artists": [
+        {
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Sofia Jernberg",
+          "url": "https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F"
+        },
+        {
+          "name": "Olav Lukseng\u00e5rd Mjelva",
+          "url": "https://open.spotify.com/artist/202hJ5IG2CriMfxynnQcUs"
+        }
+      ],
+      "duration_ms": 416240,
+      "name": "Pols etter Marta-Johannes",
+      "url": "https://open.spotify.com/track/1ChqMXKvspLW7I0WZlG32b"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Orsa by Night",
-        "url": "https://open.spotify.com/album/3ZBMz2uOIHTPBp4lyQY6Vg"
-      },
-      "artists": [
-        {
-          "name": "Thomas Tidholm",
-          "url": "https://open.spotify.com/artist/546D8gpuMz5DBN0i1V9vAx"
-        },
-        {
-          "name": "Jonas Knutsson",
-          "url": "https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa"
-        }
-      ],
-      "duration_ms": 212044,
-      "name": "Polska efter Gil",
-      "url": "https://open.spotify.com/track/1ZUlYNUVyJuzeVlSRBHOYj"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Parish",
         "url": "https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 352000,
       "name": "C Moll Maj",
       "url": "https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Orsa by Night",
+        "url": "https://open.spotify.com/album/3ZBMz2uOIHTPBp4lyQY6Vg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Tidholm",
+          "url": "https://open.spotify.com/artist/546D8gpuMz5DBN0i1V9vAx"
+        },
+        {
+          "name": "Jonas Knutsson",
+          "url": "https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa"
+        }
+      ],
+      "duration_ms": 212044,
+      "name": "Polska efter Gil",
+      "url": "https://open.spotify.com/track/1ZUlYNUVyJuzeVlSRBHOYj"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1939,22 +1939,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
+        "name": "Kyanos",
+        "url": "https://open.spotify.com/album/05RIraQ3VTPYP7DK3VmFCq"
       },
       "artists": [
         {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
         },
         {
-          "name": "Albatrosh",
-          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
+          "name": "Magnetic North Orchestra",
+          "url": "https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh"
         }
       ],
-      "duration_ms": 449893,
-      "name": "Seaweed",
-      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
+      "duration_ms": 296133,
+      "name": "Mutatio",
+      "url": "https://open.spotify.com/track/4oCM3JquuXQZhMJzx5O5Jd"
     }
   ],
   "unique_name": "The Nordic Notes",

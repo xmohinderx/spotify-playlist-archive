@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,370 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,377 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 45 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 |
 | 46 | [I've Gotta Be Me](https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [I've Gotta Be Me](https://open.spotify.com/album/7HZxoITz0x1fCsNQKrXoqD) | 2:56 |
 | 47 | [For Real](https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 3:51 |
-| 48 | [At the End of the Day](https://open.spotify.com/track/4my3EKKyF3ASnJ7OPHTBUl) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Gilbert O'Sullivan](https://open.spotify.com/album/147bBWdV1tgPQ5pabOzQF4) | 3:11 |
-| 49 | [If You See Her, Say Hello \- Take 1](https://open.spotify.com/track/6cLewsHaYRcexjUMJapSdR) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [More Blood, More Tracks: The Bootleg Series, Vol\. 14 \(Sampler\)](https://open.spotify.com/album/5faKzawYFUfk3IRRe6ERXl) | 3:57 |
+| 48 | [If You See Her, Say Hello \- Take 1](https://open.spotify.com/track/6cLewsHaYRcexjUMJapSdR) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [More Blood, More Tracks: The Bootleg Series, Vol\. 14 \(Sampler\)](https://open.spotify.com/album/5faKzawYFUfk3IRRe6ERXl) | 3:57 |
+| 49 | [At the End of the Day](https://open.spotify.com/track/4my3EKKyF3ASnJ7OPHTBUl) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Gilbert O'Sullivan](https://open.spotify.com/album/147bBWdV1tgPQ5pabOzQF4) | 3:11 |
 | 50 | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/track/2Eowpnfjs5iXP8OLToAOYA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5E6dG2q42szysfESYn40FL) | 3:01 |
 | 51 | [Dominoes](https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 5:02 |
 | 52 | [Fuck The Rain](https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 |
 | 60 | [Remember to Breathe](https://open.spotify.com/track/5Ht9Z3eLfUVKu9WvrT5d9G) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Streets of You](https://open.spotify.com/album/7BvMeA6XzGX0hBiUIhIhqH) | 3:13 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDFkZGIzMWY1ZWQxMWU2NGZiOGY4NDg5MmRmM2E4YTZk`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDY1ZTI4N2VkYjU3NzVmMjI4YTM0YTNhOGQ3OWFiMzgw`

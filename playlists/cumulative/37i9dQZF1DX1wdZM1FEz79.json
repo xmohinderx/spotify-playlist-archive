@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 287523,
       "name": "Dozy Dozy",
       "url": "https://open.spotify.com/track/3WKdOdaC8iHUxmMdH3wCtx"
@@ -1555,6 +1555,24 @@
       "duration_ms": 209882,
       "name": "EMPTY ROAD",
       "url": "https://open.spotify.com/track/22ujj7oolbVcxbkXE1wZiQ"
+    },
+    {
+      "album": {
+        "name": "Envy you",
+        "url": "https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S"
+      },
+      "artists": [
+        {
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "Envy you",
+      "url": "https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd"
     },
     {
       "album": {
@@ -4213,7 +4231,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 216453,
       "name": "Nap Fairy",
       "url": "https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8"
@@ -4409,7 +4427,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 210367,
       "name": "Officially Missing You",
       "url": "https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o"

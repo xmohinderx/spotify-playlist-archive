@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Sido
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,094 likes - 93 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,105 likes - 93 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 21 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 |
 | 22 | [CRISI DI STATO](https://open.spotify.com/track/5USVtbBrftHgHASbNYqtOV) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CRISI DI STATO](https://open.spotify.com/album/682tFZqEbHj4NcoRUHBcdu) | 3:23 |
 | 23 | [Don't Play Games](https://open.spotify.com/track/6tDudlNZloZt8YBPGp6ye1) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [SELAH](https://open.spotify.com/artist/0RJ2o969ES08J9cMAhzPiD) | [Don't Play Games](https://open.spotify.com/album/1d3qwleeiqihnR9nDTxlms) | 2:43 |
-| 24 | [Coco 2.0](https://open.spotify.com/track/2xdUcwkx9lENOslKOiz1eM) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Coco 2.0](https://open.spotify.com/album/1jKGlsEOAuusyYyvosy2c8) | 1:51 |
+| 24 | [Coco 2.0](https://open.spotify.com/track/2xdUcwkx9lENOslKOiz1eM) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Coco 2.0](https://open.spotify.com/album/1jKGlsEOAuusyYyvosy2c8) | 1:51 |
 | 25 | [CC](https://open.spotify.com/track/5VoYiLDlnaoMbvkR6ZLsEV) | [Jamal](https://open.spotify.com/artist/1tYOWKifYJqpVJ3nnHR3FC) | [CC](https://open.spotify.com/album/1FRpA1hEzlYiaa7Kcza1Xl) | 2:46 |
 | 26 | [Serendipia](https://open.spotify.com/track/1paYMMK7oI0OpN8OuCsgqR) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Isa \(Nouvelle édition\)](https://open.spotify.com/album/5VXsO0AdwwtazdWJfEP1Ag) | 2:53 |
 | 27 | [1, 2 Cent](https://open.spotify.com/track/7G4o8dvZKmfZHzA1ZbgEUA) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [1, 2 Cent](https://open.spotify.com/album/5whfFiIPynh466Fb43P1vj) | 2:23 |

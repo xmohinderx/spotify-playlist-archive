@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Feid & DJ Premier
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,944 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,923 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 41 | [RDMDA](https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:50 |
 | 42 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 |
 | 43 | [Tu Fanático \- Remix](https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tu Fanático \(Remix\)](https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM) | 3:34 |
-| 44 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 |
-| 45 | [lo que pasó](https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa) | 2:30 |
+| 44 | [lo que pasó](https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa) | 2:30 |
+| 45 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 |
 | 46 | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/track/2qhcTAKmpFNXBEu1FYo69t) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/album/6MGhjZ5uPXwciHnjOGUIxK) | 4:25 |
 | 47 | [noches largas, faldas cortas](https://open.spotify.com/track/0HZanBVjCHvVOSsrMvS08L) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:02 |
 | 48 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 76 | [Tú y Yo](https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Memento](https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb) | 2:54 |
 | 77 | [Para Ti](https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Til Death](https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb) | 1:37 |
 | 78 | [caos](https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [3AM](https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j) | 4:13 |
-| 79 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
-| 80 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 |
+| 79 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 |
+| 80 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
 
-Snapshot ID: `MTY3MDg4MjUzMywwMDAwMDAwMDg5ODgwNDBiYTkxYzI5Njc2N2IwZjUyZDRjNWRjMDRi`
+Snapshot ID: `MTY3MDg4MjUzMywwMDAwMDAwMGQ1YWVlOGI0ZDNmOGUxYmM4NTllNGVmZTA1MjcxMTMy`

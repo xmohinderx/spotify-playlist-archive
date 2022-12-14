@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2080,
+  "num_followers": 2081,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGU3Yzc3ZjEwNzFhZTRkYTQ1NjYzOGI1Mzc5MzcyOTVj",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDA4MWJiZWJkM2NmM2Y2MThmNzU1ZmY5YjVmZmU4Njdl",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "H\u00e9doniste",
-        "url": "https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3"
-      },
-      "artists": [
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        }
-      ],
-      "duration_ms": 199073,
-      "name": "H\u00e9doniste",
-      "url": "https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Sous le m\u00eame toit",
         "url": "https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 176173,
       "name": "Sous le m\u00eame to\u00eet",
       "url": "https://open.spotify.com/track/61P1ORWkI1Q8VtiiXamTYZ"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "H\u00e9doniste",
+        "url": "https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "duration_ms": 199073,
+      "name": "H\u00e9doniste",
+      "url": "https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Les amants de Pomp\u00e9i",
-      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "COUCOU",
         "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 238060,
       "name": "JOS\u00c9PHINE",
       "url": "https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Les amants de Pomp\u00e9i",
+      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "40 Degr\u00e9s",
+        "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
+      },
+      "artists": [
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        }
+      ],
+      "duration_ms": 160182,
+      "name": "#DMTS",
+      "url": "https://open.spotify.com/track/5g1OQq1LdPiPaRUgFKFvW3"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 232786,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "40 Degr\u00e9s",
-        "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
-      },
-      "artists": [
-        {
-          "name": "Admiral T",
-          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
-        }
-      ],
-      "duration_ms": 160182,
-      "name": "#DMTS",
-      "url": "https://open.spotify.com/track/5g1OQq1LdPiPaRUgFKFvW3"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Soleil '96",
-        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Si je pleure",
-      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Haute M\u00e8re",
         "url": "https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Soleil '96",
+        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Si je pleure",
+      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "L'heure mauve",
         "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 203666,
       "name": "Les fleurs d\u2019une autre dimension",
       "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
+      },
+      "artists": [
+        {
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+        }
+      ],
+      "duration_ms": 297133,
+      "name": "Oublie pas",
+      "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 210920,
       "name": "Fontaine \u00e0 v\u0153ux",
       "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
-      },
-      "artists": [
-        {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
-        }
-      ],
-      "duration_ms": 297133,
-      "name": "Oublie pas",
-      "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Tout est parfait : acte un",
-        "url": "https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs",
-          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
-        }
-      ],
-      "duration_ms": 169080,
-      "name": "Arr\u00eate de danser",
-      "url": "https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Je me souviens",
         "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 189027,
       "name": "Je me souviens",
       "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Tout est parfait : acte un",
+        "url": "https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs",
+          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+        }
+      ],
+      "duration_ms": 169080,
+      "name": "Arr\u00eate de danser",
+      "url": "https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "All\u00f4 Fant\u00f4me",
-        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
-      },
-      "artists": [
-        {
-          "name": "All\u00f4 Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
-        }
-      ],
-      "duration_ms": 396142,
-      "name": "Sur la pointe des pieds",
-      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Qui a mis le feu",
         "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 171546,
       "name": "Qui a mis le feu",
       "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Un singe sur l'\u00e9paule",
-        "url": "https://open.spotify.com/album/1EET3eGh9diFTxDBew3tjo"
-      },
-      "artists": [
-        {
-          "name": "Julia Daigle",
-          "url": "https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x"
-        }
-      ],
-      "duration_ms": 254926,
-      "name": "Usage domestique",
-      "url": "https://open.spotify.com/track/2ZppabBSZY0rorfI5yxdln"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Fauve",
         "url": "https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 253274,
       "name": "Je t\u2019aime",
       "url": "https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Un singe sur l'\u00e9paule",
+        "url": "https://open.spotify.com/album/1EET3eGh9diFTxDBew3tjo"
+      },
+      "artists": [
+        {
+          "name": "Julia Daigle",
+          "url": "https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x"
+        }
+      ],
+      "duration_ms": 254926,
+      "name": "Usage domestique",
+      "url": "https://open.spotify.com/track/2ZppabBSZY0rorfI5yxdln"
     },
     {
       "added_at": "2022-05-25 18:00:00",

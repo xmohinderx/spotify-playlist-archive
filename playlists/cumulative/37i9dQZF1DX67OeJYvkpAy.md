@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-154 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/05XcV66yrFwpM4y0Nurpue)
+155 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/05XcV66yrFwpM4y0Nurpue)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/track/7x19JpxcxilHUPLbrWdpDW) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/album/0ZkZLnALuAYzd70tjy0Y9R) | 4:05 | 2022-04-05 | 2022-07-29 |
 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 | 2022-05-10 |  |
 | [High \(All The Time\)](https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5) | [RhyRab](https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS) | [High \(All The Time\)](https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr) | 2:40 | 2022-04-05 |  |
-| [High On Love](https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High On Love](https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo) | 3:01 | 2022-04-05 |  |
+| [High on Love](https://open.spotify.com/track/2zZUvshFMhGN6QmnOUqMJI) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High on Love](https://open.spotify.com/album/5DJTixdrcHHAbzbnYzCE26) | 3:01 | 2022-08-02 |  |
+| [High On Love](https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High On Love](https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo) | 3:01 | 2022-04-05 | 2022-12-14 |
 | [Hoods Hottest](https://open.spotify.com/track/1ZX0LUTVpuh8YzbQe7WbvU) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Hoods Hottest](https://open.spotify.com/album/0NQw8iZDOn5TWIR6NUdsgC) | 3:07 | 2022-04-05 | 2022-11-25 |
 | [Hoods Hottest](https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Hoods Hottest](https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2) | 3:07 | 2022-08-02 |  |
 | [House Invasions](https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [House Invasions](https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG) | 3:29 | 2022-04-05 |  |

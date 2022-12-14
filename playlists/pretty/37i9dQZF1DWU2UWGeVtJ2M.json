@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 139260,
+  "num_followers": 139299,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgxODAyOSwwMDAwMDAwMDNjNTU5OGEyZDVlYzA0Y2NjNjI3OWU2MzU1NGMyYTgx",
+  "snapshot_id": "MTY3MDgxODAyOSwwMDAwMDAwMDkyYmJhMzYwYzg0MDk0OTgyYTNlMWJmN2M3Y2U2MzRk",
   "tracks": [
     {
       "added_at": "2022-12-12 04:07:09",
@@ -431,22 +431,18 @@
     {
       "added_at": "2022-12-12 04:07:09",
       "album": {
-        "name": "Wish I Was Better",
-        "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
       "artists": [
         {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 140571,
-      "name": "Wish I Was Better",
-      "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": "2022-12-12 04:07:09",
@@ -467,18 +463,22 @@
     {
       "added_at": "2022-12-12 04:07:09",
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+        "name": "Wish I Was Better",
+        "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
+      "duration_ms": 140571,
+      "name": "Wish I Was Better",
+      "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
     },
     {
       "added_at": "2022-12-12 04:07:09",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-12-12 04:07:09",
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2022-12-12 04:07:09",
+      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
-    },
-    {
-      "added_at": "2022-12-12 04:07:09",
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 185991,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
     },
     {
       "added_at": "2022-12-12 04:07:09",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-12-12 04:07:09",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2022-12-12 04:07:09",
-      "album": {
         "name": "Breakup Season",
         "url": "https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2022-12-12 04:07:09",
       "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+    },
+    {
+      "added_at": "2022-12-12 04:07:09",
+      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 203266,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2022-12-12 04:07:09",
+      "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2022-12-12 04:07:09",
@@ -1007,6 +1023,22 @@
     {
       "added_at": "2022-12-12 04:07:09",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": "2022-12-12 04:07:09",
+      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1023,38 +1055,6 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
-    },
-    {
-      "added_at": "2022-12-12 04:07:09",
-      "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2022-12-12 04:07:09",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2022-12-12 04:07:09",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-12-12 04:07:09",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2022-12-12 04:07:09",
-      "album": {
         "name": "Oasis Sky",
         "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 202991,
       "name": "Inkeri",
       "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
+    },
+    {
+      "added_at": "2022-12-12 04:07:09",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2022-12-12 04:07:09",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-12-12 04:07:09",
       "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
-      },
-      "artists": [
-        {
-          "name": "Bronze Whale",
-          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
-    },
-    {
-      "added_at": "2022-12-12 04:07:09",
-      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 265185,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC"
+    },
+    {
+      "added_at": "2022-12-12 04:07:09",
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
+      },
+      "artists": [
+        {
+          "name": "Bronze Whale",
+          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
     },
     {
       "added_at": "2022-12-12 04:07:09",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-12-12 04:07:09",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
-      },
-      "artists": [
-        {
-          "name": "Sade Susanto",
-          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
-        }
-      ],
-      "duration_ms": 158675,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
-    },
-    {
-      "added_at": "2022-12-12 04:07:09",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 184000,
       "name": "About You",
       "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+    },
+    {
+      "added_at": "2022-12-12 04:07:09",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
+      },
+      "artists": [
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        }
+      ],
+      "duration_ms": 158675,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
     },
     {
       "added_at": "2022-12-12 04:07:09",

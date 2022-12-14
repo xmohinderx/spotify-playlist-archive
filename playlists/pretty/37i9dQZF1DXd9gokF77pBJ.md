@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,512 likes - 54 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,527 likes - 54 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Why Can't We Live Together \- Dance Mix](https://open.spotify.com/track/03D5kL0VCxprd9Whxs0GUl) | [Mary Hubert ‎](https://open.spotify.com/artist/5Go8NXGC6mzMUWj7frJgvJ) | [I'm Coming on the Scene](https://open.spotify.com/album/4o03e5C0jhzgRwLwls7gBV) | 5:33 |
+| 1 | [I'm Coming on the Scene \- Dance Mix](https://open.spotify.com/track/03D5kL0VCxprd9Whxs0GUl) | [Mary Hubert ‎](https://open.spotify.com/artist/5Go8NXGC6mzMUWj7frJgvJ) | [I'm Coming on the Scene](https://open.spotify.com/album/4o03e5C0jhzgRwLwls7gBV) | 5:33 |
 | 2 | [It's Your Move \- 2001 Remaster](https://open.spotify.com/track/0Jk5AbcBCNcbHkhekktlNO) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol\. 2](https://open.spotify.com/album/7ednEENmMOClNIW1g3BBGK) | 5:13 |
 | 3 | [No Estás](https://open.spotify.com/track/1WwwQNmRvAuguGRqVjhrpe) | [Isamar & Compañía](https://open.spotify.com/artist/4F0L22BujtumRndkZFD7gb) | [Sonrisa Furtiva](https://open.spotify.com/album/61xxUrpQk7QS55DJotZAPh) | 5:42 |
 | 4 | [Dance II](https://open.spotify.com/track/5iPyzbAvw84pJBJsFu05P4) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt) | [Remote Control](https://open.spotify.com/album/3ikMmpjQ8lDqeDPwChZTSM) | 4:31 |

@@ -2,7 +2,7 @@
 
 ### [THE IDOLM@STER SideM アイドルマスター SideM](https://open.spotify.com/playlist/37i9dQZF1DX2kf10b2iZ8o)
 
-> Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。©︎THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
+> Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
 103 songs - 7 hr 40 min - not published yet
 

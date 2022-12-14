@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus Fernandes com Xamã e Papatinho, NATTAN, Lana Del Rey e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,802,667 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,802,951 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toma Medalha](https://open.spotify.com/track/4lOmgaoGMVnCbwoFEbmprq) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Toma Medalha](https://open.spotify.com/album/4xuvVtj2GA2UMviYkFelOq) | 2:24 |
 | 2 | [Conduta \- Ao Vivo](https://open.spotify.com/track/57AFq4IQx7NRSsxmhb8YZz) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:44 |
-| 3 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 |
+| 3 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 |
 | 4 | [Coisa De Brasileiro \- Ao Vivo](https://open.spotify.com/track/12aoqZKEerRjMRuNp7KsPt) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Coisa De Brasileiro \(Ao Vivo\)](https://open.spotify.com/album/0fam6AXIfb5EK1JLdfTmXZ) | 3:28 |
 | 5 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 | 6 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 |

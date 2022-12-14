@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 53442,
+  "num_followers": 53459,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzMzk2OSwwMDAwMDAwMDYzMTM5NDk4NTc1YzNhODVlZTZlMGU4ZGRkOWUyYmQ5",
+  "snapshot_id": "MTY2OTkzMzk2OSwwMDAwMDAwMGVmODJhMWU1NTYyZmJiNTVlMTAxZGNhMWM3NDQ0NmFi",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -141,42 +141,6 @@
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        },
-        {
-          "name": "Valentina Marentes",
-          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
-        }
-      ],
-      "duration_ms": 403365,
-      "name": "Era La Luz De Abril",
-      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
-    },
-    {
-      "added_at": "2022-12-13 00:07:34",
-      "album": {
-        "name": "Advice from a Cat",
-        "url": "https://open.spotify.com/album/2KIcHA2MmEM4mGjtT1JVn1"
-      },
-      "artists": [
-        {
-          "name": "Juan Pedro Organ Trio",
-          "url": "https://open.spotify.com/artist/6yBn06PNNg00t9Ac2VZrod"
-        }
-      ],
-      "duration_ms": 470697,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/0Y7tyEIEU53veA4CSclkYx"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Blues",
@@ -197,6 +161,22 @@
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
+      "added_at": "2022-12-14 00:14:52",
+      "album": {
+        "name": "Advice from a Cat",
+        "url": "https://open.spotify.com/album/2KIcHA2MmEM4mGjtT1JVn1"
+      },
+      "artists": [
+        {
+          "name": "Juan Pedro Organ Trio",
+          "url": "https://open.spotify.com/artist/6yBn06PNNg00t9Ac2VZrod"
+        }
+      ],
+      "duration_ms": 470697,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0Y7tyEIEU53veA4CSclkYx"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
@@ -211,6 +191,26 @@
       "duration_ms": 148786,
       "name": "Charleston",
       "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+    },
+    {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        },
+        {
+          "name": "Valentina Marentes",
+          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
+        }
+      ],
+      "duration_ms": 403365,
+      "name": "Era La Luz De Abril",
+      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
     },
     {
-      "added_at": "2022-12-13 00:07:34",
+      "added_at": "2022-12-14 00:14:52",
       "album": {
         "name": "Advice from a Cat",
         "url": "https://open.spotify.com/album/2KIcHA2MmEM4mGjtT1JVn1"
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        }
-      ],
-      "duration_ms": 335725,
-      "name": "To Chick",
-      "url": "https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Raz\u00f3n de Vivir (Desde Casa)",
@@ -403,6 +387,22 @@
       "duration_ms": 254269,
       "name": "Raz\u00f3n de Vivir (Desde Casa)",
       "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
+    },
+    {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        }
+      ],
+      "duration_ms": 335725,
+      "name": "To Chick",
+      "url": "https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2"
     },
     {
       "added_at": "2021-07-28 16:44:28",

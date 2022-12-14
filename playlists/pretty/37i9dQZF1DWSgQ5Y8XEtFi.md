@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,970 likes - 49 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,469 likes - 49 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 29 | [Money Buy Drugs \(Interlude\)](https://open.spotify.com/track/4LxHF9sQ6KXrxZatMPV2EL) | [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [While You Were Sleeping](https://open.spotify.com/album/5gAiNgUKm0s1sFKfxcOH7f) | 2:08 |
 | 30 | [Team](https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y) | [Team](https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887) | 2:06 |
 | 31 | [Rocket](https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [Sogno](https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG) | 1:46 |
-| 32 | [Tanaka 2](https://open.spotify.com/track/6dEN1q3YD7mvmGZGqqUE06) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tanaka 2](https://open.spotify.com/album/3pzpHnan9j9FmWPNMScxvq) | 3:08 |
-| 33 | [G Walkin' on Yo Coffin](https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0) | [Lil Boodang](https://open.spotify.com/artist/7pmErpU2pOjeGequFZxDnN) | [G Walkin' on Yo Coffin](https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V) | 1:39 |
+| 32 | [G Walkin' on Yo Coffin](https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0) | [Lil Boodang](https://open.spotify.com/artist/7pmErpU2pOjeGequFZxDnN) | [G Walkin' on Yo Coffin](https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V) | 1:39 |
+| 33 | [Tanaka 2](https://open.spotify.com/track/6dEN1q3YD7mvmGZGqqUE06) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tanaka 2](https://open.spotify.com/album/3pzpHnan9j9FmWPNMScxvq) | 3:08 |
 | 34 | [Big Pussy](https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [Big Pussy](https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o) | 2:20 |
 | 35 | [Flash Bang](https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO) | [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI), [Dutchman](https://open.spotify.com/artist/1V2i4vrqsRUzHrv9DTizDF) | [Scratch Paper](https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv) | 2:25 |
 | 36 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 48 | [Do Not Disturb \(feat\. Lil Yachty & Offset\)](https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:37 |
 | 49 | [DICTATOR](https://open.spotify.com/track/1i5fRXLDQmiNf878YdAUjk) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [DICTATOR](https://open.spotify.com/album/1XeOpCq4J5bEsC7KGOINx2) | 3:01 |
 
-Snapshot ID: `MTY2OTk1Nzc0MCwwMDAwMDAwMGE1Yjg3Yjc4Y2ZhOWViNzE5YTk0OGY3ZWMzOWUzMzMz`
+Snapshot ID: `MTY2OTk1Nzc0MCwwMDAwMDAwMDk1NGZmNjRlNjVjYWVmYTI0Yjg5YWE4MWIzMjQ3MjUw`

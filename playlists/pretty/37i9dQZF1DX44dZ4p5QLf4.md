@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,467 likes - 114 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,572 likes - 114 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 74 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 |
 | 75 | [Over \[Feat\. Yebba\]](https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 4:55 |
 | 76 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 |
-| 77 | [TBU](https://open.spotify.com/track/0fNqBczzVUvBy4MSjZXXZK) | [Q.](https://open.spotify.com/artist/2BYrcmYgB1rQVyH269VcY3) | [TBU](https://open.spotify.com/album/5InMrtkdMxpAQmc6Vv4GTq) | 3:42 |
+| 77 | [TBU](https://open.spotify.com/track/0fNqBczzVUvBy4MSjZXXZK) | [quiet.](https://open.spotify.com/artist/2BYrcmYgB1rQVyH269VcY3) | [TBU](https://open.spotify.com/album/5InMrtkdMxpAQmc6Vv4GTq) | 3:42 |
 | 78 | [Pass Time](https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Pass Time](https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz) | 3:39 |
 | 79 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 |
 | 80 | [Alone Again](https://open.spotify.com/track/7itlSXJ0hJCaUiVrftOjQT) | [Franky Bones](https://open.spotify.com/artist/3MIe1raSr122f1BKuFsBZo), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [Alone Again](https://open.spotify.com/album/5YkfrM1hr4oBhBP7CTXjGb) | 4:07 |

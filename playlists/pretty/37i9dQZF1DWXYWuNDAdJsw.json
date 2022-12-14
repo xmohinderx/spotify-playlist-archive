@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 807327,
+  "num_followers": 807471,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1ODczMywwMDAwMDAwMDk5MWQwYjQyNjk1MjgxODA1NWNiMzY5MTA3ODM2YWZm",
+  "snapshot_id": "MTY3MDQ1ODczMywwMDAwMDAwMDJjZTFmNjJjYjRlZDJiNTcyMzA0OWQ2YzNiNzI0MGEw",
   "tracks": [
     {
       "added_at": "2022-08-05 16:27:56",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
     },
     {
-      "added_at": "2022-12-13 00:43:29",
+      "added_at": "2022-12-14 00:54:55",
       "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
     },
     {
-      "added_at": "2022-12-13 00:43:29",
+      "added_at": "2022-12-14 00:54:55",
       "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
-      "added_at": "2022-12-13 00:43:29",
+      "added_at": "2022-12-14 00:54:55",
       "album": {
         "name": "Ganas de Ti",
         "url": "https://open.spotify.com/album/4tdBbMgmNpN0mOEMswLmu9"
@@ -687,22 +687,26 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Te Busco",
-        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
       },
       "artists": [
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 233639,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -739,6 +743,26 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "Te Busco",
+        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 233639,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "Cuando Te Bes\u00e9",
         "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 254383,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 309120,
-      "name": "No Me Conoce - Remix",
-      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -973,24 +973,20 @@
       "url": "https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T"
     },
     {
-      "added_at": "2022-10-26 15:49:29",
+      "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Un Minuto",
-        "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
+        "name": "Fing\u00edas",
+        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
       "artists": [
         {
-          "name": "Papi Sousa",
-          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         }
       ],
-      "duration_ms": 177397,
-      "name": "Un Minuto",
-      "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
+      "duration_ms": 225373,
+      "name": "Fing\u00edas",
+      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1009,20 +1005,24 @@
       "url": "https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7"
     },
     {
-      "added_at": "2022-08-05 16:27:56",
+      "added_at": "2022-10-26 15:49:29",
       "album": {
-        "name": "Fing\u00edas",
-        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
+        "name": "Un Minuto",
+        "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
       },
       "artists": [
         {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 225373,
-      "name": "Fing\u00edas",
-      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+      "duration_ms": 177397,
+      "name": "Un Minuto",
+      "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Dispuesto (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/0L3DcFGrGtixx5MmxJbJNI"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Mi Error",
         "url": "https://open.spotify.com/album/0cm5gt3aGLZooZ6r2jm5gN"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 215133,
       "name": "Mi Error",
       "url": "https://open.spotify.com/track/7ch7IMYm9DaujSfI1ToSzu"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Dispuesto (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/0L3DcFGrGtixx5MmxJbJNI"
     },
     {
       "added_at": "2022-08-05 16:27:56",

@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Nicki Nicole en portada.",
-  "num_followers": 23047,
+  "num_followers": 23060,
   "original_name": "Lo mejor de EQUAL Argentina 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGRlNTU0ZTk3OWQ3OGY2Y2U3YjcwZmIwZGJlNTgyODk1",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGI0MjdiYTNjNWI1OWE2MTljYjYwZDQ4ZjMyMTU0NGYz",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "No lo voy a lamentar",
-        "url": "https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "No lo voy a lamentar",
-      "url": "https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "pensando en ti",
         "url": "https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 197508,
       "name": "pensando en ti",
       "url": "https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "No lo voy a lamentar",
+        "url": "https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 178625,
+      "name": "No lo voy a lamentar",
+      "url": "https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Aquellos Misterios",
-        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 149625,
-      "name": "Aquellos Misterios",
-      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Lonely Fans",
         "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Como Bailan los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
+        "name": "Aquellos Misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
         }
       ],
-      "duration_ms": 243951,
-      "name": "El Im\u00e1n",
-      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
+      "duration_ms": 149625,
+      "name": "Aquellos Misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -647,6 +631,22 @@
       "duration_ms": 212363,
       "name": "Fresh Prince - Remix",
       "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Como Bailan los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 243951,
+      "name": "El Im\u00e1n",
+      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
     },
     {
       "added_at": "2022-11-30 13:00:00",

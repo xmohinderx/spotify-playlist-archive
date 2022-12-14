@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Edgardo Nuñez & Junior H en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,376,196 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377,977 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 60 | [300 Locos \- En Vivo](https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Golpe de Estado \(En Vivo\)](https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg) | 2:29 |
 | 61 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 |
 | 62 | [El Jami](https://open.spotify.com/track/3ZMQAcQ6OfWOWcVYNX4s9J) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/74tiD1EECHUoifQuTexkZb) | 2:59 |
-| 63 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 |
+| 63 | [El Vago De Los Nike](https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:56 |
 | 64 | [El Fugitivo \- En Vivo](https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo \(En Vivo\)](https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc) | 2:58 |
 | 65 | [Yo Soy Rico](https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 2:35 |
 | 66 | [Ando Bien Al Tiro](https://open.spotify.com/track/4CxU88d7ZT6op81SOYlrOg) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Billetes Verdes](https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 |
 | 75 | [Yo Soy el Bueno](https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Yo Soy el Bueno](https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW) | 2:56 |
 
-Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMGFkNGZjNzQ2MzE2ZmEzYTNkMzAyMTI0MTJjMzc5NzA1`
+Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMGJjYzYyNGQ0NjA4MDBlZmM5ZGJiZjIzZjc5MjYyNzI3`

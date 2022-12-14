@@ -7628,6 +7628,24 @@
     },
     {
       "album": {
+        "name": "Tharattu (From \"Kumari\")",
+        "url": "https://open.spotify.com/album/4jTjSqo6V1kdSQOI8ouQAW"
+      },
+      "artists": [
+        {
+          "name": "Manikandan Ayyappa",
+          "url": "https://open.spotify.com/artist/0DBXdapluRDfEm5NP4USwN"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110155,
+      "name": "Tharattu",
+      "url": "https://open.spotify.com/track/0pH00Dn4YtMalzVwtOXntB"
+    },
+    {
+      "album": {
         "name": "The Arabic Lullaby (Theme Song) [From \"Agent Kannayiram\"]",
         "url": "https://open.spotify.com/album/5f7JV4vYNvYutQGRGDu8uv"
       },
@@ -9481,6 +9499,32 @@
       "duration_ms": 247043,
       "name": "Yosichi Yosichi (From \"Andhagan\")",
       "url": "https://open.spotify.com/track/61SbtTHEHp1yHkcmKvnCfq"
+    },
+    {
+      "album": {
+        "name": "Zara (From \"Farhana\")",
+        "url": "https://open.spotify.com/album/5bB8dJNpVMRMkDWr4tVmxD"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        },
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224252,
+      "name": "Zara - From \"Farhana\"",
+      "url": "https://open.spotify.com/track/4cRf7EgyYqXTavx4ZrisCB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z"

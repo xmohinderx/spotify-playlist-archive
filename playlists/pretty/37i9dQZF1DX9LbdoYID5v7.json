@@ -1,12 +1,12 @@
 {
   "description": "Music that created modern indie as we know it. Cover: MGMT ",
-  "num_followers": 340911,
+  "num_followers": 341109,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUwMDkyNSwwMDAwMDAwMDIxNWM3YzQ2NWFkZGE1ZTUzMTRhZTY3Nzc0ZmYzZmFj",
+  "snapshot_id": "MTY2NTUwMDkyNSwwMDAwMDAwMGFmMjc3NTliMWY0Zjg0ZjY5OTVlOWI1OWU4ZjJmZWM4",
   "tracks": [
     {
       "added_at": "2022-10-11 15:08:45",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-10-11 15:08:45",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr"
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
       "artists": [
         {
-          "name": "Radical Face",
-          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 287634,
-      "name": "Welcome Home, Son",
-      "url": "https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9"
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
     },
     {
       "added_at": "2022-10-11 15:08:45",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-10-11 15:08:45",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr"
+      },
+      "artists": [
+        {
+          "name": "Radical Face",
+          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+        }
+      ],
+      "duration_ms": 287634,
+      "name": "Welcome Home, Son",
+      "url": "https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9"
+    },
+    {
+      "added_at": "2022-10-11 15:08:45",
+      "album": {
         "name": "Up from Below",
         "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 303200,
       "name": "Home",
       "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
-    },
-    {
-      "added_at": "2022-10-11 15:08:45",
-      "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
     },
     {
       "added_at": "2022-10-11 15:08:45",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-11 15:08:45",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 127920,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
-    },
-    {
-      "added_at": "2022-10-11 15:08:45",
-      "album": {
         "name": "Wincing The Night Away",
         "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+    },
+    {
+      "added_at": "2022-10-11 15:08:45",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
     },
     {
       "added_at": "2022-10-11 15:08:45",

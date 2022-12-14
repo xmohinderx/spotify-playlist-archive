@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
-  "num_followers": 91250,
+  "num_followers": 91280,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDAzNTVjMjMxNzBjZjY4MjlkMTdkOWFmYzJhNzIxMDEy",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGVjYzNlOWJiMzhkNDVkNGMxYjk0OWRhZDY0MGMyNDU2",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "P\u00e5 vei",
-        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Rundt neste sving",
-      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Ha Mer",
         "url": "https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 132000,
       "name": "Ha Mer",
       "url": "https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Rundt neste sving",
+      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Hon kan inte banka pl\u00e5t",
+        "url": "https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "duration_ms": 128690,
+      "name": "Hon kan inte banka pl\u00e5t",
+      "url": "https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Staut",
         "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 136814,
       "name": "Jag \u00e4r taggad",
       "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Hon kan inte banka pl\u00e5t",
-        "url": "https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW"
-      },
-      "artists": [
-        {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
-        }
-      ],
-      "duration_ms": 128690,
-      "name": "Hon kan inte banka pl\u00e5t",
-      "url": "https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Jag Vill Vara Din Margareta",
-        "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
-      },
-      "artists": [
-        {
-          "name": "The Pineapple Squad",
-          "url": "https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi"
-        },
-        {
-          "name": "Henrik S\u00e6ter",
-          "url": "https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl"
-        }
-      ],
-      "duration_ms": 167543,
-      "name": "Jag Vill Vara Din Margareta",
-      "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 124661,
       "name": "Svensk i kv\u00e4ll",
       "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Jag Vill Vara Din Margareta",
+        "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
+      },
+      "artists": [
+        {
+          "name": "The Pineapple Squad",
+          "url": "https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi"
+        },
+        {
+          "name": "Henrik S\u00e6ter",
+          "url": "https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl"
+        }
+      ],
+      "duration_ms": 167543,
+      "name": "Jag Vill Vara Din Margareta",
+      "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "RUN IT BACK",
-        "url": "https://open.spotify.com/album/2ZSJAqMW1IWJFU3nFHfsJW"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "RUN IT BACK",
-      "url": "https://open.spotify.com/track/6L0OxFD3iEAiveGUZ6KNAw"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "ALBUMTRAOZ",
         "url": "https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 127058,
       "name": "Mcdonalds",
       "url": "https://open.spotify.com/track/4cFsatzEJO0qROt1Dj5z8u"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "RUN IT BACK",
+        "url": "https://open.spotify.com/album/2ZSJAqMW1IWJFU3nFHfsJW"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "RUN IT BACK",
+      "url": "https://open.spotify.com/track/6L0OxFD3iEAiveGUZ6KNAw"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

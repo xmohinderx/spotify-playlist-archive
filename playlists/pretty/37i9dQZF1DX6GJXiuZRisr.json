@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1410506,
+  "num_followers": 1411013,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMGY5NDk5MTkwYTU0OGU4OWMxYzkwMjA0NzY0NzY1YjVj",
+  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMDA1MDgwNDRiYmRkNDEzMjI2NGEzZTI0OTNlZjczMjBh",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -207,26 +207,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Weightless (jamesjamesjames Remix)",
-        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
+        "name": "Forget It",
+        "url": "https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "jamesjamesjames",
-          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 249779,
-      "name": "Weightless - jamesjamesjames Remix",
-      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
+      "duration_ms": 173694,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -255,18 +247,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Forget It",
-        "url": "https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf"
+        "name": "Weightless (jamesjamesjames Remix)",
+        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
         }
       ],
-      "duration_ms": 173694,
-      "name": "Forget It",
-      "url": "https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G"
+      "duration_ms": 249779,
+      "name": "Weightless - jamesjamesjames Remix",
+      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Age of Love (ARTBAT Rave Mix)",
-        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Pete Tong",
-          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
-        }
-      ],
-      "duration_ms": 445440,
-      "name": "Age of Love - ARTBAT Rave Mix",
-      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 218000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Age of Love (ARTBAT Rave Mix)",
+        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        }
+      ],
+      "duration_ms": 445440,
+      "name": "Age of Love - ARTBAT Rave Mix",
+      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -915,6 +915,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Say Hello EP",
+        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Meliha",
+          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
+        }
+      ],
+      "duration_ms": 207111,
+      "name": "Say Hello",
+      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Ready For More",
         "url": "https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 247991,
       "name": "Ready For More",
       "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Say Hello EP",
-        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
-      },
-      "artists": [
-        {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
-        },
-        {
-          "name": "Meliha",
-          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
-        }
-      ],
-      "duration_ms": 207111,
-      "name": "Say Hello",
-      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
+      },
+      "artists": [
+        {
+          "name": "Ytram",
+          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
+        },
+        {
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 168319,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Risky Business",
         "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
       },
@@ -1147,26 +1171,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
+        "name": "I / Y",
+        "url": "https://open.spotify.com/album/0g0YKewBtW9livkmiAnCOH"
       },
       "artists": [
         {
-          "name": "Ytram",
-          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Citadelle",
-          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 168319,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
+      "duration_ms": 354098,
+      "name": "I / Y",
+      "url": "https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1187,26 +1207,6 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "I / Y",
-        "url": "https://open.spotify.com/album/0g0YKewBtW9livkmiAnCOH"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 354098,
-      "name": "I / Y",
-      "url": "https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 245881,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Thermal / Oblivion",
-        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
         }
       ],
-      "duration_ms": 229440,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1301,7 +1285,7 @@
       "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
     },
     {
-      "added_at": "2022-12-13 00:46:41",
+      "added_at": "2022-12-14 01:01:33",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
@@ -1359,6 +1343,22 @@
       "duration_ms": 221090,
       "name": "Home",
       "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Thermal / Oblivion",
+        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Tantrum",
-        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229512,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Elamy",
         "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 329349,
       "name": "Strangers (with Mansionair) - Tinlicker Remix",
       "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Tantrum",
+        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229512,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "This Time / Ray",
-        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
-      },
-      "artists": [
-        {
-          "name": "Avoure",
-          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
-        }
-      ],
-      "duration_ms": 414646,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1643,6 +1627,38 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "This Time / Ray",
+        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
+      },
+      "artists": [
+        {
+          "name": "Avoure",
+          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
+        }
+      ],
+      "duration_ms": 414646,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Twin Souls",
+        "url": "https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 269460,
+      "name": "Twin Souls",
+      "url": "https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1679,22 +1695,6 @@
       "duration_ms": 160000,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Twin Souls",
-        "url": "https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 269460,
-      "name": "Twin Souls",
-      "url": "https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Time and Time Again",
-        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 234098,
-      "name": "Time and Time Again - Single Edit",
-      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Follow You Anywhere",
         "url": "https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs"
       },
@@ -1829,24 +1813,20 @@
       "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Too Little Too Late (Little Late Edit)",
-        "url": "https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy"
+        "name": "Time and Time Again",
+        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         }
       ],
-      "duration_ms": 258984,
-      "name": "Too Little Too Late - Little Late Edit",
-      "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
+      "duration_ms": 234098,
+      "name": "Time and Time Again - Single Edit",
+      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
     },
     {
       "added_at": "2022-08-26 13:27:46",
@@ -1869,6 +1849,26 @@
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Too Little Too Late (Little Late Edit)",
+        "url": "https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 258984,
+      "name": "Too Little Too Late - Little Late Edit",
+      "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Playing Chess",
@@ -1883,6 +1883,26 @@
       "duration_ms": 231739,
       "name": "Playing Chess",
       "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        },
+        {
+          "name": "Jack Dawson",
+          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1915,22 +1935,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
+        "name": "Spectacle",
+        "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
       },
       "artists": [
         {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
         },
         {
-          "name": "Jack Dawson",
-          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
+          "name": "Dezza",
+          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
         }
       ],
-      "duration_ms": 222580,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
+      "duration_ms": 193563,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1955,42 +1975,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Spectacle",
-        "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
+        "name": "Vommuli",
+        "url": "https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL"
       },
       "artists": [
         {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        },
-        {
-          "name": "Dezza",
-          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
         }
       ],
-      "duration_ms": 193563,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/7cLqRIMFqyzbGRyVYMhCyA"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
-        },
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        }
-      ],
-      "duration_ms": 250587,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
+      "duration_ms": 232379,
+      "name": "Vommuli",
+      "url": "https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU"
     }
   ],
   "unique_name": "Night Rider",

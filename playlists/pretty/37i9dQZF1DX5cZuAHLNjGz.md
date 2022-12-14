@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi hits with Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,863 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,648 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [On Top](https://open.spotify.com/track/1RT06dWvxSC13JY6WnQmb5) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/3F9ZTXMumebU1qkltpEqg1) | 3:03 |
-| 2 | [Secret](https://open.spotify.com/track/1SAUUkJEPYqiewV2dZ7JnZ) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Addiction](https://open.spotify.com/album/4WcAyyIIMnHwS3cQaSNkfn) | 3:24 |
+| 2 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 |
 | 3 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
 | 4 | [Her](https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Her](https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R) | 2:34 |
 | 5 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 |
 | 6 | [Mehrma](https://open.spotify.com/track/56L6jhPtECVZTn0GmPolKm) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B) | [Mehrma](https://open.spotify.com/album/5AfAcHsIHhHJOYZPvvyFHS) | 3:36 |
 | 7 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 |
-| 8 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 |
+| 8 | [Secret](https://open.spotify.com/track/1SAUUkJEPYqiewV2dZ7JnZ) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Addiction](https://open.spotify.com/album/4WcAyyIIMnHwS3cQaSNkfn) | 3:24 |
 | 9 | [Nasha \(Equals Sessions\)](https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03) | [Nasha \(Equals Sessions\) \- Single](https://open.spotify.com/album/0DCY52sgebqixheOPwwasZ) | 4:47 |
 | 10 | [Mood Swings](https://open.spotify.com/track/30m1Wyp7zzpOYsBqvM7gYM) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Disturbing the Peace](https://open.spotify.com/album/2G8KnZQKOEaxVhK9GQsOmN) | 2:24 |
 | 11 | [Wytb](https://open.spotify.com/track/0mitUgVDvaKFw4EuXZ8nLx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Wytb](https://open.spotify.com/album/4yN52ilychdYFbugDvLrJK) | 3:20 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 |
 | 101 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 |
 
-Snapshot ID: `MTY3MDY1MzIxMiwwMDAwMDAwMDI0M2MyYzJkMWI3MjYwOTc4NDZhNWUyMjQyMDY5Yjc2`
+Snapshot ID: `MTY3MDkxNjI0NiwwMDAwMDAwMDgxYWUxYzM1NGY1MThkMGU1ODUwOWI2Njg1MTVkZWY3`

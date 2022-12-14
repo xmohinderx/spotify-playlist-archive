@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: skaiwater.",
-  "num_followers": 28993,
+  "num_followers": 29174,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGI5NTVmZmMzYmE4YzdiMTAxYzY4YjcwODJlNWRiZDM2",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGY0YTk5ODgwYWFhY2I2NWQyMWVhZDk4MDk4ZjAyNzMw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "need",
+        "url": "https://open.spotify.com/album/3Z06DCUZRXvfI4T8dwSUft"
+      },
+      "artists": [
+        {
+          "name": "Svilly",
+          "url": "https://open.spotify.com/artist/76T2piQwbQXkipbt5XLPaJ"
+        }
+      ],
+      "duration_ms": 158778,
+      "name": "need",
+      "url": "https://open.spotify.com/track/50zt3onGAM1lqgm6DKEu1P"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Need Your Body",
         "url": "https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi"
       },
@@ -419,30 +435,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Shake Dhat",
-        "url": "https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf"
-      },
-      "artists": [
-        {
-          "name": "Zahsosaa",
-          "url": "https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y"
-        },
-        {
-          "name": "D STURDY",
-          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
-        },
-        {
-          "name": "Dj Crazy",
-          "url": "https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Shake Dhat",
-      "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "miles",
         "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
       },
@@ -483,18 +475,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "need",
-        "url": "https://open.spotify.com/album/3Z06DCUZRXvfI4T8dwSUft"
+        "name": "Shake Dhat",
+        "url": "https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf"
       },
       "artists": [
         {
-          "name": "Svilly",
-          "url": "https://open.spotify.com/artist/76T2piQwbQXkipbt5XLPaJ"
+          "name": "Zahsosaa",
+          "url": "https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y"
+        },
+        {
+          "name": "D STURDY",
+          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
+        },
+        {
+          "name": "Dj Crazy",
+          "url": "https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK"
         }
       ],
-      "duration_ms": 158778,
-      "name": "need",
-      "url": "https://open.spotify.com/track/50zt3onGAM1lqgm6DKEu1P"
+      "duration_ms": 160975,
+      "name": "Shake Dhat",
+      "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/1n31UsS0MSzs3FcK1d9IvQ"
-      },
-      "artists": [
-        {
-          "name": "Zahsosaa",
-          "url": "https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y"
-        }
-      ],
-      "duration_ms": 114625,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/6OKRi2g1eGm78w4xIIz76n"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 160016,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4WrPZ198RawgV8uMVwkYWU"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/1n31UsS0MSzs3FcK1d9IvQ"
+      },
+      "artists": [
+        {
+          "name": "Zahsosaa",
+          "url": "https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y"
+        }
+      ],
+      "duration_ms": 114625,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/6OKRi2g1eGm78w4xIIz76n"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "King of BBM",
+        "url": "https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd"
+      },
+      "artists": [
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        },
+        {
+          "name": "Adolf Joker",
+          "url": "https://open.spotify.com/artist/0t8kV72cpnLzrZ3BFSd8gX"
+        }
+      ],
+      "duration_ms": 151901,
+      "name": "Hands on Ya Hips",
+      "url": "https://open.spotify.com/track/3RRPOt0SQzhAPcI6YHljR5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Renaissance (Remixes)",
         "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
       },
@@ -1243,22 +1263,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "King of BBM",
-        "url": "https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd"
+        "name": "Tek 9 EP",
+        "url": "https://open.spotify.com/album/6i1d5z3aSskkAMjbrm0LpY"
       },
       "artists": [
         {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        },
-        {
-          "name": "Adolf Joker",
-          "url": "https://open.spotify.com/artist/0t8kV72cpnLzrZ3BFSd8gX"
+          "name": "Dj Tameil",
+          "url": "https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1"
         }
       ],
-      "duration_ms": 151901,
-      "name": "Hands on Ya Hips",
-      "url": "https://open.spotify.com/track/3RRPOt0SQzhAPcI6YHljR5"
+      "duration_ms": 232776,
+      "name": "Rude Boy Giddy Up",
+      "url": "https://open.spotify.com/track/5r4ZtJLtLbMufaMw8UBK6Q"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 200869,
       "name": "Back Up On It (Jasmine)",
       "url": "https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Tek 9 EP",
-        "url": "https://open.spotify.com/album/6i1d5z3aSskkAMjbrm0LpY"
-      },
-      "artists": [
-        {
-          "name": "Dj Tameil",
-          "url": "https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1"
-        }
-      ],
-      "duration_ms": 232776,
-      "name": "Rude Boy Giddy Up",
-      "url": "https://open.spotify.com/track/5r4ZtJLtLbMufaMw8UBK6Q"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Jersey Vs The World",
-        "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
-      },
-      "artists": [
-        {
-          "name": "YK ACE",
-          "url": "https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx"
-        }
-      ],
-      "duration_ms": 170015,
-      "name": "Free Me",
-      "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "So Far So Good (Deluxe)",
         "url": "https://open.spotify.com/album/5QPYD8dztySGd1vOQiOoUS"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 144000,
       "name": "Crowd Pleaser",
       "url": "https://open.spotify.com/track/0BkkC24F3nWKAS2NyHYsME"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Jersey Vs The World",
+        "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
+      },
+      "artists": [
+        {
+          "name": "YK ACE",
+          "url": "https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx"
+        }
+      ],
+      "duration_ms": 170015,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
     },
     {
       "added_at": "2022-11-18 05:00:00",

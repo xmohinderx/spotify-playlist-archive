@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 10s
 
-439 songs - 1 day 2 hr 30 min - [published](https://open.spotify.com/playlist/4gviwYyodXKk9b2KWJpfqt)
+440 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/4gviwYyodXKk9b2KWJpfqt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Rock It](https://open.spotify.com/track/6YGA92lyFQAet21S92EJ2X) | [Little Red](https://open.spotify.com/artist/74WcfqC2hmUFHEJs0PDqYi) | [Midnight Remember](https://open.spotify.com/album/6X09wGNPFDJzb2uQkHUs9C) | 3:28 | 2022-03-27 | 2022-04-11 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2022-03-27 | 2022-04-20 |
 | [S&M](https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:03 | 2022-03-27 | 2022-04-19 |
-| [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 | 2022-06-29 |  |
+| [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 | 2022-06-29 | 2022-12-14 |
 | [Sally](https://open.spotify.com/track/6POjRllkbgAEnLIhIFlI7j) | [Thundamentals](https://open.spotify.com/artist/7ymhGfvQPQLHU20RovzLMJ), [Mataya](https://open.spotify.com/artist/6JW55AQgf9M9SZgzZou2NQ) | [Everyone We Know](https://open.spotify.com/album/5wM74edoHDYEhzHvkSnKeN) | 3:46 | 2022-03-27 | 2022-04-19 |
 | [Saturday Sun](https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:34 | 2020-09-04 | 2022-04-22 |
 | [Scars To Your Beautiful](https://open.spotify.com/track/42ydLwx4i5V49RXHOozJZq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:50 | 2020-09-04 | 2022-07-29 |
@@ -415,6 +415,7 @@
 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/5Sf3GyLEAzJXxZ5mbCPXTu) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/7l4LGPXk2mB80WgXy4VeuB) | 3:28 | 2022-03-27 | 2022-04-15 |
 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:10 | 2020-09-04 | 2022-07-25 |
 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 | 2020-09-04 | 2022-11-13 |
+| [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 | 2022-06-29 |  |
 | [We Found Love \(feat\. Rihanna\)](https://open.spotify.com/track/0385HqYimoTQaHZP17KwG1) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:35 | 2020-09-04 | 2022-07-27 |
 | [We Got Love](https://open.spotify.com/track/7kqujRWNEBhrpYt0eV0uw5) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [We Got Love](https://open.spotify.com/album/0ECfA035E0wh6Z0RQfYyrg) | 3:22 | 2020-09-04 | 2022-07-29 |
 | [We No Speak Americano](https://open.spotify.com/track/0CPY4tocoQh6uQrW2Y5PmV) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano](https://open.spotify.com/album/171UauBACOcJBfCvNUYmoi) | 4:29 | 2022-03-27 | 2022-04-21 |

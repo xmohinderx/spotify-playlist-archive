@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-338 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+339 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,8 +286,9 @@
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2022-04-05 |  |
 | [Still Need People](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Still Need People](https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9) | 3:02 | 2022-04-05 |  |
 | [Street Spiritz](https://open.spotify.com/track/1WUpnPChiUlbXUTRLTQTQn) | [Lo & Fozzi](https://open.spotify.com/artist/70Q05jq5O6Y1hKiB8QxjjW) | [Street Spiritz](https://open.spotify.com/album/5QczpcElPjhWavkrkyBDEs) | 3:46 | 2022-04-05 | 2022-05-20 |
-| [suddenly](https://open.spotify.com/track/2In6PrEuJro3m27l29YTG3) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4bKj6LaBsp7wog0ZeYro6j) | 3:35 | 2022-10-28 |  |
+| [suddenly](https://open.spotify.com/track/2In6PrEuJro3m27l29YTG3) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4bKj6LaBsp7wog0ZeYro6j) | 3:35 | 2022-10-28 | 2022-12-14 |
 | [suddenly](https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva) | 3:35 | 2022-07-29 | 2022-11-20 |
+| [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 | 2022-12-09 |  |
 | [Summer flower](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Summer flower](https://open.spotify.com/album/5N07HHsi9ZhvquiBgwtQLa) | 3:08 | 2022-07-29 |  |
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2022-07-08 |  |
 | [Summersome](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Summersome](https://open.spotify.com/album/4QO93jpdiy9nkHMk5KCuSy) | 2:30 | 2022-06-10 |  |

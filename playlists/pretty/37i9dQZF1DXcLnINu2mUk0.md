@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,380 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,439 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 14 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 15 | [Teu Eternamente](https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 2:55 |
 | 16 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
-| 17 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
+| 17 | [Volta](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Volta](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
 | 18 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
-| 19 | [Volta](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Volta](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
+| 19 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 20 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 21 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 |
 | 22 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 47 | [N'ta Amau](https://open.spotify.com/track/2dQeZjABhYmAHOf8hoa3dr) | [Psyco Pdz](https://open.spotify.com/artist/4lEJQE8znF91LHaCVhm6ZX) | [N'ta Amau](https://open.spotify.com/album/7ClEhkAX46ygzQGE3VuSWU) | 3:36 |
 | 48 | [Espaço](https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr) | [Lucas Leite](https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk) | [Espaço](https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb) | 3:14 |
 | 49 | [Licor](https://open.spotify.com/track/2sDi2QrFLpQEWbBNmE8Suc) | [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [Licor De Jaca](https://open.spotify.com/album/5TGbNOBIR8jdm5cVOYJcfK) | 3:26 |
-| 50 | [Ride](https://open.spotify.com/track/2cX342krU9l5k1eyHoUri9) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm), [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Ride](https://open.spotify.com/album/1QDmxoYyTBJGjZn97AIguC) | 2:04 |
-| 51 | [BAE](https://open.spotify.com/track/7whAOEEZlRwbp0cLlCyICd) | [Luis Marvão](https://open.spotify.com/artist/0qKkgDdvYql0lH5OfWdPHS) | [BAE](https://open.spotify.com/album/3vdrJJMUftuYgEnOB4seca) | 3:20 |
+| 50 | [BAE](https://open.spotify.com/track/7whAOEEZlRwbp0cLlCyICd) | [Luis Marvão](https://open.spotify.com/artist/0qKkgDdvYql0lH5OfWdPHS) | [BAE](https://open.spotify.com/album/3vdrJJMUftuYgEnOB4seca) | 3:20 |
+| 51 | [Ride](https://open.spotify.com/track/2cX342krU9l5k1eyHoUri9) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm), [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Ride](https://open.spotify.com/album/1QDmxoYyTBJGjZn97AIguC) | 2:04 |
 | 52 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 |
 | 53 | [Gasoline](https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub) | [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Gasoline](https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh) | 3:36 |
 | 54 | [Nuvem](https://open.spotify.com/track/10AwYtKUb5h6nEbSiNlVvQ) | [YVNG CIRIUS](https://open.spotify.com/artist/49Vq1CEhXIzeNDnXPWYDzA) | [11](https://open.spotify.com/album/17i647lAXr88FRR46cWxJQ) | 2:51 |
 | 55 | [Sou Melhor](https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Sou Melhor](https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73) | 3:05 |
 | 56 | [Compatíveis](https://open.spotify.com/track/1aU7gyz1DIjJVYpib4YB0K) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [Tee Ace](https://open.spotify.com/artist/7lzzQfG4iVb0d42Iggw1cV) | [Compatíveis](https://open.spotify.com/album/2ZJqFPzJCEEF4TCRSzOwuG) | 2:34 |
-| 57 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 |
-| 58 | [N1](https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0) | [Sandricidio](https://open.spotify.com/artist/1StFte0Pe59Pu4unbpadJ0) | [N1](https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf) | 2:55 |
+| 57 | [N1](https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0) | [Sandricidio](https://open.spotify.com/artist/1StFte0Pe59Pu4unbpadJ0) | [N1](https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf) | 2:55 |
+| 58 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 |
 | 59 | [Wine for me](https://open.spotify.com/track/4x3qG5OWwVBFL7I7uNbiPE) | [Nsnow](https://open.spotify.com/artist/1Algk1jxKZzQc5OF1pDrxL) | [Wine for me](https://open.spotify.com/album/6B9wuurKE6Y6PTNRmzzGvk) | 2:24 |
-| 60 | [Diferente](https://open.spotify.com/track/0alvMe4SV8FsVI4dVdPi6o) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [Diferente](https://open.spotify.com/album/0fdEVAurFGPYQx36Ojcc91) | 1:45 |
+| 60 | [Rosa](https://open.spotify.com/track/6pK1CAuGhitqP65KqoH2XA) | [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST) | [Rosa](https://open.spotify.com/album/1iTGKobhKkFNgDgHnpj6ho) | 3:30 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMGFmN2EwYjM0ZTFjMDRiN2NlMTRjYTFiNGQ4YWQyMTlm`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDcyNmFhNjNkNzczMzM0OTE3YmFlMjg4Y2M2MDFjMmI3`

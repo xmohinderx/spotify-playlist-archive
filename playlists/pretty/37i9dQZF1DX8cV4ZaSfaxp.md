@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,615 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,656 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 66 | [Orange Road \(with YUKIKA\)](https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 4:30 |
 | 67 | [It's Beautiful](https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Part.03](https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC) | 3:54 |
 | 68 | [Dive](https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7) | 3:41 |
-| 69 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
-| 70 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
+| 69 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
+| 70 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
 | 71 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 |
 | 72 | [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 |
 | 73 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 77 | [보라빛 향기](https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 3:28 |
 | 78 | [The Paradise](https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 2:56 |
 | 79 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
-| 80 | [Brave New World](https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [BASIC](https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS) | 4:01 |
-| 81 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 |
-| 82 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 |
-| 83 | [Black Hole](https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE PARK IN THE NIGHT part three](https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut) | 3:33 |
+| 80 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 |
+| 81 | [Brave New World](https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [BASIC](https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS) | 4:01 |
+| 82 | [Black Hole](https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE PARK IN THE NIGHT part three](https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut) | 3:33 |
+| 83 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 |
 | 84 | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ) | 4:54 |
 | 85 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
 | 86 | [I Can't Let You Go \(feat\. Space Cowboy\)](https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [스페이스카우보이](https://open.spotify.com/artist/0OIZ6VdAR9UGJ3UhfTpGYy) | [New Wave City](https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 |
 | 100 | [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/4DqKZBow5uuKTQQiDoSjTF) | 3:11 |
 
-Snapshot ID: `MTY2NDg5NTQ0MywwMDAwMDAwMDk3NDU1NGE1NTM2ODEyOWI3ZGJjODMxZGVkOWY1MDIx`
+Snapshot ID: `MTY2NDg5NTQ0MywwMDAwMDAwMDBmYjcxZmQ0MjQ1OTBjZmUxODY1ZjExMjUzZTk4YWY0`

@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 39824,
+  "num_followers": 39888,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY0NjQ3OSwwMDAwMDAwMGE3NWI0YzRhOTkyZjljZGVjNTRiNDFmM2VhMDJkYTU4",
+  "snapshot_id": "MTY2OTY0NjQ3OSwwMDAwMDAwMDkwMGQzY2QyZTc0ZWVlYzQ1MTEzZDVmN2I2ODUwMDE5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Favorite Peeps",
-        "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Favorite Peeps",
-      "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Go Easy, Kid",
         "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 248181,
       "name": "Go Easy, Kid",
       "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Favorite Peeps",
+        "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1341,7 +1341,23 @@
       "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
     },
     {
-      "added_at": "2022-12-13 00:18:08",
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "October Sky",
+        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 195065,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
+    },
+    {
+      "added_at": "2022-12-14 01:01:13",
       "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt"
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "October Sky",
-        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
+        "name": "I BELIEVE",
+        "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 195065,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
+      "duration_ms": 206999,
+      "name": "I BELIEVE",
+      "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1391,22 +1407,6 @@
       "duration_ms": 189254,
       "name": "Pink Razor",
       "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "I BELIEVE",
-        "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "I BELIEVE",
-      "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "With The Band / Bruises & Scratches",
-        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
-      },
-      "artists": [
-        {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
-        }
-      ],
-      "duration_ms": 173070,
-      "name": "With The Band",
-      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "A Good Love, Pt. 2",
         "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 213556,
       "name": "A Good Love, Pt. 2",
       "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "With The Band / Bruises & Scratches",
+        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 173070,
+      "name": "With The Band",
+      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
     },
     {
       "added_at": "2022-08-12 04:00:00",

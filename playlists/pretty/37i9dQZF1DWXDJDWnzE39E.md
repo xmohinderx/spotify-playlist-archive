@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,647 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,093 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 26 | [Sensorium](https://open.spotify.com/track/5Souga96S54RLFk30XrEJP) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 4:49 |
 | 27 | [The Purge](https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/1rN72pQnsIJo2MqHfqDqYA) | 4:16 |
 | 28 | [Bottom of a Bottle](https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Bottom of a Bottle](https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3) | 3:19 |
-| 29 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
-| 30 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 |
+| 29 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 |
+| 30 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
 | 31 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
 | 32 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 |
 | 33 | [Abyss of Time \- Countdown to Singularity \-](https://open.spotify.com/track/627pEZNVSQ3iUyvOoxXVUw) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:20 |
@@ -66,27 +66,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 56 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 |
 | 57 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 |
 | 58 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 |
-| 59 | [I Don't Know You](https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT) | 3:41 |
-| 60 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 |
+| 59 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 |
+| 60 | [I Don't Know You](https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT) | 3:41 |
 | 61 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
 | 62 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 63 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 |
 | 64 | [Freedom \- The Wolves Within \-](https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:37 |
-| 65 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 |
-| 66 | [Mr\. Magic](https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Mr\. Magic](https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A) | 4:24 |
+| 65 | [Mr\. Magic](https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Mr\. Magic](https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A) | 4:24 |
+| 66 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 |
 | 67 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 |
 | 68 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
 | 69 | [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 |
 | 70 | [Constance](https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Constance](https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx) | 4:30 |
-| 71 | [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 |
+| 71 | [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 |
 | 72 | [Taxi](https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE) | 3:21 |
-| 73 | [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 |
+| 73 | [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 |
 | 74 | [Human](https://open.spotify.com/track/1ojotvJWLsbEsmLV6gl0cM) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns](https://open.spotify.com/album/0thD1dOyYRoUBK3gzj2TOp) | 5:09 |
 | 75 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 |
-| 76 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
-| 77 | [Colossvs](https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN) | 3:37 |
+| 76 | [Colossvs](https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN) | 3:37 |
+| 77 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
 | 78 | [Lift Me Up](https://open.spotify.com/track/77N3qTq2VuA244Xf36hQ1O) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:29 |
 | 79 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 |
 | 80 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 |
 
-Snapshot ID: `MTY2ODczNTExMywwMDAwMDAwMGU0YWQyYjI4OTdiNWRmYWE5YjkzYWRhNzhjYjJkYzYx`
+Snapshot ID: `MTY2ODczNTExMywwMDAwMDAwMDJlNjM3NTQzODY3ZGVlZjk5ODRjMjc3ZjAxMDJkZDlk`

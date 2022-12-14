@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,495 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,525 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 29 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 |
 | 30 | [Such Great Heights](https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 4:11 |
 | 31 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 |
-| 32 | [Bigger Heart \(Acoustic\)](https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Bigger Heart \(Acoustic\)](https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc) | 4:48 |
-| 33 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [\#Acoustic](https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI) | 2:37 |
+| 32 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [\#Acoustic](https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI) | 2:37 |
+| 33 | [Bigger Heart \(Acoustic\)](https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Bigger Heart \(Acoustic\)](https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc) | 4:48 |
 | 34 | [Please Keep Loving Me \- Acoustic](https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me \(Acoustic\)](https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX) | 3:17 |
 | 35 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 |
 | 36 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 |
@@ -83,14 +83,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 73 | [Clean Eyes \- Acoustic](https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Clean Eyes](https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f) | 3:42 |
 | 74 | [So Sick \- Acoustic](https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words \(Deluxe 15th Anniversary Edition\)](https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1) | 3:02 |
 | 75 | [Be As You Are \- Acoustic](https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Island Life Coffee House \(Vol\. 1\)](https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b) | 3:54 |
-| 76 | [First Time](https://open.spotify.com/track/39gE6tDHRL072PInfAabLi) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz) | 3:13 |
+| 76 | [I'll Buy A House \- Acoustic](https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy A House \(Acoustic\)](https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO) | 3:06 |
 | 77 | [Mirou](https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/3sBQyl3PDQP1zh5BcpKaJA) | 4:12 |
-| 78 | [I'll Buy A House \- Acoustic](https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy A House \(Acoustic\)](https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO) | 3:06 |
+| 78 | [First Time](https://open.spotify.com/track/39gE6tDHRL072PInfAabLi) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz) | 3:13 |
 | 79 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 |
 | 80 | [Chasing After the Moon](https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing After the Moon](https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u) | 3:58 |
 | 81 | [I don't mind if you don't mind \(draft\)](https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:18 |
-| 82 | [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 |
-| 83 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 4:12 |
+| 82 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 4:12 |
+| 83 | [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 |
 | 84 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
 | 85 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 |
 | 86 | [Nervous \- Acoustic](https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf) | 4:10 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 90 | [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 |
 | 91 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 |
 | 92 | [Without Me \(Acoustic\)](https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Without Me \(Acoustic\)](https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn) | 3:13 |
-| 93 | [Voices](https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Voices](https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu) | 3:06 |
-| 94 | [Pink \- Live & Acoustic](https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Live from the Village \(Acoustic\)](https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq) | 3:47 |
+| 93 | [Pink \- Live & Acoustic](https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Live from the Village \(Acoustic\)](https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq) | 3:47 |
+| 94 | [Voices](https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Voices](https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu) | 3:06 |
 | 95 | [Luck Pusher](https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm) | 2:43 |
 | 96 | [Walk Me Home](https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Walk Me Home](https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4) | 4:37 |
 | 97 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg) | 3:37 |
 | 100 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
 
-Snapshot ID: `MTY2OTk4MjQwMCwwMDAwMDAwMGQ0NDliYTk5ODZkOWM1OWU5YTI3N2I1NzI4OThkZTM0`
+Snapshot ID: `MTY2OTk4MjQwMCwwMDAwMDAwMDUxYTU0NGQxZTMxY2VkNGNhMTA1NzMzNTgxMjhjN2Jk`

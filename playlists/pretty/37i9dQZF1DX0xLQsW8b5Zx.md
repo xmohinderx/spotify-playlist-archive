@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,800 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,890 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 9 | [Summertime Blues](https://open.spotify.com/track/3oAWTk92mZBxKBOKf8mR5v) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 1:59 |
 | 10 | [Checkered Flag](https://open.spotify.com/track/5ZGBKoa6sydhYUMiv4g1a4) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Gotta Have the Rumble](https://open.spotify.com/album/6Y4c5dgnOrQjzWM9NrKguN) | 4:05 |
 | 11 | [Hillbilly Rock'n'Roll](https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO) | [Voodoo Swing](https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA) | [Keep On Rollin'](https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE) | 2:30 |
-| 12 | [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 |
-| 13 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |
+| 12 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |
+| 13 | [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 |
 | 14 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
 | 15 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
 | 16 | [Baby Did A Bad Bad Thing](https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Forever Blue](https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY) | 2:54 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 56 | [I Got My Eyes On You](https://open.spotify.com/track/72HhIJoFObt1Py8MAm0d5J) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/1KorPfuIfBvNH3n6BrVx72) | [The Hard Stuff](https://open.spotify.com/album/6dSDrbanjX8nG0aBI9BmWx) | 3:30 |
 | 57 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
 | 58 | [Chalk It Up to the Blues](https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A) | 3:12 |
-| 59 | [Fire Bug](https://open.spotify.com/track/7r5V7GyOhmcHWAv5D9YYPn) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ) | 2:17 |
-| 60 | [Another Sunday Morning](https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 2:40 |
+| 59 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 |
+| 60 | [Fire Bug](https://open.spotify.com/track/7r5V7GyOhmcHWAv5D9YYPn) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ) | 2:17 |
 
-Snapshot ID: `MTY2NjY4Nzc5OSwwMDAwMDAwMDI0MjIzN2NjMDlhMGEwMTc5YWZhYjFiNWZkMmMwZDI4`
+Snapshot ID: `MTY2NjY4Nzc5OSwwMDAwMDAwMGU3YzE3YjI3MGIwMTdhODhiNjYzOTU3MWVkMGI1YzQw`

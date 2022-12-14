@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,618 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,653 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 80 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 |
 | 81 | [Value](https://open.spotify.com/track/7im3jaJBEYivH5JKXMh1Yy) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Value](https://open.spotify.com/album/5k4FGcPa9XZN2IqSPBYICI) | 2:47 |
 | 82 | [SHUT UP](https://open.spotify.com/track/3ekxXNSH4mgUnMprSnopls) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SHUT UP](https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO) | 2:50 |
-| 83 | [Split/Whole Time](https://open.spotify.com/track/44IdNvMSJpOWWTqcExPXef) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Split/Whole Time](https://open.spotify.com/album/16kwdwYTKR7pJfyOikdYHN) | 3:59 |
-| 84 | [Spicy \(feat\. J Balvin, YG, Tyga & Post Malone\) \- Remix](https://open.spotify.com/track/4Ae2ORKCPbA8L67WWFmVEV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Spicy \(feat\. J Balvin, YG, Tyga & Post Malone\) \[Remix\]](https://open.spotify.com/album/201QACb6tzkZ2raEN7DkXZ) | 3:41 |
+| 83 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
+| 84 | [Split/Whole Time](https://open.spotify.com/track/44IdNvMSJpOWWTqcExPXef) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Split/Whole Time](https://open.spotify.com/album/16kwdwYTKR7pJfyOikdYHN) | 3:59 |
 | 85 | [Love You \(feat\. Sydny August\)](https://open.spotify.com/track/65awQLLy8qAiBCzvKNOlo6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Sydny August](https://open.spotify.com/artist/6r67a5jAm4bKhtLydqn9YE) | [The Voice \(Deluxe\)](https://open.spotify.com/album/6lb9q7QZwjMj9EE7M664sK) | 2:58 |
-| 86 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
+| 86 | [Spicy \(feat\. J Balvin, YG, Tyga & Post Malone\) \- Remix](https://open.spotify.com/track/4Ae2ORKCPbA8L67WWFmVEV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Spicy \(feat\. J Balvin, YG, Tyga & Post Malone\) \[Remix\]](https://open.spotify.com/album/201QACb6tzkZ2raEN7DkXZ) | 3:41 |
 | 87 | [Baller](https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK) | 3:21 |
 | 88 | [Double G \(feat\. Pop Smoke\)](https://open.spotify.com/track/6zAXl7WqhGuOuTDkPDKQ7P) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Double G \(feat\. Pop Smoke\)](https://open.spotify.com/album/1GC8fGddUiXsLtvmvWspd6) | 2:37 |
 | 89 | [AIRDROP](https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [AWITA](https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [POV \(feat\. Rubi Rose\)](https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [The Saga of Wiz Khalifa \(Deluxe\)](https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD) | 2:05 |
 | 100 | [LOAD IT UP](https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [LOAD IT UP](https://open.spotify.com/album/77Mak8ARcb9Jwkl1D0tFfA) | 2:57 |
 
-Snapshot ID: `MTY0NDg4NDQzMCwwMDAwMDAwMDg4Y2VhNGEyMDBiMDI2YjJlOGM4MTZlODdiYzdmNzlm`
+Snapshot ID: `MTY0NDg4NDQzMCwwMDAwMDAwMDlmMGQ3NGRiMmQ5MTQxMjM3OTUyM2RhOGFmOTg5NjNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,966 likes - 141 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,084 likes - 141 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

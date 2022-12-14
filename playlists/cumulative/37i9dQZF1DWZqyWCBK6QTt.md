@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Sara James.
 
-383 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
+384 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 4:47 | 2022-06-07 |  |
 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qi0gC43ZZ0dAtLwdamJ0I) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H) | 4:47 | 2021-09-24 | 2022-07-29 |
 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 | 2022-10-03 | 2022-12-09 |
+| [Creep](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79) | 2:41 | 2022-10-03 |  |
 | [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2022-03-24 | 2022-11-02 |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 3:01 | 2021-09-24 | 2022-07-27 |
 | [Cry Me a River \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 5:01 | 2021-09-24 |  |
@@ -118,7 +119,7 @@
 | [Feels Like We Only Go Backwards \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/51Tb0DkANWOoURN81p4ugm) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Spotify Singles](https://open.spotify.com/album/4PzCTggaYEmBDgzAE3DjtA) | 3:19 | 2021-09-24 | 2022-07-15 |
 | [Fire on the Mountain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0VYh7UE0QG71xFfPEI353W) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Spotify Singles](https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j) | 2:49 | 2022-03-24 | 2022-07-26 |
 | [Flaco \- Spotify Singles](https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 4:20 | 2022-06-07 | 2022-07-25 |
-| [Flume \- Spotify Singles](https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:51 | 2022-03-09 |  |
+| [Flume \- Spotify Singles](https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:51 | 2022-03-09 | 2022-12-14 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-06-07 |  |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/5PTYfTSOaDdpJWV5u8MBWT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/4g4c2rJ1Jwipxrvl568KtG) | 3:24 | 2021-09-24 | 2022-07-29 |
 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 | 2021-09-24 |  |

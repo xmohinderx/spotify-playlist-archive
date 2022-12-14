@@ -1,12 +1,12 @@
 {
   "description": "Music to get your heart started.",
-  "num_followers": 7611,
+  "num_followers": 7622,
   "original_name": "Country Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE5NTI4NCwwMDAwMDAwMDU3OTZmNzM2NWJiNWZmMGYzNDZlNTBhNDc1NDI4MWI0",
+  "snapshot_id": "MTY0MDE5NTI4NCwwMDAwMDAwMGM5MzMwMmQyNTgyZmU4MDEzNjcxYmRlM2VhODk2Y2Jj",
   "tracks": [
     {
       "added_at": "2021-12-22 17:48:04",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "One Margarita",
-        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "One Margarita",
-      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Meat and Candy",
         "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 206506,
       "name": "Snapback",
       "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "One Margarita",
+        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "One Margarita",
+      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Next Girl",
-        "url": "https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 164677,
-      "name": "Next Girl",
-      "url": "https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Jameson Rodgers",
         "url": "https://open.spotify.com/album/52tL6ea7pvC3qgZCMPQAa5"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 184893,
       "name": "Some Girls",
       "url": "https://open.spotify.com/track/54eUv9Q3D9MZuOGS5PSflp"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Next Girl",
+        "url": "https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 164677,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa"
     },
     {
       "added_at": "2021-12-22 17:48:04",

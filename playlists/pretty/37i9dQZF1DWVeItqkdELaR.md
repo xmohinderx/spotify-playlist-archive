@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > A trilha sonora do verão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,339 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,347 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 57 | [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 |
 | 58 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 |
 | 59 | [Simplesmente Ela](https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ) | 2:41 |
-| 60 | [Malvada](https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Malvada](https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy) | 2:25 |
-| 61 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 |
+| 60 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 |
+| 61 | [Malvada](https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Malvada](https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy) | 2:25 |
 | 62 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 |
 | 63 | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [DJ Bel da CDD](https://open.spotify.com/artist/6cBgK7jLKrcynjD5E6mKNu), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4) | 1:55 |
 | 64 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Errada Ela Não Tá](https://open.spotify.com/track/5LOgoGZQf26eY74DGdYy0u) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Errada Ela Não Tá](https://open.spotify.com/album/4GLifNiKf4dDkkencR04Bn) | 2:58 |
 | 100 | [Pode Tentar](https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Pode Tentar](https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS) | 2:35 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDQxNjAyYTBlMzA1NTFkODFjZDZlY2U0ZjlhNjZmMDc4`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGZhMzA5MjhjNTFlZmRiN2M3ODllMzE2ZGE1YzZlMjIz`

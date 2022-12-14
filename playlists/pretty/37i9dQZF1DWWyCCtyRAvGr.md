@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,821 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,974 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 21 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 |
 | 22 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
 | 23 | [I Ain't Superstitious](https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:30 |
-| 24 | [Purple](https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 7:08 |
-| 25 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
+| 24 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
+| 25 | [Purple](https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 7:08 |
 | 26 | [Make It Rain](https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 6:41 |
 | 27 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 |
 | 28 | [Come on and Go with Me](https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 5:55 |
 | 29 | [Blues for Mama](https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 3:55 |
-| 30 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 |
-| 31 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:42 |
+| 30 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:42 |
+| 31 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 |
 | 32 | [J.C's\. Blues](https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1) | [Michigan Curve](https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba) | [Bluesmen Don't Use Umbrellas](https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm) | 6:59 |
 | 33 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
 | 34 | [Papa Ain't Salty](https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:47 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 46 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
 | 47 | [Gambler's Blues](https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 5:41 |
 | 48 | [Bubba Jones](https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Smoke From The Chimney](https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1) | 4:26 |
-| 49 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 |
-| 50 | [How Blue Can You Get](https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [How Blue Can You Get](https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp) | 7:16 |
+| 49 | [How Blue Can You Get](https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [How Blue Can You Get](https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp) | 7:16 |
+| 50 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 |
 
-Snapshot ID: `MTY2ODc2ODUxOSwwMDAwMDAwMDQxNGY3NjJjNzZkZTAzZGE0OTk2MTU4NzIwNjQyNWQz`
+Snapshot ID: `MTY2ODc2ODUxOSwwMDAwMDAwMDg0NzgyNjQ0Mjc5ZGJkNmM3MzllMTU4MDg5ODg4MGJl`
