@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 152 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 31 | [Ready To Kill](https://open.spotify.com/track/0iCcrNC4cIXd43KAW2BW34) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Moksi Family Rebirth Series Vol\. 1: Nu Rave](https://open.spotify.com/album/5Rv54Bkkse7VrxARn1Q6ll) | 4:50 |
 | 32 | [GQOM](https://open.spotify.com/track/1XnurriC13rl5bdrjXhM59) | [Bang La Decks](https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [GQOM](https://open.spotify.com/album/3EKcdo0Io0bA9ZqTeIA7Zy) | 3:14 |
 | 33 | [Singshower \(feat\. Emy Perez\)](https://open.spotify.com/track/2w4YqVJNKAm2PpDLkxK0Zo) | [Promise Land](https://open.spotify.com/artist/0ktujbOLx1L1K8wj8o8dpJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Singshower \(feat\. Emy Perez\)](https://open.spotify.com/album/5w6nwff1JtZJZRMMf9W2NX) | 2:53 |
-| 34 | [Ta Gucci](https://open.spotify.com/track/4yGZdI0NOegjWw2etshYex) | [Golddiggers](https://open.spotify.com/artist/5XOZGfeMFqgizyqfaUt4t1), [Matsoe Matsoe](https://open.spotify.com/artist/6C8e75Sp96VE2cyEno7pKG), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Ta Gucci](https://open.spotify.com/album/4F1v8CEh2gq2HEWoT8ZMmB) | 2:26 |
-| 35 | [No More \(Boom Boom\)](https://open.spotify.com/track/4tTFkicK5glvQ4Mxin87sT) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Feelings](https://open.spotify.com/album/6OPSVmhi3yv28jHJht1krN) | 2:39 |
+| 34 | [No More \(Boom Boom\)](https://open.spotify.com/track/4tTFkicK5glvQ4Mxin87sT) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Feelings](https://open.spotify.com/album/6OPSVmhi3yv28jHJht1krN) | 2:39 |
+| 35 | [Ta Gucci](https://open.spotify.com/track/4yGZdI0NOegjWw2etshYex) | [Golddiggers](https://open.spotify.com/artist/5XOZGfeMFqgizyqfaUt4t1), [Matsoe Matsoe](https://open.spotify.com/artist/6C8e75Sp96VE2cyEno7pKG), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Ta Gucci](https://open.spotify.com/album/4F1v8CEh2gq2HEWoT8ZMmB) | 2:26 |
 | 36 | [Popstar](https://open.spotify.com/track/6OUzYmWcUUWY8QHrLeK0u8) | [Rät N FrikK](https://open.spotify.com/artist/3tpUngxYl0s3jkqFUQjDEJ), [Digitzz](https://open.spotify.com/artist/4MCQBhrvHrufVxrKk5c5U3) | [Popstar](https://open.spotify.com/album/1dcFZFF1T8BJlnxPNIpbdE) | 3:15 |
 | 37 | [Nasty](https://open.spotify.com/track/7wNEVi5lEzMcQepjnRiDco) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Nasty](https://open.spotify.com/album/0PvKepM5NBjgDLstZ3ZT26) | 2:51 |
 | 38 | [I Will Wait](https://open.spotify.com/track/67OcYgRuZyiiNyQsDihSQd) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [I Will Wait \(feat\. Hero Baldwin\)](https://open.spotify.com/album/36m1G2NmTQvGtRtjRTqc1Y) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 49 | [La Noche](https://open.spotify.com/track/2MurtNOTSzfR3UDmiM6qKu) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Wobblestep EP](https://open.spotify.com/album/0O5np1Eu0H7DphgWg33g8N) | 3:06 |
 | 50 | [Till The Sun Comes Down](https://open.spotify.com/track/0lXHqJQ08GGhJMQN0WQEgd) | [SOLR](https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh), [The Trixx](https://open.spotify.com/artist/3E3y0s1aMZIQYD9ExbitIT), [Emy](https://open.spotify.com/artist/1VFBjda5d9AXc2QUweoi85) | [Till The Sun Comes Down](https://open.spotify.com/album/6dElwID4F5wWBRGxXQJXP0) | 3:54 |
 
-Snapshot ID: `Mjc4NDk2NjgsMDAwMDAwMDA3MGU5NGQyMWEwM2YzMDhlZGY1OGYyYjQ2NWFhYzg3NA==`
+Snapshot ID: `Mjc4NTExMDgsMDAwMDAwMDBlZDhiMzI1NThhMzQ5ZDM2YmFiZTNkZTA2MDlmODkyYg==`

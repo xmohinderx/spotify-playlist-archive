@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,036 songs - 1 day 15 hr 12 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+1,037 songs - 1 day 15 hr 14 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [California Trumpet](https://open.spotify.com/track/5o5A9VWshzCc7sJMhLN5AF) | [Tobinio Armstrong](https://open.spotify.com/artist/3GsD3Oqvr0S0LC9dWmaFQm) | [California Trumpet](https://open.spotify.com/album/60ITFn41Yjr6XzOHxlzl1b) | 2:04 | 2022-09-23 |  |
 | [call me](https://open.spotify.com/track/1sndZHnMu1W4nIRAQkT2xN) | [Clumby](https://open.spotify.com/artist/2j6nnzQl3kndd91nG9QsvA) | [call me](https://open.spotify.com/album/55eBqoesGWQLvQ1Fg8OM70) | 2:11 | 2022-11-25 |  |
 | [Call Me](https://open.spotify.com/track/26fsJvmS8nLnUqUg5Capqh) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/1pGmdKDNIgdOHVX4dBuDo1) | 2:22 | 2022-08-19 | 2022-11-20 |
-| [Call Me](https://open.spotify.com/track/4pYVF9dsO5IgVOASSEcl0f) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/5gD7kNZm1FBZjUDmj9zhW4) | 2:22 | 2022-11-11 |  |
+| [Call Me](https://open.spotify.com/track/4pYVF9dsO5IgVOASSEcl0f) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/5gD7kNZm1FBZjUDmj9zhW4) | 2:22 | 2022-11-11 | 2022-12-15 |
+| [Call Me](https://open.spotify.com/track/5brWANXw2p9YF7TTgQ8nQq) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/1bpz84JSLby8ON4a4bjoZP) | 2:22 | 2022-12-09 |  |
 | [Call Your Love](https://open.spotify.com/track/4w9orJ21uC6stGib171tmZ) | [Bored Mango](https://open.spotify.com/artist/5eo18c4KyYfalNC4LuCX7g) | [Call Your Love](https://open.spotify.com/album/48FOgpQ1zRtTrrtyerPTA3) | 2:00 | 2022-06-17 |  |
 | [Calm](https://open.spotify.com/track/16dOF8Ipta4LC2lEwh9xDE) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Calm](https://open.spotify.com/album/57gD95ZSJ9lA4NVTBoIhvs) | 2:28 | 2022-06-24 |  |
 | [Cameleon](https://open.spotify.com/track/2z9CyOsKP6VkZAh32ERYSz) | [JIMI O’HARA](https://open.spotify.com/artist/4ZjTiyXDnLJmJRmaxg5sFQ) | [CAMOUFLAGE](https://open.spotify.com/album/4QGUYHCw96ZtEKTWOlDj1i) | 1:55 | 2022-01-27 | 2022-05-27 |

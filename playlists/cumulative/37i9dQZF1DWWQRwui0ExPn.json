@@ -36885,6 +36885,28 @@
     {
       "album": {
         "name": "Hot Stones",
+        "url": "https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        },
+        {
+          "name": "Nofeels",
+          "url": "https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105439,
+      "name": "Hot Stones",
+      "url": "https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI"
+    },
+    {
+      "album": {
+        "name": "Hot Stones",
         "url": "https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi"
       },
       "artists": [
@@ -36899,7 +36921,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 105439,
       "name": "Hot Stones",
       "url": "https://open.spotify.com/track/2022877RqBEPVfODofVbbN"
@@ -47907,6 +47929,24 @@
     {
       "album": {
         "name": "Lost in Lyon",
+        "url": "https://open.spotify.com/album/0StqkM8rtkikFG3mK2o79V"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128781,
+      "name": "Lost in Lyon",
+      "url": "https://open.spotify.com/track/007rjd04ZQEz5TPKIKqC6E"
+    },
+    {
+      "album": {
+        "name": "Lost in Lyon",
         "url": "https://open.spotify.com/album/2ucNQ7DGxFEcEnzns1fEdQ"
       },
       "artists": [
@@ -47917,7 +47957,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 128781,
       "name": "Lost in Lyon",
       "url": "https://open.spotify.com/track/4zoUYuXrmE5y3VhanFWYlK"
@@ -51581,7 +51621,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 106363,
       "name": "Mid 90's",
       "url": "https://open.spotify.com/track/2a3bLvf3K6sJBThrtnuIIs"
@@ -51603,6 +51643,24 @@
       "duration_ms": 106363,
       "name": "Mid 90's",
       "url": "https://open.spotify.com/track/4xmZYBqxEbR7BzHMpqk0mz"
+    },
+    {
+      "album": {
+        "name": "Mid 90s",
+        "url": "https://open.spotify.com/album/5RMbiBKkS1kBVb1iOai8C8"
+      },
+      "artists": [
+        {
+          "name": "Matija Lazic",
+          "url": "https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106363,
+      "name": "Mid 90s",
+      "url": "https://open.spotify.com/track/217Zg4eId6ikShLQSzknXt"
     },
     {
       "album": {
@@ -70703,10 +70761,32 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 126857,
       "name": "Seed",
       "url": "https://open.spotify.com/track/7KRM5GwRCYx4cVcSvreuGu"
+    },
+    {
+      "album": {
+        "name": "Seed",
+        "url": "https://open.spotify.com/album/0XWBYMTQbjCfpX6Avldc9i"
+      },
+      "artists": [
+        {
+          "name": "Flingu",
+          "url": "https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt"
+        },
+        {
+          "name": "Bionsen",
+          "url": "https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/46rN0dUTqxTeWtF0g1lgKr"
     },
     {
       "album": {

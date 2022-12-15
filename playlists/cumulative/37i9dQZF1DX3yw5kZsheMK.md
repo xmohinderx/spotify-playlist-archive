@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-99 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
+100 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Lullaby Time](https://open.spotify.com/track/6Qbemk2ei6Cg0d9RnXAYcW) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Lullabies](https://open.spotify.com/album/7Jl8kmlsg97DncVuNp3UIm) | 3:41 | 2022-03-11 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/2NZEJxIUnsP18o2aNzeuZW) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 2](https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh) | 3:28 | 2022-03-11 |  |
 | [Moon River](https://open.spotify.com/track/1WCH0gUqhNsiuxNdN6wyod) | [Tanya Donelly](https://open.spotify.com/artist/3T4EY2HthpDQceZWzgSar5) | [Sing Me to Sleep: Indie Lullabies](https://open.spotify.com/album/47c5bpI6VYdwMAMb24rSi6) | 3:25 | 2022-03-11 |  |
-| [Moonbeams](https://open.spotify.com/track/1XwghPmPkMbF53pgcA5OkS) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Moonbeams](https://open.spotify.com/album/4wtdAEUKe2db0m0DPexbGE) | 3:29 | 2022-03-11 |  |
+| [Moonbeams](https://open.spotify.com/track/1XwghPmPkMbF53pgcA5OkS) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Moonbeams](https://open.spotify.com/album/4wtdAEUKe2db0m0DPexbGE) | 3:29 | 2022-03-11 | 2022-12-15 |
+| [Moonbeams](https://open.spotify.com/track/4UQWAEefrXffaaPyx1cT6y) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Dreams](https://open.spotify.com/album/7ncEZ4CS2B8estE57JkkG1) | 3:29 | 2022-03-11 |  |
 | [Obisana](https://open.spotify.com/track/1VrdL8Jxz9sxH3XZkIyzRD) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [Relaxing Music for Children](https://open.spotify.com/album/4iZ1n5HfNcRgzgbKqrroso) | 1:37 | 2022-03-11 |  |
 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 | 2022-03-11 |  |
 | [Paper Boat](https://open.spotify.com/track/6MwywkGKmWtYDtsHEtVnB4) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:45 | 2022-03-11 |  |

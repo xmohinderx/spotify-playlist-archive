@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,391 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,417 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 37 | [Wet \(feat\. Latto\) \- Remix](https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Wet \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL) | 3:31 |
 | 38 | [777 Pt\. 1](https://open.spotify.com/track/4vUeHbV4moHsvwqdwZNEQo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 1:20 |
 | 39 | [In n Out \(feat\. City Girls\)](https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:14 |
-| 40 | [Meeting \(feat\. Foogiano & Latto\)](https://open.spotify.com/track/0T6aFFho2pkaYJ4tqjCRxO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:08 |
-| 41 | [Sorry Not Sorry \- Remix](https://open.spotify.com/track/7AhgEWQWDBalQrdeidAWzR) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Sorry Not Sorry \(Remix\)](https://open.spotify.com/album/6M1ijwO8XZ44VTFxdsPlV2) | 3:15 |
-| 42 | [Step It Up](https://open.spotify.com/track/4tpSjqtLO12aIUHcSBR9rp) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
+| 40 | [Step It Up](https://open.spotify.com/track/4tpSjqtLO12aIUHcSBR9rp) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
+| 41 | [Meeting \(feat\. Foogiano & Latto\)](https://open.spotify.com/track/0T6aFFho2pkaYJ4tqjCRxO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:08 |
+| 42 | [Sorry Not Sorry \- Remix](https://open.spotify.com/track/7AhgEWQWDBalQrdeidAWzR) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Sorry Not Sorry \(Remix\)](https://open.spotify.com/album/6M1ijwO8XZ44VTFxdsPlV2) | 3:15 |
 | 43 | [Youngest N Richest](https://open.spotify.com/track/2TctO4deS9kABuiQ7070R1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 1:44 |
 | 44 | [MMM MMM \(The Remix\) \[feat\. ATL Jacob, Latto & Moneybagg Yo\]](https://open.spotify.com/track/4QpNg4wDBtdevpOZFKYabg) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [MMM MMM \(The Remix\) \[feat\. ATL Jacob, Latto & Moneybagg Yo\]](https://open.spotify.com/album/1g56wNgEleOMrM0gYypkZF) | 3:28 |
 | 45 | [He Say She Say](https://open.spotify.com/track/2wGXzIAux8In47rYvvy1YS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say](https://open.spotify.com/album/2nGyZR9qS22ChEozzV59tq) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Bad Azz \(feat\. Latto & Benny The Butcher\)](https://open.spotify.com/track/3KtXO2iSrh3uhtupzih5F6) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Dj Infamous](https://open.spotify.com/artist/6ZBfqjbGZ4WDWN2DQGloKA), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Bad Azz](https://open.spotify.com/album/4BZ79x1VH7uirERbncEfXC) | 3:20 |
 | 50 | [No Hook](https://open.spotify.com/track/5HyUymevRIBqIlHfmup8Sz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [No Hook](https://open.spotify.com/album/0hyrMfQMMX09fOOsnOuhQ8) | 1:43 |
 
-Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDBiZWUyNGM3NjYxYzE0ZjA2M2ExZTM5YTQ4OTE4NmYxMg==`
+Snapshot ID: `Mjc4NTA2MzksMDAwMDAwMDBmZjE5OWE5MWNlOGM1NmY3OTcyMmVmZTFkYWYxNzRhMA==`

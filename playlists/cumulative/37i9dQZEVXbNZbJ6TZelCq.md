@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-988 songs - 2 day 4 hr 40 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
+989 songs - 2 day 4 hr 43 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-16 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-23 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-25 | 2021-12-05 |
-| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-10-10 |  |
+| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-10-10 | 2022-12-15 |
 | [I Wanna Be Yours](https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 3:03 | 2022-08-15 | 2022-10-05 |
 | [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-06-09 | 2022-12-14 |
 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 | 2022-04-30 | 2022-05-02 |
@@ -460,6 +460,7 @@
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-25 |
 | [KEEP IT BURNIN \(feat\. Kanye West\)](https://open.spotify.com/track/7rWCWzPRftzZTZtIyQtaDU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:27 | 2022-04-30 | 2022-05-02 |
 | [Keep My Spirit Alive](https://open.spotify.com/track/4IlOyxGATYUp7YVy5zrSW8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:41 | 2021-08-31 | 2021-09-02 |
+| [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-14 |  |
 | [King Of Drill](https://open.spotify.com/track/4qoWCP9L34XmwIU3JD183J) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Centaur](https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb) | 2:13 | 2022-11-26 | 2022-11-28 |
 | [Kira](https://open.spotify.com/track/2VidPtBBYDTGB5pVTFgLDR) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Kira](https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4) | 3:26 | 2022-03-26 | 2022-03-30 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2022-01-03 |
@@ -744,7 +745,7 @@
 | [samurai jack](https://open.spotify.com/track/48xnYOx5eaacXCiofNDHq5) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [L.V\. Pattern](https://open.spotify.com/album/1RSLUq6ballnsOwuLhNU0o) | 3:15 | 2021-08-08 | 2021-08-09 |
 | [Sangele Frate Nu Te Face](https://open.spotify.com/track/3DBLUk2LjwjBak3dN3qvRz) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Sangele Frate Nu Te Face](https://open.spotify.com/album/4nCUpEPuE7nyUAnEAf4ewL) | 2:58 | 2022-09-16 | 2022-11-17 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6a1hzBiTkgqTsDA0Xgfh9z) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Merry Christmas](https://open.spotify.com/album/3w6QeihCf2l0zZMBLagxDj) | 2:23 | 2021-12-25 | 2021-12-27 |
-| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-07 |  |
+| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-07 | 2022-12-15 |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:25 | 2021-12-25 | 2021-12-27 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2022-05-26 |
 | [Savana](https://open.spotify.com/track/4BJsV9Iu4sJphgvAyDxfkp) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [Savana](https://open.spotify.com/album/73ptPb6GTjOCkxsPqJxfjr) | 2:56 | 2021-03-27\* | 2021-09-29 |
@@ -842,7 +843,7 @@
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-09-10 | 2022-09-12 |
 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-03 | 2022-09-09 |
 | [Tarabanele](https://open.spotify.com/track/4xd1Qg8JbuxXAc5fJQI5P5) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Tarabanele](https://open.spotify.com/album/67YC8J0gFPkCicN0V830Hr) | 2:19 | 2022-05-05 | 2022-06-25 |
-| [Tarabanele](https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Most Wanted](https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK) | 2:19 | 2022-06-24 | 2022-12-13 |
+| [Tarabanele](https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Most Wanted](https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK) | 2:19 | 2022-06-24 |  |
 | [Tarentinø \- Freestyle](https://open.spotify.com/track/36SIezxBjFcsQzJxP3dBji) | [Ørigami](https://open.spotify.com/artist/12QGQurwdGUtXCAPGrFoO5) | [Tarantinø \(Freestyle\)](https://open.spotify.com/album/6XWHi0A2TimLUUPNNpz70y) | 2:25 | 2022-09-11 | 2022-09-19 |
 | [Te cari](https://open.spotify.com/track/0ooMW6bItdA0PxiGNSsoy5) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Te cari](https://open.spotify.com/album/72GhKHdyty7noFIt57uMSR) | 3:28 | 2021-12-15 | 2021-12-25 |
 | [TE SUN](https://open.spotify.com/track/4kQ4Sk47IeG6fAQkNCQVs6) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [TRAUME & COȘMARURI](https://open.spotify.com/album/4sCBowHBMloinktllMpNn2) | 3:03 | 2022-10-22 |  |

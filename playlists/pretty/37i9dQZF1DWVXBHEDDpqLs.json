@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 24298,
+  "num_followers": 24324,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg4Mzg3MCwwMDAwMDAwMDMxYTNjZDRiNGJhZmQ4YWFlYzI4MjA3N2QzOTJiYjE5",
+  "snapshot_id": "MTY3MDg4Mzg3MCwwMDAwMDAwMDI5MmRiZjhkZjRjMTE3MzQ2ZmI2NzVmNTQwODQwYzAy",
   "tracks": [
     {
       "added_at": "2022-12-12 22:24:30",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7GpVLC51Y15iAOakNjmxP9"
-      },
-      "artists": [
-        {
-          "name": "Patrick",
-          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3EinJKmldBC1cQ9rVDiHEp"
-    },
-    {
-      "added_at": "2022-12-12 22:24:30",
-      "album": {
         "name": "Eyes On Me (Solardo Remix)",
         "url": "https://open.spotify.com/album/3t7TCJ10JcLJR6ZYqbRONr"
       },
@@ -1947,6 +1927,38 @@
       "duration_ms": 150929,
       "name": "Eyes On Me - Solardo Remix",
       "url": "https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U"
+    },
+    {
+      "added_at": "2022-12-12 22:24:30",
+      "album": {
+        "name": "Bombtrack (Roska Remix)",
+        "url": "https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C"
+      },
+      "artists": [
+        {
+          "name": "andrew",
+          "url": "https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr"
+        },
+        {
+          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
+          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
+        },
+        {
+          "name": "PEAVIS",
+          "url": "https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe"
+        },
+        {
+          "name": "Saint Vega",
+          "url": "https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc"
+        },
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        }
+      ],
+      "duration_ms": 268057,
+      "name": "Bombtrack (Roska Remix)",
+      "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
     },
     {
       "added_at": "2022-12-12 22:24:30",
@@ -1983,34 +1995,26 @@
     {
       "added_at": "2022-12-12 22:24:30",
       "album": {
-        "name": "Bombtrack (Roska Remix)",
-        "url": "https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C"
+        "name": "RDT (Detroit In Effect Remix)",
+        "url": "https://open.spotify.com/album/2vSI18uHpVU7cnep6ioDv4"
       },
       "artists": [
         {
-          "name": "andrew",
-          "url": "https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr"
+          "name": "Big Dope P",
+          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
         },
         {
-          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
-          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
         },
         {
-          "name": "PEAVIS",
-          "url": "https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe"
-        },
-        {
-          "name": "Saint Vega",
-          "url": "https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc"
-        },
-        {
-          "name": "Roska",
-          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+          "name": "Detroit In Effect",
+          "url": "https://open.spotify.com/artist/4eS7SDEGahGi0jQjrAC7gJ"
         }
       ],
-      "duration_ms": 268057,
-      "name": "Bombtrack (Roska Remix)",
-      "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
+      "duration_ms": 173000,
+      "name": "RDT - Detroit In Effect Remix",
+      "url": "https://open.spotify.com/track/5Tel96YhCtK8jdNb3S92hO"
     }
   ],
   "unique_name": "Global Club Music",

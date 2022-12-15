@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,507 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,553 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Máquina do Tempo](https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 3:50 |
 | 2 | [M4](https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [M4](https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3) | 2:50 |
-| 3 | [Luxúria](https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Matuê](https://open.spotify.com/artist/3GWrFBnQYNEJcoLUCc34hV) | [Pecado Capital](https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3) | 3:05 |
+| 3 | [Luxúria](https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Pecado Capital](https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3) | 3:05 |
 | 4 | [War](https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial](https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U) | 2:32 |
 | 5 | [Mds](https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Mds](https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX) | 2:05 |
 | 6 | [777\-666](https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:44 |

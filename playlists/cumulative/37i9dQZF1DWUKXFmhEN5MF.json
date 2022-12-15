@@ -1407,28 +1407,6 @@
     {
       "album": {
         "name": "Cocktail",
-        "url": "https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui"
-      },
-      "artists": [
-        {
-          "name": "Neeraj Shridhar",
-          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
-        },
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        }
-      ],
-      "date_added": "2021-11-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 282012,
-      "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
-      "url": "https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47"
-    },
-    {
-      "album": {
-        "name": "Cocktail",
         "url": "https://open.spotify.com/album/6Wu6m82JvVQvsa3kRhRebR"
       },
       "artists": [
@@ -1447,6 +1425,32 @@
       "duration_ms": 282012,
       "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
       "url": "https://open.spotify.com/track/4pE05HNzmVFGpCOfNKE3w6"
+    },
+    {
+      "album": {
+        "name": "Cocktail",
+        "url": "https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui"
+      },
+      "artists": [
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282012,
+      "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
+      "url": "https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47"
     },
     {
       "album": {

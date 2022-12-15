@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Rave and whine to the best of Soca with Nadia Batson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,105 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,136 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 19 | [Feel The Love](https://open.spotify.com/track/2XYPHD71AlPDFekVePLSC7) | [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [Feel The Love](https://open.spotify.com/album/43pDCKtWtKOUDYxUZkwPCP) | 3:27 |
 | 20 | [Dear Promoter](https://open.spotify.com/track/4WMQmMmceazgRSRr7har02) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Dear Promoter](https://open.spotify.com/album/4ChVmq8YxUPa0F6oaAXkiW) | 4:04 |
 | 21 | [Vent](https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp), [International Stephen](https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6) | [Vent](https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc) | 3:45 |
-| 22 | [A Love Note to Carnival](https://open.spotify.com/track/4PZhNZLBpgqg6OCirQvoj6) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [A Love Note to Carnival](https://open.spotify.com/album/7AakuFywRKGoe2Zh3cI0JQ) | 3:33 |
+| 22 | [A Love Note to Carnival](https://open.spotify.com/track/058KUt42iPN32HBxHXCOJh) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [A Love Note to Carnival](https://open.spotify.com/album/1vMBHXiznIFvruxVrHgmjG) | 3:33 |
 | 23 | [Play Harder](https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:39 |
 | 24 | [Captain](https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Captain](https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6) | 3:50 |
 | 25 | [Rum And Soca](https://open.spotify.com/track/1eIzpFnHthxY4lIE9QStVm) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Rum And Soca](https://open.spotify.com/album/36hTVbdi17Acx7ZGMXWc4O) | 3:37 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 37 | [I Doh Have](https://open.spotify.com/track/2psAPBHRdrNj37su3Mi3te) | [Temptress](https://open.spotify.com/artist/45xndDWmcOjP2kCdHQ2au1) | [I Doh Have](https://open.spotify.com/album/7sk2QL3mqSeFcVp6qnghQT) | 2:48 |
 | 38 | [Hot Gyal SZN](https://open.spotify.com/track/6obwvBYN4XLB1MoUVCofK0) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 2:41 |
 | 39 | [Drink to Dat](https://open.spotify.com/track/5zTfojcQTaMHhT4auLiysR) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 3:10 |
-| 40 | [Scrub It Down](https://open.spotify.com/track/6s7a7t3vVQ0zrWwkJSgBFC) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Scrub It Down](https://open.spotify.com/album/2T08jTpwFdhTjXQjYD8zPf) | 3:17 |
+| 40 | [Scrub It Down](https://open.spotify.com/track/6tpmqzWDo19ToePsWlrIqc) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Scrub It Down](https://open.spotify.com/album/2MMXokXLbQ9ZyOsQUXw1JZ) | 3:17 |
 | 41 | [Counting My Blessings](https://open.spotify.com/track/1s4ylywE7r3IlLi8wFeuaj) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Don Iko](https://open.spotify.com/artist/0v8SYPtnsz0VJNU1qmA2yU) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:06 |
 | 42 | [First Fete](https://open.spotify.com/track/45JWRO1iDr4jkhpXSxMXVG) | [Marvelus](https://open.spotify.com/artist/5p6jMuErecfkJtueqF72zo), [Nadia Batson](https://open.spotify.com/artist/6aEtv45FW57jvZXOwbJgF0) | [Daruma Riddim](https://open.spotify.com/album/5Nats3Xv3emqbAvaXsBd7K) | 3:30 |
 | 43 | [Soca Feeling \(Push Back\)](https://open.spotify.com/track/0bw66x6M9FioHJ9WeasFme) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj) | [Soca Feeling \(Push Back\)](https://open.spotify.com/album/150tSOyXlQDI9RFFafG2yO) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 49 | [Rollin](https://open.spotify.com/track/2R27w3AVAkLBsaXVuVRB2u) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:16 |
 | 50 | [Coming Back Fuh Yuh](https://open.spotify.com/track/0btmu6nRf1fFcwAipBj9B6) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Hot Sun Riddim](https://open.spotify.com/album/3pPDSVI0PB9SZPpAiRLqw5) | 2:28 |
 
-Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMDlhNTc4MThkMDBiY2QzN2UwN2Q1NDU2OTY0YzMwNDgx`
+Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMGJhM2JjZjFlMWYzZTk4NjBjYjMzNTlhYTNlZTZmMTll`

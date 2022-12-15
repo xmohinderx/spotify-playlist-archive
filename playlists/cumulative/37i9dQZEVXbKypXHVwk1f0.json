@@ -2299,7 +2299,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 191775,
       "name": "Cool",
       "url": "https://open.spotify.com/track/2Hm8cQ4wTfNfjoBj2lqBdX"
@@ -2415,7 +2415,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 174153,
       "name": "Cumbiaton Mexa",
       "url": "https://open.spotify.com/track/0BakJchpLPMO9eVYW6V6k7"
@@ -2503,17 +2503,17 @@
           "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
         },
         {
-          "name": "Drei Alva",
-          "url": "https://open.spotify.com/artist/6AVIeFa086ZaYFspAj7fNz"
-        },
-        {
           "name": "Legado ARM",
           "url": "https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe"
+        },
+        {
+          "name": "Drei Alva",
+          "url": "https://open.spotify.com/artist/6AVIeFa086ZaYFspAj7fNz"
         }
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 143971,
       "name": "Darte",
       "url": "https://open.spotify.com/track/01mWlpEyZqCGhBux8Dzgwv"
@@ -6079,7 +6079,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 212453,
       "name": "Las Cartas",
       "url": "https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL"
@@ -7185,7 +7185,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 190749,
       "name": "Me Vas a Recordar",
       "url": "https://open.spotify.com/track/5oL6fZD5C2Yhw2jiiV2vIW"
@@ -9225,6 +9225,32 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u"
+    },
+    {
+      "album": {
+        "name": "Perreando Tra Tra",
+        "url": "https://open.spotify.com/album/6LEmS4V7I1S2S1XvCN4aLr"
+      },
+      "artists": [
+        {
+          "name": "BM Legacy",
+          "url": "https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q"
+        },
+        {
+          "name": "Ale Mix",
+          "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
+        },
+        {
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150035,
+      "name": "Perreando Tra Tra",
+      "url": "https://open.spotify.com/track/5SE3xOoQQCtamCOxXGHi7Q"
     },
     {
       "album": {

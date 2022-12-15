@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Sick Luke
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,108 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,173 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 8 | [Problèmes](https://open.spotify.com/track/6wdpb17i1FDIexi6x1vTke) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Problèmes](https://open.spotify.com/album/4TgBFy1SSFw7m5lhx2wut6) | 2:19 |
 | 9 | [Cup](https://open.spotify.com/track/5tZLWsGOFHRBxZ96ZRe67z) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:47 |
 | 10 | [Giorni Contati \(con Paky, Noyz Narcos, Geolier & Shiva\)](https://open.spotify.com/track/6QjpEvmiZIM9qgTQhg5dzi) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:52 |
-| 11 | [NELLA CASA DI DIO \(feat\. Tony Effe, Paky & J Lord\)](https://open.spotify.com/track/06x5M09XW6kUQAfk5RIsQY) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 3:01 |
+| 11 | [NELLA CASA DI DIO \(feat\. Tony Effe, Paky & J Lord\)](https://open.spotify.com/track/0ZUbfpKnLJrbcySAfFPIcN) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 3:01 |
 | 12 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 |
 | 13 | [Rollie AP \(feat\. Pyrex & Slings\)](https://open.spotify.com/track/63udU8F2jbjyys9BpVgPdU) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:59 |
 | 14 | [Compare \(feat\. Lazza & Guè\)](https://open.spotify.com/track/6OR6CqkAWNK6rr7gmfpJNK) | [Cancun](https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CANCUN](https://open.spotify.com/album/6dfFlS3ruKbUsuLVpLfzXe) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [BU!](https://open.spotify.com/track/52Q2Ocg7mAG5B9LZ1szKoQ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:25 |
 | 50 | [Jersey](https://open.spotify.com/track/2vOWK3QixZ8Gab7S9vL6RS) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Jersey](https://open.spotify.com/album/29Q9PF20p26NQMIlafoXdI) | 2:18 |
 
-Snapshot ID: `MTY3MDgzNTU5MCwwMDAwMDAwMGQ1YWU1YThkMDY3NDFhNWMwM2VkYTdjMGQzNzIzZDNm`
+Snapshot ID: `MTY3MDgzNTU5MCwwMDAwMDAwMDY3NmZkYmQ2ZTBlZTExYmIzMmFiMjJhMmZlNDZiMGY3`

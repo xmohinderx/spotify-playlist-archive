@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKCtaSy7i9R.md) - [plain]
 
 > Quiet mornings, wake up early and take a moment with nature for a positive start of your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 38 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 38 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

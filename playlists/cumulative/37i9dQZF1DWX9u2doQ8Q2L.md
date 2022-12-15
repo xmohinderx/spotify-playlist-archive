@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-456 songs - 1 day 4 hr 37 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+457 songs - 1 day 4 hr 40 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Extraordinary Storyteller](https://open.spotify.com/track/3P93crmFk4Ry6CwXUfFavO) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [Extraordinary Storyteller](https://open.spotify.com/album/7j7MDmKrqEXpOpaBRzhRNC) | 2:51 | 2022-07-28 | 2022-08-17 |
 | [Eyes on Me](https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Eyes on Me](https://open.spotify.com/album/0GICag7B018NZ3qZdEKsso) | 3:34 | 2022-11-08 | 2022-11-16 |
 | [Fire and Gold](https://open.spotify.com/track/4QBs4j1pzocVbVmsnw2jCA) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Fire and Gold](https://open.spotify.com/album/7AgDuTh3DKHTie5WqQB1b7) | 3:02 | 2022-05-26 | 2022-06-01 |
-| [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Utada Hikaru](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2022-12-08 |  |
+| [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2022-12-08 |  |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2022-07-12 | 2022-08-25 |
 | [FOG](https://open.spotify.com/track/3rpdmGoD12xblXFiTyKyFF) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [FOG](https://open.spotify.com/album/5Fi9k1K3IBJV3W7x6FDDTi) | 3:22 | 2022-05-26 | 2022-06-01 |
 | [FOREVER](https://open.spotify.com/track/217wGZ7qxq9Id0JjlZhw2V) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [FOREVER](https://open.spotify.com/album/6VARq97kNwGMDwNOJdAfHv) | 3:51 | 2022-05-26 | 2022-06-15 |
@@ -181,7 +181,8 @@
 | [Me Today](https://open.spotify.com/track/0NFUUAKVL0d6SpqJVwwGNx) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw) | [Me Today](https://open.spotify.com/album/2v2LNb7ZDI1jVJc90P1NvQ) | 2:30 | 2022-11-29 | 2022-12-14 |
 | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/track/5ExfTiWAHvxG03Kq9zrjBn) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD), [井口理](https://open.spotify.com/artist/573aEcIHzIyX9guZtasykj) | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/album/6l85wjdD63ne29466jIuOV) | 4:05 | 2022-05-26 | 2022-06-29 |
 | [Michael Mann](https://open.spotify.com/track/4jq0Xk5OSi22HpG8gaVy63) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [Michael Mann](https://open.spotify.com/album/1Pd279AVlduDEAkk8Pagvm) | 5:28 | 2022-10-11 | 2022-10-21 |
-| [Midnight Inclusion](https://open.spotify.com/track/6Q1azlryOoKMGl8hOTL6oY) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Midnight Inclusion](https://open.spotify.com/album/6peKRsEDyhcbArzx9S0RWl) | 3:44 | 2022-12-13 |  |
+| [Midnight Inclusion](https://open.spotify.com/track/3MqWoxJK7lI4f1o97RChHs) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Midnight Inclusion](https://open.spotify.com/album/07qpfnsM4dhv0bRUe187Ut) | 3:44 | 2022-12-13 |  |
+| [Midnight Inclusion](https://open.spotify.com/track/6Q1azlryOoKMGl8hOTL6oY) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Midnight Inclusion](https://open.spotify.com/album/6peKRsEDyhcbArzx9S0RWl) | 3:44 | 2022-12-13 | 2022-12-15 |
 | [Midnight Train](https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner) | [Keisuke Murakami](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Midnight Train](https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC) | 3:39 | 2022-10-25 | 2022-11-02 |
 | [Midnight Train](https://open.spotify.com/track/3jaZ0zYnnidsLD9qlDMPRp) | [Murakami Keisuke](https://open.spotify.com/artist/34EzrWHspo4wT6YmLjE0IH) | [Midnight Train](https://open.spotify.com/album/7AH6O5WhlOlODKPvlHaurH) | 3:39 | 2022-10-25 | 2022-10-27 |
 | [Milkshake](https://open.spotify.com/track/1l2vMP0Cov7ogJOF2l6MXm) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Milkshake](https://open.spotify.com/album/1T9A30JUrolQtPiDHxwDiG) | 3:42 | 2022-09-06 | 2022-10-12 |
@@ -407,7 +408,7 @@
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-21 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-11-02 |  |
-| [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Utada Hikaru](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 | 2022-12-08 |  |
+| [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 | 2022-12-08 |  |
 | [北酒場 \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/6RPLd7T2Viv2MCXJp9lcQm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Takashi Hosokawa](https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac) | [北酒場 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/album/4fE21MtzOKLym1kMnkOS66) | 3:35 | 2022-06-30 | 2022-07-27 |
 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-26 | 2022-06-07 |
 | [卒業証書](https://open.spotify.com/track/69ee6Gy8VEF0OSaduyazKM) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [卒業証書](https://open.spotify.com/album/5Q3pEspqecFokYfnN9CEhX) | 2:49 | 2022-08-30 | 2022-09-15 |

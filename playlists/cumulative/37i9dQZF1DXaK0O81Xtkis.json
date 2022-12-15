@@ -1861,10 +1861,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 163543,
       "name": "Destination",
       "url": "https://open.spotify.com/track/49JXBEa33UUqVb0sdiGIQS"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/0rp4hHB8wUkhM5z3bVZWc5"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163543,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/6UdTm1JRcm4c5iKTWANe9Q"
     },
     {
       "album": {

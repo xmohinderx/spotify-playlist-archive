@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Babyface Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,409 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,408 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 43 | [PPL](https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [PPL](https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk) | 3:14 |
 | 44 | [PIXEL](https://open.spotify.com/track/0sMP2TbaRNt4s2bGFoSoki) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [PIXEL](https://open.spotify.com/album/1zAc4zae8I9OD6liUsw6h2) | 2:46 |
 | 45 | [Cam Girl](https://open.spotify.com/track/1KLTlh8o4S8Npf3ZjYAVIQ) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Damonte](https://open.spotify.com/artist/5Xl3OVkTRISilm3m1LWcji) | [Cam Girl](https://open.spotify.com/album/0CatIjYv08Ij0RULvLVDPW) | 3:03 |
-| 46 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 |
+| 46 | [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 |
 | 47 | [Phone Static](https://open.spotify.com/track/5NZP8Sh5HsVVO83uxLfZkA) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Phone Static](https://open.spotify.com/album/411vVjpFLMiyash5GTxUxE) | 3:02 |
 | 48 | [Crystal Cadillac](https://open.spotify.com/track/2WSvjuF9EdlvpxHP250vyP) | [Mother Nature](https://open.spotify.com/artist/26ZWUilLv1qNvIdoBgq990) | [Crystal Cadillac](https://open.spotify.com/album/4pjgoQi1exDicEnUzR9jl2) | 3:07 |
 | 49 | [Snow Cones](https://open.spotify.com/track/5CFDY0ongHhmVWSwkgZqkl) | [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi) | [Snow Cones](https://open.spotify.com/album/4Zl1QD4pz3CqUR1lGDSdAr) | 4:00 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 60 | [Could Be Worse](https://open.spotify.com/track/6Qi1FtNmI22d5veYYShIHb) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Futurewave](https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz) | [Could Be Worse](https://open.spotify.com/album/00u2SEC6JzaYfoZinJGJqp) | 3:41 |
 | 61 | [Pushing Daisies](https://open.spotify.com/track/6Se6G6YlxuRO2Kff8iegDA) | [Heavy Crownz](https://open.spotify.com/artist/0DTvRvWAaKWMFwC2Za2fTU), [Greensllime](https://open.spotify.com/artist/3FKLogeQaNFVe8pq5JzG3i) | [Pushing Daisies](https://open.spotify.com/album/4XW6MJY7Z87xQe9sYCzxBh) | 3:26 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDU4OWEwY2ZhY2M2MmIwOTM3OTVlOTcyYWExZWU4OThl`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGU4MTFkZGJmMDc0OWFjMjhmYzk3MDRiMGYzY2IxZWVm`

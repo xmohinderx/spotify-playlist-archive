@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 142572,
       "name": "Airmode",
       "url": "https://open.spotify.com/track/7JiG627CSJ1qkZHcRWGK76"
@@ -28231,7 +28231,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 130259,
       "name": "Jupiter's Moon",
       "url": "https://open.spotify.com/track/1jyMnfxnWvHj4hbQIPoVnm"
@@ -31501,7 +31501,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 145500,
       "name": "Limitless Romance",
       "url": "https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB"
@@ -31923,6 +31923,28 @@
       "duration_ms": 117841,
       "name": "Locust",
       "url": "https://open.spotify.com/track/1aUm1awY4QGOj7dwjUf5s1"
+    },
+    {
+      "album": {
+        "name": "Arboretum",
+        "url": "https://open.spotify.com/album/2sdi12rXHr4txTYyOJ2pcm"
+      },
+      "artists": [
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        },
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117841,
+      "name": "Locust",
+      "url": "https://open.spotify.com/track/5MaPFUOETqvw2bNIAuJkTP"
     },
     {
       "album": {
@@ -38095,7 +38117,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 156166,
       "name": "Nepumuk",
       "url": "https://open.spotify.com/track/42cvFa54LCJyL95GEGVU8N"
@@ -51583,7 +51605,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 137000,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms"
@@ -53473,7 +53495,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 123029,
       "name": "Sumiko",
       "url": "https://open.spotify.com/track/2ZQkmodS23AF709jXorCT6"
@@ -64269,7 +64291,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 170539,
       "name": "WorkinOnIt",
       "url": "https://open.spotify.com/track/6LWGINtQbDX9tdfQDIAmNJ"

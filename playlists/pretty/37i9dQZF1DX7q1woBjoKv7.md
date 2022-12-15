@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Saweetie
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,145 likes - 59 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,149 likes - 59 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 9 | [Burpees](https://open.spotify.com/track/5WD5g7tYyq19mRgyFRtSUv) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [Burpees](https://open.spotify.com/album/61JX6PxXt6rQ1UzluiHXNv) | 2:45 |
 | 10 | [One of Those \(feat\. Eric Bellinger\)](https://open.spotify.com/track/0ETolSQSlLWgoc7HRnXSzJ) | [Nieman J](https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [One of Those \(feat\. Eric Bellinger\)](https://open.spotify.com/album/00uubRZtJFzz0eJx863yhb) | 2:14 |
 | 11 | [killstreaks \(with Don Toliver & PinkPantheress\)](https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:35 |
-| 12 | [PMTWGR \(feat\. NCognita & KT\)](https://open.spotify.com/track/3pBXAfDGB0Pz7nb8t4niNH) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj), [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI), [KT](https://open.spotify.com/artist/57iZ4HvaVKP7d3RxScmquK) | [PMTWGR \(feat\. NCognita & KT\)](https://open.spotify.com/album/3JpiIHgtV0RtAW4l9h656F) | 2:58 |
+| 12 | [Pussy Makes the World Go Round \(PMTWGR\) \(feat\. NCognita & KT\)](https://open.spotify.com/track/3pBXAfDGB0Pz7nb8t4niNH) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj), [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI), [KT](https://open.spotify.com/artist/57iZ4HvaVKP7d3RxScmquK) | [Pussy Makes the World Go Round \(PMTWGR\) \(feat\. NCognita & KT\)](https://open.spotify.com/album/3JpiIHgtV0RtAW4l9h656F) | 2:58 |
 | 13 | [Wrap Me Up](https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 3:34 |
 | 14 | [Abeg](https://open.spotify.com/track/6oytl8EePHa4CRuaBfzJgD) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Abeg](https://open.spotify.com/album/4f5jNZ01xZqrhH0FszjrWf) | 4:13 |
 | 15 | [Obsession \(feat\. Muni Long\) \- Remix](https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Obsession \(feat\. Muni Long\) \[Remix\]](https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1) | 3:21 |

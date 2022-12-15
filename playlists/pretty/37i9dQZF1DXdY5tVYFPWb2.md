@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,133 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,219 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 2 | [夏夜のマジック](https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME TOWN \~Cover Songs\~](https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi) | 5:04 |
 | 3 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 |
 | 4 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 |
-| 5 | [Midnight Inclusion](https://open.spotify.com/track/6Q1azlryOoKMGl8hOTL6oY) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Midnight Inclusion](https://open.spotify.com/album/6peKRsEDyhcbArzx9S0RWl) | 3:44 |
+| 5 | [Midnight Inclusion](https://open.spotify.com/track/3MqWoxJK7lI4f1o97RChHs) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Midnight Inclusion](https://open.spotify.com/album/07qpfnsM4dhv0bRUe187Ut) | 3:44 |
 | 6 | [SPARKLE](https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe) | [CITY POP LOVERS](https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48) | 5:39 |
 | 7 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 |
 | 8 | [フライディ・チャイナタウン \- English Version](https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [フライディ・チャイナタウン \(English Version\)](https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF) | 3:31 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 45 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
 | 46 | [Taxi driver](https://open.spotify.com/track/081aH87V7FfLfGoenHYBQE) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Taxi driver](https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c) | 3:49 |
 | 47 | [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 |
-| 48 | [播磨無呼吸症候群](https://open.spotify.com/track/75nV8OPII60tvnNTIV4kxf) | [ちたへんりー](https://open.spotify.com/artist/6xSuKSmaiLEgoRt2tHeL1R) | [播磨無呼吸症候群](https://open.spotify.com/album/5Z1t3D7IGeYtueUlGQpqsO) | 3:07 |
+| 48 | [Harima Mukokyu Shokogun](https://open.spotify.com/track/5HkVN4yB2mxXYhKgZkjyxR) | [Thitta Henry](https://open.spotify.com/artist/1m5QjIs80kL67XCMc9eNMs) | [Harima Mukokyu Shokogun](https://open.spotify.com/album/0a3N59jEhslrwl0jchiwHu) | 3:07 |
 | 49 | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE) | 4:18 |
 | 50 | [シューズは脱がないで](https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [シューズは脱がないで](https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ) | 4:08 |
 | 51 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 57 | [Christmas Is All Yours](https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Christmas Is All Yours](https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7) | 3:28 |
 | 58 | [Darling Dear](https://open.spotify.com/track/5S2eRGQVvX8DgcZJWr6szm) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [Darling Dear](https://open.spotify.com/album/3uq3EylPq0MO2AURJsPuyR) | 3:51 |
 | 59 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 |
-| 60 | [みつめていて](https://open.spotify.com/track/1trAsw2XABwtg23qkkEkAB) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [みつめていて](https://open.spotify.com/album/3TlbwxvxsGJB3Sa98fwZxH) | 3:39 |
+| 60 | [Don't look at me ..\. \(but stare at me\)](https://open.spotify.com/track/4HtQwv2GQxntfh5JscAgrN) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [Don't look at me ..\. \(but stare at me\)](https://open.spotify.com/album/6PUr351rJFnKmkSGyqEZ3G) | 3:39 |
 | 61 | [HONDA](https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [HONDA](https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN) | 3:59 |
 | 62 | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ) | 3:46 |
 | 63 | [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [FLOWERS](https://open.spotify.com/track/2EiA587apVmlS9wbch4vti) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [FLOWERS](https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC) | 3:47 |
 | 100 | [STEP IT](https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/50zbhHNA9zNyC0zVcVUPzx) | 3:40 |
 
-Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMGU2ZmNmMDdjYTY0Mjk0MDVhOGE4ODY4OTkzMTRjNWE1`
+Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMDIzZWZjM2U4ODQ4MGJlMzQzZGE0YzZiZTE4YzdkMTZi`

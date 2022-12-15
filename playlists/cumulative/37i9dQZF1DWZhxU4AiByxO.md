@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-274 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+275 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [I Love Me](https://open.spotify.com/track/6Rc4uKmM2F7kduAxGz33IZ) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 18](https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO) | 3:22 | 2022-07-28 |  |
 | [I See Love \- From Hotel Transylvania 3](https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [I See Love \(From Hotel Transylvania 3\)](https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav) | 2:53 | 2021-10-22 |  |
 | [I'm a Lady \- from SMURFS: THE LOST VILLAGE](https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'm a Lady \(from SMURFS: THE LOST VILLAGE\)](https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5) | 2:44 | 2021-10-22 |  |
-| [I'm a Queen!](https://open.spotify.com/track/14fryYBqFtKMaf3EurIYS8) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [REMIX](https://open.spotify.com/album/21YDi9aNdn9TmMm5GBqB0o) | 3:22 | 2021-10-22 |  |
+| [I'm a Queen!](https://open.spotify.com/track/14fryYBqFtKMaf3EurIYS8) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [REMIX](https://open.spotify.com/album/21YDi9aNdn9TmMm5GBqB0o) | 3:22 | 2021-10-22 | 2022-12-15 |
+| [I'm a Queen!](https://open.spotify.com/track/57beMhGiLzP1sfJqBNr5Yl) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Remix](https://open.spotify.com/album/0NSAoiqAnyws6UzcYaCbV2) | 3:22 | 2022-11-23 |  |
 | [I'm The One](https://open.spotify.com/track/06jztPU588TNOWHF76q3UK) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 36](https://open.spotify.com/album/7CdyApdN5Hamda6NepONvs) | 2:27 | 2022-07-28 |  |
 | [I'm The One](https://open.spotify.com/track/5kMFdjmxkTiSXVdNmya2Cn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 36](https://open.spotify.com/album/2Xi6aup0aqqpXqpHNYi2oU) | 2:27 | 2021-10-22 | 2022-07-29 |
 | [Ice Cream Cold](https://open.spotify.com/track/2cM51OR8phKliFlV3Expx7) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby](https://open.spotify.com/album/3KS3og9IOPO3b4lypBkHaQ) | 1:43 | 2021-10-22 | 2022-07-29 |

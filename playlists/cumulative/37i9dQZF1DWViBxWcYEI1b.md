@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Alexander Stewart
 
-498 songs - 1 day 3 hr 56 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
+499 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Counterfeit Love](https://open.spotify.com/track/0Mqt5UD2SCi8Qd6pvaJupU) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Counterfeit Love](https://open.spotify.com/album/6EjWmcLTiMjVa57CxfyIBa) | 3:04 | 2022-04-08 | 2022-08-27 |
 | [Cowboy Stay](https://open.spotify.com/track/4ektwEWFmKsJ5rULHKJfPu) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Cowboy Stay](https://open.spotify.com/album/2NxdmeKvsjFcUVEevFuFs5) | 2:38 | 2022-07-22 | 2022-11-12 |
 | [Crazy](https://open.spotify.com/track/27q9YbWcDoDJR7RiTDcLJy) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [Crazy](https://open.spotify.com/album/0an4YYgGk5jWXvEgU4XZ1C) | 3:45 | 2021-12-17 | 2022-06-25 |
-| [criminal](https://open.spotify.com/track/3uJ6LonaZHCqjlQ6vevlqn) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0XUvbobEmBV6fALSvl7V28) | 2:37 | 2022-10-21 |  |
+| [criminal](https://open.spotify.com/track/3uJ6LonaZHCqjlQ6vevlqn) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0XUvbobEmBV6fALSvl7V28) | 2:37 | 2022-10-21 | 2022-12-15 |
+| [criminal](https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5) | 2:37 | 2022-12-09 |  |
 | [Cross Your Mind](https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:32 | 2022-06-20 |  |
 | [Crossed Wires](https://open.spotify.com/track/3qxhvx0fN9n2qmLOvvSJdB) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Crossed Wires](https://open.spotify.com/album/2HmAD3gWMZieKs02oDodWE) | 3:05 | 2022-02-18 | 2022-06-18 |
 | [Crowded Room](https://open.spotify.com/track/08gruHjc8xpZkn9iBtehPo) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Crowded Room](https://open.spotify.com/album/5eY17uKHYXR9cb3ufRwIUm) | 3:28 | 2021-12-17 | 2022-07-02 |

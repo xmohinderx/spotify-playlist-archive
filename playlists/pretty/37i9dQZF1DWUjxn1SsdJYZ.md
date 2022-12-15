@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Lisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,066 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,106 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 22 | [Big Swish](https://open.spotify.com/track/1nFoESb6X0tnPE5k5LsjSJ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Big Swish](https://open.spotify.com/album/6CSH4EtK7Lkby5G7pvKgPj) | 1:23 |
 | 23 | [COME UP \(feat\. Day1\)](https://open.spotify.com/track/0Utkkycc0zoHoxljF4SwKE) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [COME UP \(feat\. Day1\)](https://open.spotify.com/album/6bW9BZAQJ1Hi7P855mPSNG) | 2:42 |
 | 24 | [Turn It Up](https://open.spotify.com/track/6D6ghyjtC8rPi8Doxkfhf4) | [Queen P](https://open.spotify.com/artist/1JKAFpIowahk3avPsMkGp2) | [Turn It Up](https://open.spotify.com/album/1OJjnsjPgFKaOwzo1YtnSB) | 2:36 |
-| 25 | [RUN](https://open.spotify.com/track/2obwSnm1fSr4lpDC5b1IT1) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh) | [RUN](https://open.spotify.com/album/6MeJtV9EGSD5dMlAYhCCYk) | 2:50 |
+| 25 | [RUN](https://open.spotify.com/track/2oyWAosM0IuBZfepiqPh5R) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh) | [RUN](https://open.spotify.com/album/6REbWlrE7Z3VwEVIfwTt5v) | 2:50 |
 | 26 | [TRENDY](https://open.spotify.com/track/5ns15BHFfxQC5cDRaP951h) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n) | [TRENDY](https://open.spotify.com/album/2bOkm96p7jVZIQ5yteIk7B) | 2:01 |
 | 27 | [Broken Man](https://open.spotify.com/track/7IFNaTtkbdvpehI09jfEGY) | [Chill Bne](https://open.spotify.com/artist/4BLQGMIFpY7oMCAJ1OD9fs) | [Broken Man](https://open.spotify.com/album/0gJMvZGgM1ZDY2cbojyeV3) | 2:45 |
 | 28 | [IN THE MOOD](https://open.spotify.com/track/3ayoMoC4HC8RH3r07Qq4uo) | [JAY DIAMOND](https://open.spotify.com/artist/77uMRjpxZSpZOdxVVE8paR) | [IN THE MOOD](https://open.spotify.com/album/0GESCfK9MbheanzTdbChEZ) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 |
 | 100 | [Bad Boy](https://open.spotify.com/track/0w2INg5RVukivGRp9QYnGC) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb) | [Bad Boy](https://open.spotify.com/album/3Hj6q9U1TnpeRZCOvF8C0u) | 3:37 |
 
-Snapshot ID: `MTY3MDUwNDQwMCwwMDAwMDAwMDYyNDY0MmEzN2Y0NDVhMjBkOGU1YzIyM2M0MTgzNTRl`
+Snapshot ID: `MTY3MDUwNDQwMCwwMDAwMDAwMDRhOWIwNGQ1Y2Y5MDA1NTkxNjIzZjYxOTk5ZTlmMWY5`

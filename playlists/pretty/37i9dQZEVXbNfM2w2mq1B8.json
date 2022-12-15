@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI0MjQ2ODY3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI0MzMyMjgwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "Alcohol",
         "url": "https://open.spotify.com/album/57UKx4LXqW0P7PmT9OHXw8"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1Oxshg4204lRdcogzvdP4x"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "7 Dni",
         "url": "https://open.spotify.com/album/0YQhcMLoLUsXyg2veNuj8H"
@@ -89,43 +89,7 @@
       "url": "https://open.spotify.com/track/56dILgPraSNLKcd89hxXaq"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 II",
-        "url": "https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r"
-      },
-      "artists": [
-        {
-          "name": "FYRE",
-          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "\u0417\u0434\u0440\u0430\u0432. \u042f\u043a. \u0421\u0438\u043b\u0435\u043d. \u0421\u0442\u0430\u0431\u0438\u043b\u0435\u043d.",
-      "url": "https://open.spotify.com/track/63eILLgSzmw8bqq2wBYaXz"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -149,31 +113,43 @@
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 207306,
-      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 II",
+        "url": "https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r"
+      },
+      "artists": [
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "\u0417\u0434\u0440\u0430\u0432. \u042f\u043a. \u0421\u0438\u043b\u0435\u043d. \u0421\u0442\u0430\u0431\u0438\u043b\u0435\u043d.",
+      "url": "https://open.spotify.com/track/63eILLgSzmw8bqq2wBYaXz"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -197,7 +173,47 @@
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "Escapism. (Sped Up)",
         "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
@@ -237,23 +253,55 @@
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -281,23 +329,7 @@
       "url": "https://open.spotify.com/track/5qX0V96jKJ6zC8UImlXKmO"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
@@ -313,39 +345,7 @@
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -361,79 +361,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Krasiv geroy",
-        "url": "https://open.spotify.com/album/4cFfpJg1tx82Z7A7dlJ97v"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        },
-        {
-          "name": "Tsvetelina Yaneva",
-          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
-        }
-      ],
-      "duration_ms": 233881,
-      "name": "Krasiv geroy",
-      "url": "https://open.spotify.com/track/6UyMkM4523bYKwHIIrfuJu"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
@@ -453,23 +381,39 @@
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
-        "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
-        "url": "https://open.spotify.com/album/4S8oWdBdBhTZvSCkTD1d94"
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
       },
       "artists": [
         {
-          "name": "Fiki",
-          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 295657,
-      "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
-      "url": "https://open.spotify.com/track/3FkA5BCzxB4SeQ7fSzUmJE"
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -485,7 +429,43 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "Savarshenstvo",
         "url": "https://open.spotify.com/album/5PRtmyWukKCpVLdTdYiHwg"
@@ -501,91 +481,27 @@
       "url": "https://open.spotify.com/track/5yjBmDMzL4VjPVj4RRp2WD"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/6GNZ5EkrLzHFhKw8R5pzOE"
+        "name": "Krasiv geroy",
+        "url": "https://open.spotify.com/album/4cFfpJg1tx82Z7A7dlJ97v"
       },
       "artists": [
         {
-          "name": "Molec",
-          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6kN80cMcK1Gu1rJ82Xr6vt"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Ustnite ti mrasni",
-        "url": "https://open.spotify.com/album/0YaFAOACGiIuKix5Kwc8fP"
-      },
-      "artists": [
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Ustnite ti mrasni",
-      "url": "https://open.spotify.com/track/2z0cwGTvP2Dqx5p2Ia0c9U"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 II",
-        "url": "https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r"
-      },
-      "artists": [
-        {
-          "name": "FYRE",
-          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
-        }
-      ],
-      "duration_ms": 185006,
-      "name": "\u041c\u043e\u043c\u0447\u0435 \u041e\u0442 \u041d\u0430\u0440\u043e\u0434\u0430",
-      "url": "https://open.spotify.com/track/4EzfqqBm0xS7LHKi7aTw7f"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Tsvetelina Yaneva",
+          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
         }
       ],
-      "duration_ms": 188586,
-      "name": "Raindrops (Insane) [with Travis Scott]",
-      "url": "https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY"
+      "duration_ms": 233881,
+      "name": "Krasiv geroy",
+      "url": "https://open.spotify.com/track/6UyMkM4523bYKwHIIrfuJu"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
@@ -601,7 +517,103 @@
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Ustnite ti mrasni",
+        "url": "https://open.spotify.com/album/0YaFAOACGiIuKix5Kwc8fP"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Ustnite ti mrasni",
+      "url": "https://open.spotify.com/track/2z0cwGTvP2Dqx5p2Ia0c9U"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 II",
+        "url": "https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r"
+      },
+      "artists": [
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        }
+      ],
+      "duration_ms": 186142,
+      "name": "DJIGIT DRILL",
+      "url": "https://open.spotify.com/track/2AhOnoEsRyadG2PQKZlL7T"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/6GNZ5EkrLzHFhKw8R5pzOE"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6kN80cMcK1Gu1rJ82Xr6vt"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/4ClfAxTVXhf4tWdh5knitG"
@@ -621,147 +633,7 @@
       "url": "https://open.spotify.com/track/0Emweh7Q5ErGXCoCNGBBlC"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 II",
-        "url": "https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r"
-      },
-      "artists": [
-        {
-          "name": "FYRE",
-          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
-        }
-      ],
-      "duration_ms": 186142,
-      "name": "DJIGIT DRILL",
-      "url": "https://open.spotify.com/track/2AhOnoEsRyadG2PQKZlL7T"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dina Rae",
-          "url": "https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t"
-        }
-      ],
-      "duration_ms": 350320,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
-        "url": "https://open.spotify.com/album/4d2IGg5C8bhKmfcx3vZboq"
-      },
-      "artists": [
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
-        },
-        {
-          "name": "Azis",
-          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
-        }
-      ],
-      "duration_ms": 167210,
-      "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
-      "url": "https://open.spotify.com/track/3bEbRxixvEVlEVIgvepXcg"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "\u041b\u044e\u0431\u043e\u0432\u0442\u0430 \u0435 \u0433\u0430\u0434\u043d\u043e \u043d\u0435\u0449\u043e",
         "url": "https://open.spotify.com/album/4ime6aoAD6zmPZnP7D5cUF"
@@ -781,7 +653,79 @@
       "url": "https://open.spotify.com/track/4Ev6d2Dbnq51uPUvI2kkbw"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Raindrops (Insane) [with Travis Scott]",
+      "url": "https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
+        "url": "https://open.spotify.com/album/4S8oWdBdBhTZvSCkTD1d94"
+      },
+      "artists": [
+        {
+          "name": "Fiki",
+          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
+        }
+      ],
+      "duration_ms": 295657,
+      "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
+      "url": "https://open.spotify.com/track/3FkA5BCzxB4SeQ7fSzUmJE"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 II",
+        "url": "https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r"
+      },
+      "artists": [
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        }
+      ],
+      "duration_ms": 185006,
+      "name": "\u041c\u043e\u043c\u0447\u0435 \u041e\u0442 \u041d\u0430\u0440\u043e\u0434\u0430",
+      "url": "https://open.spotify.com/track/4EzfqqBm0xS7LHKi7aTw7f"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -797,7 +741,39 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 II",
         "url": "https://open.spotify.com/album/5KXjugKQniEoqMFcI0Rb4r"
@@ -813,7 +789,7 @@
       "url": "https://open.spotify.com/track/38varwSQOSJt5WK1C9hbEF"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
@@ -829,63 +805,95 @@
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Parado no Bail\u00e3o",
-        "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
-      },
-      "artists": [
-        {
-          "name": "MC L da Vinte",
-          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "MC Gury",
-          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
+          "name": "Dina Rae",
+          "url": "https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Parado no Bail\u00e3o",
-      "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
+      "duration_ms": 350320,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
       "album": {
-        "name": "TOPA NA BANKETA",
-        "url": "https://open.spotify.com/album/0irqqijZ3i0mxQnrhOcJR3"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Mom4eto",
-          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
-        },
-        {
-          "name": "FYRE",
-          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 187299,
-      "name": "TOPA NA BANKETA",
-      "url": "https://open.spotify.com/track/4AOUyrWRXMuSRG3eTWxizo"
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
+      "album": {
+        "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
+        "url": "https://open.spotify.com/album/4d2IGg5C8bhKmfcx3vZboq"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "duration_ms": 167210,
+      "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
+      "url": "https://open.spotify.com/track/3bEbRxixvEVlEVIgvepXcg"
+    },
+    {
+      "added_at": "2022-12-14 11:24:40",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -907,22 +915,6 @@
       "duration_ms": 221347,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/6eOG7lOgVEWKqhWFRL2O4j"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

@@ -4265,6 +4265,28 @@
     {
       "album": {
         "name": "Hot Stones",
+        "url": "https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        },
+        {
+          "name": "Nofeels",
+          "url": "https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105439,
+      "name": "Hot Stones",
+      "url": "https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI"
+    },
+    {
+      "album": {
+        "name": "Hot Stones",
         "url": "https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi"
       },
       "artists": [
@@ -4279,7 +4301,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 105439,
       "name": "Hot Stones",
       "url": "https://open.spotify.com/track/2022877RqBEPVfODofVbbN"
@@ -9857,6 +9879,32 @@
     {
       "album": {
         "name": "Star Guard",
+        "url": "https://open.spotify.com/album/7v4q39gP6Pj0PDXzlMd0a3"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "Arcanyz",
+          "url": "https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB"
+        },
+        {
+          "name": "Matija Lazic",
+          "url": "https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108800,
+      "name": "Star Guard",
+      "url": "https://open.spotify.com/track/65j5nUIrMp1b0hE0y2hyN8"
+    },
+    {
+      "album": {
+        "name": "Star Guard",
         "url": "https://open.spotify.com/album/2cf3QBUSta0629BNlOvDYG"
       },
       "artists": [
@@ -9875,7 +9923,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 108800,
       "name": "Star Guard",
       "url": "https://open.spotify.com/track/032qJaBqhCnu91uv5CrI9F"

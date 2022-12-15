@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,017 likes - 500 songs - 18 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,314 likes - 500 songs - 18 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -415,7 +415,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 405 | [Waving Gods](https://open.spotify.com/track/30A2EwuEQeJppU550PumGT) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Jazzmatic 3 Jazzstrumentals](https://open.spotify.com/album/5DQVOe8ayIf99axGEQS0uU) | 3:22 |
 | 406 | [True Gentleman](https://open.spotify.com/track/3x1nDdG2C94iFi6eIjbNlO) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Solomon Alber](https://open.spotify.com/artist/2DZlO7jiqsJB04ZBntEKNY) | [True Gentleman](https://open.spotify.com/album/0pvumH5O8H2HRpkmFfIfDk) | 1:53 |
 | 407 | [Footage](https://open.spotify.com/track/7xjWwi7gtg2Xri1CkBt2aE) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Willis.](https://open.spotify.com/artist/6meMGWf2GUrmsl3lFvEYQN) | [Footage](https://open.spotify.com/album/4xm8p3FeYHFJEyoAT51IRt) | 2:56 |
-| 408 | [Call Me](https://open.spotify.com/track/4pYVF9dsO5IgVOASSEcl0f) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/5gD7kNZm1FBZjUDmj9zhW4) | 2:22 |
+| 408 | [Call Me](https://open.spotify.com/track/5brWANXw2p9YF7TTgQ8nQq) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Call Me](https://open.spotify.com/album/1bpz84JSLby8ON4a4bjoZP) | 2:22 |
 | 409 | [Madrid Rooftops](https://open.spotify.com/track/23YCK4La8rdnMaCJsKmASn) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Madrid Rooftops](https://open.spotify.com/album/7xc78kT0G37voamAL8lvxE) | 1:42 |
 | 410 | [California Sunshine](https://open.spotify.com/track/6dBWrMyp2MVq5i2TOv0wEl) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [California Sunshine](https://open.spotify.com/album/0oF6z4m4wE8BAI4A2wYVgZ) | 1:32 |
 | 411 | [blossom bliss](https://open.spotify.com/track/6rTcq4gZhytJ0IC1JJfCdE) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [blossom bliss](https://open.spotify.com/album/4pUT8Gv5FBOgN9IPSkF4RT) | 2:24 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Happy 35](https://open.spotify.com/track/5GJGmY77aFrnD12H125nMS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Happy 35](https://open.spotify.com/album/3KIu2RcUaixIF4SzNU9TSD) | 2:35 |
 | 500 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 |
 
-Snapshot ID: `MTY3MDU4Nzg3MywwMDAwMDAwMGQ2ZDkwMDhlYjEwM2UzNDNlOWYzZTAwMmZmYzllOWJm`
+Snapshot ID: `MTY3MDU4Nzg3MywwMDAwMDAwMDc3MmM0YWZlZjU4NDg4MjlkYTJiZmNjNDMxODA2OTYy`

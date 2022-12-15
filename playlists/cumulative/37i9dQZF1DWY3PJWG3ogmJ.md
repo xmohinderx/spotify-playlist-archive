@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-231 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
+232 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Earth Scar](https://open.spotify.com/track/3loI2vzJg8QTSF44sOcfOV) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc) | [Anticult](https://open.spotify.com/album/6t3GDSOf20zSYD2MwoljBl) | 5:09 | 2022-01-14 | 2022-07-29 |
 | [Earth Scar](https://open.spotify.com/track/6ELePWpAnvr6YueTV3JlIu) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc) | [Anticult](https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ) | 5:09 | 2022-04-22 |  |
 | [Eat What You Kill](https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH) | [Confess](https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw) | [Eat What You Kill](https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt) | 5:15 | 2022-01-14 | 2022-07-29 |
-| [Endarkenment](https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [Endarkenment](https://open.spotify.com/album/5xReWyf922gGJUHZMale2w) | 3:55 | 2022-01-14 |  |
+| [Endarkenment](https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [Endarkenment](https://open.spotify.com/album/5xReWyf922gGJUHZMale2w) | 3:55 | 2022-01-14 | 2022-12-15 |
 | [Eternal Forward Motion](https://open.spotify.com/track/2XHh7pPw1E8v37dWFBuleV) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Eternal Forward Motion](https://open.spotify.com/album/51ABB3Sdg2UdPbNBDieJ6y) | 3:49 | 2022-01-14 | 2022-07-29 |
 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 | 2022-01-14 |  |
 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2022-01-14 |  |
@@ -156,6 +156,7 @@
 | [Of the Abyss](https://open.spotify.com/track/3wzAXBZ6mhuYEzf2IJAbDc) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [...And I Return To Nothingness \- EP](https://open.spotify.com/album/0pt5jMdHTsMtlzpc4OMmAk) | 5:43 | 2022-01-14 |  |
 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 | 2022-01-14 | 2022-07-27 |
 | [One with You](https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9) | [Backtrack](https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl) | [Bad to My World](https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS) | 2:29 | 2022-02-10 | 2022-07-22 |
+| [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-12-14 |  |
 | [Pariah](https://open.spotify.com/track/1SZQIQ8UGT1uvKBweFeVf6) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Pariah](https://open.spotify.com/album/76PZTUklDOYoHolig8UwAM) | 3:29 | 2022-01-14 | 2022-07-29 |
 | [Pariah](https://open.spotify.com/track/4NaYTAuIouqO0uzJqlN5l2) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Splinters from an Ever\-Changing Face](https://open.spotify.com/album/6X3196GAOJl9oHyQC2YJNm) | 3:29 | 2022-04-22 |  |
 | [Peeling Wax \(feat\. Matt Honeycutt\)](https://open.spotify.com/track/4A64JdONZNE0ShoiHrJx1N) | [Left Behind](https://open.spotify.com/artist/0D9zhma3Ysy2QqysEkVWRW), [Matt Honeycutt](https://open.spotify.com/artist/3l3aszE2AlLuQ0LP4H54zO) | [Peeling Wax \(feat\. Matt Honeycutt\)](https://open.spotify.com/album/3XI1rSazMxST7wlUiYPgxD) | 3:41 | 2022-01-14 | 2022-07-29 |

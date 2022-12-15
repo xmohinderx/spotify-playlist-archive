@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: 4JUNE\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,987 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,990 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/track/1i4sHHgpXJICCcG8rmZVi2) | [Chilax](https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE) | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/album/1JvcG0ZNdFlVFGyfIs704h) | 3:42 |
 | 2 | [ท้อ \(Exhausted\)](https://open.spotify.com/track/2hsBxsI9VeRwTGnU1GFdF5) | [4JUNE](https://open.spotify.com/artist/2XpTZ7Uw6d7G8gGxZfCb3Q) | [ท้อ \(Exhausted\)](https://open.spotify.com/album/2xrILgoDq2130SQo2LCDgO) | 4:22 |
 | 3 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
-| 4 | [ฝันร้าย \(Nightmare\)](https://open.spotify.com/track/5DnhH2JCCCajA2TIGA6mjK) | [Pleng Panisara](https://open.spotify.com/artist/1XhrtwfvG6DpqLJXST75B5) | [ฝันร้าย \(Nightmare\)](https://open.spotify.com/album/0lnjp5dqMJmLSjvrImzCcU) | 3:55 |
+| 4 | [ฝันร้าย \(Nightmare\)](https://open.spotify.com/track/5DnhH2JCCCajA2TIGA6mjK) | [Pleng Panisara](https://open.spotify.com/artist/6D2uyheaWIGxPsdhMe35GQ) | [ฝันร้าย \(Nightmare\)](https://open.spotify.com/album/0lnjp5dqMJmLSjvrImzCcU) | 3:55 |
 | 5 | [ชอบแบบนี้ก็ไม่บอก](https://open.spotify.com/track/3Y9xTEyUjfaHLZdFAdQrCe) | [What’s Up](https://open.spotify.com/artist/3AUD1TFqkzC77R9QwGXQhE) | [ชอบแบบนี้ก็ไม่บอก](https://open.spotify.com/album/79Z8kaLzi72niuZiG6nDIp) | 4:36 |
 | 6 | [ส่งยิ้ม](https://open.spotify.com/track/5EvfH4gEH1fR7jD83GDeSu) | [20Hz](https://open.spotify.com/artist/1kulUiHT415wkrT41iz63j) | [ส่งยิ้ม](https://open.spotify.com/album/1Xj07lhcuEDCObZnX8Y5qy) | 3:10 |
 | 7 | [โรงอาหาร \(Canteen\)](https://open.spotify.com/track/4vAN681BRgElt1Vwr76awL) | [Kamin Kingsak](https://open.spotify.com/artist/2flyd7ey35JuludWaAMELO) | [โรงอาหาร \(Canteen\)](https://open.spotify.com/album/11OzcdWBZwSDDT4QnyU2A9) | 3:57 |

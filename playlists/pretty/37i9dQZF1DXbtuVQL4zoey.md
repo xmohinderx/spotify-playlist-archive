@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,818 likes - 300 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,830 likes - 300 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 110 | [Train Tales](https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/65VJznRcsus1IxGEyFNzft) | 1:37 |
 | 111 | [Mallorca](https://open.spotify.com/track/5fwUgcNVOqWaAiO7q0m5S4) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [Charry](https://open.spotify.com/artist/0gRHHNqL2VnRuTyPrSVtRr), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Mallorca](https://open.spotify.com/album/64CZA0vP8zFXaGoc2MCV7u) | 1:55 |
 | 112 | [Amore](https://open.spotify.com/track/0uKr4tURNiLyOKFqsmKNx0) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Amore](https://open.spotify.com/album/5MEA9XtnI9AUg1axr8m8Gr) | 3:06 |
-| 113 | [Dope after 8 PM](https://open.spotify.com/track/7n4ocFmiU0iucf8xrrLxRJ) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Dope after 8 PM](https://open.spotify.com/album/6y78KpQ9HxxFLLxtSVVYpI) | 1:56 |
+| 113 | [Dope after 8 PM](https://open.spotify.com/track/3LEIN9DIPnYhJ5b1dNgVcC) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Dope after 8 PM](https://open.spotify.com/album/16snTC6g0ngvDjOnkPehNE) | 1:56 |
 | 114 | [Blue Vibe](https://open.spotify.com/track/32HW7A2WIZlriOMIFXbfZB) | [Unbeat Ive](https://open.spotify.com/artist/52vH8kSLKLTzOyJ5j3fVS3) | [Blue Vibe](https://open.spotify.com/album/3n22h1oXWBZunHT9HqTZYL) | 2:24 |
 | 115 | [Alone Again](https://open.spotify.com/track/1I5LzwQzflf3ZoNuIwLnBq) | [Aarly](https://open.spotify.com/artist/23n9NAhdmQvss3ZyP7UMaj) | [Alone Again](https://open.spotify.com/album/2PmKJoMUa2vd4keMvlO7xS) | 2:24 |
 | 116 | [Dreamwalker](https://open.spotify.com/track/2zVJsiJGMW7mgHbKVlckX5) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Dreamwalker](https://open.spotify.com/album/262766IDUhyOti6GJToput) | 3:00 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 299 | [Joao](https://open.spotify.com/track/3JuBTWJDNuiyfBCaZHUs2I) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Joao](https://open.spotify.com/album/1gFmVLrF9Zakob9dlHCHXL) | 2:21 |
 | 300 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 
-Snapshot ID: `MTY3MDU5MDYyNCwwMDAwMDAwMDJkOTJlN2QxNGVlMzE5MGM3MDA4YzRkZDdjZjMwZGFi`
+Snapshot ID: `MTY3MDU5MDYyNCwwMDAwMDAwMDhjZWU1OTg1MWIwYmJjN2Q3Yzk1Y2ZiMmVmNDBlZDE2`

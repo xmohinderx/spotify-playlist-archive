@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 60 Canadian artists to watch in 2023, handpicked by our curators\. \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,249 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,286 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 |
 | 40 | [SAVING GRACE](https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAVING GRACE](https://open.spotify.com/album/2MzlnjjIg4PDsIL8PgBuNr) | 2:52 |
 | 41 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 |
-| 42 | [criminal](https://open.spotify.com/track/3uJ6LonaZHCqjlQ6vevlqn) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0XUvbobEmBV6fALSvl7V28) | 2:37 |
+| 42 | [criminal](https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5) | 2:37 |
 | 43 | [Yesterdays.](https://open.spotify.com/track/6RMPhGmhBkZWlITgD1T0ai) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Albion Road Demos.](https://open.spotify.com/album/456OEsSKMH1s7Oe1tklbZr) | 3:13 |
 | 44 | [Figure It Out](https://open.spotify.com/track/7nZDS9vvNuDBE3w1JQNx3c) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Figure It Out](https://open.spotify.com/album/4KM1PhBa0e4oYkn3qQ3xGt) | 2:51 |
 | 45 | [La Misión](https://open.spotify.com/track/4uPEACej0HoZIZdpiLq9eh) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [La Misión](https://open.spotify.com/album/7vswnhTklCEmYtRPkBK3kN) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 59 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 |
 | 60 | [Lone Ranger](https://open.spotify.com/track/1MLxOSwBdfLIreioghy0AS) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [All Blue](https://open.spotify.com/album/6by4TrvFhxkZiee23fhhi3) | 3:11 |
 
-Snapshot ID: `MTY2OTgyNjQ0MywwMDAwMDAwMGNlMzNlY2ZiYWNhNTNjMDc0ZjJiYjExNmIyMjdkMTQ0`
+Snapshot ID: `MTY2OTgyNjQ0MywwMDAwMDAwMDRiNjc4ZGZlN2Y4YWViYzI2OGQ4NTFjNTg1MmFjOTg2`

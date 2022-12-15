@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Top Arabic hits are right here\. Cover: Farid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,850 likes - 81 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,089 likes - 81 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

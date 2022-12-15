@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-795 songs - 1 day 5 hr 55 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+796 songs - 1 day 5 hr 56 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,8 +403,9 @@
 | [Looking Up To The Sky](https://open.spotify.com/track/5AxmNIeY9dwOxmTMD9iZId) | [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Looking Up To The Sky](https://open.spotify.com/album/47tuRfkcxIdKb5lIfW2GoC) | 2:16 | 2022-11-11 |  |
 | [Lost](https://open.spotify.com/track/30sDH0JNvR7SuLCzV1eLnr) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Lost](https://open.spotify.com/album/3S3JJK28AcSL2BpJu9Caym) | 2:27 | 2022-07-01 |  |
 | [Lost Around You](https://open.spotify.com/track/6NQliPgMvvohu8icN1QVXS) | [franz.](https://open.spotify.com/artist/2iNqhG5SC3ZAG6KpHM3HIk), [enoch](https://open.spotify.com/artist/6DJQwUpD4sBAYXGQEF9cLi) | [Lost Around You](https://open.spotify.com/album/1sXrwOONuN3hbSxipNsuw7) | 3:04 | 2022-07-22 |  |
-| [Lost in Time](https://open.spotify.com/track/3ZzE94F2aprxYIifQpSGPW) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lost in Time](https://open.spotify.com/album/1gYZeyDHGN5NM1Iqmybuzq) | 1:33 | 2022-11-11 |  |
+| [Lost in Time](https://open.spotify.com/track/3ZzE94F2aprxYIifQpSGPW) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lost in Time](https://open.spotify.com/album/1gYZeyDHGN5NM1Iqmybuzq) | 1:33 | 2022-11-11 | 2022-12-15 |
 | [Lost in Time](https://open.spotify.com/track/48gopHNR1fVfocGpEVqD2I) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lost in Time](https://open.spotify.com/album/1DDZi4diBJfmvo9sWsckWK) | 1:33 | 2022-09-16 | 2022-11-20 |
+| [Lost in Time](https://open.spotify.com/track/5aHK2cJ4sl9b4FDWZMM53R) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lost in Time](https://open.spotify.com/album/1RvDv4fi4RqrDligqTCLME) | 1:33 | 2022-12-09 |  |
 | [Lost Memories](https://open.spotify.com/track/3FzEibw5QvICYJPbi1fJaS) | [Candelas.](https://open.spotify.com/artist/7kX7jrR1Olp8ot5haFwExp) | [Lost Memories](https://open.spotify.com/album/34ZocOX8f7D7tf3AeMtb5J) | 2:12 | 2022-10-28 |  |
 | [Lost Track](https://open.spotify.com/track/3y3EGDwhprjjVR8IJCHaOh) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Lost Track](https://open.spotify.com/album/5gI2rr4jipgdd1l63lLJ4p) | 1:38 | 2022-02-18 |  |
 | [Love and Monsters](https://open.spotify.com/track/5RfuVEIaZNxb7ubrYrYrpt) | [Pante H á](https://open.spotify.com/artist/3Wg0M8lS9TkJqSHgSotvGf) | [Love and Monsters](https://open.spotify.com/album/5Of6mG0ssB68DJfEBgAcgi) | 1:23 | 2021-11-10 | 2022-06-03 |

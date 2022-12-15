@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Wham!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,160 likes - 335 songs - 20 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,392 likes - 335 songs - 20 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -11976,6 +11976,24 @@
     },
     {
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/1lgRPhvyHG092PPPN6b9V1"
+      },
+      "artists": [
+        {
+          "name": "Ahee",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/3tacyVZsROkiT12vHRbllJ"
+    },
+    {
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/60MVEOKz4pVB7JKdHUyFyp"
       },
@@ -13061,6 +13079,32 @@
       "duration_ms": 241714,
       "name": "Your Vibe",
       "url": "https://open.spotify.com/track/2GHtkrbTsHndIzreO9YNg6"
+    },
+    {
+      "album": {
+        "name": "Zeus",
+        "url": "https://open.spotify.com/album/1vjqn2gidi3DECbymVbKrW"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "Marin Hoxha",
+          "url": "https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd"
+        },
+        {
+          "name": "Vinsmoker",
+          "url": "https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134545,
+      "name": "Zeus",
+      "url": "https://open.spotify.com/track/3uHjfqPvS5eQFP7GXwx6Ax"
     },
     {
       "album": {

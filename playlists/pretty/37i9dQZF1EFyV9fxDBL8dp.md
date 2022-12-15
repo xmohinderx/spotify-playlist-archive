@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 32 | [1655 \- Zumbi](https://open.spotify.com/track/5MsOxXSGCq3x9G031ZAsnT) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:16 |
 | 33 | [Estrela](https://open.spotify.com/track/6Fa39cGOfU6amdyGH8ehGk) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:34 |
 | 34 | [Zumbi Vive](https://open.spotify.com/track/4cDZVA6arbGWt3ARAGHiPZ) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:27 |
-| 35 | [Dúvidas](https://open.spotify.com/track/4DTaIg8SsZ40HyNR9tzIj4) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:07 |
-| 36 | [A Hora da Virada](https://open.spotify.com/track/2DxcpDSp3ebJjQFZkNk7af) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:15 |
+| 35 | [A Hora da Virada](https://open.spotify.com/track/2DxcpDSp3ebJjQFZkNk7af) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:15 |
+| 36 | [Dúvidas](https://open.spotify.com/track/4DTaIg8SsZ40HyNR9tzIj4) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:07 |
 | 37 | [O Vivo Irá Perceber](https://open.spotify.com/track/3JSeSDz5deyZTDef7S4W0W) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:52 |
 | 38 | [Pedra](https://open.spotify.com/track/5AYRLHJ7Tx5H69Xjh2GDUE) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:21 |
 | 39 | [Sadrak, Mesak e Abed\-Nego](https://open.spotify.com/track/4uNXFMfnDWWU5MWjObeCKj) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 69 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 70 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `Mjc4NDk2NjQsMDAwMDAwMDA3MjQ3MWE4MDYzNDE0NTc2MmFkYzdiNGZlMzk1NzY0NQ==`
+Snapshot ID: `Mjc4NTExMDQsMDAwMDAwMDA4YTcwZjNjZWJkOTQ1YjAyNWZiMmQwYTY1Nzk2YmYwYw==`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭 / <br/>Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,452 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,505 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [lien](https://open.spotify.com/track/4G1cGMc2EtRGwzDXHwJPnL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/7vBnslfLvLLfDFG0awdRDF) | 3:29 |
+| 1 | [lien](https://open.spotify.com/track/2v98sRbseSHCUYbH0bJkZR) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt) | 3:29 |
 | 2 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 |
 | 3 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 |
 | 4 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 19 | [MOONRAKER](https://open.spotify.com/track/11Ah6sl7XKIuHgPI5ZoO2c) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [MOONRAKER](https://open.spotify.com/album/0wEbthaJbMzqMJ02LipHXN) | 3:05 |
 | 20 | [Sugar Magic](https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Sugar Magic](https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF) | 3:55 |
 | 21 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 |
-| 22 | [それでも明日は](https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [それでも明日は](https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz) | 4:05 |
+| 22 | [Till Tomorrow, Trust Tomorrow](https://open.spotify.com/track/34xXw6peMNDzTjGvgM2pCx) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Till Tomorrow, Trust Tomorrow](https://open.spotify.com/album/0FzesRZPhYGAKiiRvpTIP3) | 4:05 |
 | 23 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 |
 | 24 | [ITSUKA](https://open.spotify.com/track/5VmFkO55CHVLQyx0aRlaHC) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [ITSUKA](https://open.spotify.com/album/21pGZoVlohOg9S73qgIsOW) | 4:23 |
 | 25 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 54 | [Holmes](https://open.spotify.com/track/6f09fSN8QvkGVWYtHkKQtX) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [夢を叶える旅](https://open.spotify.com/album/44GDDN5PokE3t0QUU0r6vO) | 3:39 |
 | 55 | [Lucky Police Day](https://open.spotify.com/track/1AWqAFMimxtdidUreAHgBh) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [Lucky Police Day](https://open.spotify.com/album/5Wvqz82UIUPwBjW9O7mVKF) | 3:30 |
 | 56 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 |
-| 57 | [ハグルマ](https://open.spotify.com/track/3TlqFcttsxEoQavRkkvJFQ) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [ハグルマ](https://open.spotify.com/album/7oYh5Gx7GiyWF38YtfoUd4) | 2:55 |
+| 57 | [gear](https://open.spotify.com/track/4EI8sYjIBvKDYXH9dC6LRD) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [gear](https://open.spotify.com/album/11aYtBeFURxSFnFrUMAiKs) | 2:55 |
 | 58 | [Bakemono no Hanashi](https://open.spotify.com/track/4RMXwdVJ4rNwsXravMnTxk) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Bakemono no Hanashi](https://open.spotify.com/album/4ZBKVAEsiMwctHwoaU1qaj) | 3:25 |
-| 59 | [光の朝に](https://open.spotify.com/track/64yK5MIMyh2m0esogmoXoT) | [Nenne](https://open.spotify.com/artist/4moh6zdR5Ndqd4Fvcleko5) | [光の朝に](https://open.spotify.com/album/1I26UI1i9Bl6wnF08JxEUv) | 3:14 |
+| 59 | [hikari no asani](https://open.spotify.com/track/4bPnw1VA4zcRtXz9YD8XPf) | [Nenne](https://open.spotify.com/artist/4moh6zdR5Ndqd4Fvcleko5) | [hikari no asani](https://open.spotify.com/album/54O7uE0tMZk0srvrAvT8rV) | 3:14 |
 | 60 | [chord](https://open.spotify.com/track/1XyBpaXQaxWZeOqBCmi72A) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [chord](https://open.spotify.com/album/55bJN6zduydHGYN0IT1srE) | 3:36 |
 
-Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMDU3YmY0YzQwZDAzOWQwZTkxOGQ3MzM4N2I4ZGM5ZWNi`
+Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMDU0MmQyZTY2Mjg3NTM2NzVkMzk4ZDYwOGM5OGE4ZjZh`

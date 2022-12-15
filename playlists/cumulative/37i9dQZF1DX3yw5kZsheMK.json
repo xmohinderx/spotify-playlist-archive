@@ -1161,10 +1161,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 209133,
       "name": "Moonbeams",
       "url": "https://open.spotify.com/track/1XwghPmPkMbF53pgcA5OkS"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7ncEZ4CS2B8estE57JkkG1"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209133,
+      "name": "Moonbeams",
+      "url": "https://open.spotify.com/track/4UQWAEefrXffaaPyx1cT6y"
     },
     {
       "album": {

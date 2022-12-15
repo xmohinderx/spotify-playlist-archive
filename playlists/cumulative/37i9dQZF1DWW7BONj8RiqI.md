@@ -4,12 +4,13 @@
 
 > Rave and whine to the best of Soca with Nadia Batson.
 
-164 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/3Z8zm9B7hkX1o3xTsJ8Z1Z)
+166 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/3Z8zm9B7hkX1o3xTsJ8Z1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Outta 10](https://open.spotify.com/track/7pLekRLFessQEXoPhw5jB3) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [10 Outta 10](https://open.spotify.com/album/1Ekae0nx8S2LySjBnMb1hq) | 2:20 | 2022-02-24 | 2022-08-19 |
-| [A Love Note to Carnival](https://open.spotify.com/track/4PZhNZLBpgqg6OCirQvoj6) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [A Love Note to Carnival](https://open.spotify.com/album/7AakuFywRKGoe2Zh3cI0JQ) | 3:33 | 2022-08-18 |  |
+| [A Love Note to Carnival](https://open.spotify.com/track/4PZhNZLBpgqg6OCirQvoj6) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [A Love Note to Carnival](https://open.spotify.com/album/7AakuFywRKGoe2Zh3cI0JQ) | 3:33 | 2022-08-18 | 2022-12-15 |
+| [A Love Note to Carnival](https://open.spotify.com/track/058KUt42iPN32HBxHXCOJh) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [A Love Note to Carnival](https://open.spotify.com/album/1vMBHXiznIFvruxVrHgmjG) | 3:33 | 2022-08-18 |  |
 | [Ah Doh Have](https://open.spotify.com/track/136wdXEdhwOHYMsrGceoQl) | [Deno Outta Range Mason](https://open.spotify.com/artist/1tb5j7TMoEfvXfYrMifL6V), [Temptress](https://open.spotify.com/artist/65jMZVzV9puGLZnGcwl2Je) | [Dennis Riddim](https://open.spotify.com/album/7rkqjP06OeMwPjcfyPBkuD) | 2:46 | 2022-08-18 | 2022-11-13 |
 | [Ah Doh Have](https://open.spotify.com/track/0xR7HQRYN8qWurc4sdPMuY) | [Temptress](https://open.spotify.com/artist/65jMZVzV9puGLZnGcwl2Je), [Deno Outta Range Mason](https://open.spotify.com/artist/1tb5j7TMoEfvXfYrMifL6V) | [Dennis Riddim](https://open.spotify.com/album/264pdxzdLi4eNMSZJPAQnf) | 2:46 | 2022-08-18 | 2022-10-05 |
 | [All I Need](https://open.spotify.com/track/6F721B9BrRiEiSTyK554rZ) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [All I Need](https://open.spotify.com/album/5tJt1IXP2O1bI3IOwCFgBy) | 2:57 | 2022-02-26 | 2022-08-19 |
@@ -131,7 +132,8 @@
 | [Rum And Soca](https://open.spotify.com/track/1eIzpFnHthxY4lIE9QStVm) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Rum And Soca](https://open.spotify.com/album/36hTVbdi17Acx7ZGMXWc4O) | 3:37 | 2022-08-18 |  |
 | [Run Wid It](https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU) | [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Planet Jab Riddim](https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq) | 3:11 | 2021-08-26 | 2022-02-25 |
 | [Savannah Grass](https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA) | 2:59 | 2021-08-26 |  |
-| [Scrub It Down](https://open.spotify.com/track/6s7a7t3vVQ0zrWwkJSgBFC) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Scrub It Down](https://open.spotify.com/album/2T08jTpwFdhTjXQjYD8zPf) | 3:17 | 2022-08-18 |  |
+| [Scrub It Down](https://open.spotify.com/track/6s7a7t3vVQ0zrWwkJSgBFC) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Scrub It Down](https://open.spotify.com/album/2T08jTpwFdhTjXQjYD8zPf) | 3:17 | 2022-08-18 | 2022-12-15 |
+| [Scrub It Down](https://open.spotify.com/track/6tpmqzWDo19ToePsWlrIqc) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Scrub It Down](https://open.spotify.com/album/2MMXokXLbQ9ZyOsQUXw1JZ) | 3:17 | 2022-08-18 |  |
 | [Sexy](https://open.spotify.com/track/1PZUdshUnym8fx88ZlxHzl) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Gypsy Riddim](https://open.spotify.com/album/08YvGeNRAeMGWcfVjN7cyb) | 2:35 | 2022-02-24 | 2022-08-19 |
 | [Shine Pon Me](https://open.spotify.com/track/0zIuvZCCVstLrzEybQw01V) | [Melly Rose](https://open.spotify.com/artist/1vQiVNpjTkZG96PwnT24Dn), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Tender Touch Riddim](https://open.spotify.com/album/1FbJ7I3RlQUMiZ91Vq16G0) | 3:05 | 2022-02-24 | 2022-02-27 |
 | [Single](https://open.spotify.com/track/7p9l6t6m540j6V3VcXnXER) | [Orlando Octave](https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L) | [Single](https://open.spotify.com/album/74XLhRpz8nCdscl76Bgy8x) | 3:00 | 2021-08-26 | 2022-02-25 |

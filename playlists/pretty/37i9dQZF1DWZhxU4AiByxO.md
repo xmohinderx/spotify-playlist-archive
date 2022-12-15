@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 
 > Enjoy some kid\-friendly pop tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,752 likes - 178 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,770 likes - 178 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 91 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 |
 | 92 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 |
 | 93 | [One Last Time](https://open.spotify.com/track/0Mpgs2N5kVCrkqEcIIw6aV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:15 |
-| 94 | [I'm a Queen!](https://open.spotify.com/track/14fryYBqFtKMaf3EurIYS8) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [REMIX](https://open.spotify.com/album/21YDi9aNdn9TmMm5GBqB0o) | 3:22 |
+| 94 | [I'm a Queen!](https://open.spotify.com/track/57beMhGiLzP1sfJqBNr5Yl) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Remix](https://open.spotify.com/album/0NSAoiqAnyws6UzcYaCbV2) | 3:22 |
 | 95 | [Ice Cream Cold](https://open.spotify.com/track/7wBVoYDEPlU07ysbkDKVBT) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/1x5OIHJhieOQhkqjUoulQ8) | 1:44 |
 | 96 | [Catchy Song \(feat\. T\-Pain & That Girl Lay Lay\)](https://open.spotify.com/track/17yOpPoiu2Ue962Do8LsdS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [The LEGO Movie 2: The Second Part \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vUakEBYI3YXIoAHHRufrq) | 2:48 |
 | 97 | [Señorita](https://open.spotify.com/track/11jSPCIt4foBuWREqExc75) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 3:12 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 177 | [Meant to Be](https://open.spotify.com/track/6UVyRn5CmTr2hXjC4mtmLK) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 2:45 |
 | 178 | [Mercy](https://open.spotify.com/track/5hx745zVn9ydtxVTPoRU6I) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 35](https://open.spotify.com/album/446h1jQEUAz94QrRd9Ry3y) | 3:10 |
 
-Snapshot ID: `MTY2OTE5NTMwOCwwMDAwMDAwMDFhNWQ1MGMzMDk3MTcxMzdkMTI1OTlhYzJmYzk0MmZi`
+Snapshot ID: `MTY2OTE5NTMwOCwwMDAwMDAwMDdiZGNlNTkwMzYyYmY5NjE5NDJmOTQxNTkyNzdhYzAx`

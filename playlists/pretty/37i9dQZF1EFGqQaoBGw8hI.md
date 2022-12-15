@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478 likes - 477 songs - 1 day 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488 likes - 477 songs - 1 day 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,12 +182,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 172 | [Better Off Dead](https://open.spotify.com/track/1b0ZaClJiGhdTRVHrzilES) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 2:37 |
 | 173 | [Intermission](https://open.spotify.com/track/1r1qbU1AfoL3HglCyOUXso) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 2:36 |
 | 174 | [Joseph, Better You Than Me](https://open.spotify.com/track/3sP7Degi5k17ymz7yLvC2w) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Neil Tennant](https://open.spotify.com/artist/1dfUmPiIel95MFXvQMUAED) | [Don't Waste Your Wishes](https://open.spotify.com/album/30huok00bCQ0TxIJDtz09w) | 4:51 |
-| 175 | [Weight of the World](https://open.spotify.com/track/06mmWLzmOBJCEheQiVtT6p) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [Pigeon John and the Summertime Pool Party](https://open.spotify.com/album/18x1c1FezqvcG50aEbTYh9) | 3:38 |
-| 176 | [Rotten Peaches](https://open.spotify.com/track/1JhwFgtWL1CB1qrjRO62wg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:58 |
+| 175 | [Rotten Peaches](https://open.spotify.com/track/1JhwFgtWL1CB1qrjRO62wg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:58 |
+| 176 | [Weight of the World](https://open.spotify.com/track/06mmWLzmOBJCEheQiVtT6p) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [Pigeon John and the Summertime Pool Party](https://open.spotify.com/album/18x1c1FezqvcG50aEbTYh9) | 3:38 |
 | 177 | [Friends \- From “Friends” Soundtrack](https://open.spotify.com/track/2Lp8OBz55UR4zF92AT7Qsi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 2:23 |
-| 178 | [\(Gotta Get A\) Meal Ticket](https://open.spotify.com/track/5jMHhjn0ijWcz1WapsnoHb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:01 |
-| 179 | [The Greatest Discovery](https://open.spotify.com/track/2hkF5QeuvjvfUWbFO16cm6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:10 |
-| 180 | [Cold As Christmas \(In The Middle Of The Year\)](https://open.spotify.com/track/2eCdGml2e9dBfSygX0ItC0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:21 |
+| 178 | [Cold As Christmas \(In The Middle Of The Year\)](https://open.spotify.com/track/2eCdGml2e9dBfSygX0ItC0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:21 |
+| 179 | [\(Gotta Get A\) Meal Ticket](https://open.spotify.com/track/5jMHhjn0ijWcz1WapsnoHb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:01 |
+| 180 | [The Greatest Discovery](https://open.spotify.com/track/2hkF5QeuvjvfUWbFO16cm6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:10 |
 | 181 | [Merry Christmas Maggie Thatcher](https://open.spotify.com/track/6blf79LYHdabaomn7F5Yw8) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:26 |
 | 182 | [The Stars Look Down](https://open.spotify.com/track/2xKR4oOXjtYFb09dVvZUAY) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 7:30 |
 | 183 | [First Episode At Hienton](https://open.spotify.com/track/0Q3YxRlzru7yKT0Rwjv5xM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:46 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Dandelions](https://open.spotify.com/track/088m4EqzTTqyd3aSsIsMpu) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:24 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc4NDk2ODMsMDAwMDAwMDA5ZThlNjc2NDdjMmNiMjk0YzFhOGM1Mzg2YjM4N2M1ZA==`
+Snapshot ID: `Mjc4NTExMjMsMDAwMDAwMDA5ZWQ0Yjk5ZTZjMmI4N2RhNWIwZDkxOTAyYWYyM2E3OA==`

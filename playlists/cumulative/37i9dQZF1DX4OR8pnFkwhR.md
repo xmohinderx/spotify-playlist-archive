@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭 / <br/>Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-573 songs - 1 day 10 hr 39 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+577 songs - 1 day 10 hr 53 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Future Era](https://open.spotify.com/track/5IvrT1TvyvKo7wxgbFylYW) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Handsome Na Dance](https://open.spotify.com/album/7wuYyZjzy4m5671FOzHo3g) | 4:40 | 2022-07-28 | 2022-08-08 |
 | [Game Over](https://open.spotify.com/track/3RTPhsEAhEOTcw4y7cAnbC) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Game Over](https://open.spotify.com/album/2l28sfvxclSXQOMHgm1fe3) | 3:19 | 2022-11-01 | 2022-11-30 |
 | [garden.](https://open.spotify.com/track/2aDshEBdWAyUo4H8z9AHbO) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [garden.](https://open.spotify.com/album/1l1s0fAZcrYEkJ6thwDFZk) | 3:35 | 2022-05-24 | 2022-08-17 |
+| [gear](https://open.spotify.com/track/4EI8sYjIBvKDYXH9dC6LRD) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [gear](https://open.spotify.com/album/11aYtBeFURxSFnFrUMAiKs) | 2:55 | 2022-12-13 |  |
 | [Gerbera](https://open.spotify.com/track/6XAAEYr0JoYH86BXR797l7) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Gerbera](https://open.spotify.com/album/1aCpE4qQJ99g18K1AWVP5f) | 3:27 | 2022-03-29 | 2022-04-27 |
 | [GHOST](https://open.spotify.com/track/5hMPL9uwIHTMzV3ASz9IpI) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [GHOST](https://open.spotify.com/album/6fU3bolaKlQff22zpWZ3lY) | 2:41 | 2022-05-24 | 2022-07-01 |
 | [Ginger](https://open.spotify.com/track/3JRQx0Z6DqXdiiPhC6ursV) | [No.18](https://open.spotify.com/artist/2OmPvjarEhRq29rXnl4yc5) | [The One](https://open.spotify.com/album/78N2PusW7lbIHccjOsxzgC) | 3:52 | 2022-08-30 | 2022-10-19 |
@@ -129,6 +130,7 @@
 | [Hi](https://open.spotify.com/track/3hjfDTCvGUJAFlgyVuiH6T) | [Fukumoto Nao](https://open.spotify.com/artist/1QLZ0b7wV4GzLfIrDscnET) | [Hi](https://open.spotify.com/album/1tKXgSSx2DEQi0ZihkYkTm) | 4:05 | 2022-05-12 | 2022-06-08 |
 | [Hibi no Tezawari](https://open.spotify.com/track/6ViBB1UJ6YTeIAbKR3KPRu) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hibi no Tezawari](https://open.spotify.com/album/2M9nbcQSeIYQbis8zj48Xz) | 4:30 | 2022-10-04 | 2022-11-09 |
 | [Higher](https://open.spotify.com/track/5eid5YldfTvqxsALbiCaAA) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Higher](https://open.spotify.com/album/1QHVggXNuiZmLe15v1BdcY) | 4:29 | 2022-03-22 | 2022-07-06 |
+| [hikari no asani](https://open.spotify.com/track/4bPnw1VA4zcRtXz9YD8XPf) | [Nenne](https://open.spotify.com/artist/4moh6zdR5Ndqd4Fvcleko5) | [hikari no asani](https://open.spotify.com/album/54O7uE0tMZk0srvrAvT8rV) | 3:14 | 2022-12-13 |  |
 | [Hitono Katachi](https://open.spotify.com/track/04HdAkdqkHsxE6g4pCtKvx) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Limre](https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3) | 2:27 | 2022-08-06 | 2022-10-05 |
 | [Holmes](https://open.spotify.com/track/6f09fSN8QvkGVWYtHkKQtX) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [夢を叶える旅](https://open.spotify.com/album/44GDDN5PokE3t0QUU0r6vO) | 3:39 | 2022-11-29 |  |
 | [HOMEWORK](https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [HOMEWORK](https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG) | 2:51 | 2022-08-23 | 2022-09-21 |
@@ -163,7 +165,8 @@
 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 | 2022-09-08 | 2022-10-28 |
 | [Leave me alone](https://open.spotify.com/track/21ISwJKtTBq7xFKxDIfoQ2) | [D.Y.T](https://open.spotify.com/artist/7d4hOy3dp0h9hOWxnraCQY) | [Leave me alone](https://open.spotify.com/album/2pWGr0HKrHmrNZe1oevebe) | 2:51 | 2022-07-26 | 2022-07-29 |
 | [Leave me alone](https://open.spotify.com/track/2GvJFQIbuefTikZwFQw2yB) | [D.Y.T](https://open.spotify.com/artist/7d4hOy3dp0h9hOWxnraCQY) | [Leave me alone](https://open.spotify.com/album/7EpGO4JH8L51qqDdxLKIIW) | 2:51 | 2022-07-28 | 2022-08-17 |
-| [lien](https://open.spotify.com/track/4G1cGMc2EtRGwzDXHwJPnL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/7vBnslfLvLLfDFG0awdRDF) | 3:29 | 2022-12-13 |  |
+| [lien](https://open.spotify.com/track/2v98sRbseSHCUYbH0bJkZR) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt) | 3:29 | 2022-12-13 |  |
+| [lien](https://open.spotify.com/track/4G1cGMc2EtRGwzDXHwJPnL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/7vBnslfLvLLfDFG0awdRDF) | 3:29 | 2022-12-13 | 2022-12-15 |
 | [Like no one's done](https://open.spotify.com/track/1G8jWpWgCtTEuy4Zz3Ihfe) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Like no one's done](https://open.spotify.com/album/5JysaNdHLF3SuPrpLfrcyE) | 3:55 | 2022-12-06 | 2022-12-08 |
 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 | 2022-12-06 |  |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-03-29 | 2022-05-11 |
@@ -303,6 +306,7 @@
 | [the wire](https://open.spotify.com/track/1YcIUoRRC2gtPa5HN87idh) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:38 | 2022-08-23 | 2022-10-12 |
 | [the wire](https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [the wire](https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i) | 3:38 | 2022-04-27 | 2022-05-18 |
 | [This Way](https://open.spotify.com/track/3kvSdSr7h0KOn7FDFhAXLT) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 2:34 | 2022-07-12 | 2022-11-14 |
+| [Till Tomorrow, Trust Tomorrow](https://open.spotify.com/track/34xXw6peMNDzTjGvgM2pCx) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Till Tomorrow, Trust Tomorrow](https://open.spotify.com/album/0FzesRZPhYGAKiiRvpTIP3) | 4:05 | 2022-12-13 |  |
 | [Time Inn Moder](https://open.spotify.com/track/1JvTJ0XrOzGRgFs3hF6AKb) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Time Inn Moder](https://open.spotify.com/album/1GX6TYc90wKZM7Q3dJShdD) | 3:23 | 2022-10-18 | 2022-12-01 |
 | [Todai](https://open.spotify.com/track/1Zcmka6ZS0KHmFSvEJdQSZ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 2:54 | 2022-12-01 |  |
 | [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 | 2022-09-01 | 2022-12-03 |
@@ -366,7 +370,7 @@
 | [せーかいせかい](https://open.spotify.com/track/2FuXjVQgDyDoPxPRzWeSk6) | [とた](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [せーかいせかい](https://open.spotify.com/album/7k4znvGjJ75YMT1F8co0BI) | 3:31 | 2022-12-06 | 2022-12-08 |
 | [そぐわな](https://open.spotify.com/track/2ftcqHzXbUP4P6nROsanV8) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [そぐわな](https://open.spotify.com/album/2W0hOxFTRTYkrRPiOs1292) | 3:42 | 2022-06-14 | 2022-07-27 |
 | [その気にさせないで](https://open.spotify.com/track/4oyFtN6SG6eLFYdUKQ7x55) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [その気にさせないで](https://open.spotify.com/album/6GJk3AJOg458y7izdY4nVy) | 3:31 | 2022-06-28 | 2022-08-10 |
-| [それでも明日は](https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [それでも明日は](https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz) | 4:05 | 2022-12-13 |  |
+| [それでも明日は](https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [それでも明日は](https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz) | 4:05 | 2022-12-13 | 2022-12-15 |
 | [たそがれ](https://open.spotify.com/track/3R5XYQfseulmlAyOuIbuay) | [U\_A\_MI](https://open.spotify.com/artist/69q0Ekd40Ya3pFgQzj3JH9) | [たそがれ](https://open.spotify.com/album/3NddKq6qmuJw2zrBnZkI0g) | 4:36 | 2022-04-27 | 2022-05-18 |
 | [ただ、眺めている \- 2022 ver.](https://open.spotify.com/track/1PTRtGiTMEWvhPy3SSER1p) | [髙橋多聞](https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs) | [ただ、眺めている \(2022 ver.\)](https://open.spotify.com/album/746J5Kq6pQmR6COsAKVx1E) | 3:49 | 2022-05-17 | 2022-06-01 |
 | [はじまる](https://open.spotify.com/track/1CERFGNBkEUq68yxHyvGYs) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [はじまる](https://open.spotify.com/album/68xb9Fj47KT2j6YCerL0QL) | 3:47 | 2022-04-05 | 2022-05-11 |
@@ -413,7 +417,7 @@
 | [チョコレイト](https://open.spotify.com/track/21ZY22ShdeBxAxwGPtJPsP) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [チョコレイト](https://open.spotify.com/album/76oYTrwxTtN6CI55Vz0lHK) | 3:13 | 2022-05-17 | 2022-07-01 |
 | [トランシーヴ](https://open.spotify.com/track/4MC3McX0mWwBT9C2FEVFL9) | [ソウルズ](https://open.spotify.com/artist/3U8Nla0ExXckfuGxbbx0Dh) | [トランシーヴ](https://open.spotify.com/album/6qh9RV3PAP2u30DiucUTdR) | 3:58 | 2022-02-17 | 2022-03-23 |
 | [ネコも食べない](https://open.spotify.com/track/3IQ2RZzh0shp6PUTbvlu8B) | [極東飯店](https://open.spotify.com/artist/6BgCQ4n2mZfN3eLPrTd9Kl) | [九種九牌](https://open.spotify.com/album/3DvopbZPVLdM5twT6Rob9Z) | 3:04 | 2022-04-27 | 2022-05-18 |
-| [ハグルマ](https://open.spotify.com/track/3TlqFcttsxEoQavRkkvJFQ) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [ハグルマ](https://open.spotify.com/album/7oYh5Gx7GiyWF38YtfoUd4) | 2:55 | 2022-12-13 |  |
+| [ハグルマ](https://open.spotify.com/track/3TlqFcttsxEoQavRkkvJFQ) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [ハグルマ](https://open.spotify.com/album/7oYh5Gx7GiyWF38YtfoUd4) | 2:55 | 2022-12-13 | 2022-12-15 |
 | [ハナノヨウ](https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [ハナノヨウ](https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt) | 3:52 | 2022-10-25 |  |
 | [ハローマイフレンド](https://open.spotify.com/track/5MFf7NXYOmlDbY1sd2QBlv) | [Borsch](https://open.spotify.com/artist/6KKXBoP2i6wgxXX8mUbQcc) | [ハローマイフレンド](https://open.spotify.com/album/3FACW0IZZSupatS23DOCsZ) | 2:43 | 2022-04-05 | 2022-05-11 |
 | [バケモノの話](https://open.spotify.com/track/6igRMpvxshpgzMwppQnOe3) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [バケモノの話](https://open.spotify.com/album/3aiJqaaEmrSGQsFbQQqMS9) | 3:25 | 2022-11-29 | 2022-12-01 |
@@ -449,7 +453,7 @@
 | [低い飛行機](https://open.spotify.com/track/2niGgKLYTEimwlApTnkMbG) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [低い飛行機](https://open.spotify.com/album/33Q6WSWC9Q8T22QeovLvXb) | 3:38 | 2022-02-17 | 2022-03-02 |
 | [余所見](https://open.spotify.com/track/1Kz2Y9PKCU30rjVTajO0mD) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [余所見](https://open.spotify.com/album/2fUjOVrL5QujhYp5t2kBOK) | 3:35 | 2022-10-18 | 2022-10-20 |
 | [僕等の日々](https://open.spotify.com/track/22PT5uLiey4j5iE5ZMLlvE) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [僕等の日々](https://open.spotify.com/album/1MPswJxnfrhjN1rcPSLIO2) | 4:32 | 2022-10-11 | 2022-10-26 |
-| [光の朝に](https://open.spotify.com/track/64yK5MIMyh2m0esogmoXoT) | [Nenne](https://open.spotify.com/artist/4moh6zdR5Ndqd4Fvcleko5) | [光の朝に](https://open.spotify.com/album/1I26UI1i9Bl6wnF08JxEUv) | 3:14 | 2022-12-13 |  |
+| [光の朝に](https://open.spotify.com/track/64yK5MIMyh2m0esogmoXoT) | [Nenne](https://open.spotify.com/artist/4moh6zdR5Ndqd4Fvcleko5) | [光の朝に](https://open.spotify.com/album/1I26UI1i9Bl6wnF08JxEUv) | 3:14 | 2022-12-13 | 2022-12-15 |
 | [冬のささやき](https://open.spotify.com/track/3U4tw1oZeOjJBdBRobevru) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [冬のささやき](https://open.spotify.com/album/3QNcIPAbhvMjnqPG61SD5j) | 4:11 | 2022-10-11 | 2022-11-23 |
 | [冷やしネギ蕎麦](https://open.spotify.com/track/6xGo0VrMRvv7GupeWe6uM5) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [心拍数とラヴレター、それと優しさ](https://open.spotify.com/album/2TWDeXLRDpzEFpo76LSiMM) | 3:55 | 2022-05-24 | 2022-06-01 |
 | [冷やしネギ蕎麦 \- Hikaru Arata Remix](https://open.spotify.com/track/0d36v6tmmUuB9rfd27exK2) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [冷やしネギ蕎麦 \- Hikaru Arata Remix](https://open.spotify.com/album/14yU1vwz25pnmQOBJWqJLZ) | 3:37 | 2022-08-09 | 2022-08-24 |

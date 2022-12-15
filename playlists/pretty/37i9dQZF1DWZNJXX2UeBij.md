@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 
 > Top Bollywood songs from 2000s till 2010
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,388 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,900 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 | 60 | [Bum Bum Bole](https://open.spotify.com/track/5Dq7d6Y2K2CRNFm1bC3I7A) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Aamir Khan](https://open.spotify.com/artist/0Tn7oEmE8zDUR340Doo9zl) | [Taare Zameen Par](https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE) | 5:35 |
 | 61 | [Hai Mera Dil](https://open.spotify.com/track/7LAwdDzta1roB9n4GuVpzG) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Josh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26tEuVzIVjvVn12w07hqIm) | 4:10 |
 | 62 | [Maa](https://open.spotify.com/track/4SuA85PaD8GFTPYwKNYDe1) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Taare Zameen Par](https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE) | 5:10 |
-| 63 | [Ajj Din Chadheya](https://open.spotify.com/track/7N30pzJGFwnYU8iuzxWS7l) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 5:15 |
+| 63 | [Ajj Din Chadheya](https://open.spotify.com/track/7N30pzJGFwnYU8iuzxWS7l) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 5:15 |
 | 64 | [Aisa Des Hai Mera](https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 7:07 |
 | 65 | [Maula Mere Lele Meri Jaan](https://open.spotify.com/track/0OWzDem8abfJvWpQcssjIE) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Krishna](https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Chak De India](https://open.spotify.com/album/5KXiMrupdPZf2sR6WrZTvh) | 4:48 |
 | 66 | [Paisa](https://open.spotify.com/track/5waPZcxgliOcZxCjswryDb) | [Manak\-E](https://open.spotify.com/artist/7Bo2dGFMSkPVyx4S9oZnlG), [Selina](https://open.spotify.com/artist/0EJbLQbOGlc2zdJcG3tyFN), [R.D.B.](https://open.spotify.com/artist/5FUVk1yU9n4YWUf4dWBkxD) | [De Dana Dan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ntxc2fLSmC8ZuuxyFDONG) | 3:54 |

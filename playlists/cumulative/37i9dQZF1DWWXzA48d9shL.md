@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-350 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+351 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [BERMUDA 1399](https://open.spotify.com/track/4KgXSXgEVoFd5u6CbXjKPW) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9), [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O) | [BERMUDA 1399](https://open.spotify.com/album/5tdMXvSCmrb73MZ6CzHRWV) | 2:49 | 2022-07-15 | 2022-11-19 |
 | [Big Glocks](https://open.spotify.com/track/1zfZr8Du68quGUondXyQJG) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Drop out of School 2](https://open.spotify.com/album/1Qag4WvK52tzo07YN8qM1j) | 2:40 | 2021-09-17 | 2022-06-11 |
 | [Big Spenders](https://open.spotify.com/track/3ICBNoMJAznVpzlNhEdMvG) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC) | [Big Spenders](https://open.spotify.com/album/2tQEXvTzMKKrrwbp4PVD7R) | 2:31 | 2022-02-04 |  |
-| [BIRTH](https://open.spotify.com/track/1qh0aljq1lDQndEdpRiTra) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [6 Senz](https://open.spotify.com/artist/147cJWfJ6XKAh9T8ohr7Ts) | [BIRTH](https://open.spotify.com/album/463dUkywfNHbaX5dgnNEMT) | 3:58 | 2022-09-16 |  |
+| [BIRTH](https://open.spotify.com/track/1qh0aljq1lDQndEdpRiTra) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [6 Senz](https://open.spotify.com/artist/147cJWfJ6XKAh9T8ohr7Ts) | [BIRTH](https://open.spotify.com/album/463dUkywfNHbaX5dgnNEMT) | 3:58 | 2022-09-16 | 2022-12-15 |
 | [Biscuit](https://open.spotify.com/track/4cuwwRBCMMwbzyhWoupVLU) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [Biscuit](https://open.spotify.com/album/4GlOQKrgNtGVXPMof6T7mq) | 1:55 | 2021-11-05 | 2022-06-04 |
 | [BLACK LAGOON](https://open.spotify.com/track/1QcI03qNTvdEJxVoM7aTYd) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [BLACK LAGOON](https://open.spotify.com/album/6IgnfMmF6gQynEWlF0clgE) | 1:30 | 2021-09-17 | 2022-07-27 |
 | [Bleach \(feat\. Denzel Curry\)](https://open.spotify.com/track/09QvHJHDHbuptkaalGchss) | [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [DOG BOY](https://open.spotify.com/album/5RongMpRt5jcdZ7gpAKtWn) | 2:30 | 2021-09-17 | 2022-06-01 |
@@ -125,6 +125,7 @@
 | [Eye Spy](https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Eye Spy](https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB) | 2:26 | 2022-10-28 |  |
 | [FAKE](https://open.spotify.com/track/3hmu0jyxSShogL95NOZcLS) | [OMINVS](https://open.spotify.com/artist/3Bq0nZu9BVpiZ1jTjTqZQd) | [FAKE](https://open.spotify.com/album/6gIhwhg2qlvjWZjaYVaQjb) | 1:28 | 2022-06-28 |  |
 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 | 2022-04-22 |  |
+| [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-12-14 |  |
 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 | 2022-06-24 | 2022-11-19 |
 | [Floor 555](https://open.spotify.com/track/6r7ULK6c5CLVvImjTIztl1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:33 | 2022-04-05 | 2022-05-16 |
 | [FMZ](https://open.spotify.com/track/7BRaV0abZpAFtHlwyeckP5) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [FMZ](https://open.spotify.com/album/49fyTqDk38lgABCzMRNahd) | 2:36 | 2022-09-26 | 2022-11-30 |
@@ -332,7 +333,7 @@
 | [VOIDED](https://open.spotify.com/track/2P80oFW7fkxf4IlJn3tU9D) | [Dawsxn](https://open.spotify.com/artist/3uPpIPF3bXMyQYCglS7dZL), [Wasteland Doctor](https://open.spotify.com/artist/6k9QRlQGgtlSZiJhnvKVqC) | [VOIDED](https://open.spotify.com/album/1qVjnfZmTU80xGD1VxTVZE) | 3:03 | 2022-04-15 | 2022-06-25 |
 | [walk it off](https://open.spotify.com/track/3t6mxuFd2pCLP1IMXS7q9E) | [William Crooks](https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw) | [Running as fast as I can](https://open.spotify.com/album/4LgWJecsEj31HGQ8AFUGfJ) | 2:01 | 2022-04-21 | 2022-04-23 |
 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 | 2022-08-12 |  |
-| [Warcraft](https://open.spotify.com/track/3luIs9OHtRXThYSaZcqbfW) | [Sensi Affect](https://open.spotify.com/artist/3Euk7oBiNSGOnpUIjLzt9z), [Chernoburkv](https://open.spotify.com/artist/1zcTcHOp1uK94S5DZsMsM8) | [Warcraft](https://open.spotify.com/album/2zPuKQZnGvbFEXdVgAe2eR) | 2:21 | 2022-09-16 |  |
+| [Warcraft](https://open.spotify.com/track/3luIs9OHtRXThYSaZcqbfW) | [Sensi Affect](https://open.spotify.com/artist/3Euk7oBiNSGOnpUIjLzt9z), [Chernoburkv](https://open.spotify.com/artist/1zcTcHOp1uK94S5DZsMsM8) | [Warcraft](https://open.spotify.com/album/2zPuKQZnGvbFEXdVgAe2eR) | 2:21 | 2022-09-16 | 2022-12-15 |
 | [Wassup Freestyle](https://open.spotify.com/track/1YAXjpBwANfiHbT846tdGQ) | [Tommy Saint](https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH) | [Wassup Freestyle](https://open.spotify.com/album/3MmPjbFWXOIL9V9ZkXBJfM) | 2:09 | 2022-03-22 | 2022-06-25 |
 | [WATCH YA TONE!](https://open.spotify.com/track/378vMJuHHsDM5ObsBZGdby) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [WATCH YA TONE!](https://open.spotify.com/album/3E18krQisBREy8oAH975Ta) | 2:31 | 2022-10-14 | 2022-11-19 |
 | [Watchyoursix](https://open.spotify.com/track/3exyIETiY1GXm2I1chXSpI) | [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [Blood Bender Mixtape](https://open.spotify.com/album/5AFks02CYx2R92ilzIBQLl) | 2:58 | 2021-09-17 | 2022-05-12 |

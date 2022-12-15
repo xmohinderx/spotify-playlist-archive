@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Trueno & JID
 
-452 songs - 1 day 1 hr 34 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
+453 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Brillo](https://open.spotify.com/track/1qvnAuPUVH5c6wAOmJiZlM) | [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT), [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be) | [Brillo](https://open.spotify.com/album/12hIXLsjLvgy3L8P0QrVv6) | 3:03 | 2022-10-07 | 2022-12-10 |
 | [Brillo](https://open.spotify.com/track/0kHS60aDOHYi4Z6W1HvP0o) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Brillo](https://open.spotify.com/album/43y4fdgRCeUlGxLLq4jBfO) | 3:03 | 2022-05-13 | 2022-10-09 |
 | [Brindis](https://open.spotify.com/track/6YcdB0kRFCSMOojS0EbVPR) | [A.M.Vicious](https://open.spotify.com/artist/1VDJuCTCYsiTvNYfdr3NUV), [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [The Wave](https://open.spotify.com/album/15oqcyablsJuQykhPOvb0f) | 2:26 | 2022-02-02 | 2022-05-09 |
+| [BRRR](https://open.spotify.com/track/029cuB69yYCgVHND32hjcT) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:36 | 2022-12-14 |  |
 | [Buen Viaje](https://open.spotify.com/track/3Rmu4NKTTjJvScgZaKkMJG) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit 1](https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm) | 2:50 | 2022-01-19 |  |
 | [Bulletproof](https://open.spotify.com/track/5F5d2SNc5MiJd0XZ4R6G4q) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq), [JD Asere](https://open.spotify.com/artist/54MH1AfZsVLacop0Wxzn7V), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Bulletproof](https://open.spotify.com/album/30eFS7kdBoX3LS0j8UCN4I) | 3:02 | 2022-01-19 | 2022-07-29 |
 | [Burbujas de Cristal](https://open.spotify.com/track/4X1fQMrCbBLSkZKPvhO1Kj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/63x472Q4wWqzhfjUURqAfU) | 3:44 | 2022-01-06 | 2022-01-20 |
@@ -185,7 +186,7 @@
 | [Gucci En Mis Pies](https://open.spotify.com/track/4RhKIBupRs3ID7Svb8kiwX) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Gucci En Mis Pies](https://open.spotify.com/album/2BsIAX7gf3766JS3tdH0ys) | 3:51 | 2022-01-06 | 2022-10-08 |
 | [Hago Ruido](https://open.spotify.com/track/6vTX1n0ZFlX722ei4lhqTL) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Hago Ruido](https://open.spotify.com/album/2YRshOe2JVXGDqHhrQDx4m) | 5:13 | 2022-01-06 | 2022-05-14 |
 | [HAKUNA MATATA](https://open.spotify.com/track/3ILaMpMBKg20qQV4QyUKfv) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Homie Valdes](https://open.spotify.com/artist/4xpYqbJsvXlBLYpgeKcsxp), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [HAKUNA MATATA](https://open.spotify.com/album/4MjyVlE22LEIZel1QzRkKA) | 3:14 | 2022-01-06 | 2022-01-20 |
-| [Harlem Pr](https://open.spotify.com/track/740mUk7sXKRH3k39Mv7q5n) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Harlem Pr](https://open.spotify.com/album/1p6rtnEH4ic1L9fzlLqeis) | 3:34 | 2022-01-19 |  |
+| [Harlem Pr](https://open.spotify.com/track/740mUk7sXKRH3k39Mv7q5n) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Harlem Pr](https://open.spotify.com/album/1p6rtnEH4ic1L9fzlLqeis) | 3:34 | 2022-01-19 | 2022-12-15 |
 | [Hasta Que la Muerte Nos Separe](https://open.spotify.com/track/6zOsBRWOkXBeEHK8xmLzws) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:21 | 2022-01-06 | 2022-01-20 |
 | [HELLCAT](https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [HELLCAT](https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV) | 3:06 | 2022-10-07 | 2022-12-10 |
 | [High](https://open.spotify.com/track/7LqMaAu4pK8ReI1aKtOihF) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [High](https://open.spotify.com/album/5Ei8rV8yeyi0Eg5cPDLeBL) | 2:40 | 2022-01-06 | 2022-01-20 |

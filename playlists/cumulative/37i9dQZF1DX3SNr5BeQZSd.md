@@ -4,12 +4,13 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-130 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+132 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5:32pm](https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz) | 2:16 | 2022-09-09 |  |
-| [\[oops\]](https://open.spotify.com/track/7JgZbix8xDasAhbn3N7eIF) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/5bVU9WsKLocZOukajEMk3V) | 2:22 | 2022-09-09 |  |
+| [\[oops\]](https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy) | 2:22 | 2022-12-09 |  |
+| [\[oops\]](https://open.spotify.com/track/7JgZbix8xDasAhbn3N7eIF) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/5bVU9WsKLocZOukajEMk3V) | 2:22 | 2022-09-09 | 2022-12-15 |
 | [Affection](https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY) | 1:57 | 2022-11-11 |  |
 | [Affection](https://open.spotify.com/track/7MdZQXUBijQxcBkYz4G1Z5) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/52qF0r4f9WihHYUDcINmmC) | 1:57 | 2022-09-09 | 2022-11-19 |
 | [Amend](https://open.spotify.com/track/7LOR8Rdc5n2EkduOXZeTp6) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Spoils](https://open.spotify.com/album/6k5ksX8Bwr3gVGq4VtadyG) | 1:44 | 2022-10-14 |  |
@@ -44,7 +45,8 @@
 | [I'll Bite Your Soul](https://open.spotify.com/track/71qKWIBggc7poNXclWN53M) | [SHRK](https://open.spotify.com/artist/3bDsGKWVVP8NdrqpiB0rEp), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Love](https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK) | 2:03 | 2022-09-09 |  |
 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 | 2022-09-09 |  |
 | [I'll Keep You Safe](https://open.spotify.com/track/4BUzc4qriPgSp3z3WtGYo5) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'm not a look, I'm a feeling.](https://open.spotify.com/album/1rmKXaDRLDBIUkzHZcBlip) | 3:05 | 2022-11-11 | 2022-11-14 |
-| [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 | 2022-09-09 |  |
+| [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 | 2022-09-09 | 2022-12-15 |
+| [i'm closing my eyes](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 1:58 | 2022-12-09 |  |
 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 | 2022-09-09 |  |
 | [i'm in love with u, sorry](https://open.spotify.com/track/5p684vIzF5LOkmHL3I0tyM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [i'm in love with u, sorry](https://open.spotify.com/album/4bwwiOqoiN3PMKWjy4A8eD) | 1:30 | 2022-12-09 |  |
 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2022-09-09 | 2022-12-10 |

@@ -2798,6 +2798,58 @@
     },
     {
       "album": {
+        "name": "Beethoven: The Symphonies",
+        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 695893,
+      "name": "Symphony No. 2 in D Major, Op. 36: I. Adagio molto - Allegro con brio",
+      "url": "https://open.spotify.com/track/7uzXSsbbOJjGeRQ3cCKi4z"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Symphonies",
+        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553546,
+      "name": "Symphony No. 2 in D Major, Op. 36: II. Larghetto",
+      "url": "https://open.spotify.com/track/6NXGfvlzfwoO44etLpbuAf"
+    },
+    {
+      "album": {
         "name": "Beethoven: Symphonies Nos.1 & 2",
         "url": "https://open.spotify.com/album/6RtKpeRISLTP7CmSaFbYOO"
       },
@@ -2847,58 +2899,6 @@
       "duration_ms": 695893,
       "name": "Symphony No. 2 in D, Op. 36: 1. Adagio molto - Allegro con brio",
       "url": "https://open.spotify.com/track/6CYcGn9ovbglDC9FwLX2VF"
-    },
-    {
-      "album": {
-        "name": "Beethoven: The Symphonies",
-        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "date_added": "2022-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 695893,
-      "name": "Symphony No. 2 in D, Op. 36: 1. Adagio molto - Allegro con brio",
-      "url": "https://open.spotify.com/track/7uzXSsbbOJjGeRQ3cCKi4z"
-    },
-    {
-      "album": {
-        "name": "Beethoven: The Symphonies",
-        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "date_added": "2022-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 553546,
-      "name": "Symphony No. 2 in D, Op. 36: 2. Larghetto",
-      "url": "https://open.spotify.com/track/6NXGfvlzfwoO44etLpbuAf"
     },
     {
       "album": {
@@ -3371,7 +3371,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 811906,
-      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": 1. Allegro ma non troppo, un poco maestoso",
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": I. Allegro ma non troppo, un poco maestoso",
       "url": "https://open.spotify.com/track/3HifyVE7xq0su2F6Hz7ie6"
     },
     {
@@ -3397,7 +3397,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 856053,
-      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": 2. Molto vivace",
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": II. Molto vivace",
       "url": "https://open.spotify.com/track/2GAcOueBAbwU0kgaXKVAdM"
     },
     {
@@ -3423,7 +3423,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 771320,
-      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": 3. Adagio molto e cantabile",
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": III. Adagio molto e cantabile",
       "url": "https://open.spotify.com/track/69nDKRbYZLGNEkPhImEVGB"
     },
     {

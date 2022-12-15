@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,916 likes - 99 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,142 likes - 99 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 21 | [let me hold you](https://open.spotify.com/track/66k75vZNgRnOuJosuAFNeY) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:25 |
 | 22 | [Oblivion](https://open.spotify.com/track/2zhPy8zbBf53XgTtkEbnbO) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/2ICXkeX9vhcboodu8Auv8p) | [Oblivion](https://open.spotify.com/album/0Oa8rgpPA3gskDwdjpQBHp) | 2:32 |
 | 23 | [Tell Me Why I'm Waiting](https://open.spotify.com/track/3xbUCRFut7tzBoD2F8L56y) | [Timmies](https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Passion & Confusion](https://open.spotify.com/album/5unak64thjeLQpZqSONKqz) | 2:03 |
-| 24 | [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 |
+| 24 | [i'm closing my eyes](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 1:58 |
 | 25 | [Can't Take My Eyes off You](https://open.spotify.com/track/2InH5NvwoEymOEeUhpUq48) | [Craymer](https://open.spotify.com/artist/14FalyPBwXYg2XLauocHaU), [AIIVAWN](https://open.spotify.com/artist/7qYVVP9RdHRKzElE6EZQsn) | [Can't Take My Eyes off You](https://open.spotify.com/album/76GPbP7KEgSGqDsyJ2FN1T) | 4:00 |
 | 26 | [I'll Bite Your Soul](https://open.spotify.com/track/71qKWIBggc7poNXclWN53M) | [SHRK](https://open.spotify.com/artist/3bDsGKWVVP8NdrqpiB0rEp), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Love](https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK) | 2:03 |
 | 27 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 46 | [love](https://open.spotify.com/track/1vgH8Pxm88SZAtNDFj1pKT) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:21 |
 | 47 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 |
 | 48 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
-| 49 | [\[oops\]](https://open.spotify.com/track/7JgZbix8xDasAhbn3N7eIF) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/5bVU9WsKLocZOukajEMk3V) | 2:22 |
+| 49 | [\[oops\]](https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy) | 2:22 |
 | 50 | [Masat Magan](https://open.spotify.com/track/1zlnvuxG4N82DjX7OakKdu) | [Rajan Chutiya](https://open.spotify.com/artist/1RpUdBXcT4oCmP6oKQyKNk) | [Masat Magan](https://open.spotify.com/album/7lPh90GH6ZEeGGiEpHS0jy) | 3:53 |
 | 51 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 |
 | 52 | [Hosanna \- Lofi Flip](https://open.spotify.com/track/7BbhFrLzCP7DdnV69vVbCv) | [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Jammy Weirdo](https://open.spotify.com/artist/64QCKFA8kD38Waf5EXbSRp), [Mig](https://open.spotify.com/artist/7omB2Vc993xt3mpwAcosYe) | [Hosanna \(Lofi Flip\)](https://open.spotify.com/album/4g9Bvb10Z0SL4PkVLUbBIM) | 4:16 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 98 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 99 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY3MDU4NzQzMiwwMDAwMDAwMDM0YTMyMWY2MGY1OThlYmI5ODk3YTk1MWQ2NWY4N2Jm`
+Snapshot ID: `MTY3MDU4NzQzMiwwMDAwMDAwMDM3MzUwMTJlM2ViZDE1ODdkNzRlM2M4ZTQyZDcyNGY0`

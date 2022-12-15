@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-303 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+304 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [I Wanna Fall](https://open.spotify.com/track/0GHmTC6AUzWOUR8thoxzsB) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/69aXkfD7bJROlPuZok3Vf3) | 3:27 | 2022-12-02 |  |
 | [I Wanna Fall](https://open.spotify.com/track/5m5LuulFGsW8p6X6K1PJMX) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Vulnerable](https://open.spotify.com/album/4G4S7oiK7aezWTGsv7cJih) | 3:27 | 2022-12-02 | 2022-12-09 |
 | [I'm Pressed](https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [I'm Pressed](https://open.spotify.com/album/6YrhUIZvO1zL3MN7d2tFZl) | 3:01 | 2022-08-26 | 2022-10-08 |
-| [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 |  |
+| [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 | 2022-10-07 |  |
+| [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 | 2022-12-15 |
 | [If You Must Go](https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft) | [Sækyi](https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB) | [If You Must Go](https://open.spotify.com/album/67mwgOp6oS2Gx7AHJ9icFr) | 3:16 | 2022-09-30 |  |
 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 | 2021-12-17 | 2022-03-05 |
 | [IMONFOUR](https://open.spotify.com/track/6W2UHUILmqhwvmZKk10EJp) | [Airospace](https://open.spotify.com/artist/6gnWD8bGyUUn1H9j87F0B1) | [IMONFOUR](https://open.spotify.com/album/1pZP63ZmkHUfBICAg9SZkN) | 2:48 | 2022-05-27 | 2022-08-13 |

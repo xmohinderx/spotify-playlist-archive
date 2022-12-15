@@ -2274,6 +2274,24 @@
     },
     {
       "album": {
+        "name": "Mi Raz\u00f3n de Ser",
+        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ricardo",
+          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261600,
+      "name": "Por Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos de Salsa",
         "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
@@ -2325,24 +2343,6 @@
       "duration_ms": 306960,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ"
-    },
-    {
-      "album": {
-        "name": "Mi Raz\u00f3n de Ser",
-        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ricardo",
-          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
-        }
-      ],
-      "date_added": "2022-08-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 261600,
-      "name": "Porqu\u00e9 Ser\u00e1",
-      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
     },
     {
       "album": {

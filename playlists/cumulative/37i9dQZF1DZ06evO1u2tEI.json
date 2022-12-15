@@ -1020,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Heaven Adores You Soundtrack",
+        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84013,
+      "name": "Untitled Guitar Finger Picking - Demo",
+      "url": "https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z"
+    },
+    {
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },

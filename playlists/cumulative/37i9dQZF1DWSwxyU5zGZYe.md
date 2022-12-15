@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-55 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/1ZkV0CfmGhvgxDrLrEpQmF)
+56 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/1ZkV0CfmGhvgxDrLrEpQmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Saadi Galli Aaja](https://open.spotify.com/track/6riCsiX9csuomBYnenrtGd) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Nautanki Saala !](https://open.spotify.com/album/1QpPhM0ZUV9OX1bfHYMJxV) | 4:13 | 2022-04-11 |  |
 | [Sham](https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:44 | 2022-04-11 |  |
 | [Taarefon Se](https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 4:38 | 2022-04-11 |  |
+| [Tose Naina Lage \(Unplugged\)](https://open.spotify.com/track/3ceyAysjbknWYu2C3Bgkin) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Tose Naina Lage \(Unplugged\) \- Single](https://open.spotify.com/album/26mT72BDl53qzqXSR9bRUD) | 2:09 | 2022-12-14 |  |
 | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/track/1V9MzOZA1PRhK0VCFMf8II) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/album/3NlyYQJD6uH1SAGG2f8kpn) | 2:28 | 2022-04-11 |  |
 | [Tujhko Jo Paaya](https://open.spotify.com/track/62kyw2ux2p0CZ7pKWtM6QO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Crook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/298NO23hfv1nhAE0gQ5vLN) | 3:04 | 2022-04-11 |  |
 | [Tum Se Hi \(Reprise\) \(From "Sadak 2"\) \(feat\. Alia Bhatt\)](https://open.spotify.com/track/4xhxNVJ21MayyOpKUnFd7W) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Tum Se Hi \(Reprise\) \(feat\. Alia Bhatt\) \[From "Sadak 2"\]](https://open.spotify.com/album/4qXletW47OQdSrNSmLYVNs) | 4:05 | 2022-04-11 |  |

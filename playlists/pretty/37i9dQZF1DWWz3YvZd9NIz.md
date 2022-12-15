@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 243 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 45 | [Africa \(Shinzo Radio Edit\)](https://open.spotify.com/track/3Gnyu3henEnnYl6LeUt2Dj) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Nick Skitz](https://open.spotify.com/artist/0b56YzqAu22jh2CDUYvbbx), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Africa \(The Remixes\)](https://open.spotify.com/album/339hhBU7RbxyYhXVfXBagi) | 4:11 |
 | 46 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 |
 | 47 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 |
-| 48 | [Bitter Sweet Symphony \- Steve 80 Remix Edit](https://open.spotify.com/track/1lMb49nY7AujNWWzqvdICg) | [Nicky Starr](https://open.spotify.com/artist/2AOEuEgAgkk7d2IfY55qKO), [Steve 80](https://open.spotify.com/artist/1bnZbvih1s62vaQoMGKkdx) | [Trippy Trippy](https://open.spotify.com/album/29Ofy4dYlrEnYnUbkJB2t6) | 3:27 |
-| 49 | [Never Alone \- Re\-Style Remix](https://open.spotify.com/track/06uht1keHAWyzBtdDIOgoe) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [Never Alone \(Re\-Style Remix\)](https://open.spotify.com/album/60lF2PCjpf4rFnly1cJHrI) | 3:50 |
-| 50 | [Summer Of '69 \- Happy Høken Remix](https://open.spotify.com/track/16lPRTSin20Ifp9oXYzKFu) | [Beatcrooks](https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b) | [Speel Niet Met M'n Voeten](https://open.spotify.com/album/23ZZXD0Pf40J7I4fZW1pQY) | 2:57 |
+| 48 | [Shirt Off & Twist It](https://open.spotify.com/track/0G3wGKSz3Anx87GsRh0xJu) | [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Shirt Off & Twist It](https://open.spotify.com/album/2vPItAIuH8LxOlkxmbXMVo) | 2:45 |
+| 49 | [Bitter Sweet Symphony \- Steve 80 Remix Edit](https://open.spotify.com/track/1lMb49nY7AujNWWzqvdICg) | [Nicky Starr](https://open.spotify.com/artist/2AOEuEgAgkk7d2IfY55qKO), [Steve 80](https://open.spotify.com/artist/1bnZbvih1s62vaQoMGKkdx) | [Trippy Trippy](https://open.spotify.com/album/29Ofy4dYlrEnYnUbkJB2t6) | 3:27 |
+| 50 | [Never Alone \- Re\-Style Remix](https://open.spotify.com/track/06uht1keHAWyzBtdDIOgoe) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [Never Alone \(Re\-Style Remix\)](https://open.spotify.com/album/60lF2PCjpf4rFnly1cJHrI) | 3:50 |
 
-Snapshot ID: `MTY3MDkyNDYyMiwwMDAwMDAwMDU4N2NjYmM2YmFlYWQ0NzJmODliNTRhZTBkMWY1MTI4`
+Snapshot ID: `MTY3MTAzNjAwOSwwMDAwMDAwMDIyN2EwZDExY2VhZTNmYTgxNDEzZDBlMzE3MDU5MTRi`

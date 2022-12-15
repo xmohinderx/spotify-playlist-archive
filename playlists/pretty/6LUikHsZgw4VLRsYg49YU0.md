@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > All your favorite openings &amp; ending songs from the top anime shows and films\. Includes Chainsaw Man, BLEACH, Evangelion, Bocchi The Rock, Naruto, My Hero Academia, Kill La Kill, Devilman Crybaby, Seven Deadly Sins and many more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 3,935 likes - 40 songs - 2 hr 40 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 3,934 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 | 4 | [Number One \(vocal ver.\)](https://open.spotify.com/track/4BKetvTh5lMcIDlv9tYQgW) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 4:56 |
 | 5 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 |
 | 6 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 |
-| 7 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Utada Hikaru](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
+| 7 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
 | 8 | [The Cruel Angel's Thesis](https://open.spotify.com/track/1QFPI3slA71XOdiBV5qti1) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 4:06 |
 | 9 | [NARUTO Main Theme](https://open.spotify.com/track/5kKloaKFvAuDNFi8m52hxy) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 4:26 |
 | 10 | [Inferno](https://open.spotify.com/track/6ZXVnfb7cIIDxg1DfLCP1M) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/1QZBK8EZ4KSQTlunvEwL7o) | 3:54 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 | 15 | [βios](https://open.spotify.com/track/30XxVjgbzt3BhaZIRIriaE) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [GUILTY CROWN COMPLETE SOUNDTRACK](https://open.spotify.com/album/0GYWaav81pYQVP3QcOdVv1) | 4:33 |
 | 16 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 |
 | 17 | [Rising Hope](https://open.spotify.com/track/6cjLwn9Y6xm2laGb9BV3um) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rising Hope](https://open.spotify.com/album/2GMe4oDPk85ZVhF2aBhdkH) | 4:12 |
-| 18 | [PINK BLOOD](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) | [Utada Hikaru](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [PINK BLOOD](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) | 3:17 |
+| 18 | [PINK BLOOD](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [PINK BLOOD](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) | 3:17 |
 | 19 | ["BATTLING" \(E\-1\)](https://open.spotify.com/track/7eXsoJR7GiWrVCJxSN6IeX) | [MALI](https://open.spotify.com/artist/2iibMtpgLHIWW3VAM9R2ly) | [EVANGELION\-VOX](https://open.spotify.com/album/1gMB4dihAeL8Nzzn9eJBFd) | 4:46 |
 | 20 | [Devilman No Uta](https://open.spotify.com/track/4d9L9pBJNGmHMKs36RgP4e) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 3:05 |
 | 21 | [Become the Wind](https://open.spotify.com/track/1a5iQILKS8Ke0Yhaqu3Sgd) | [Ray](https://open.spotify.com/artist/5DjK0HQaczIK7lWWcsGnVG), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 4:54 |

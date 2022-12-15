@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,221 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,270 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 |
 | 2 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 |
-| 3 | [Weeee Are Fu×kin Super Hero!!](https://open.spotify.com/track/0pALulRRtNQF4QXBHHE32s) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 2:32 |
+| 3 | [Weeee Are Fuxkin Super Hero!!](https://open.spotify.com/track/4fvM3fAOG2BWgicIbVdSdz) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:32 |
 | 4 | [Merry\-Go\-Round](https://open.spotify.com/track/3tGXnGvZpT4fzua650wrRh) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Merry\-Go\-Round](https://open.spotify.com/album/4DTvXuio482igL0edC2jsZ) | 4:03 |
 | 5 | [嘘じゃない](https://open.spotify.com/track/0ayjyEFPDtTlWQcSbT407P) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [嘘じゃない](https://open.spotify.com/album/1q8qopPQcpacjsyzD0BWhY) | 4:18 |
-| 6 | [Revengers](https://open.spotify.com/track/3ZwA5xXDVek02SKxz3upNU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 2:27 |
+| 6 | [Revengers](https://open.spotify.com/track/0qWg7OtwyOJCWon829FVO0) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:27 |
 | 7 | [Heroes mission](https://open.spotify.com/track/57MFMA037LWr4Ra2CnZOXE) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | ["My Hero Academia" Soundtrack Selection 2019 \- 2021](https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi) | 1:39 |
 | 8 | [No.1](https://open.spotify.com/track/7b7QqKepv8wY6VopSmQqX8) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [No.1](https://open.spotify.com/album/1xy3hzpDwrU7E0nMzfKgo9) | 3:50 |
 | 9 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
-| 10 | [We'll be everyone's heroes](https://open.spotify.com/track/4bT4iTECgzOCLIONpjdVh4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 1:54 |
+| 10 | [We'll be everyone's heroes](https://open.spotify.com/track/6LznbpWs5WcsIqymkDPUa6) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 1:54 |
 | 11 | [GO Beyond!!](https://open.spotify.com/track/0BVYDK8ei7zSuRvy24rbLj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | ["My Hero Academia" Soundtrack Selection 2019 \- 2021](https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi) | 6:25 |
 | 12 | [エンパシー](https://open.spotify.com/track/2QaD2jnLNJgvyjT84hODSE) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [エンパシー](https://open.spotify.com/album/2rb7VoFHOluiQsRfSFwkii) | 4:44 |
 | 13 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
 | 14 | [Hero too](https://open.spotify.com/track/0VPkaJMRQIhYWXiE1LqaCK) | [KYOKA JIRO Starring Chrissy Costanza](https://open.spotify.com/artist/3KKbJAgAcYQBsOBA1sEHVO), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 4:18 |
 | 15 | [スターマーカー \(Album Mix\)](https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Honey & Darling](https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL) | 3:33 |
 | 16 | [ハイヤーグラウンド](https://open.spotify.com/track/6kRLCygHi8SvEL2MWbfzcg) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [AMUSIC](https://open.spotify.com/album/77S1EmlVIWKiXrtwt21sZ1) | 3:47 |
-| 17 | [All for my sake](https://open.spotify.com/track/3cq8ZVsVrhUmI0uO7aFGht) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 3:37 |
+| 17 | [All for my sake](https://open.spotify.com/track/6lAxb7FbIr5yxto0NiFE38) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 3:37 |
 | 18 | [I'll be your hero](https://open.spotify.com/track/7Ex5OWpR7dFfoTVWau789a) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | ["My Hero Academia" Soundtrack Selection 2019 \- 2021](https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi) | 2:59 |
 | 19 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 |
-| 20 | [Dabi Dance](https://open.spotify.com/track/6oaGaIgZcVofL5tkTe012K) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 2:48 |
+| 20 | [Dabi Dance](https://open.spotify.com/track/1ac0rW28wbCz5W5QRaKAln) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:48 |
 | 21 | [Might](https://open.spotify.com/track/6YD0zF5VFBXvwmQqAlZWnE) | [Makayla Phillips](https://open.spotify.com/artist/3jWmy4ZEloWRoAiMiHI9f7), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 5:43 |
 | 22 | [航海の唄](https://open.spotify.com/track/6uaMKPLKSFNQ3wYSeWGCoU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:42 |
 | 23 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 54 | [ロングホープ・フィリア](https://open.spotify.com/track/2tPQxzloliTGZHSnuoblD8) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 4:55 |
 | 55 | [戦闘許可!](https://open.spotify.com/track/6OmhUA5iVoSzbtCNLteTpa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:25 |
 
-Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMGJkODMzMTEwZmQ0MTA5N2YyZmZjMmU2YjZkYTFmZDI1`
+Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMGMzZDg4OWVmY2VjNTY5NmM4NGYwM2Q1ZTFkOTg0NGQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: HoneyLuv, Dope Earth Alien
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,996 likes - 95 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,990 likes - 95 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 68 | [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 |
 | 69 | [Jurojin](https://open.spotify.com/track/1IJ4zLPavD1YX4suCCwHWN) | [Saad Ayub](https://open.spotify.com/artist/2ulEOi17CGvnTNd9RpY9AR) | [Jurojin](https://open.spotify.com/album/39u0iAtBL9yTTD9ovSoYlf) | 3:48 |
 | 70 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 |
-| 71 | [Rabbit Hole](https://open.spotify.com/track/4T2i7b1SkRTGHmT5Xr6ym9) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Rabbit Hole](https://open.spotify.com/album/0wanFcSpIzJwxpEIgr7sVe) | 3:58 |
+| 71 | [Rabbit Hole](https://open.spotify.com/track/4T2i7b1SkRTGHmT5Xr6ym9) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Rabbit Hole](https://open.spotify.com/album/0wanFcSpIzJwxpEIgr7sVe) | 3:58 |
 | 72 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 | 73 | [Let It Go](https://open.spotify.com/track/5bABQWkbZQAdVGhD9HIX4l) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx) | [Let It Go](https://open.spotify.com/album/3ld6eLkg5UurwvwSKraSUX) | 2:57 |
 | 74 | [Pieces](https://open.spotify.com/track/0nPaWkxRGHwPsJ65vv0eQA) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Simon Skylar](https://open.spotify.com/artist/6WxMSNar4meHmzxiUpbdim), [Undrwvter](https://open.spotify.com/artist/3zeOp42xdgvPHEtbIDxxMQ) | [Pieces](https://open.spotify.com/album/01I3Gom6St5yrjN8ymZOOt) | 2:33 |

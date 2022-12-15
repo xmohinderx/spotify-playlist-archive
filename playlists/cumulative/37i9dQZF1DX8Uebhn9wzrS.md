@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,147 songs - 1 day 19 hr 40 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
+1,148 songs - 1 day 19 hr 43 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,8 +103,9 @@
 | [be there](https://open.spotify.com/track/3IL60PU36seYbzKWavqIKu) | [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [be there](https://open.spotify.com/album/6BexsxKWHy1EKhmttbKdBr) | 1:44 | 2022-06-17 | 2022-07-15 |
 | [Beach Flowers](https://open.spotify.com/track/4rfqbamBmNANSJagibCaal) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Beach Flowers](https://open.spotify.com/album/76CKcn5LDD09atNLtSwn4R) | 1:36 | 2022-05-13 | 2022-11-12 |
 | [Beat Soup](https://open.spotify.com/track/2FnpKIYWlU8oPpwlT9049r) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Beat Soup](https://open.spotify.com/album/6dEsyuYCALQJpT04B0Qvic) | 1:51 | 2022-05-13 |  |
-| [bebiendo mimosas en una hamaca](https://open.spotify.com/track/3ZmHZzwDi0hcPlC6xkBeKa) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [bebiendo mimosas en una hamaca](https://open.spotify.com/album/0CU9sF8SUKODFp8AdRHo3S) | 2:51 | 2022-11-18 |  |
+| [bebiendo mimosas en una hamaca](https://open.spotify.com/track/3ZmHZzwDi0hcPlC6xkBeKa) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [bebiendo mimosas en una hamaca](https://open.spotify.com/album/0CU9sF8SUKODFp8AdRHo3S) | 2:51 | 2022-11-18 | 2022-12-15 |
 | [bebiendo mimosas en una hamaca](https://open.spotify.com/track/3s5A9isqd5xHMjzdNnWC4E) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [bebiendo mimosas en una hamaca](https://open.spotify.com/album/3XLe6sP4yHAoUMpQHiEgCu) | 2:51 | 2022-08-19 | 2022-11-20 |
+| [bebiendo mimosas en una hamaca](https://open.spotify.com/track/6ckaDxQRPiBO7usX2jF5Qz) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [bebiendo mimosas en una hamaca](https://open.spotify.com/album/1Ykv1KtI0IVae0iG9s937B) | 2:51 | 2022-12-09 |  |
 | [Bebop drop](https://open.spotify.com/track/0w7ZNAfkAlWkLk1eGeAUfw) | [Cliffswanger](https://open.spotify.com/artist/4QyxQiNcbM0FyD9QA6vQcW) | [Bebop drop](https://open.spotify.com/album/4mwOZXEJpbWi39mQ1si34X) | 2:08 | 2022-10-07 |  |
 | [Bedroom Blues](https://open.spotify.com/track/4t3Z814iGT0URcS0ngMEFk) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Bedroom Blues](https://open.spotify.com/album/1LQtGwotUfxdGcvaUckfhx) | 2:07 | 2022-05-13 |  |
 | [Beer](https://open.spotify.com/track/3YlrqoKFUbIynPo4Bj2sxy) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beer](https://open.spotify.com/album/06WnLOraloov43vf1NVS01) | 3:01 | 2022-12-02 |  |

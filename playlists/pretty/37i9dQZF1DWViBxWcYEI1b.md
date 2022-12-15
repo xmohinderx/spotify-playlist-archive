@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Alexander Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,623 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,633 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 39 | [The Shield](https://open.spotify.com/track/5gps9XXQPo90zgo1dLztdo) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [The Festival](https://open.spotify.com/album/6FB8Z2KMnKTKUbsZp6Qc5K) | 4:09 |
 | 40 | [The Good Parts](https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [The Good Parts](https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj) | 3:18 |
 | 41 | [Wish You the Worst](https://open.spotify.com/track/2nOFCbKjEwEJBJu7eSMczI) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:55 |
-| 42 | [criminal](https://open.spotify.com/track/3uJ6LonaZHCqjlQ6vevlqn) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0XUvbobEmBV6fALSvl7V28) | 2:37 |
+| 42 | [criminal](https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5) | 2:37 |
 | 43 | [There She Goes \- Spotify Singles](https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Spotify Singles](https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ) | 2:57 |
 | 44 | [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 |
 | 45 | [almost happy](https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [almost happy](https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Birthday Candles](https://open.spotify.com/track/35mg2KWWSX3dkSOS25O54v) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Birthday Candles](https://open.spotify.com/album/1YenToGAsE92Di1G3D2Sa2) | 3:13 |
 | 100 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDcyY2ZkODIxM2U4NGZjMWVjMzU1ZGNhMGM0YTM2YWUz`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDY5ZTQxOTdmMzcxMzQ1MTBlYWZiMzhlYzJiMDBkMThh`

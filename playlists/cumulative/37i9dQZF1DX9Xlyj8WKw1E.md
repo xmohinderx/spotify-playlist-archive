@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover, Babyface Ray
 
-317 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
+318 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [I Love You, But…](https://open.spotify.com/track/3c2DJDAr8OQ3Eutr9bQkqF) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [I Love You, But...](https://open.spotify.com/album/7KBzvoBpBIDZzy6z5FqOcl) | 2:56 | 2022-10-25 | 2022-12-03 |
 | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/track/6PF4penvueXSemUAILV3Bd) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/album/1llYHboVMsUMORLIq5CssO) | 2:22 | 2022-08-12 | 2022-10-26 |
 | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0) | 2:03 | 2022-04-02 | 2022-09-03 |
-| [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-25 |  |
+| [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 | 2022-10-25 |  |
+| [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-25 | 2022-12-15 |
 | [IDGAF](https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [IDGAF](https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI) | 2:18 | 2022-08-19 |  |
 | [If I Want You](https://open.spotify.com/track/4RTPe8icsISnFUp3IvEX4j) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [If I Want You](https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8) | 3:13 | 2022-08-26 | 2022-10-26 |
 | [In the AM](https://open.spotify.com/track/4DynNGEF9qrdcaJzR1nf7o) | [Josh K](https://open.spotify.com/artist/5sDi2TINo53uVZScP0lYYL) | [In the AM](https://open.spotify.com/album/0nwSj4y8dRbVd8L3Mg6M7j) | 2:36 | 2022-03-04 | 2022-04-02 |

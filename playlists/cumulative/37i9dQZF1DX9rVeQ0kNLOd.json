@@ -935,7 +935,7 @@
     {
       "album": {
         "name": "set me free",
-        "url": "https://open.spotify.com/album/7999p1sHV2i321TKGjmTXU"
+        "url": "https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ"
       },
       "artists": [
         {
@@ -946,6 +946,24 @@
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230500,
+      "name": "set me free",
+      "url": "https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM"
+    },
+    {
+      "album": {
+        "name": "set me free",
+        "url": "https://open.spotify.com/album/7999p1sHV2i321TKGjmTXU"
+      },
+      "artists": [
+        {
+          "name": "Kaoruko",
+          "url": "https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
       "duration_ms": 230500,
       "name": "set me free",
       "url": "https://open.spotify.com/track/3CXll77W7YrXHo0jTQfm4t"
@@ -1021,6 +1039,24 @@
       "duration_ms": 162253,
       "name": "Tada de Futotta Jinsei",
       "url": "https://open.spotify.com/track/2Qb4apNFWlRnZNfTtLGL4F"
+    },
+    {
+      "album": {
+        "name": "Till Tomorrow, Trust Tomorrow",
+        "url": "https://open.spotify.com/album/0FzesRZPhYGAKiiRvpTIP3"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245232,
+      "name": "Till Tomorrow, Trust Tomorrow",
+      "url": "https://open.spotify.com/track/34xXw6peMNDzTjGvgM2pCx"
     },
     {
       "album": {
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 245232,
       "name": "\u305d\u308c\u3067\u3082\u660e\u65e5\u306f",
       "url": "https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt"

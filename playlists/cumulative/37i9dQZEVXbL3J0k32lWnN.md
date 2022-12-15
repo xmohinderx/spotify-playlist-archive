@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-906 songs - 1 day 23 hr 31 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+907 songs - 1 day 23 hr 34 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [ISTANBUL](https://open.spotify.com/track/3e44wTPS5QF1cIUgcVqX5T) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:34 | 2021-09-25 | 2021-10-23 |
 | [ISTANBUL](https://open.spotify.com/track/3B5npN1TjDjdb9bUL1RwN6) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [ISTANBUL](https://open.spotify.com/album/7qOSqaJQrdB3AWAbcP8jNG) | 2:34 | 2021-09-12 | 2021-09-25 |
+| [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 | 2022-12-14 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-27 | 2022-02-13 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-11-22 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-11-28 |  |
@@ -817,7 +818,7 @@
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-05-22 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-09-04 | 2022-03-13 |
 | [Tides](https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:15 | 2021-10-31 | 2021-11-05 |
-| [Tidsrejsen](https://open.spotify.com/track/5jl2ASpLH6ch4vkD4xcpyq) | [Caroline Castell](https://open.spotify.com/artist/4vRpu2xRHEtlmBoI5nsK7P) | [Tidsrejsen](https://open.spotify.com/album/0qgtqZdjNCEqrZq4Jr5f1g) | 3:52 | 2021-11-26 |  |
+| [Tidsrejsen](https://open.spotify.com/track/5jl2ASpLH6ch4vkD4xcpyq) | [Caroline Castell](https://open.spotify.com/artist/4vRpu2xRHEtlmBoI5nsK7P) | [Tidsrejsen](https://open.spotify.com/album/0qgtqZdjNCEqrZq4Jr5f1g) | 3:52 | 2021-11-26 | 2022-12-15 |
 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 | 2022-01-01 | 2022-01-03 |
 | [Tinka](https://open.spotify.com/track/2f82yXiMKGkX2CtbkhgtvT) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Frida Brygmann](https://open.spotify.com/artist/6ohx0Iujh5kRkt5BibHlXj) | [Et Barn Af Jul](https://open.spotify.com/album/2NoVdaZGygsj673n8ndWyV) | 3:21 | 2021-11-14 |  |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-23 |

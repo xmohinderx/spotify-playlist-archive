@@ -4,7 +4,7 @@
 
 > Just chill.
 
-408 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+409 songs - 23 hr 39 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 | 2021-02-05 | 2022-11-02 |
 | [cloud castle](https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:03 | 2022-08-19 | 2022-11-12 |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2020-03-30 | 2022-08-06 |
-| [Colors We Made](https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Permanent Beta](https://open.spotify.com/album/4s22gKBrVyGtFSXez21EWV) | 2:50 | 2020-08-21 |  |
+| [Colors We Made](https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Permanent Beta](https://open.spotify.com/album/4s22gKBrVyGtFSXez21EWV) | 2:50 | 2020-08-21 | 2022-12-15 |
+| [Colors We Made](https://open.spotify.com/track/2wnt2dMobi8aEqsvYK8N0k) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Colors We Made](https://open.spotify.com/album/6efiQ3j3RIFy6oYHbeziIu) | 2:50 | 2022-08-19 |  |
 | [Come Down When You're Ready](https://open.spotify.com/track/1guFmtftIo1lNcin08glmH) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Come Down When You're Ready](https://open.spotify.com/album/1Q2UTZxAQVJe3kQog1zsEP) | 4:11 | 2020-07-31 | 2022-01-22 |
 | [Comfortable \(feat\. Hand Habits\)](https://open.spotify.com/track/43U3PxxpEJGNs7BCAn8oTS) | [Quarter\-Life Crisis](https://open.spotify.com/artist/3qnQaCIYlxiFNyd4oIwuKW), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Comfortable](https://open.spotify.com/album/51b0cORlSI2dJzC5P33a2k) | 2:39 | 2020-11-13 | 2022-01-22 |
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-21 | 2022-11-12 |

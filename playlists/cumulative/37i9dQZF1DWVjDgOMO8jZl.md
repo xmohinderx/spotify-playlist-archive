@@ -2,7 +2,7 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
+> Scopri il documentario speciale dedicato a Rhove e la playlist con alcune delle top promesse della musica italiana!
 
 82 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
 
@@ -52,7 +52,7 @@
 | [Millemila](https://open.spotify.com/track/21Z6MRumkQbvgyfXPrrMrW) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Millemila](https://open.spotify.com/album/5TdbB1CB4H90cDWSHlBFNC) | 2:48 | 2022-08-31 |  |
 | [Mon Frère](https://open.spotify.com/track/0ECjuTZzoNxv8hRSYS05AX) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Mon Frère](https://open.spotify.com/album/4oNPumU0MDQmVBp22tZLil) | 2:51 | 2022-08-31 |  |
 | [Moncherie \(feat\. Epoque\)](https://open.spotify.com/track/3WEIhQXeExw6gRwxvOa1Ny) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Il giorno in cui ho smesso di pensare](https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq) | 2:43 | 2022-08-31 |  |
-| [Montpellier](https://open.spotify.com/track/0B6URTmcGaWaXCnBtRiDGR) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Montpellier](https://open.spotify.com/album/1oM9EITMQKknIPJ1pxNTza) | 2:10 | 2022-08-31 |  |
+| [Montpellier](https://open.spotify.com/track/0B6URTmcGaWaXCnBtRiDGR) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Montpellier](https://open.spotify.com/album/1oM9EITMQKknIPJ1pxNTza) | 2:10 | 2022-08-31 | 2022-12-15 |
 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 | 2022-08-31 |  |
 | [Next Big Thing](https://open.spotify.com/track/3kkvWnuim3d3n9qXCBg9mT) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Goedi](https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 3:19 | 2022-08-31 |  |
 | [Non mi fa dormire \(feat\. Caffellatte\)](https://open.spotify.com/track/3V2nxW0jTVF60OKbNepxUn) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Non mi fa dormire \(feat\. Caffellatte\)](https://open.spotify.com/album/535CWlyiMJgJOgRvbyDF4R) | 2:46 | 2022-08-31 |  |

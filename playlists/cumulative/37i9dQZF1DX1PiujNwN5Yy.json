@@ -1878,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "album": {
         "name": "Ausente",
         "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
       },
@@ -1987,7 +2005,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 109986,
       "name": "Q Tiempos Aquellos",
       "url": "https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG"
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 227571,
       "name": "The Top",
       "url": "https://open.spotify.com/track/5a8zFeKUi02rwbKlMZeNiZ"
@@ -2871,7 +2889,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 183142,
       "name": "ya te vas",
       "url": "https://open.spotify.com/track/35Sc4rTNlRNSNfI8BPMnTl"

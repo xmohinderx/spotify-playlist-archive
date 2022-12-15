@@ -4,7 +4,7 @@
 
 > make it pop! cover: The 1975
 
-502 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+503 songs - 1 day 1 hr 34 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Dead Man Walking](https://open.spotify.com/track/2ol8FEyh73HwRoirGIbNh8) | [Lost Stars](https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG) | [Dead Man Walking](https://open.spotify.com/album/5d4OHlY3hciR9R7QKBK2vF) | 3:07 | 2022-01-28 | 2022-04-16 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-09-24 |
 | [Deja Vu](https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p) | [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Deja Vu](https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY) | 2:31 | 2022-06-10 | 2022-08-13 |
-| [Destination](https://open.spotify.com/track/49JXBEa33UUqVb0sdiGIQS) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/5WFKsYhq4eXgAx0mbEYkw6) | 2:43 | 2022-09-23 |  |
+| [Destination](https://open.spotify.com/track/49JXBEa33UUqVb0sdiGIQS) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/5WFKsYhq4eXgAx0mbEYkw6) | 2:43 | 2022-09-23 | 2022-12-15 |
+| [Destination](https://open.spotify.com/track/6UdTm1JRcm4c5iKTWANe9Q) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/0rp4hHB8wUkhM5z3bVZWc5) | 2:43 | 2022-09-23 |  |
 | [Destination](https://open.spotify.com/track/7C7bJ7Y8ifewQHwWJn0cHj) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/3HNG2SeXfTjlK6uB714dns) | 2:43 | 2022-09-23 | 2022-11-06 |
 | [Die Right Here](https://open.spotify.com/track/7fXYFuCTmNrYRGwEUUf5iz) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Die Right Here](https://open.spotify.com/album/5AYf4H1ZSeVznqc6nuPm89) | 2:07 | 2021-12-17 | 2022-02-26 |
 | [dirty white chucks](https://open.spotify.com/track/1OPfgyxxTSpIBuIUORr6x9) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dirty white chucks](https://open.spotify.com/album/6CUvOeg6Sn0Lnhh6yiYwHN) | 2:38 | 2022-10-14 |  |

@@ -4,7 +4,7 @@
 
 > 60 Canadian artists to watch in 2023, handpicked by our curators\. \#SpotifyWrapped
 
-963 songs - 2 day 1 hr 20 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+964 songs - 2 day 1 hr 23 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2022-11-11 |  |
 | [Cowboy Stay](https://open.spotify.com/track/4ektwEWFmKsJ5rULHKJfPu) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Cowboy Stay](https://open.spotify.com/album/2NxdmeKvsjFcUVEevFuFs5) | 2:38 | 2022-08-05 | 2022-09-03 |
 | [Crime of the Century](https://open.spotify.com/track/6VLrRwqYS9tHYRdWdBlMAL) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Crime of the Century](https://open.spotify.com/album/3KFAfbgxPVWzvvENkeFxOv) | 2:49 | 2022-04-01 | 2022-05-07 |
-| [criminal](https://open.spotify.com/track/3uJ6LonaZHCqjlQ6vevlqn) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0XUvbobEmBV6fALSvl7V28) | 2:37 | 2022-11-30 |  |
+| [criminal](https://open.spotify.com/track/3uJ6LonaZHCqjlQ6vevlqn) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0XUvbobEmBV6fALSvl7V28) | 2:37 | 2022-11-30 | 2022-12-15 |
+| [criminal](https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5) | 2:37 | 2022-11-30 |  |
 | [CROSS ME, CROSSED OUT](https://open.spotify.com/track/6E1mT0en2u5y19ouuQmhXH) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [CROSS ME, CROSSED OUT](https://open.spotify.com/album/35swiQ4Bk1HwtKmORy9TAa) | 2:37 | 2022-11-11 | 2022-12-01 |
 | [Crossed Wires](https://open.spotify.com/track/3qxhvx0fN9n2qmLOvvSJdB) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Crossed Wires](https://open.spotify.com/album/2HmAD3gWMZieKs02oDodWE) | 3:05 | 2022-03-04 | 2022-04-02 |
 | [cruise control](https://open.spotify.com/track/72uh8sdfHtUQcD1asTVOqf) | [Chakky](https://open.spotify.com/artist/6OVdtD62dqKYHBz10L7h5q) | [cruise control](https://open.spotify.com/album/1CsMgEIO593nWdRmCobzL1) | 3:00 | 2022-03-04 | 2022-04-02 |

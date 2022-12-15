@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,452 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,470 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 42 | [Mistake](https://open.spotify.com/track/3cKEPwsUlavywIrz3yjfw4) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [Mistake](https://open.spotify.com/album/0C9TJmoKVNAcdnQxr6BmHh) | 2:28 |
 | 43 | [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 |
 | 44 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 |
-| 45 | [Destination](https://open.spotify.com/track/49JXBEa33UUqVb0sdiGIQS) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/5WFKsYhq4eXgAx0mbEYkw6) | 2:43 |
+| 45 | [Destination](https://open.spotify.com/track/6UdTm1JRcm4c5iKTWANe9Q) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/0rp4hHB8wUkhM5z3bVZWc5) | 2:43 |
 | 46 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 |
 | 47 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 |
 | 48 | [i’m sorry for everything](https://open.spotify.com/track/2oQcWuQ41tSHKPo2UN83qe) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [i’m sorry for everything](https://open.spotify.com/album/779EcXlno6YlpYStO2Sz2m) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 69 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 |
 | 70 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGI3ODJhMWFhMzU5ZGFiY2MwMTg4MzIzYmUwNGIyNDll`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDQ3M2E4NzAwNTRmMjQzNWM5ZmIxODgzYTAzM2JkMjgz`

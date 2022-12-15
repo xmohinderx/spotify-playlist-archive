@@ -1,12 +1,12 @@
 {
   "description": "ft. 100 gecs ",
-  "num_followers": 354741,
+  "num_followers": 355008,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk1OTU1MiwwMDAwMDAwMDBmMWYxZjAxYTcyOTE1MzU1ZDI2MDg4MGRhOTNkOGVj",
+  "snapshot_id": "MTY3MTA0OTcwMCwwMDAwMDAwMDRkMGE0YmU5NDJiMGZhMjNiMWE2YzJiZGJjZjlmYWVl",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -65,26 +65,6 @@
       "url": "https://open.spotify.com/track/6eE2XyXIvINbBfu4zaILUX"
     },
     {
-      "added_at": "2022-12-09 05:25:00",
-      "album": {
-        "name": "Superstar : The Remixes",
-        "url": "https://open.spotify.com/album/71mi9VWItmUtvIidIgo1Pj"
-      },
-      "artists": [
-        {
-          "name": "That Kid",
-          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
-        },
-        {
-          "name": "Petal Supply",
-          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
-        }
-      ],
-      "duration_ms": 138082,
-      "name": "Just Another Day - Petal Supply Remix",
-      "url": "https://open.spotify.com/track/40DhYNOtlg5vro3eXfp54V"
-    },
-    {
       "added_at": "2022-09-23 07:48:00",
       "album": {
         "name": "ABC (feat. Sophia Black)",
@@ -103,6 +83,26 @@
       "duration_ms": 152361,
       "name": "ABC (feat. Sophia Black)",
       "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "Superstar : The Remixes",
+        "url": "https://open.spotify.com/album/71mi9VWItmUtvIidIgo1Pj"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        },
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        }
+      ],
+      "duration_ms": 138082,
+      "name": "Just Another Day - Petal Supply Remix",
+      "url": "https://open.spotify.com/track/40DhYNOtlg5vro3eXfp54V"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H"
     },
     {
-      "added_at": "2022-12-09 05:25:00",
-      "album": {
-        "name": "rave",
-        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 117624,
-      "name": "two",
-      "url": "https://open.spotify.com/track/2t6m7AWTXQxA892kcJUcZZ"
-    },
-    {
       "added_at": "2022-11-18 05:09:00",
       "album": {
         "name": "bugging!",
@@ -361,6 +345,38 @@
       "url": "https://open.spotify.com/track/6Md0EvbTJd4EHBncTHWCDw"
     },
     {
+      "added_at": "2022-12-14 20:28:20",
+      "album": {
+        "name": "She Wanna (version)",
+        "url": "https://open.spotify.com/album/3l1rulfqK6rPsl3e3uRhon"
+      },
+      "artists": [
+        {
+          "name": "Nation",
+          "url": "https://open.spotify.com/artist/03D2b6ATNCne8B3D251ncQ"
+        }
+      ],
+      "duration_ms": 234350,
+      "name": "She Wanna - version",
+      "url": "https://open.spotify.com/track/3HVWlTVhtSj1b94fiRyK7T"
+    },
+    {
+      "added_at": "2022-09-23 07:48:00",
+      "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/4x0XH60BafgPP0VscoT5EE"
+      },
+      "artists": [
+        {
+          "name": "Bad Smith",
+          "url": "https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw"
+        }
+      ],
+      "duration_ms": 212415,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/6Yxg0dq94Q4ZIE4ncHrufi"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "bad reputation",
@@ -377,6 +393,22 @@
       "url": "https://open.spotify.com/track/2lQvwqK0xkUqxrm5W9YtQW"
     },
     {
+      "added_at": "2022-09-28 04:05:00",
+      "album": {
+        "name": "three wheels and it still drives!",
+        "url": "https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 200117,
+      "name": "three wheels and it still drives!",
+      "url": "https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk"
+    },
+    {
       "added_at": "2022-12-09 05:25:00",
       "album": {
         "name": "outta my head",
@@ -389,7 +421,7 @@
         },
         {
           "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/1NLgX5GAA6HTCc6OW65Cvs"
+          "url": "https://open.spotify.com/artist/4g877MIJJioFI4ufpbuUb9"
         }
       ],
       "duration_ms": 185454,
@@ -411,6 +443,22 @@
       "duration_ms": 136540,
       "name": "fisheye",
       "url": "https://open.spotify.com/track/5FyREIsIuTxSlt3kYuAqx6"
+    },
+    {
+      "added_at": "2022-12-09 05:25:00",
+      "album": {
+        "name": "rave",
+        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 117624,
+      "name": "two",
+      "url": "https://open.spotify.com/track/2t6m7AWTXQxA892kcJUcZZ"
     },
     {
       "added_at": "2022-11-25 05:02:00",
@@ -467,22 +515,6 @@
       "duration_ms": 117394,
       "name": "draugr",
       "url": "https://open.spotify.com/track/1UrZ6imOCcIUuENbqhbTjS"
-    },
-    {
-      "added_at": "2022-09-28 04:05:00",
-      "album": {
-        "name": "three wheels and it still drives!",
-        "url": "https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 200117,
-      "name": "three wheels and it still drives!",
-      "url": "https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk"
     },
     {
       "added_at": "2022-11-25 05:02:00",
@@ -719,22 +751,6 @@
       "duration_ms": 103795,
       "name": "Bad Vibes",
       "url": "https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "Miss U",
-        "url": "https://open.spotify.com/album/4x0XH60BafgPP0VscoT5EE"
-      },
-      "artists": [
-        {
-          "name": "Bad Smith",
-          "url": "https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw"
-        }
-      ],
-      "duration_ms": 212415,
-      "name": "miss u",
-      "url": "https://open.spotify.com/track/6Yxg0dq94Q4ZIE4ncHrufi"
     },
     {
       "added_at": "2022-11-15 16:17:36",
@@ -989,22 +1005,6 @@
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
     },
     {
-      "added_at": "2022-11-18 05:09:00",
-      "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/4ETMbTOkSeUx4lANoYQi1F"
-      },
-      "artists": [
-        {
-          "name": "GOM",
-          "url": "https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu"
-        }
-      ],
-      "duration_ms": 109560,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/51R1xeUf5cPnZRqsnndBxo"
-    },
-    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Breathe",
@@ -1115,26 +1115,6 @@
       "duration_ms": 142290,
       "name": "SOS",
       "url": "https://open.spotify.com/track/6VadjsKC8hvS4E6FQGUKIc"
-    },
-    {
-      "added_at": "2022-10-14 04:22:00",
-      "album": {
-        "name": "apartmnt",
-        "url": "https://open.spotify.com/album/1mqj22B6EL8FsqVOBfRtFJ"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 94791,
-      "name": "apartmnt",
-      "url": "https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1671,22 +1651,6 @@
       "duration_ms": 169500,
       "name": "Show Me What",
       "url": "https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "SID THE KID",
-        "url": "https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV"
-      },
-      "artists": [
-        {
-          "name": "Deaton Chris Anthony",
-          "url": "https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk"
     },
     {
       "added_at": "2022-09-27 15:01:13",

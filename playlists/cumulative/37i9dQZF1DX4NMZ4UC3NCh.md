@@ -2,9 +2,9 @@
 
 ### [This Is Red Velvet](https://open.spotify.com/playlist/37i9dQZF1DX4NMZ4UC3NCh)
 
-> Happiness! This is Red Velvet! The ReVe Festival 2022 is here!
+> Happiness! This is Red Velvet! Red Velvet wants everyone to have a Beautiful Christmas!
 
-137 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/4k3z85A5Fsbx0TjazYclfQ)
+138 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/4k3z85A5Fsbx0TjazYclfQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [BAMBOLEO](https://open.spotify.com/track/0jXneVxiitQZsbtftH7HHJ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:28 | 2022-03-22 |  |
 | [Be Natural](https://open.spotify.com/track/03j5je630wlJeQbJTV2lIo) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [Be Natural](https://open.spotify.com/album/6vwGOcHL4iz6PRQfHu6DUh) | 4:40 | 2022-03-22 | 2022-07-29 |
 | [Be Natural](https://open.spotify.com/track/41qLzxymjkp0R5vl3REb1S) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [Be Natural \- The 2nd Single](https://open.spotify.com/album/4OeQ9nilS4Sy3efzt0hVFi) | 4:40 | 2022-03-22 |  |
+| [Beautiful Christmas](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Beautiful Christmas](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG) | 3:29 | 2022-12-14 |  |
 | [Beg For Me](https://open.spotify.com/track/6Zr6W8j3jJ3z50XsBCvm3e) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:32 | 2022-03-22 |  |
 | [Better Be](https://open.spotify.com/track/5NIjdxrVUW4GGyLIqXUw9K) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:00 | 2022-03-22 |  |
 | [Bing Bing](https://open.spotify.com/track/0tHkBl71ZHXaFdc0sNGQHz) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:22 | 2022-03-22 |  |

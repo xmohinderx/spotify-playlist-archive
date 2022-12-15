@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring INZO.
 
-602 songs - 1 day 8 hr 35 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+604 songs - 1 day 8 hr 41 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,6 +560,7 @@
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-23 | 2022-06-04 |
 | [Useless](https://open.spotify.com/track/6hm2FJTdvkLis7O2HAwGJT) | [h3nlla](https://open.spotify.com/artist/0YWF99D1OENerVdcdzPZuQ) | [Useless](https://open.spotify.com/album/0RxGwv5L7REj4SPoKAVLcb) | 2:08 | 2022-01-14 | 2022-01-29 |
 | [Vans \- King Kavalier Remix](https://open.spotify.com/track/2PsA5RgMKiWCubVCJRxHvY) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [King Kavalier](https://open.spotify.com/artist/2WHVbKysnJdhkB4VBWxC3v) | [Fear \(The Remixes\)](https://open.spotify.com/album/4mf2DXx8ap2fliFDyYKleT) | 2:45 | 2022-01-14 | 2022-09-15 |
+| [Venom](https://open.spotify.com/track/3tacyVZsROkiT12vHRbllJ) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Venom](https://open.spotify.com/album/1lgRPhvyHG092PPPN6b9V1) | 3:18 | 2022-12-14 |  |
 | [Visions](https://open.spotify.com/track/4Z3C4gdBVL8INjfDkUviNn) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Visions](https://open.spotify.com/album/60MVEOKz4pVB7JKdHUyFyp) | 2:44 | 2022-03-10 | 2022-04-09 |
 | [Voices](https://open.spotify.com/track/3FsvEEbnIbJzNdpFndf5iM) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Voices](https://open.spotify.com/album/7gYw0aHBDQ3il1QzOKpanx) | 2:52 | 2022-08-28 | 2022-10-08 |
 | [Vortex](https://open.spotify.com/track/0QmjtrK695axPhCtW2uSqm) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj), [Skypierr](https://open.spotify.com/artist/6ikUaio9cyA7emXcX49hZP), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:07 | 2022-06-16 | 2022-11-24 |
@@ -608,6 +609,7 @@
 | [You're Not Alone](https://open.spotify.com/track/4idjrwbfYRg5QlqJqdBQyT) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Cinema Kid](https://open.spotify.com/artist/0zPDD8eFOxihKPKPI0uZEz) | [You're Not Alone](https://open.spotify.com/album/6sbh8lCL3pBkNYpx05qFTZ) | 4:02 | 2022-10-27 |  |
 | [Your Eyes](https://open.spotify.com/track/7yrKgSRkxZauC7dwcnA8bs) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Bassline II](https://open.spotify.com/album/55srtArhktHU1UJTjfOcmy) | 2:38 | 2022-03-18 | 2022-07-29 |
 | [Your Vibe](https://open.spotify.com/track/2GHtkrbTsHndIzreO9YNg6) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Your Vibe](https://open.spotify.com/album/2XMvIwxlTm6mHIldjXpiIK) | 4:01 | 2022-07-28 |  |
+| [Zeus](https://open.spotify.com/track/3uHjfqPvS5eQFP7GXwx6Ax) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Vinsmoker](https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u) | [Zeus](https://open.spotify.com/album/1vjqn2gidi3DECbymVbKrW) | 2:14 | 2022-12-14 |  |
 | [ケアレス \(Slushii Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/0Frhp8XDDaf8S8upKYqPx2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [ケアレス \(Slushii Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/0ow5kLmDSNugPeajkl6uq5) | 2:58 | 2022-05-06 | 2022-06-18 |
 | [境界線 \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/track/3AAvbpyyti6U6lTUynTkKc) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [境界線 \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/album/0sxrl5sn0l6Y3KEWvNynfJ) | 3:23 | 2022-01-14 | 2022-03-04 |
 

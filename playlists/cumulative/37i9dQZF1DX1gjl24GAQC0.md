@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? Cover: SHINHWA WDJ \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? Cover: 0WAVE \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-400 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/1rQmqTB8OYYXGSYSv738KR)
+401 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/1rQmqTB8OYYXGSYSv738KR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 | 2021-12-08 |  |
 | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/track/1F9FQp9dnnQWTkaK6Nzm1W) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/album/6MYKofPnqIdjfznGSopzCi) | 3:20 | 2021-12-08 | 2022-07-15 |
 | [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2021-12-08 |  |
-| [Flash](https://open.spotify.com/track/5HUSHuEQ2u49F2Bn7V7OI4) | [SHINHWA WDJ](https://open.spotify.com/artist/3sQoi7YsPFaxKcQlSemJ93) | [Come To Life](https://open.spotify.com/album/7DAnweYfgKkI2OzupEMnQC) | 3:16 | 2022-12-07 |  |
+| [Flash](https://open.spotify.com/track/5HUSHuEQ2u49F2Bn7V7OI4) | [SHINHWA WDJ](https://open.spotify.com/artist/3sQoi7YsPFaxKcQlSemJ93) | [Come To Life](https://open.spotify.com/album/7DAnweYfgKkI2OzupEMnQC) | 3:16 | 2022-12-07 | 2022-12-15 |
 | [FLASH](https://open.spotify.com/track/1q3C6brbmRrULTyo2mseKF) | [X1](https://open.spotify.com/artist/6C4irZ60X8G7UimMRQiCcg) | [QUANTUM LEAP](https://open.spotify.com/album/09sGMSeeP4bZQOCTpgKGX8) | 3:31 | 2021-12-08 | 2022-07-23 |
 | [FLEX](https://open.spotify.com/track/3p0YrVoaMqcu2gn1lIgnWF) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 3](https://open.spotify.com/album/5EYvdnybFnDjM7HlOASNCZ) | 3:41 | 2022-01-27 | 2022-04-18 |
 | [FOCUS ON ME](https://open.spotify.com/track/1JQPZKIXKU3wdOSjk2ILgM) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:36 | 2022-03-22 | 2022-04-19 |
@@ -178,6 +178,7 @@
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-12-08 |  |
 | [Help Me](https://open.spotify.com/track/50WdPcO8BwSG3yqWnKNBaZ) | [Block B \- BASTARZ](https://open.spotify.com/artist/70ptvBQye3QMlbuTKrF1qb) | [I'm a mess.](https://open.spotify.com/album/5BA4WQunvYgNb3VLaziamV) | 3:04 | 2022-04-04 | 2022-04-19 |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2022-04-12 | 2022-04-18 |
+| [hey](https://open.spotify.com/track/6I2OEdbHkkaZTOi3mWpHjq) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [off the wall](https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d) | 2:54 | 2022-12-15 |  |
 | [Highway to Heaven](https://open.spotify.com/track/12ksjJ2DDQZu0a1fvJnTRE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:20 | 2022-01-14 | 2022-04-15 |
 | [HIT](https://open.spotify.com/track/0xHgclG2TeqIzB8N3Wb5rP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HIT](https://open.spotify.com/album/36HsGgJsOHL4cHqR4J2GEU) | 3:23 | 2022-01-27 | 2022-06-24 |
 | [Hold](https://open.spotify.com/track/2XD5I0ZeUVwM4LFSEKmKst) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Hold](https://open.spotify.com/album/6rh15TQEKLTUVGzjeSHWbB) | 2:56 | 2022-01-03 | 2022-07-03 |

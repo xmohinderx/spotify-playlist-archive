@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'll dance, dance, dance with my hands, hands, hands 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,365 likes - 620 songs - 1 day 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,661 likes - 620 songs - 1 day 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

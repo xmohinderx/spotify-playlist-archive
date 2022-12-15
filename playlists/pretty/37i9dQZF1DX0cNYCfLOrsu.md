@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > Jada Kingdom selects the baddest in Dancehall for the gyaldem.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,279 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,323 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 21 | [I Can Feel Your Pain](https://open.spotify.com/track/0tpaQpIJnRQ8GQ0BLjQFlg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [I Can Feel Your Pain](https://open.spotify.com/album/3m0h3NcSXFHcFiJGrxx1aO) | 4:23 |
 | 22 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
 | 23 | [Bless\-Sin](https://open.spotify.com/track/3ngHXvYEgaZex41OjmpMJu) | [Zerimar](https://open.spotify.com/artist/7IbkKTNpBj7MORRdt3oge3) | [Bless\-Sin](https://open.spotify.com/album/3igYL8gvd1EDIrnO5fo2x3) | 3:48 |
-| 24 | [Señorita](https://open.spotify.com/track/3LiT0O7d6Xj78anH3T0tLf) | [Maestro Don](https://open.spotify.com/artist/6sgu3qdyKJZuXyCdUxBRPV), [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci) | [Señorita](https://open.spotify.com/album/1LBqEhWeeeNOleFewq2zOY) | 2:55 |
+| 24 | [Señorita](https://open.spotify.com/track/3LiT0O7d6Xj78anH3T0tLf) | [Maestro Don](https://open.spotify.com/artist/6sgu3qdyKJZuXyCdUxBRPV), [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [KevStar](https://open.spotify.com/artist/2rcsgAwBAbLfiuFcPNIZr7) | [Señorita](https://open.spotify.com/album/1LBqEhWeeeNOleFewq2zOY) | 2:55 |
 | 25 | [Unfaithful Games](https://open.spotify.com/track/1kZ5wCFlcuV7qN2abxU3LO) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Unfaithful Games](https://open.spotify.com/album/0QDzewuAi0KMRc1oYzQCc9) | 2:42 |
 | 26 | [Cookie Jar](https://open.spotify.com/track/764mhTks6eJyqcKw4itUQ2) | [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [Cookie Jar](https://open.spotify.com/album/5ZeOhFGmF9wYVrlgaiVn9a) | 3:07 |
 | 27 | [Feelings \(Remix\)](https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Feelings \(Remix\)](https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba) | 3:37 |

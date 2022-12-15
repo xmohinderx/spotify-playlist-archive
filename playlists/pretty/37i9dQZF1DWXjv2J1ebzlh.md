@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,797 likes - 1,202 songs - 3 day 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,865 likes - 1,202 songs - 3 day 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -776,7 +776,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 766 | [Ay Qué Rico](https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Champagne](https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6) | 3:29 |
 | 767 | [El Cumbanchero](https://open.spotify.com/track/1RdRQO0vu4sfc8UuqLKLL9) | [Sabu](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [Palo Congo](https://open.spotify.com/album/0yPE5s2h0XF9Umc6ENEKE8) | 5:39 |
 | 768 | [Mal Élevé](https://open.spotify.com/track/79jn9hQP9u1uobtxIWDw43) | [Raoul Guillaume Et Son Groupe](https://open.spotify.com/artist/5oNgVj96yALgbbdNXgz7df) | [Haiti Direct \- Big Band, Mini Jazz & Twoubadou Sounds, 1960\-1978](https://open.spotify.com/album/3JIX1Ua9b5UPPsk5ovVg6m) | 3:30 |
-| 769 | [Katunga](https://open.spotify.com/track/031KqYKOurfURoOyI2GwZE) | [Los Soneros De Gamero](https://open.spotify.com/artist/7okHK7NaNwxujUlsF3aIdW) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 3:26 |
+| 769 | [Katunga](https://open.spotify.com/track/6XVBxEx7kWyr4TWBTZqt6d) | [Los Soneros De Gamero](https://open.spotify.com/artist/7okHK7NaNwxujUlsF3aIdW) | [Bailando](https://open.spotify.com/album/3FKWeXjx5EoeQiC8x8IMmn) | 3:24 |
 | 770 | [A la Memoria del Muerto](https://open.spotify.com/track/57WxfUbLrs0R0gypZ8uLYH) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [A la Memoria del Muerto](https://open.spotify.com/album/3SwEwgGjVQKPU6o5PxJ0uY) | 4:22 |
 | 771 | [Dans La Vie](https://open.spotify.com/track/6bssjzalhYCM4cFgnk8YjX) | [Les Shleu Shleu](https://open.spotify.com/artist/3lxLm6XdYOTwQcv5mS5V5T) | [Ace Frape](https://open.spotify.com/album/7nJnMc5zoDpYg8XqyTmOEo) | 8:12 |
 | 772 | [El abanico](https://open.spotify.com/track/3tcti84ksNL3qUJddVNucQ) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 3:23 |
@@ -1211,4 +1211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1201 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1202 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY3MDQxNzU4MSwwMDAwMDAwMDE2OTkxYjQ4OWE1Y2ZjYWU2YzE0YTdkNThiYzQ0MmQx`
+Snapshot ID: `MTY3MDQxNzU4MSwwMDAwMDAwMGQzNGI0ODgzZmMxZmVjNGMwOTA5ODZkYWU2OTQ0YjEx`

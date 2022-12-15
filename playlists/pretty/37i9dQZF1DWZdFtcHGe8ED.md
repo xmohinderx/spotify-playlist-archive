@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,268 likes - 120 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,394 likes - 120 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

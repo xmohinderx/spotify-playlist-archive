@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,990 likes - 350 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,193 likes - 350 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 157 | [Castle](https://open.spotify.com/track/0WUs4bOtcRF52R9BaXsZn1) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j), [JFlove](https://open.spotify.com/artist/3TC2tAGycjFEmG8BMloKHP) | [Castle](https://open.spotify.com/album/3NJCQUd4ZTepboWnrpVdTj) | 1:36 |
 | 158 | [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 |
 | 159 | [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 |
-| 160 | [Hot Stones](https://open.spotify.com/track/2022877RqBEPVfODofVbbN) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi) | 1:45 |
+| 160 | [Hot Stones](https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1) | 1:45 |
 | 161 | [by all means](https://open.spotify.com/track/2mJQ8Mr3FRKaHSbyHcDews) | [Sohma](https://open.spotify.com/artist/6SdnUpAVCNtgWvn4riBwZE), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [by all means](https://open.spotify.com/album/4l6JOhah9cGKWXFD5tN3C9) | 2:44 |
 | 162 | [Evolving](https://open.spotify.com/track/37hLVHigPp4MXxcVXuCYNS) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Evolving](https://open.spotify.com/album/65z7ihFuafei3XHk0jwcPq) | 1:55 |
 | 163 | [It's Real](https://open.spotify.com/track/43cvBPKTYdJESkGr9jqmOR) | [Suede Wallet](https://open.spotify.com/artist/2oTCWOKOMia5kg2jep7nKY), [mariussax](https://open.spotify.com/artist/5w7HPDu1t1FSCEfjEm3tKE), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [It's Real](https://open.spotify.com/album/0M6zhqqm3JwLaSr5Amkt55) | 2:30 |
@@ -305,7 +305,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 295 | [Nostalgia Midnight Blue](https://open.spotify.com/track/2mc1gRCwxC8LP4qtX90qgv) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Nostalgia Midnight Blue](https://open.spotify.com/album/0C47SewkHps0G91nwTcASm) | 3:07 |
 | 296 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 |
 | 297 | [Done](https://open.spotify.com/track/0fX9ormKlG4EDxOMMCFfit) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Done](https://open.spotify.com/album/6HrXUyuJx3BDKQkrF2l1s8) | 2:21 |
-| 298 | [Star Guard](https://open.spotify.com/track/032qJaBqhCnu91uv5CrI9F) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB) | [Star Guard](https://open.spotify.com/album/2cf3QBUSta0629BNlOvDYG) | 1:48 |
+| 298 | [Star Guard](https://open.spotify.com/track/65j5nUIrMp1b0hE0y2hyN8) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB) | [Star Guard](https://open.spotify.com/album/7v4q39gP6Pj0PDXzlMd0a3) | 1:48 |
 | 299 | [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 |
 | 300 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 |
 | 301 | [Music Saved My LIfe](https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Saved My Life](https://open.spotify.com/album/5QUt722cDFZ1ZGDesI5Kam) | 4:04 |
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 349 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 |
 | 350 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 |
 
-Snapshot ID: `MTY3MDU5MDQyMiwwMDAwMDAwMDkwZDg3ZjFlN2UxY2ZmYzNkODUxNWVmYmNiYzNiOWZm`
+Snapshot ID: `MTY3MDU5MDQyMiwwMDAwMDAwMDdjZjhhMDYyNzBjZTExOGI1ZjFiNzM3OGNmMWQxMDVi`

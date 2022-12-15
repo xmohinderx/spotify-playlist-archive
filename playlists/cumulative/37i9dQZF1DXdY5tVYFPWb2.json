@@ -1154,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "Don't look at me ... (but stare at me)",
+        "url": "https://open.spotify.com/album/6PUr351rJFnKmkSGyqEZ3G"
+      },
+      "artists": [
+        {
+          "name": "UNIDOTS",
+          "url": "https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219545,
+      "name": "Don't look at me ... (but stare at me)",
+      "url": "https://open.spotify.com/track/4HtQwv2GQxntfh5JscAgrN"
+    },
+    {
+      "album": {
         "name": "Draw Me (feat. VivaOla)",
         "url": "https://open.spotify.com/album/1D5JPBryEXZFilbWtSbnS8"
       },
@@ -1691,6 +1709,24 @@
       "duration_ms": 170294,
       "name": "Happy Sad",
       "url": "https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp"
+    },
+    {
+      "album": {
+        "name": "Harima Mukokyu Shokogun",
+        "url": "https://open.spotify.com/album/0a3N59jEhslrwl0jchiwHu"
+      },
+      "artists": [
+        {
+          "name": "Thitta Henry",
+          "url": "https://open.spotify.com/artist/1m5QjIs80kL67XCMc9eNMs"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187240,
+      "name": "Harima Mukokyu Shokogun",
+      "url": "https://open.spotify.com/track/5HkVN4yB2mxXYhKgZkjyxR"
     },
     {
       "album": {
@@ -2515,7 +2551,7 @@
     {
       "album": {
         "name": "Midnight Inclusion",
-        "url": "https://open.spotify.com/album/6peKRsEDyhcbArzx9S0RWl"
+        "url": "https://open.spotify.com/album/07qpfnsM4dhv0bRUe187Ut"
       },
       "artists": [
         {
@@ -2526,6 +2562,24 @@
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224544,
+      "name": "Midnight Inclusion",
+      "url": "https://open.spotify.com/track/3MqWoxJK7lI4f1o97RChHs"
+    },
+    {
+      "album": {
+        "name": "Midnight Inclusion",
+        "url": "https://open.spotify.com/album/6peKRsEDyhcbArzx9S0RWl"
+      },
+      "artists": [
+        {
+          "name": "Mashiro Shirakami",
+          "url": "https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
       "duration_ms": 224544,
       "name": "Midnight Inclusion",
       "url": "https://open.spotify.com/track/6Q1azlryOoKMGl8hOTL6oY"
@@ -5301,7 +5355,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 219545,
       "name": "\u307f\u3064\u3081\u3066\u3044\u3066",
       "url": "https://open.spotify.com/track/1trAsw2XABwtg23qkkEkAB"
@@ -6773,7 +6827,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 187240,
       "name": "\u64ad\u78e8\u7121\u547c\u5438\u75c7\u5019\u7fa4",
       "url": "https://open.spotify.com/track/75nV8OPII60tvnNTIV4kxf"

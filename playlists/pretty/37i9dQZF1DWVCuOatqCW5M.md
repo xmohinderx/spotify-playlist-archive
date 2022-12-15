@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Shalmali Kholgade
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,006 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,088 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 7 | [Junoon](https://open.spotify.com/track/7E3apz88atLygJ4XTkqYR0) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Proyash](https://open.spotify.com/artist/0h4A8KVZVn6AVHRTfKmxqh) | [Junoon](https://open.spotify.com/album/3pKcuBNhjrlvCpRdaLcKc4) | 5:04 |
 | 8 | [Riha](https://open.spotify.com/track/1itBhFsXVx6XWGGvwBqEJX) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Kenneth Surya](https://open.spotify.com/artist/02zBgrff6qCpyf97Czh7en) | [Riha](https://open.spotify.com/album/4E4XJSXB8qjo75YuZGcOEv) | 2:51 |
 | 9 | [Sun Maahi](https://open.spotify.com/track/0tE3kaT3c9tjSiOqZJnM1X) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Sun Maahi](https://open.spotify.com/album/4EoDmQSqtj9lJKUu8vjKbR) | 2:49 |
-| 10 | [Jee Bhar Ke](https://open.spotify.com/track/3UxZKnAlqjOBfdJJMgAfsQ) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Jee Bhar Ke](https://open.spotify.com/album/2N2XFt4Hiy92CgvhEks41T) | 3:27 |
+| 10 | [Jee Bhar Ke](https://open.spotify.com/track/3UxZKnAlqjOBfdJJMgAfsQ) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j), [Amjad Nadeem Aamir](https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq) | [Jee Bhar Ke](https://open.spotify.com/album/2N2XFt4Hiy92CgvhEks41T) | 3:27 |
 | 11 | [Jugnu \- Acoustic](https://open.spotify.com/track/4KvcGLQtffV8tjLHOTPlt0) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [John Paul](https://open.spotify.com/artist/3JJq7McFwBH3yJt52hheMR) | [Jugnu \(Acoustic\)](https://open.spotify.com/album/6YhzkAgYVo0faG6MxytGe6) | 2:59 |
 | 12 | [Love Note](https://open.spotify.com/track/0uVdtnoCTDoxbHgEAvBRjY) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Love Note](https://open.spotify.com/album/1Ay9m3wFymygsyusr2H7fK) | 2:56 |
 | 13 | [Resham Ka Rumal](https://open.spotify.com/track/1pvs09yDZnIzWTdJWvzRhO) | [Shruti Rane](https://open.spotify.com/artist/69vXsJLW99gZRgxntkmPop) | [Resham Ka Rumal \- Single](https://open.spotify.com/album/5c8FOpasSZlWOh3beCfJdu) | 2:59 |
-| 14 | [Kudi Meri](https://open.spotify.com/track/5OklapYOB69owATMsuexTZ) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Lijo George\-Dj Chetas](https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP), [Manoj Bajpayee](https://open.spotify.com/artist/63a9JDNG6nEVRPhQBIrJGT), [Abhimanyu Dassani](https://open.spotify.com/artist/777XogKJs8UFhJFFn1GQZV) | [Kudi Meri](https://open.spotify.com/album/1MHDArVKe5L3L79QQYlp0K) | 4:07 |
+| 14 | [Kudi Meri](https://open.spotify.com/track/5OklapYOB69owATMsuexTZ) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Lijo George\-Dj Chetas](https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP) | [Kudi Meri](https://open.spotify.com/album/1MHDArVKe5L3L79QQYlp0K) | 4:07 |
 | 15 | [Sath Chalne Ki Mere Yaar Ko Aadat Hi Kahan Thi](https://open.spotify.com/track/1ZW6YX5rGxQBAzAkG50kNe) | [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Sath Chalne Ki Mere Yaar Ko Aadat Hi Kahan Thi](https://open.spotify.com/album/49c5LL7rDJtJj7kDNTU85t) | 4:43 |
 | 16 | [2835](https://open.spotify.com/track/2pExwM3gZGiD4xpzHF4MYL) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [2835](https://open.spotify.com/album/3venQ88Lc6SKQGrObSlzW8) | 2:56 |
 | 17 | [Nadaniya](https://open.spotify.com/track/4AQYycFEyP7XknIX9ODpBq) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Nadaniya](https://open.spotify.com/album/2DSR5z0gsqRIVpQqlygNrp) | 2:52 |

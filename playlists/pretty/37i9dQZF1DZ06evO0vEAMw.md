@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,542 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,570 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Bum Bum Bum](https://open.spotify.com/track/2q0GvAQvk1rEAUEFy1sziH) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right About Now](https://open.spotify.com/album/0qvuCRNRSqnz2EBMaZ06Uy) | 2:46 |
 | 50 | [FLAMES](https://open.spotify.com/track/6T3Y4utPEBs35xiG3e7Ebp) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 2:50 |
 
-Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDAzOWVjOGFlOGRkN2RlMzk2ZWYwMjE4OTI1NjVjYzlmNQ==`
+Snapshot ID: `Mjc4NTA2MzksMDAwMDAwMDA4ZWI0MzBiZTA5MDE2Yzk0NTEyYWNmZGZjZjUwMmM2Yg==`

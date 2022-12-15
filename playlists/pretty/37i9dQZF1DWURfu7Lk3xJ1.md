@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,602 likes - 199 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,731 likes - 199 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 153 | [Wishing](https://open.spotify.com/track/5Fad8WA782vI44QU3dk27Q) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Chalm](https://open.spotify.com/artist/0QD7NOgkoDdwmAsq6Vg0xf) | [Wishing](https://open.spotify.com/album/4Hw58r49IR1pkClLZ226BI) | 2:22 |
 | 154 | [Yours](https://open.spotify.com/track/2k6nINDNfSvdnF2cSmBt2S) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [afterthought](https://open.spotify.com/album/5PMYxpXf5gtKt1hTthAaB0) | 2:45 |
 | 155 | [Twilight](https://open.spotify.com/track/326kj2BCVjc6G97XWuJIFJ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Twilight](https://open.spotify.com/album/4gK9Pvf09pKOBvbfIjAizd) | 1:47 |
-| 156 | [Purple Sky](https://open.spotify.com/track/1vSGmKm49xTrc4nzhkQ5Oa) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/6svxvqUaD5PKTQvjD303T7) | 2:07 |
+| 156 | [Purple Sky](https://open.spotify.com/track/0KJV4g3S5w1T7fqsyDrGJz) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/4jUHN7x4JwSVQnxlz29LNl) | 2:07 |
 | 157 | [Deep Affection](https://open.spotify.com/track/438FpYzYrcrWFFTH84KrI8) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [New Beginning](https://open.spotify.com/album/4V9t2VbNccEAxhockfJovc) | 2:38 |
 | 158 | [free agent](https://open.spotify.com/track/3I1EMZaJzJn1PljYX46ZOk) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [free agent](https://open.spotify.com/album/5K52oFLaPpHJ9KzzndaABx) | 2:24 |
 | 159 | [dewy Tuesday](https://open.spotify.com/track/6oggVU7j2p79cdTUekCL8r) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [dewy Tuesday](https://open.spotify.com/album/6INnkNfn9IW1ENekm5O7Ul) | 2:20 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 198 | [JP Photo Bounce](https://open.spotify.com/track/52drfrfdOabG98VBtK2qwC) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [JP Photo Bounce](https://open.spotify.com/album/47aQvzo4dJD4NR8eKSOiE1) | 2:35 |
 | 199 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MTY3MDU0NDA2MCwwMDAwMDAwMDI3MGVlODQzNTc0OTcwZmQwZGQ2ZTQwMDA1OWMxNDQ0`
+Snapshot ID: `MTY3MDU0NDA2MCwwMDAwMDAwMGViZWFiNWY2MjBmM2QxYmY5OTcwNjdkMzcyMGE0MTFh`

@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Caroline Polachek
 
-1,797 songs - 4 day 5 hr 6 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,799 songs - 4 day 5 hr 13 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [And The Lake Was...](https://open.spotify.com/track/1gr1pLxrhTjzpmq2WPDhRW) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [And The Lake Was...](https://open.spotify.com/album/2gTzcPZfcNopb7zAajrKy2) | 3:52 | 2021-12-17 | 2022-03-18 |
 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 | 2021-06-26 | 2021-10-07 |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-06-02 | 2022-09-03 |
+| [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 | 2022-12-14 |  |
 | [Angel](https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Angel](https://open.spotify.com/album/3b4R5cIr9AuzhOeqxTIsyc) | 10:10 | 2022-10-14 | 2022-12-03 |
 | [Angel Of Business](https://open.spotify.com/track/56MR3nhA4eB3dN6cfb6JG2) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Angel Of Business](https://open.spotify.com/album/6CHG0jSYzWwZgB1Ckzcpw0) | 3:26 | 2022-05-20 | 2022-08-27 |
 | [Angeli](https://open.spotify.com/track/0DINu6bnJe3JAr62unYTyO) | [FKA 059](https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY), [Adamn Killa](https://open.spotify.com/artist/2AwAtRmbmsuIr40rJFIWlv), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Angeli](https://open.spotify.com/album/4UeAy3IrJOE5dWdypVYxZV) | 2:54 | 2020-06-12 | 2020-07-18 |
@@ -807,7 +808,8 @@
 | [I'm Pressed](https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [I'm Pressed](https://open.spotify.com/album/6YrhUIZvO1zL3MN7d2tFZl) | 3:01 | 2022-08-19 | 2022-10-01 |
 | [I'm the Echo](https://open.spotify.com/track/3gTohtPsDFQ3o5BPfWpS6C) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Spiral](https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN) | 5:08 | 2021-07-24 | 2021-09-18 |
 | [I'm Trying](https://open.spotify.com/track/7rDvD5WGtchCGkfQOpIb8C) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [IDK WHERE](https://open.spotify.com/album/6DW0Fkb54yKMxMfUSKfBGw) | 2:43 | 2019-07-30\* | 2019-08-09 |
-| [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 |  |
+| [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 | 2022-10-07 |  |
+| [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 | 2022-12-15 |
 | [IDK WHAT TO TELL YOU](https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LOVE BLACK](https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA) | 3:30 | 2021-11-12 | 2022-01-22 |
 | [Idol Eyes](https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Idol Eyes](https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D) | 4:48 | 2020-10-22 | 2021-04-30 |
 | [Idontknow](https://open.spotify.com/track/55YMj9pA2x7CkC3NmDtBkl) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/05Jf78ScRG8YeX4aLwxjMk) | 5:21 | 2020-04-16 | 2020-08-07 |

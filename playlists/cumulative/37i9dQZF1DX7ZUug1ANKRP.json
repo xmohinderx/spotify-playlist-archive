@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Mike Candys",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: TurboKevin",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 146249,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
@@ -475,6 +475,24 @@
       "duration_ms": 201330,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
+    },
+    {
+      "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
       "album": {
@@ -1186,6 +1204,36 @@
     },
     {
       "album": {
+        "name": "Don't Play Games",
+        "url": "https://open.spotify.com/album/1d3qwleeiqihnR9nDTxlms"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        },
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "SELAH",
+          "url": "https://open.spotify.com/artist/0RJ2o969ES08J9cMAhzPiD"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Don't Play Games",
+      "url": "https://open.spotify.com/track/6tDudlNZloZt8YBPGp6ye1"
+    },
+    {
+      "album": {
         "name": "Don't Say You Love Me",
         "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
       },
@@ -1351,7 +1399,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 155244,
       "name": "Extasy",
       "url": "https://open.spotify.com/track/6DIwLrjFuDqzWV3HffqlKG"
@@ -1381,6 +1429,24 @@
       "duration_ms": 158250,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/4FzrngyvChFT7ymR6OKNsr"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1BfsIWgQgHLa8AxDJeGOdN"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1rBHifPLZyH9I8UnjBDYmC"
     },
     {
       "album": {
@@ -1833,7 +1899,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 160625,
       "name": "Havana",
       "url": "https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY"
@@ -2077,6 +2143,32 @@
       "duration_ms": 153222,
       "name": "Hurricane (feat. SHIBUI)",
       "url": "https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf"
+    },
+    {
+      "album": {
+        "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172799,
+      "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1"
     },
     {
       "album": {
@@ -4000,6 +4092,28 @@
     },
     {
       "album": {
+        "name": "Spirit Of The Hawk",
+        "url": "https://open.spotify.com/album/1qlei1hLIFR5Bk11h3jKx6"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "JAMYX",
+          "url": "https://open.spotify.com/artist/2HZQ0WXT8ECFeGLFeCHhTy"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163476,
+      "name": "Spirit Of The Hawk",
+      "url": "https://open.spotify.com/track/1u0vQfpkbTKMTmkO0lLDer"
+    },
+    {
+      "album": {
         "name": "Squid Play",
         "url": "https://open.spotify.com/album/062CSYkbPxbFT6apgGEdxH"
       },
@@ -4063,7 +4177,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
@@ -4577,7 +4691,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 150476,
       "name": "To Love You",
       "url": "https://open.spotify.com/track/6VIwh7DAOiO453jDxFPPQD"
@@ -4702,6 +4816,28 @@
     },
     {
       "album": {
+        "name": "Unbreak My Heart",
+        "url": "https://open.spotify.com/album/1HyLVFnLPB5pWd5uyVNPIn"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163632,
+      "name": "Unbreak My Heart",
+      "url": "https://open.spotify.com/track/1SnxYv6ISgwCCDuOYacWRX"
+    },
+    {
+      "album": {
         "name": "Unbreakable (Benny Benassi Remix)",
         "url": "https://open.spotify.com/album/6Heo87c111ire6HfcqVJTo"
       },
@@ -4821,7 +4957,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 149642,
       "name": "We Could Be Together",
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"

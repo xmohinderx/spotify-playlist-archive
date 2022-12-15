@@ -2339,17 +2339,17 @@
           "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
         },
         {
-          "name": "Drei Alva",
-          "url": "https://open.spotify.com/artist/6AVIeFa086ZaYFspAj7fNz"
-        },
-        {
           "name": "Legado ARM",
           "url": "https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe"
+        },
+        {
+          "name": "Drei Alva",
+          "url": "https://open.spotify.com/artist/6AVIeFa086ZaYFspAj7fNz"
         }
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 143971,
       "name": "Darte",
       "url": "https://open.spotify.com/track/01mWlpEyZqCGhBux8Dzgwv"
@@ -8351,7 +8351,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 168269,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/6keGtjU1F8uFhKDWqvmKqP"

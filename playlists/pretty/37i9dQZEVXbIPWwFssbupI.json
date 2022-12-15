@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 820066,
+  "num_followers": 820188,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI0MjQ2ODY3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI0MzMyMjgxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Fetty Wap",
         "url": "https://open.spotify.com/album/3FU8qkXDboBsrASS7VFIqK"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5HavMB9WGE33KK6NL8XjXl"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "L\u00e9gende Vivante",
         "url": "https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6hfkqvPACVG4l4qtY7xDgG"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "C\u0153ur blanc",
         "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/5BwdbhIcQPWM7Vpo9ggAsx"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Mentalit\u00e9 (Part.1)",
         "url": "https://open.spotify.com/album/1fLfmnXNbu9crr25QC3esR"
@@ -105,27 +105,7 @@
       "url": "https://open.spotify.com/track/43vjYTKZg8R5LsuITJ4wVu"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Sans visa",
-        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Balader",
-      "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "C\u0153ur blanc",
         "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
@@ -145,23 +125,27 @@
       "url": "https://open.spotify.com/track/3HrX1V2CpLmlAu2cGjgrjW"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
-        "name": "Urus",
-        "url": "https://open.spotify.com/album/2Gf7U6e63AwtWjbG3wVV6P"
+        "name": "Sans visa",
+        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
       "artists": [
         {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 147788,
-      "name": "Urus",
-      "url": "https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI"
+      "duration_ms": 176120,
+      "name": "Balader",
+      "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
@@ -177,7 +161,23 @@
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "Urus",
+        "url": "https://open.spotify.com/album/2Gf7U6e63AwtWjbG3wVV6P"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 147788,
+      "name": "Urus",
+      "url": "https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -277,7 +277,39 @@
       "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Mr. Ocho",
+      "url": "https://open.spotify.com/track/1X5U5wtor2IFwM1RaeDGgx"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "M\u00e9lo",
+        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "Meuda",
+      "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "L\u00e9gende Vivante",
         "url": "https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY"
@@ -301,71 +333,7 @@
       "url": "https://open.spotify.com/track/6YHji06k5DxaQgnYh3Za9y"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "M\u00e9lo",
-        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "Meuda",
-      "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Liens du 100",
-        "url": "https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Mr. Ocho",
-      "url": "https://open.spotify.com/track/1X5U5wtor2IFwM1RaeDGgx"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Ips\u00e9it\u00e9",
-        "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "\u0394. Dieu ne ment jamais",
-      "url": "https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Un jour, je",
         "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
@@ -381,7 +349,39 @@
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "Ips\u00e9it\u00e9",
+        "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "\u0394. Dieu ne ment jamais",
+      "url": "https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "FADE UP",
         "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
@@ -405,71 +405,23 @@
       "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
-        "name": "Mauvais Ordre",
-        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Lomepal",
-          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 204760,
-      "name": "\u00c0 peu pr\u00e8s",
-      "url": "https://open.spotify.com/track/4VpmtsVKIRfNlmrtaEnrQi"
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Le monde est m\u00e9chant (V2)",
-        "url": "https://open.spotify.com/album/1HLF2j5BJVKy5o0OpAq6fI"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "Genkidama",
-      "url": "https://open.spotify.com/track/7hV7y1AX4BgZeYs9y4iyY0"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "C\u0153ur blanc",
-        "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Canette dans les mains",
-      "url": "https://open.spotify.com/track/5Wgw0xELVgMedzUXhAxSui"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "PETETE",
-        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 123846,
-      "name": "PETETE",
-      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -489,23 +441,87 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "Mauvais Ordre",
+        "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
         }
       ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+      "duration_ms": 204760,
+      "name": "\u00c0 peu pr\u00e8s",
+      "url": "https://open.spotify.com/track/4VpmtsVKIRfNlmrtaEnrQi"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "Le monde est m\u00e9chant (V2)",
+        "url": "https://open.spotify.com/album/1HLF2j5BJVKy5o0OpAq6fI"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 184120,
+      "name": "Genkidama",
+      "url": "https://open.spotify.com/track/7hV7y1AX4BgZeYs9y4iyY0"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "PETETE",
+        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 123846,
+      "name": "PETETE",
+      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "C\u0153ur blanc",
+        "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Canette dans les mains",
+      "url": "https://open.spotify.com/track/5Wgw0xELVgMedzUXhAxSui"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "RAPPEL",
+      "url": "https://open.spotify.com/track/48BdA5qBxXVoe59xvu0bwc"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
@@ -521,27 +537,7 @@
       "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "L\u00e9gende Vivante",
-        "url": "https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo",
-          "url": "https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy"
-        },
-        {
-          "name": "Tony Corrida",
-          "url": "https://open.spotify.com/artist/5lCpbjOjBZTwEIizNuhEhC"
-        }
-      ],
-      "duration_ms": 139640,
-      "name": "La Kush",
-      "url": "https://open.spotify.com/track/3803TnTgCIn4rq6ZdEoPAl"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -557,7 +553,23 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -577,23 +589,43 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
-        "name": "KMT",
-        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+        "name": "L\u00e9gende Vivante",
+        "url": "https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Lorenzo",
+          "url": "https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy"
+        },
+        {
+          "name": "Tony Corrida",
+          "url": "https://open.spotify.com/artist/5lCpbjOjBZTwEIizNuhEhC"
         }
       ],
-      "duration_ms": 217946,
-      "name": "RAPPEL",
-      "url": "https://open.spotify.com/track/48BdA5qBxXVoe59xvu0bwc"
+      "duration_ms": 139640,
+      "name": "La Kush",
+      "url": "https://open.spotify.com/track/3803TnTgCIn4rq6ZdEoPAl"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Bolide allemand",
+      "url": "https://open.spotify.com/track/7edvQQI4OxF0qbqWNmoHJn"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
@@ -609,23 +641,27 @@
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "Confiance",
+        "url": "https://open.spotify.com/album/2w5XgPL3gv0wlbk78SDMkJ"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
         }
       ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+      "duration_ms": 189400,
+      "name": "Peur (feat. Ziak)",
+      "url": "https://open.spotify.com/track/0S1WhhsVn5wxUngCz5TQnE"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -649,47 +685,23 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
-        "name": "Confiance",
-        "url": "https://open.spotify.com/album/2w5XgPL3gv0wlbk78SDMkJ"
+        "name": "C\u0153ur blanc",
+        "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
       },
       "artists": [
         {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        },
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 189400,
-      "name": "Peur (feat. Ziak)",
-      "url": "https://open.spotify.com/track/0S1WhhsVn5wxUngCz5TQnE"
+      "duration_ms": 182586,
+      "name": "Le 100 le 100",
+      "url": "https://open.spotify.com/track/6iFjnKoGLAuC24Doa7Z5b4"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
-        "url": "https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Marcus",
-          "url": "https://open.spotify.com/artist/5A6NcqKIwK39RxhGRHu41b"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/4DRF0J8DUc5GPzcbOTD1gu"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",
         "url": "https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On"
@@ -721,7 +733,7 @@
       "url": "https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Montagnes Russes",
         "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
@@ -737,75 +749,27 @@
       "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Liens du 100",
-        "url": "https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Bolide allemand",
-      "url": "https://open.spotify.com/track/7edvQQI4OxF0qbqWNmoHJn"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "C\u0153ur blanc",
-        "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Beuh \u00e0 la noix de coco",
-      "url": "https://open.spotify.com/track/1YPhzacAn2po5bFgB21J2A"
-    },
-    {
-      "added_at": "2022-12-13 11:41:07",
-      "album": {
-        "name": "Ronisia (Version Deluxe)",
-        "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Marcus",
+          "url": "https://open.spotify.com/artist/5A6NcqKIwK39RxhGRHu41b"
         }
       ],
-      "duration_ms": 165746,
-      "name": "200 KM/H",
-      "url": "https://open.spotify.com/track/7DfBKw4PYAar1FXOFLqMFE"
+      "duration_ms": 172466,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/4DRF0J8DUc5GPzcbOTD1gu"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "Civilisation Edition Ultime",
         "url": "https://open.spotify.com/album/68YP0pEgwhnfRqQAzu71gP"
@@ -825,23 +789,43 @@
       "url": "https://open.spotify.com/track/6btgTbK2UslfSu0qjTEXQm"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
-        "name": "C\u0153ur blanc",
-        "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Le 100 le 100",
-      "url": "https://open.spotify.com/track/6iFjnKoGLAuC24Doa7Z5b4"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "Ronisia (Version Deluxe)",
+        "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "200 KM/H",
+      "url": "https://open.spotify.com/track/7DfBKw4PYAar1FXOFLqMFE"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
@@ -857,7 +841,23 @@
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
+      "album": {
+        "name": "C\u0153ur blanc",
+        "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 176573,
+      "name": "Beuh \u00e0 la noix de coco",
+      "url": "https://open.spotify.com/track/1YPhzacAn2po5bFgB21J2A"
+    },
+    {
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "L'\u00c9lu",
         "url": "https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "I'm So Excited",
         "url": "https://open.spotify.com/album/093iA3ZvTkpHNfWtiDKhiz"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/5uiQynC3Gq7tR7U41BONTF"
     },
     {
-      "added_at": "2022-12-13 11:41:07",
+      "added_at": "2022-12-14 11:24:41",
       "album": {
         "name": "C\u0153ur blanc",
         "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
@@ -898,11 +898,15 @@
         {
           "name": "Jul",
           "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "KVRA",
+          "url": "https://open.spotify.com/artist/34pX7kbCxF40ZOzaqrd5mM"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Konami",
-      "url": "https://open.spotify.com/track/2rVR5Y7yMrMnusm3i3vqTZ"
+      "duration_ms": 241160,
+      "name": "C'est pas la mairie",
+      "url": "https://open.spotify.com/track/5nBrRMKHC53PPyXykYVVPk"
     }
   ],
   "unique_name": "Top 50 - France",

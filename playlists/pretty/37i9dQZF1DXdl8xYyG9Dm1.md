@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=nR\-3\-Q83TE6mPeI4jcvvnQ"> Kwesta </a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=bm3v1IzvQouZl2R52zdVcA"> Kabza De Small </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,237 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,318 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

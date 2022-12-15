@@ -2,7 +2,7 @@
 
 ### [RADAR Africa](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=Y5cs7Ga0Tza8ZbozPyrZdw">DBN Gogo</a>
+> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KVi1KePsS\-SeAeLkN8980A">Black Sherif</a>
 
 146 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 

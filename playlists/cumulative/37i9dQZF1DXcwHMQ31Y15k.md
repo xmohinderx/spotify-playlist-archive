@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Wandra Restusiyan
 
-116 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
+117 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Rakuat Nglakoni](https://open.spotify.com/track/7zS9q28iNrq0JfV5OGOOBM) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Rakuat Nglakoni](https://open.spotify.com/album/7f5krfLvJANW2JUFMH8F1j) | 5:25 | 2022-05-26 |  |
 | [Roso Atiku](https://open.spotify.com/track/6OCoaRux8abVtVxPhE5N0M) | [Rindra Putra](https://open.spotify.com/artist/48eHObVYwCaw6k3ct9mWCO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Roso Atiku](https://open.spotify.com/album/6f3YYxy5mYMnH8Bx4iN6eJ) | 6:01 | 2022-05-26 |  |
 | [Roso Atiku](https://open.spotify.com/track/1d8I3k13qDu1lbRQ8xDqeh) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP), [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Roso Atiku](https://open.spotify.com/album/6qHPSIAC97V7cV2SD8C3BO) | 4:45 | 2022-05-26 | 2022-06-10 |
+| [Rungkad](https://open.spotify.com/track/07eMEyNQOl1j6Wo5d9LDjI) | [Happy Asmara](https://open.spotify.com/artist/34gYdObZcKonPinzlnE8gK) | [Rungkad](https://open.spotify.com/album/3F0PuEp4j1Fug3FIPSottp) | 5:08 | 2022-12-14 |  |
 | [Rungkad](https://open.spotify.com/track/7ykyqUPZMYu6ElknvIOr31) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Rungkad](https://open.spotify.com/album/2A8oczlX1p5VEYqyz03Btf) | 4:19 | 2022-09-29 |  |
 | [Rungokno Aku](https://open.spotify.com/track/0FzsdBtp14KszsGY8NuCcY) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Rungokno Aku](https://open.spotify.com/album/2lzTXWNU7aNqBrYHDEvyRF) | 5:16 | 2022-05-26 | 2022-11-14 |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2022-05-26 | 2022-08-26 |

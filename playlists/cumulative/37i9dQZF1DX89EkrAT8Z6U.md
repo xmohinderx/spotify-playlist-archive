@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
 
-159 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
+160 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Led](https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT) | [GOTOU寄生獣](https://open.spotify.com/artist/3lBMiwsMDQZItXes0VxBsJ), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Led](https://open.spotify.com/album/2RIYeR7qaek1c8BNIBsq0a) | 2:14 | 2022-07-08 |  |
 | [LED](https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS) | 2:14 | 2022-10-27 |  |
 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 | 2022-05-25 | 2022-11-06 |
-| [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 | 2022-07-08 |  |
+| [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 | 2022-07-08 | 2022-12-15 |
 | [Let's Ride](https://open.spotify.com/track/3dUXPkCP34x762v8cOJTRt) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Let's Ride](https://open.spotify.com/album/0dZhr1Edoqtjps6fEXuWgP) | 2:00 | 2022-06-21 | 2022-10-22 |
 | [Liar Mask](https://open.spotify.com/track/17gqkmWPppwlxIZLxTWzVy) | [真山りか](https://open.spotify.com/artist/78hBJsHMdvLJNcUY2Y2kxs) | [Liar Mask](https://open.spotify.com/album/4KAGO5gZrdQaqYI0RY0uDi) | 4:53 | 2022-05-25 | 2022-07-29 |
 | [Lighten Up](https://open.spotify.com/track/46RP6nhOYe528v8NiQX3Cb) | [Downfvll](https://open.spotify.com/artist/11y2EjkCbWLix1tkjbiWed), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [ShokoProd](https://open.spotify.com/artist/72LqkWsCpzNUvPCYrxSmWa) | [Lighten Up](https://open.spotify.com/album/7FQQPhwNytUnurt2r0xv9E) | 2:15 | 2022-07-08 | 2022-10-22 |
@@ -128,6 +128,7 @@
 | [Slide Den](https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Slide Den](https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT) | 2:55 | 2022-10-07 | 2022-10-22 |
 | [Sorcery Fight!](https://open.spotify.com/track/3KHQQuZGyk1wve6SQwifwt) | [Breeton Boi](https://open.spotify.com/artist/2Dr2lb79b7I1gj10FI6ljA), [Diggz Da Prophecy](https://open.spotify.com/artist/1HYQNCFOvaVxl9Zr5HvPrH), [HalaCG](https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X), [FrivolousShara](https://open.spotify.com/artist/4BZbaSD54IoBseVr142kiH), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm), [WYT](https://open.spotify.com/artist/0zex3dTN4Mk9oTujAJnIHW) | [Sorcery Fight!](https://open.spotify.com/album/5Xoj8mbqvPBrC382GxHvf3) | 5:27 | 2022-05-25 | 2022-07-28 |
 | [Spark \(Rengoku\)](https://open.spotify.com/track/4zpFlIpvNbbNx5BbKsMsRO) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Spark \(Rengoku\)](https://open.spotify.com/album/2ypWjv7cvswBIJ4crjuHJq) | 3:01 | 2022-06-21 | 2022-06-24 |
+| [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 | 2022-12-14 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-21 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-21 |  |
 | [STAND PROUD](https://open.spotify.com/track/3OqPSJsqe4LvcaVl7G6vV3) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [STAND PROUD](https://open.spotify.com/album/4p5qdQrjYGuVwakXJ1hB4k) | 4:38 | 2022-07-08 | 2022-08-06 |

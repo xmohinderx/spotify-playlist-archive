@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: AVIAN GRAYS &amp; Kayla Diamond
 
-371 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+372 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Antibodies \- LP Giobbi Remix](https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Antibodies](https://open.spotify.com/album/4hAoKf5xkhdK0myoWXKQgS) | 5:12 | 2022-06-09 | 2022-10-07 |
 | [anything but wet](https://open.spotify.com/track/37cdWIL9ZE6hKCBuD4yeGv) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Warehouse Summer](https://open.spotify.com/album/0feKW6G3IxAn97JhLUKXdJ) | 5:56 | 2022-11-23 |  |
 | [Are U With Me](https://open.spotify.com/track/1v6eqipsHhuSs96cuS36vk) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [Are U With Me](https://open.spotify.com/album/6tQ2QvimZFyOP1aw4pA5tw) | 2:40 | 2022-08-25 |  |
-| [Are You With Me](https://open.spotify.com/track/4255amV4enzl28KAn16rUO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:18 | 2022-06-09 |  |
+| [Are You With Me](https://open.spotify.com/track/4255amV4enzl28KAn16rUO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:18 | 2022-06-09 | 2022-12-15 |
+| [Are You With Me \- Christmas Mix](https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:18 | 2022-12-14 |  |
 | [Automatic](https://open.spotify.com/track/6PwJwgie50PSJYiABLgBQb) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [L.A.](https://open.spotify.com/album/3IoL5TIdSTdVrZTPZ6OjVM) | 2:44 | 2022-06-09 |  |
 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 | 2022-06-09 | 2022-07-15 |
 | [Bananza](https://open.spotify.com/track/7h9Z1OOpEcKdwbobsGC0bG) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Bananza](https://open.spotify.com/album/6I1jaw9O18g3BbSsYn5bpk) | 2:34 | 2022-06-09 | 2022-08-19 |

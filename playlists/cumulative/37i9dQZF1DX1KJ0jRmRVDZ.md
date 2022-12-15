@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-562 songs - 1 day 8 hr 17 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+563 songs - 1 day 8 hr 21 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Koe Todoita Hikara](https://open.spotify.com/track/3q6G4DEStAQWFsEnwzNdw9) | [Harutya](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [Koe Todoita Hikara](https://open.spotify.com/album/5ZNzXtCuL3OxwisiApGPWt) | 4:32 | 2022-08-18 | 2022-08-31 |
 | [Konasu](https://open.spotify.com/track/3Y20L4awtBhLLYYINVxEjl) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Konasu](https://open.spotify.com/album/7pDXspq2BUAehCgmLadAUX) | 3:46 | 2022-10-18 | 2022-10-26 |
 | [LAG](https://open.spotify.com/track/3mNm8AXQ72Btp0ZsI2XwKl) | [パン野実々美](https://open.spotify.com/artist/7zDlO5ZUWerNCeIDy0tYVt) | [LAG](https://open.spotify.com/album/2C7KWtdWlRSoFfyINGHi0a) | 3:42 | 2022-07-26 | 2022-07-29 |
-| [lien](https://open.spotify.com/track/4G1cGMc2EtRGwzDXHwJPnL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/7vBnslfLvLLfDFG0awdRDF) | 3:29 | 2022-12-13 |  |
+| [lien](https://open.spotify.com/track/2v98sRbseSHCUYbH0bJkZR) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt) | 3:29 | 2022-12-13 |  |
+| [lien](https://open.spotify.com/track/4G1cGMc2EtRGwzDXHwJPnL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/7vBnslfLvLLfDFG0awdRDF) | 3:29 | 2022-12-13 | 2022-12-15 |
 | [Lost](https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Lost](https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq) | 4:05 | 2022-08-16 | 2022-10-14 |
 | [Melt](https://open.spotify.com/track/1iQLxSeDWVD3ekeSvxRnMu) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Melt](https://open.spotify.com/album/0JjiN3z1faroSG7THJhh6G) | 3:24 | 2022-09-14 | 2022-10-26 |
 | [MERA MERA](https://open.spotify.com/track/3Y5q0JDCRzjNlMRRrLK0RF) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [MERA MERA](https://open.spotify.com/album/2kgTd0HIj4SUtlmTD6kuzo) | 3:03 | 2022-07-28 | 2022-08-26 |

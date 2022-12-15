@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KO8WBGf7uc.md) - [plain]
 
 > Lo que suena en la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,346 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,561 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

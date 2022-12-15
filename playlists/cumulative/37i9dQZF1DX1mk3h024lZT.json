@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-08-11",
-  "description": "set your intentions at the highest of vibrations. curated by carly rae jepsen. cover: carly's moon.",
-  "name": "supermoon: carly rae jepsen takeover",
+  "description": "set your intentions at the highest of vibrations. ",
+  "name": "supermoon",
   "published_playlist_ids": [
     "4vkWwCrbGuZsCWpk6G5ezR"
   ],
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L"
@@ -793,10 +793,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 156091,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
+    },
+    {
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179930,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/3jJNg3l3NoZwQKESfr04VS"
     },
     {
       "album": {
@@ -961,7 +979,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 251327,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"

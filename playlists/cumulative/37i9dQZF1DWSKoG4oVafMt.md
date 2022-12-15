@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-662 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+663 songs - 1 day 12 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Hi Bye](https://open.spotify.com/track/2KhgkUOwNVBQUGSkeaNzW8) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Hi Bye](https://open.spotify.com/album/3kos90we5ZKsZeOPHJTFhY) | 3:02 | 2022-07-15 | 2022-08-18 |
 | [Hometown](https://open.spotify.com/track/4LvIeOXZ4b9duvPEDUogot) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:16 | 2022-01-17 | 2022-02-01 |
 | [Hon Ni Dena](https://open.spotify.com/track/1Zn3Je9Gain80ZPQwLZQUv) | [Raas](https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu), [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq) | [Hon Ni Dena](https://open.spotify.com/album/3qp16rbNpjW8hyLebTMCDU) | 2:51 | 2022-06-28 | 2022-07-06 |
+| [Hun Changa Ae](https://open.spotify.com/track/2kDfeQsKpDz07p6f0ALaOo) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Hun Changa Ae](https://open.spotify.com/album/1AvmoHXPkwmBGfeT4wdXiG) | 2:46 | 2022-12-14 |  |
 | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/track/1jUdVhaRk0PwJCK5PvDTsq) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/album/6Ry57BDPUmf63YyjKWGZsz) | 2:37 | 2022-10-25 |  |
 | [I T 's a G O O D D a Y](https://open.spotify.com/track/67DcAT2A7QoJPHeb6gULv3) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [It's a Good Life](https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h) | 2:36 | 2022-11-28 |  |
 | [I Wish](https://open.spotify.com/track/5gUNkD57jpcdjXv9ODiSmf) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [I Wish](https://open.spotify.com/album/3eQ91uxeqINSduxCL6zlba) | 3:13 | 2022-09-30 |  |

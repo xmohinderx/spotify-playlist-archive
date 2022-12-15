@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,492 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,489 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 18 | [Gotsta Get Paid](https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Gotsta Get Paid](https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku) | 3:30 |
 | 19 | [FORGIVENESS](https://open.spotify.com/track/59EgdZjkgN9RSgv8S4pS5B) | [Deetranada](https://open.spotify.com/artist/2wZt8FDVui01y98mChSK0t) | [NADAWORLD 2](https://open.spotify.com/album/2xvKxZaBXgG2VfzxL7Cftd) | 2:01 |
 | 20 | [Snake](https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:24 |
-| 21 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 |
+| 21 | [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 |
 | 22 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 |
 | 23 | [I Tried](https://open.spotify.com/track/0blQoUZeDKJEH3gIbkr4XR) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Juveniletristen](https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc) | [I Tried](https://open.spotify.com/album/3mslHmvlKarV3pzjylYTFZ) | 1:57 |
 | 24 | [Boy Bye \(feat\. Lucky Daye\)](https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 5:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 69 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 70 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MTY3MDAxODgyMiwwMDAwMDAwMDFhYjI3ODQ0ZDVhNDZmYjM2YzJhMjQ5MGRhMjE1NzY5`
+Snapshot ID: `MTY3MDAxODgyMiwwMDAwMDAwMDhhODE0ZjYwMTI1YTE1YWRkOGRlYzFjNWIwYjNhOTZm`

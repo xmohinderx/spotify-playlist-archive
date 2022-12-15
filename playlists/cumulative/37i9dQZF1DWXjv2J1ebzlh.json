@@ -17000,6 +17000,24 @@
     },
     {
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3FKWeXjx5EoeQiC8x8IMmn"
+      },
+      "artists": [
+        {
+          "name": "Los Soneros De Gamero",
+          "url": "https://open.spotify.com/artist/7okHK7NaNwxujUlsF3aIdW"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204216,
+      "name": "Katunga",
+      "url": "https://open.spotify.com/track/6XVBxEx7kWyr4TWBTZqt6d"
+    },
+    {
+      "album": {
         "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91",
         "url": "https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy"
       },
@@ -17011,7 +17029,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 206186,
       "name": "Katunga",
       "url": "https://open.spotify.com/track/031KqYKOurfURoOyI2GwZE"

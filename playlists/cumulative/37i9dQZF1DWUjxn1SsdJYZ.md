@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Lisi
 
-335 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+336 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Rolls Royce](https://open.spotify.com/track/568p6xW7f55NIJKucvIstH) | [BOY $COUT GATSBY](https://open.spotify.com/artist/5AZH6yzLc1YbNKdB7Db179), [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [Rolls Royce](https://open.spotify.com/album/78OjMSoahcsAUD6Hun8MO4) | 2:46 | 2022-10-13 |  |
 | [Rowdy](https://open.spotify.com/track/7JmsAPYCojMYyFL8lGGyuc) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc) | [Rowdy](https://open.spotify.com/album/5fyKJGwK7SL5s4LLu35z0x) | 4:05 | 2022-03-21 | 2022-05-13 |
 | [Rude](https://open.spotify.com/track/4tLcwWpyDUkEIY0f5DfFQ7) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P), [RB](https://open.spotify.com/artist/4glVw8jh5BBgerU9ARDYn4) | [Rude](https://open.spotify.com/album/4J9GlXS82hwkZN7CBEFeVl) | 2:31 | 2022-03-21 | 2022-03-25 |
-| [RUN](https://open.spotify.com/track/2obwSnm1fSr4lpDC5b1IT1) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh) | [RUN](https://open.spotify.com/album/6MeJtV9EGSD5dMlAYhCCYk) | 2:50 | 2022-12-08 |  |
+| [RUN](https://open.spotify.com/track/2obwSnm1fSr4lpDC5b1IT1) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh) | [RUN](https://open.spotify.com/album/6MeJtV9EGSD5dMlAYhCCYk) | 2:50 | 2022-12-08 | 2022-12-15 |
+| [RUN](https://open.spotify.com/track/2oyWAosM0IuBZfepiqPh5R) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh) | [RUN](https://open.spotify.com/album/6REbWlrE7Z3VwEVIfwTt5v) | 2:50 | 2022-12-08 |  |
 | [RUN THIS TOWN](https://open.spotify.com/track/4jDkZnxqpoVfetWgnO5KjG) | [JMG](https://open.spotify.com/artist/0akQP4O0bIsd8kXVvjkXNf), [Shadow](https://open.spotify.com/artist/6gIIjCxL1AqzyyCazv8EwB) | [RUN THIS TOWN](https://open.spotify.com/album/2NDneoTVnIdGbVaiWKb8ks) | 2:54 | 2022-09-29 |  |
 | [RUNNIN](https://open.spotify.com/track/1IA11fh0nHMauEx6WrMIKy) | [MANDEM](https://open.spotify.com/artist/3uXbU6pVxmSY7ROYqa4MCy), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [RUNNIN](https://open.spotify.com/album/244s3bNXlkDgFigRPeoX0m) | 2:53 | 2022-03-21 | 2022-08-05 |
 | [Runnin' Game](https://open.spotify.com/track/7B8IYJuJ7jBW1bI1NLlMqS) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Runnin' Game](https://open.spotify.com/album/38yJe8MEpW1x4dPpOVjzQr) | 4:36 | 2022-03-21 | 2022-07-29 |

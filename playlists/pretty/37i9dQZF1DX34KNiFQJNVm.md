@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus Fernandes com Xamã e Papatinho, NATTAN, Lana Del Rey e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,802,951 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,803,260 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 48 | [Amor Sem Pausa](https://open.spotify.com/track/78zJu5FmCBkPGhbHnmAL1t) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Amor Sem Pausa](https://open.spotify.com/album/4oZxaLG86xQCLLAAspN2Io) | 2:57 |
 | 49 | [La Máquina](https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:56 |
 | 50 | [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 |
-| 51 | [Duas Vidas Em Jogo](https://open.spotify.com/track/6YB8N8pPrXW84xgJ03Gu9E) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk) | [Duas Vidas Em Jogo](https://open.spotify.com/album/7nUDW1cWvea6dJyrY6s7Ol) | 3:10 |
+| 51 | [Duas Vidas Em Jogo](https://open.spotify.com/track/6YB8N8pPrXW84xgJ03Gu9E) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Diorama](https://open.spotify.com/artist/0jWNXxLwPaSXBWHyrutBRr) | [Duas Vidas Em Jogo](https://open.spotify.com/album/7nUDW1cWvea6dJyrY6s7Ol) | 3:10 |
 | 52 | [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 |
 | 53 | [Girl Like Me](https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Girl Like Me](https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv) | 2:29 |
 | 54 | [Alasca](https://open.spotify.com/track/5nb97cpmD6U9FpO8VJ3jnm) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Alasca](https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD) | 4:36 |

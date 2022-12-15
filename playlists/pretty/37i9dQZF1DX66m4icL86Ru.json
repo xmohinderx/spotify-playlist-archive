@@ -1,12 +1,12 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: RAYE",
-  "num_followers": 697269,
+  "num_followers": 697653,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk1Nzc1NSwwMDAwMDAwMDAzOGY3NDdkM2ZiZDY3OGNkYjU3ZGFjZDc2YjIzN2Rk",
+  "snapshot_id": "MTY3MTA0MjA2NSwwMDAwMDAwMGU3YzFiMzBmOGFiZWFhODMxMjljMmM3ODQ1ODU4NDM1",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -161,6 +161,42 @@
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
+      "added_at": "2022-12-12 19:28:18",
+      "album": {
+        "name": "Amala",
+        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Wine Pon You (feat. Konshens)",
+      "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
+    },
+    {
+      "added_at": "2022-12-13 18:55:55",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -239,42 +275,6 @@
       "duration_ms": 196470,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"
-    },
-    {
-      "added_at": "2022-12-12 19:28:18",
-      "album": {
-        "name": "Amala",
-        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Wine Pon You (feat. Konshens)",
-      "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
-    },
-    {
-      "added_at": "2022-12-13 18:55:55",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "added_at": "2022-11-25 05:00:00",

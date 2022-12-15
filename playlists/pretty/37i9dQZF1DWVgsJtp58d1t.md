@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from SZA, Metro Boomin, Babyface Ray, Pheelz, Lion Babe, Latto, Zulu, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,475 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,614 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

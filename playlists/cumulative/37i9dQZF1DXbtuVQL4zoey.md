@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-453 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+454 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,8 +121,9 @@
 | [Dirib Dirib](https://open.spotify.com/track/5mR1njp8a1rfU3b8BllWS9) | [Linn Blink](https://open.spotify.com/artist/5oV5bOkm37Icq1ia1XNh7H) | [Dirib Dirib](https://open.spotify.com/album/1pRsWXNvF6P4VqqPbAFt57) | 1:44 | 2022-06-17 |  |
 | [Diário de Gratidão](https://open.spotify.com/track/0XRC16k0Q6Jhc2DVgcUSKD) | [Caio Gilberto](https://open.spotify.com/artist/1lvnaefVZ4sQAwlfT9LmZo) | [Diário de Gratidão](https://open.spotify.com/album/7xWvVtOrXRBDmcF3VUNF0P) | 2:13 | 2022-07-15 |  |
 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 | 2022-05-20 |  |
+| [Dope after 8 PM](https://open.spotify.com/track/3LEIN9DIPnYhJ5b1dNgVcC) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Dope after 8 PM](https://open.spotify.com/album/16snTC6g0ngvDjOnkPehNE) | 1:56 | 2022-12-09 |  |
 | [Dope after 8 PM](https://open.spotify.com/track/4qqMCDmYVhSem1M7WAra5b) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Dope after 8 PM](https://open.spotify.com/album/6lNtzdcPzUIoQ2jZn2GXVr) | 1:56 | 2022-10-14 | 2022-11-25 |
-| [Dope after 8 PM](https://open.spotify.com/track/7n4ocFmiU0iucf8xrrLxRJ) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Dope after 8 PM](https://open.spotify.com/album/6y78KpQ9HxxFLLxtSVVYpI) | 1:56 | 2022-11-11 |  |
+| [Dope after 8 PM](https://open.spotify.com/track/7n4ocFmiU0iucf8xrrLxRJ) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Dope after 8 PM](https://open.spotify.com/album/6y78KpQ9HxxFLLxtSVVYpI) | 1:56 | 2022-11-11 | 2022-12-15 |
 | [Downtown](https://open.spotify.com/track/4F1wJB60G4t7IVfRutfwY4) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Beat Tape 1](https://open.spotify.com/album/2Ytq0z8ThIlwvgcfCGKU9W) | 1:19 | 2022-05-20 |  |
 | [Dream On](https://open.spotify.com/track/1s6LKq5nOjmqY65VdrmUej) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Dream On](https://open.spotify.com/album/5r3ZX0rDuI6lH0oAWTvJh1) | 2:42 | 2022-05-20 |  |
 | [Dreaming of Somewhere Tropical](https://open.spotify.com/track/7rJzk4p92csa8pvI2t5L4p) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Dreaming of Somewhere Tropical](https://open.spotify.com/album/6EQYc4elabIRf3noFOD7bL) | 2:09 | 2022-05-20 | 2022-09-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Luke Bryan is taking over Heartland Country with some of his favorite tracks, kicking off with his reflective new song "Prayin' in a Deer Stand".
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,952 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,950 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

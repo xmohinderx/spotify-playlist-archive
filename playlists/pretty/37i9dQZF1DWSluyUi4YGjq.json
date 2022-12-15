@@ -1,13 +1,29 @@
 {
-  "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 22303,
+  "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. For Tracy Hyde on cover!",
+  "num_followers": 22356,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg2OTQyMSwwMDAwMDAwMGIwZGZhMjFlYTA4ZTQ4YWQ0ZDAzNTU0ZWQ1ZTE5MzAx",
+  "snapshot_id": "MTY3MDk4MTI5NCwwMDAwMDAwMDQ0N2NjMjFmY2UzOGQ1NTI2MmFjMWNjN2RkZTBmOGEy",
   "tracks": [
+    {
+      "added_at": "2022-12-14 00:00:00",
+      "album": {
+        "name": "Hotel Insomnia",
+        "url": "https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh"
+      },
+      "artists": [
+        {
+          "name": "For Tracy Hyde",
+          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
+        }
+      ],
+      "duration_ms": 134626,
+      "name": "Bleachers",
+      "url": "https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN"
+    },
     {
       "added_at": "2021-11-25 22:10:49",
       "album": {
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2"
-      },
-      "artists": [
-        {
-          "name": "Glare",
-          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
-        }
-      ],
-      "duration_ms": 216089,
-      "name": "Blank",
-      "url": "https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj"
-    },
-    {
       "added_at": "2022-12-12 18:23:41",
       "album": {
         "name": "Love Lives in the Body",
@@ -87,6 +87,22 @@
       "duration_ms": 285900,
       "name": "Prism of Feeling",
       "url": "https://open.spotify.com/track/4jAx1BnnLRfvkODzP4Ieo9"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2"
+      },
+      "artists": [
+        {
+          "name": "Glare",
+          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
+        }
+      ],
+      "duration_ms": 216089,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -217,22 +233,6 @@
       "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
-      },
-      "artists": [
-        {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Pulling Our Weight",
-      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
-    },
-    {
       "added_at": "2022-12-12 18:21:31",
       "album": {
         "name": "Tropics",
@@ -247,6 +247,22 @@
       "duration_ms": 258213,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/3CY0tWgMxRFG3nqfEeip9e"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -283,22 +299,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Winks & Kisses: Melted",
         "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 566466,
       "name": "In Your Room",
       "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -377,22 +393,6 @@
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
-      },
-      "artists": [
-        {
-          "name": "Slow Crush",
-          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
-        }
-      ],
-      "duration_ms": 242755,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
-    },
-    {
       "added_at": "2022-12-12 18:21:31",
       "album": {
         "name": "Confeti",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
+      },
+      "artists": [
+        {
+          "name": "Slow Crush",
+          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
+        }
+      ],
+      "duration_ms": 242755,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Is the Is Are",
         "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 188050,
       "name": "Out of Mind",
       "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -507,18 +507,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Blankenship",
-      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
+      "duration_ms": 154920,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -567,6 +567,22 @@
       "duration_ms": 270094,
       "name": "Go and Come Back",
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Blankenship",
+      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -649,6 +665,22 @@
       "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
+    },
+    {
       "added_at": "2022-05-03 02:08:01",
       "album": {
         "name": "Destiny XL",
@@ -667,22 +699,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 235565,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -695,6 +711,22 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 235565,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
       "added_at": "2022-04-12 01:44:39",
@@ -711,22 +743,6 @@
       "duration_ms": 226693,
       "name": "Making Room",
       "url": "https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Winks & Kisses: Crackled",
-        "url": "https://open.spotify.com/album/7vk2rJgOvtYV5GXsU3wdKB"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 396253,
-      "name": "Shirley Temple Tidal Wave",
-      "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -1067,6 +1067,38 @@
       "duration_ms": 231640,
       "name": "Gemelos C\u00f3ctel",
       "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 211319,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Winks & Kisses: Crackled",
+        "url": "https://open.spotify.com/album/7vk2rJgOvtYV5GXsU3wdKB"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 396253,
+      "name": "Shirley Temple Tidal Wave",
+      "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1099,22 +1131,6 @@
       "duration_ms": 297418,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 211319,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
     },
     {
       "added_at": "2022-04-22 18:16:47",
@@ -1739,22 +1755,6 @@
       "duration_ms": 195312,
       "name": "Al Rev\u00e9s - feat. Petite Amie",
       "url": "https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4"
-    },
-    {
-      "added_at": "2022-01-11 01:33:25",
-      "album": {
-        "name": "BITTER.ROOT",
-        "url": "https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4"
-      },
-      "artists": [
-        {
-          "name": "EN.KI.DU",
-          "url": "https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE"
-        }
-      ],
-      "duration_ms": 276172,
-      "name": "Inspiral",
-      "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
     }
   ],
   "unique_name": "Shoegaze Now",

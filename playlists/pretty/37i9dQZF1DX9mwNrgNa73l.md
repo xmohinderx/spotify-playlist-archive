@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,181 likes - 98 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,224 likes - 98 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 69 | [Maula](https://open.spotify.com/track/6Z0hi7ntpmQSkTDiBMcZVl) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Maula](https://open.spotify.com/album/0XYIRzV6BpXXSH02O8uaMz) | 6:03 |
 | 70 | [Haq Ali](https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Haq Ali](https://open.spotify.com/album/0FJlpw4MuPuYh2STnJVHt7) | 6:47 |
 | 71 | [Ya Ali Tere Sadqe Jawan](https://open.spotify.com/track/6TMHIctlQkhOewask1NBLU) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Ya Ali Tere Sadqe Jawan](https://open.spotify.com/album/7flQwsY6LtnDSjUiM9tlvq) | 4:35 |
-| 72 | [Jashn E Ali](https://open.spotify.com/track/30Oz86dnzKaf37MQ5HTHpR) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jashn E Ali](https://open.spotify.com/album/3wJfkzVGu3LxTU75DV9U8a) | 5:22 |
+| 72 | [Jashn E Ali](https://open.spotify.com/track/30Oz86dnzKaf37MQ5HTHpR) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a) | [Jashn E Ali](https://open.spotify.com/album/3wJfkzVGu3LxTU75DV9U8a) | 5:22 |
 | 73 | [Piya Milenge](https://open.spotify.com/track/7o9kPO1qalH8szQlYnMI6C) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [KMMC Sufi Ensemble](https://open.spotify.com/artist/5J3dqhxLAVxMeDRSza2M7U) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 5:55 |
 | 74 | [Aas Paas Khuda \(Unplugged\)](https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 3:24 |
 | 75 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 |

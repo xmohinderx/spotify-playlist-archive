@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,385,980 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,386,183 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 140 | [Opiate](https://open.spotify.com/track/6X4PNtfFJBOAkqUudR6ItT) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [In Praise Of Shadows](https://open.spotify.com/album/5ZFB59cZbuWzd0gPs2b8jg) | 2:31 |
 | 141 | [Tell Me](https://open.spotify.com/track/0ndV1KbJuiFxPuZ4cJZZi8) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy), [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [Tell Me](https://open.spotify.com/album/1irZ1TS0B9d4Imzn6SSg1J) | 3:06 |
 | 142 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 |
-| 143 | [Colors We Made](https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Permanent Beta](https://open.spotify.com/album/4s22gKBrVyGtFSXez21EWV) | 2:50 |
+| 143 | [Colors We Made](https://open.spotify.com/track/2wnt2dMobi8aEqsvYK8N0k) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Colors We Made](https://open.spotify.com/album/6efiQ3j3RIFy6oYHbeziIu) | 2:50 |
 | 144 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 |
 | 145 | [Cotton Candy](https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw) | 2:34 |
 | 146 | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:39 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [either side](https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:47 |
 | 150 | [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 |
 
-Snapshot ID: `MTY2OTM1MTk4MCwwMDAwMDAwMDQ0OGFkYjgwN2FmMzBiNTM3MmFhNGI4NjBiM2YxZGQw`
+Snapshot ID: `MTY2OTM1MTk4MCwwMDAwMDAwMGUzZDY5ODgxMjMzYzhlMTU3YjMwZWU5YmY4ODMxMjdk`

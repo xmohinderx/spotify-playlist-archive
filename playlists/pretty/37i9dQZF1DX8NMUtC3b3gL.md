@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,372 likes - 182 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,390 likes - 182 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 88 | [wait](https://open.spotify.com/track/4GheVHPcbhnedzU7jXUC17) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [wait](https://open.spotify.com/album/6wgmnVSl2pdMwgljbyvBty) | 2:03 |
 | 89 | [nightfall](https://open.spotify.com/track/6Jll9RzBBvPYWWNvQhiPyj) | [Roe Cutz](https://open.spotify.com/artist/3tv9tFr4bEFisyEYhXkyxQ) | [nightfall](https://open.spotify.com/album/7dag2jPl7v0GCjXPPMkBPd) | 2:13 |
 | 90 | [full sail ahead](https://open.spotify.com/track/0NkI38RjrMyLaboKWpxA86) | [Summeriez](https://open.spotify.com/artist/2aVml0FoztVW45SVjA0FsW) | [full sail ahead](https://open.spotify.com/album/7zksuVzQD8iJXqVe09y96k) | 2:14 |
-| 91 | [Another](https://open.spotify.com/track/18of42QoHnosXzZETOEaqf) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:32 |
+| 91 | [Another](https://open.spotify.com/track/3jOoFaPVncF4E0g050jGU9) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/5PLEEcxdBS03aJq52w7MlM) | 2:32 |
 | 92 | [Pristine](https://open.spotify.com/track/5hU6UR3JAmobbRF8in1hpN) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Pristine](https://open.spotify.com/album/68CF9yX62mUPcoJbyVcJD4) | 2:44 |
 | 93 | [Bad Habits](https://open.spotify.com/track/3UjtiMq0d84U4XhSnDN5WL) | [b\_piranha](https://open.spotify.com/artist/2wA2YjeXY6LG3dT8Zz2blY) | [Bad Habits](https://open.spotify.com/album/5G9E2WxtFlyKfVpAteBJ6f) | 2:36 |
 | 94 | [Tram](https://open.spotify.com/track/2qrguu9bcFrNC40tpTu8ys) | [Mbrs Gear](https://open.spotify.com/artist/6bHl5CMbDUkkVJ0YUKqK30) | [Tram](https://open.spotify.com/album/4XQcFzMnkk5YKugdY9MkHM) | 2:10 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 181 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 182 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MTY3MDU5MDU3MiwwMDAwMDAwMDM1ZGYwYzJiOTgzNDU2YmY0NzNlZGM3OGUxYWQxNDRk`
+Snapshot ID: `MTY3MDU5MDU3MiwwMDAwMDAwMDlmYzMzNjI5MmI3NGFkOGQxYzUyNThiNDAwOTZlMGQ2`

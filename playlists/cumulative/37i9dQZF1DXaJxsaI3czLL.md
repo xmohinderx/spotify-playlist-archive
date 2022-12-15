@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-119 songs - 8 hr 30 min - not published yet
+120 songs - 8 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [cast a spell on her](https://open.spotify.com/track/63Gc02okIgL5XTbEiP4SpQ) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [PURPLE](https://open.spotify.com/album/3ChhP60S76aPShSmSifkpf) | 6:22 | 2022-10-20 | 2022-11-11 |
 | [Chiisana Yume](https://open.spotify.com/track/169bY9djGFRpPcqMMm9hik) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Chiisana Yume](https://open.spotify.com/album/0OWqyw14hYLK0842eXNNLg) | 3:24 | 2022-12-13 |  |
 | [Dawn in the Adan](https://open.spotify.com/track/03fJjiNTn1gyzbqHl1Hskt) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 4:45 | 2022-10-20 |  |
+| [Earth: my Home Planet](https://open.spotify.com/track/5jrasBBRelZu8W51HHYWSx) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [Earth: my Home Planet](https://open.spotify.com/album/367AxTys5leFcc98kZP0Nr) | 2:12 | 2022-12-13 |  |
 | [eureka](https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [eureka](https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ) | 3:30 | 2022-11-15 |  |
 | [Every Blue](https://open.spotify.com/track/2V5RagytdBl77xRiUOm0VX) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Every Blue](https://open.spotify.com/album/2m4Y7iN16CF5gNoMq0Q9lw) | 4:55 | 2022-10-20 | 2022-10-26 |
 | [family](https://open.spotify.com/track/5MSi0XXAwILX2Y38zLEdw4) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [scent of memory](https://open.spotify.com/album/4itk7c0pByLsMzpwsajyW3) | 5:23 | 2022-10-20 | 2022-12-07 |
@@ -73,7 +74,7 @@
 | [おあいこ](https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [What are you looking for](https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh) | 6:41 | 2022-10-20 | 2022-11-17 |
 | [おやすみ](https://open.spotify.com/track/7bEkYuWe7CIt7LITsTjxKI) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:10 | 2022-10-25 | 2022-11-09 |
 | [きれいだ](https://open.spotify.com/track/3AUERt8iOPlZ2ruHQMDAVh) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [夜はそのまなざしの先に流れる](https://open.spotify.com/album/2nHykm1RdbUDW4ImLANpUb) | 6:13 | 2022-10-20 | 2022-10-26 |
-| [ここにある地球\(ほし\)](https://open.spotify.com/track/3QZMFiHaweFFr8xqwIVo4v) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [ここにある地球\(ほし\)](https://open.spotify.com/album/5qpeBvBrNJG8SKH5vNBeaD) | 2:12 | 2022-12-13 |  |
+| [ここにある地球\(ほし\)](https://open.spotify.com/track/3QZMFiHaweFFr8xqwIVo4v) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [ここにある地球\(ほし\)](https://open.spotify.com/album/5qpeBvBrNJG8SKH5vNBeaD) | 2:12 | 2022-12-13 | 2022-12-15 |
 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 | 2022-10-20 |  |
 | [それでは、](https://open.spotify.com/track/5qGpsL9fCOr1sGYNMmFFtI) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:50 | 2022-10-20 | 2022-11-11 |
 | [ため息の行方](https://open.spotify.com/track/6GSVtgBJ2bNRicSqQcXg99) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ゆめ](https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh) | 4:28 | 2022-10-20 |  |

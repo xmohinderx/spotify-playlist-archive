@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,877 songs - 4 day 12 hr 24 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,878 songs - 4 day 12 hr 25 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1548,6 +1548,7 @@
 | [SUN CAME OUT](https://open.spotify.com/track/4vCxUFx6YwGoqICQK8DmiM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:16 | 2021-07-12 | 2021-11-19 |
 | [Sun State](https://open.spotify.com/track/1m96n50cVl5zAzL8eaoo79) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Sun State](https://open.spotify.com/album/483QZX4MNyFIEYRxs6ftTc) | 3:55 | 2022-03-18 | 2022-04-05 |
 | [Sun Up \(feat\. Prodéje\)](https://open.spotify.com/track/2CQHUqEPIsTBSkIr7FOmNe) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [Sun Up \(feat\. Prodéje\)](https://open.spotify.com/album/7Kj3WeF3T7rccSZNFKZJ0R) | 3:44 | 2020-07-22 | 2020-08-20 |
+| [SUNDAY](https://open.spotify.com/track/6ykXrNuUZA7i42Sr3iRMRL) | [Dave Coresh](https://open.spotify.com/artist/1CnieijpOmLxRZdR9x5Em6), [Mother Wata](https://open.spotify.com/artist/5tMlM0bT8SnkY5n8wkLTdC) | [SUNDAY](https://open.spotify.com/album/33XKGhJKWJcvBr5ePqLiow) | 1:07 | 2022-12-14 |  |
 | [Sundress](https://open.spotify.com/track/0dVI1vWncyCQQ5K0X6FKnU) | [Bensen](https://open.spotify.com/artist/2NFOVKOxmNjqHuzEKKIDEY) | [The West](https://open.spotify.com/album/3m5RnBXqE3LXjKag3c36ue) | 4:36 | 2021-09-24 | 2021-10-10 |
 | [Sundress](https://open.spotify.com/track/5nSmkSelscJ012AJIO7YJQ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Sundress](https://open.spotify.com/album/4DzOBTCX4jZT1vyqIft11k) | 2:43 | 2021-02-19 | 2021-03-06 |
 | [Sunflower \- Acoustic](https://open.spotify.com/track/3Vr2FgdIxFYsNUFEkCBXfo) | [Bethany Sorenson](https://open.spotify.com/artist/4OZUZ4yeIl8vnkVoHpE28v) | [Sunflower](https://open.spotify.com/album/0hfGbrno3wc7UCukHFRqO4) | 3:26 | 2022-11-11 | 2022-12-03 |

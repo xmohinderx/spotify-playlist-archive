@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > The Bollywood crooner's best songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,252 likes - 82 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,873 likes - 82 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 77 | [Alizeh](https://open.spotify.com/track/4rIv0uUnxs5hVZfe5t9SNs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XfOSDomcrv4lDvlrxknlt) | 4:42 |
 | 78 | [The Breakup Song \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/7BjQd0sfYsMGVrTpRdBNTT) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XfOSDomcrv4lDvlrxknlt) | 4:12 |
 | 79 | [Sooiyan](https://open.spotify.com/track/5ybC28fr8Kmm8Kvv6tqI8X) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Guddu Rangeela](https://open.spotify.com/album/7wd1rZIM464TFr8SLaguwZ) | 4:01 |
-| 80 | [Yaariyan \(reprise\)](https://open.spotify.com/track/2pvaCuTrMVS6byOHCIQyHj) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 5:13 |
+| 80 | [Yaariyan \(reprise\)](https://open.spotify.com/track/2pvaCuTrMVS6byOHCIQyHj) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 5:13 |
 | 81 | [Saawali Si Raat](https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:08 |
 | 82 | [Safar \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/4BH3FzJwNvjDpL8J78NMYM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Safar \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/3dBqhNT7SK4Er8MXsBu1JI) | 6:05 |
 

@@ -4,7 +4,7 @@
 
 > Highlights of 2022, listen to women at full volume\. Cover: <a href=“spotify:artist:55fhWPvDiMpLnE4ZzNXZyW”>Noah Cyrus</a>  \#SpotifyWrapped
 
-653 songs - 1 day 11 hr 14 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+654 songs - 1 day 11 hr 18 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,8 @@
 | [In Jesus Name \(God Of Possible\) \- Piano Version](https://open.spotify.com/track/1H4n9Bm5Xrv8OTrJgLpyb5) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\) \[Piano Version\]](https://open.spotify.com/album/7JIK7T3f1r89w0MNhSPB9r) | 3:40 | 2022-06-01 | 2022-07-07 |
 | [In My Bag](https://open.spotify.com/track/5aKvdpWyjO14xB04CTEpEw) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Space and Time](https://open.spotify.com/album/3FsgJirEdTynPXLGvct53E) | 3:28 | 2022-01-05 | 2022-02-03 |
 | [In The Club](https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [In The Club](https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs) | 2:52 | 2022-05-04 | 2022-06-01 |
-| [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-08-03 |  |
+| [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-08-03 | 2022-12-15 |
+| [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 | 2022-11-30 |  |
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-11-02 | 2022-12-01 |
 | [Jealousy](https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Jealousy](https://open.spotify.com/album/61T3geiuTQFQXmYWWLMGjk) | 2:30 | 2022-08-03 | 2022-09-09 |
 | [Jenny](https://open.spotify.com/track/2elR3YPD59tkJYEkHP8IOa) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Jenny](https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV) | 3:40 | 2022-03-08 | 2022-04-07 |

@@ -4,12 +4,12 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-205 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
+206 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Face In The Crowd](https://open.spotify.com/track/66q4BUNLBymfOBzmqZyVl2) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/7ihweYjA1ck66NTB4bujGl) | 3:58 | 2017-12-03 | 2022-07-29 |
-| [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 | 2017-12-03 |  |
+| [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 | 2017-12-03 | 2022-12-15 |
 | [A Face In The Crowd](https://open.spotify.com/track/7trWmvPx4b3ar5XXSk4LgY) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Rainy Day Tunes](https://open.spotify.com/album/5ZUe08JFTnCZLXElXLjLtl) | 3:59 | 2017-12-03 | 2022-11-13 |
 | [Almost Made It](https://open.spotify.com/track/2pdYfeHGmZw01rqbspFIoZ) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Almost Made It](https://open.spotify.com/album/5erOgjYwyCKsY3z48gLOCW) | 2:33 | 2017-12-03 | 2022-07-29 |
 | [Almost Made It](https://open.spotify.com/track/5U7bIVFI1JlX73x6t8SDyP) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Look Ahead And See The Distance](https://open.spotify.com/album/1RF4gKAj3jE2vs33zG3OR1) | 2:33 | 2017-12-03 |  |
@@ -17,6 +17,7 @@
 | [And the Birds Sing](https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV) | 3:42 | 2017-12-03 |  |
 | [And the Birds Sing](https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9) | 3:42 | 2017-12-03 | 2022-10-17 |
 | [Anywhere We Go \- Stripped Down](https://open.spotify.com/track/1ySq58mz23a7QPEks7l0bk) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Friends](https://open.spotify.com/album/6cvpbHwqX983HJKRLZgWH3) | 3:38 | 2017-12-03 |  |
+| [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 | 2022-12-14 |  |
 | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/track/7ksUuRAALPLYjhlpwTcDCH) | [Max Brodie](https://open.spotify.com/artist/08Fba5XNvK4sXAbH68DYPf), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/album/4IWLXhyvj0rH2cm5VwuuW9) | 2:44 | 2017-12-03 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2017-12-03 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/5ltFw9shfgX60qfErriunE) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/3ctOX1Spy9lX8HZ7EDYn4R) | 3:30 | 2017-12-03 | 2022-07-29 |

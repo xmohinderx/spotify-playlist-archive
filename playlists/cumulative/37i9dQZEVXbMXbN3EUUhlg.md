@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-558 songs - 1 day 4 hr 29 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
+559 songs - 1 day 4 hr 32 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,8 @@
 | [Putariazinha](https://open.spotify.com/track/2jwrYBGz7osKI31v50bS7b) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Putariazinha](https://open.spotify.com/album/6e6ytT287uBWcf6jz4qEIt) | 2:42 | 2021-10-03 | 2022-03-04 |
 | [Que Rabão \(feat\. Mr\. Catra\)](https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:56 | 2022-04-14 | 2022-06-25 |
 | [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/0RoVmAeG1dC9U34S6RCCIB) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3stCvW6okTzFPGr0OuB3Vu) | 2:55 | 2021-10-31 | 2021-11-24 |
-| [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/album/5NHD24GC7W9uH2fdLzteGB) | 2:26 | 2022-10-04 |  |
+| [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/track/4AHB0S44UW1QBxDfiUFmjS) | [Mc marck](https://open.spotify.com/artist/2Zm8E0IoB3ZWM82OgHqVTu) | [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/album/783x2PKx2B6M76vt7ae330) | 2:22 | 2022-12-14 |  |
+| [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/album/5NHD24GC7W9uH2fdLzteGB) | 2:26 | 2022-10-04 | 2022-12-15 |
 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 | 2021-08-13 | 2022-01-30 |
 | [Quero Ver é Me Esquecer \(feat\. Jorge\) \- Ao Vivo](https://open.spotify.com/track/1Kkm6aiyVPbco6otyybdt6) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Da Roça Pra Cidade \(Ao Vivo\)](https://open.spotify.com/album/7lXBPw75Qj4rmBZ1la9E3P) | 2:27 | 2021-08-30 | 2021-09-01 |
 | [Quero Ver é Me Esquecer \(feat\. Jorge\) \- Ao Vivo](https://open.spotify.com/track/2SUPbyD77tJuOUbqbxct6l) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 02](https://open.spotify.com/album/0EB9cgGjaXmq2YDrcpdSDE) | 2:27 | 2021-03-27\* | 2021-08-25 |

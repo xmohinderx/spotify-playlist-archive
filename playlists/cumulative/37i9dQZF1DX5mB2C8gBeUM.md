@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Blanco Brown and T.I.
 
-306 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+307 songs - 15 hr 40 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Look At The Mess I'm In](https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:00 | 2022-03-04 | 2022-06-11 |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2022-03-18 | 2022-06-11 |
 | [Love Is](https://open.spotify.com/track/6nOb6M0kJ4sXEDvhaSVg4t) | [Jeremy Greene](https://open.spotify.com/artist/53QhxJatnLiaX50Z85afkV) | [Love Is](https://open.spotify.com/album/1pUYdKSJZapIhHk8OlV61O) | 3:15 | 2021-12-10 | 2022-02-19 |
-| [Love Makes You Blind](https://open.spotify.com/track/4pjzP2acWZRUvRgZljRirH) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/7jFq5B9Ui0oDe0m6Mi7Qu6) | 2:38 | 2022-01-14 |  |
+| [Love Makes You Blind](https://open.spotify.com/track/1YKtrSyiY3w56bpgIEW3ND) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/77YdXSBVy1uKOSariJkZET) | 2:38 | 2022-11-18 |  |
+| [Love Makes You Blind](https://open.spotify.com/track/4pjzP2acWZRUvRgZljRirH) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/7jFq5B9Ui0oDe0m6Mi7Qu6) | 2:38 | 2022-01-14 | 2022-12-15 |
 | [Lucky Me](https://open.spotify.com/track/6dkKeMSmezjgacxO4SaxuZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU) | 3:27 | 2021-12-10 | 2022-01-01 |
 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 | 2021-12-10 | 2022-01-08 |
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-04 |  |

@@ -1667,10 +1667,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 128780,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1DdN2w9ykZw1Pc6ig5DV8f"
+    },
+    {
+      "album": {
+        "name": "Akademgorodok",
+        "url": "https://open.spotify.com/album/2hWUgljsvAFmmPR5PNuApf"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        },
+        {
+          "name": "Nokimo",
+          "url": "https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1UdwBbAUIC0MEwtUKIo77f"
     },
     {
       "album": {

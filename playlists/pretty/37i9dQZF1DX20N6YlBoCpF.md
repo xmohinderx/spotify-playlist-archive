@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=b\-Urtz3dTsCCO4iRJ6qBLQ">Gerhard Steyn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,024 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,061 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 27 | [Plett My Net](https://open.spotify.com/track/1PGWHOYPHxed0rl9JAWk5v) | [Mionette](https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu) | [Plett My Net](https://open.spotify.com/album/0LhQ4Tkw4D4GzcmrbPa66Z) | 3:23 |
 | 28 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 |
 | 29 | [En Dan Dans Ons \- Radio Edit](https://open.spotify.com/track/5cbg8zoHpsqeKsufRqLGQc) | [Riaan Grobler](https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u) | [En Dan Dans Ons \(Radio Edit\)](https://open.spotify.com/album/6Emf9iINTCZ9nWbYpFqH3r) | 3:25 |
-| 30 | [Wat Maak Hy Daar \- Afrikaans Wil Dans Remix](https://open.spotify.com/track/2B9d5djNsd5lDYWG65Orx7) | [Kris Ray](https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN), [Afrikaans Wil Dans](https://open.spotify.com/artist/4uXWqQQz8WPtWg6lYvuKlN) | [Wat Maak Hy Daar](https://open.spotify.com/album/3urG2w4h4n7HrgbUjXLWFK) | 4:03 |
+| 30 | [Wat Maak Hy Daar \- Afrikaans Wil Dans Remix](https://open.spotify.com/track/2B9d5djNsd5lDYWG65Orx7) | [Kris Ray](https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN), [Afrikaans Wil Dans](https://open.spotify.com/artist/4uXWqQQz8WPtWg6lYvuKlN) | [Wat Maak Hy Daar \(Afrikaans Wil Dans Remix\)](https://open.spotify.com/album/3urG2w4h4n7HrgbUjXLWFK) | 4:03 |
 | 31 | [As Ek Jou Hoor Lag](https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [As Ek Jou Hoor Lag](https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29) | 2:46 |
 | 32 | [Laat Jou Voete Praat](https://open.spotify.com/track/6qNaSzF7aySbSCsNhmari2) | [CHARLIZE BERG](https://open.spotify.com/artist/0sm5h6GieSMumfzCc2ZONn) | [Laat Jou Voete Praat](https://open.spotify.com/album/1GffQhKNGRVPF6RqgmaXV2) | 3:46 |
 | 33 | [Liefde Sonder 'n Maar](https://open.spotify.com/track/18fpCH8zf6gnReXzX2A0ST) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [Liefde Sonder 'n Maar](https://open.spotify.com/album/4QFkbKMKOmOwLtqt4FTLUh) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,479 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,492 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 4 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 |
 | 5 | [High \(feat\. Campanella\)](https://open.spotify.com/track/3TMHpzaiMmou90bOIWnetM) | [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [翡翠 \( hisui \)](https://open.spotify.com/album/2jwl1zSw7jRfVNbgXa1tU8) | 4:16 |
 | 6 | [Called by the Neon Light](https://open.spotify.com/track/3o0lvk0pXsqv9DV064ezEl) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Called by the Neon Light](https://open.spotify.com/album/3ccal0p7YflbbtitrZDOjk) | 3:25 |
-| 7 | [それでも明日は](https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [それでも明日は](https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz) | 4:05 |
+| 7 | [Till Tomorrow, Trust Tomorrow](https://open.spotify.com/track/34xXw6peMNDzTjGvgM2pCx) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Till Tomorrow, Trust Tomorrow](https://open.spotify.com/album/0FzesRZPhYGAKiiRvpTIP3) | 4:05 |
 | 8 | [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 |
 | 9 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
 | 10 | [cloud](https://open.spotify.com/track/6v08DvIdLDGOwKj1h71S4x) | [hyou](https://open.spotify.com/artist/5MKWIRBAlanbDXXUTGaCRT) | [cloud](https://open.spotify.com/album/3MPWlGx8FPXB14cugsvrFA) | 3:52 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 19 | [Mirror ball \(feat\. 高橋飛夢\)](https://open.spotify.com/track/2r6RvMnR8Ff2TNc1LdYNam) | [Auto&mst](https://open.spotify.com/artist/0hvzMAPeK2gZ1HewTUXNwz), [高橋飛夢](https://open.spotify.com/artist/4E9YQZDF24uDabjzGeQ3tQ) | [Mirror Ball](https://open.spotify.com/album/1tTxgvbKcA5pHyvh21ROOS) | 3:58 |
 | 20 | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/track/6ogEQHLfCtEozEqTDI0PmD) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/album/6MxRGKcSWjnBdn1ywHfu7Y) | 3:25 |
 | 21 | [September](https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September](https://open.spotify.com/album/2t5XtZE8VkUKuTjowVd0di) | 3:36 |
-| 22 | [set me free](https://open.spotify.com/track/3CXll77W7YrXHo0jTQfm4t) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/7999p1sHV2i321TKGjmTXU) | 3:50 |
+| 22 | [set me free](https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ) | 3:50 |
 | 23 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
 | 24 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 |
 | 25 | [Fantasy](https://open.spotify.com/track/68PdIBBJErUzVtv3Bt0LA5) | [Ryota Oyabu](https://open.spotify.com/artist/1ySrxjDBwFRDFoURBQxTZl) | [Fantasy](https://open.spotify.com/album/2tccW0oHy4LxDwSJgabJsR) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 49 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 |
 | 50 | [アーモンド \- feat\. りりあ。](https://open.spotify.com/track/5j3gYRcISt5cbd6VFLBXOv) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [アーモンド \(feat\. りりあ。\)](https://open.spotify.com/album/2TkMaI5NbwgnwodW7L4hgQ) | 4:33 |
 
-Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMGU5Njg0ZTJlZDg0Y2U4ZWIyNjlhNjk2ZmJhNDNmODU2`
+Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMDZjNzU0ZjNiZTU1NzM5OGFjNDRkZWJlNjZiYjk1Y2Nm`

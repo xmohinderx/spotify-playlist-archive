@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,877 likes - 450 songs - 16 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,874 likes - 450 songs - 16 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 136 | [Coffee Break](https://open.spotify.com/track/2iQ7zLgkFg5oz9GszNqKad) | [flat disc](https://open.spotify.com/artist/65GQa6LQz8LMbqjGb8qY5g) | [Coffee Break](https://open.spotify.com/album/1jd8sYTu2nql0HNKUoRwWF) | 2:19 |
 | 137 | [boombox](https://open.spotify.com/track/5DU237MfhlKWzzdH1WzjFg) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [boombox](https://open.spotify.com/album/5sjeVeQ8dIcvyh2RmqD8Z3) | 2:24 |
 | 138 | [19](https://open.spotify.com/track/6p347KMUUvTqTfQmRX8TIk) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [19](https://open.spotify.com/album/6LNUtRzdna1vmq3oGmMuab) | 2:46 |
-| 139 | [Lost in Time](https://open.spotify.com/track/3ZzE94F2aprxYIifQpSGPW) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lost in Time](https://open.spotify.com/album/1gYZeyDHGN5NM1Iqmybuzq) | 1:33 |
+| 139 | [Lost in Time](https://open.spotify.com/track/5aHK2cJ4sl9b4FDWZMM53R) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lost in Time](https://open.spotify.com/album/1RvDv4fi4RqrDligqTCLME) | 1:33 |
 | 140 | [innerstellar](https://open.spotify.com/track/1XjXLbMacHjagjg1bkPYKE) | [henry loops](https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO) | [innerstellar](https://open.spotify.com/album/4FqvopQIN3zBeXujzUyL7P) | 2:24 |
 | 141 | [Eagle](https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Eagle](https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj) | 3:10 |
 | 142 | [Starlight Kiss](https://open.spotify.com/track/0G4kfyzE1PeSrhsO1fkXaG) | [with me, with you](https://open.spotify.com/artist/2GC5oaz2d1LibdZPNoJgJF), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Starlight Kiss](https://open.spotify.com/album/6LuIcaIUCKT2J4V0Uefyab) | 1:40 |
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 449 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 |
 | 450 | [Palm Beach](https://open.spotify.com/track/7HSwYc1zmjCeQjmzgp6YtB) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 1:52 |
 
-Snapshot ID: `MTY3MDU4ODQ0MiwwMDAwMDAwMDNkN2EwN2ZiNzM0MjQ2ZWM3MjE3YmRiOTk1OThkNzI0`
+Snapshot ID: `MTY3MDU4ODQ0MiwwMDAwMDAwMDkzNWFkMmRkZjA4MDVhNTRlNjU4MWNlODMxMDZhMTg5`

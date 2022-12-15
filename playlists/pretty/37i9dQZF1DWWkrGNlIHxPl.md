@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Nicki Minaj, Maluma, Myriam Fares
+> Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,506 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,637 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 |
 | 50 | [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 |
 
-Snapshot ID: `MTY3MDkyMDYyNSwwMDAwMDAwMDAyMTViYjgzZWY2ZjE0MjA1NjA2NTlhY2M2MWFmNWQy`
+Snapshot ID: `MTY3MTAzNTE0MywwMDAwMDAwMGY3OWMyOGQyMDI1NjVkN2Y5ZTRjM2E3OGU1ZTgyNzZi`

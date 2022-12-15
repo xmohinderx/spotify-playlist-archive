@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Blanco Brown and T.I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,671 likes - 170 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,826 likes - 170 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 111 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 |
 | 112 | [Wild Frontier](https://open.spotify.com/track/22B9J6s9aow7JYeECKXqUI) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Stephanie Quayle](https://open.spotify.com/album/1aEYhs7G0H42T0t36lzu4W) | 3:36 |
 | 113 | [Something I'll Never Get Back](https://open.spotify.com/track/7JhkoQ5QEhOTrx7Gedt7id) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/3sJZ4bPGiUVmgHUC02frvL) | 3:08 |
-| 114 | [Love Makes You Blind](https://open.spotify.com/track/4pjzP2acWZRUvRgZljRirH) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/7jFq5B9Ui0oDe0m6Mi7Qu6) | 2:38 |
+| 114 | [Love Makes You Blind](https://open.spotify.com/track/1YKtrSyiY3w56bpgIEW3ND) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/77YdXSBVy1uKOSariJkZET) | 2:38 |
 | 115 | [Hey Cowboy](https://open.spotify.com/track/5FfgLIooERZ7rcNcwxAcdF) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Hey Cowboy](https://open.spotify.com/album/17wY9BVWaZncYiZBleCcJX) | 3:07 |
 | 116 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 |
 | 117 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 169 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 |
 | 170 | [Clap Yo Hands](https://open.spotify.com/track/6WlHPRxpne0cErVCU25HzX) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Nitty Gritty GR](https://open.spotify.com/artist/2Tu8PgOyqyGH8gZOv0Ad6N), [Pa Pa Fresh](https://open.spotify.com/artist/7dTFs3fSoiqGplr38RXRHY) | [Clap Yo Hands](https://open.spotify.com/album/3KPy05qSIUBKoo7Rcs7e8S) | 2:41 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDQ3MWVlZjYwN2FlMjEyMjQwM2RkYjFmZjg4NGJiYzJj`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDlhYjZmMWFmNTMyMjFjNzFjMmM1OWUzMGE5OWJhZGNh`

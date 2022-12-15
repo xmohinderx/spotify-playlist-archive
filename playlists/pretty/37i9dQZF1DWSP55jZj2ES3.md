@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie Dance and Alt Hip\-Hop for cooling under the sunny sun sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,942 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,010 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 96 | [soulboy](https://open.spotify.com/track/4Gkr7ol2xye6fPlBPRJo4R) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [soulboy](https://open.spotify.com/album/2XGZ36jXGrfr72Gnd1uNo1) | 3:09 |
 | 97 | [THE TASTE feat\. BJ The Chicago Kid & Papi Beatz](https://open.spotify.com/track/58aAwDsUeZsl5DjBkqMuBG) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Papi Beatz](https://open.spotify.com/artist/1gigbUTiibYWCQybsJB5V1) | [THE TASTE feat\. BJ The Chicago Kid & Papi Beatz](https://open.spotify.com/album/4JfNpRVj6k4huueybILbcJ) | 3:06 |
 | 98 | [Nont For Sale](https://open.spotify.com/track/1dSUiYNjblQ2Vd142K8kjn) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Nont For Sale](https://open.spotify.com/album/5W0wZsGfR0VeEGxXpLHgHY) | 3:39 |
-| 99 | [Wake up Jacob](https://open.spotify.com/track/1in7Cdov9YrybYaboFzhzh) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Be the One You Love](https://open.spotify.com/album/67i2fZfID3xg3seBcLrHXe) | 3:43 |
-| 100 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 |
+| 99 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 |
+| 100 | [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 |
 
-Snapshot ID: `MTY2NDQ4NzIwNywwMDAwMDAwMDFmMzJkZDVjM2E5OWY3M2ViN2FlYTAzOTk5OTk0YTkw`
+Snapshot ID: `MTY2NDQ4NzIwNywwMDAwMDAwMGFkYWJiOGE2MjUyZTEyOTMyMDIzZTc1NmEyZDg3MzZm`

@@ -2,7 +2,7 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Nicki Minaj, Maluma, Myriam Fares
+> Global crossovers by/with Arab artists\. Cover: Saint Levant
 
 221 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 

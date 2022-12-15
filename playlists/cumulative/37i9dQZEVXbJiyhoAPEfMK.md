@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,420 songs - 3 day 2 hr 23 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
+1,421 songs - 3 day 2 hr 26 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-11-15 | 2022-11-26 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-14 | 2021-11-21 |
 | [AM](https://open.spotify.com/track/4qJrt8L4gNJpUKXYZdunwW) | [Kida](https://open.spotify.com/artist/0rtILhtW5MNyUqkZzKDd3J), [Butrint Imeri](https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY) | [AM / PM](https://open.spotify.com/album/0l1xQtEzRtCbl3K96urRav) | 2:00 | 2022-07-04 | 2022-07-17 |
-| [Amber](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Amber](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2022-11-19 |  |
+| [Amber](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Amber](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2022-11-19 | 2022-12-15 |
 | [Amin](https://open.spotify.com/track/1RaKuNtBHJudTsw4xCzkAr) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Amin](https://open.spotify.com/album/05pWzqivs016ZwbGoPmAY8) | 2:04 | 2022-06-25 | 2022-07-01 |
 | [An meinem schlechtesten Tag \(feat\. Samra\)](https://open.spotify.com/track/2k3eSZAcD5asE39rpNQUOU) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Aus dem Licht in den Schatten zurück](https://open.spotify.com/album/3HZlAyqo5eNLADmAagNn0s) | 2:03 | 2021-05-23 | 2021-05-24 |
 | [Andale \(feat\. badmómzjay, Bausa & KALIM\)](https://open.spotify.com/track/7fusuAmE8bSTQIppkWpzMa) | [DJ JEEZY](https://open.spotify.com/artist/6Ql5ZUhTCAn62skkbRJWCq), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Andale \(feat\. badmómzjay, Bausa & KALIM\)](https://open.spotify.com/album/1mxzm1P8VC6tYve9tJvwZJ) | 2:25 | 2022-01-15 | 2022-01-17 |
@@ -657,6 +657,7 @@
 | [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 | 2022-09-24 | 2022-09-30 |
 | [KIDS FROM THE BLOCK](https://open.spotify.com/track/26hbmLeqiz8loWjFshsegF) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [KIDS FROM THE BLOCK](https://open.spotify.com/album/29usCRl97IbEQACNshGC5A) | 2:56 | 2021-04-11 | 2021-06-08 |
 | [KIDS FROM THE BLOCK](https://open.spotify.com/track/1PA74X8eXACUS8WnUF5IqI) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [AQUA](https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G) | 2:56 | 2021-07-04 | 2021-07-11 |
+| [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-14 |  |
 | [King Sonny Black](https://open.spotify.com/track/4qRJsMWWpezvWOiXpz96fp) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [King Sonny Black](https://open.spotify.com/album/1qLirZC2e0tcoMHumYFCBU) | 3:53 | 2021-07-04 | 2021-07-05 |
 | [Kipp min Gin](https://open.spotify.com/track/5u9uYYruRJdQAato7ljOLV) | [Xen](https://open.spotify.com/artist/1Yso012dk6JFCIGwvCxTBS), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Kipp min Gin](https://open.spotify.com/album/7BqW19xr918vcBAuUFoBru) | 3:04 | 2022-04-09 | 2022-04-15 |
 | [Kippe im Wind](https://open.spotify.com/track/6y1EAdA0zOGOVYEZnhkpaa) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Kippe im Wind](https://open.spotify.com/album/567vMTVYBYSBfSA5XVUkVo) | 2:07 | 2022-01-29 | 2022-01-31 |

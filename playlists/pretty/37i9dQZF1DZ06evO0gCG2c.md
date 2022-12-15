@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,385 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,510 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Blown Away](https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:29 |
 | 50 | [LOCKED UP PT\. 2](https://open.spotify.com/track/52EVeEEPT1H7EIEtN9lC13) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TattleTales](https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9) | 3:23 |
 
-Snapshot ID: `Mjc4NDkwMjgsMDAwMDAwMDA1OWI3ZDkyMjQ4NDVmOTliYTVkYjQ1NjE3NzYxOGJmZA==`
+Snapshot ID: `Mjc4NTA2MzksMDAwMDAwMDA4NDRmYmJhYzdhMzE5ZDIxMDQ2MzYyOTAwOTkzYWQ4NA==`

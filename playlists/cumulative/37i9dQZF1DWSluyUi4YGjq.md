@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> A new gen of bands gazing at their pedals, while soaring celestially\-high\. Alvvays on cover!
+> A new gen of bands gazing at their pedals, while soaring celestially\-high\. For Tracy Hyde on cover!
 
-220 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+221 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Blankenship](https://open.spotify.com/track/07lCR9uSVrL5G08R3zn0yi) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 3:56 | 2021-10-19 | 2022-07-29 |
 | [Blankenship](https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 3:56 | 2021-10-19 |  |
 | [Blaster](https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Happy Songs for Happy Zombies](https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX) | 3:24 | 2021-10-19 |  |
+| [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 | 2022-12-14 |  |
 | [Bloodhail](https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 5:38 | 2021-10-19 |  |
 | [Blue](https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [Satyr's Satire](https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2) | 3:57 | 2022-08-03 | 2022-09-05 |
 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 | 2021-10-19 |  |
@@ -120,7 +121,7 @@
 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 | 2021-10-19 | 2022-07-28 |
 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 | 2021-10-19 |  |
 | [Inevitable](https://open.spotify.com/track/0uBBAHfiu4Rxzr8smE36ly) | [Puesta De Sol](https://open.spotify.com/artist/0S84S0DTAsJYag1dSMDd1Z) | [Inevitable / Abrazo](https://open.spotify.com/album/0nxikgaZCaac69akWTGbeR) | 3:46 | 2022-09-09 | 2022-10-28 |
-| [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 |  |
+| [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 | 2022-12-15 |
 | [Into Black](https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk) | 3:28 | 2021-10-19 |  |
 | [Into Black](https://open.spotify.com/track/5d8pKJxoDlYX2SoFR6RCsm) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/7lzbyS6nNLF27Cw9zgrijG) | 3:28 | 2021-10-19 | 2022-07-29 |
 | [Invisible](https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Ether](https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu) | 3:11 | 2021-10-19 |  |

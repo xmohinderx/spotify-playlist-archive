@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,720 likes - 90 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,038 likes - 90 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

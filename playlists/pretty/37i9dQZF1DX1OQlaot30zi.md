@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Marra, Tedua, Paky, Rhove, ANNA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,579 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,607 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 12 | [NFT rmx \(feat\. SPOOKYPBL\)](https://open.spotify.com/track/1GscYUCIknNlvfM7cCfgQa) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [ERROR 442](https://open.spotify.com/album/7dlvM8V1Mods5Ltdugz6hB) | 2:11 |
 | 13 | [BE NE REVIENS PAS](https://open.spotify.com/track/3L6iVIRS7htFAJ6uIh4FEo) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [BE NE REVIENS PAS](https://open.spotify.com/album/2W3WtB9HDRC5L5ZuMV2GUF) | 2:34 |
 | 14 | [TAXI](https://open.spotify.com/track/2jJpEaES8hhNysT2d3yPGc) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [TAXI](https://open.spotify.com/album/2ODeD4PHuifsm7n6ea9ZaN) | 2:15 |
-| 15 | [NELLA CASA DI DIO \(feat\. Tony Effe, Paky & J Lord\)](https://open.spotify.com/track/06x5M09XW6kUQAfk5RIsQY) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 3:01 |
+| 15 | [NELLA CASA DI DIO \(feat\. Tony Effe, Paky & J Lord\)](https://open.spotify.com/track/0ZUbfpKnLJrbcySAfFPIcN) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 3:01 |
 | 16 | [Paura e Soldi](https://open.spotify.com/track/1Gjw5Gy6FIRp1B4tixbt99) | [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Paura e Soldi](https://open.spotify.com/album/2N1YCJzFbBJ3MnWIx4PATm) | 2:46 |
 | 17 | [IO SONO SOLO](https://open.spotify.com/track/3PLAzqGszMpBvewKKI66vA) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [IO SONO SOLO](https://open.spotify.com/album/2e4JgSA98CKcASIpiOk5eZ) | 2:01 |
 | 18 | [Nu Vase E Po Basta](https://open.spotify.com/track/4SlW1yke0wvPi34x8Ek4ql) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Nu Vase E Po Basta](https://open.spotify.com/album/4YhlnwQQpzJjj8kQOqzeiz) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [Palazzi Alti](https://open.spotify.com/track/7LcHmzHY75nTeCEifk5Lnm) | [Mimmoflow](https://open.spotify.com/artist/4S7QbRmBzXhYmYv6PInaz1) | [Palazzi Alti](https://open.spotify.com/album/321SizbDOurOKrlTgO7Pyi) | 2:31 |
 | 80 | [Siberia](https://open.spotify.com/track/4ZuKpI8BgBTF4cbhkjwpqM) | [LIUK](https://open.spotify.com/artist/6xfeQJvxB1JE91mbYegsni), [LLADE](https://open.spotify.com/artist/07O2VDRdhylixj9TZzXSbI) | [Siberia](https://open.spotify.com/album/1XismlRI73hp7s0ANgZuPR) | 2:33 |
 
-Snapshot ID: `MTY3MDgzNTUwNCwwMDAwMDAwMGU1YTBmYWIxMGQwNzc2OGJjZmQxMWE5ZTllMzgzYmFi`
+Snapshot ID: `MTY3MDgzNTUwNCwwMDAwMDAwMGU2ODY3OTllOGNmYTRmZjFjMDNlNzJmMDIyMzkxZWE1`

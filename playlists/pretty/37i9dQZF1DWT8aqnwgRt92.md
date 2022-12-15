@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,788 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,217 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 72 | [DARLING IN THE NIGHT](https://open.spotify.com/track/7AnMPMbtd3L90yKv9cNyrp) | [七陰](https://open.spotify.com/artist/30xGJe0vTq03OuzcOxY8Ln) | [ENDING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW”](https://open.spotify.com/album/0AngWuk5QRZ3e3tKBXEXAH) | 4:09 |
 | 73 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 |
 | 74 | [Kyokansarenakutemoiijanai](https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw) | [Rie Takahashi](https://open.spotify.com/artist/0ENel7sUUXjVGUsP0xvwEJ) | [Kyokansarenakutemoiijanai](https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p) | 3:53 |
-| 75 | [真祖にして無敵のドラルク様](https://open.spotify.com/track/0ZCEXwZIKgoy5vs1w8mgcS) | [ドラルク\(CV:福山 潤\)](https://open.spotify.com/artist/0snE8deysjN9XkroJFqvFO) | [真祖にして無敵のドラルク様](https://open.spotify.com/album/3GiQ3U0BReXbBKotjYIJvA) | 3:09 |
+| 75 | [Shinso ni site Muteki no Mr\. Draluc](https://open.spotify.com/track/0iJrvWubS2d3CLmhMnxe3Q) | [Draluc\(CV:Jun Fukuyama\)](https://open.spotify.com/artist/4S2NOaRyFqCTGPAfao7TYX) | [Shinso ni site Muteki no Mr\. Draluc](https://open.spotify.com/album/1HUXQ6lAm4eSnlcyxIJ888) | 3:09 |
 
-Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMDg2OTYzNTZmYWZhMWI5OTM0NzMxYzMyYmI2OTliZmI4`
+Snapshot ID: `MTY3MDk0MzYwMCwwMDAwMDAwMDg1M2NlYWY1NDFmNjQxYjg2YjFkZWY1YWM1M2M0NTVl`

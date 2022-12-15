@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,725 likes - 100 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,808 likes - 100 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 32 | [Pursuit \(As The Deer\) \- Live](https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Pursuit \(As The Deer\) \[Live\]](https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F) | 6:14 |
 | 33 | [Help Me Live in Step \- Live](https://open.spotify.com/track/6LgNEqbZd7TBNSpjTsomIM) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word, Vol\. 2 \(Live\)](https://open.spotify.com/album/7HmiWfc5xCGC5pUoZrP7IC) | 4:34 |
 | 34 | [God Really Loves Us](https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 4:23 |
-| 35 | [I Just Love You \- Live](https://open.spotify.com/track/4YWprYc7YaDAbnhTitzdDX) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [I Just Love You \(Live\)](https://open.spotify.com/album/7eN21Ocvn91T3SxZlZRnYI) | 6:29 |
+| 35 | [I Just Love You \- Live](https://open.spotify.com/track/4YWprYc7YaDAbnhTitzdDX) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [I Just Love You \(Live\)](https://open.spotify.com/album/7eN21Ocvn91T3SxZlZRnYI) | 6:25 |
 | 36 | [Rest On Us \- Single Version](https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Rest On Us](https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX) | 3:44 |
 | 37 | [The Doxology](https://open.spotify.com/track/3tod3hCUiHZnDUlVc8LSV3) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [The Doxology](https://open.spotify.com/album/4afIDOWKSUUr0ZVOl7q4DT) | 2:43 |
 | 38 | [Monday Morning Faith](https://open.spotify.com/track/7qMRmcVM1ki7z6YgiPmXrU) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Heart Cry](https://open.spotify.com/album/29KBqH474Kpmrfc6cCtzWF) | 6:56 |

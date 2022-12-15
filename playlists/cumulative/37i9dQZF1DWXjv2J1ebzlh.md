@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,868 songs - 5 day 5 hr 52 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,869 songs - 5 day 5 hr 55 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,7 +914,8 @@
 | [Kamakumba](https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ) | [Mop Mop](https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf) | [Isle Of Magic](https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6) | 4:06 | 2022-07-27 |  |
 | [Kamar Dawa](https://open.spotify.com/track/4gdNZhXAA4T2vaeYKOnOw3) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 5:17 | 2022-10-31 |  |
 | [Kamar Dawa](https://open.spotify.com/track/57LQQDgS5nrR6oSTak5Yem) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 5:17 | 2022-07-12 | 2022-11-20 |
-| [Katunga](https://open.spotify.com/track/031KqYKOurfURoOyI2GwZE) | [Los Soneros De Gamero](https://open.spotify.com/artist/7okHK7NaNwxujUlsF3aIdW) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 3:26 | 2022-07-27 |  |
+| [Katunga](https://open.spotify.com/track/6XVBxEx7kWyr4TWBTZqt6d) | [Los Soneros De Gamero](https://open.spotify.com/artist/7okHK7NaNwxujUlsF3aIdW) | [Bailando](https://open.spotify.com/album/3FKWeXjx5EoeQiC8x8IMmn) | 3:24 | 2022-12-07 |  |
+| [Katunga](https://open.spotify.com/track/031KqYKOurfURoOyI2GwZE) | [Los Soneros De Gamero](https://open.spotify.com/artist/7okHK7NaNwxujUlsF3aIdW) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 3:26 | 2022-07-27 | 2022-12-15 |
 | [Katunga](https://open.spotify.com/track/62yCNu7ioBwOmyP6ekVR2l) | [Los Soneros De Gamero](https://open.spotify.com/artist/7okHK7NaNwxujUlsF3aIdW) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975 \- 91](https://open.spotify.com/album/3nnDp17ONStMm4LY6D64Mq) | 3:26 | 2022-06-09 | 2022-07-29 |
 | [Keep Going](https://open.spotify.com/track/18NSA1HkoJQyyyt7pyKys9) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 1:26 | 2022-10-31 |  |
 | [Keep Going](https://open.spotify.com/track/7zNaxQUSn4AOxB7SZCkB0D) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU) | 1:26 | 2022-07-12 | 2022-11-21 |

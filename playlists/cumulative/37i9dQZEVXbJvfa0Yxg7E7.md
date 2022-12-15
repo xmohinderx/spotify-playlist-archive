@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-887 songs - 1 day 22 hr 47 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+888 songs - 1 day 22 hr 50 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,7 @@
 | [Lykke te](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Lykke te](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) | 2:44 | 2022-05-28 | 2022-08-09 |
 | [Lykkelig uten meg](https://open.spotify.com/track/3w03UCzYa9dsykfl0Ag3Jh) | [Sebastian Zalo](https://open.spotify.com/artist/5CGn9wJhdFhjB3DoU7LHX0) | [Lykkelig uten meg](https://open.spotify.com/album/2GSgIdppEVCoIGLs5YBA3q) | 3:30 | 2022-05-07 | 2022-05-22 |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-23 |
-| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-25 |  |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-25 | 2022-12-15 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-14 |
 | [Magi \- fra Kristiania Magiske Tivolitheater](https://open.spotify.com/track/60sMfMRKuq42HIcjCDYhM3) | [Sebastian Zalo](https://open.spotify.com/artist/5CGn9wJhdFhjB3DoU7LHX0) | [Magi \(fra Kristiania Magiske Tivolitheater\)](https://open.spotify.com/album/4E2YxIRzJb6CPhhHerzb5g) | 2:34 | 2021-12-14 | 2021-12-30 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-13 |
@@ -703,6 +703,7 @@
 | [Samma gamla vanliga](https://open.spotify.com/track/4hsTQQgfBnBgtBkTGKWS1G) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Samma gamla vanliga](https://open.spotify.com/album/0pDplTjct8PBplJ7s2sL6p) | 2:09 | 2021-07-05 | 2021-11-14 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2021-11-14 | 2021-11-28 |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 2:51 | 2021-12-25 | 2021-12-27 |
+| [Santa Lucia](https://open.spotify.com/track/5Cz68SyqTHTXJwuHRZICGT) | [Levende Lys](https://open.spotify.com/artist/7nlz6YVvJKOJVxDROACxcv) | [Alle Barnas Julesanger](https://open.spotify.com/album/0eT7C2kaNWso8ukKSJbATo) | 2:39 | 2022-12-14 |  |
 | [Santa Lucia](https://open.spotify.com/track/6JspRQrXelZuB0WUSeWdMf) | [Svingenkoret](https://open.spotify.com/artist/3S42tRBTRdxmtBii6z0Lt1) | [Jul i svingen](https://open.spotify.com/album/4CLy9bqcomutoGY0txQSa3) | 3:14 | 2021-12-15 |  |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-11-28 |  |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:25 | 2021-12-25 | 2021-12-27 |

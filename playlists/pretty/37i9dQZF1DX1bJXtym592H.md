@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,149 likes - 128 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,175 likes - 128 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 20 | [Lil XX](https://open.spotify.com/track/4mnFc26yXNij0kq4PmxWE5) | [Chip&Pinn](https://open.spotify.com/artist/4m5L8s0CeXq6t7L1s2YR5A) | [Green Thumbs](https://open.spotify.com/album/1uztEtocC4GYKSQhLky95u) | 3:28 |
 | 21 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 |
 | 22 | [Deep Pockets](https://open.spotify.com/track/6ivtpwLd3ZJW6J9THJP2JP) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Deep Pockets](https://open.spotify.com/album/0hgL3GX8NBVHG26sV0lPmG) | 2:46 |
-| 23 | [Rain](https://open.spotify.com/track/1DdN2w9ykZw1Pc6ig5DV8f) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/4hxiBnBum1xzbW8e1hgo1L) | 2:08 |
+| 23 | [Rain](https://open.spotify.com/track/1UdwBbAUIC0MEwtUKIo77f) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/2hWUgljsvAFmmPR5PNuApf) | 2:08 |
 | 24 | [Twenty Ten](https://open.spotify.com/track/6GfH6Y1L94563PL4sQxmzk) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:31 |
 | 25 | [Mythical Beasts Do Yoga](https://open.spotify.com/track/6a22xSTZ90vf0wqcYpaeSP) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Mythical Beasts Do Yoga](https://open.spotify.com/album/3eQVZdtlOxKOYiwFGSJCDX) | 3:42 |
 | 26 | [I Won](https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:14 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 127 | [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 |
 | 128 | [60’s Adventure](https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 3:01 |
 
-Snapshot ID: `MTY3MDU5MjExMywwMDAwMDAwMDMxYTY1MzE0NmJkYzk2YThmMjc4N2I0YTYyMjEyYmJl`
+Snapshot ID: `MTY3MDU5MjExMywwMDAwMDAwMDA4YTkzZGY0YTdhMzA5Y2RiN2VmZGVkYmM4YmFhODk1`

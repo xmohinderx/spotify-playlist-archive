@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Ženy v plné síle\. Poslouchej to nejlepší, co se v roce 2022 urodilo\. Cover: Emma Drobna
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,556 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,578 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Christmas K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DWVbb8LK4P3Mg)
 
-> Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover:  C9 Entertainment\)
+> Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-156 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/1yyhOjEH9QwfpQn9ZYLpRJ)
+157 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/1yyhOjEH9QwfpQn9ZYLpRJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2021-12-21 |  |
 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 | 2021-12-21 |  |
 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/4zoiPeH0WyFLqStxsHtUHT) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 2:38 | 2021-12-21 | 2022-07-29 |
+| [Beautiful Christmas](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Beautiful Christmas](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG) | 3:29 | 2022-12-14 |  |
 | [Because It's Christmas](https://open.spotify.com/track/0LTg6vXUAfr4Pgw2vTjWXM) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [The Winter's Tale](https://open.spotify.com/album/2YFp86lm2xLii6VuJZAyIG) | 3:45 | 2021-12-21 | 2022-07-29 |
 | [Because It's Christmas](https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [The Winter's Tale](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) | 3:45 | 2021-12-21 |  |
 | [Before Our Night Is Over](https://open.spotify.com/track/394qYjT7uu43TIdVgor8bX) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:34 | 2021-12-21 |  |
@@ -84,7 +85,7 @@
 | [Merry & Happy](https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) | 3:12 | 2021-12-21 |  |
 | [Merry Christmas](https://open.spotify.com/track/2SJd63Mwyi9WKnHYtZ5ZOr) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/2nFsRoEaoFtISD0Czsvx2x) | 3:43 | 2021-12-21 | 2022-07-29 |
 | [Merry Christmas](https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:43 | 2021-12-21 |  |
-| [Merry Christmas](https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TEEN TOP Snow Kiss](https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4) | 3:19 | 2021-12-21 |  |
+| [Merry Christmas](https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TEEN TOP Snow Kiss](https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4) | 3:19 | 2021-12-21 | 2022-12-15 |
 | [Merry Christmas \(Feat\. Sun Ahn, Kate Kim\)](https://open.spotify.com/track/2lvtjJ7cAEL9yLrFto2Aal) | [2LSON](https://open.spotify.com/artist/2AMTVJeuaSJHOatQS448YY), [Sun Ahn](https://open.spotify.com/artist/6gXQ2KemBfEPPiIksjd5Gm), [LILAC](https://open.spotify.com/artist/2klhHHmpW7xu4lmdLm7ULj) | [Merry Christmas](https://open.spotify.com/album/2jEm0ykpfPcONFbJ1LEgOj) | 4:25 | 2021-12-21 |  |
 | [Merry Christmas JAM!](https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb), [Choi Joon](https://open.spotify.com/artist/2kKsTEjAE8ZOtxIvCL8bts) | [Merry Christmas JAM!](https://open.spotify.com/album/2w2k6U8hNKPrauD0PS2ZDi) | 2:55 | 2021-12-21 |  |
 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 | 2021-12-21 |  |

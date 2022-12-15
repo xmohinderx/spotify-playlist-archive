@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-300 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+301 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,8 +248,9 @@
 | [Take Off](https://open.spotify.com/track/5oHL7Dl37tMi0YK2qATM5C) | [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [Take Off](https://open.spotify.com/album/0RqZgPvRa2OE0KwgT1ad8e) | 2:39 | 2019-10-04 | 2022-02-12 |
 | [take off](https://open.spotify.com/track/7jTqQ6V5xq5lK6axjVQwWW) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [take off](https://open.spotify.com/album/3RtTbtee2kTycEr5JqLJvS) | 2:31 | 2022-10-28 |  |
 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 | 2022-02-11 |  |
-| [The girl with broken dreams](https://open.spotify.com/track/0nrvM5kJIPTfSgNWXBU0TI) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/6cf3yxAhMR8j3J7JIAcdyp) | 2:35 | 2022-10-28 |  |
+| [The girl with broken dreams](https://open.spotify.com/track/0nrvM5kJIPTfSgNWXBU0TI) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/6cf3yxAhMR8j3J7JIAcdyp) | 2:35 | 2022-10-28 | 2022-12-15 |
 | [The girl with broken dreams](https://open.spotify.com/track/28xqa66vOcxPCXxFmPN1U2) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/7ymiir2WBV6HB2cEop3HWM) | 2:35 | 2022-09-02 | 2022-11-20 |
+| [The girl with broken dreams](https://open.spotify.com/track/7DzhgkrwVvnOfhTq1C3cYS) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/4hnNFdJQNdyMtUmsiNniEl) | 2:35 | 2022-12-09 |  |
 | [The Heavens](https://open.spotify.com/track/2BQPwEDYM8KLUaKncKQiZA) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [The Heavens](https://open.spotify.com/album/4SfOQIO0DjTwSYAzMGlyC1) | 3:36 | 2022-02-12 |  |
 | [They Do Exist](https://open.spotify.com/track/656iCGkgKBbDxvFs5EfzGK) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [They Do Exist](https://open.spotify.com/album/48I1k8R1X9Psk5XTrVDT2u) | 4:49 | 2022-02-12 | 2022-07-08 |
 | [Think It Through](https://open.spotify.com/track/5dQStS5S139vgcybY6gUJL) | [Billy Mccray](https://open.spotify.com/artist/2EqQ9FPklGoK7YmlJQ1qA4) | [Think It Through](https://open.spotify.com/album/5kqO9S5yFkV9x3FiqGFPA2) | 2:28 | 2022-03-25 |  |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 347409,
+  "num_followers": 347402,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI0MjUyNDU1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI0MzcxNjQyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Dan\u00e7a do Pombo",
         "url": "https://open.spotify.com/album/5ICIP2rJtyWSXvKoryHM7R"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4sVFQzUaW5eq2QDGAo20tb"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Agudo M\u00e1gico 3",
         "url": "https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD"
@@ -53,23 +53,7 @@
       "url": "https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Movimento Verde Amarelo",
-        "url": "https://open.spotify.com/album/44yqcxU1rUSPYMBVre9P7e"
-      },
-      "artists": [
-        {
-          "name": "Movimento Verde Amarelo",
-          "url": "https://open.spotify.com/artist/5lyUbycl59awTz9lHwrLeh"
-        }
-      ],
-      "duration_ms": 193496,
-      "name": "\u00danico Penta \u00c9 O Brasilz\u00e3o",
-      "url": "https://open.spotify.com/track/5db65G6tr51dxxYpqKHi9x"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "DEIXA A MARCA - DEIXA SUA MARCA",
         "url": "https://open.spotify.com/album/5RFTuDAi9ChHVjR4Ax5U1v"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/3m3n68Cl1Lw4hVV2T1PkTB"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Movimento Verde Amarelo",
+        "url": "https://open.spotify.com/album/44yqcxU1rUSPYMBVre9P7e"
+      },
+      "artists": [
+        {
+          "name": "Movimento Verde Amarelo",
+          "url": "https://open.spotify.com/artist/5lyUbycl59awTz9lHwrLeh"
+        }
+      ],
+      "duration_ms": 193496,
+      "name": "\u00danico Penta \u00c9 O Brasilz\u00e3o",
+      "url": "https://open.spotify.com/track/5db65G6tr51dxxYpqKHi9x"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Caneta Azul",
         "url": "https://open.spotify.com/album/5VFcM61xPRTvg0GQnXFsv8"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/6LApHv7VpoFUj9s38JWOTi"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/6RgXU5moRK2kNovhLQV0Yq"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Psychedelic Jungle",
         "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
@@ -153,7 +153,31 @@
       "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Imprevisto",
+        "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        }
+      ],
+      "duration_ms": 139703,
+      "name": "Imprevisto",
+      "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
@@ -181,31 +205,7 @@
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Imprevisto",
-        "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
-      },
-      "artists": [
-        {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        },
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Skeeter Beats",
-          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
-        }
-      ],
-      "duration_ms": 139703,
-      "name": "Imprevisto",
-      "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Putaria 2000",
         "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "\u00c9 S\u00f3 Um Lance Lero Lero",
         "url": "https://open.spotify.com/album/4On1CDfCz6TG3oW3BTVySP"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/5DoYLtsVnNMcrgpMdEPOsI"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Evoque Prata",
         "url": "https://open.spotify.com/album/7cZr5DfcAIy3bSd6Ce84zE"
@@ -305,63 +305,7 @@
       "url": "https://open.spotify.com/track/1597vvneWf0zoQrg2D8yH6"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Fui ao Mercado",
-        "url": "https://open.spotify.com/album/0NzhUCGpqvP5nM5LPBbYqi"
-      },
-      "artists": [
-        {
-          "name": "MC UVINHA",
-          "url": "https://open.spotify.com/artist/2irBXtnuhG7FJpHj62JekR"
-        },
-        {
-          "name": "Belzzerk",
-          "url": "https://open.spotify.com/artist/52y6eaawwDOYYJt02k3npY"
-        }
-      ],
-      "duration_ms": 133224,
-      "name": "Hino Nacional Funk",
-      "url": "https://open.spotify.com/track/6v6zeeNg8luclQngcotmAB"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "AQUECIMENTO DA COPA",
-        "url": "https://open.spotify.com/album/12SheI4ZG7EgSBaI2loAio"
-      },
-      "artists": [
-        {
-          "name": "Dj Pedro Beat",
-          "url": "https://open.spotify.com/artist/5I4tkh6D9uqMze7R14iI91"
-        },
-        {
-          "name": "MC Rennan",
-          "url": "https://open.spotify.com/artist/3NihuCqYN60ygI9fkhZJOM"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "AQUECIMENTO DA COPA",
-      "url": "https://open.spotify.com/track/3vNCGCZ5sqePQoPnTw2pVk"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Very Few Friends",
         "url": "https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y"
@@ -377,23 +321,23 @@
       "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o"
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
       "artists": [
         {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW"
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "SARRA NOS MENOR QUE TA DE GLOCK NA CINTURA",
         "url": "https://open.spotify.com/album/7xQwkgNguN6SUKwTNZwNCE"
@@ -417,7 +361,43 @@
       "url": "https://open.spotify.com/track/2N8MJun4bBUDCG92sSlpsS"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Fui ao Mercado",
+        "url": "https://open.spotify.com/album/0NzhUCGpqvP5nM5LPBbYqi"
+      },
+      "artists": [
+        {
+          "name": "MC UVINHA",
+          "url": "https://open.spotify.com/artist/2irBXtnuhG7FJpHj62JekR"
+        },
+        {
+          "name": "Belzzerk",
+          "url": "https://open.spotify.com/artist/52y6eaawwDOYYJt02k3npY"
+        }
+      ],
+      "duration_ms": 133224,
+      "name": "Hino Nacional Funk",
+      "url": "https://open.spotify.com/track/6v6zeeNg8luclQngcotmAB"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "MacPorra",
         "url": "https://open.spotify.com/album/6kEC6VQIdwggVFxCmXt6SS"
@@ -433,7 +413,119 @@
       "url": "https://open.spotify.com/track/74iXoDXokfHgUtZDKWKE7e"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "AQUECIMENTO DA COPA",
+        "url": "https://open.spotify.com/album/12SheI4ZG7EgSBaI2loAio"
+      },
+      "artists": [
+        {
+          "name": "Dj Pedro Beat",
+          "url": "https://open.spotify.com/artist/5I4tkh6D9uqMze7R14iI91"
+        },
+        {
+          "name": "MC Rennan",
+          "url": "https://open.spotify.com/artist/3NihuCqYN60ygI9fkhZJOM"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "AQUECIMENTO DA COPA",
+      "url": "https://open.spotify.com/track/3vNCGCZ5sqePQoPnTw2pVk"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Bombonzinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 154701,
+      "name": "Bombonzinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
+        "url": "https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 137660,
+      "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
+      "url": "https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Eu Vou Largar Minha Casa e Vou Morar no Cabar\u00e9",
         "url": "https://open.spotify.com/album/2GKayyPu6owlpNpFLMFmsf"
@@ -465,127 +557,7 @@
       "url": "https://open.spotify.com/track/7gkBEAt4U2PmKdfGaXPXIM"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "AQUI \u00c9 O BRASIL, FUNK HINO NACIONAL",
-        "url": "https://open.spotify.com/album/77pIkI0nsYJvvZzUdbtlkr"
-      },
-      "artists": [
-        {
-          "name": "DJ Cris Fontedofunk",
-          "url": "https://open.spotify.com/artist/0EhiryMrdvuoQeN63sHXyS"
-        },
-        {
-          "name": "MC W1",
-          "url": "https://open.spotify.com/artist/1pc2LERxjl2FZ3Ir5rYBqj"
-        },
-        {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
-        },
-        {
-          "name": "Mc lipynho Ds",
-          "url": "https://open.spotify.com/artist/3LNwFd22I1gBdmyeE2Ap9R"
-        }
-      ],
-      "duration_ms": 223153,
-      "name": "AQUI \u00c9 O BRASIL, FUNK HINO NACIONAL",
-      "url": "https://open.spotify.com/track/6Q9v67KBIsHHLtQd9pkWcF"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Escapism. (Sped Up)",
-        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Bombonzinho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs"
-      },
-      "artists": [
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 154701,
-      "name": "Bombonzinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
-        "url": "https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 137660,
-      "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
-      "url": "https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Sereia",
         "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
@@ -621,23 +593,27 @@
       "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
-        "name": "M\u00e9dia Boa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj"
+        "name": "Luz do Luar",
+        "url": "https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4"
       },
       "artists": [
         {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+          "name": "Mc Tato",
+          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
+        },
+        {
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
         }
       ],
-      "duration_ms": 148900,
-      "name": "M\u00e9dia Boa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
+      "duration_ms": 184615,
+      "name": "Luz do Luar",
+      "url": "https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -653,7 +629,23 @@
       "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "M\u00e9dia Boa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "duration_ms": 148900,
+      "name": "M\u00e9dia Boa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
@@ -689,27 +681,35 @@
       "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
-        "name": "Luz do Luar",
-        "url": "https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4"
+        "name": "AQUI \u00c9 O BRASIL, FUNK HINO NACIONAL",
+        "url": "https://open.spotify.com/album/77pIkI0nsYJvvZzUdbtlkr"
       },
       "artists": [
         {
-          "name": "Mc Tato",
-          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
+          "name": "DJ Cris Fontedofunk",
+          "url": "https://open.spotify.com/artist/0EhiryMrdvuoQeN63sHXyS"
         },
         {
-          "name": "DJ Ak beats",
-          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+          "name": "MC W1",
+          "url": "https://open.spotify.com/artist/1pc2LERxjl2FZ3Ir5rYBqj"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
+          "name": "Mc lipynho Ds",
+          "url": "https://open.spotify.com/artist/3LNwFd22I1gBdmyeE2Ap9R"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Luz do Luar",
-      "url": "https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j"
+      "duration_ms": 223153,
+      "name": "AQUI \u00c9 O BRASIL, FUNK HINO NACIONAL",
+      "url": "https://open.spotify.com/track/6Q9v67KBIsHHLtQd9pkWcF"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Aces",
         "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
@@ -725,51 +725,23 @@
       "url": "https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
-        "name": "Pagod\u00e3o do Birimbola (Tchubirabirom)",
-        "url": "https://open.spotify.com/album/6zQPhs0e1oymLnczYz3EA2"
+        "name": "A Cole\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4jaJYOs7gzbsUoucGZJb0e"
       },
       "artists": [
         {
-          "name": "Os Quebradeiras",
-          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+          "name": "OUHBOY JUA",
+          "url": "https://open.spotify.com/artist/7evJI9jaJ082JPpu7arMaZ"
         }
       ],
-      "duration_ms": 125333,
-      "name": "Pagod\u00e3o do Birimbola (Tchubirabirom)",
-      "url": "https://open.spotify.com/track/75vGTHuhbJDrZ0oPb3FXQ9"
+      "duration_ms": 111145,
+      "name": "A Cole\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Vou Morar no Cabar\u00e9",
-        "url": "https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6"
-      },
-      "artists": [
-        {
-          "name": "GORD\u00c3O DO PC",
-          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
-        },
-        {
-          "name": "Dj Wesley Gonzaga",
-          "url": "https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi"
-        }
-      ],
-      "duration_ms": 105461,
-      "name": "Vou Morar no Cabar\u00e9",
-      "url": "https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Beat L\u00e1zaro Talarico 2",
         "url": "https://open.spotify.com/album/0Y1B6MM3sLJ02Eof8b7l4Z"
@@ -785,7 +757,7 @@
       "url": "https://open.spotify.com/track/4Mayay1L2tyZcvlM4YK8oC"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
@@ -805,23 +777,43 @@
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
-        "name": "A Cole\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4jaJYOs7gzbsUoucGZJb0e"
+        "name": "Vou Morar no Cabar\u00e9",
+        "url": "https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6"
       },
       "artists": [
         {
-          "name": "OUHBOY JUA",
-          "url": "https://open.spotify.com/artist/7evJI9jaJ082JPpu7arMaZ"
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "Dj Wesley Gonzaga",
+          "url": "https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi"
         }
       ],
-      "duration_ms": 111145,
-      "name": "A Cole\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi"
+      "duration_ms": 105461,
+      "name": "Vou Morar no Cabar\u00e9",
+      "url": "https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Lowlife Princess: Noir",
+        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 165135,
+      "name": "BIBI Vengeance",
+      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -837,7 +829,43 @@
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Cheiro da Karolina",
+        "url": "https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI"
+      },
+      "artists": [
+        {
+          "name": "Luiz Poderoso Chef\u00e3o",
+          "url": "https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "Cheiro da Karolina",
+      "url": "https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/5V0mf7tqoTyTi3EIFBxEt7"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/7110PZYRgMvQzLnHYR2XWI"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Chapadinha na Gaveta",
         "url": "https://open.spotify.com/album/5CXtG2sHFTd7odjkLI7ezF"
@@ -865,63 +893,7 @@
       "url": "https://open.spotify.com/track/6n7CZFET4ezOR6F5T7J3oC"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Lowlife Princess: Noir",
-        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 165135,
-      "name": "BIBI Vengeance",
-      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Cheiro da Karolina",
-        "url": "https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI"
-      },
-      "artists": [
-        {
-          "name": "Luiz Poderoso Chef\u00e3o",
-          "url": "https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "Cheiro da Karolina",
-      "url": "https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Ro\u00e7a Em Mim",
-        "url": "https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
-        }
-      ],
-      "duration_ms": 158171,
-      "name": "Ro\u00e7a Em Mim",
-      "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "O mesmo que rimava na roda",
         "url": "https://open.spotify.com/album/0hAiRHgK81qTe9vEA62ciW"
@@ -945,55 +917,55 @@
       "url": "https://open.spotify.com/track/0vy51G7oHHjUvIIklBpquR"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/5V0mf7tqoTyTi3EIFBxEt7"
+        "name": "Ro\u00e7a Em Mim",
+        "url": "https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl"
       },
       "artists": [
         {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         },
         {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
         }
       ],
-      "duration_ms": 118153,
-      "name": "100%",
-      "url": "https://open.spotify.com/track/7110PZYRgMvQzLnHYR2XWI"
+      "duration_ms": 158171,
+      "name": "Ro\u00e7a Em Mim",
+      "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
-        "name": "Magr\u00e3o Speaks To Me: Brasil",
-        "url": "https://open.spotify.com/album/72ILEn9GW2DJRV84cMFPeJ"
+        "name": "Pagod\u00e3o do Birimbola (Tchubirabirom)",
+        "url": "https://open.spotify.com/album/6zQPhs0e1oymLnczYz3EA2"
       },
       "artists": [
         {
-          "name": "WAGNERIZ",
-          "url": "https://open.spotify.com/artist/0sDVPVFdqUqqn4VaeEq7lO"
+          "name": "Os Quebradeiras",
+          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
         },
         {
-          "name": "DJ Thiago Mendes",
-          "url": "https://open.spotify.com/artist/5C5pMqUon5cF0FQgX12bQr"
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
         },
         {
-          "name": "DJ J\u00falia Zambonin",
-          "url": "https://open.spotify.com/artist/5zeRf6IErwfMVJJF0tsSQ1"
-        },
-        {
-          "name": "Funk 24Por48",
-          "url": "https://open.spotify.com/artist/7aefR8cSVlXf8rUIqMY2mb"
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Magr\u00e3o Speaks To Me: Brasil",
-      "url": "https://open.spotify.com/track/0ZDgFtdCTfhvvu6E5sLofH"
+      "duration_ms": 125333,
+      "name": "Pagod\u00e3o do Birimbola (Tchubirabirom)",
+      "url": "https://open.spotify.com/track/75vGTHuhbJDrZ0oPb3FXQ9"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "BANKAI",
         "url": "https://open.spotify.com/album/0M5a69FH1OBRpDXVZKPiCd"
@@ -1009,27 +981,7 @@
       "url": "https://open.spotify.com/track/33sPNJZxIi4Qq9jy4rACPJ"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
-      "album": {
-        "name": "Felina",
-        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
-    },
-    {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
@@ -1065,24 +1017,68 @@
       "url": "https://open.spotify.com/track/7qDX7v5im9GW4Mf5WJu6y3"
     },
     {
-      "added_at": "2022-12-13 13:14:15",
+      "added_at": "2022-12-14 22:20:42",
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+        "name": "Outubro 2022",
+        "url": "https://open.spotify.com/album/7f6rmrUSh1kSF1hGDsIkBt"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        },
-        {
-          "name": "Ludwig Goransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "Heytor O Boyzinho",
+          "url": "https://open.spotify.com/artist/63AvvuzHyhj7O0apLUK5em"
         }
       ],
-      "duration_ms": 167386,
-      "name": "Con La Brisa",
-      "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
+      "duration_ms": 180072,
+      "name": "Eu Te Amo Tanto",
+      "url": "https://open.spotify.com/track/7Cb6RSj8LPDFNRvJnR4fER"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Perdoa Por Tudo Vida",
+      "url": "https://open.spotify.com/track/7zKqmAHGY8zm2UA4wT5ant"
+    },
+    {
+      "added_at": "2022-12-14 22:20:42",
+      "album": {
+        "name": "Felina",
+        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

@@ -3057,12 +3057,12 @@
           "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
         },
         {
-          "name": "Drei Alva",
-          "url": "https://open.spotify.com/artist/6AVIeFa086ZaYFspAj7fNz"
-        },
-        {
           "name": "Legado ARM",
           "url": "https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe"
+        },
+        {
+          "name": "Drei Alva",
+          "url": "https://open.spotify.com/artist/6AVIeFa086ZaYFspAj7fNz"
         }
       ],
       "date_added": "2022-11-02",
@@ -7267,7 +7267,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 212453,
       "name": "Las Cartas",
       "url": "https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL"
@@ -14377,7 +14377,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 163402,
       "name": "Vamo a Toda",
       "url": "https://open.spotify.com/track/4zoKgshm1fTrAHk0SBuvni"

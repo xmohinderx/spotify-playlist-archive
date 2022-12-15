@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Amapiano sounds in La Vida Loca! Cover: ND & Giordan Chase \(Afrolosjes Soundsystem\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,927 likes - 71 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,948 likes - 71 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

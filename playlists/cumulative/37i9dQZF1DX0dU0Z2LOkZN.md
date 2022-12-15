@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-312 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+313 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [Wood](https://open.spotify.com/track/53cubSUB0K8iC0jzdnAuvP) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Wood](https://open.spotify.com/album/3fy00lFlifuP1PjxvqxpVF) | 2:21 | 2022-12-09 |  |
 | [Word Born](https://open.spotify.com/track/7LMe0nJkQDSearJbMbbOeK) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE) | [Word Born](https://open.spotify.com/album/6BlLOPfri9gnPR9wSzMavf) | 2:19 | 2022-11-25 |  |
 | [Workitout](https://open.spotify.com/track/2qI1MNDL7NtvX5FMPhQh0A) | [Hands](https://open.spotify.com/artist/0N1Cn6TEMkmCdlt2YQkK9N) | [Workitout](https://open.spotify.com/album/3n0ssOLM368uyujZkNkm60) | 1:52 | 2022-06-24 | 2022-08-19 |
-| [Yeaa](https://open.spotify.com/track/0lSeldE3HmW7ddfRkZgdhb) | [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Yeaa](https://open.spotify.com/album/0azEUulFCpoV78LUjnVJiM) | 2:25 | 2022-11-25 |  |
+| [Yeaa](https://open.spotify.com/track/0lSeldE3HmW7ddfRkZgdhb) | [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Yeaa](https://open.spotify.com/album/0azEUulFCpoV78LUjnVJiM) | 2:25 | 2022-11-25 | 2022-12-15 |
+| [Yeaa](https://open.spotify.com/track/1T9hAVbKyqa4v307IXK1My) | [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Yeaa](https://open.spotify.com/album/1Dpqo8161AdoxUrg4vE5fP) | 2:25 | 2022-12-09 |  |
 | [Yeyeh](https://open.spotify.com/track/6be5Tvs7iyVJ0ftX57y48r) | [Flobama](https://open.spotify.com/artist/4X5jJIOeOV9sa9r5PO0qBd) | [Have A Biscuit](https://open.spotify.com/album/6vxGbqOhTOOkOqloeN9cYD) | 1:44 | 2022-10-28 |  |
 | [Yoshi](https://open.spotify.com/track/4zDcINxFFVDoydWC6aTnGu) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Video Game](https://open.spotify.com/album/2gPfF174IL4VZNvvx04Sud) | 1:27 | 2021-11-11 |  |
 | [You know it so try it](https://open.spotify.com/track/6LA3e74TtttA6PFhD3pneQ) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [You know it so try it](https://open.spotify.com/album/0UgCX7bUSlJ5szufSoLwb7) | 2:07 | 2022-10-15 |  |

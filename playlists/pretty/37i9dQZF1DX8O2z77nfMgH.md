@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,041 likes - 62 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,153 likes - 62 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

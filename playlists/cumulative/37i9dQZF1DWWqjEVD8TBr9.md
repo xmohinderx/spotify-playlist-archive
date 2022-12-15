@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY\. 1\-4\-3, I LOVE YOU!
 
-211 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
+212 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [CALL](https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars / ソリクン \-Japanese ver.\-](https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0) | 2:47 | 2022-03-18 |  |
 | [Can't Stop \(Seungmin, I.N\)](https://open.spotify.com/track/33vfE5bxDMHpOFHMSgxehR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:29 | 2022-10-07 |  |
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-07 |  |
+| [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/3IjsvJc4SK3PT0SjhHKuvB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/album/2vC7q4Mem0uH1c7U6bTEeZ) | 3:11 | 2022-12-14 |  |
 | [Charmer](https://open.spotify.com/track/4QDpsNBlllaLGj8zbF2EE0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:08 | 2022-03-18 |  |
 | [Charmer](https://open.spotify.com/track/5PyqnR2KX6a6qwf6l9rgpj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:08 | 2022-03-18 | 2022-07-29 |
 | [CHEESE](https://open.spotify.com/track/5Kllw7Fco57MHtMEGgRdoc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:02 | 2022-03-18 | 2022-07-29 |

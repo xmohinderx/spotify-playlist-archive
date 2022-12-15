@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 572 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 578 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 15 | [Nekyo kyene](https://open.spotify.com/track/4MAtvNHJiuwUuNQyFHhC4E) | [Ebrahim Soul'o](https://open.spotify.com/artist/2YZW7Vm2kjy63WJQQ1UM4w) | [Conjolted](https://open.spotify.com/album/7dzbjLQcOssXTqqzu1HLrI) | 3:26 |
 | 16 | [Atiibwa](https://open.spotify.com/track/0OyULIXkDqy4QMcVN74EQi) | [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Omungi Atiibwa](https://open.spotify.com/album/4fR3oI5K1Y8FssSqZh3XYE) | 3:53 |
 | 17 | [The Light](https://open.spotify.com/track/19cwYaC0NLUA7B3Q3LvQS7) | [Kween G](https://open.spotify.com/artist/4u6bHNyuB19sp2uin2m4f1), [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz) | [Sensible Rebel](https://open.spotify.com/album/1nmdOZzdcFJLHnBwLX7Y8p) | 3:37 |
-| 18 | [Freaky Friday \- Tera Nitric Remix EDM Version](https://open.spotify.com/track/6pA2AGT6p7kniOdoZYZGJs) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [Curtis Laiger](https://open.spotify.com/artist/3fPTMNIWtUmVLAq1IebU5A), [Tera Nitric](https://open.spotify.com/artist/2MWRCiYFXzeuFwWAmASsyi) | [Freaky Friday](https://open.spotify.com/album/1fGpp3LgGnzvavjg6pb1zm) | 2:56 |
+| 18 | [Freaky Friday \- Tera Nitric Remix EDM Version](https://open.spotify.com/track/6pA2AGT6p7kniOdoZYZGJs) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [Curtis Laiger](https://open.spotify.com/artist/3fPTMNIWtUmVLAq1IebU5A), [Tera Nitric](https://open.spotify.com/artist/2MWRCiYFXzeuFwWAmASsyi) | [Freaky Friday \(Tera Nitric Remix EDM Version\)](https://open.spotify.com/album/1fGpp3LgGnzvavjg6pb1zm) | 2:56 |
 | 19 | [Extra Mile](https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:55 |
 | 20 | [Dotted Lines & Commas](https://open.spotify.com/track/0hw8BvO4OQ2f6GaF7NQI7p) | [Blixxack](https://open.spotify.com/artist/7tzeAMvtPF9coHEEwLZhRJ), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Dotted Lines & Commas](https://open.spotify.com/album/0PKfULSEkUoaXXxUoI0fgP) | 4:37 |
 | 21 | [Independent](https://open.spotify.com/track/424DjMFtS0JGIVM8aBFntp) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX), [Ogezi](https://open.spotify.com/artist/64qdnBh641xfeuHEevY9l2) | [Independent](https://open.spotify.com/album/59gYjH3D1JdjTvoQdcIat5) | 3:51 |

@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-244 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/2v08rtTK8fGzJTnf0viUcB)
+249 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/2v08rtTK8fGzJTnf0viUcB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,10 +121,12 @@
 | [If I Go, I'm Goin](https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:27 | 2019-09-29\* |  |
 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 | 2019-09-29\* |  |
 | [If You See Her, Say Hello](https://open.spotify.com/track/3fQ7f1NJzbCSO1ZHnzP5yr) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:27 | 2019-09-29\* | 2020-06-01 |
+| [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-12-14 |  |
 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 | 2019-09-29\* | 2021-06-12 |
 | [jordan](https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [jordan](https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88) | 4:01 | 2021-03-06 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-06-06 |  |
 | [jordan](https://open.spotify.com/track/3tQm2Uoq0IkIMBZswennUI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/28THK80bii2jtI49t6oDSP) | 4:01 | 2022-08-01 | 2022-11-13 |
+| [Laramee](https://open.spotify.com/track/0Ho55XknDOdL8IK2ghGjB2) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Laramee](https://open.spotify.com/album/0bUuPxAp0NaBOF8PXwG0z7) | 4:01 | 2022-12-14 |  |
 | [Let It Breathe](https://open.spotify.com/track/52uKQxYJKHpYz0DEwKLltI) | [Water Liars](https://open.spotify.com/artist/6k3UpifDbb2ox25edM5j3P) | [Water Liars](https://open.spotify.com/album/78DjyBCwRxpBuZmlRXrt58) | 2:39 | 2019-09-29\* |  |
 | [Life Is Confusing](https://open.spotify.com/track/16lPj311efhVdbwPrTgTHl) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Life Is Confusing EP](https://open.spotify.com/album/3lqou5SWx4juGcSJJD45FY) | 2:51 | 2019-09-29\* | 2020-07-10 |
 | [Lights Off](https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 3:52 | 2019-09-29\* | 2020-06-01 |
@@ -143,6 +145,7 @@
 | [Michigan](https://open.spotify.com/track/0WkJWnMCumm1fnFscdY7Rw) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/12M64Waii6uYeGrpkUwo3K) | 5:30 | 2019-09-29\* | 2022-07-29 |
 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 | 2022-06-06 |  |
 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 | 2022-06-06 |  |
+| [Miles Are Wide](https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb) | 3:54 | 2022-12-14 |  |
 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 | 2021-04-15 | 2021-12-14 |
 | [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 | 2019-09-29\* |  |
 | [My Arms Were Always Around You](https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [My Arms Were Always Around You](https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc) | 3:20 | 2019-09-29\* |  |
@@ -199,6 +202,7 @@
 | [Square One](https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Square One](https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8) | 3:06 | 2021-03-06 |  |
 | [Sudden Love \(Acoustic\)](https://open.spotify.com/track/4j1qgmRVqhFANilbZ70bft) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2jA6chvv51t3YxdJWsgxzu) | 3:02 | 2019-09-29\* | 2022-06-07 |
 | [Sunscreen](https://open.spotify.com/track/4R68vBtWahKshI7Q3mWpoc) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Sunscreen](https://open.spotify.com/album/1n3lVhMqxEmuVLNzsXu5g4) | 2:58 | 2019-09-29\* |  |
+| [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-12-14 |  |
 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 | 2021-07-17 |  |
 | [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 | 2019-09-29\* |  |
 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 | 2021-10-09 |  |
@@ -251,6 +255,7 @@
 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 | 2019-09-29\* | 2021-12-14 |
 | [Woandering](https://open.spotify.com/track/1bjqyTv5A06p8yGIG8KoeJ) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Our Blood](https://open.spotify.com/album/3cD3DhLcRjllMz8otD9F2X) | 3:44 | 2019-09-29\* | 2022-07-29 |
 | [Woandering](https://open.spotify.com/track/5E9uahV1IHYZ4qyJMvgpkp) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Our Blood](https://open.spotify.com/album/5oY9X7jA6A3JFUmSrRjvvQ) | 3:44 | 2022-06-06 |  |
+| [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-12-14 |  |
 | [You And I \- Moon And Stars / Acoustic](https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [You And I \(Moon And Stars / Acoustic\)](https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C) | 3:20 | 2021-12-13 |  |
 
 \*This playlist was first scraped on 2019-09-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Soffia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,443 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,451 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 13 | [Ai Calica](https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:06 |
 | 14 | [FIM](https://open.spotify.com/track/3iS1uyJ3IVCt7pVLVBWd1j) | [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [808' & Halftime](https://open.spotify.com/album/4C3YKkNgyUuGCSjeKiyaCC) | 2:12 |
 | 15 | [Não to bem](https://open.spotify.com/track/1bSEE8AEa5kus0vv6Eyibf) | [Dri](https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g) | [Não to bem](https://open.spotify.com/album/6fQ1xC20HDbRUbwXyAySlS) | 3:02 |
-| 16 | [MD Na Water](https://open.spotify.com/track/3ssfQQod2LfkS2tjREVTLD) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [R\. Guerra](https://open.spotify.com/artist/0ihqJFsOSMthFAo5T9e4Id), [Reis](https://open.spotify.com/artist/3nBff19fdDxH7M3QsCbheB), [Felipe Cof](https://open.spotify.com/artist/1dlv8OFNAfktrvtYISfnAo) | [MD Na Water](https://open.spotify.com/album/5sTxz91Cbp4ZBirS0zbZlF) | 3:14 |
+| 16 | [MD Na Water](https://open.spotify.com/track/3ssfQQod2LfkS2tjREVTLD) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [Felipe Cof](https://open.spotify.com/artist/1dlv8OFNAfktrvtYISfnAo), [R\. Guerra](https://open.spotify.com/artist/0ihqJFsOSMthFAo5T9e4Id), [Reis](https://open.spotify.com/artist/3nBff19fdDxH7M3QsCbheB) | [MD Na Water](https://open.spotify.com/album/5sTxz91Cbp4ZBirS0zbZlF) | 3:14 |
 | 17 | [Mundo de Fantasia](https://open.spotify.com/track/3tan5rgugHRDRkwmHmlU93) | [LK 3030](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Mundo de Fantasia](https://open.spotify.com/album/2HdtVLARQ9ylHm76OoeCx4) | 2:48 |
 | 18 | [Frio & Calculista](https://open.spotify.com/track/4J1c6maTGuWirmGCOgrfsK) | [Iasmin Turbininha](https://open.spotify.com/artist/0HeSaJ2OiMF7ZpdKTkTZF1), [Caio Fred](https://open.spotify.com/artist/7y8GW7hTfyk4FYKJNRJ709), [CereBeats](https://open.spotify.com/artist/4USYf94aCsO66aJqulSV2D) | [Frio & Calculista](https://open.spotify.com/album/3uAl8UgCy8Qgzff4RKl0rP) | 3:04 |
 | 19 | [Me Sinto Bem](https://open.spotify.com/track/5bUuh6L8KHJqGmEEfnlsFg) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Me Sinto Bem](https://open.spotify.com/album/5WoBEooabtB2ARJDRdABHl) | 2:51 |

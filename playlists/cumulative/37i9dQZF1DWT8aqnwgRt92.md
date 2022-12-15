@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-381 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+382 songs - 1 day 0 hr 35 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Self Satisfaction](https://open.spotify.com/track/4lqyDbJAXk4ChvQGRkzKTN) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [Sounds of Love](https://open.spotify.com/album/0ADWqHxUuWrth4DkM5OAQq) | 5:48 | 2022-10-18 | 2022-11-23 |
 | [selfish](https://open.spotify.com/track/0PjnMsqLESCjo6RLd5qLgo) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」エンディングテーマ「selfish」](https://open.spotify.com/album/5Qgz3sULal1qqcknzY8sIa) | 3:52 | 2022-05-28 | 2022-07-06 |
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 | 2022-07-08 |
+| [Shinso ni site Muteki no Mr\. Draluc](https://open.spotify.com/track/0iJrvWubS2d3CLmhMnxe3Q) | [Draluc\(CV:Jun Fukuyama\)](https://open.spotify.com/artist/4S2NOaRyFqCTGPAfao7TYX) | [Shinso ni site Muteki no Mr\. Draluc](https://open.spotify.com/album/1HUXQ6lAm4eSnlcyxIJ888) | 3:09 | 2022-12-13 |  |
 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 | 2022-10-11 |  |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-23 | 2022-08-03 |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-09-29 |  |
@@ -357,7 +358,7 @@
 | [燦々デイズ \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0cVZrZ7Xz1DabRUmiyanl0) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [燦々デイズ \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/45vCjeChn7dWsMXKxSARwP) | 3:50 | 2022-11-22 |  |
 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2022-10-19 |
 | [真夜中のラブ](https://open.spotify.com/track/2IPoCAPMf4v47mRM4d0kNS) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [真夜中のラブ](https://open.spotify.com/album/7EFeya32KPx1BTMMPwxdjl) | 3:23 | 2022-09-20 | 2022-09-22 |
-| [真祖にして無敵のドラルク様](https://open.spotify.com/track/0ZCEXwZIKgoy5vs1w8mgcS) | [ドラルク\(CV:福山 潤\)](https://open.spotify.com/artist/0snE8deysjN9XkroJFqvFO) | [真祖にして無敵のドラルク様](https://open.spotify.com/album/3GiQ3U0BReXbBKotjYIJvA) | 3:09 | 2022-12-13 |  |
+| [真祖にして無敵のドラルク様](https://open.spotify.com/track/0ZCEXwZIKgoy5vs1w8mgcS) | [ドラルク\(CV:福山 潤\)](https://open.spotify.com/artist/0snE8deysjN9XkroJFqvFO) | [真祖にして無敵のドラルク様](https://open.spotify.com/album/3GiQ3U0BReXbBKotjYIJvA) | 3:09 | 2022-12-13 | 2022-12-15 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2022-10-01 |  |
 | [神の領域](https://open.spotify.com/track/3CSf9hqXX1TUhPgPg4xwWr) | [七人のカリスマ](https://open.spotify.com/artist/7x8dSDNiUU6XRwJGRIrZDz), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [カリスマ ワールド](https://open.spotify.com/album/08nfjUVet9k5BnkouwbEmU) | 4:31 | 2022-09-20 | 2022-09-30 |
 | [私と世界](https://open.spotify.com/track/1ozBLIVhjPJSupubyOimQE) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [あなたとわたしを繋ぐもの](https://open.spotify.com/album/2xJMVcbDsJ0XJ4tODMmQet) | 4:23 | 2022-10-04 | 2022-10-06 |

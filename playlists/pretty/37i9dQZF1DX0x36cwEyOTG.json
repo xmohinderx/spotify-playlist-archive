@@ -1,13 +1,45 @@
 {
   "description": "Relax with this Peaceful Indie Ambient mix.",
-  "num_followers": 404783,
+  "num_followers": 404859,
   "original_name": "Peaceful Indie Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMjc5Mzk0MiwwMDAwMDAwMGJkNmExYjU3OGIxNWIyOTM1ZThiYTk3YTZkMzhjOTY2",
+  "snapshot_id": "MTY3MTAzNjc0MCwwMDAwMDAwMDZiMzU2YWU5YzYyMDdkYmJiYmVlNzRjODM5ZjFjZDgx",
   "tracks": [
+    {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
@@ -25,7 +57,75 @@
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
+    },
+    {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Rosyln",
+      "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
+    },
+    {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
+    },
+    {
+      "added_at": "2022-12-15 00:19:04",
       "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
@@ -43,22 +143,6 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 298586,
-      "name": "Wash.",
-      "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -113,6 +197,70 @@
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
     },
     {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Featherstone",
+      "url": "https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 298586,
+      "name": "Wash.",
+      "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+    },
+    {
       "added_at": "2018-11-26 22:12:01",
       "album": {
         "name": "Alps",
@@ -135,54 +283,6 @@
       "duration_ms": 194160,
       "name": "Alps",
       "url": "https://open.spotify.com/track/5eG8QuQKOBvDeCyoOeMkhT"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 214680,
-      "name": "Sunsetz",
-      "url": "https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -263,6 +363,26 @@
       "duration_ms": 239769,
       "name": "Them",
       "url": "https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD"
+    },
+    {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "Belonging",
+        "url": "https://open.spotify.com/album/4Vcaz8PUgRuo0BR36zKeLU"
+      },
+      "artists": [
+        {
+          "name": "Laffey",
+          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
+        },
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "duration_ms": 189928,
+      "name": "Forest Friends",
+      "url": "https://open.spotify.com/track/1nQPMlAgZLSA3nxzIm15SS"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -365,7 +485,7 @@
       "url": "https://open.spotify.com/track/2l6aKj7mOu8MyYX4yFtlZ8"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2022-12-15 00:19:04",
       "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
@@ -517,7 +637,7 @@
       "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2022-12-15 00:19:04",
       "album": {
         "name": "Finally We Are No One",
         "url": "https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k"
@@ -533,7 +653,7 @@
       "url": "https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2022-12-15 00:19:04",
       "album": {
         "name": "Colt",
         "url": "https://open.spotify.com/album/29JeAsTyeysxFx6v21v8N8"
@@ -551,22 +671,6 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "Unmap",
-        "url": "https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3"
-      },
-      "artists": [
-        {
-          "name": "Volcano Choir",
-          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Husks And Shells",
-      "url": "https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
         "name": "All We've Known",
         "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
       },
@@ -579,6 +683,22 @@
       "duration_ms": 233240,
       "name": "Caves",
       "url": "https://open.spotify.com/track/6WPtRyhuxR2g4q6fMZi6Xx"
+    },
+    {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "Unmap",
+        "url": "https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3"
+      },
+      "artists": [
+        {
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Husks And Shells",
+      "url": "https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -709,7 +829,7 @@
       "url": "https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2022-12-15 00:19:04",
       "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy"
@@ -725,20 +845,20 @@
       "url": "https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2022-12-15 00:19:04",
       "album": {
-        "name": "Low Roar",
-        "url": "https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC"
+        "name": "Atom 6",
+        "url": "https://open.spotify.com/album/0Ve7BbpsthPeae1D7UGul9"
       },
       "artists": [
         {
-          "name": "Low Roar",
-          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 334053,
-      "name": "Friends Make Garbage (Good Friends Take It Out)",
-      "url": "https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR"
+      "duration_ms": 72221,
+      "name": "Atom 6",
+      "url": "https://open.spotify.com/track/4Hctp8jfbMwLTchI6o3vDc"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -775,6 +895,22 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
+        "name": "Low Roar",
+        "url": "https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC"
+      },
+      "artists": [
+        {
+          "name": "Low Roar",
+          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Friends Make Garbage (Good Friends Take It Out)",
+      "url": "https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
         "name": "Towards The Sun",
         "url": "https://open.spotify.com/album/0C8nB6bCch6qbzcYXBnsaJ"
       },
@@ -805,7 +941,7 @@
       "url": "https://open.spotify.com/track/4RrePp7ou4Uw9fCxnj4mD5"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2022-12-15 00:19:04",
       "album": {
         "name": "The Horizon Just Laughed",
         "url": "https://open.spotify.com/album/7eyOb4RuYPBZZ4l3nCbraJ"
@@ -1081,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4p8xeejJP9NV3wEMCvuBUr"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2022-12-15 00:19:04",
       "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
@@ -1171,6 +1307,38 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
+        "name": "Range of Light",
+        "url": "https://open.spotify.com/album/1vZXJuVIRT18sZjea6ME2H"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 275053,
+      "name": "Fire-scene",
+      "url": "https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "In Roses",
+        "url": "https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG"
+      },
+      "artists": [
+        {
+          "name": "Gem Club",
+          "url": "https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp"
+        }
+      ],
+      "duration_ms": 141524,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb"
+    },
+    {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
         "name": "Lean Year",
         "url": "https://open.spotify.com/album/0hamxL9J3GEDVn9ePVsQeo"
       },
@@ -1203,38 +1371,6 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "In Roses",
-        "url": "https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG"
-      },
-      "artists": [
-        {
-          "name": "Gem Club",
-          "url": "https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp"
-        }
-      ],
-      "duration_ms": 141524,
-      "name": "Michael",
-      "url": "https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Range of Light",
-        "url": "https://open.spotify.com/album/1vZXJuVIRT18sZjea6ME2H"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 275053,
-      "name": "Fire-scene",
-      "url": "https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
         "name": "Echo Mountain Sessions EP",
         "url": "https://open.spotify.com/album/7iMZ2wghJOguDaRo8Pn1DU"
       },
@@ -1247,6 +1383,22 @@
       "duration_ms": 210060,
       "name": "Slack Jaw - Echo Mountain Sessions",
       "url": "https://open.spotify.com/track/2tgzwqArTmTiVD76fbHlWs"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "All We Grow",
+        "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "In the Stream",
+      "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1351,22 +1503,6 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "All We Grow",
-        "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "In the Stream",
-      "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
         "name": "Apeiron",
         "url": "https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6"
       },
@@ -1447,22 +1583,6 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "False Readings On",
-        "url": "https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 441400,
-      "name": "Regenerative Being",
-      "url": "https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
@@ -1475,6 +1595,22 @@
       "duration_ms": 236777,
       "name": "Meadow Song",
       "url": "https://open.spotify.com/track/1XDGbnepd3c3kqYsy6E0fx"
+    },
+    {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "False Readings On",
+        "url": "https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 441400,
+      "name": "Regenerative Being",
+      "url": "https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1629,6 +1765,22 @@
       "url": "https://open.spotify.com/track/0rOSE6B6ame2XNCzm4ZJQu"
     },
     {
+      "added_at": "2022-12-15 00:19:04",
+      "album": {
+        "name": "Wild Alee (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gaCoZyis2PjdhjQVgs1fF"
+      },
+      "artists": [
+        {
+          "name": "Talos",
+          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Your Love Is An Island",
+      "url": "https://open.spotify.com/track/6we39fF8PwBFH0Buthg1gH"
+    },
+    {
       "added_at": "2018-11-26 22:12:01",
       "album": {
         "name": "Chance Of Rain",
@@ -1645,7 +1797,7 @@
       "url": "https://open.spotify.com/track/307LMAWIYSpyNweOpB1vR3"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2022-12-15 00:19:04",
       "album": {
         "name": "Nepenthe",
         "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
@@ -1691,154 +1843,6 @@
       "duration_ms": 211426,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/5xVsJu0AcLyBxsGRg0EUbV"
-      },
-      "artists": [
-        {
-          "name": "JFDR",
-          "url": "https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ"
-        }
-      ],
-      "duration_ms": 268097,
-      "name": "White Sun",
-      "url": "https://open.spotify.com/track/5ROW9ymB6dGoQzDRNxaJC6"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Nice Is Good",
-        "url": "https://open.spotify.com/album/4Wsgd7FXs6a55vbrrwqxz3"
-      },
-      "artists": [
-        {
-          "name": "Marble Sounds",
-          "url": "https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp"
-        }
-      ],
-      "duration_ms": 250187,
-      "name": "The Time To Sleep",
-      "url": "https://open.spotify.com/track/1DkCFx03ZLCpGmGzHxZeIT"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Glen Rose Formation",
-        "url": "https://open.spotify.com/album/2d2xXCrfPXaZcl5lxnGv9d"
-      },
-      "artists": [
-        {
-          "name": "Field Works",
-          "url": "https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr"
-        },
-        {
-          "name": "Dntel",
-          "url": "https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS"
-        }
-      ],
-      "duration_ms": 241175,
-      "name": "Formation 1, Revisited - Dntel Remix",
-      "url": "https://open.spotify.com/track/0HsWlDCHz8UPj3Ksyw3gn8"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Gravity Pairs",
-        "url": "https://open.spotify.com/album/6kKA00epWl2hfYZ1RvIvPR"
-      },
-      "artists": [
-        {
-          "name": "Beacon",
-          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
-        }
-      ],
-      "duration_ms": 189221,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/3FNENbQXJGWilvNYgGjw5I"
-    },
-    {
-      "added_at": "2019-11-08 08:01:00",
-      "album": {
-        "name": "Giving Up Is Not The Easiest Way Out",
-        "url": "https://open.spotify.com/album/7CvKDSfsSZvV3LvvRnlSLK"
-      },
-      "artists": [
-        {
-          "name": "Jaws of Love.",
-          "url": "https://open.spotify.com/artist/165BHXMlW522HMz0sLhGtq"
-        }
-      ],
-      "duration_ms": 246101,
-      "name": "Giving Up Is Not The Easiest Way Out",
-      "url": "https://open.spotify.com/track/2hu4tx7VeoED1HN6Lo2ods"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Chasing After Shadows... Living With the Ghosts (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Trf9tr74LtVRBRqAJjnxS"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 462053,
-      "name": "Andalusia",
-      "url": "https://open.spotify.com/track/75LdAXSmYSJkS2aVYBxxDW"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "It's Alright / Save Me",
-        "url": "https://open.spotify.com/album/59yTGmtPBLnDKUzf9IwXXJ"
-      },
-      "artists": [
-        {
-          "name": "Majik",
-          "url": "https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9"
-        }
-      ],
-      "duration_ms": 249399,
-      "name": "Save Me - Skeleton Mix",
-      "url": "https://open.spotify.com/track/2AIYNJI5UGR5MjTEIBmX0D"
-    },
-    {
-      "added_at": "2020-10-15 20:31:18",
-      "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/3n0ogVb3Xhcq8Eti4FMuhd"
-      },
-      "artists": [
-        {
-          "name": "Jack Grace",
-          "url": "https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB"
-        }
-      ],
-      "duration_ms": 231244,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/4v2arxXvuXLADytu38vSwz"
-    },
-    {
-      "added_at": "2019-11-08 08:01:00",
-      "album": {
-        "name": "A Comforting Fact",
-        "url": "https://open.spotify.com/album/4wP6C0ZAL1TiMFPrUVxEI3"
-      },
-      "artists": [
-        {
-          "name": "Nearly Oratorio",
-          "url": "https://open.spotify.com/artist/30daoc0SCzQpNd6ZWjaoZi"
-        }
-      ],
-      "duration_ms": 259123,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/2hydT7CjDeOfmzEQMwVKxo"
     }
   ],
   "unique_name": "Peaceful Indie Ambient",

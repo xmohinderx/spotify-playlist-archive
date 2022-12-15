@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: 102 Boyz
 
-532 songs - 1 day 1 hr 46 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+533 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,7 +506,8 @@
 | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-09-22 | 2022-10-08 |
 | [We Are The People \- Southstar Remix](https://open.spotify.com/track/2e9GFQn2nNXTbnTl02U7YJ) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Matrix](https://open.spotify.com/album/68KqgAtY2T2J0jJS5hyCv9) | 3:58 | 2022-08-11 | 2022-11-02 |
 | [we are the people tekkno](https://open.spotify.com/track/3gINWpBZCz4kBNF4sWTWqw) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/1fhroOApt0VfVEP7NCYOsn) | 3:50 | 2022-12-08 | 2022-12-11 |
-| [we are the people tekkno](https://open.spotify.com/track/4irFsXHJKcQs3szSD2GDlo) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/6YJvCTm0tziFeOreNxlJMq) | 3:50 | 2022-12-08 |  |
+| [we are the people tekkno](https://open.spotify.com/track/4irFsXHJKcQs3szSD2GDlo) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/6YJvCTm0tziFeOreNxlJMq) | 3:50 | 2022-12-08 | 2022-12-15 |
+| [we are the people tekkno](https://open.spotify.com/track/1hssEGVsUD0OKVEeGMQMFG) | [THE TEKKNO MAN](https://open.spotify.com/artist/683bTfXC9teIb3VtPKncCG) | [we are the people tekkno](https://open.spotify.com/album/5q2CDkRLsIyajM0pR5fzeX) | 3:50 | 2022-12-13 |  |
 | [We could have been so good together](https://open.spotify.com/track/4sxDA8NwmjV3sPfusOPIf6) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [We could have been so good together](https://open.spotify.com/album/0diS1N6ocYhy7f5RwzuOwe) | 4:58 | 2022-06-09 |  |
 | [We Found Love](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:35 | 2022-06-23 | 2022-07-22 |
 | [We Made It](https://open.spotify.com/track/5IQvs70wHdurk63TnCV6ZP) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [We Made It](https://open.spotify.com/album/2jLe7prEEx98NNGjyWrYAh) | 3:31 | 2022-06-09 | 2022-07-29 |

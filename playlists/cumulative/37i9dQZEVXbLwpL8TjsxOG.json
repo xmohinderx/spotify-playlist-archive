@@ -1521,7 +1521,7 @@
       },
       "artists": [
         {
-          "name": "Utada Hikaru",
+          "name": "Hikaru Utada",
           "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
@@ -5035,7 +5035,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -5693,7 +5693,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 259308,
       "name": "\u4e00\u8868\u4eba\u624d",
       "url": "https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz"
@@ -6447,6 +6447,24 @@
       "duration_ms": 138672,
       "name": "\u53ea\u6536\u4e00\u534a",
       "url": "https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt"
+    },
+    {
+      "album": {
+        "name": "\u540c\u5c45\u964c\u751f\u4eba (ViuTV\u5287\u96c6: \u767e\u842c\u540c\u5c45\u8a08\u5283\u6b4c\u66f2)",
+        "url": "https://open.spotify.com/album/3EU37B6hp38S984Nxu0iFT"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185485,
+      "name": "\u540c\u5c45\u964c\u751f\u4eba (ViuTV\u5287\u96c6: \u767e\u842c\u540c\u5c45\u8a08\u5283\u6b4c\u66f2)",
+      "url": "https://open.spotify.com/track/5L3pDOYct21zjioooK0IqX"
     },
     {
       "album": {
@@ -7753,7 +7771,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 225257,
       "name": "\u6c61\u7cdf\u5152",
       "url": "https://open.spotify.com/track/2W9MxlcyMWmeHgZNnCSosb"

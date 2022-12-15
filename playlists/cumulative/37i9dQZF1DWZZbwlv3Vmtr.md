@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-658 songs - 1 day 1 hr 40 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+660 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2022-10-14 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-15 |  |
 | [Hot Stones](https://open.spotify.com/track/13LZg3VSWy7YWnaBOhPmMo) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/13hvjH0sRnYLVJRAUC1z2z) | 1:45 | 2022-11-11 | 2022-11-25 |
-| [Hot Stones](https://open.spotify.com/track/2022877RqBEPVfODofVbbN) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi) | 1:45 | 2022-11-11 |  |
+| [Hot Stones](https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1) | 1:45 | 2022-12-09 |  |
+| [Hot Stones](https://open.spotify.com/track/2022877RqBEPVfODofVbbN) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi) | 1:45 | 2022-11-11 | 2022-12-15 |
 | [Hustler's Courage](https://open.spotify.com/track/3MOlfHny79AeRL5z2GRN2b) | [Calvin TDC](https://open.spotify.com/artist/2NOFqkaFBqJknsnxnlXdbM) | [Hustler's Courage](https://open.spotify.com/album/3uejTrt5AwvLTXER4bYwbV) | 2:11 | 2022-07-29 | 2022-08-12 |
 | [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 | 2022-06-03 | 2022-11-21 |
 | [Hydration](https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Hydration](https://open.spotify.com/album/5t9uEMj1slT2hIoeIyBykx) | 2:13 | 2022-11-11 | 2022-12-10 |
@@ -524,7 +525,8 @@
 | [Square Pusher](https://open.spotify.com/track/5ky4WPvi6mxjRpoW0CNFxV) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:51 | 2022-04-15 | 2022-06-10 |
 | [Stagnant](https://open.spotify.com/track/1tr7DYuOJfmscDtKvCmaWa) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Glass Haus](https://open.spotify.com/album/6BAtqPkVlnt0kvwSDFBDpT) | 2:14 | 2022-04-15 |  |
 | [Star Guard](https://open.spotify.com/track/4hvl1Ohh3qtWrAII44iohS) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB) | [Star Guard](https://open.spotify.com/album/2HQ6vnGgb5yhj0poekpahW) | 1:48 | 2022-05-27 | 2022-11-20 |
-| [Star Guard](https://open.spotify.com/track/032qJaBqhCnu91uv5CrI9F) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB) | [Star Guard](https://open.spotify.com/album/2cf3QBUSta0629BNlOvDYG) | 1:48 | 2022-11-11 |  |
+| [Star Guard](https://open.spotify.com/track/65j5nUIrMp1b0hE0y2hyN8) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB) | [Star Guard](https://open.spotify.com/album/7v4q39gP6Pj0PDXzlMd0a3) | 1:48 | 2022-12-09 |  |
+| [Star Guard](https://open.spotify.com/track/032qJaBqhCnu91uv5CrI9F) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB) | [Star Guard](https://open.spotify.com/album/2cf3QBUSta0629BNlOvDYG) | 1:48 | 2022-11-11 | 2022-12-15 |
 | [Staying Inside Tonight](https://open.spotify.com/track/5Wkh4tytIpCave04bDIr58) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:09 | 2022-04-15 | 2022-07-08 |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-04-15 | 2022-04-22 |
 | [Stickwithit](https://open.spotify.com/track/4oHP5Y5kJXrnNPh6M7iMsn) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Stickwithit](https://open.spotify.com/album/5HfJlErhpKw5scselQANe3) | 2:48 | 2022-04-15 |  |

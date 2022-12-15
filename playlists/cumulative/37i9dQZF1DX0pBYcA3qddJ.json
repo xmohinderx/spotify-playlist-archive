@@ -28,6 +28,24 @@
     },
     {
       "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+    },
+    {
+      "album": {
         "name": "The Senses ~\u30d6\u30e9\u30fc\u30e0\u30b9\u4f5c\u54c1\u96c6~",
         "url": "https://open.spotify.com/album/6jzkU53ekMACSGDqIO8eov"
       },
@@ -335,7 +353,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 132235,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
@@ -630,6 +648,24 @@
     },
     {
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Cherry-coloured Funk",
+      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
+    },
+    {
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -693,6 +729,24 @@
       "duration_ms": 326000,
       "name": "Chopin: \u524d\u594f\u66f2 \u7b2c15\u756a \u5909\u30cb\u9577\u8abf \u4f5c\u54c128\u306e15\u300a\u96e8\u3060\u308c\u300b",
       "url": "https://open.spotify.com/track/1yfbcB4ZzZtkCnAAzzpqTA"
+    },
+    {
+      "album": {
+        "name": "Peripheral Vision",
+        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
+      },
+      "artists": [
+        {
+          "name": "Turnover",
+          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195984,
+      "name": "Cutting My Fingers Off",
+      "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
     },
     {
       "album": {
@@ -1272,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
+    },
+    {
+      "album": {
         "name": "Black Radio 2 (Deluxe)",
         "url": "https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX"
       },
@@ -1385,7 +1457,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 147229,
       "name": "It\u2019s Your Own Body And Mind",
       "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
@@ -1878,6 +1950,28 @@
     },
     {
       "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nick Murphy",
+          "url": "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448983,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ"
+    },
+    {
+      "album": {
         "name": "Nocturnes op.3",
         "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
       },
@@ -2065,7 +2159,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 140266,
       "name": "Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto - Recorded 2021-2",
       "url": "https://open.spotify.com/track/2LNs7mkKPbvwKO3qGuK2oD"
@@ -2767,7 +2861,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 182108,
       "name": "The Girl with the Flaxen Hair",
       "url": "https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux"
@@ -2803,7 +2897,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 189166,
       "name": "TO BE LOVED",
       "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"

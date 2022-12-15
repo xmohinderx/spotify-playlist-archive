@@ -4,7 +4,7 @@
 
 > Party on with these top children's tracks!
 
-114 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/35J8tx9xvVM0O8oKcmw2vk)
+115 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/35J8tx9xvVM0O8oKcmw2vk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Nonstop](https://open.spotify.com/track/7M0S9UOrhrWM0Ce7Tkl8QT) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/6b9STxR1fsmemwH0C2DlIH) | 2:20 | 2021-12-01 | 2022-12-01 |
 | [One Little Finger](https://open.spotify.com/track/6pWVgkIwrj0hVr2oBMmqZd) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Classroom Songs](https://open.spotify.com/album/4wUGqDapWvRgKwTcj1Cwn6) | 2:13 | 2022-11-30 |  |
 | [One Tribe](https://open.spotify.com/track/0ZzcIDCRQLEhdkpZ3sRtfP) | [1 Tribe Collective](https://open.spotify.com/artist/16kRGICZQiz5QqArmWwN1p) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:47 | 2021-12-01 | 2022-12-01 |
-| [Party All 'Round the World](https://open.spotify.com/track/1OHu4U4aop2X8QnBbB6NFL) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Fierce](https://open.spotify.com/album/5rXQVjNnaz0HnrI70g1UWt) | 2:41 | 2022-11-30 |  |
+| [Party All 'Round the World](https://open.spotify.com/track/1OHu4U4aop2X8QnBbB6NFL) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Fierce](https://open.spotify.com/album/5rXQVjNnaz0HnrI70g1UWt) | 2:41 | 2022-11-30 | 2022-12-15 |
+| [Party All 'Round the World](https://open.spotify.com/track/5EX4JVN6fD21ckW3ed0WKc) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Fierce](https://open.spotify.com/album/1bO0wTjjrJKMb8vODa2AtD) | 2:41 | 2022-11-30 |  |
 | [PAW Patrol Opening Theme](https://open.spotify.com/track/1yWYXhJCbiWHH9bLcG1ptK) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/4Ek0vdwc5JXCH0WgVedHvp) | 0:40 | 2021-12-01 | 2022-12-01 |
 | [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 | 2021-12-01 | 2022-11-29 |
 | [PAW Patrol Opening Theme](https://open.spotify.com/track/6J5tBYqpU2amNkTkIPHCHE) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1) | 0:40 | 2021-12-01 |  |

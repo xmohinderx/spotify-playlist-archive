@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-50 songs - 2 hr 41 min - not published yet
+51 songs - 2 hr 44 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,10 +48,11 @@
 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 | 2022-12-05 |  |
 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 | 2022-12-05 |  |
 | [Running up That Hill](https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Running up That Hill](https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS) | 3:43 | 2022-12-05 |  |
+| [Shirt Off & Twist It](https://open.spotify.com/track/0G3wGKSz3Anx87GsRh0xJu) | [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Shirt Off & Twist It](https://open.spotify.com/album/2vPItAIuH8LxOlkxmbXMVo) | 2:45 | 2022-12-14 |  |
 | [Silence \- Brennan Heart Remix](https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Silence \(feat\. Sarah McLachlan\) \[Brennan Heart Remix\]](https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr) | 4:23 | 2022-12-05 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 | 2022-12-05 |  |
 | [Stereo Love \- Timmy Trumpet Remix](https://open.spotify.com/track/5dBvUkplYBBBb3sJ2VORQy) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Stereo Love \(Timmy Trumpet Remix\)](https://open.spotify.com/album/55h8R7IM7uL5IvHYoWDpKo) | 3:14 | 2022-12-05 |  |
-| [Summer Of '69 \- Happy Høken Remix](https://open.spotify.com/track/16lPRTSin20Ifp9oXYzKFu) | [Beatcrooks](https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b) | [Speel Niet Met M'n Voeten](https://open.spotify.com/album/23ZZXD0Pf40J7I4fZW1pQY) | 2:57 | 2022-12-05 |  |
+| [Summer Of '69 \- Happy Høken Remix](https://open.spotify.com/track/16lPRTSin20Ifp9oXYzKFu) | [Beatcrooks](https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b) | [Speel Niet Met M'n Voeten](https://open.spotify.com/album/23ZZXD0Pf40J7I4fZW1pQY) | 2:57 | 2022-12-05 | 2022-12-15 |
 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 | 2022-12-05 |  |
 | [Sweet Caroline](https://open.spotify.com/track/4x2onqROU58WR516xPqqWO) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:30 | 2022-12-06 |  |
 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 | 2022-12-05 |  |

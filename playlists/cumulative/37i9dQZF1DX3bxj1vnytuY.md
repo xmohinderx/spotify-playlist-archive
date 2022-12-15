@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-148 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+149 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 | 2022-05-20 |  |
 | [Mykonos](https://open.spotify.com/track/6xM5J6zi05edZeo06y524g) | [Fantasi](https://open.spotify.com/artist/3hA7JQHjqkT82wssjqG3uK), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF) | [Mykonos](https://open.spotify.com/album/1suGVIujM6SWlo0HktXH23) | 3:46 | 2022-11-10 |  |
 | [Nabad](https://open.spotify.com/track/7wEmAzcAIKXhS1JnKP81Pe) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Helem](https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig) | 6:26 | 2022-04-13 |  |
+| [Neko \(feat Kotoe\)](https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f), [Kotoe](https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM) | [Neko Ep](https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip) | 4:33 | 2022-12-14 |  |
 | [Nemrut \- Edit](https://open.spotify.com/track/3yYRlfWjWcJReYTAT54I7o) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Nemrut \(Edit\)](https://open.spotify.com/album/59DIyGYgWwT6vo7eSeaae3) | 6:30 | 2022-04-13 |  |
 | [Nene Man Ni](https://open.spotify.com/track/7m4bWgzzK8DYLZBjHAIGVv) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU) | [Nene Man Ni](https://open.spotify.com/album/3mi4Ul9CePML6MxVBP7TAY) | 6:58 | 2022-12-06 |  |
 | [Obbatala](https://open.spotify.com/track/4kDHcLLfnC8Zj0gbCGUwAX) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Da Le \(Havana\)](https://open.spotify.com/artist/0Ls9PL0afEyfXXY1XDdQP2) | [Obbatala](https://open.spotify.com/album/1DI9vExiR85U1srTsof7O0) | 6:52 | 2022-12-12 |  |

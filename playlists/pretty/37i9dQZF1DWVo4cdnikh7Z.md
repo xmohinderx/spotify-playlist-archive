@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Thunivu
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,301 likes - 88 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,030 likes - 88 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 11 | [Anjanathi](https://open.spotify.com/track/19QLViDt5SUT3PFTB2ErMv) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [K\. G\. Ranjith](https://open.spotify.com/artist/3ViEne9GZK3Q1A6Mw5uktS), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm) | [Pattathu Arasan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2IBkciBEY2GmBbDqsXH9g0) | 4:12 |
 | 12 | [Nalla Irumaa \(From "DSP"\)](https://open.spotify.com/track/0JwMT9HTLxoHvmUah7BMGT) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Senthil Ganesh](https://open.spotify.com/artist/5r2as9TFFeuCfRL71BUkTA), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP), [Vijay Muthupandi](https://open.spotify.com/artist/4IJfevJjFBOHeYCA6dJbh6), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Nalla Irumaa \(From "DSP"\)](https://open.spotify.com/album/0WseWQ9FB9yjuGBNSDkw88) | 4:13 |
 | 13 | [Ennai Vittu \- Yuvanshankar Raja Version](https://open.spotify.com/track/1iAtPaOSqv78DP4pvJWxTs) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 3:51 |
-| 14 | [Tharattu](https://open.spotify.com/track/0pH00Dn4YtMalzVwtOXntB) | [Manikandan Ayyappa](https://open.spotify.com/artist/0DBXdapluRDfEm5NP4USwN) | [Tharattu \(From "Kumari"\)](https://open.spotify.com/album/4jTjSqo6V1kdSQOI8ouQAW) | 1:50 |
+| 14 | [Tharattu \(From "Kumari"\)](https://open.spotify.com/track/7k87s5AhF97wRn3PCbxOQ4) | [Manikandan Ayyappa](https://open.spotify.com/artist/0DBXdapluRDfEm5NP4USwN), [Jyothish Kassi](https://open.spotify.com/artist/2KympZXpUQGGKB9V0U5ZCg) | [Tharattu \(From "Kumari"\) \- Single](https://open.spotify.com/album/3TJkrT5NAFHCV0uCxLl30g) | 1:50 |
 | 15 | [Decent Aana Aalu \- From "Naai Sekar Returns"](https://open.spotify.com/track/4dsh4Jkqiy1n2F38rPs0VS) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vaigaipuyal Vadivelu](https://open.spotify.com/artist/0KRF4VuSjVHpIhaxRk0TZa), [Durai](https://open.spotify.com/artist/4JczPNG9WBzHsuxs6X4qF0) | [Decent Aana Aalu \(From "Naai Sekar Returns"\)](https://open.spotify.com/album/1b2JmSzxXryt3T6gY6nPuF) | 2:36 |
 | 16 | [Manidha Manidha](https://open.spotify.com/track/7oxASfqeW0w85LAIV3Mimn) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp) | [Sasanasabha \(Tamil\)](https://open.spotify.com/album/4VS5UD7JUwIU4bkumaLs32) | 3:57 |
 | 17 | [Manja Sela Ketti Vandha \- From "Kaadhal"](https://open.spotify.com/track/1MLcMEMPr85GkP8HktyUgX) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis), [Justin Lokesh](https://open.spotify.com/artist/0wGQCg2v8rDQOF6eHxwgUl), [Swathy Santhosh](https://open.spotify.com/artist/6TSl34vxXO6m886KP7oIKa) | [Manja Sela Ketti Vandha \(From "Kaadhal"\)](https://open.spotify.com/album/0irzk3r08W2YfB5SLjsHCT) | 4:11 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 87 | [Otha Thamarai \- Original Soundtrack](https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR) | [Bala](https://open.spotify.com/artist/2KGwmllYQr2BgxTkdOH5wt), [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Sandy Sandellow](https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv) | [Otha Thamarai \(Original Soundtrack\)](https://open.spotify.com/album/6sdalaw3mTPzUomDNnWjeN) | 3:39 |
 | 88 | [Jalabulajangu](https://open.spotify.com/track/4lS1ldfypKYEwKqbu3a04x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 3:22 |
 
-Snapshot ID: `MTY3MDkzMjAyMSwwMDAwMDAwMGNhNDE1NTAyZDJmODlmNGEzNTllOTUyYjQyNjdhNTNj`
+Snapshot ID: `MTY3MDkzMjAyMSwwMDAwMDAwMDliYzY1M2Q4NzRlZmMzNzliMjcwMTVlMjU4MjBhZGY0`

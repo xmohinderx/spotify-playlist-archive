@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-289 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
+290 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [prism](https://open.spotify.com/track/7x6LbHwFGwyQahnp7xG53y) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [prism](https://open.spotify.com/album/7KCabudhTNECE5TfEBW9Gz) | 1:42 | 2022-10-14 |  |
 | [Promise Keeper](https://open.spotify.com/track/0C0zdDrUpv78MocEzCHEig) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq), [Joseph Newton](https://open.spotify.com/artist/4sortLWQS0SQiIvkRnHWQq) | [Promise Keeper](https://open.spotify.com/album/540CmBpmGhDyiNEoyhzn87) | 1:54 | 2022-09-09 | 2022-12-09 |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2022-09-09 |  |
-| [Purple Sky](https://open.spotify.com/track/1vSGmKm49xTrc4nzhkQ5Oa) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/6svxvqUaD5PKTQvjD303T7) | 2:07 | 2022-11-18 |  |
+| [Purple Sky](https://open.spotify.com/track/0KJV4g3S5w1T7fqsyDrGJz) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/4jUHN7x4JwSVQnxlz29LNl) | 2:07 | 2022-12-09 |  |
+| [Purple Sky](https://open.spotify.com/track/1vSGmKm49xTrc4nzhkQ5Oa) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/6svxvqUaD5PKTQvjD303T7) | 2:07 | 2022-11-18 | 2022-12-15 |
 | [Purple Sky](https://open.spotify.com/track/4MjQ2ViBJketrS9Ub3MRpA) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/39RqaB9nZz8zZ1qGrEBJmU) | 2:07 | 2022-09-30 | 2022-11-20 |
 | [Rain In July](https://open.spotify.com/track/4oHehRJn9BcMDsRb6Hhkax) | [Lunaco](https://open.spotify.com/artist/1ExbHTwjAHCB0JBa5Jk7VK), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Rain In July](https://open.spotify.com/album/3Dkz1hyD9TJtM2Rki0LyVd) | 2:34 | 2022-11-18 |  |
 | [Rain Reverie](https://open.spotify.com/track/5A3eMTARV2hVzgCNS47CZl) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Breathing Space](https://open.spotify.com/album/3X9TTMLkGioGksEZkWNMd5) | 2:08 | 2022-11-18 |  |

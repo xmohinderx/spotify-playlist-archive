@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 
 > Degusta de lo más delicioso para cenar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,588 likes - 200 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,584 likes - 200 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

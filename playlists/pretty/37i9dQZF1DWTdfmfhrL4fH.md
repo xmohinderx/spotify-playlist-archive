@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdfmfhrL4fH.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,646 likes - 200 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,747 likes - 200 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdfmfhrL4fH.md) - [plain]
 | 183 | [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 |
 | 184 | [Move Your Body](https://open.spotify.com/track/29JkmIEHcUg0R4BQ8o4PmJ) | [My Darkest Days](https://open.spotify.com/artist/64g59lHsc4g2jMFokrKDGW) | [My Darkest Days](https://open.spotify.com/album/2vFTIDhi10W1AdzL6GKpgO) | 3:13 |
 | 185 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
-| 186 | [Let It Burn](https://open.spotify.com/track/6FlCPO7Z0QGgwtIL8ocZzY) | [Red](https://open.spotify.com/artist/1I6NXqNRc80qu8vz7vxikU) | [Until We Have Faces](https://open.spotify.com/album/3mCFgW3TWFsRTD1Kc1yEtO) | 4:57 |
+| 186 | [Let It Burn](https://open.spotify.com/track/6FlCPO7Z0QGgwtIL8ocZzY) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Until We Have Faces](https://open.spotify.com/album/3mCFgW3TWFsRTD1Kc1yEtO) | 4:57 |
 | 187 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 |
 | 188 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 |
 | 189 | [White Trash Millionaire](https://open.spotify.com/track/3UWYmWg9j8KVV08ANBqcLB) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:18 |
